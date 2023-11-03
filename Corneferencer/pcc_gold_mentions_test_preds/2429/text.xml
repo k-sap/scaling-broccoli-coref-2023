@@ -1,0 +1,16 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">- Nie wprowadzaliśmy żadnego podziału na większe i mniejsze miasta - powiedział nam Aleksander Sawicki, dyrektor marketingu i sprzedaży Multimedia. - Użytkownicy pełnego pakietu będą mieli dostęp do Polsat Sport, ci, którzy mają tańsze abonamenty, będą je mogli jeszcze przed mistrzostwami zmienić na nieco droższe i w ten sposób znacznie poszerzyć liczbę odbieranych programów, dołączając do nich również Polsat Sport. To kwestia kilkunastu złotych.</p>
+        <p xml:id="p-2">Jest tylko jeden szkopuł - Multimedia docierają do domów w Gdyni, Malborku, Kwidzynie, Nowym Dworze Gdańskim, Sztumie, Prabutach i Dzierzgoniu, ale nie działają w Gdańsku i Sopocie. Tu dominuje UPC.</p>
+        <p xml:id="p-3">- Kiedy przeczytałem w prasie informacje o zagrywce UPC, krew się we mnie wzburzyła - mówi jeden z naszych Czytelników. - Od dłuższego czasu regularnie płacę tej firmie abonament za kablówkę i nie wiem, dlaczego traktuje się nas gorzej niż tych z Warszawy i Krakowa.</p>
+        <p xml:id="p-4">Takich telefonów w naszej redakcji odebraliśmy w ostatnich dniach dziesiątki.</p>
+        <p xml:id="p-5">Jeżeli UPC nie zmieni swojej decyzji, większość mieszkańców Trójmiasta będzie więc skazana na oglądanie fascynujących meczów Argentyny, Francji czy Włoch „gościnnie” u szczęśliwców, którzy mają dekodery Polsatu, w pubach albo w pracy, jeżeli oczywiście pracodawca wykupił dekoder i pozwoli na przerwę w obowiązkach. Alternatywą pozostają powtórki meczów w ogólnodostępnym kanale Polsat i TV4 oraz w TVP. To jednak zdecydowanie nie te same emocje co oglądanie spotkań transmitowanych „na żywo”, zwłaszcza, że mistrzostwa świata odbywają się co cztery lata i są prawdziwym świętem dla miłośników futbolu. (wrób)</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

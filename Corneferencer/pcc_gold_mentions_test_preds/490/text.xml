@@ -1,0 +1,33 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">sp2: absolutnie nie fer. nie fer.</p>
+        <p xml:id="p-2">sp0: no tata też nie siwiał.</p>
+        <p xml:id="p-3">sp1: no bardzo długo. ja też pamiętam że tatuś miał takie właśnie bo Boguś i Krzysiu ma po tatusiu takie włosy. tak dlugo właściwie żadnych siwych włosów.</p>
+        <p xml:id="p-4">sp0: no zaczął siwieć to no już dobrze był po sześćdziesiątce. siedemdziesiątka już chyba to zaczął siwiec. z tym że oni jeszcze do tego mają gęste bo tacie zaczęły tam. na.</p>
+        <p xml:id="p-5">sp1: o tam ! chciałabym powiedzieć że bardzo bym chciala żaby właśnie mieć takie włosy jak tatuś.</p>
+        <p xml:id="p-6">sp0: aj ! wojtek dzwonił.</p>
+        <p xml:id="p-7">sp1: tak ?</p>
+        <p xml:id="p-8">sp0: no. wiem ile dostaje w zakładzie pieniędzy i wiem ile dostaje.</p>
+        <p xml:id="p-9">sp1: i na rękę ?</p>
+        <p xml:id="p-10">sp0: na rękę osiemset tam osiemdziesiąt chyba euro. bo dostaje tam sto z czymś. tysiąc z czymś a osiemset tam osiemdziesiąt.</p>
+        <p xml:id="p-11">sp3: ważne co na rękę dostaje.</p>
+        <p xml:id="p-12">sp0: no więc tak. i trzysta dostaje tam że z tego. sp1: stypendium.</p>
+        <p xml:id="p-13">sp0: to nie jest stypendium.</p>
+        <p xml:id="p-14">sp3: jest to stupendium. to jest stypendium. nazywa się erazmus ale to jest stypendium.</p>
+        <p xml:id="p-15">sp0: no więc to dostaje.</p>
+        <p xml:id="p-16">sp3: zostało ci tam coś jeszcze tych paznokci ?</p>
+        <p xml:id="p-17">sp0: a to dlaczego ?</p>
+        <p xml:id="p-18">sp1: bo obgryza ciągle.</p>
+        <p xml:id="p-19">sp0: coż naklej. no widzisz jak ja jej.</p>
+        <p xml:id="p-20">sp2: naklejałam. nie działa.</p>
+        <p xml:id="p-21">sp0: nie działa ? ale ja myślałam że już tamte tylko buś obgryzała. te co Ania sobie nakleja takie długie.</p>
+        <p xml:id="p-22">sp2: miałam. miałam. miałam. właśnie ostatnio mi. bo te tipsy bardzo niszczą paznokcie. i ja właśnie doszłam do wniosku że ostatnio właśnie już mi całe paznokcie odrosły już nawet już nie mam takiej strasznie zniszczonej płytki po tych paznokciach. także i tak już jest nie źle.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

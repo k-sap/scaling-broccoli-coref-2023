@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Gabinety bez lekarzy Jeden lekarz "na dochodne" i niecałe sześć pielęgniarek (tylko pięć i pół etatu) na 7 tysięcy uczniów - tak w zgierskich szkołach wygląda opieka medyczna. Innej nie będzie, bo medycyna szkolna jest na szarym końcu długiej listy potrzeb. Lekarz i pielęgniarki objechać muszą w tygodniu 17 miejskich szkół. Tylko dwa razy w tygodniu pielęgniarka jest w szkolnym gabinecie lekarskim przez 8 godzin. - Standardy szkolnej medycyny mówią o 800 uczniach przypadających na jedną pielęgniarkę. W Zgierzu przypada na każdą z nas aż 1300 dzieciaków - mówi Aleksandra Kwaśniewska, koordynująca w Zgierzu pracę szkolnych pielęgniarek. - Cały czas dużo się mówi o konieczności powrotu pielęgniarek do szkół i na tym praktycznie się kończy</p>
+        <p xml:id="p-2">Narodowy Fundusz Zdrowia w kontraktach przeznacza tylko 15 zł na opiekę nad jednym uczniem na rok. Pieniędzy starcza więc tylko na te pięć i pół etatu pielęgniarskiego i pół etatu lekarskiego. Żeby opieka była na stałe, samorządy powinny dołożyć trochę pieniędzy z własnych budżetów. Jednak i one nie mają, więc jest jak jest</p>
+        <p xml:id="p-3">W szkołach specjalnych na 200 podopiecznych przynajmniej jedna pielęgniarka powinna być zatrudniona na stałe. W Zgierzu jest jedna, ale dochodząca raz w tygodniu. W szkole liczą, że może starostwo dołoży parę groszy i w ten sposób uda się zatrudnić pielęgniarkę na stałe</p>
+        <p xml:id="p-4">Klucz od gabinetu lekarskiego wisi w każdej ze szkół zawsze w pokoju nauczycielskim. Dostęp do podstawowych leków nie wymaga specjalnej zgody, tym bardziej że to właśnie na szkoły spada obowiązek zaopatrywania w leki własnych gabinetów. W razie potrzeby nauczyciele wuefu sami zakładają opatrunki na skaleczone miejsca albo podają krople żołądkowe lub leki przeciwbólowe. W ciężkich przypadkach wzywa się pogotowie. Jednak nauczyciel, nawet po przeszkoleniu w ramach pierwszej pomocy, nie zaszczepi dziecka. Musi to zrobić pielęgniarka i to w obecności lekarza</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

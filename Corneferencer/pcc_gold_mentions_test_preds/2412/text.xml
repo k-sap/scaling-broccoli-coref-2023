@@ -1,0 +1,14 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Jednym z filmów, jakie wyświetlane są dzisiaj w elbląskim Multikinie, jest „Job, czyli ostatnia szara komórka” — polska komedia w reż. Konrada Niewolskiego. Jest to opowieść o trzech serdecznych kumplach, pomysłowych nieudacznikach: Adim, Pelem (niegdyś zapalonym piłkarzu) i Chemiku (który to w dzieciństwie wzniecił pożar w domu zaraz po tym, jak otworzył swój bożonarodzeniowy prezent — zestaw „Mały Chemik”). Adi traci pracę w salonie RTV AGD, a Pele w budce z chińską żywnością. Chemik natomiast wszczyna wojnę z sąsiadką o hałaśliwego psa. Żaden z nich nie chce się poddać, chociaż pech, nadgorliwość i nadmiar marihuany oraz sam Krzysztof Ibisz nie ułatwią im zadania. Seanse rozpoczynają się o godz. 12.15, 16.45, 19 i 21.15.</p>
+        <p xml:id="p-2">Z kolei jutro o godz. 12 w Multikinie odbędzie się kolejny seans z cyklu „Multibabykino”. Przypomnijmy, iż mamy przebywające na urlopach macierzyńskich mogą tu oglądać nowości kinowe wraz ze swoimi najmniejszymi pociechami. Każda mama ma do dyspozycji dwa wygodne fotele, a przy mniejszej frekwencji nawet trzy. Tym razem pokazany zostanie „Dobry rok” — amerykański dramat w reż. Ridleya Scotta. Bilet na seanse z cyklu „Multibabykino” kosztuje tylko 10 zł za 2-3 fotele. Dla dzieci do 1 roku życia bilety są darmowe.</p>
+        <p xml:id="p-3">Tymczasem już w czwartek o godz. 19 na wielkim ekranie w Multikinie zaprezentowany zostanie koncert zespołu U2 zatytułowany „Zoo TV Live from Sydney”. Elbląscy widzowie będą mieli okazję zobaczyć długo oczekiwany, wydany na DVD, koncert nakręcony podczas trasy Zoo TV, która odbyła się w 1993 roku. Został on zarejestrowany w Sydney Football Stadium, a wyreżyserował go David Mallet. Bilety do nabycia w kasach Multikina.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

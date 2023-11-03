@@ -1,0 +1,16 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">sp0: no i generalnie. jak już były takie ostre chamskie wrzuty to Andrzej coś tam napisał żebyśmy się cieszyli że są święta i przestali w ogóle wiesz taka lipę robić no i generalnie tak na tym forum się zrobiło że. zostało przegłosowane na jedno kolokwium bo powstała lista osób które były na jedno kolokwium. Andrzej w ogóle jak zdawał relację z tego jak gadał z babką to powiedział że dała mu do zrozumienia że jedno koło by lepsze było tudzież że do zaakceptowania no jakoś tak to napisał tak że faktycznie wiedziałam że ona tak mogła powiedzieć jak patrzę na jej w ogóle całe zachowanie. potem oczywiście Marta która też. napisała do babki mejla że Andrzej wypisuje na forum że ona jest za jednym kołem że w ogóle coś tam coś tam no więc babka w ogóle czemu Andrzej zmienia jej słowa i tak dalej nie więc babka zaczęła i tak to zostało przedstawione wiesz przedstawione tej babce przez Martę właśnie że Andrzej tutaj sobie zmienił i tak dalej i że w ogóle sobie przekręcił. i że w ogóle ona przekręciła dopiero to co Andrzej powiedział nie. no ale to jest już nieistotne. no i jeszcze było o czym tam. no i w ogóle były wrzuty straszne na Andrzeja że jest debilem że jest głupkiem że wreszcie się pokazał</p>
+        <p xml:id="p-2">sp1: do tej pani ?</p>
+        <p xml:id="p-3">sp0: nie na tym forum</p>
+        <p xml:id="p-4">sp1: w ogóle na tym forum yhym</p>
+        <p xml:id="p-5">sp0: mówię on taki jest trochę wiesz taki no on tak myśli bardzo schematycznie bym powiedziała nie jest jakiś tam otwarty</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

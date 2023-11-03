@@ -1,0 +1,14 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Rozdział szesnasty IMPERIALIZM BRYTYJSKI</p>
+        <p xml:id="p-2">Spośród wszystkich państw świata Wielka Brytania pierwsza wkroczyła w epokę imperializmu. Zjawisko to zupełnie zrozumiałe. Był to przecież kraj, który słusznie nazywano fabryką świata i bankiem świata. Ale w końcu XIXw. sytuacja Anglii uległa dużym zmianom. Z rąk angielskich zaczęło się wymykać przodownictwo w życiu gospodarczym naszego globu. W dziedzinie przemysłu i handlu wyrośli niebezpieczni konkurenci – Stany Zjednoczone i Niemcy. Przemysł angielski, opierający się na dawnych metodach produkcji, pracujący często maszynami starszego typu, nie mógł skutecznie konkurować z młodym przemysłem północnoamerykańskim czy niemieckim, korzystającym ze wszystkich nowych zdobyczy techniki, rozwijającym nowe gałęzie wytwórczości. Kupiec angielski, od dawna przyzwyczajony do swego dominującego, czasami nawet monopolistycznego stanowiska, nie zawsze umiał i nie zawsze chciał podjąć walkę konkurencyjną z zapobiegliwym, łatwo przystosowującym się do upodobań i życzeń nabywców, taniej sprzedającym kupcem niemieckim. Z końcem XIX w. Wielka Brytania utraciła zdecydowanie swe dotychczasowe monopolistyczne stanowisko w przemyśle i w handlu. Mówiono wówczas, że w niektórych gałęziach gospodarki Anglia znalazła się w położeniu fabrykanta, któremu właśnie wygasły patenty.</p>
+        <p xml:id="p-3">Anglicy próbowali się bronić. Od 1887 r. umieszczano na towarach obcego pochodzenia, sprzedawanych w Wielkiej Brytanii, znak fabryczny mający je od razu wyróżnić od towarów angielskich. Najwięcej używanym i najgłośniejszym z tych znaków był przysłowiowy Made in Germany – wyrób niemiecki. Wychodzono tu z założenia, że towar angielski znacznie przewyższa swą jakością wszelkie produkty zagraniczne, trzeba tylko, aby nabywca zawsze wiedział, co kupuje.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

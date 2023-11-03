@@ -1,0 +1,20 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Nieznajomość praw życia nie jest żadnym usprawiedliwieniem, ponieważ kiedy nawet ludzie nie zdają sobie sprawy z tego, iż posiadają moc, to prawa życia i tak są, działają one niezależnie od tego, czy się o nich wie, czy też nie.</p>
+        <p xml:id="p-2">Ci, którzy żyją w nieświadomości i tym samym nieświadomie posługują się swoją mocą, poprzez negatywne myślenie przyciągają do siebie biedę, niedostatek i brak pomyślności.</p>
+        <p xml:id="p-3">Ci, którzy poznają swoją moc, zaczynają ją stosować inteligentnie i świadomie, zapewniają sobie szczęście, pomyślność i miłość.</p>
+        <p xml:id="p-4">Prawa życia zawsze istniały, nikt ich nie wynalazł, możemy je tylko odkrywać - elektryczność istniała od zawsze, tylko my nie wiedzieliśmy, jak ją wykorzystać.</p>
+        <p xml:id="p-5">Twoim zadaniem jest uczyć się, odkrywać i stosować prawa życia - tylko w ten sposób jesteś w stanie osiągnąć wszystko, o czym marzysz.</p>
+        <p xml:id="p-6">Każdy z nas musi zastanowić się najpierw, kim chce być, co robić, do czego podążać, czego pragnąć - dopiero wtedy będziemy w stanie zapanować nad umysłem, który da nam wszystko to, czego pragniemy.</p>
+        <p xml:id="p-7">Jeśli chcesz zmienić świat zewnętrzny, czyli świat, w którym żyjesz, musisz dowiedzieć się, CZEGO PRAGNIESZ, a później zobaczyć to oczami wyobraźni.</p>
+        <p xml:id="p-8">Jeżeli będziesz bardzo często myślał o swoich pragnieniach, celach, do których dążysz - zostanie to "odciśnięte" w Twoim twórczym umyśle i będzie początkiem procesu tworzenia.</p>
+        <p xml:id="p-9">By zacząć zastanawiać się nad tym, czego pragniesz, nie potrzebujesz niczego.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

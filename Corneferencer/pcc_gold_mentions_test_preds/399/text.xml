@@ -1,0 +1,19 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Okresy zatrudnienia zakończone w ten sposób na terytorium innego Państwa Członkowskiego są uznawane dla celów nabycia uprawnień przewidzianych w lit. a) i b) tak, jakby były zakończone na terytorium państwa zamieszkania.</p>
+        <p xml:id="p-2">2. Warunków dotyczących okresu pobytu i zatrudnienia ustalonych w ust. 1 lit. a) i warunku okresu pobytu ustalonego w ust. 1 lit. b) nie stosuje się, jeśli współmałżonek pracownika jest obywatelem danego Państwa Członkowskiego lub utracił obywatelstwo tego państwa w wyniku zawarcia małżeństwa z tym pracownikiem.</p>
+        <p xml:id="p-3">1. Członkowie rodziny pracownika wymienieni w art. 1 niniejszego rozporządzenia, którzy zamieszkują wraz z nim na terytorium Państwa Członkowskiego, mają prawo do pozostania w nim na stałe, jeśli pracownik uzyskał prawo do pozostania zgodnie z art. 2, nawet po jego śmierci.</p>
+        <p xml:id="p-4">2. Jeśli jednak pracownik zmarł w okresie zatrudnienia, przed uzyskaniem prawa do pozostania na terytorium danego państwa, to członkowie jego rodziny mają prawo do pozostania w nim na stałe pod warunkiem, że:</p>
+        <p xml:id="p-5">- pracownik przebywał w momencie swojej śmierci na terytorium tego państwa nieprzerwanie od co najmniej dwóch lat lub</p>
+        <p xml:id="p-6">- jego śmierć była spowodowana wypadkiem przy pracy lub chorobą zawodową lub</p>
+        <p xml:id="p-7">- współmałżonek pozostały przy życiu jest obywatelem państwa miejsca zamieszkania lub utracił obywatelstwo tego państwa w wyniku zawarcia małżeństwa z tym pracownikiem.</p>
+        <p xml:id="p-8">1. Ciągłość pobytu przewidziana w art. 2 ust. 1 i art. 3 ust. 2 może być udokumentowana w sposób przyjęty w danym państwie zamieszkania. Na ciągłość tę nie mają wpływu czasowe nieobecności nie przekraczające łącznie trzech miesięcy w ciągu jednego roku ani nieobecności dłuższe wynikające z obowiązku odbywania służby wojskowej.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

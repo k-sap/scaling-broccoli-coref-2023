@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">zakopane</p>
+        <p xml:id="p-2">Anioł, Zagubiony wieczór, Widzenie Don Kichota I i II, Plony, Teatr I – to tylko kilka tytułów z wielu prac, jakie można oglądać w Galerii Strug, znajdującej się w Zespole Szkół Plastycznych im. Antoniego Kenara w Zakopanem. Uroczyście otwarto tu ekspozycję malarstwa nowotarżanki Anety Tworek, dla której jest to już 13. wystawa od ukończenia studiów w Instytucie Sztuki Akademii Pedagogicznej w Krakowie. – Niezwykle nam miło gościć Anetkę w murach naszej szkoły, która w taki oto sposób spłaca swój dług Kenarowi – mówił podczas wernisażu wicedyrektor szkoły Ireneusz Wrzesień. Nowotarżanka bowiem jest absolwentką zakopiańskiego Zespołu Szkół Plastycznych i to tutaj początkowo rozwijała swój talent. Od ukończenia tej szkoły minęło już 10 lat, nadarzyła się zatem świetna okazja, aby zaprezentować dorobek artystyczny malarki, która uprawia także fotografię, a pracuje – jako nauczyciel sztuki – w nowotarskim Gimnazjum nr 1. Na swoim koncie ma naprawdę spory dorobek artystyczny, w tym m.in. wystawy indywidualne w Nowym Targu, Rabce i Ustroniu, udział w wystawie w Międzynarodowych Festiwalach Działań Teatralnych i Plastycznych w Tczewie, udział w wystawie w Międzynarodowym Bienale Twórczości Nauczycieli w Tarnowie i w ramach Konfrontacji Artystycznych Sakrum w Sztuce w Wadowicach. – Malując lubię się na chwilę zapomnieć, a efekty tego zapomnienia możecie Państwo teraz sami obejrzeć – mówiła artystka podczas wernisażu podkreślając, że w jej obrazach każdy może dostrzec coś innego. I to jest prawda, bowiem tworzone przez nią dzieła to „Obrazy wyobraźni”. Zgromadzeni goście długo przyglądali się pracom nowotarżanki, podziwiając jej talent, sposób patrzenia na świat i styl malowania. Były życzenia, kwiaty, zdjęcia, poczęstunek i długie rozmowy z malarką. (pim)</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

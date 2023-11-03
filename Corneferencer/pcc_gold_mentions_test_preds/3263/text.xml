@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Dlaczego owa toksyna jest szczególnie widoczna wśród polityków wywodzących się z Solidarności? Dlaczego samo pojęcie "Solidarność" tak nośne społecznie i politycznie w latach osiemdziesiątych, dziś nie tylko straciło swoje dawne znaczenie, ale obróciło się w swoje przeciwieństwo: w partykularyzm interesów, w agresję (słowną, a niekiedy nawet fizyczną) wobec kiedyś najbliższych kolegów? "Zdrada", "Targowica", "udecja", "katolewica", "wyprzedaż Polski" z jednej strony, a z drugiej: "ciemnogród", "integryzm", "ksenofobia", "pazerność" to toksyczne epitety, którymi obrzucali się dawni założyciele i liderzy Solidarności na oczach coraz bardziej skonsternowanych zwolenników Sierpnia. Zamiast - jak chciał Tadeusz Mazowiecki - różnić się pięknie, Solidarność podzieliła się brzydko, w atmosferze małostkowych zawiści, wzajemnych podejrzeń o niskie pobudki, o agenturalność, chciwość i prywatę. W odbiorze społecznym "sympatyczna panna S." z lat osiemdziesiątych okazała się jędzą, która czasami groźnie wymachuje styliskami od kilofów, czasami rzuca śrubami i pali kukły swych własnych liderów, a słownictwo ma uliczne.</p>
+        <p xml:id="p-2">Nie ma już "sympatycznej panny S.", pod której urokiem byli i robotnicy, i intelektualiści pospołu. Opinia publiczna dostrzega jedynie bezpardonową walkę o władzę, wpływy i pieniądze. Ulotniły się wartości wyższe: wolność, niepodległość, samorządność, honor, patriotyzm, godność (w tym także respektowanie godności przeciwnika). Odwoływanie się do tych wartości odbierane jest jako naiwność lub manipulacja, toteż politycy właściwie wykluczyli je ze swojego słownika. "Jeden drugiego ciężary noście", "zło dobrem zwyciężaj" - te cytaty ze św. Pawła były w latach osiemdziesiątych traktowane serio zarówno przez solidarnościową kontrelitę, jak i ogromne rzesze jej zwolenników. Dziś św. Paweł ze swą zawikłaną biografią nie miałby żadnych szans.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

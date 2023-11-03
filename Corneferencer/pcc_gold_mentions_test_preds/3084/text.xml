@@ -1,0 +1,25 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">- Płakać?</p>
+        <p xml:id="p-2">- Nieprawda - dziewczyna odwróciła głowę, zła, że Garcia domyśla się jej słabości. Zajęła się przymierzaniem naszyjnika. Wstała i podeszła do dużego lustra, od niechcenia zasłaniając ręcznikiem swe dwudziestodwuletnie ciało.</p>
+        <p xml:id="p-3">Garcia opadł ciężko na skórzany fotel i patrzył z przyjemnością na jej zabiegi. "Erotyczna żmija - pomyślał po hiszpańsku. - Wężowe ruchy, śliska, podniecająca skóra. Potrafi ugryźć". To był najlepszy łup jego kilkumiesięcznego pobytu w Niemczech.</p>
+        <p xml:id="p-4">- Czy może być coś bardziej miłego dla kobiety niż złoto? - zapytała zbliżając się do niego kocim krokiem. Ręcznik opadł na podłogę.</p>
+        <p xml:id="p-5">Położyła się na łóżku. Garcia dołączył do niej i razem udali się w podróż przez bagniste dżungle Amazonii, ostre szczyty Andów, skaliste wybrzeża Pacyfiku. Inge krzyczała, bo Garcia potrafił dobrać się do jej bladej skóry.</p>
+        <p xml:id="p-6">- Miałam zły sen.</p>
+        <p xml:id="p-7">Powiedziała potem wtulona w górę ciała plantatora. Wielki posiadacz ziemski dmuchał cygarowym dymem i obejmował ją za szyję. Biło od niego gorąco rozpalonych pampasów.</p>
+        <p xml:id="p-8">- Stałam nocą w pustym mieście. Sama na ulicy. Bałam się.</p>
+        <p xml:id="p-9">Garcia pochylił głowę i pocałował Inge w szyję. Obwiódł językiem czarne znamię w kształcie łzy.</p>
+        <p xml:id="p-10">- Miasto mordować. Mnie też.</p>
+        <p xml:id="p-11">Inge podniosła się na łokciu.</p>
+        <p xml:id="p-12">- Co masz na myśli?</p>
+        <p xml:id="p-13">Argentyńczyk kopcił jak parowóz.</p>
+        <p xml:id="p-14">- Ja załatwić interesy w Niemcy i uciekać z Europa. Ten świat zginąć. Kaput.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

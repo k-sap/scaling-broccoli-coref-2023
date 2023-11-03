@@ -1,0 +1,17 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Bologna: Antonioli - Boselli, Paganin, Mangone - Magoni, Nervo (82 Eriberto), Cappioli (74 Rinaldi), Ingesson, Paramatti - Koływanow, Fontolan (73 Signori).</p>
+        <p xml:id="p-2">Pierwszy mecz: 1-0 dla Bologny. Awans do zasadniczych rozgrywek o Puchar UEFA: Bologna .</p>
+        <p xml:id="p-3">Goście zagrali bardzo uważnie w obronie, nie pozwalając chorzowianom na wypracowanie dogodnych pozycji strzeleckich. Gospodarze praktycznie tylko dwukrotnie poważniej zagrozili bramce strzeżonej przez Antonioliego. Tuż przed przerwą, potężnym, ale minimalnie niecelnym uderzeniem z dystansu, popisał się Surma. Chwilę później będący sam na 14 m od włoskiej bramki Molek trafił wprost w bramkarza.</p>
+        <p xml:id="p-4">Po reprymendzie swego trenera Włosi rozpoczęli drugą połowę ze znacznie większym animuszem. Bardzo aktywny był Koływanow i to on przesądził losy rywalizacji. W 61 min 30-letni napastnik został sfaulowany w polu karnym przez Lecha i sam wymierzył sprawiedliwość, skutecznie egzekwując jedenastkę. Zwycięstwo Włochów przypieczętował w 90 min Signori.</p>
+        <p xml:id="p-5">Carlo Mazzone (trener Bologny): - W tych dwóch meczach Ruch udowodnił, że jest dobrą drużyną. Chorzowianie byli od nas nieco słabsi technicznie i to zadecydowało o naszym sukcesie. Były to jednak dwa trudne pojedynki i nie wiem, czy chciałbym trafić na kolejny polski zespół w Pucharze UEFA.</p>
+        <p xml:id="p-6">Orest Lenczyk (trener Ruchu): - Skończyła się nasza przygoda z Pucharem Intertoto. W szatni podziękowałem zawodnikom za te dziesięć spotkań. Nie wiem, jak potoczyłyby się losy meczu, gdybyśmy wykorzystali sytuację w 44 minucie. Gratuluję Włochom awansu. Przyszło nam walczyć z profesjonalnym zespołem występującym w znacznie silniejszej lidze niż polska.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

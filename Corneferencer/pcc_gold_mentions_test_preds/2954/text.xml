@@ -1,0 +1,14 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">"W stan oskarżenia o dezercję - czytał Misiąg - postawieni zostali..." nastąpiła długa lista nazwisk, wśród których nie brakło Stumpfa, Lilienfischa i Piontka. "Wymienieni, po ujęciu przez organa żandarmerii, odpowiadać będą przed sądem polowym". Dalej ostrzegano nas przed szpiegami, prowokatorami i siewcami panicznych pogłosek oraz przypominano nam o obowiązku zachowania tajemnicy wojskowej. Skończywszy, szef podniósł oczy znad książki i zamrugał niepewnie powiekami jak człowiek budzący się ze snu. Ale nawyk długich lat opanował go już swym ustalonym jak pacierz rytmem i żadne okoliczności zewnętrzne nie miały nad nim władzy.</p>
+        <p xml:id="p-2">- Służba ustępująca, służba obejmująca, raport, raport karny... - recytował gromko. - Nie trzeba, szefie - mruknął Redycz. - Prośby, zażalenia, wystąp! - Redycz machnął ręką z rezygnacją. Przez chwilę szereg stał nieporuszony, aż wreszcie, ku ogólnemu zdziwieniu, jakiś bombardier z pierwszego plutonu wyszedł przed front i trzasnął desperacko zakurzonymi buciskami. Redycz podszedł do niego powoli, uniósłszy pytająco brew i pochyliwszy lekko głowę na bok, jak ktoś, kto nie bardzo dobrze słyszy. Bykowiec u jego pasa pląsał jadowicie przy każdym kroku. Żołnierz zaczerwienił się po uszy. - Panie poruczniku - rzekł głosem krzykliwym z zakłopotania - melduję posłusznie, że nie jedliśmy śniadania ani obiadu i że w ogóle z aprowizacją jest całkiem źle.</p>
+        <p xml:id="p-3">- To wszystko? - zapytał Redycz. - Nikt więcej nie ma żadnych zażaleń? - Ruszył wolnym, skradającym się krokiem wzdłuż frontu i kolejno zaglądał ludziom w oczy. W drugim szeregu rozległy się jakieś przyciszone pomruki, ale nikt nie wystąpił ani nikt nie odezwał się słowem. Oficer wrócił do milczącego bombardiera i stanął przed nim ze splecionymi na plecach dłońmi.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

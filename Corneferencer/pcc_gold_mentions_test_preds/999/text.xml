@@ -1,0 +1,17 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Najbliższy realizacji był pomysł wstawienia do malucha silnika wysokoprężnego. W tym przypadku prowadzono już nawet analizy technologiczne. Idea zrodziła się w początku lat 80, w epoce kartek na benzynę. W grę wchodziły dwa przemysłowe silniki japońskiej firmy Kubota, chłodzone cieczą: trzy- i czterocylindrowy. Ostatecznie wybrano jednostkę większą. Z pojemności 800cm3 osiągała ona 24KM. Samochód z nią stał się nie tylko bardziej dynamiczny, ale i bardziej komfortowy ze względu na mniejsze drgania silnika. Mimo zaawansowania prac nie doszło do seryjnej produkcji, ponieważ japoński jen zaczął gwałtownie zwyżkować i całe przedsięwzięcie przestało mieć ekonomiczny sens.</p>
+        <p xml:id="p-2">Fiat 126 EL CABRIO</p>
+        <p xml:id="p-3">Najmłodszym prototypem (który wkrótce po powstaniu przeszedł do historii i stał się muzealnym eksponatem) jest Fiat 126 el w wersji kabriolet. OBR już wcześniej wykonywał auta bez dachu, więc gdy Fiat zaczął produkcję modelu el, przygotowano też nowy kabriolet. W Unii Europejskiej zaczęły jednak obowiązywać zaostrzone normy hałasu, których ten samochód nie mógł już spełnić.</p>
+        <p xml:id="p-4">Modele produkcyjne</p>
+        <p xml:id="p-5">Fiat 126p NP</p>
+        <p xml:id="p-6">W 1977 roku postanowiono opracować Fiata 126p z przednim napędem przy założeniu maksymalnego wykorzystania elementów dotychczas produkowanego modelu. Przeniesienie do przodu układu napędowego spowodowało konieczność wydłużenia przedniej części pojazdu. W grudniu 1978 roku ukończono budowę pierwszego egzemplarza samochodu PF 126p NP. Silnik umieszczony został wzdłużnie przed osią kół przednich. Osiągał on moc 19, 1 k. W przy 4800 obr/min. Przednie koła pojazdu zawieszone były niezależnie na zwrotnicach kolumnowych typu Mac. Pherson. W tylnym zawieszeniu zmieniono jedynie charakterystykę sprężyn i amortyzatorów teleskopowych. Zastosowano nową przekładnię kierowniczą oraz hamulce tarczowe przy kołach przednich. Pierwszy prototyp miał nadwozie dwudrzwiowe ze zmienioną częścią przednią. W tylnej części powstała przestrzeń bagażowa o objętości ok. 200 dm³. Wykonano też prototyp samochodu o nadwoziu trzydrzwiowym i składanej kanapie tylnej.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

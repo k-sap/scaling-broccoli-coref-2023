@@ -1,0 +1,22 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">- To prawdziwa Ø? - zapytała chuda Angielka.</p>
+        <p xml:id="p-2">- Nie rozumiem - odpowiedział - oczywiście, że jest żywa.</p>
+        <p xml:id="p-3">- Ale czy ma jad? Czy ukąszenie grozi śmiercią, bo podobno wyrywają wężom zęby i wyciskają gruczoły z jadem.</p>
+        <p xml:id="p-4">- Memsab spróbuje - zachęcał fakir - proszę dać rękę.</p>
+        <p xml:id="p-5">- Och, nie nie! - otrząsnęła się z obrzydzeniem. - Myślałam, że to wszystko udane. Przedstawienie dla turystów.</p>
+        <p xml:id="p-6">Mangus, znużywszy gada monotonią skoków, nagle zamącił rytm swego łowieckiego tańca i spadł mu na kark, przycisnął pyszczkiem do ziemi, białe ząbki jak piłka zgrzytały na łusce kobry.</p>
+        <p xml:id="p-7">Trzymał ją tak, jak zwycięzca w zapasach, który chce, by prócz sędziego i widzowie ocenili jego przewagę, potem odskoczył i przeciągnąwszy się ułożył w koszyku. Kobrą wstrząsnęło kilka skurczów, odrażających w bezsilnej wściekłości. Syczała, z otwartym szeroko pyskiem ruszyła w stronę widzów i wtedy z ciemności wynurzyło się nagie, czarne ramię fakira, zgrabnie chwycił ją tuż przy łbie.</p>
+        <p xml:id="p-8">- Dlaczego on jej nie pozwolił zagryźć - pytała Angielka. - Nabrał nas...</p>
+        <p xml:id="p-9">- Z zagryzieniem trzydzieści rupii - powiedział rzeczowo poskramiacz węży - to wyjątkowo mądry gad.</p>
+        <p xml:id="p-10">- Zapłacę - grzebała nerwowo w torebce - chcę mieć pewność, że zostanie zabity. Tu są pieniądze!</p>
+        <p xml:id="p-11">Hindus, zgarnąwszy skwapliwie datek, wypuścił z worka wężyka, którego zachwalał jako bardziej jadowitego od kobry, jednak mangus błyskawicznie z nim się uporał i przegryzłszy na trzy części, grzebnął tylnymi nogami ze wstrętem.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

@@ -1,0 +1,16 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">- Można kupić niedużą spółkę notowana na warszawskiej giełdzie. Obecnie w okolicach 40 milionów złotych wyceniane są między innymi Tel Force One, Pepees, Optimus, Suwary, ERG, Lena, Bumach, Gino Rossi czy Zremb - proponują analitycy Expandera.</p>
+        <p xml:id="p-2">Dwie ostatnie z wymienionych spółek pochodzą z Pomorza. Jeśli wygrana padnie na Pomorzu, szczęśliwiec stałby się jednym z najbogatszych lokalnych biznesmenów. Ryzyko takiej inwestycji jest jednak duże.</p>
+        <p xml:id="p-3">Aby go uniknąć, analitycy radzą zainwestować w odpowiednio skrojone portfele instrumentów finansowych, czyli akcji, obligacji i funduszy inwestycyjnych.</p>
+        <p xml:id="p-4">- Pierwszy, o wysokiej płynności, do finansowania bieżących wydatków, na przykład spełniania marzeń, czy inwestycji niefinansowych, na przykład zakupu nieruchomości. Drugi, mniej płynny, ale też stosunkowo bezpieczny, na 3-5 lat - na przyszłe inwestycje niefinansowe. Trzeci, typowo inwestycyjny, horyzont 10 lat. Czwarty, o charakterze emerytalnym, horyzont inwestycyjny to 20 lat - radzą analitycy Expandera.</p>
+        <p xml:id="p-5">To propozycje dla osób twardo stojących na ziemi. Jeśli jednak komuś zachce się wydać miliony na rzeczy absurdalne lub niepotrzebne, nie będzie miał problemu. Może wybudować dwa km własnej autostrady lub zatrudnić na dwa miesiące najbardziej przepłacanego amerykańskiego prezesa (Michael Jeffries, szef Abercrombie, zarobił w minionym roku 71,8 mln USD). Kobieta, która będzie chciała zadać szyku, może sobie sprawić najdroższy biustonosz świata, wysadzany szlachetnymi kamieniami. Koszt, bagatela, wynosi ok. 15 mln USD. Facet lubiący się lansować, jeżdżąc z łokciem za szybą auta, może wstawić sobie do garażu, jeśli będzie miał jeszcze na niego pieniądze, najdroższy samochód świata - zabytkowe Ferrari, kosztujące ok. 9 mln euro.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

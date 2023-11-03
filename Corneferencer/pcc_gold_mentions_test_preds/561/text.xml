@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Jeżeli pole to jest polem centralnym, zależnym tylko od odległości cząstek, a niezależnym od kierunku w przestrzeni, to teoria kwantowa przewiduje, że stan o najniższej energii winien mieć zerowy moment pędu i symetrię sferyczną. Tymczasem pomiary rozkładu ładunku elektrycznego w deuteronie wskazują na wyraźne, jakkolwiek niewielkie odstępstwa od takiej kulistej symetrii. Co więcej, nie można było pogodzić własności magnetycznych deuteronu z własnościami magnetycznymi jego składników. Ponieważ spin deuteronu wynosi 1, więc połówkowe spiny neutronu i protonu muszą być w nim ustawione równolegle. Kierunki wektorów momentów magnetycznych związane są z kierunkami spinów, zatem moment magnetyczny deuteronu winien być sumą momentów protonu i neutronu. Zaobserwowane odstępstwa świadczą o tym, że pewien przyczynek do momentu magnetycznego deuteronu musi pochodzić z ruchu protonu po orbicie z momentem pędu większym od zera. Ponieważ w przypadku sił centralnych stan o najniższej energii musi mieć moment pędu równy zeru, możemy wyciągnąć stąd wniosek o niecentralności sił jądrowych. Muszą one, poza zależnością od odległości nukleonów, zależeć w jakiś sposób od kierunku w przestrzeni. Skąd jednak taka zależność może pochodzić?</p>
+        <p xml:id="p-2">Oddziaływania między nukleonami mogą zależeć również od innych poza ich odległością cech nukleonów, takich jak pęd czy moment pędu w ich ruchu, a także ich spiny i izospiny. Jest oczywiste, że mając do dyspozycji obok wektora odległości R również wektory spinów nukleonów S1 i S2, możemy część niecentralną oddziaływania utworzyć jako zależną od wzajemnej orientacji tych wektorów (rys.4.4). Skąd jednak znaleźć możemy postać tej zależności?</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

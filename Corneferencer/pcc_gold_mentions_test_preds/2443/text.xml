@@ -1,0 +1,17 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Czekamy na oficjalny komunikat ministerstwa, do którego się ustosunkujemy – mówi Jacek Mireński z agencji Mmd, obsługującej indyjski koncern. – Mittal Steel 15 kwietnia wypełnił wszystkie warunki wynikające z procedury przetargowej i jest gotów podpisać umowę prywatyzacyjną.</p>
+        <p xml:id="p-2">Koncern deklaruje, że jest gotów honorować warunki pakietu socjalnego przedstawionego 27 kwietnia, mimo że dokumenty nie zostały podpisane.</p>
+        <p xml:id="p-3">Hutnicy jednak uznali, że 150 zł podwyżki dla wszystkich pracowników (łącznie ze spółkami zależnymi), 3.000 zł bonusu prywatyzacyjnego i gwarancje zatrudnienia przez 5,5 roku, a dla pracowników powyżej 55. roku życia 10 lat gwarancji zatrudnienia – to za mało. (To propozycja obejmowała wszystkich 4300 pracowników zarówno Huty Stali Częstochowa jak i spółek zależnych).</p>
+        <p xml:id="p-4">Chcą więcej i wierzą, że dostaną to, czego chcą, od Zjednoczenia Przemysłowego Donbasu. Jeśli minister skarbu zdecyduje, że Mittal Steel nie dostanie huty, do negocjacji przystąpią Ukraińcy. Donbas deklaruje, że na pakiet socjalny wyda 120 mln euro. Indyjski koncern chce wydać 100 mln euro.</p>
+        <p xml:id="p-5">Ale w ofercie zakupu HCz więcej oferował Mittal – 1,251 mld zł, gdy ukraiński Związek proponował 1,108 mld zł. I dlatego Hindusi dostali wyłączność na rozmowy prywatyzacyjne.</p>
+        <p xml:id="p-6">Jeśli minister skarbu znów unieważni przetarg (w ub. r. zrobił to ówczesny minister skarbu Kaniewski), do huty może wejść syndyk. Donbasowi zostaną 3 miesiące na przejście całej drogi prywatyzacji. 6 sierpnia mija termin restrukturyzacji huty. Wystawiona na licytację HCz będzie sprzedawana po kawałku. A z tego tortu rodzynki wybiorą najbogatsi oferenci. Być może będą to Mittal Steel i Zjednoczenie Przemysłowe Donbasu.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

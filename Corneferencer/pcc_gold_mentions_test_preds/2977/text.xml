@@ -1,0 +1,14 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Kamyk poszedł za swym przewodnikiem w głąb pomieszczenia. Stworzyciel - a musiał być to zapewne sam Grzywa - nie przerywał umysłowego kontaktu, paplając beztrosko. Nic nie zapowiadało żadnych wyrafinowanych tortur, więc chłopiec zaczął się uspokajać. Grzywa wyglądał sympatycznie, tak samo jak wnętrze jego pracowni. O dziwo, wbrew oczekiwaniom Kamyka, że tak samo jak u Pływaka i Nocnego Śpiewaka, tak i u tego Stworzyciela zastanie gigantyczne zbiorowisko "absolutnie niezbędnych do egzystencji" przedmiotów, komnata wyglądała wręcz nieskazitelnie. Przypominała raczej salon niż pracownię.</p>
+        <p xml:id="p-2">Ściany pomalowano żółtą farbą w przyjemnym odcieniu, a na nich wiły się stylizowane motywy kwiatowe. Z sufitu zwieszały się na nitkach szklane ozdoby, rzucając wesołe błyski. We wnękach okiennych stały wazony z kwiatami. Gdyby nie unoszący się w powietrzu szczególny zapach lekarstw, można by pomyśleć, że to całkiem zwyczajny pokój. Nic bardziej mylnego. Nieco bystrzejszy obserwator mógł dostrzec, że zgrabne szafeczki nie zawierają kryształów i sreber, lecz instrumenty medyczne, flaszki z tajemniczą zawartością, a także lśniące groźnie ostrza różnych wielkości i rodzajów umieszczone w specjalnych przegródkach. Duży prostokątny stół, choć przykryty cienkim batystowym obrusem, był nieproporcjonalnie wysoki. Prawdopodobnie nie służył do biesiadowania, tylko do zabiegów medycznych.</p>
+        <p xml:id="p-3">Grzywa, siwiejący mężczyzna o młodych oczach, w których błyszczała inteligencja i humor, miał serdeczny uśmiech i bardzo zadbane ręce, co Kamyk zauważył z niejakim zdumieniem. Tak wypielęgnowane dłonie miewały kobiety. Stworzyciel spodobał mu się. W przeciwieństwie do poprzedniego lekarza nie traktował Kamyka, jakby chłopak był słaby na umyśle, i nie próbował za wszelką cenę wykazać swej ważności. Grzecznie zaprosił pacjenta, by ten usiadł na kozetce i rozebrał się do połowy - wciąż uśmiechnięty, przyjazny i rzucający żarcikami.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

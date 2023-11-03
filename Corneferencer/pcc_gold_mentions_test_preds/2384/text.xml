@@ -1,0 +1,12 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Drużyna łuczniczek Kmity Zabierzów na mistrzostwach Polski, które odbyły się w Prudniku wywalczyła brązowy medal. Zabierzowianki wystąpiły w składzie: Karina Lipiarska, Karolina Mosur, Agata Winiarska. Zanim doszło do decydującej rozgrywki Kmita najpierw miał wolny los, następnie pokonał Piasta Nowa Ruda 203:192, a w półfinale nie sprostał Drukarzowi Warszawa 214:224. Pojedynek o trzecie miejsce to była wewnętrzna sprawa klubów krakowskich. Zabierzowianki pokonały Płaszowiankę 212:181. Mistrzowski tytuł wywalczył Łucznik Żywiec. — Bardzo ładny wynik — mówi trener zabierzowianek Aleksander Jabłoński. — Szkoda, że indywidualnie nie było podobnie. Mogliśmy mieć jeszcze szerszą reprezentację, ale czwarta z zawodniczek — Paulina Witala rozchorowała się. Teraz czeka nas jeszcze ostatnia — piąta runda liga w ostatnią niedzielę września w Żywcu. Jesteśmy w czołowej trójce i mam nadzieję, że tak będzie do końca. Natomiast w najbliższy piątek i sobotę w Krakowie na obiekcie Płaszowianki organizujemy zawody dla dzieci poświęcone pamięci byłego prezesa Okręgowego Związku Łuczniczego — Jerzego Bobulskiego. Później najbliższe dwa miesiące będą „martwe”, a halowe zawody zaczynają się tak na dobre w grudniu. W turnieju indywidualnym Lipiarska była 9 indywidualnie. Na 28 miejscu uplasowała się Mosur, a 29 była Winiarska. W eliminacjach zawodniczki strzelały według olimpijskiej rundy FITA , a więc na 70, 60, 50 i 30 metrów. W finale dystans wynosił 70 metrów. Każda z zawodniczek oddawała 9 strzałów — 3 serie po 3 strzały.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

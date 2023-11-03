@@ -1,0 +1,17 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">kompletnie nie zgadzam się z tą interpretacją że ruch. to wskazanie Marka Belki jest obliczone na pozyskanie przez Bronisława Komorowskiego elektoratu centrolewicowego wszystkie badania pokazują że ten elektorat centrolewicowy jest zdecydowany głosować na. Komorowskiego. SLD z całym szacunkiem ma te między pięć a siedem procent twardego elektor elektoratu lewicowego a nie centrolewicowego to po pierwsze po drugie wydaje mi się że. akurat mam. prawo bronić decyzji. marszałka Komorowskiego żeby już teraz zgłaszać kandydata na prezesa banku bo po pierwsze od początku mówiłem że akurat ta instytucja w przeciwieństwie do niektórych innych. ta instytucja. powinna zostać obsadzona natychmiast. no a a po drugie ja jak pan wie. jak pan wie</p>
+        <p xml:id="p-2">no ale to po co były te zmiany przepisów i umocowanie pełniącego obowiązki pana Wiesiołka ?</p>
+        <p xml:id="p-3">no tak czy owak. nie mogło być sytuacji luki prawnej przecież nawet po zgłoszeniu jakiejś kandydatury jeszcze musi upłynąć. te co najmniej kilkanaście dni żeby Marek Belka ewentualnie. został tym prezesem a w tym czasie bank musi normalnie funkcjonować natomiast jeszcze żeby</p>
+        <p xml:id="p-4">ale on funkcjonuje nieźle</p>
+        <p xml:id="p-5">jeszcze żeby uwiarygodnić tę moja obronę ja chcę powiedzieć że. akurat panowie wiecie że nie wszystkie decyzje marszałka Komorowskiego przy przyjmowałem z entuzjazmem i jeżeli chodzi o ustawę o IPN-ie i jeżeli chodzi o natychmiastowe mianowanie szefa. w kancelarii prezydenckiej. natomiast ta decyzja. wydaje mi się w pełni uzasadniona</p>
+        <p xml:id="p-6">jedno jedno słowo komentarza jeśli marszałek zdołał spowodować że w czasie kampanii prezydenckiej powstała rada bezpieczeństwa narodowego skoro. przedstawiciele różnych formacji politycznych potrafili usiąść do wspólnego stołu i rozmawiać o najważniejszych sprawach w państwie</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

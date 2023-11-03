@@ -1,0 +1,14 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">- Otóż to! - podniósł ponownie głos Italikus, podrygując dziwacznie na zydlu, jakby kłuł go w zadek. - Idealny! Zdaje się, że trafiłeś w sedno, uczony przyjacielu. Zbyt idealny jak na dzisiejsze czasy, jak na prawdziwego władcę z krwi i kości. Chociaż nie brak mu rozumu, głowę i serce ma nabite rycerskimi romansami, wyśpiewywanymi przez trubadurów. Wydaje mu się chyba, że można żyć dzisiaj nadal jak na zamku Kamelot u króla Artura. Chciałby być najszlachetniejszym, najdzielniejszym i najsławniejszym rycerzem chrześcijańskiej Europy, jak jakiś nowy Lancelot.</p>
+        <p xml:id="p-2">- I cóż w tym złego? - zapytałem, nieco zniecierpliwiony owym niezbyt zrozumiałym dla mnie wywodem.</p>
+        <p xml:id="p-3">- Wszystko, przemądry druhu. Wielkie niebezpieczeństwo tkwi w iluzji, jaką stwarzają świeckie pieśni! Upiększają one świat, zamiast pokazać go, jakim jest w istocie. Na tym padole pełno jest podłości, zawiści i intryg. Jakże często widzimy triumfujący występek i cnotę uciśnioną. Wspaniałe olbrzymy padają pod ciosami liczniejszych od siebie karłów, pozbawionych skrupułów i zasad. Dlatego też mądry władca pojmuje, że na świecie istnieje zarówno dobro, jak i zło, a zatem potrafi się tymi dwoma narzędziami umiejętnie posługiwać, tak jak to czyni nasz najjaśniejszy pan. Nie jesteśmy w stanie odmienić zasad, zgodnie z którymi toczy się życie ludzkie, możemy jedynie czasem naoliwić koła. Natomiast ktoś, kto pragnie być doskonałym władcą, nie zrozumie słabości niższych od siebie. Sam będąc nieskazitelnym posągiem z marmuru, zażąda tego od innych. Będzie usiłował przerobić rzeczywistość wedle swoich mrzonek. Idealny książę postara się dostosować do swej fantazji znacznie mniej idealnych poddanych. Rozwścieczony, że nie chcą spełniać jego oczekiwań, w razie potrzeby uczyni to przemocą. Wówczas zamiast miłości zacznie wzbudzać strach i nienawiść, nie ma bowiem niczego gorszego niż władca z poczuciem misji do spełnienia. Tak oto zamiast wielkiego monarchy będziesz miał szaleńca albo zbrodniarza na tronie.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

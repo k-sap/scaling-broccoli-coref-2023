@@ -1,0 +1,28 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">FILIP wychodzi z budynku. Wsiada do samochodu.</p>
+        <p xml:id="p-2">SALON MAGDY. WN. POPOŁUDNIE.</p>
+        <p xml:id="p-3">CIĘTE NA...</p>
+        <p xml:id="p-4">PLAC TRZECH KRZYŻY. PL. POPOŁUDNIE.</p>
+        <p xml:id="p-5">CIĘTE NA...</p>
+        <p xml:id="p-6">SAMOCHÓD FILIPA. WN. POPOŁUDNIE.</p>
+        <p xml:id="p-7">MAGDA siedzi na kanapie. Tuli Mańka. Przed nią włączony laptop. Dłoń MAGDY nad enterem laptopa - wciska enter. Odtąd scena z przebitkami: PIOTR na placu Trzech Krzyży, FILIP w samochodzie, MAGDA przed laptopem - do zrobienia w montażu!!!</p>
+        <p xml:id="p-8">PIOTR:</p>
+        <p xml:id="p-9">(z ekranu laptopa)</p>
+        <p xml:id="p-10">Witaj, Magda. Chcę opowiedzieć ci o naszej miłości. Właściwie, muszę. Żebyś zrozumiała, co się stało. Nie chciałem wyjeżdżać. Nie chciałem robić tego w taki sposób. Ale nie mogłem powiedzieć, co się ze mną dzieje. Dlaczego?</p>
+        <p xml:id="p-11">Zbliżenie MAGDY, która jest skamieniała oglądając to nagranie.</p>
+        <p xml:id="p-12">PIOTR:</p>
+        <p xml:id="p-13">(v.o.)</p>
+        <p xml:id="p-14">Jeśli dostałaś to nagranie, to znaczy, że... Że już się nie zobaczymy. Że... Już nie będę mógł całować twego czoła, policzków, ust... Że jestem... Że mnie już nie ma. Wiem, że takie rozstanie może ci się wydawać okrutne, ale...</p>
+        <p xml:id="p-15">Zbliżenie ekranu laptopa.</p>
+        <p xml:id="p-16">PIOTR:</p>
+        <p xml:id="p-17">Nie mogłem pozwolić, aby moja choroba cię dotyczyła. Żeby moje umieranie było twoim cierpieniem. Bo miałabyś w oczach bezsilne przerażenie, zamiast ciepłego światełka... A ja bym tego nie zniósł.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

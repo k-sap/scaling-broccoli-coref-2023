@@ -1,0 +1,19 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Nie tylko wywieszka</p>
+        <p xml:id="p-2">Cena musi być widoczna – na wywieszce i bezpośrednio na każdej sztuce wyrobu lub pojedynczym opakowaniu. Powinna być umieszczona w taki sposób, aby nie można jej było przesunąć.</p>
+        <p xml:id="p-3">Takie oznakowanie produktów nie jest wymagane w supermarketach, jeżeli liczba czytników na sali sprzedaży zapewni kupującemu szybkie odczytanie ceny na podstawie kodu kreskowego. Na każde 400 mkw. powierzchni Ø ma być jeden czytnik. Cena towaru na podstawie kodu kreskowego nie może być wyższa od uwidocznionej przy identycznym towarze.</p>
+        <p xml:id="p-4">Wywieszki muszą być także przy towarach wystawionych w miejscu ekspozycji handlowej (gablota, witryna itp.). Przy wystawieniu na sprzedaż większej ilości określonego towaru wystarczy umieszczenie wywieszki przy jednym z nich.</p>
+        <p xml:id="p-5">Najlepiej spożyć...</p>
+        <p xml:id="p-6">Na żywności w opakowaniu jednostkowym muszą być oznaczone: nazwa środka spożywczego, dane składników podane w kolejności malejącej wraz z substancjami dodatkowymi, data minimalnej trwałości albo terminu przydatności do spożycia. Datę minimalnej trwałości podaje się, określając dzień, miesiąc i rok, z wyjątkami dotyczącymi środków o trwałości: - do 3 miesięcy – można określić jedynie dzień i miesiąc; - od 3 do 18 miesięcy – jedynie rok.</p>
+        <p xml:id="p-7">Datę tę poprzedza wyrażenie „najlepiej spożyć przed...”, jeżeli jest określona datą dzienną. W innych przypadkach sformułowanie „najlepiej spożyć przed końcem...”.</p>
+        <p xml:id="p-8">Z kolei termin przydatności określa się podaniem w kolejności dnia, miesiąca i – jeżeli to możliwe – roku. Żadne przeterminowane produkty spożywcze nie mogą znajdować się w sprzedaży ani podlegać przecenom.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

@@ -1,0 +1,33 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">sp0: przecież ma swój rozum to</p>
+        <p xml:id="p-2">sp1: no</p>
+        <p xml:id="p-3">sp0: jak chce to niech pije</p>
+        <p xml:id="p-4">sp2: nie no wszystko w porządku ale jak go trzęsie jak kawę wypije no to</p>
+        <p xml:id="p-5">sp0: mnie też trzęsie jak wypiję za mocną</p>
+        <p xml:id="p-6">sp2: no to mnie tam nie trzęsie mi to dopiero chęć przychodzi do pracy no to mam taką energię że kurde a jak nie to tak mi się spać chce że mogę usnąć</p>
+        <p xml:id="p-7">sp0: no bo kawa jest nie dla wszystkich no</p>
+        <p xml:id="p-8">sp2: no. ale tam jak u nich robiłem przedtem to żeśmy wypili kawę rano o której tam o dziesiątej czy wpół do jedenastej czy tam jakoś tak i później czwarta po czwartej to jak przychodziła czwarta a jeszcze nie robili to normalnie czułem że coś mi brakuje że jakoś</p>
+        <p xml:id="p-9">sp1: mogę ten talerzyk wziąć ? że ci kawy brakuje ?</p>
+        <p xml:id="p-10">sp2: no kiedyś też tak było czwarta wpół do piątej</p>
+        <p xml:id="p-11">sp1: ale schudłeś tak schudłeś co ?</p>
+        <p xml:id="p-12">sp2: coś mi brakowało</p>
+        <p xml:id="p-13">sp1: tak schudłeś że ty wyglądasz po prostu jak niemowlę</p>
+        <p xml:id="p-14">sp2: a Janek Zakościelny mówił że się poprawiłem</p>
+        <p xml:id="p-15">sp1: ususzone niemowlę daj se spokój ty się weź za siebie w niedzielę mecz w sobotę mecz w tygodniu dyrtką latać do roboty przyjdziesz z meczu już butelki na stole piwa postawione nie jesz nie wypoczywasz nic jak ty wyglądasz</p>
+        <p xml:id="p-16">sp2: no trochę miałem ostatnio do kręcenia teraz ostatnio no ale</p>
+        <p xml:id="p-17">sp1: bardzo dużo</p>
+        <p xml:id="p-18">sp2: ale teraz</p>
+        <p xml:id="p-19">sp1: i z piecem i z tym wszystkim bardzo dużo</p>
+        <p xml:id="p-20">sp2: no</p>
+        <p xml:id="p-21">sp1: no i chudniesz</p>
+        <p xml:id="p-22">sp2: ale w poniedziałek z wypłatą i dwunasty do dwunastego jest termin oddać pięćdziesiąt pytań na odpowiedzi dwudziestego siódmego jest egzamin trzeba się uczyć książka jest tysiąc dwieście ileś pytań a ja niczego jeszcze nie przeczytałem</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

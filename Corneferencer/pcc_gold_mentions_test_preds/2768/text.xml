@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Rolson123456 Na imprezach, na których bywam prawie na porządku dziennym jest to, że osoby, które nie są parą zaczynają się "lizać", obmacywać i dobrze się tym bawią. Jest to normalne dla ludzi w moim wieku. Inna sprawa jest jednak jeżeli chodzi o przelotną znajomość na imprezie, a inna jak są to osoby z jednej klasy. Byłem świadkiem takich kilku sytuacji, że kolega z koleżanką z klasy się "dobrze bawili", a potem mówili, że byli po prostu pijani, albo przynajmniej jedna z tych osób. Ostatnio zdarzyła mi się podobna sytuacja, że gdybym tylko chciał to mógłbym wszystko zrobić z jedną z moich koleżanek z klasy, ona była pijana, ja nie. Ale nic nie zrobiłem, nie wiem dlaczego, ale jakaś taka wewnętrzna bariera mi się włączyła, że byłoby nie w porządku gdybym to zrobił. Nie powiem, że koleżanka mi się nie podoba, bo wręcz przeciwnie, ale to moja dobra koleżanka, raczej nie myślałem o niczym więcej, a wiem, że ona i tak wszystko potem zwali na to, że była pijana. Co o tym myślicie, czy dać się tak ponieść emocjom?? Może po prostu wystarczy się dobrze bawić, bez zahamowań?? Jaki jest wasz stosunek do sprawy??</p>
+        <p xml:id="p-2">Tomazo22 Lubisz walic trupa? Ja wole poczuc sie w ekstazie a nie z belka. tyle ode mnie</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

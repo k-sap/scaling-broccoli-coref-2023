@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Obok kategorii utopijnej racjonalności oraz postępu ważnym dziedzictwem, które Rewolucja Francuska pozostawiła komunizmowi, był prymat społeczeństwa nad jednostką. To, co ogólne, było zawsze ważniejsze od tego, co partykularne. Bauman, w odniesieniu do państwa totalitarnego, którego korzenie odnajduje w myśli Oświecenia, posługuje się metaforą państwa jako ogrodnika, który dla uzyskania ładu w racjonalnym prowadzeniu ogrodu wyrywa niepotrzebne chwasty. Z Oświeceniem wiąże się więc również koncepcja swoistej socjotechniki. Aby zbudować nowoczesne, wolne od przesądów tradycji społeczeństwo, trzeba było do tego społeczeństwa dostosować człowieka. W myśl deklaracji rewolucjonistów miał to być człowiek przede wszystkim wolny od poddaństwa i wolny od przesądów. Jednak wolny mógł być tylko we wspólnocie ludzi równych. Od rewolucyjnego rozumienia równości do ujednolicenia nie było daleko.</p>
+        <p xml:id="p-2">Najlepszym tworzywem na "nowego człowieka" była oczywiście młodzież - tabula rasa, na której można zapisać nowe wartości. Narzędziem do uzyskania tego celu miał być odpowiednio skonstruowany system wychowania, dla którego powszechne programy edukacyjne dyktuje oświecone państwo. Oświata "była gwarancją nieodwracalności rewolucji, zapowiedzią szybkiej obfitości dóbr materialnych, szansą łatwych awansów [...] wreszcie elementem gruntowania egalitaryzmu i narodowej jedności". Konsekwencje takiego rozumowania odnajdujemy w totalitarnych państwach, gdzie nie dość, że zadbano o ujednoliconą politykę edukacyjną, ale również zatroszczono się o utworzenie specjalnych organizacji młodzieżowych, w których prowadzono forsowną indoktrynację. Hitlerjugend w Niemczech i Komsomoł w Związku Radzieckim miały stanowić szkoły "nowych ludzi". ZMP był ich polskim odpowiednikiem.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

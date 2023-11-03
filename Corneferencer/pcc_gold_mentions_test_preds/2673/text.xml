@@ -1,0 +1,14 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Tym razem akcja została podzielona na kilka etapów. Głównym przedsięwzięciem będzie turniej koszykówki organizowany w Gdyni, w Hali Zespołu Sportowych Szkół Ogólnokształcących przy ul. Władysława IV 54 i w Sopocie w Hali 100-lecia przy ul. Goyki 7. Początek rozgrywek zaplanowano na 27 stycznia, finały - 30 stycznia. Do gry zaproszone są czteroosobowe zespoły w różnych kategoriach wiekowych (rocznik: 1987 i młodsi, 1989 i młodsi, 1991 i młodsi, 1993 i młodsi - chłopcy, a także 1987 i młodsze, 1990 i młodsze - dziewczyny). Wszystkie drużyny zagrają systemem każdy z każdym. Dodajmy, że w czasie finałów w rolę trenerów najlepszych drużyn wcielą się zawodnicy Prokom Trefl Sopot.</p>
+        <p xml:id="p-2">W czasie finału zagra DJ NOZ, pomiędzy meczami finałowymi zorganizowane zostaną konkursy dla publiczności - oczywiście z nagrodami. Po zakończeniu finałów koszykarskich, już po raz drugi, do zawodów staną zespoły cheerleaders z całej Polski. Wszystko w ramach turnieju „Prokom Cheerleaders Cup”. Wcześniej, 17 stycznia rozpocznie się, w Hali 100-lecia w Sopocie część „Ferii pod koszem” dla najmłodszych. Uczniowie szkół podstawowych z klas I-IV będą mogli skorzystać z bogatej oferty zabaw, gier, nauki gry w koszykówkę. Do udziału w tych półkoloniach ZAPRASZAMY również dzieci znajdujące się pod opieką ośrodków charytatywnych i MOPS. Zabawy dla najmłodszych odbędą się w dwóch tygodniowych turnusach.</p>
+        <p xml:id="p-3">Karty zgłoszeń i regulaminy poszczególnych atrakcji odbywających się w ramach akcji „Ferie pod koszem” dostępne będa w punkcie informacyjnym kina Silver Screen w Centrum Gemini w Gdyni przy ul. Waszyngtona 21, w Aquaparku w Sopocie przy ul. Zamkowa Góra 3-5 oraz w SSA Trefl, Sopot, ul. Armii Krajowej 137-139.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

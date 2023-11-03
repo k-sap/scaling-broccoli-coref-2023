@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">W Arce Nadziei</p>
+        <p xml:id="p-2">Basia nie pije już od dwóch lat. Janusz i Nieznajomy znają dokładne daty, kiedy zdecydowali się na odwyk. Janusz porzucił picie 25 sierpnia 2000 r., a Nieznajomy - 13 lipca. Kiedy zabrakło im dachu nad głową postanowili zamieszkać w Ośrodku dla Ludzi Bezdomnych Arka. N. przy ul. Topolowej 15. Jednak postawiono im warunek: pensjonariuszy ośrodka obowiązuje całkowity zakaz spożywania alkoholu. Musieli wybrać - albo rozpoczną całkiem nowe życie, albo wracają tam, skąd przyszli. Wybrali to pierwsze i dziś są całkiem innymi ludźmi. Postanowili również, ku przestrodze innych, odkryć czarne karty swoich życiorysów.</p>
+        <p xml:id="p-3">Nowe życie po próbie samobójczej</p>
+        <p xml:id="p-4">Drzwi otwiera mi uśmiechnięta kobieta po czterdziestce. Zaprasza mnie do pokoju, przeprasza za bałagan, mimo tego, że z każdego kąta wygląda porządek. Ubogo tutaj, ale przytulnie - pomyślałam. Basia krząta się jeszcze po pokoiku, bo właśnie przed chwilą wróciła z pracy. W październiku otrzymała posadę sprzątaczki. Codziennie rano o piątej na rowerze jeździ z Sudołu na Katowicką, by zarobić kilka groszy na życie. Ale praca już jej nie przeraża. Jest dumna, że nareszcie ma pieniądze na drobne wydatki, bowiem zanim zdecydowała się na odwyk, wszystko szło na alkohol. Kiedyś zajmowała się robótkami ręcznymi. Robiła również gobeliny. Teraz mam okazję robić je nadal, bo mogę sobie pozwolić na kupno materiałów - mówi Basia.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

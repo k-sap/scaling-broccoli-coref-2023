@@ -1,0 +1,14 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Na początku, samochód ten był oparty na platformie Toyoty Corolli, i dostępny był w wersji zarówno 4-drzwiowej jak i 2-drzwiowej. Dostępne były wersje z napędem na przednie koła, oraz na cztery koła. Do wyboru była 5-biegowa manualna, lub 4-biegowa automatyczna skrzynia biegów. W 1998 samochód przeszedł facelifting. Jedną z wersji auta, była Toyota RAV4 EV - samochód z zupełnie elektrycznym napędem, nie wydzielający żadnych spalin. Był on sprzedawany w małych ilościach w Kalifornii. Samochody te miały baterie, z gwarancją na przejechanie 60 000 mil. Na rynku samochodów używanych, auta te wciąż osiągają wysokie ceny - w 2006 na aukcji internetowej w serwisie e. Bay, sprzedano taki samochód za 50 000 dolarów.</p>
+        <p xml:id="p-2">Druga generacja (2001–2005)</p>
+        <p xml:id="p-3">Druga generacja RAV4 także była dostępna z napędem na przednie koła oraz na cztery koła. Podobnie jak poprzednia wersja, także była produkowana na platformie Toyoty Corolli. Pomimo że w Europie i Azji wciąż dostępny były wersje 2-drzwiowe, na rynku amerykańskim dostępny był tylko model 4-drzwiowy. Gama silników składała się z jednostek 1.8 (z napędem przednim) oraz 2.0 (diesel i benzynowy, napęd 4x4). Niektóre samochody posiadały ABS, ESP, klimatyzację, tempomat, elektryczne szyby oraz lusterka. W 2004, samochód poddano faceliftingowi, na rynku amerykańskim zamiast silnika 2.0, standardem był silnik 2.4. Druga generacja RAV4 zdobyła dużą popularność w Australii, gdzie był najlepiej sprzedającym się SUV'em w roku 2001, oraz najlepiej sprzedającym się kompaktowym SUV'em w roku 2004.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

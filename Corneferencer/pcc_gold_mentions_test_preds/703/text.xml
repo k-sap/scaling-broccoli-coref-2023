@@ -1,0 +1,16 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Od tej pory w Europie Środkowej każdy troszczy się już tylko o siebie - pisze w niedzielnym numerze prestiżowego paryskiego dziennika Sylvie Kauffmann.</p>
+        <p xml:id="p-2">Kiedy trzy lata temu padał komunizm, Zachód, który lubi, żeby wszystko było proste i zrozumiałe, wyróżnił natychmiast w Europie Wschodniej trzy kraje - Polskę, Czechosłowację i Węgry, które miały jego zdaniem większe od innych szanse dołączenia w szybkim tempie do Europy "cywilizowanej" .</p>
+        <p xml:id="p-3">Przywódcy zachodni poparli Trójkąt Wyszehradzki, widząc w nim czynnik stabilizacji i wierząc, że pomoże on powstrzymać niecierpliwość trójki nowych kandydatów do Wspólnoty Europejskiej, a zarazem pozwoli im przećwiczyć umiejętność integracji w mniejszym gronie, zanim będą mogły ją wykorzystać na skalę piętnastu czy dwudziestu partnerów Wspólnoty Europejskiej.</p>
+        <p xml:id="p-4">Dziś jednak Europa Środkowa ma się źle. Dwa z najbardziej obiecujących krajów - Polska i Czechosłowacja od dwóch tygodni faktycznie nie mają rządów. Polska, która jako pierwsza zdecydowała się na odważną reformę rynkową, od kilku miesięcy stanęła w miejscu. Paraliżuje ją panujące w Warszawie zamieszanie polityczne. Zakwestionowany został nawet dotychczasowy kierunek polityki zagranicznej (...)</p>
+        <p xml:id="p-5">Czechosłowacji za kilka miesięcy z pewnością już nie będzie, choć niewykluczone, że będą jeszcze trwały kłótnie proceduralne o rozgraniczenie kompetencji obydwu republik. Sytuacja Węgier jest nadal stosunkowo pomyślna, lecz ich zdrowie polityczne związane jest w stosunkowo wysokim stopniu ze zdrowiem premiera Antalla, który na zdrowiu szwankuje. (...) Do pogłębienia niepewności przyczynia się trwający od śmierci Układu Warszawskiego brak wspólnych struktur zbiorowego bezpieczeństwa.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

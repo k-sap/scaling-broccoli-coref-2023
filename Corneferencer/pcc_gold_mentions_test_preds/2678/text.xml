@@ -1,0 +1,22 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Taksówkarz zażądał od obcokrajowca zbyt wysokiej opłaty za kurs po Szklarskiej Porębie. – Gdy odjeżdżał, potrącił Duńczyka drzwiami od samochodu – mówi oburzona Patrycja Ponufnik, przewodniczka skandynawskich wycieczek</p>
+        <p xml:id="p-2">SZKLARSKA PORĘBA</p>
+        <p xml:id="p-3">Joanna Kakuba</p>
+        <p xml:id="p-4">W mieście pod Szrenicą zamówiono nocny kurs ze Szklarskiej Poręby Dolnej do hotelu Szklarka w centrum miasta.</p>
+        <p xml:id="p-5">– Zadzwoniłam do centrali Euro-Taxi informując, że pasażerem będzie zagraniczny turysta. Powiedziałam też dokładnie, gdzie trzeba będzie go zawieźć – mówi Patrycja Ponufnik, opiekunka duńskich grup turystycznych, które bardzo często przebywają w Karkonoszach, a szczególnie upodobały sobie tutejsze hotele i pensjonaty.</p>
+        <p xml:id="p-6">Lewa taryfa</p>
+        <p xml:id="p-7">Turysta z Danii przejeżdżał trasą kilkakrotnie. Znał drogę i ceny. Zdziwił się więc, gdy opłata za kurs była znacznie wyższa niż przewidywał. Zadzwonił do polskiej pilotki i poinformował ją o tym zdarzeniu.</p>
+        <p xml:id="p-8">– Powiedział mi, że gdy taksówka przyjechała po niego, na liczniku już było 8,50 zł. Kazałam mu wziąć paragon. Wyszło 54 złote. Poskarżyłam się centrali. Tam poinformowano mnie, że taksometr nie mógł być włączony wcześniej – mówi Patrycja Ponufnik.</p>
+        <p xml:id="p-9">Jak dodaje, gdy jej duński podopieczny wysiadał z taksówki, kierowca gwałtownie ruszył i potrącił go drzwiami. Obcokrajowiec wpadł w zaspę. Pilotka zgłosiła ten fakt na policję, bo mężczyzna stłukł nogę. Funkcjonariusze poprosili o wyniki badania lekarskiego. Ale turysta następnego dnia musiał wracać do Danii.</p>
+        <p xml:id="p-10">Prywatne śledztwo</p>
+        <p xml:id="p-11">Patrycja Ponufnik rozmawiała z prezesem korporacji Mirosławem Zielińskim. Ten obiecał, że ukarze kierowcę. Pilotka przeprowadziła prywatne śledztwo i sprawdziła, ile za kurs zamówiony przez Duńczyka zapłaci Polak. Pojechała nocą w tę samą trasę. Rachunek wyniósł 36 złotych.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

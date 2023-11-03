@@ -1,0 +1,12 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">– Zdradził? – zapytał pan Marcel. – Porzucił – dodała Jagoda. – Mężczyźni to świnie, proszę pani. Wiem, co mówię. Jak się człowiek napatrzy na te filmy, to krew zalewa, jak sobie ścierwa poczynają – stwierdził pan Marcel, wybierając kasety w filmami. Tak się zaczyna książka naszej redakcyjnej koleżanki Marioli Zaczyńskiej pt. „Gonić króliczka”. Wieczór promocyjny książki odbył się w zeszłym tygodniu. I był okazją nie tylko do spotkania z autorką, ale również do odnowienia towarzyskich kontaktów. Wielu z tego skorzystało, bo dawne kino „Podlasie”, w którym odbywała się impreza, jeszcze po północy tętniło życiem.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

@@ -1,0 +1,14 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Był to początek lat 90., a pod koniec tamtej dekady Hegarty założył zespół Antony and the Johnsons. Nazwa zespołu miała być hołdem dla Marshy Johnson, prostytutki, która prowadziła w Nowym Jorku schronisko dla gejów i transwestytów, dopóki nie została zamordowana. W 2000 r. zespół wydał swój pierwszy album. Płyta nie odniosła sukcesu komercyjnego, ale zwróciła uwagę prominentnego artysty nowojorskiej sceny rockowej Lou Reeda. "Kiedy pierwszy raz usłyszałem »Cripple and the Starfish« (piosenkę z debiutanckiej płyty - M.P.) - wyznał Lou Reed - poczułem obecność anioła". Niebawem do grona wielbicieli talentu Antony’ego dołączą Laurie Anderson, Diamanda Galas, a potem Marianne Faithfull, Björk, Bono i wiele innych osobistości z kręgu rockowej i nie tylko rockowej awangardy.</p>
+        <p xml:id="p-2">W 2005 r. Antony and the Johnsons wydają swój drugi album "I Am a Bird Now". Na okładce zdjęcie blond Venus w białej pościeli. To Candy Darling, transwestyta z otoczenia Andy’ego Warhola. Fotografia pochodzi z 1974 r., została wykonana na krótko przed śmiercią chorego na białaczkę Candy’ego. Lou Reed poświęcił mu swoją piosenkę "Candy Says", traktującą o nienawiści do własnego ciała.</p>
+        <p xml:id="p-3">Na "I Am a Bird Now" Antony śpiewa piosenkę "For Today I Am a Boy": "Teraz jestem dzieckiem, teraz jestem chłopcem/Ale pewnego dnia dorosnę i będę piękną kobietą". Na każdym koncercie piosenka ta wywołuje aplauz. Jest znakomita i wspaniale zaśpiewana, słusznie uchodzi za megahit Antony’ego. Ale bywa też odbierana jako swego rodzaju manifest genderowej (gender to płeć kulturowa) wolności, jako wyznanie kogoś, kto nie chce być więźniem natury. Według wielu, stanowi ona dowód przynależności Hegarty’ego do kultury queer.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

@@ -1,0 +1,14 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Kongresmani dostrzegają szansę w pracy w "odpowiednich" komisjach. Nowo wybrani reprezentanci i senatorowie szybko powiadamiają swoich liderów partyjnych o swoich "zainteresowaniach" . Członkowie Kongresu, którzy służą kolejną kadencję przy okazji nowej kadencji podejmują próby przeniesienia siebie do bardziej prestiżowej komisji.</p>
+        <p xml:id="p-2">Hierarchizacja komisji</p>
+        <p xml:id="p-3">Wśród stałych komisji i najbardziej pożądanymi są Komisja Środków i Zasobów w Izbie Reprezentantów i Komisja Finansowa w Senacie, które ustalają podatki oraz Komisje Kredytów Budżetowych w obu izbach, które "trzymają sznurki federalnej sakiewki". Wśród komisji, do których rzadko ustawia się kolejka chętnych to izbowe Komisja Dystryktu Kolumbii i Komisja Etyki Zawodowej oraz senacka Komisja do Spraw Etyki. W tej pierwszej reprezentanci zajmują się jedynie sprawami lokalnymi, a nie krajowymi. Komisje etyk w obu izbach nie cieszą się popularnością, ponieważ kongresmani niechętnie sądzą swoich kolegów. Warto wspomnieć, że w komisjach etyk zasiada równa ilość demokratów i republikanów. Z biegiem lat, prestiż zasiadania w danej komisji może się zmieniać. Na przykład Komisja Sprawiedliwości w Izbie była niezwykle popularna w czasie próby postawienia w stan oskarżenia prezydenta Richarda Nixona. W kolejnych latach traciła wiele ze swej atrakcyjności, głównie za kontrowersyjną tematykę jaką się zajmuje (m.in. aborcja, modlitwa szkolna, kontrola posiadania broni czy kara śmierci). Z kolei senacka Komisja do Spraw Wywiadu była "niegdyś cichym zaułkiem, którego unikała większość członków, ponieważ przeważnie zajmowała się sprawami tajnymi i nie przynosiła żadnego wpływu w rodzimym stanie", natomiast w latach 80. XX wieku przyciągnęła dziesiątki zgłoszeń z racji swojego rosnącego wpływ na sprawy zagraniczne The Washington Times z 10 stycznia 1985 .</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

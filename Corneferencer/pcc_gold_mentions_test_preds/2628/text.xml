@@ -1,0 +1,18 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">– Trzeba mieć świadomość, że te badania pokazują zewnętrzną rzeczywistość Kościoła. Często ludzie też odpowiadali pod wpływem emocji i stąd odpowiedzi na niektóre pytania mogą być zaskakujące – mówił dziennikarzom tuż po powrocie z Watykanu arcybiskup Stanisław Gądecki, metropolita poznański. – Te badania mówią natomiast mniej o życiu wewnętrznym wiernych. Nie da się ukryć, że religijność wielu ludzi jest powierzchowna.</p>
+        <p xml:id="p-2">Niewiele wiemy</p>
+        <p xml:id="p-3">Wyniki badań są bardzo zaskakujące. W maju ubiegłego roku co dziesiąty wierny nie potrafił podać imienia nowego papieża. Z kolei aż 61 procent badanych nie wiedziało, jak nazywa się biskup naszej archidiecezji. Nawet znajomość nazwiska swojego proboszcza jest wśród wiernych większa, bo „tylko” 43 procent tego nie wiedziało.</p>
+        <p xml:id="p-4">Najgorsza jest świadomość historyczna wiernych z Poznania i okolic. Aż 70 procent badanych nie potrafi wskazać ani jednej osoby zasłużonej dla archidiecezji poznańskiej, choć pytanie dawało bardzo duży zakres czasowy, bo aż 150 lat (szczegóły na infografice). Jeśli już ankietowani kogoś wskazywali, to najczęściej arcybiskupa Antoniego Baraniaka.</p>
+        <p xml:id="p-5">Wolne związki są w porządku</p>
+        <p xml:id="p-6">Wiele pytań dotyczyło też zaufania, jakim wierni darzą duchownych. Najwięcej ludzi w centralnej i zachodniej Wielkopolsce wierzy papieżowi (ponad 82 procent respondentów). Częściej ufają mu osoby po pięćdziesiątce niż młodzież, bardziej kobiety niż mężczyźni, osoby z wykształceniem podstawowym niż wyższym, mieszkańcy wsi niż miast.</p>
+        <p xml:id="p-7">Jeśli chodzi o zaufanie, to znowu proboszcz jest wyżej w notowaniach, bo wierzy mu około 51 procent respondentów, a arcybiskupowi metropolicie – łącznie ponad 43 procent.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

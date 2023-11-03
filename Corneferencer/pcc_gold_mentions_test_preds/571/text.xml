@@ -1,0 +1,18 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">2.9. Miareczkowanie potencjometryczne</p>
+        <p xml:id="p-2">Różnica pomiędzy miareczkowaniem sposobem klasycznym i miareczkowaniem potencjometrycznym polega na różnym sposobie ustalenia punktu końcowego miareczkowania.</p>
+        <p xml:id="p-3">W metodzie klasycznej do tego celu używa się wskaźników wizualnych, natomiast w potencjometrycznej punkt końcowy wyznacza się ze zmian potencjału elektrody wskaźnikowej powstałych na skutek reakcji zachodzącej w czasie miareczkowania.</p>
+        <p xml:id="p-4">Jak wiadomo, bezpośredni pomiar potencjału elektrody nie jest możliwy, obserwuje się zmiany siły elektromotorycznej (SEM) ogniwa zbudowanego z elektrody, której potencjał zależy od zmian stężenia składnika oznaczanego lub odczynnika miareczkującego, tzw. elektrody wskaźnikowej i elektrody o stałym potencjale w warunkach prowadzenia pomiaru, tzw. elektrody porównawczej, zwanej też elektrodą odniesienia.</p>
+        <p xml:id="p-5">W miareczkowaniu potencjometrycznym mierzy się zmiany potencjału elektrody wskaźnikowej w zależności od objętości dodawanego odczynnika miareczkującego.</p>
+        <p xml:id="p-6">W przypadku oznaczeń alkacymetrycznych stosuje się elektrody wskaźnikowe, w których potencjał zależy od stężenia jonów wodorowych i jest funkcją liniową pH roztworu. Do tego typu elektrod należą: elektroda szklana, chinhydronowa i antymonowa.</p>
+        <p xml:id="p-7">W praktyce do miareczkowania potencjometrycznego alkacymetrycznego stosuje się ogniwo zbudowane z elektrody szklanej jako elektrody wskaźnikowej i elektrody kalomelowej, jako elektrody porównawczej. Obecnie w handlu znajdują się elektrody kombinowane, czyli jednoprętowe ogniwa pomiarowe, które stanowią zestaw obu elektrod, szklanej i kalomelowej, w jednej wspólnej obudowie (rys. 41). Zestawy takie są wygodne w użyciu, a ich cena jest niższa od ceny oddzielnych elektrod. W większości rozwiązań technicznych tego typu elektroda porównawcza styka się z roztworem mostka elektrolitycznego umieszczonym w pierścieniowym zbiorniczku otaczającym elektrodę szklaną. Roztwór soli działa dodatkowo jako osłona elektrostatyczna wysokooporowej elektrody szklanej.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

@@ -1,0 +1,18 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">#PoselSprawozdawcaEdmundStachowicz: Kończąc, chcę serdecznie podziękować organizacjom pozarządowym za współpracę w trakcie prac podkomisji nadzwyczajnej, a także Komisji Polityki Społecznej i Rodziny. Dziękuję posłom pracującym w podkomisji i komisji nad ustawą. Dziękuję bardzo. (Oklaski)</p>
+        <p xml:id="p-2">#Marszalek: Dziękuję panu posłowi.</p>
+        <p xml:id="p-3">#Marszalek: Sejm podjął decyzję o wysłuchaniu w dyskusji nad tym punktem porządku dziennego 10-minutowych oświadczeń w imieniu klubów i 5-minutowych oświadczeń w imieniu kół.</p>
+        <p xml:id="p-4">#Marszalek: Otwieram dyskusję.</p>
+        <p xml:id="p-5">#Marszalek: Jako pierwsza zabierze głos pani poseł Grażyna Pijanowska z Sojuszu Lewicy Demokratycznej.</p>
+        <p xml:id="p-6">#PoselGrazynaPijanowska: Panie Marszałku! Wysoki Sejmie! Przedłożone sprawozdanie Komisji Polityki Społecznej i Rodziny o rządowym projekcie ustawy o szczególnych zasadach rozwiązywania z pracownikami stosunków pracy z przyczyn niedotyczących indywidualnie pracowników ma na celu pełne dostosowanie do standardów prawa w Unii Europejskiej. Dotychczasowe przepisy tej ustawy z 1989 r. i nowelizacja w lipcu ub.r. tylko w części odpowiadają tym standardom. Projekt nowej ustawy reguluje uprawnienia pracownicze na wypadek zwolnień z przyczyn leżących po stronie pracodawcy, a także uprawnień pracowniczych związanych z ochroną stosunku pracy. Gwarantuje również uzyskanie odprawy pieniężnej dla tracących pracę z przyczyn od siebie niezależnych w wysokości zależnej od zakładowego stażu pracy.</p>
+        <p xml:id="p-7">#PoselGrazynaPijanowska: Istotnym zapisem w projekcie ustawy jest również szczegółowa procedura poprzedzająca dokonywanie zwolnień, m.in. negocjacje ze związkami zawodowymi, tworzenie warunków mających na celu przekwalifikowanie osób tracących pracę, obowiązek powiadamiania urzędów pracy o rozmiarach zamierzonego grupowego zwolnienia. Obowiązek notyfikacji grupowego zwolnienia w urzędzie pracy pozwala na lepsze przygotowanie urzędów pracy do udzielania czynnej i aktywnej pomocy pracownikom tracącym pracę. Możliwe będzie precyzyjne ustalenie czasu ustania zatrudnienia poszczególnych grup pracowników zwalnianych.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

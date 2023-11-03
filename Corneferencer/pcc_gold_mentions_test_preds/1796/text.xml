@@ -1,0 +1,16 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Na polu bitwy obecne były też kobiety - markietanki co to szły za wojskiem, prały żołnierzom i czyniły życie przyjemniejszym.</p>
+        <p xml:id="p-2">Po bitwie na błonach można było obejrzeć pokazy musztry kawaleryjskiej (wielkie brawa publiczności), zobaczyć popisy jeździeckie kawalerzystów i wysłuchać koncertu ciechanowskiej Miejskiej Orkiestry Dętej przebranej w mundury Księstwa Warszawskiego, która grała już w bitewnym kurzu między innymi pod Pułtuskiem, Raszynem, Gdańskiem i Warszawie (Olszynka Grochowska).</p>
+        <p xml:id="p-3">Po pokazie obydwa wojska w zgodzie udały się do obozy, gdzie wieczerzały i zacieśniały więzy towarzyskie. Następnego dnia uczestnicy bitwy, przebrali się w ubrania z początku XXI wieku, załadowali konie i inny sprzęt do samochodów i odjechali do swoich domów.</p>
+        <p xml:id="p-4">Wszystkie te wydarzenia będą odbywały się w ramach organizowanego przez samorząd miejski - już po raz siódmy - Biwaku Historycznego pod nazwą „Powrót Szwoleżerów Gwardii”.</p>
+        <p xml:id="p-5">A wszystko zaczęło się - jak powiedziała komentująca dla widzów bitwę Bożena Żywiecka z ciechanowskiego ratusza - od przyjazdu z Anglii do Ciechanowa oddziału szwoleżerów gwardii cesarza Napoleona. Miłośnicy historii z tego stowarzyszenia, którzy chcieli przyjechać do Opinogóry na groby leżących na miejscowym cmentarzu szwoleżerów i na grób generała Wincentego Krasińskiego, zaproponowali, że zorganizują w Ciechanowie potyczkę z czasów wojen napoleońskich. I w ten sposób władze Ciechanowa wspólnie z ówczesnym dyrektorem opinogórskiego Muzeum Romantyzmu Januszem Królikiem zaczęły historyczne biwaki pod nazwą „Powrót Szwoleżerów Gwardii”.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

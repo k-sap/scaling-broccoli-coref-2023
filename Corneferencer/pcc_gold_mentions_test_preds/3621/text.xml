@@ -1,0 +1,17 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">"jednorazowe uchylenie karalności dokonanego czynu zabronionego poprzez wydanie aktu prawnego zakazującego wszczęcia postępowania karnego w przedmiocie tego czynu lub nakazującego jego umorzenie"</p>
+        <p xml:id="p-2">W przypadku abolicji podatkowej mówi się, że jest to "darowanie podatnikom zatajonych należności podatkowych, w zamian za przyznanie się i dokonanie wpłaty części ujawnionych oszustw podatkowych". Jest to akt prawny o charakterze ogólnym, adresowany do nieokreślonego kręgu osób.</p>
+        <p xml:id="p-3">W tym przypadku jest to umorzenie zaległości podatkowej w wysokości stanowiącej różnicę między podatkiem należnym wynikającym z zeznania a kwotą odpowiadającą podatkowi obliczonemu za ten rok przy zastosowaniu metody wyłączenia z progresją.</p>
+        <p xml:id="p-4">W Ustawie o szczególnych rozwiązaniach dla podatników uzyskujących niektóre przychody poza terytorium Rzeczypospolitej Polskiej, nie chodzi tylko o darowanie podatnikom zapłaty zaległego podatku lecz przede wszystkim zrównanie obciążenia podatkowego osób pracujących poza granicami Polski, poprzez zlikwidowanie niekorzystnych (z punktu widzenia polskich podatników) skutków umów o unikaniu podwójnego opodatkowania, które przed laty Polska zawarta z niektórymi krajami. Dotychczasowe przepisy prowadziły do różnego traktowania na gruncie polskiego prawa podatkowego osób fizycznych, będących polskimi rezydentami, wykonujących tożsamą działalność za granicą.</p>
+        <p xml:id="p-5">Naruszało to także art. 32 Konstytucji RP - zasadę równości wobec prawa.</p>
+        <p xml:id="p-6">Celem ustawy o abolicji była zmiana tej sytuacji zaś istotą abolicji podatkowej było stworzenie rozwiązania polegającego na usunięciu różnic w zakresie traktowania polskich rezydentów uzyskujących dochody z określonych źródeł przychodów położonych poza Polską. Dotyczy to zarówno przeszłości (umorzenie i zwrot), jak i przyszłości (ulga w PIT).</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

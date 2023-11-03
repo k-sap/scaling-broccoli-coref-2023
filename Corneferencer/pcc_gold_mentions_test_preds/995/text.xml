@@ -1,0 +1,21 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Geografia</p>
+        <p xml:id="p-2">Podział administracyjny</p>
+        <p xml:id="p-3">W skład powiatu wchodzą: gminy miejsko-wiejskie: Alwernia, Chrzanów, Libiąż, Trzebinia gminy wiejskie: Babice miasta: Alwernia, Chrzanów, Libiąż, Trzebinia Sąsiednie powiaty Powiat chrzanowski graniczy z powiatami: oświęcimskim, wadowickim, krakowskim, olkuskim oraz z miastem Jaworznem (położonym w województwie śląskim).</p>
+        <p xml:id="p-4">Środowisko geograficzne</p>
+        <p xml:id="p-5">Powiat chrzanowski leży na południowo-zachodnim krańcu Wyżyny Krakowsko-Częstochowskiej, na pograniczu z Wyżyną Śląską. Obejmuje swoim obszarem: południowo-zachodni fragment Wyżyny Olkuskiej (północna część gminy Trzebinia), zachodni fragment Rowu Krzeszowickiego (południowa część gminy Trzebinia, wschodnia część gminy Chrzanów), zachodni fragment Grzbietu Tenczyńskiego (gminy: Alwernia, Babice, południowa część gmin Libiąż, Chrzanów), wschodni fragment Pagórów Jaworznickich (północno-zachodnia część gminy Chrzanów, północna część gminy Libiąż). Południową granicę powiatu wyznacza rzeka Wisła, a jej lewy dopływ Chechło jest największą z lokalnych rzek.</p>
+        <p xml:id="p-6">Użytkowanie gruntów</p>
+        <p xml:id="p-7">grunty orne 25, 17% sady - 0, 55% łąki - 5, 91% pastwiska - 0, 63% lasy i grunty leśne - 40, 02% pozostałe grunty - 27, 72%</p>
+        <p xml:id="p-8">Historia</p>
+        <p xml:id="p-9">Dzieje ziem powiatu do 1944 roku</p>
+        <p xml:id="p-10">Teren powiatu chrzanowskiego w jego największej historycznej rozciągłości, nazywany także Ziemią Chrzanowską, należy do najstarszych ośrodków osadniczych w Polsce. Dzieje powiatu chrzanowskiego związane są z górnictwem rud cynku i ołowiu, z których uzyskiwano też spore ilości srebra. Pierwsze wzmianki źródłowe na temat Chrzanowa pochodzą z XII wieku. Zapiski dotyczą handlowego, tranzytowego charakteru miasta na drodze ze Śląska do Małopolski i dalej na Ruś.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

@@ -1,0 +1,17 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Syndyk wyłączy prąd 31 lipca kilkanaście firm dzierżawiących pomieszczenia w byłych zakładach "Morfeo" zostanie pozbawionych zasilania w energię elektryczną. Tak zapowiada syndyk masy upadłościowej zakładów Paweł Marciniak . Mówi, że ma już dość dopłacania do prądu zużywanego przez innych</p>
+        <p xml:id="p-2">- Wypowiedziałem umowę na zasilanie wszystkich firm dzierżawiących u nas nieruchomości i 31 lipca zamierzam odłączyć prąd - mówi syndyk. - To drastyczne posunięcie, ale nie ma innego sposobu, by przeciąć niezdrową sytuację, w której ja płacę Zakładowi Energetycznemu za cały prąd zużyty na terenie zakładów, a dzierżawcy rozliczają się ze mną na podstawie podliczników. Z miesiąca na miesiąc są coraz większe straty. Nie wiem, czy winne są stare kable, czy szwankuje stacja transformatorowa, czy może liczniki źle mierzą. Wiem, że dopłacam do prądu co miesiąc nawet 7 tysięcy złotych i tak dalej być nie może</p>
+        <p xml:id="p-3">Syndyk zaproponował firmom działającym w "Morfeo", aby wydzierżawiły podstację transformatorową i same rozliczały się z Zakładem Energetycznym. Ta oferta nie znalazła żadnego odzewu</p>
+        <p xml:id="p-4">- To stare, sprzed kilkudziesięciu lat urządzenia, które mogą się w każdej chwili popsuć. Po co nam taki kłopot? - mówi jeden z właścicieli firm w "Morfeo"</p>
+        <p xml:id="p-5">O sprawie wie już Zakład Energetyczny</p>
+        <p xml:id="p-6">- Jeśliby syndyk spełnił swe groźby i odłączył zasilanie, jesteśmy w stanie w ciągu kilku dni podłączyć wszystkich do sieci z pominięciem podstacji w "Morfeo" - twierdzi Wojciech Janczyk , rzecznik ŁZE SA. - Byłaby to instalacja tymczasowa, a za kilka miesięcy przy ul. Łęczyckiej powstanie zupełnie nowa podstacja, z której prąd popłynie do firm na terenie zakładów. Mamy już obiecany przez miasto teren, budowa transformatora nie powinna potrwać dłużej niż do końca roku.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

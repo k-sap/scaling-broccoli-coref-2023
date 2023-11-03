@@ -1,0 +1,19 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Masz dość kserowania notatek? Możesz o tym zapomnieć. Dwóch studentów z Politechniki Warszawskiej wymyśliło oprogramowanie Smart Presenter, które zarejestruje każdy wykład.</p>
+        <p xml:id="p-2">Jak narodził się Wasz projekt?</p>
+        <p xml:id="p-3">Marcin Augustynowicz: Wszystko zaczęło się rok temu od konkursu Microsoft Image Cup. Jego tematem była edukacja i produkty, które mogą ją wspierać. Chcieliśmy stworzyć oprogramowanie, które byłoby pomocne zarówno dla wykładowców, jak i dla studentów. Wymyśliliśmy więc system, który będzie wspierał prowadzenie prezentacji w PowerPoincie.</p>
+        <p xml:id="p-4">Bartek Sieradzan: Z jednej strony ułatwia on prowadzenie wykładu, a z drugiej usprawnia proces uczenia się.</p>
+        <p xml:id="p-5">Mieliście też inne pomysły.</p>
+        <p xml:id="p-6">Marcin: Było ich wiele. Najdłużej utrzymywał się pomysł – mam nadzieję, że koledzy mnie nie zabiją – zrobienia programu, który wspierałby wykładowców w pilnowaniu studentów, by nie ściągali. Analizowałby on ruch lub szum na sali, a w przypadku tekstów pisanych na komputerze – częstotliwość stukania w klawiaturę. Stwierdziliśmy jednak, że trudno będzie to zrobić i jeszcze trudniej przekonać, że jest to potrzebne. Nikt nie przyzna, że na jego zajęciach studenci ściągają, więc nie sprzedamy takiego produktu.</p>
+        <p xml:id="p-7">Smart Presenter jest bardziej pokojowy. Powiedzcie, jak on działa?</p>
+        <p xml:id="p-8">Marcin: Naprzeciwko ekranu, na którym wyświetlany jest obraz z rzutnika, ustawiamy kamerę. Program nie zapamiętuje obrazu bezpośrednio z kamery, lecz ruchy laserowego wskaźnika na ekranie. Są one później analizowane. Do tego nagrywamy głos prowadzącego. W ten sposób możemy odtworzyć cały wykład dotyczący materiału zawartego w prezentacji oraz stworzyć interakcję z użytkownikiem. Najprostsza to wyświetlanie przez komputer zaznaczonych laserem fragmentów prezentacji. Bardziej skomplikowane to uruchamianie animacji albo poruszanie obiektami wyświetlonymi w czasie prezentacji. W ten sposób powstaje pełnowymiarowy materiał, z którego możemy się później uczyć.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>
