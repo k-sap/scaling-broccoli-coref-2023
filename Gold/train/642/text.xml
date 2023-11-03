@@ -1,0 +1,20 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Gigantyczne kolejki ustawiają się od dwóch dni w Wydziale Praw Jazdy i Rejestracji Pojazdów UMŁ. W najdłuższych, bo sięgających wejścia do budynku, stoją łodzianie próbujący zarejestrować samochód. Nikt nie potrafił jednak wytłumaczyć, skąd takie tłumy.</p>
+        <p xml:id="p-2">– Organizacja jest katastrofalna, przecież to co najmniej godzina stania! – irytował się Krzysztof Jędrzejewski. – Nie można zatrudnić więcej ludzi?!</p>
+        <p xml:id="p-3">Anna Grzelak wzięła dwa dni urlopu, dlatego cierpliwie czekała na swoją kolej. – Stoję już 40 minut, żałuję, że nie wzięłam książki – mówi.</p>
+        <p xml:id="p-4">– Zmarnowałem ponad dwie godziny, mam dosyć! – stwierdził Janusz Rosiak, wypatrując kresu „wędrówki”. – Trzeba więcej urzędniczek, bo te ogony nigdy nie znikną.</p>
+        <p xml:id="p-5">Krócej, bo pół godziny, stali wczoraj w kolejce kierowcy, składający dokumenty potrzebne do wymiany prawa jazdy.</p>
+        <p xml:id="p-6">Rajmund Kądziela, zastępca dyrektora wydziału praw jazdy i rejestracji pojazdów, nie potrafił wytłumaczyć, skąd te tłumy do rejestracji auta.</p>
+        <p xml:id="p-7">– Przed 1 listopada w kolejce czekało się najwyżej 20 minut – mówi. – Może wszyscy chcą zdążyć przed kolejnym długim weekendem? Nie potrafię tego racjonalnie wytłumaczyć, bo nie ma zmiany przepisów ani podwyżek opłat.</p>
+        <p xml:id="p-8">Dyrektora nie dziwiły natomiast kolejki do okienek przyjmujących wnioski na nowe prawa jazdy.</p>
+        <p xml:id="p-9">– Zbliża się koniec roku i kierowcy przypomnieli sobie o obowiązkowej wymianie dokumentów – tłumaczył R. Kądziela. – Dotychczas przyjmowaliśmy 200 wniosków dziennie, wczoraj już 450. Strach pomyśleć, co się będzie działo za miesiąc!</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

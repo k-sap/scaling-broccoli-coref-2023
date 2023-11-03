@@ -1,0 +1,17 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Według Zatora społeczniak nie do końca wie, co robi. Myśli, że robi dobrze, ale tak naprawdę szkodzi.</p>
+        <p xml:id="p-2">- Ale to też macka systemu, bo upierdala życie innym - konkluduje WuDeZet. Razem z policjantem broni systemu przed ulicą. Dlatego na murach obok CH.W.D.P. często widać napis "jebać społeczniaków".</p>
+        <p xml:id="p-3">Bo pasują do sytuacji</p>
+        <p xml:id="p-4">Siwy, lat 17, nie ukrywa, że nie jest aniołem, bo uprawia proceder. Proceder to dilerka, kradzież i w ogóle zdobywanie czegoś w sposób niezgodny z prawem. Z procederu się żyje, bo często inaczej się nie da. - Od starego złotówki nie dostanę. Jak komuś czegoś nie zajebię, nie będę miał - tłumaczy Siwy i po chwili dodaje: - Ale jestem zwykłym człowiekiem. Mam zasady i mam marzenia, chciałbym kiedyś mieć rodzinę, mieć dziecko, dom.</p>
+        <p xml:id="p-5">Policja zwalcza takich jak Siwy, bo zwalcza proceder. Ale przy okazji stwarza problemy wszystkim, którzy tworzą "ulicę". Bo na ulicy wszyscy są podejrzani. - Oni już tam nas osądzają. I nie ma nikogo, kto nas przed nimi obroni - mówi WuDeZet.</p>
+        <p xml:id="p-6">Radar: - Wychwytują nas z tłumu pod byle pozorem. Kiedy coś się stanie w okolicy, zawsze jako pierwsi jesteśmy typowani na sprawców. Legitymują nas kilka razy dziennie za wygląd, chód, twarz.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

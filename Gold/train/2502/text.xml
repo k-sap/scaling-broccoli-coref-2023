@@ -1,0 +1,17 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Złotówki, a może euro albo franki – z wyborem waluty mierzy się każdy, kto chce zaciągnąć kredyt na kupno samochodu, mieszkania czy budowę domu. Z jednej strony kusi niższe oprocentowanie walut obcych, z drugiej zawsze pozostaje strach przed gwałtownym załamaniem kursu złotego. Obecnie nasza waluta jest bardzo mocna, ale jeszcze 10 miesięcy temu było dokładnie odwrotnie i wielu, którzy wcześniej wzięli kredyt w dolarach lub euro, wpadło w panikę. Najgorsze, co mogli zrobić, to przewalutowć pożyczkę na złotówki. Można się nad tym zastanowić teraz. Czy warto? – piszemy w dzisiejszym poradniku.</p>
+        <p xml:id="p-2">Dwa przykłady</p>
+        <p xml:id="p-3">Doradcy finansowi radzą, by zaciągać kredyt w tej walucie, w której otrzymuje się przychody. Zarabiasz w złotówkach – bierz kredyt złotowy, w euro – pożyczaj w euro. Tylko wtedy masz pewność, że wystarczy Ci na spłatę bieżącej raty.</p>
+        <p xml:id="p-4">Jeśli kredyt zaciągnięty został w walucie obcej, a spłacany jest w złotych, to kredytobiorca może stracić albo zyskać.</p>
+        <p xml:id="p-5">Kowalski, który na zakup mieszkania w 2001 r. potrzebował 100 tys. zł i wziął kredyt w euro na 10 lat – pożyczył 26.400 euro przy kursie 3,80 zł. Stała miesięczna rata wyniosła 219 euro, co przy ówczesnym kursie dawało około 832 zł.</p>
+        <p xml:id="p-6">W momencie maksymalnego wzrostu euro na początku 2004 r. rata wzrosła do ponad 1000 zł. Teraz pan Kowalski płaci miesięcznie około 920 zł.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

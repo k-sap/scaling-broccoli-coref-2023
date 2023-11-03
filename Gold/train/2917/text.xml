@@ -1,0 +1,21 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">- Co takiego?! - huknął pan Gąsowski.</p>
+        <p xml:id="p-2">- Mało to dwóch zagadek, znalazła się na pociechę trzecia mówił zatroskany profesor. - Któż ją zdoła odgadnąć?</p>
+        <p xml:id="p-3">- Jak to: kto? - zawołała panna Wanda, niemal ze zgorszeniem. - Pan Adaś!</p>
+        <p xml:id="p-4">Adaś spojrzał na nią, jakby się przed nim niebo otwarło, a ona siedziała na chmurze.</p>
+        <p xml:id="p-5">- Coraz bardziej jestem przekonany - rzekł - że napoleoński oficer niezbyt dobrze rozumiał, co czyni. Chociaż, czy ja wiem? Dotąd wszystko było nad podziw ostrożne i bardzo dowcipnie ukryte. Te malowane brody wymyślił doskonale. Musiał jednak bardzo wierzyć w domyślność swego brata, skoro go tak wodził po bezdrożach .</p>
+        <p xml:id="p-6">Może być, że dla Francuza byłoby to łatwe. Ja przyznam się, że nie umiem myśleć tak lotnie. Panie profesorze, co pan myśli o tej nowej zagadce?</p>
+        <p xml:id="p-7">- Myślę, że jest ze wszystkich najtrudniejsza. Łatwiej było się domyślić cytaty z Danta i przy tak wspaniałej przemyślności jak twoja odnaleźć dwie brody. Ale teraz ani w ząb!</p>
+        <p xml:id="p-8">Wielka troska jak czarny ptak przelatywała z czoła na czoło, a wszystkie były zmarszczone. Dobra pani Gąsowska nie zajmowała się jednak rozwiązaniem zagadki; ją trapiło co innego.</p>
+        <p xml:id="p-9">- Żeby tylko Adaś nie rozchorował się z wysiłku - mówiła do córki. - Mnie pękłaby głowa.</p>
+        <p xml:id="p-10">- Jemu nie pęknie! - odpowiedziała panna Wanda w zamyśleniu i nagle nie zapowiedziawszy "wielkiej sceny" rzuciła się matce na szyję. - Och, mamusiu, mamusiu! - 'szeptała równocześnie gorąco i łzawo.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

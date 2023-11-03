@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Nie powinniśmy się niepokoić o to, czy wszystko poznajemy w sobie tak, jak należy. Duch Święty wie najlepiej, jak i kiedy odsłaniać nam całą prawdę o wewnętrznym rozdwojeniu i grzeszności. W Jego przyjaznym świetle uznajemy, że są w nas jakby dwa centra osobowe. Nie są one równorzędne, ale na tyle wyraźne, że za św. Pawłem mówimy o przeciwstawnych dążeniach człowieka starego i nowego, cielesnego i duchowego (por. Rz 7, 14-25). Po uświadomieniu sobie szokującej prawdy o naszym wewnętrznym rozdwojeniu i sprzecznych dążeniach nasz trud poznawczy nie kończy się, ale dopiero się zaczyna. Co dzień trzeba być gotowym poznać i uznać prawdę o grzesznej tendencji, która stale jest w pogotowiu, by wytrącić nas z ukierunkowania ku Bogu (i ludziom) w miłości i zaufaniu. Niestety, dla ochrony własnej wygody i przyjemności potrafimy dokonywać różnych manewrów maskujących rzeczywiste motywy i cele naszych działań. Posuwamy się także, według dosadnego określenia Karla Rahnera SJ, nawet do "fałszerstw moralnych", udając przy tym, że wszystko jest w porządku.</p>
+        <p xml:id="p-2">Po grzechu pierworodnym w sercu człowieka pozostały duże przestrzenie, którymi włada logika Księcia ciemności. Nieraz przez całe lata bez wahania podejmujemy decyzje, które sprawiają, że oddalamy się od Pana. Dzieje się tak dlatego, że działa w nas coś, co można by nazwać grzechem fundamentalnym bądź korzeniem wszystkich innych grzechów. Niektórzy psychologowie widzą w dręczącym człowieka poczuciu winy jedynie coś chorobliwego i obiecują, że czysto ludzką perswazją można się uwolnić od tego poczucia i od bólu psychiczno-duchowego. W rzeczywistości dopiero uważne wsłuchiwanie się w słowo Boże i współpraca z Duchem Jezusa owocują uwolnieniem od poczucia winy, zarówno tego chorego, jak i zdrowego. Bóg leczy rany zadane przez grzech.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

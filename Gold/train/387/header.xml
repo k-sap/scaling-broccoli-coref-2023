@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<teiHeader xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xml:lang="en">
+  <fileDesc>
+    <titleStmt>
+      <title>Paragraphs: p-869,p-870,p-871,p-872,p-873,p-874,p-875,p-876 from NKJP text with id: PELCRA_6103000000005</title>
+    </titleStmt>
+  </fileDesc>
+  <profileDesc>
+    <textClass>
+      <catRef scheme="#nkjp" target="Inne teksty pisane"/>
+    </textClass>
+  </profileDesc>
+  <revisionDesc/>
+</teiHeader>

@@ -1,0 +1,12 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Hokejowi mistrzowie Polski po bardzo dobrym, jak na polskie warunki, meczu pokonali u siebie tyski GKS 5:1. Pierwszego gola strzelili jednak goście, a konkretnie ex-gracz Dworów Unii Karel Horny. W ostatnich 10 minutach "rozwiązał się" worek z bramkami i Mariusz Kieca czterokrotnie musiał wyciągać krążek z siatki. Tym samym oświęcimianom udało się zmazać plamę z meczu o Puchar Polski, kiedy to ulegli tyszanom 3:8. - Mecz mógł się podobać. Grał mistrz z zespołem aspirującym do tytułu i to było widać na lodzie. Szwankowała skuteczność. Nie potrafiliśmy zamienić na bramki, bodaj czterech pojedynków sam na sam. Na szczęście od momentu trafienia Wojtka Wojtarowicza zaczęliśmy wykorzystywać sytuacje bramkowe - mówił po meczu trener Dworów Karel Suchanek. - Decydujące znaczenie dla losów meczu miała sytuacja pod koniec drugiej tercji, kiedy przez sześć minut graliśmy w przewadze. Nie udało się wykorzystać wykluczeń przeciwnika i to zdeprymowało moich zawodników. Na początku ostatniej tercji w słupek trafił Ślusarczyk, a później kiedy straciliśmy drugiego gola gospodarze całkowicie już przejęli inicjatywę - powiedział trener tyszan Zbynek Neuwirth, który przez dwa lata pracował w Oświęcimiu. Zmartwiony porażką swojego zespołu był bramkarz gości Mariusz Kieca. - W końcówce meczu oświęcimianie pod naszą bramką robili co chcieli. Do 50 minuty mecz był wyrównany i szkoda, że byliśmy mało skuteczni - twierdzi Mariusz Kieca. Karel Horny trafił do siatki, ale jego nowy zespół wyjechał z Oświęcimia bez punktów. - Zamieniłbym z przyjemnością tego gola na punkty. Nie graliśmy źle i z pewnością nie zasłużyliśmy na tak wysoką porażkę. Liga dopiero się rozkręca i myślę, że jeszcze napsujemy trochę krwi mistrzom Polski - rzucił na koniec Karel Horny. Kibiców oświęcimian cieszy wysoka forma Leszka Laszkiewicza.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

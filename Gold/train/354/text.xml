@@ -1,0 +1,16 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Panie Marszałku, mam taką uwagę, która być może posłuży nam w przyszłości do sprawnego prowadzenia posiedzenia plenarnego Senatu. Wydaje mi się, że kto jak kto, ale przewodniczący Komisji Ustawodawczej najlepiej zna - czy powinien znać - przepisy, regulamin. Mam takie wrażenie, jakby to, co czynił tutaj na sali, robił nie w nagrodę, jako wyróżnienie, a za karę, gdyż wygłosił, poszedł, mam odczucie, że właściwie ma to wszystko w nosie. Nie wiem, czy tylko ja mam takie odczucie, czy to odczucie podzielają również inni panowie senatorowie. Dziękuję bardzo.</p>
+        <p xml:id="p-2">Chcę powiedzieć, że obowiązkiem senatora sprawozdawcy jest być na posiedzeniu nie tylko w czasie zadawania pytań - bo jak miałby odpowiedzieć - ale także podczas dyskusji, bo przecież on później ma prowadzić obrady komisji, merytorycznie, w tym zakresie, już abstrahuję od przypadku, gdy jest przewodniczącym komisji, bo ja tak widzę tę rolę, że sprawozdawca jest tą merytoryczną osobą. Tak więc ta uwaga, nie pod adresem senatora Andrzejewskiego, ale w ogóle, sama jej istota, jest bardzo ważna. Wszyscy sprawozdawcy i kandydaci na sprawozdawców niech wezmą to do siebie.</p>
+        <p xml:id="p-3">Proszę bardzo, senator Paweł Abramski. Następnym mówcą będzie senator Jan Chojnowski.</p>
+        <p xml:id="p-4">Panie Marszałku! Wysoka Izbo!</p>
+        <p xml:id="p-5">Oczywiście jako wiceprzewodniczący Komisji Regulaminowej i Spraw Senatorskich muszę ze zdumieniem stwierdzić, że znajomość regulaminu przez zarówno senatorów, jak i pana marszałka, przechodzi moje najśmielsze wyobrażenie, bo jakoś nie pamiętam, żeby gdziekolwiek w regulaminie było zapisane, że sprawozdawca musi być cały czas obecny na sali. Wydaje mi się, że jeżeli nawet śledzi...</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

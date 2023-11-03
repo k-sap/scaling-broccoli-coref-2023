@@ -1,0 +1,17 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">- Struchlałam - mówi. - Patrzę, a tu jakaś paczka owinięta sznurkiem. Tyle się słyszy o zamachach. Pomyślałam, że jeśli to bomba, to dom wyleci w powietrze. Zadzwoniłam po policję.</p>
+        <p xml:id="p-2">Pan Waldemar spał w najlepsze, a policja z najwyższą ostrożnością rozbrajała akordeon. Kiedy funkcjonariusze otworzyli pudło i stwierdzili, że to nie bomba tylko harmonia, zaproponowali kobiecie, która znalazła instrument, by go wzięła. Odmówiła.</p>
+        <p xml:id="p-3">- Jak ja mogłam wziąć coś, co nie jest moje - tłumaczy.</p>
+        <p xml:id="p-4">- Dopiero koło południa, przy rozmowie z córką olśniło mnie, że zostawiłem akordeon na schodach - mówi mężczyzna. Kiedy sąsiadka potwierdziła, że akordeon wzięła policja, uspokoił się. W policyjnych rękach instrument wydawał się nawet bezpieczniejszy niż w domu. Kiedy po kilku dniach mężczyzna zadzwonił pod policyjny numer 997 zrozumiał, że popełnił błąd.</p>
+        <p xml:id="p-5">- Nic nie wiedzieli - mówi. - W dodatku poinformowano mnie, że nawet nie byli tego dnia na ul. Płockiej. Oficer skierował mnie do komisariatu przy ul. Wólczańskiej, ale tam też niczego się nie dowiedziałem. Ani akordeonu, ani nawet wzmianki, że policja była w mojej kamienicy.</p>
+        <p xml:id="p-6">Kolejne telefony i prośby o pomoc nic nie dały. Pan Waldemar słyszał, że akordeonu nie ma, nikt go nie brał, a 2 maja żadnego policjanta na ul. Płockiej nie było. Tymczasem sąsiadka zaklina się, że na policję dzwoniła, a parę innych osób widziało, jak policjanci pakowali instrument do radiowozu.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

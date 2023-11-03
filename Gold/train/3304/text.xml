@@ -1,0 +1,17 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Wypadło z lodówki</p>
+        <p xml:id="p-2">Jednak za komunizmu urazy jakby przymarzły. Kiedy w 1989 r. otwarto lodówkę, powróciły. Poszło o zbiorową oczyszczalnię ścieków, która miała obsługiwać obydwa miasta. Wymyślona w latach 80. była typowym przykładem komunistycznej gigantomanii, projektu realizowanego bez żadnych kalkulacji ekonomicznych i ekologicznych. Kiedy w 1990 r. odrodziła się samorządność, wybuchła wojna na ekspertyzy, kontrekspertyzy, opinie, odwołania do urzędów i ministerstw i odwołania od odwołań. Wreszcie wygrał Ostrów. Buduje własną oczyszczalnię.</p>
+        <p xml:id="p-3">Przed wojną Ostrów był endecki, Kalisz socjalizujący. Dziś w pierwszym rządzi postsolidarność, w drugim postkomuniści.</p>
+        <p xml:id="p-4">Na ścianie jednego z ostrowskich domów można jeszcze odczytać apel z ostatniej wiosny. To kibice miejscowej czwartoligowej Ostrovii wzywali wszystkich chuliganów miasta do godnego powitania chuliganów z Kalisza, kibicujących KKS Kalisz: "Dowalić Żydom". - Wybuchły największe zamieszki w historii Ostrowa - opowiada Jarosław Wardawy. - Policja musiała użyć kul gumowych.</p>
+        <p xml:id="p-5">Przed wojną nieliczni ostrowscy Żydzi byli prawie bez wyjątku zasymilowani. Ich kaliscy ziomkowie stanowili jedną trzecią ludności miasta i tak jak w całej Kongresówce żyli w faktycznym getcie. Kalisz zwłaszcza w latach 30. był widownią wielu antysemickich ekscesów, Arkadiusz Pacholski pisze wręcz o pogromach. Witold Banach, dyrektor ostrowskiego muzeum, mówi, że przed wojną w złym tonie było jeździć na zakupy do Kalisza. Do Kalisza, czyli do Żydów.</p>
+        <p xml:id="p-6">W 1991 r. wojewoda kaliski w sposób pozbawiony jakiegokolwiek szacunku polecił usunięcie żydowskich tablic nagrobnych, wydobytych z koryta Prosny (wrzucili je tam hitlerowcy) przez Fundację Nissenbaumów. Doszło do interpelacji w Senacie USA. Pisze Pacholski: "Ostatni pogrom antysemicki miał miejsce w tym mieście (Kaliszu) latem 1991 r., a choć dokonano go nie na ludziach, lecz na nagrobnych tablicach, i choć dokonali go nie kaliszanie, ale ludzie z sąsiedniej miejscowości (...) Pochodzący z Ostrowa wojewoda zlecił tę usługę tamtejszemu przedsiębiorstwu".</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

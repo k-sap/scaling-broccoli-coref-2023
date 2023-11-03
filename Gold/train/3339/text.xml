@@ -1,0 +1,14 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Co bardziej pomysłowi szepczą po kątach, że ideałem byłoby wyposażenie tac w kasy fiskalne.</p>
+        <p xml:id="p-2">Dużo się dzieje: Instytut Pamięci Narodowej dorwał się do bezcennych dokumentów dotyczących festiwali sopockich. Badacze z IPN dokonali odkrycia: ubecja podsłuchiwała zagranicznych piosenkarzy. Sami nigdy byśmy na to nie wpadli. Chociaż tyle razy tłumaczono nam, że PRL była państwem orwellowskim. Teraz pamięć narodowa wzbogaci się o wiedzę, co plótł za kulisami hydraulik Drupi, bożyszcze widowni amfiteatru, jak gulgotała po wypiciu trzech jaj na surowo (świetne na gardło) kubańska gwiazda Bautista, jakimi słowami przeklinał niesprawny mikrofon enerdowiec Gerd Wolff. Kto wie, może teczki z raportami pozwolą na ustalenie, dlaczego w końcówce dekady Gierka rolnictwo trapiły dokuczliwe susze. Naukowcy z IPN wyjaśnią: to przez Miansarową, ruskiego wyjca. Śpiewała aż do skutku: "Pust wsiegda budiet sołnce" i w rezultacie kropla deszczu nie spadła na nasze pola. Upublicznienie (tak się dziś pisze) całej prawdy o Sopocie, przywrócenie jej narodowej pamięci przekona zakamieniałych malkontentów - każda złotówka wydana na prace Instytutu zwraca się stokrotnie. Nie ma więc co grymasić i wybrzydzać, przypominając bohatera teatralnej anegdoty, który po wysłuchaniu pochwał na temat gry koleżanki zamruczał: - W jej wieku Sarah Bernhard była już nieboszczką.</p>
+        <p xml:id="p-3">Niepodobna dogodzić wszystkim: ciągle przybywa znawców. Przekonał się o tym ostatnio Rafał Olbiński. Namalował w samolocie lecącym z Nowego Jorku portret pani prezydentowej. Świadomy tego, że portret sprzedany na aukcji wspomoże szlachetną fundację. "Gest na miarę portretu" - skwitowała to zdarzenie recenzentka plastyczna (podejrzewam, że nawet bardzo plastyczna) poważnego dziennika. Wytykając artyście marną jakość dzieła, odmłodzenie modelki i polowanie na medialny sukces. Czegoś tu nie rozumiem. Przecież nie od dziś wiadomo, że przy podobnych okazjach nie ma miejsca na eksperymenty: figuratywność przystoi figurom.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

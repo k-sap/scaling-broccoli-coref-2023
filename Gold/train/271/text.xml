@@ -1,0 +1,20 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Podczas rewizji w walizce i sienniku Adamca znaleziono nie tylko większe ilości prowiantu, ale także pełne współczucia listy od mamy i pokaźny zapas prezerwatyw.</p>
+        <p xml:id="p-2">- Popatrzcie tylko, towarzysze, kto tu przyjechał z nami na obóz i jakie przywiózł z sobą materiały do szkolenia? - wołał na apelu nasz chudy jak patyk kierownik, którego nazywaliśmy Dzierżyńskim.</p>
+        <p xml:id="p-3">Zebraliśmy się nad urwiskiem, żeby zgotować Adamcowi odpowiednie pożegnanie. Kiedy ukazał się w dole, idąc wzdłuż potoku, Dzierżyński dał nam znak i jak jeden mąż zawyliśmy:</p>
+        <p xml:id="p-4">- Uuuuuu, uuuuuuu!</p>
+        <p xml:id="p-5">Adamiec spojrzał w górę, a potem opuścił głowę i przyspieszył kroku. W tej samej chwili ukazała się stara góralka, która żwawo podążała za nim z wielką walizką na karku. Na ten widok zawyliśmy jeszcze głośniej, nie czekając już nawet na znak naszego Dzierżyńskiego. Adamiec jeszcze bardziej przyspieszył kroku i starowina ledwo mogła za nim nadążyć.</p>
+        <p xml:id="p-6">- Patrzcie go, panicza! - zawołał Dzierżyński.</p>
+        <p xml:id="p-7">- Zabierz od niej walizkę, ty byku!</p>
+        <p xml:id="p-8">- Wstyd, wstyd!</p>
+        <p xml:id="p-9">Adamiec zatrzymał się i próbował zabrać od góralki swoją walizkę, ale stara nie chciała mu oddać. Adamiec rozłożył ręce, żeby pokazać, że nic nie może poradzić, i chciał iść dalej, ale zawyliśmy znowu tak głośno, że znowu się musiał zatrzymać. Zastąpił góralce drogę, ale uparta staruszka zręcznie go wyminęła i pruła naprzód, cała przykryta jego wielką walizą.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

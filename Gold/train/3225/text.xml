@@ -1,0 +1,14 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Ogromne napięcie panuje między szyitami a sunnitami. Szyici, stanowiący 55 proc. muzułmańskiej populacji Iraku, czerpią duchowe natchnienie z ezoterycznej doktryny, według której wyłącznie religijni, nieomylni duchowni pojmują prawdziwe ukryte nauki Koranu. Polityczne oparcie znajdują w Iranie, gdzie szyizm od XVI w. stanowi oficjalną religię państwa. Siedmioletnia wojna iracko-irańska zaostrzyła stosunki szyitów z Saddamem, który stosował w stosunku do nich brutalną politykę represji. Kazania w szyickich meczetach były ściśle cenzurowane, działalność szkół została mocno ograniczona, a liczni kaznodzieje zakończyli życie w kazamatach. Upadek dyktatora niemal na pewno wyzwoli w nich chęć krwawej zemsty.</p>
+        <p xml:id="p-2">Nie bez powodu Amerykanie szukają obecnie kontaktu ze śmiertelnym wrogiem w Teheranie, czyniąc wszelkie możliwe starania, aby zapobiec jeszcze jednemu przelewowi krwi. Nikt nie jest jednak w stanie przewidzieć zachowania Iranu. Nie należy wykluczyć możliwości, że pod pretekstem niesienia bratniej pomocy wojska irańskie wkroczą na teren wschodniego Iraku. Podobna sytuacja może powstać na północy. Turcy już dzisiaj mówią o prewencyjnych akcjach militarnych mających na celu uniemożliwienie powstania niepodległego Kurdystanu. Państwo takie doprowadziłoby do irredenty milionów tureckich Kurdów. Do tego Ankara dopuścić nie może.</p>
+        <p xml:id="p-3">Turkmeni, stanowiący 15 proc. ludności, uważają się za całkiem odrębną grupę etniczną i nigdy przedtem nie zasiadali do stołu rokowań z pozostałymi frakcjami politycznymi. Nikt nie jest w stanie przewidzieć, jakie zajmą stanowisko w konflikcie i jakie wysuną żądania o szóstej po wojnie. Na razie wciśnięci między młot irackiego terroru a kowadło amerykańsko-tureckiej polityki starają się zadowolić żądania obu stron. Przyszłość pokaże, co z tego wyniknie.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

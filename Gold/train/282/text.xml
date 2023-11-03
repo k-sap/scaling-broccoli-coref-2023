@@ -1,0 +1,49 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">DONA</p>
+        <p xml:id="p-2">Bardzo pięknie...</p>
+        <p xml:id="p-3">ŁUKASZ</p>
+        <p xml:id="p-4">Cieszę się, że jesteśmy tego samego zdania.</p>
+        <p xml:id="p-5">DONA</p>
+        <p xml:id="p-6">Zadam ci tylko jeszcze jedno pytanie. Czy to cię naprawdę interesuje?</p>
+        <p xml:id="p-7">ŁUKASZ</p>
+        <p xml:id="p-8">Co?</p>
+        <p xml:id="p-9">DONA</p>
+        <p xml:id="p-10">Załóżmy, że będziesz walczył o Agnieszkę. Będziesz do niej chodził... przekonywał... prosił... błagał...</p>
+        <p xml:id="p-11">PAUZA</p>
+        <p xml:id="p-12">Będziesz pokazywał jaki jesteś fantastyczny. Będziesz pozował na kogoś zupełnie innego niż jesteś naprawdę...</p>
+        <p xml:id="p-13">ŁUKASZ</p>
+        <p xml:id="p-14">Bzdura.</p>
+        <p xml:id="p-15">DONA</p>
+        <p xml:id="p-16">No jak to? Przecież Agnieszka nie zakochała się w prawdziwym Łukaszu. Będziesz więc musiał udawać.</p>
+        <p xml:id="p-17">Zbliżenie Łukasza.</p>
+        <p xml:id="p-18">ŁUKASZ</p>
+        <p xml:id="p-19">Jeden facet powiedziałby, że cel uświęca środki.</p>
+        <p xml:id="p-20">DONA</p>
+        <p xml:id="p-21">Znam podobne przypadki. Niejeden facet "wychodził" sobie dziewczynę...</p>
+        <p xml:id="p-22">PAUZA</p>
+        <p xml:id="p-23">Ale czy to jest miłość? Czy tylko przyzwolenie... Sam będziesz sobie musiał odpowiedzieć na to pytanie.</p>
+        <p xml:id="p-24">ŁUKASZ</p>
+        <p xml:id="p-25">Możesz mi powiedzieć wprost o co ci chodzi?</p>
+        <p xml:id="p-26">DONA</p>
+        <p xml:id="p-27">SPOKOJNIE</p>
+        <p xml:id="p-28">Jeżeli Agnieszka odrzuciła tak wielkie uczucie... To to nie jest dziewczyna dla ciebie.</p>
+        <p xml:id="p-29">Łukasz patrzy zadumany nad tym co usłyszał.</p>
+        <p xml:id="p-30">Scena</p>
+        <p xml:id="p-31">WNĘTRZE. DZIEŃ. MIESZKANIE DZIEWCZYN. POKÓJ KINGI I AGNIESZKI. AGNIESZKA, KAROL</p>
+        <p xml:id="p-32">Karol siedzi z Agnieszka w jej pokoju. Kasia śpi.</p>
+        <p xml:id="p-33">AGNIESZKA</p>
+        <p xml:id="p-34">Naprawdę nie wiem co mam ci poradzić.</p>
+        <p xml:id="p-35">KAROL</p>
+        <p xml:id="p-36">Aga, no proszę cię. Jak ty nie wiesz, to kto ma wiedzieć?</p>
+        <p xml:id="p-37">AGNIESZKA</p>
+        <p xml:id="p-38">Ale skąd ja mogę wiedzieć co się robi, żeby zdobyć dziewczynę?</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

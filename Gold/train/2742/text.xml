@@ -1,0 +1,23 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">2. Komisja wydaje zezwolenie w ciągu dwóch miesięcy od dnia złożenia wniosku.</p>
+        <p xml:id="p-2">3. Komisja odmawia zezwolenia, jeżeli zmiana jest sprzeczna z prawem lub interesem uczestników funduszu.</p>
+        <p xml:id="p-3">4. O zmianie statutu funduszu towarzystwo ogłosi w sposób określony w statucie.</p>
+        <p xml:id="p-4">5. Zmiana statutu funduszu wchodzi w życie w terminie trzech miesięcy od dnia dokonania ogłoszenia o zmianie statutu lub od dnia ostatniego ogłoszenia, jeżeli statut przewiduje więcej niż jedno ogłoszenie.</p>
+        <p xml:id="p-5">6. Komisja może zezwolić na skrócenie terminu określonego w ust. 5, jeżeli nie naruszy to interesu uczestników funduszu albo, jeżeli skrócenia terminu wymaga interes uczestników funduszu.</p>
+        <p xml:id="p-6">7. Fundusz inwestycyjny zawiadamia Komisję o dokonaniu ogłoszeń i terminach ich dokonania oraz składa wniosek do sądu rejestrowego o wpisanie do rejestru zmiany statutu, dołączając do wniosku jego jednolity tekst wraz z informacją o dokonaniu ogłoszeń i o terminach ich dokonania. Sąd rejestrowy wpisuje do rejestru informację o zmianie statutu wraz z datą wejścia w życie zmiany.</p>
+        <p xml:id="p-7">Art. 20.</p>
+        <p xml:id="p-8">1. Termin na zebranie wpłat do funduszu inwestycyjnego biegnie od dnia doręczenia zezwolenia na jego utworzenie i nie może być krótszy niż siedem dni ani dłuższy niż cztery miesiące.</p>
+        <p xml:id="p-9">2. Osoby zapisujące się na jednostki uczestnictwa albo na certyfikaty inwestycyjne dokonują wpłat do funduszu inwestycyjnego i otrzymują pisemne potwierdzenie wpłat.</p>
+        <p xml:id="p-10">3. Zapis na jednostki uczestnictwa albo na certyfikaty inwestycyjne jest nieodwołalny i bezwarunkowy.</p>
+        <p xml:id="p-11">Art. 21.</p>
+        <p xml:id="p-12">1. Towarzystwo prowadzi zapisy, o których mowa w art. 20 ust. 2, bezpośrednio lub za pośrednictwem podmiotu prowadzącego działalność maklerską.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

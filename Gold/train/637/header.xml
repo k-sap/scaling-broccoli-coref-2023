@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<teiHeader xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xml:lang="en">
+  <fileDesc>
+    <titleStmt>
+      <title>Paragraphs: p-685,p-686,p-687,p-688,p-689,p-690,p-691 from NKJP text with id: IPIPAN_1301920021005</title>
+    </titleStmt>
+  </fileDesc>
+  <profileDesc>
+    <textClass>
+      <catRef scheme="#nkjp" target="Dzienniki"/>
+    </textClass>
+  </profileDesc>
+  <revisionDesc/>
+</teiHeader>

@@ -1,0 +1,17 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Dziś o godz. 20.30 piłkarska reprezentacja Polski w towarzyskim meczu w hiszpańskim Jerez zmierzy się ze Słowacją. Spotkanie transmituje TVP2.</p>
+        <p xml:id="p-2">Kadra po raz dziewiąty wystąpi pod wodzą holenderskiego szkoleniowca Leo Beenhakkera. Od 7 października polscy piłkarze zanotowali serię pięciu kolejnych zwycięstw: 1:0 z Kazachstanem, 2:1 z Portugalią, 1:0 z Belgią, 5:2 ze Zjednoczonymi Emiratami Arabskimi i ostatnio w sobotę 4:0 z Estonią.</p>
+        <p xml:id="p-3">W meczu ze Słowacją będą mogli wystąpić reprezentanci z zagranicznych klubów, bo spotkanie rozgrywane jest w oficjalnym terminie UEFA. Zabraknie niestety kontuzjowanego Euzebiusza Smolarka z Borussii Dortmund.</p>
+        <p xml:id="p-4">Gra ze Słowacją to ostatni sprawdzian przed nadchodzącymi meczami w eliminacjach mistrzostw Europy. 24 marca gramy z Azerbejdżanem w Krakowie, a cztery dni później z Armenią w Kielcach. Słowaków, grających w grupie D, w tych samych terminach czekają wyjazdy na Cypr i do Irlandii. Słowacy osiągają niezłe wyniki w eliminacjach Euro 2008. Są na trzecim miejscu za Niemcami i Czechami. Przegrali z tymi rywalami u siebie 0:3 i 1:4, a wygrali u siebie z Cyprem 6:1 i na wyjeździe z Walią 5:1.</p>
+        <p xml:id="p-5">Najbardziej znanymi postaciami słowackiej drużyny są: Vratislav Gresko i Robert Vittek z FC Nuernberg oraz Filip Sebo z Glasgow Rangers.</p>
+        <p xml:id="p-6">Słowacki zespół nie wystąpi w najsilniejszym składzie, m.in. Marek Czech z FC Porto i Marek Sapara z Rosenbergu Trondheim odmówili udziału w meczu ze względu na niedawne kontuzje.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

@@ -1,0 +1,14 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Mieszkańcy Bali boją się: idzie bieda. Lotnisko puste (wiele lotów odwołano), taksówki stoją, hotele puste, restauracje (tysiące restauracji) puste. Po co gotować, po co łowić ryby, krewetki, zbierać owoce, warzywa? Po co robić pamiątki, biżuterię, latawce?</p>
+        <p xml:id="p-2">Telefon do Centrum Kryzysowego: zidentyfikowano już dziewięćdziesiąt osiem ciał.</p>
+        <p xml:id="p-3">Śledziła wszystko, co ukazuje się w polskiej prasie na temat terroryzmu. Czytała w internecie. Do szefowej działu reportażu "Gazety Wyborczej" napisała 13 września z Malezji: "W reportażu o WTC (Poziom zero, "Duży Format", 11.09.2002) Tomasz Kizny pisze: "Ruiny World Trade Center wywieziono na wysypisko śmieci na Staten Island. Zanim spoczęły tam na zawsze...". Wizja tyleż wzruszająca, co wątpliwa. Kilka dni temu w dzienniku "New Straits Times" wychodzącym w Kuala Lumpur ukazała się depesza Associated Press, z której wynika, że dwieście pięćdziesiąt tysięcy ton szczątków z dwóch bliźniaczych wież WTC zostało sprzedanych amerykańskiej firmie z New Jersey, która z kolei odsprzedała je innym złomowiskom w kraju i za granicą. W rezultacie stalowe części amerykańskich wież trafiły do jedenastu państw, między innymi do Indii, Chin i Malezji. Ironia losu, zakład w Malezji, w którym odpady zostały poddane recyklingowi, znajduje się czterdzieści km od mieszkania byłego kapitana Yuzida Suufaata, członka jednej z ekstremistycznych grup islamskich. W tym właśnie mieszkaniu, w mieście Kajang, w styczniu 2000 roku spotkała się grupka spiskowców, a wśród nich Khaild al-Mihdar i Nawaf al-Hazmi. Dwadzieścia miesięcy później porwali oni samolot, który uderzył w Pentagon.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

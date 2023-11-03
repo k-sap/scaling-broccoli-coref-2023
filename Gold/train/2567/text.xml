@@ -1,0 +1,18 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">W mieście uważają, że na wsi łatwiej się bronić, bo ludzie walczą o swoje, łatwiej podać rękę sąsiadowi zza płotu niż Ø z parteru bloku, gdy samemu mieszka się na dziesiątym piętrze.</p>
+        <p xml:id="p-2">- Są tu wsie, które, jak tylko trochę zeszła woda, słały do księdza Kondzieli delegacje o pomoc, bo sami nie zrobili nic - odrzekną w Sławicach. - Obrona nie zależy od bloku i piętra, ale od ludzi.</p>
+        <p xml:id="p-3">- Bo u nas ludzie tacy - wyjaśnia wójt Juszczak - że zawsze ktoś znajdzie się na miejscu, żeby pokierować. W Sławicach ksiądz Kondziela, gdzie indziej sołtys.</p>
+        <p xml:id="p-4">Po chwili dodaje: - Pan policzy, ile w Sławicach organizacji. Straż pożarna - raz, koło mniejszości niemieckiej - dwa, kobiety, które przychodzą pomagać do Caritasu, Bóg wie, co jeszcze. Pieniędzy nie było, a dawałem choć trochę, żeby przetrwały Ludowe Zespoły Sportowe. Tu ludzie potrafią razem.</p>
+        <p xml:id="p-5">To, o czym opowiada wójt Ludwik Juszczak, socjologowie nazywają społeczeństwem obywatelskim.</p>
+        <p xml:id="p-6">Tuba proboszcza</p>
+        <p xml:id="p-7">Jak ustał nurt, wtedy od najniżej położonych gospodarstw Sławic zaczęły się piesze wędrówki. Ludzie z kijami w dłoniach, z tobołkami ocalałego dobytku szli przez brunatne bajoro tam, gdzie nie dotarła woda. W pierwszych suchych wsiach obcy dawali chleb, prosili na obiad, użyczali dachu nad głową. Jak kto prowadził krowę, znalazło się miejsce i dla krowy.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

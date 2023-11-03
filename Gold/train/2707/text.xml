@@ -1,0 +1,22 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Concordia i Polonia wystąpiły w roli nauczycieli</p>
+        <p xml:id="p-2">W czwartej kolejce piłkarskiej klasy okręgowej wysoką skutecznością wykazali się zawodnicy Concordii Piotrków i Polonii Rokiciny. Obie drużyny strzeliły swoim rywalom w sumie 16 bramek.</p>
+        <p xml:id="p-3">W okręgówce trzy zespoły mogą pochwalić się kompletem punktów. Są nimi wyżej wymieniona Concordia, Pilica Przedbórz oraz Warta Carbo Pławno.</p>
+        <p xml:id="p-4">Skalnik Sulejów - Concordia Piotrków 1:9 (0:6)</p>
+        <p xml:id="p-5">Sulejowianie, którzy dotychczas zbierali pochlebne recenzje, zdeklasowani zostali przez zawodników z Piotrkowa. Podopieczni Tomasza Fiszera zagrali z polotem. Bogatym łupem bramkowym podzielili się: Ireneusz Komar 3, Hubert Górski 3, Janusz Stolarski, Lech Świstak i Bartłomiej Idzikowski, a honorowe trafienie dla sulejowian uzyskał Kamil Szymanek.</p>
+        <p xml:id="p-6">Polonia Rokiciny - Alma Grocholice 7:0 (4:0)</p>
+        <p xml:id="p-7">W meczu dwóch nowicjuszy zdecydowanie lepszą ekipą byli rokicinianie, którzy komplet punktów zapewnili sobie już po 45 minutach. Bramki dla miejscowych strzelili Sebastian Miński 2, Jarosław Winnicki 2, Łukasz Woźny 2 (w tym jedna z rzutu karnego) i Krzysztof Kowalczyk.</p>
+        <p xml:id="p-8">Włókniarz Moszczenica - Lechia Tomaszów 3:0 (3:0)</p>
+        <p xml:id="p-9">O wygranej moszczeniczan zadecydowała pierwsza odsłona, kiedy bramki dla nich zdobyli: Jarosław Rzeźnik, Marcin Staniaszek i Bogdan Świstak.</p>
+        <p xml:id="p-10">LKS Mierzyn - Szczerbiec Wolbórz 2:0 (1:0)</p>
+        <p xml:id="p-11">W derbach powiatu piotrkowskiego lepsi okazali się zawodnicy z LKS Mierzyn. Na prowadzenie wyszli w 32 minucie po uderzeniu Cezarego Jończyka. Wynik ustalony został w 68 minucie, kiedy to rzut karny wykorzystał Karol Kwiecień. Wcześniej faulowany był Radosław Pawłowski.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

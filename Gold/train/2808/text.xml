@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Pewne nieścisłości</p>
+        <p xml:id="p-2">Są pewne nieścisłości, bowiem IPN i wymiar sprawiedliwości twierdzi, że nie był w stanie jej nigdzie zlokalizować, a w artykule pisze że PRL prosił o ekstradycję Wielką Brytanię już od 1949 roku. Tutaj jedne źródła zaprzeczają drugim. Natomiast to co jest pod tym linkiem (jako podstawowe źródło informacji w artykule) to jest czysta publicystyka, przypomina mi to raczej to, co prasa robi nadgminnie (również w polityce) - pisze artykuł prasowy o czymś, co później okazuje się nie prawdą zgodną z dowodami lub przesadzeniem na jakiś temat. Proszę inne osoby o wypowiedzenie się na ten temat, co sądzicie?</p>
+        <p xml:id="p-3">13: 20, 2 lut 2007 (CET): Potwierdzam powyższe słowa. W artykule jest po prostu za dużo oskarżeń prasowych, przepisanych z artykułu prasowego. Cześć zdań w haśle się miesza lub się wyklucza. To co zrobiła Helena Mathea powinno być uźródłowione nie wycikiem z prasy lecz konkretną dokumentacją IPN bądź innych organów ścigania.</p>
+        <p xml:id="p-4">16: 29, 7 kwi 2007 (CEST) Minęły następne dwa miesiące i nic się w artykule nie zmieniło. Wciąż jest to jedna wielka publicystyka. Poza tym życie (ogólne) osób może w ostateczności być opisywane z prasy, lecz jeśli są tam oskarżenia co do łamania prawa (itp) to powinny być podane rzetelne źródła do organów ścigania lub sądownictwa, bo tylko one mogą oskarżać inne osoby. Jeśli nic się nie zmieni i dalej to będzie artykuł w którym prawie wszystko to oskarżenia poparte jedynie prasową publicystyką to będę zmuszony wstawić szablon . Jak na razie jest tylko jedne rzetelne źródło (link do IPN) dotyczący wstępu artykułu. Trzeba wyszukać resztę takich źródeł lub usunąć 2/3 tekstu z działu</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

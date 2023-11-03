@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Kto jest winien?</p>
+        <p xml:id="p-2">Zdaniem specjalistów ubezpieczeniowych poważnym błędem większości klientów, tak kiedyś, jak i teraz jest to, że tylko 2 proc. ludzi czyta umowę ubezpieczeniową przed jej podpisaniem. Stąd w chwili, gdy klient nie miał już pieniędzy na życie i przypomniał sobie o polisie, z której mógłby w trudnej sytuacji finansowej skorzystać dowiadywał się w siedzibie towarzystwa, o tak zwanym współczynniku wartości wykupu polisy. Innymi słowy, nie dostawał tego co wpłacił. Rozżalony, czuł się oszukany przez towarzystwo, które z kolei tłumaczyło się taką, a nie inną umową. Tak więc, po części sami odpowiedzialni jesteśmy za złą lokatę naszych pieniędzy. Oczywiści polemizowanie, czy polisa np. na życie jest potrzebna czy nie jest stratą czasu, bo każdy rozsądny człowiek przyzna, że jest konieczna, ale tylko pod warunkiem, że nas na to stać. Oferty towarzystw ubezpieczeniowych zakładają dziś łączenie wielu produktów, np. zdrowotno - emerytalno - życiowych, byleby tylko skusić klienta.</p>
+        <p xml:id="p-3">Niezmienny jednak pozostaje fakt, że zawsze przed podpisaniem nawet najkorzystniejszej z punktu widzenia agenta umowy należy ją bardzo dokładnie przeczytać i skonsultować ze specjalistami z innych towarzystw.</p>
+        <p xml:id="p-4">Analitycy rynku ubezpieczeń zgodnym chórem potwierdzają zastój, a nawet powolny upadek imperium ubezpieczeniowego w Polsce. I nie tylko dlatego, że nie przybywa nowych klientów, ale przede wszystkim dlatego, że wieloletni masowo rezygnują. Pozostaną więc najsilniejsze i najlepiej działające firmy ubezpieczeniowe. Czy będzie lepiej dla nas, przyszłych klientów?</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

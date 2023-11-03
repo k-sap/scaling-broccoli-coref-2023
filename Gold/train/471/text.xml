@@ -1,0 +1,23 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Dziewczyna patrzy zaniepokojona, ale widząc, że się łagodnie do niej uśmiecha, opada z ulgą na dywan koloru jesieni i z wolna podciągnąwszy kolana, z twarzą przywaloną kipielą miedzianych włosów, zdaje się usypiać. I wtedy po raz pierwszy tego dnia Istvan chwyta dzwonienie cykad, do bólu przejmujące uciekanie czasu, nie do zatrzymania, bezpowrotne. Szklanka, którą podnosi do ust dygocącą ręką, uderza tępo o zęby i przejmuje Ø dreszczem przeczuć.</p>
+        <p xml:id="p-2">Kiedy już przygładziła spódnicę i rozglądała się niespokojnie, utykając w jednym sandale, Istvan, który pomagał w poszukiwaniach pod fotelem, parsknął głośnym śmiechem:</p>
+        <p xml:id="p-3">- Spójrz - sandał zawieszony na klamce zasłaniał dziurkę od klucza przed oczami służby.</p>
+        <p xml:id="p-4">- Żebyś mnie zabił, nie pamiętam, kiedy to zrobiłam - tłumaczyła się zawstydzona.</p>
+        <p xml:id="p-5">- Tym gorzej, jeśli masz takie odruchy.</p>
+        <p xml:id="p-6">- Nie dokuczaj - prosiła łasząc się, ocierając czołem o jego policzek.</p>
+        <p xml:id="p-7">Razem poszli do kuchni, przynieśli na wpół wystygłe potrawy. Odkorkował butelkę wina. Jedli przekomarzając się wesoło, pili wino i zaglądali sobie w oczy jak para zakochanych studentów.</p>
+        <p xml:id="p-8">- Dlaczegoś tak dziwnie na mnie patrzył?</p>
+        <p xml:id="p-9">- Na tym dywanie odkryłem cię na nowo, strasznie mi się podobałaś.</p>
+        <p xml:id="p-10">- E, pleciesz... Przecież mnie znasz do znudzenia; co tam nowego wypatrzyłeś?</p>
+        <p xml:id="p-11">- Wyglądałaś jak Ewa z flamandzkiego gobelinu.</p>
+        <p xml:id="p-12">- Lubisz ten dywan.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

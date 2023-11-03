@@ -1,0 +1,27 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">sp0: pieniędzy</p>
+        <p xml:id="p-2">sp1: do do budżetu miasta a z tego a zamiast a zamiast z tego i znów wracam do yy do stanowiska władz warszawy to yy yy yy obecne władze mogą powiedzieć tak no dobrze my jesteśmy postępowi w stosunku do yyy Lecha Kaczyńskiego który pięć lat temu w ogóle na nic nie zezwolił a my wam zezwalamy ale bierzemy se urlopy wyjeżdżamy róbcie sobie co chcecie więc to yy yy a to jest yy yy ja ja jakieś zobowiązanie również finansowe bo to</p>
+        <p xml:id="p-3">sp0: a czy to nie jest też brak takiej odwagi cywilnej trochę no bo</p>
+        <p xml:id="p-4">sp1: no ba</p>
+        <p xml:id="p-5">sp0: podejmuje się decyzje i</p>
+        <p xml:id="p-6">sp1: brak no ale</p>
+        <p xml:id="p-7">sp2: ja</p>
+        <p xml:id="p-8">sp1: no ale brak odwagi cywilnej oczywisty</p>
+        <p xml:id="p-9">sp2: jeśli wolno ?</p>
+        <p xml:id="p-10">sp0: panie yy panie Tadeuszu proszę bardzo</p>
+        <p xml:id="p-11">sp2: yyy więc tak yy yy no yy burmistrz Berlina yy Klaus Wuberajt w kampanii powiedział isz bin gej tak</p>
+        <p xml:id="p-12">sp0: ychy</p>
+        <p xml:id="p-13">sp2: jasno i czytelnie to to samo co przed chwilą mówił pan profesor i wygrał wybory ja nie widzę powodów i przeszkód yy żeby Robert Biedroń czy pan Niemiec yy yy yyy wystąpił yy no teraz są blisko wybory na prezydenta Warszawy i niech weźmie te sto tysięcy głosów</p>
+        <p xml:id="p-14">sp0: ychy</p>
+        <p xml:id="p-15">sp2: to będzie dobry test i będziemy mieli okazję się przekonać yyy po pierwsze no bo chyba sobie nie wyobrażam żeby w tajnym głosowaniu yy swój swego poparli bo to jest proste</p>
+        <p xml:id="p-16">sp1: no nie nie nie to jest yy pan panie po yyy panie pośle dobrze wie że to przecież podziały polityczne przebiegają w obrębie każdych yyy yyyy sp0: ugrupowań politycznych sp1: grup zawodowych prawda z yy</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

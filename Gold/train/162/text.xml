@@ -1,0 +1,14 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Pierwsza kościelna żona Bogusia na zdjęciach ślubnych jest umalowana do przesady. On, wysoki, w trzeciej lidze grał w piłkę. Po ślubie nastał niby-eden: ona urzędniczka w angorowych sweterkach w szpic, on fizyczny w roboczej kufajce. Wspólna była tylko córka. On w Szwecji na kontrakcie montował karuzele, ona słuchała Bajora, który śpiewa piosenki o zakochanych, bo miała już kolegę z pracy. Po trzynastu latach małżeństwa powiedziała, że znalazła miłość życia. Boguś zostawił na stole klucze od domu. Po siedmiu latach zakochał się w Jadźce. Jadźka pamięta go z przystanku, z kolejek w sklepie albo jak szedł do Ø matki na niedzielę. Zaczepił ją 17 kwietnia przy klatce schodowej. Ponieważ była wiosna, zaproponował spacer. Wziął pod rękę. Ostatni raz szła tak z mężczyzną do ołtarza. Potem padał deszcz, ale deszczu nie czuła. Frunęła.</p>
+        <p xml:id="p-2">Grzech. Gdzieś po tygodniu zauważyła, że gdy się przytulają, Boguś jest podniecony. Nie robił pierwszego kroku. Zrobiła go po miesiącu. - Potem, jak smarkacze... Jadźka zaciąga się papierosem. - To był ogień i dym, wszędzie, na śniegu, na trawie, w motelu, w pokoju.</p>
+        <p xml:id="p-3">Jadźka: - Przychodzi moment, że nie jesteś w stanie tego zatrzymać. Taka błogość, że gdyby trwała trochę dłużej. Rano Boguś przynosił kawę do łóżka. Pierwsza ziemska rozkosz Jadźki w 40-letnim życiu. Według Jadźki, Bogusia dał jej Bóg, żeby przeżyła miłość cielesną. Trwała trzy i pół roku. Eden grzeszników.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

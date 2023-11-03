@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Na początku lat 90. środowisku fanów przyglądał się jeden z najwybitniejszych współczesnych kulturoznawców John Fiske. W tekście "Kulturowa ekonomia fandomu" celnie określił kulturę fanowską mianem cienia kultury oficjalnej - choć z jednej strony fani negują to, co oficjalne, i wynoszą na piedestał teksty niskie (sport, Hollywood, gry komputerowe, komiksy, literatura fantasy), z drugiej - często odwołują się do kategorii kultury wysokiej (któż nie słyszał miłośnika komiksów czy gier porównującego je do ambitnego filmu czy książki). Fiske odwołuje się do koncepcji Pierre’a Bourdieu, który uznał, że kultura funkcjonuje podobnie jak ekonomia - różnice w kapitale kulturowym (takim jak wykształcenie czy estetyczny gust jednostki), podobnie jak różnice w dystrybucji kapitału ekonomicznego, ustalają społeczną hierarchię. Człowiek na poziomie woli iść do teatru niż na kinowy hit, by odróżnić się od osób, które ze względu na brak wpojonego zainteresowania teatrem chętniej chodzą na "hollywoodzką papkę".</p>
+        <p xml:id="p-2">Smak w istocie nie jest kwestią indywidualnego wyboru, lecz wytworem systemu społecznego. Faworyzowane jest to, co trudniej dostępne. Gdy zainwestuję w odpowiednie wykształcenie, zyskam odpowiedni gust - a wraz z nim prestiż i wyższą pozycję społeczną, które mam szansę spieniężyć, otrzymując dzięki nim lepszą pracę itp. Posiadając wiedzę na temat sztuki, którą obejrzałem niedawno - a wraz ze mną kilkaset innych osób - na społecznej drabinie sytuuję się wyżej, niż poznając film, który w kinie zobaczyło stukrotnie więcej widzów. W trakcie edukacji wpaja się nam hierarchię zachowań: wizyta w teatrze ceniona jest wyżej niż w kinie, na stadionie czy zlocie fanów. Stając się miłośnikiem jednego, odróżniam się od miłośników czegoś innego.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

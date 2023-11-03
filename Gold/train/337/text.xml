@@ -1,0 +1,19 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">"Dachowanie" w Szklarce Myślniewskiej 2 marca w Szklarce Myślniewskiej nieznany sprawca - kierujący samochodem, na łuku drogi zjechał na przeciwny pas ruchu, czym doprowadził do tego, że kierujący seatem ibizą, chcąc uniknąć zderzenia się pojazdów, zjechał do rowu, po czym dachował.</p>
+        <p xml:id="p-2">Kradzież piły 2 marca w Kuźnicy Bobrowskiej nieznany sprawca, w okresie 16.02 - 19.02.2007r., dokonał kradzieży piły spalinowej marki Stihl o wartości ok. 1.000 złotych na szkodę osoby prywatnej.</p>
+        <p xml:id="p-3">Ukradli komputer i aparaty cyfrowe 2 marca w Ostrzeszowie w sklepie PSS przy ul. Kolejowej dwóch sprawców - kobieta i mężczyzna, wykorzystując nieuwagę sprzedawcy, dokonało kradzieży komputera typu laptop oraz dwóch aparatów cyfrowych. Łączna wartość strat na kwotę co najmniej 3.600 złotych.</p>
+        <p xml:id="p-4">Nieprawidłowe wyprzedzanie 3 marca w Grabowie Wójtostwie kierujący oplem kadettem nieprawidłowo wyprzedzał ciągnik zetor, doprowadzając tym do kolizji Ø.</p>
+        <p xml:id="p-5">Nietrzeźwi na drogach powiatu 27.02.2007, Kuźniki, 44-letni B.B. kierujący fiatem ducato, 0,78 miligrama/litr</p>
+        <p xml:id="p-6">27.02.2007, Ostrzeszów, ul. Poprzeczna, 47-letni rowerzysta S.M., 0,75 miligrama/litr</p>
+        <p xml:id="p-7">27.02.2007, Ostrzeszów, gen. Sikorskiego, 48-letni rowerzysta P.J., 0,81 miligrama/litr</p>
+        <p xml:id="p-8">28.02.2007, Grabów, ul. Kolejowa, 50-letni rowerzysta S.S., 0,69 miligrama/litr</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

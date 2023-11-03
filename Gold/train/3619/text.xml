@@ -1,0 +1,16 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">9.Zadbaj, aby w bliskim otoczeniu znajdowały się symbole niezmierzonych ludzkich możliwości, które pozytywnie oddziałują na naszą podświadomość: mapę nieba, globus, obraz morskiej głębi, zdjęcie lub grafikę przedstawiającą górską wspinaczkę itp.</p>
+        <p xml:id="p-2">1.2. Świadomość celu</p>
+        <p xml:id="p-3">Jeżeli wiesz, dokąd zmierzasz, łatwiej tam dotrzesz. Aby żyć życiem, jakiego pragniesz, aby móc podejmować właściwe działania, powinieneś precyzyjnie określić, czego chcesz, do czego dążysz. Będziesz mógł nazwać swoje działania efektywnymi, jeśli dzięki nim osiągniesz rezultaty, jakie sobie zamierzyłeś.</p>
+        <p xml:id="p-4">Cele wielkie (życiowe) i te mniejsze, dotyczące najbliższych lat, miesięcy, tygodni, czy godzin muszą być jasne; wyraźnie sformułowane. Powinny być realne, jednak na tyle trudne, by ciągle stanowiły atrakcyjne wyzwanie. Równowagę między jednym i drugim można znaleźć odpowiadając na pytania: Czy uczę się tego, co mi jest lub będzie potrzebne? Czy mój cel rzeczywiście jest dla mnie ważny (motywujący)? Czy aktualnie mam odpowiednie umiejętności i zasoby, które pozwolą mi zdobyć daną wiedzę, czy opanować nową umiejętność?</p>
+        <p xml:id="p-5">Dobrze sformułowany cel musi być postawiony pozytywnie. Łatwiej jest dążyć do czegoś, czego chcesz, niż do czegoś, czego nie chcesz. Palacze papierosów, chcący rzucić ten zgubny nałóg, często się przekonują o prawdziwości tej myśli. Myśl o swoim celu jak najbardziej szczegółowo. Zapisz informacje mówiące o tym, kiedy go osiągniesz, po czym poznasz, że go osiągnąłeś, co zmieni się w Twoim życiu. Wyobrażaj sobie często jak najdokładniej ten moment z przyszłości, kiedy uda Ci się zrealizować zamierzenia; jak się będziesz z tym czuł, gdzie będziesz wykorzystywał nowe umiejętności, w jakim stopniu przyda się to innym. Twoje wyobrażenia zaprogramują Twój umysł, który będzie wspomagał Cię w drodze do osiągnięcia ważnych celów.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

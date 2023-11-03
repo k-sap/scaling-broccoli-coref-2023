@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Tak jak każdy kij ma dwa końce, tak stosowanie lekarstw ma swoje dobre i złe strony. Wprawdzie leki wspomagają organizm w walce z chorobą, jednak ich działanie może mieć szkodliwe skutki uboczne. Ale nawet jeśli ich nie ma, to i tak po spełnieniu swojego działania powinny być rozłożone i usunięte z organizmu.</p>
+        <p xml:id="p-2">Rozkładaniem lekarstw w organizmie człowieka zajmuje się wiele enzymów. Należy do nich między innymi rodzina enzymów CYP3A. Znane są one z tego, że potrafią rozłożyć niemal połowę stosowanych lekarstw, w tym preparaty immunosupresyjne oraz stosowane w chemioterapii raka i leczeniu HIV.</p>
+        <p xml:id="p-3">Dr Erin Schuetz z St. Jude Children's Research Hospital w Memphis postanowił zbadać aktywność tej grupy enzymów. W trakcie badań on i jego współpracownicy odkryli, iż należący do tej grupy enzym CYP3A5 występuje w ludzkich organizmach w dużo większej liczbie form, niż do tej pory myślano. Niektórzy ludzie mogą też wytwarzać więcej tego enzymu niż inni. Organizmy czarnych mieszkańców Ameryki produkują go więcej niż organizmy białych i Azjatów.</p>
+        <p xml:id="p-4">Odkrycie amerykańskich naukowców jest pierwszym krokiem na drodze do zrozumienia genetycznego podłoża metabolizmu leków oraz mechanizmów działania enzymów dezaktywujących lekarstwa. Być może w przyszłości informacje te pozwolą na opracowanie prostych testów genetycznych umożliwiających określenie zdolności organizmu pacjenta do produkcji odpowiednich enzymów. Dzięki temu lekarz będzie mógł określić optymalną dawkę i rodzaj lekarstwa. Jest to bardzo istotne, ponieważ wiele lekarstw, rozkładając się, tworzy związki toksyczne.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

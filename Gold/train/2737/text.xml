@@ -1,0 +1,19 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">W razie śmierci osoby pobierającej rentę inwalidzką lub członka jej rodziny albo osoby pobierającej rentę rodzinną przysługuje zasiłek pogrzebowy w wysokości i na warunkach określonych w przepisach o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych.</p>
+        <p xml:id="p-2">Rozdział 7</p>
+        <p xml:id="p-3">Przepisy przejściowe i końcowe</p>
+        <p xml:id="p-4">1. Renty inwalidzkie przewidziane w ustawie dla inwalidów wojennych przysługują również osobom zaliczonym do jednej z grup inwalidów wskutek inwalidztwa powstałego w związku z działaniami wojennymi lub mającymi charakter wojennych w okolicznościach innych niż określone w art. 6, jeżeli osoby te były uznane za inwalidów wojennych w myśl przepisów obowiązujących przed wejściem w życie ustawy.</p>
+        <p xml:id="p-5">2. Jeżeli osoba, o której mowa w ust. 1, uprawniona jest z tytułu inwalidztwa do świadczeń o charakterze rentowym z instytucji zagranicznej, rentę przysługującą na podstawie niniejszej ustawy zmniejsza się o 25% renty miesięcznie, niezależnie od zmniejszenia wynikającego z przepisów o zbiegu uprawnień rentowych.</p>
+        <p xml:id="p-6">3. Przepisy ust. 1 i 2 stosuje się odpowiednio do rent rodzinnych.</p>
+        <p xml:id="p-7">4. Osobom, o których mowa w ust. 1 i 2, przysługują uprawnienia określone w art. 12, 13, 15, 16, 18 i 21-23c, a osobom, o których mowa w ust. 3, określone w art. 27 i 28.</p>
+        <p xml:id="p-8">1. Świadczenia przewidziane w ustawie dla inwalidów wojskowych przysługują również osobom zaliczonym do jednej z grup inwalidów na skutek inwalidztwa powstałego w czasie czynnej służby wojskowej w formacjach innych niż określone w art. 30, jeżeli osoby te uznane były za inwalidów wojskowych w myśl przepisów obowiązujących przed wejściem w życie ustawy.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

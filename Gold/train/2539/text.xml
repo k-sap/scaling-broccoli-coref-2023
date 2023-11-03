@@ -1,0 +1,20 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Rozpoznajemy, m.in. ciekawe gatunki roślin i zwierząt, pokazujemy urozmaicenie obszaru pod względem geograficznym i przyrodniczym.</p>
+        <p xml:id="p-2">Te nietypowe lekcje odbywają się w ramach edukacji przyrodniczej. W maju uczestniczyło w nich 500 osób. Zajęcia trwają około sześciu godzin.</p>
+        <p xml:id="p-3">– Ostatnio zaprojektowaliśmy wieżę widokową na granicy rezerwatu Stawy Przemkowskie – mówi Lucjan Zawadzki. – Turysta będzie mógł z góry oglądać jego panoramę.</p>
+        <p xml:id="p-4">Budowa wieży rozpocznie się jesienią. Pieniądze na tę inwestycję przekażą powiatowy i wojewódzki fundusz ochrony środowiska. – Trzeba być pomysłowym – dodaje Zawadzki. – Piszemy różne projekty edukacyjne i przyrodnicze, które są w ten sposób finansowane, żeby uatrakcyjnić nasz teren, ale też żeby poprawić jego funkcjonowanie.</p>
+        <p xml:id="p-5">Temu ma służyć m.in. wykonanie nowego przepustu pod drogą. W ten sposób woda z przepompowni koło Ostaszowa popłynie na użytek ekologiczny.</p>
+        <p xml:id="p-6">W ubiegłym roku przemkowski park odwiedziło około 25 tys. turystów. Jedną z atrakcji dla przyjezdnych jest pobyt w gospodarstwie agroturystycznym. Obecnie w tym rejonie są tylko dwa. – Powinno być ich więcej, bo jest to jeden z pomysłów na rozwój całego obszaru – twierdzi Lucjan Zawadzki. – Być może nowe już się gdzieś tworzą. To byłoby bardzo dobre rozwiązanie.</p>
+        <p xml:id="p-7">Piotr Jamrug z Ostaszowa prezentuje dorodne przemkowskie karpie.</p>
+        <p xml:id="p-8">Park w pigułce</p>
+        <p xml:id="p-9">Przemkowski Park Krajobrazowy zajmuje powierzchnię 22.338 ha i rozciąga się na terenie gmin: Przemków, Gaworzyce, Radwanice i Chocianów (powiat polkowicki) oraz Gromadka (powiat bolesławiecki). Najwyższy punkt: 187,4 m n.p.m. – Wydma koło Wilkocina, najniższy: ok. 128,7 m n.p.m. nad rzeką Szprotawa. Kontakt: tel/fax (076) 8310–924.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

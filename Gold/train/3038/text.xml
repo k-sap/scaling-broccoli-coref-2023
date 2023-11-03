@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Urszula odpowiedziała mu przez sen, nie otwierając oczu:</p>
+        <p xml:id="p-2">- Cebula.</p>
+        <p xml:id="p-3">W jednej chwili zrozumieli, że zaszli za daleko, choć żadne się do tego nie przyznało. Ale od tej nocy on zaczął otwierać okna sypialni już na trzy godziny przed snem, ona zaś nauczyła się płukać usta szałwią, a potem na bazarze, pośród sprowadzanych z zagranicy cudów, wygrzebała odświeżacz do ust i zrezygnowała z jedzenia surowego warzywa na czczo na rzecz syropów i nalewki własnej roboty, obrzydliwej w smaku, ale bezpiecznej, bo pachniała tylko spirytusem.</p>
+        <p xml:id="p-4">Po dwudziestu ośmiu latach małżeństwa wszystkie te walki mieli już za sobą, a to, co im pozostało, kłótnie staruszków o nic, były jak stare, dobrze znane i właściwie lubiane kapcie. Nigdy już nie przekroczyli niebezpiecznej granicy prawdy: ich małżeńskie potyczki były niczym więcej niż markowanymi ciosami. On zawsze pierwszy szukał dziury w całym. Narzekał, że Urszula źle prasuje jego koszule, że robi fałdki i zmarszczki, że kołnierzyk nie jest dość gładki, a gazeta nigdy nie leży tam, gdzie ją zostawił. Ona odpłacała mu, czekając chwili, aż zasiądą do obiadu, a Maurycemu przydarzy się to, co od kiedy ukończył sześćdziesiąt lat zaczęło przydarzać mu się częściej: stanie się nieuważny. Tu go miała: taplał łokcie w maselniczce, rozlewał herbatę na spodek i nie raz, nie dwa kotlet wyskoczył mu spod noża, lądując na środku stołu, a Urszula przygważdżała komentarzem każdą wychlapaną kroplę i każdy okruszek, szykując się, by powiedzieć to, co sprawiało jej największą przyjemność: "Znowu masz brudne wąsy. Powinieneś je zgolić, bo teraz to wyglądasz jak prosiak".</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

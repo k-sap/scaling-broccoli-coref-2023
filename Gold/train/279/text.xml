@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Ale dzisiaj jeszcze go widziałem. W gumofilcach, w czapce uszance pchał swój pojazd przez most. Korytem rzeki ciągnął lodowaty wiatr. Przed zmierzchem zaczęło się wypogadzać. Zanosiło się na mróz. Pchał swój pojazd w kierunku wschodnich przedmieść. Byłem po drugiej stronie mostu. Szedłem od siebie. Chciałem się napić w knajpie i pomyślałem o "Antałku". Lubiłem jego spokojną rozpacz. Faceci siedzieli i wspominali. Nikt nie mówił o przyszłości. Wszystko już było i zdarzenia się wyczerpały. Nasłuchiwałem. Czasami nie mówili nic. Nie mieli dokąd pójść. Wychodzili rano i musieli przeczekać dzień. Próbowali pić przyniesioną wódkę, ale barman był czujny i pokrzykiwał, żeby schowali albo się wynosili. Pod wieczór dawał sobie spokój. Sam miał na zapleczu ukrytą butelkę. Chwilami zawieszony pod sufitem telewizor wszystko zagłuszał. Chwilami wyglądało to tak, jakbyśmy wszyscy w czymś występowali. Byliśmy tylko trochę brudniejsi, bardziej zasyfieni i starzy. Ale to był ten sam program, ta sama martwota i pułapka bez wyjścia. Tam, w pełnym oświetleniu i na oczach całej ludności, zdychały wymalowane kretynki i wyszczekane dupki, a tutaj umieraliśmy my, mając za świadków jedynie siebie i barmana. To było spokojne umieranie. Życie po prostu powoli się ulatniało. Czasami ktoś się przysiadał i pytał:</p>
+        <p xml:id="p-2">- Jak leci, szofer? Jeszcze jeździsz?</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

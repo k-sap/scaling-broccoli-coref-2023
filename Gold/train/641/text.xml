@@ -1,0 +1,18 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Polska Organizacja Bezrobotnych urzędowała przy Elżbietańskiej 10/11 do maja 1996 roku. Gdzie ją znaleźć teraz? - z tym pytaniem zwróciliśmy się do Powiatowego Urzędu Pracy w Gdańsku. - Działają nadal - dowiadujemy się w PUP. - Mają bezterminowe pozwolenie na prowadzenie pośrednictwa. Znajdziecie ich przy ulicy Reduta Miś 1/4.</p>
+        <p xml:id="p-2">Stary budynek, na drugim piętrze odnajdujemy niewielki pokoik POB.</p>
+        <p xml:id="p-3">- Porzuciliśmy ankiety? - dziwi się Ryszard Butrymowicz, dyżurujący działacz organizacji bezrobotnych. - To niemożliwe. Nasze archiwum zabraliśmy ze sobą.</p>
+        <p xml:id="p-4">Butrymowicz nie dowierza, kiedy przekazujemy kilkanaście ankiet. - Mamy jeszcze tego trochę w redakcji, a pozostałe nadal znajdzie pan przy Elżbietańskiej - informujemy wolontariusza POB.</p>
+        <p xml:id="p-5">- No tak, to nasze... - przyznaje wreszcie. - Pojęcia nie mam, jak mogły zostać w naszej poprzedniej siedzibie. Przecież po przeprowadzce sprawdzaliśmy pomieszczenia przy Elżbietańskiej. Były puste... Tylko szafa stała...</p>
+        <p xml:id="p-6">Romuald Orzeł</p>
+        <p xml:id="p-7">PS. Oprócz ankiet, bardzo zajmującą lekturą były dokumenty, które pozostawiło po sobie przy Elżbietańskiej 10/11 Biuro Usług Geodezyjnych i Geologicznych G. Wiemy już o nich sporo. Czym się zajmowali, komu i za ile wykonywali ekspertyzy, dokumenty odpraw celnych, gdzie chciał jechać prezes, jak długo czekał na odebranie paszportu, itp., itd... Nie udało nam się ustalić obecnego adresu tej firmy.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

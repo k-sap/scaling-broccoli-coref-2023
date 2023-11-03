@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Teraz są na skraju całkowitego upadku. Nie remontowane od stulecia, eksploatowane ponad miarę, cudem jeszcze istnieją. Dziurawe podłogi, okna zakryte foliowymi płachtami, cieknące dachy i wszechobecny kamuflaż grubej warstwy rozmazanego brudu, taki jest ich obraz dnia dzisiejszego.</p>
+        <p xml:id="p-2">I jakby tego było mało, właśnie w nich zgromadzono same nieszczęścia Ukrainy, przemieniono w sanatoria gruźlicze, szpitale dla przewlekle chorych dzieci, domy starców. Tak jak jeszcze do niedawna w poniemieckich pałacach na naszym Pomorzu i Dolnym Śląsku.</p>
+        <p xml:id="p-3">Bronią się jeszcze sławne podolskie parki, które tak fascynowały Jerzego Stempowskiego, że poświęcił im cały esej zatytułowany W dolinie Dniestru. Wczasach dawnej Rzeczpospolitej pisał całą Ukrajnę ogarnęło szaleństwo ogrodnicze XVIII wieku. Ziemi na Kresach nie brakowało i parki ciągnęły się daleko i szeroko. Szaleństwo to dodajmy rozkwitało i w następnym stuleciu, gdy podolscy ziemianie w błyskawicznym tempie bogacili się na produkcji cukru (Podole zaspokajało wówczas 34 potrzeb całego imperium carów na ten produkt) i eksporcie zboża. Wiele z tych parków pozostało do dziś i choć zdziczałe i przetrzebione nadal są świadectwem tamtych szalonych pasji. Jak park krajobrazowy w Malejowcach otaczający obszerny klasycystyczny pałac mieszczący obecnie dziecięce sanatorium.</p>
+        <p xml:id="p-4">Do dawnej świetności powracają też niektóre katolickie kościoły. Oczywiście tylko nieliczne, te które przetrwały czasy radzieckie, gdy służyły jako magazyny nawozów lub hale fabryczne, które nie utraciły dachów i ścian i przy których przetrwały resztki wyznawców gotowych dziś do odbudowy.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

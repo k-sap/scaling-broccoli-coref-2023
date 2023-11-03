@@ -1,0 +1,14 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Europa i Ameryka Północna po drugiej wojnie światowej, mimo konfliktu koreańskiego oraz krwawej kampanii w Wietnamie, przez przeszło pół wieku nie zetknęły się bezpośrednio z wydarzeniami, jakie zagroziłyby ich codzienności. W większości wypadków Francuzi, Anglicy czy Kanadyjczycy mogli je oglądać w kolorach na ekranach domowych telewizorów, zazwyczaj między ckliwym serialem o wielkiej niespełnionej miłości a filmem ukazującym zgrozę zbrodni popełnianych przez rodzimych przestępców. Teraz wojna znalazła się na ich ulicach, w portach lotniczych, hotelach, a nawet na zatłoczonych targowiskach. Walizki, teczki lub plecaki ukrywać mogą dziesiątki kilogramów materiałów wybuchowych, zdolnych do zabicia wielu osób dalekich od myśli o konfliktach światowych, prawdziwych lub wymyślonych. Wydaje się, że brutalizacja dnia powszedniego osiągnęła swoje apogeum.</p>
+        <p xml:id="p-2">W jednym z ostatnio udzielonych wywiadów polski minister obrony przyznał, że ostrzeżenia amerykańskie o możliwości dokonania kolejnych ataków terrorystycznych Polska traktuje poważnie i zdaje sobie sprawę, że również może stać się ich obiektem. Trudno wyobrazić sobie następstwa podobnego rozwoju wypadków. Spontaniczny sposób reagowania Polaków na wydarzenia, zwłaszcza tej miary, mógłby stworzyć atmosferę niespotykanej dotychczas podejrzliwości, doprowadzić do uaktywnienia różnych fobii względem obcych: ludzi innej narodowości i innych ras, nie wspominając już o upowszechnieniu się postaw radykalnych prowadzących wprost do nietolerancji wobec inaczej myślących.</p>
+        <p xml:id="p-3">Terroryzm jest niebezpieczny nie tylko dlatego, że zabija ludzi, ale również dlatego, że prowadzi do rozprzestrzenienia się nienawiści oraz zabija rozwagę, stanowiącą podstawę społeczeństw cywilizowanych.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

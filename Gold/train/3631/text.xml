@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Kluczowe myśli filozofii Bergsona zostały wyłożone w jego pierwszym dziele: różnica między czasem rzeczywistym i abstrakcyjnym to tyle, co przeciwieństwo między tym, co swoiście ludzkie, a tym, co fizyczne, między świadomością i bezwładną materią; w różnicy tej ujawnia się praktyczna natura inteligencji. Różnica ta jest sprawą zwyczajnego doświadczenia: skoro uprzytomnimy sobie, że przepływ czasu jest par excellence formą życia świadomości i że struktura przeszłość-teraźniejszość-przyszłość jest jej wyłączną osobliwością, zauważymy natychmiast, że to, co w świadomości zachodzi, jest całkowicie niesprowadzalne do zdarzeń fizycznych i że niemożliwe i absurdalne jest opisywanie tego w ich kategoriach. Że mimo to opisów takich próbujemy i filozofia od takich prób się roi, wyjaśnia się tym, iż intelekt nasz żywiołowo myśli o świecie w kategoriach manipulacji praktycznych i nie mam dostępu do świadomości innej niż moja własna. Mimo ograniczeń naszego języka, który odwzorowuje związki przestrzenne, jesteśmy zdolni odsłonić naturalny błąd zarówno w filozofii, jak w myśleniu codziennym, i miast redukować ruch do nieskończonego szeregu stanów nieruchomych, a czynności jaźni do zdarzeń fizycznych, uchwycić ruchomość i doświadczenie świadome jako dane wyjściowe oraz opisywać wszystko inne przez odniesienie do nich. Ostra dychotomia zarysowana przez Bergsona między tym, co ludzkie czy też związane czasem, a tym, co mechaniczne, zostaje złagodzona w toku dalszej analizy, kiedy to okazuje się, że pewna strona jaźni uczestniczy w sferze materii. Zobaczymy następnie, że dychotomia ta jest również zamazana w odwrotnym kierunku: postrzegamy w materii rodzaj uczestnictwa w duchu. Wszystkie inne rozróżnienia Bergsona dzielą ten sam los: w punkcie wyjściowym wydają się nam ostre, bez żadnych zakresów pośrednich, w ostatecznym wyniku jednakże widzimy, że każda strona unosi cień tej drugiej. Tak również się dzieje, między innymi, z dychotomią intuicja-analiza.</p>
+        <p xml:id="p-2">3 INTUICJA I INTELEKT</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

@@ -1,0 +1,12 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">W nowym roku szkolnym ubędzie w Małopolsce kilka kolejnych filii szkolnych - na razie małopolski kurator oświaty zaakceptował likwidację trzech Ø. Na wniosek gmin Tokarnia i Żabno kurator Jerzy Lackowski zaakceptował likwidację trzech filii szkolnych, w których w klasach I-III uczyło się zaledwie po kilkoro - kilkanaścioro dzieci. Od września przestanie istnieć filia w Zawadce w gminie Tokarnia oraz dwie filie w gminie Żabno: w Kłyszu i Pasiece Otfinowskiej. Wniosek gminy o likwidację tych filii poprzedziły trudne rozmowy wójtów ze społecznościami lokalnymi. Na kierowanie wniosków o likwidację placówek szkolnych samorządy mają czas do końca lutego (kurator Jerzy Lackowski informuje, że dotąd wpłynęło ich kilkanaście), więc pełna lista szkół, które znikną z małopolskiego pejzażu, będzie znana w marcu.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

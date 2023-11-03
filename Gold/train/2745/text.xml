@@ -1,0 +1,23 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">§ 3. Do wyłącznej jurysdykcji krajowej należą sprawy o stwierdzenie zgonu, jeżeli nastąpił on w Polsce.</p>
+        <p xml:id="p-2">§ 1. Do wyłącznej jurysdykcji krajowej należą sprawy z zakresu opieki i kurateli nad osobą, która ma obywatelstwo polskie lub, nie posiadając żadnego obywatelstwa, ma w Polsce miejsce zamieszkania.</p>
+        <p xml:id="p-3">§ 2. Sąd polski może odstąpić od ustanowienia opieki lub kurateli nad obywatelem polskim zamieszkującym lub posiadającym majątek za granicą, jeżeli ma on tam zapewnioną dostateczną pieczę.</p>
+        <p xml:id="p-4">§ 3. Sądy polskie mogą w razie potrzeby wydawać w zakresie opieki i kurateli co do cudzoziemca zamieszkałego lub posiadającego majątek w Polsce zarządzenia, jeżeli okaże się to konieczne w jego interesie.</p>
+        <p xml:id="p-5">§ 1. Do jurysdykcji krajowej należą sprawy spadkowe, jeżeli spadkodawca w chwili Ø śmierci miał obywatelstwo polskie lub, nie posiadając żadnego obywatelstwa, zamieszkiwał w Polsce.</p>
+        <p xml:id="p-6">§ 2. Jurysdykcja krajowa jest wyłączna, jeżeli śmierć obywatela polskiego nastąpiła w Polsce.</p>
+        <p xml:id="p-7">W stosunku do spadku otwartego za granicą, podlegającego jurysdykcji sądu polskiego, sąd może wydać postanowienie o stwierdzeniu nabycia spadku na wniosek polskiego przedstawicielstwa dyplomatycznego lub urzędu konsularnego.</p>
+        <p xml:id="p-8">Do jurysdykcji krajowej należą również inne sprawy rozpoznawane w postępowaniu nieprocesowym, jeżeli choćby jeden uczestnik postępowania jest obywatelem polskim lub w Polsce ma miejsce zamieszkania albo siedzibę.</p>
+        <p xml:id="p-9">TYTUŁ V.</p>
+        <p xml:id="p-10">ZWOLNIENIE SPOD JURYSDYKCJI KRAJOWEJ</p>
+        <p xml:id="p-11">§ 1. Nie mogą być pozywani przed sądy polskie następujący cudzoziemcy:</p>
+        <p xml:id="p-12">1) uwierzytelnieni w Polskiej Rzeczypospolitej Ludowej szefowie przedstawicielstw dyplomatycznych państw obcych;</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

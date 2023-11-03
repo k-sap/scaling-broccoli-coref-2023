@@ -1,0 +1,18 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">– Zgadzam się, że ocena komisji akredytacyjnej jest niepokojąca, ale to nie oznacza, że my w tym czasie niczego nie robiliśmy – broni się prof. Józef Musielok, rektor Uniwersytetu Opolskiego. – Uważam, że media nie powinny się tym interesować, bo swoim zachowaniem nam szkodzą. Obecnie przygotowujemy odwołanie od oceny komisji i będziemy czekać na ostateczną decyzję ministra.</p>
+        <p xml:id="p-2">Rektor tłumaczy, że trudno jest znaleźć samodzielnych pracowników naukowych z psychologii, bo w skali kraju jest ich tylko około dwustu. Przeliczając to na prawie 20 000 studentów psychologii w całym kraju, łatwo obliczyć, że profesor psychologii to cenny nabytek.</p>
+        <p xml:id="p-3">Nieoficjalnie wiadomo, że przyczyną odejścia z opolskiej uczelni czwórki profesorów (Wiesława Łukaszewskiego, Dariusza Dolińskiego, Barbary Weigl i Macieja Dymkowskiego) były właśnie pieniądze.</p>
+        <p xml:id="p-4">-– Co można było zrobić, skoro Ci państwo podjęli decyzję – odpowiada prof. Musielok na pytanie „GO” czy znając realia „polskiego rynku psychologów” nie warto było zatrzymać starej kadry.</p>
+        <p xml:id="p-5">Rektor potwierdza też, że ma zapewnienia trzech pracowników naukowych, gotowych od nowego roku akademickiego podjąć pracę w Instytucie Psychologii, ale nie chce podawać ich nazwisk. – To mogłoby się skończyć niepowodzeniem naszych rozmów – tłumaczy.</p>
+        <p xml:id="p-6">Rektor nie ukrywa też, że liczy się z zawieszeniem rekrutacji na psychologii.</p>
+        <p xml:id="p-7">– Przypuszczam, że PKA zasugeruje taką decyzję ministerstwu, abyśmy mieli czas na uzupełnienie braków kadrowych – powiedział „GO” prof. Musielok.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

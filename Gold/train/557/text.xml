@@ -1,0 +1,21 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Umysł - to ziemia. Myśli, chęci - to nasiona. Czyny i słowa, - to kwiaty myśli i chęci.</p>
+        <p xml:id="p-2">Marzenia, pragnienia, cele - to pogoda.</p>
+        <p xml:id="p-3">Sukces lub katastrofa - to owoce myśli, czynów, słów, marzeń, pragnień.</p>
+        <p xml:id="p-4">Okoliczności wyrastają z myśli, chęci. Sprzyjają realizacji celów.</p>
+        <p xml:id="p-5">Bio Homo Automat - przekształca marzenia, cele w rzeczywistość.</p>
+        <p xml:id="p-6">To nie żaden przywilej. To prawo natury.</p>
+        <p xml:id="p-7">Mam przekonanie i fakty świadczące o tym, że los człowieka jest zależny od jego myśli. Gdyby użyć jakiegoś porównania, to najchętniej porównałbym myśl człowieka do nasion w świecie roślin. Aby roślina rozpoczęła swój żywot, trzeba zasiać jej nasiona w ziemi.</p>
+        <p xml:id="p-8">Ta ziemia musi mieć odpowiednie cechy, aby określone rodzaje roślin wzrastały. Do tego potrzebna jest później odpowiednia pogoda, wilgotność. Jeżeli warunki zewnętrzne nie przeszkodzą, z nasion wyrasta roślina, jej kwiat i owoc, gdyby przyjąć przy tym porównaniu taką oto analogię.</p>
+        <p xml:id="p-9">Umysł to ziemia. Myśli to nasiona. Pogoda to nastrój człowieka. Okoliczności same będą się rodzić i sprzyjać. Słowo, czyn - to kwiat myśli. Owoc to sukces lub porażka człowieka.</p>
+        <p xml:id="p-10">I gdy szlachetna myśl, marzenie, dobry czyn, dobre, mądre słowo zrodzą owoc w postaci sukcesu, nawet największy koszmar zmienia się w koszmarek i znika. Znika, aby pojawić się na nowo w przyszłości jako barwne opowiadanie, wywołujące dumę z dokonań. Często w żart i śmiech się przeradza, i w radość wielką.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

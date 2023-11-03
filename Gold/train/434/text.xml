@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Opowiedzieć treść pism Kierkegaarda jest właściwie niepodobieństwem. Z wszystkich, którzy mają reputację wielkich filozofów, a nie uważali się w ogóle za filozofów, ten najbardziej opiera się próbom opowiedzenia: jak poeta liryczny, którym był w samej rzeczy. Pisma żadnego filozofa nie są tak zależne od jego życiorysu, niektóre są ledwo przysłoniętym sprawozdaniem z życia prywatnego Ø, jak w trzeciej osobie opisana historia jego miłości i dobrowolnego zerwania zaręczyn z powodów wyjaśnionych w na der zawiłej analizie psychologicznej, która sama ma mieć filozoficzne znaczenie. Ktokolwiek chce sporządzić w przybliżeniu pełen obraz myśli tego filozofa, musi z konieczności opisać dzieje tej samoniszczącej miłości. Musi też opisać stosunek jego do Ø ojca, który uważał się za potępionego grzesznika (głównie dlatego, że jako młody pastuch, udręczony nędzą i nieszczęściami, nabluźnił Bogu) i wychowywał Ø syna w atmosferze grozy religijnej i bojaźni bożej.</p>
+        <p xml:id="p-2">Stereotyp Kierkegaarda ukazuje go jako dziewiętnastowiecznego prekursora albo twórcę egzystencjalizmu czy też filozofii egzystencjalnej XX stulecia, choć ani on sam, ani żaden inny znany filozof, oprócz Sartre'a, nie stosował do siebie nazwy "egzystencjalizm"; mówili jednak o filozofii egzystencji. Kierkegaard wzdrygnąłby się z odrazą na wieść, że miałby być wplątany w jakiś "-izm" i w ogóle uchodzić za filozofa. Ale wiedział już, kto będzie jego dziedzicem: figura najbardziej dlań odpychająca, mianowicie profesor uniwersytetu. Pisma jego, często mgliste, rozwlekłe, nużące, najeżone poetyckimi powtórzeniami, są najoczywiściej tak zrobione, by niepodobna było ich streścić w mowie filozofów. Są to raczej zawiłe aluzje aniżeli wykłady.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

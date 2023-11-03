@@ -1,0 +1,32 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">sp0: tak tak było.</p>
+        <p xml:id="p-2">sp1: ja pracowałam w piątce i jedna sobotę kończyłam lekcje o w pół do trzeciej no przychodziłam tak wściekła bo szłam ze szkoły i tam Traugutta tylko ziu ziu i po kolei te samochody jadące w tamtą stronę. wszyscy mieli wolne. a my jak te głupki a potem dzieci przestały do szkoły przychodzić.</p>
+        <p xml:id="p-3">sp0: no to też.</p>
+        <p xml:id="p-4">sp1: bo rodzice Ø gdzieś tam wyjeżdżali.</p>
+        <p xml:id="p-5">sp0: jechali zabierali tak.</p>
+        <p xml:id="p-6">sp1: no i w końcu zrobili wolne soboty też.</p>
+        <p xml:id="p-7">sp0: o Jezus kochany. co ja mam robić dzisiaj jeszcze. mam tyle pracy a ja siedzę znowu usiadłam i siedzę.</p>
+        <p xml:id="p-8">sp1: no my jak się trochę. my pójdziemy na cmentarz bo wczoraj jeszcze.</p>
+        <p xml:id="p-9">sp0: dzisiaj jest fatalnie jest.</p>
+        <p xml:id="p-10">sp1: zostawiłam tam tulipany no to wszystkie już spadły.</p>
+        <p xml:id="p-11">sp0: ja po prostu muszę iść z wiaderkiem i z wodą i z płynem jakimś bo.</p>
+        <p xml:id="p-12">sp1: to ja wczoraj umyłam.</p>
+        <p xml:id="p-13">sp0: Jezus jak to to zobaczysz.</p>
+        <p xml:id="p-14">sp1: co ?</p>
+        <p xml:id="p-15">sp0: to zobaczysz co dzisiaj.</p>
+        <p xml:id="p-16">sp1: tak. tylko wiesz co już tak się bardzo dużo nasion nie nasypało. już od wtorku do wczoraj to było tak średnio. ja wzięłam znowu ta dużą miotłę żeby pozamiatać wszystko.</p>
+        <p xml:id="p-17">sp0: tak.</p>
+        <p xml:id="p-18">sp1: ale było nieźle. nie kupiłyśmy tego kleju. bo ja nie mówiłam.</p>
+        <p xml:id="p-19">sp2: nie mówiłaś.</p>
+        <p xml:id="p-20">sp1: teraz mi się przypomniało. no i.</p>
+        <p xml:id="p-21">sp0: a jaki ty klej chciałaś ? ja gdzieś miałam dobry klej. ale.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

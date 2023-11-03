@@ -1,0 +1,14 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">No cóż, prognozowany dalszy spadek stóp procentowych, a co za tym idzie, obniżenie lokat bankowych w połączeniu z perspektywami zakończenia recesji gospodarczej powinny w najbliższych latach otworzyć nowe perspektywy dla produktów ubezpieczeniowych, przede wszystkim o charakterze inwestycyjnym. Moim zdaniem, powinno się to zbiec z wycofaniem się z Polski kilku międzynarodowych grup ubezpieczeniowych, a zatem obniżeniem podaży tego typu usług. Należy pamiętać, że rynek ubezpieczeń, jaki znamy obecnie, to rynek na dnie ogólnoświatowej dekoniunktury. Recesja uderzyła mocno i nie ma co tego ukrywać. Z biznesem jest trochę tak jak z inwestycjami giełdowymi – należy inwestować zgodnie z trendem, czyli rozwijać biznes w dołku cyklu koniunkturalnego, a ograniczać go na szczycie. Problemem jest tylko prawidłowe odgadnięcie tego dołka i szczytu. Mamy nadzieję, że DSA utrzymuje właściwy trend. Pomóc nam w tym powinien wybór nowego partnera – Credit Suisse.</p>
+        <p xml:id="p-2">Do naszej redakcji dochodzą różne głosy o współpracy pośredników z ich partnerami biznesowymi. Nieraz bardzo gorzkie...</p>
+        <p xml:id="p-3">Od początku naszej działalności staramy się w sposób lojalny podchodzić do partnerów, z którymi współpracujemy. Przestrzegamy podpisywanych umów. Jeżeli już pracujemy z jakąś instytucją finansową, ma ona pewność, że będziemy z nią współpracować niezależnie od różnych „propozycji”, jakie mogą się pojawić. My nie zerwiemy umowy i nie zdradzimy partnera za ofertę wyższej prowizji lub inne gratyfikacje. Tego samego oczekujemy od drugiej strony. To chyba dzięki takiej postawie w instytucjach, z którymi współpracowaliśmy, zawsze pozostawało grono zaprzyjaźnionych z nami osób. Bardzo ciepło wspominamy byłych dyrektorów PTE Pioneer, których w tym miejscu serdecznie pozdrawiam. Dziękuję także za współpracę PTE Skarbiec-Emerytura.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

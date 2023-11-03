@@ -1,0 +1,23 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">keniger i fajnie:D:D:D to lubie i tak powinno byc:P trzeba robic to co sie lubi:)</p>
+        <p xml:id="p-2">mlodape CYTAT(keniger @ 29.10.2007, 10:39) "i fajnie to lubie i tak powinno byc trzeba robic to co sie lubi" no a niestety zawsze tak jest. U mnie na roku połowa ludu już nie może się znaleźć na tym kierunku. Hehe a pamiętam jak wszyscy mi tłukli że jestem głupia że na to idę i co ja po tym będę robiła... Dobrze że ich nie posłuchałam.</p>
+        <p xml:id="p-3">aska-ga III rok - Ekonomia na Uniwersytecie Szczecinskim :D</p>
+        <p xml:id="p-4">daariaa Filologia polska Bielsko-Biała;)</p>
+        <p xml:id="p-5">Dante5 I rok Turystyka i Rekreacja AWF Krakow</p>
+        <p xml:id="p-6">*Natalie_Walking_Home* Filologia polska, edytorstwo, WSHE w Łodzi, 2 rok ^^</p>
+        <p xml:id="p-7">fajfus Najlepsze studia to studia politologiczne najlepiej na Uniwerku Adama Mickiewicza w Poznaniu. Po marketingu politycznym praca jest zaje interesujaca i dobrze płatna. W dobie mediatyzacji polityki to przyszłosciowy zawód i zaje intratny!</p>
+        <p xml:id="p-8">nansen Pasterstwo wysokogórskie - mgr.inż. obserwator , inaczej juhas</p>
+        <p xml:id="p-9">Addam... 2 rok informatyki na polibudzie gdańskiej... Tak latwo sie mnie nie pozbeda!</p>
+        <p xml:id="p-10">Nutka_21 pedagogika resocjalizacyjna... Katowice ...</p>
+        <p xml:id="p-11">Carrie Filologia Angielska, wawa Kocham! &lt;3</p>
+        <p xml:id="p-12">polly Administracja - Wyższa Szkoła Administracji Publicznej, Białystok podoba mnie się</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

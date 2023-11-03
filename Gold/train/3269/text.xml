@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Rozważając karaibską pierestrojkę trzeba założyć, że oto w godzinie zero zaczynają ruszać na pełne morze jachty i łodzie z Kubańczykami mieszkającymi na Florydzie. Żeby uniemożliwić blokadę wyspy przez jednostki ochrony wybrzeża, musiałyby ruszyć wszystkie jachty, jakie są w Miami, kierując się do wszystkich portów kubańskich i miejsc, gdzie można przycumować. Marynarka wojenna Kuby flotylli takiej nie zatrzyma. Gdyby strzelała - musiałaby się liczyć z tym, że atakuje jednostki zarejestrowane pod banderą USA. Utopienie w Zatoce Meksykańskiej 600 tys. osób wracających do ojczyzny nie byłoby możliwe. Więc co - pozwolić im, żeby wylądowali i poszli do swoich opuszczonych kiedyś domów? Tu siły lądowe nie miałyby niczego do roboty. Natomiast stanęłyby przeciwko wracającym cywilne Komitety Obrony Rewolucji (CDR). Ale na przybyszów czekałyby Ø rodziny. Więzi rodzinne silniejsze są na Karaibach od więzów policyjnych. Połowa policji i CDR przeszłaby zatem na stronę wracających gusanos (robaków).</p>
+        <p xml:id="p-2">Co się tyczy armii - jak w każdym kraju jest ona wobec rodaków bezradna. Dopóki wśród powracających nie pojawią się grupy nie tyle proamerykańskie, co jawnie amerykańskie, dopóty żołnierze nie będą mieli powodu ani motywacji, aby strzelać. Argument o obronie ojczyzny nie zaistnieje, a argument o obronie socjalizmu (socialismo o muerte) umrze wraz z Fidelem. Nikt na Kubie nie będzie umierał za socjalizm. Armia będzie zatem stała na straży arsenałów, żeby część uzbrojenia nie dostała się w ręce rozgorączkowanych orędowników nowego porządku.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

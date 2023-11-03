@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Wawilen jest klasycznym postmodernistycznym antybohaterem. Cyniczny, pozornie nieporadny, a równocześnie cwany, ma ogromny dar błyskawicznego kojarzenia zapamiętanych strzępów inteligenckiego wychowania humanistycznego w chwytliwe spoty i klipy, dostosowanych do rosyjskiej mentalności. Ten były poeta, a dziś "kreatywny" kolejnych firm reklamowych, nadal jest inżynierem dusz ludzkich. Pozbawiony jakiejkolwiek wrażliwości moralnej jest wyłącznie obserwatorem i manipulatorem. Cała jego moc polega na zręcznym kojarzeniu najbardziej zaskakujących odpadków wielowiekowego dorobku kultury w taki sposób, by tylko trafić do odbiorcy i zadziałać na jego podświadomość. Sam Wawilen Tatarski jest pokraczną krzyżówką człowieka radzieckiego z jego rosyjsko-azjatyckimi przodkami. Jego imię to zbitka Wasilija Aksjonowa i Lenina oraz w podtekście Babilonu (ros. Wawiłon) z mistyką Sumerów, kultem Baala, Mamona i Isztar. Wędrówka po Moskwie i koncernach medialnych Azadowskiego nie kończy się bułhakowowską nocą Walpurgii, lecz błądzeniem po medialnej wieży Babel, w której żadna komunikacja nie jest ani możliwa, ani pożądana.</p>
+        <p xml:id="p-2">Wawilen ma szósty zmysł genialnego tekściarza, ale także kontakt z duchami. W moskiewskim sklepie New Age znajduje maszynę pozwalającą mu się porozumieć z duchami. To Che Guevara podyktował mu postfreudowską teorię "homo zapiens", człowieka przeskakującego pilotem z kanału na kanał, którego najwyższym stadium rozwoju jest ekstatyczny okrzyk "wow!" na widok kolejnego klipu. Ten świat nowego kapitalizmu nie dopuszcza żadnej demokratycznej opinii publicznej, jest orwellowskim ideałem permanentnego prania mózgu. W koncernach medialnych setki "kreatywnych" głowi się nie tylko nad tym, jak "zruszczyć" reklamy zachodnich towarów, ale też jak sfingować na ekranie telewizyjnym rosyjską demokrację zgodnie z wyobrażeniami amerykańskich mocodawców.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

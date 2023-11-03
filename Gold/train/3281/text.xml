@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Na prośbę Rafała Jadźwińskiego, studenta Akademii Humanistycznej, arcybiskup poruszył kwestię demografii. Stwierdził, przypomniawszy ostrzeżenie Jana Pawła II z 1991 r. przed traktowaniem dziecka jako zbędnego dodatku, potrzebę mądrej polityki prorodzinnej, nie tylko socjalnej. Kobieta ma przecież prawo pracować zawodowo, nie tylko dlatego, że zmusza ją do tego sytuacja finansowa rodziny, ale ze względu na realizację własnych potrzeb. Potrzebny jest odpowiedni system wspierania kobiet, by decydowały się na macierzyństwo.</p>
+        <p xml:id="p-2">Najpierw człowiek, potem chrześcijanin, potem Polak</p>
+        <p xml:id="p-3">Zapytany przez Artura Iniarskiego z Ekumenicznej Agencji Informacyjnej o ekumenizm w Warszawie, metropolita wskazał przykłady współpracy, m.in. naukowej. Wyjaśnił, że inaczej sytuacja wygląda w stolicy, inaczej na terenach, gdzie od lat żyją ze sobą wierni różnych kościołów i zawierane są małżeństwa „mieszane”, inaczej, gdzie dana społeczność jest mniejszością. Na pewno nie wolno szerzyć ekumenizmu poprzez zmuszanie ludzi do wspólnych modlitw, niech każda społeczność modli się o zjednoczenie chrześcijan we własnym kościele, jeśli nie ma potrzeby organizacji wspólnego nabożeństwa z innym kościołem.</p>
+        <p xml:id="p-4">Po wysłuchaniu pełnej goryczy refleksji dr Marka Nadolskiego z Akademii Humanistycznej o braku człowieka w chrześcijaństwie, tragediach i wojnach, arcybiskup przyznał, że systemy totalitarne wyrosły na gruncie chrześcijańskim. Zauważył: - Ale grzech i słabość są, chciałoby się powiedzieć, ponadwyznaniowe. Jego zdaniem, problem tkwi w nieodpowiedniej hierarchii wartości. - Najpierw jestem człowiekiem, potem chrześcijaninem, potem Polakiem, a potem wymieniam moje powołanie w ramach chrześcijaństwa. Jeżeli tę hierarchię się zmieni, źle pojmuje patriotyzm, rodzi się nacjonalizm - stwierdził ks. arcybiskup. A na koniec spotkania prosił o przeżywanie adwentu, bez którego dobre przeżycie Świąt Bożego Narodzenia staje się niemożliwe.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

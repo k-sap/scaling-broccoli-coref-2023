@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">2. Potrzeba integracji badań, kształcenia i praktycznych zastosowań wiedzy wymaga działań politycznych na szczeblu państwowym i regionalnym. Pilną sprawą staje się wypracowanie strategicznej koncepcji dotyczącej roli edukacji i badań naukowych w procesie integracji z Europą i znajdywania w niej stosownego miejsca dla Polski. Jest to zadanie, które nie może być podporządkowane bieżącym celom politycznym, perspektywie jednego roku, czy najbliższych wyborów.</p>
+        <p xml:id="p-2">3. Fakt, że nauka polska nie jest w stanie rozwijać badań we wszystkich dziedzinach i kierunkach powoduje konieczność określenia kierunków badań priorytetowych z punktu widzenia strategii rozwoju Polski i włączenia tej strategii w strategię Unii Europejskiej. Pozwoli to nauce polskiej znaleźć w gospodarce i kulturze europejskiej obszary działalności i zastosowań, w których będzie mogła zaznaczyć w sposób istotny swoją obecność.</p>
+        <p xml:id="p-3">4. Z ustalaniem strategii rozwojowej związana jest koncentracja środków i nakładów finansowych. Potrzeba ta wymaga rozważenia, czy właściwe jest utrzymanie obecnego rozdzielenia zarządzania edukacją na poziomie wyższym i badaniami naukowymi. Nieuchronna koncentracja nakładów finansowych rodzi konieczność szczególnej ostrożności przy kreowaniu nowych ośrodków akademickich i jednostek naukowych. Proces ten powinien być bezwzględnie podporządkowany kryteriom merytorycznym, a nie politycznym. Koncentracji i tworzeniu silnych ośrodków akademickich powinno towarzyszyć stwarzanie szerokich możliwości studiowania poprzez rozwinięcie i udoskonalenie systemu kredytów studenckich i udostępnienie tanich miejsc w domach studenckich.</p>
+        <p xml:id="p-4">5. Odpowiedzialność za właściwe miejsce i rolę nauki polskiej w rozwoju społecznym i cywilizacyjnym Europy spoczywa na instytucjach politycznych i politykach. Wobec przeciętnie 2 procent PKB przeznaczanych na naukę w krajach Unii Europejskiej, niezbędna jest jak najszybsza radykalna zmiana wysokości dotacji budżetowych dla instytucji nauki, kultury i edukacji w Polsce.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

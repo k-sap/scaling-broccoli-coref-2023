@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">yeti86 M@T!X wiejski tuning wita. 170KM to duzo aut tuningowy ma w seri a nawet duzoo wiecej.</p>
+        <p xml:id="p-2">Ania Civ Moje Ø ma 185 seryjnie nie będę go tuningować, no, na razie przynajmniej. Ładny tuning dla mnie to ładne alu, nie za duże, zależy od auta, ale tak o cal większe od serii mogłyby być. Dobrze dobrany spojlerek, mała lotka z tyłu, ładne dolne oczywiście z dobranymi listwami, nie lubię naklejek na zewnątrz, jak już, to ładny aerograf. Wnętrze zrobione pod kolor. Ładnie wygląda skóra, ale nie cierpię jej, bo zimą ziębi, latem parzy, wolę półskórę i taki kupiłam. Welurowe siedzenia są przyjazne dla kupra. Wydech - zależy od potrzeb. Miałam głośnego kociaczka, ale na dłuższe trasy jest męczący, teraz mam serię, dojdzie tylko końcówka. Hmm... co jeszcze? Lekko przyciemnione szybki.</p>
+        <p xml:id="p-3">yeti86 Z tym wydechem to sie zgadzam ładnie brzmiacy ale nie głośny bo oszaleć można. Jeszcze bym dodał jakiś ładny lakier, bo jak widze te pseudo kamelon co unas maluja to mi szkoda tych aut.</p>
+        <p xml:id="p-4">fst dla mnie tuning to taki wilk w owczej skórze - niepozorne mocne auto Seryjne sportowe Hondy to jest to. Ja osobiście niespecjalnie przepadam za obwieszaniem auta ogromną ilością spojlerów, chociaż jeśli jest to zrobione przez kogoś kto umie spasować to w jedną całość - nie ma problemów. Jeśli chodzi o wydech - sportowy owszem, ale kompletny dedykowany konkretnie do danego modelu, a nie jakiś bass-wygar z allegro - wtedy się jeździć nie da bo głowa boli. - to jest mniej więcej wizja jak bym chciał wizualnie zrobić moje auto. Oryginalny zestaw dokładek (zdobycie Ø graniczy z cudem), ładne fele - miodzio.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

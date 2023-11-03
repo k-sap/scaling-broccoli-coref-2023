@@ -1,0 +1,22 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Po każdym święcie na wrocławskie śmietniki trafia ponad tysiąc ton odpadów</p>
+        <p xml:id="p-2">Miejsc, w których po sylwestrze nie zadbano o porządek, jest wiele. Nie trzeba ich długo szukać. Wczoraj pomogliśmy usunąć tymczasowe wysypisko w centrum Wrocławia</p>
+        <p xml:id="p-3">Maciej Czujko, Jerzy Wójcik</p>
+        <p xml:id="p-4">To jest niewiarygodne! – oburzał się Piotr Łuszczki, pracownik jednej z firm przy ul. Ruskiej. – Tutaj po weekendzie nigdy nie jest czysto, ale to, co widzę dziś, przerasta moje wyobrażenie – dodał.</p>
+        <p xml:id="p-5">Jego reakcja była odpowiedzią na bałagan panujący na podwórku między ulicami św. Antoniego i Ruską – kontener wypełniony Ø po brzegi, mnóstwo śmieci walało się po ziemi. A na górze odpadów stała kanapa. Na niej w najlepsze siedzieli bezdomni.</p>
+        <p xml:id="p-6">– Zabiorą to dzisiaj czy nie?! – krzyczał w złości jeden z nich. – Strasznie to śmierdzi.</p>
+        <p xml:id="p-7">Wiszą na telefonach</p>
+        <p xml:id="p-8">Równie bojowa atmosfera panowała u zarządcy tego terenu.</p>
+        <p xml:id="p-9">– Do firmy, z którą mamy umowę na wywóz śmieci, dzwonimy już od ósmej rano. Na drugiej linii wiszą rozwścieczeni mieszkańcy – mówił Kazimierz Kowal ze spółki Silana. – To nie pierwsza wpadka tej firmy. Przecież mogli przewidzieć, że po sylwestrze będą tu góry śmieci.</p>
+        <p xml:id="p-10">Zapewnia, że nie przedłuży z nią umowy.</p>
+        <p xml:id="p-11">Józef Wójcik, który sprząta podwórko, potwierdzał słowa prezesa. Znosił śmieci z całego podwórka sumiennie, ale nie mógł nic zrobić, bo nie mieściły się w kontenerze.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

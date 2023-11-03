@@ -1,0 +1,26 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">STOMIL - Przestań mi nareszcie rozkazywać, ty pętaku! Jestem zmęczony! (idzie w stronę swojego pokoju)</p>
+        <p xml:id="p-2">ARTUR - Edek! (Edek zastępuje Stomilowi drogę)</p>
+        <p xml:id="p-3">STOMIL - Co to znaczy? (z wściekłością, zwracając się do Eleonory, wskazuje na Edka) Miałaś romans z tym lokajem?</p>
+        <p xml:id="p-4">ELEONORA - Ach, Boże, nie teraz! Nie przy mamie! (Edek popycha Stomila na fotel)</p>
+        <p xml:id="p-5">ARTUR - Cierpliwości. Teraz już wszystko wiadomo. Ja was wyprowadzę w szczęśliwą przyszłość.</p>
+        <p xml:id="p-6">EUGENIUSZ (siadając z rezygnacją) - Nic mi się już nie chce... To chyba mój wiek. Stomilu, chyba już nie jesteśmy tacy młodzi, co? Jak sądzisz?</p>
+        <p xml:id="p-7">STOMIL - Niech wuj mówi za siebie. Eugenia była prawie w twoim wieku, ty stary hipokryto. Ja czuję się wyśmienicie! Na ogół wyśmienicie... (prosząco) Eleonora, gdzie jesteś?</p>
+        <p xml:id="p-8">ELEONORA - Tu jestem, Stomilu, tutaj, przy tobie.</p>
+        <p xml:id="p-9">STOMIL - Chodź do mnie.</p>
+        <p xml:id="p-10">ELEONORA (kładąc mu rękę na czole) - Jak się czujesz?</p>
+        <p xml:id="p-11">STOMIL - Jakoś mi słabo...</p>
+        <p xml:id="p-12">ARTUR - Skończone wszystkie niepewności. Przed nami droga jasna i czysta. Jedno będzie prawo i jedna owczarnia.</p>
+        <p xml:id="p-13">STOMIL - Co on tam znowu plecie... Głowa mnie boli...</p>
+        <p xml:id="p-14">EUGENIUSZ - Pomieszał mu się kodeks z hodowlą.</p>
+        <p xml:id="p-15">ARTUR - Czy już rozumiecie, jaki jest wniosek ostateczny? Ach, wy nie rozumiecie, wy, cielesne stworzenia, zajęte swoimi gruczołami, drżące o nieśmiertelność swoją. Ale ja rozumiem, ja! Ja jestem waszym odkupicielem, wy, bydło bezmyślne. Ja wznoszę się ponad doczesność, ja ogarniam was wszystkich, bo ja mam mózg, który wyzwolił się od wnętrzności. Ja!</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

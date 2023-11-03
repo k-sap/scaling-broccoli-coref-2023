@@ -1,0 +1,12 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Poznałeś już podstawy obsługi interfejsu Cubase, pora wziąć się do prawdziwej pracy. Na początek stworzymy sobie własny materiał wejściowy - rozpoczynamy prostą sesję nagraniową. Niniejszy rozdział podzieliliśmy na dwie części - audio i MIDI, w obydwu opisując tylko najprostsze funkcje. Zagadnieniami bardziej zaawansowanego nagrywania zajmiemy się w rozdziałach 7. i 8.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

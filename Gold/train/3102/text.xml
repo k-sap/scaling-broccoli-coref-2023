@@ -1,0 +1,28 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">- Dobrze, że się zgodziłeś na polski - powiedziała. - Historia teraz to gorzej niż opowieść wariata, to kłamstwa...</p>
+        <p xml:id="p-2">Opowiedziała o swoich planach związanych ze Szkołą Teatralną. Poznała jednego z profesorów uczelni.</p>
+        <p xml:id="p-3">- Kogo? - warknął. - Jakiegoś amanta?</p>
+        <p xml:id="p-4">Wymieniła nazwisko jednego ze starych mistrzów.</p>
+        <p xml:id="p-5">- Po to Julka ściągnęła mnie do Warszawy, żebym go poznała - wyjaśniła. - Chociaż nie tylko dlatego...</p>
+        <p xml:id="p-6">- Ruda rajfurka - rzucił.</p>
+        <p xml:id="p-7">Nie wzięła mu za złe tego żartu. - Daj spokój, Julka ma kłopoty z Rudnikiem. Zakochała się, a on nie jest dla niej stworzony... - przerwała na chwilę. - Myślę, że on w tym swoim docieraniu do końca nie będzie się na nikogo oglądał.</p>
+        <p xml:id="p-8">- Nie lubisz Rudnika - bąknął. - I o jakim końcu mówisz?...</p>
+        <p xml:id="p-9">- Nie wiem, myślę, że on też nie wie... - Znów się zawahała.</p>
+        <p xml:id="p-10">- Chyba go źle oceniasz - powiedział. - Rudnik bardziej niż ktokolwiek jest świadomy celu.</p>
+        <p xml:id="p-11">- Może... - wzruszyła ramionami. - Pewnie masz rację. Nie mówmy już o Rudniku.</p>
+        <p xml:id="p-12">- Nie mówmy...</p>
+        <p xml:id="p-13">- Są ważniejsze sprawy, prawda?</p>
+        <p xml:id="p-14">- Ty jesteś najważniejsza - powiedział.</p>
+        <p xml:id="p-15">Rozpromieniła się, lekko rozchyliła wargi.</p>
+        <p xml:id="p-16">- Pobierzmy się - szepnął.</p>
+        <p xml:id="p-17">- Co ty mówisz? - Cień przemknął w jasności, jakby ocknęła się i przestraszyła.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

@@ -1,0 +1,20 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">- Parafia jest zbyt biedna, by podjąć tak wielką inwestycję - tłumaczy kapłan. - Oczywiście, jeśli byłyby pieniądze, to kościół można by wyremontować.</p>
+        <p xml:id="p-2">Mieszkańcy i lokalne władze zapewniają jednak, że są zdeterminowane, by uratować obiekt.</p>
+        <p xml:id="p-3">- Jest on jedną z atrakcji gminy Suchy Dąb - wyjaśnia wójt Sławomir Kaźmierski. - Żeby go zobaczyć, przyjeżdżają wycieczki, sporo jest turystów indywidualnych. To między innymi dla nich wybudowaliśmy parking i chodnik przez kościołem.</p>
+        <p xml:id="p-4">Wątpliwości co do tego, że świątynię należy zabezpieczyć, nie ma też Aleksandra Lewandowska, prezes Stowarzyszenia "Żuławy Steblewskie".</p>
+        <p xml:id="p-5">- Jako mieszkańcy zadbaliśmy o otoczenie świątyni - przypomina pani Ola. - Ustawiliśmy tablicę informacyjną, uporządkowaliśmy cmentarz. Na więcej nie stać nas ze względów finansowych. Ale chcielibyśmy, żeby to miejsce ożyło!</p>
+        <p xml:id="p-6">Nie mniej życzliwie spoglądają na zabytek władze powiatu gdańskiego.</p>
+        <p xml:id="p-7">- Jesteśmy zdecydowani, by pomóc w jego zagospodarowaniu - mówi Łukasz Kozaczek, sekretarz Starostwa Powiatowego, który zarazem przyznaje, że skuteczne działanie utrudniają tu kwestie własnościowe.</p>
+        <p xml:id="p-8">W mniej oficjalnych rozmowach z mieszkańcami i przedstawicielami władz różnego szczebla daje się usłyszeć, że najlepszym sposobem na uratowanie kościoła byłoby przejęcie obiektu przez samorząd lub jakąś organizację pozarządową. Daje to znacznie większe szanse na pozyskanie środków z rozmaitych źródeł.</p>
+        <p xml:id="p-9">- Tylko rozmowy w szerokim gronie mogą doprowadzić do wypracowania formuły pozwalającej na uratowanie kościoła - ocenia jeden z zapytanych przez nas samorządowców.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

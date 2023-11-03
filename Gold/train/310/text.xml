@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Rząd, a przede wszystkim Bruksela, liczy na to, że dzięki przechodzeniu starszych rolników na rentę uda się odmłodzić polskiego chłopa oraz powiększyć gospodarstwa. W tej chwili statystyczny rolnik uprawia 9,6 ha ziemi (w Unii - 18,7 ha), ale najwięcej mamy poletek poniżej 3 ha. Według unijnych planów rozwoju, przyszłość należy do wielkich i nowoczesnych rolnych przedsiębiorstw.</p>
+        <p xml:id="p-2">Dlatego system rent przygotowano tak, aby rolnikom opłacało się sprzedawać ziemię na powiększenie już istniejących gospodarstw. Tylko ci dostaną wypłaty dochodzące do 2 tys. zł. - Zdecydowana większość przepisuje jednak gospodarstwa na dzieci - mówi Alicja Śledź z lubuskiego oddziału ARiMR. Podobnie jest w innych województwach. W praktyce oznacza to, że mimo ogromnych pieniędzy nie uda się zmniejszyć rozdrobnienia naszej wsi. Obawia się tego Wanda Chmielewska, ekspert Fundacji Programów Pomocy dla Rolnictwa. - Może okazać się, że te pieniądze staną się kolejną formą pomocy socjalnej i zakonserwują tylko nierentowne gospodarstwa - mówi. Tym bardziej że większość rolników nie zamierza wcale przestać uprawiać roli - przecież mogą pracować u syna, który będzie na papierze nowym właścicielem. Elżbieta Karnafel-Wyka z Ministerstwa Rolnictwa przyznaje, że jest takie niebezpieczeństwo, ale jednocześnie nie wyobraża sobie, jak można by było nie dać szansy przekazania ojcowizny dzieciom. - Pracujemy nad tym, aby w kolejnym programie, który ruszy w 2007 r., było więcej zachęt do powiększania gospodarstw - mówi Karnafel-Wyka. Być może to właśnie takie wnioski powinny mieć pierwszeństwo, teraz decyduje po prostu kolejność zgłoszeń.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

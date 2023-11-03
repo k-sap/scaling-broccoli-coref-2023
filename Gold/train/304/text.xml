@@ -1,0 +1,14 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">ja to tak nazwę nie wiem czy wszyscy zrozumieją ale nazwę ten nasz pomysł bardziej takim powołaniem taką decyzją w sercu które no nie nie pochodziło jakby od nas było powołanie które gdzieś tam zasiało się w naszym sercu i już nie dawało nam spokoju i musieliśmy dążyć do tego żeby to zrealizować także najpierw był pomysł później było szkolenie później było dwuletnie czekanie aż się to wszystko poukłada w między czasie też szkoliliśmy się już szukaliśmy różnych warsztatów szkoleń kontaktu z innymi rodzinnymi domami dziecka i to było bardzo fajne także nie mieliśmy żadnego wybranego dziecka i decyzja była tylko decyzją najpierw się modliliśmy następnie poszliśmy zrobiliśmy szkolenie</p>
+        <p xml:id="p-2">na tym etapie szkolenia jest weryfikacja jednak jakaś potrafi się być taka sytuacja że że okazuje się że jednak yy no z jakiś powodów nie nadajemy się na rodziców yyy ychy za zastępczych</p>
+        <p xml:id="p-3">no ta weryfikacja jest bardzo trudna tak powiem yy ja na miejscu yy jakby ośrodka adopcyjnego nie umiałabym się postawić się żeby zdecydować która rodzina będzie się nadawała czy nie to tak naprawdę później yy życie pokazuje trzeba najpierw przyjąć dzieci i sami dopiero zobaczymy nawet nie chodzi oto czy fizycznie ktoś sobie podoła chodzi bardziej oto czy emocjonalnie jesteśmy gotowi mieszkać na co dzień z dziećmi no z obcymi na na początku są obcymi ale one zawsze to nie jest naturalna sytuacja także to jest chyba najbardziej takie uciążliwe dla nas teraz już nie ale nie nie każda osoba jest w stanie zaakceptować taką sytuację</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

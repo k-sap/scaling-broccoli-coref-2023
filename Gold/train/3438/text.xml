@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Gryzą i uczulają</p>
+        <p xml:id="p-2">Dlaczego dwa psy, a nie jeden? Dlaczego kocie alergeny okazują się groźniejsze od psich? Co z chomikami i świnkami morskimi? Na dwa pierwsze pytania naukowcy nie potrafią udzielić przekonującej odpowiedzi. Zauważyli jednak, że problemy z alergią są częstsze w rodzinach, gdzie zwierzę pojawiło się w domu rok lub dwa lata po urodzeniu dziecka; jeśli było w nim, zanim noworodek przyszedł na świat, tolerancja na alergeny zdążyła wytworzyć się już w życiu płodowym dzięki zwiększonej odporności matki.</p>
+        <p xml:id="p-3">Dla amatorów gryzoni wiadomości są znacznie gorsze: to najbardziej uczulające zwierzaki. Większość czasu przebywają zamknięte w klatkach, wobec czego domownicy nie mają z nimi tak bliskiego kontaktu jak z kotami lub psami i układ immunologiczny reaguje na ich alergeny wyjątkowo gwałtownie. Co trzeci hodowca chomika zapada na astmę po pierwszym roku stykania się ze swoim pupilem!</p>
+        <p xml:id="p-4">Obecnego na zjeździe prof. Piotra Kuny, prezesa Polskiego Towarzystwa Alergologicznego, nie dziwi chaos informacyjny związany z uczuleniami wywołanymi sąsiedztwem czworonogów. Każdy kot lub pies niezależnie od rasy wytwarza indywidualny poziom alergenów (są nie tylko w sierści, ale również w złuszczającym się naskórku, odchodach, ślinie), a na reakcję układu immunologicznego domowników - zwłaszcza najmłodszych - ma wpływ wiele innych czynników: umeblowanie mieszkania, rodzaj farb na ścianach, staranność przy codziennym sprzątaniu. - Dlatego co badanie, to inny wynik i z tym trzeba się pogodzić - mówi prof. Kuna. - Nie sądzę, byśmy szybko doczekali się klarownej odpowiedzi, która rasa służy alergikom, a która nie. To kwestia indywidualna.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

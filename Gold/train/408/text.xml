@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Morion temu że to zwykły spam</p>
+        <p xml:id="p-2">master6x6 CYTAT(Październik @ 18.11.2008, 12:51) "czemu ten temat został zamknięty, w aktualnościach są jeszcze większe bzdety, może ktoś chciał wyrazić swoją dezaprobatę i była ona skierowana frustracją zniszczenia młodzieńczych wspomnień, więcej człowieczeństwa. poza tym można było ten temat przenieść do stosowniejszego działu, co nie chciało się ?? lepiej zamknąć i zbanować, bo mniej pracy ??" Czemu został zamknięty? Powód: Źle założony temat (jak tworzymy temat to albo cytujesz artykuł albo samemu Ø piszesz - tego nie było,tylko 2 zdania które mogły co najwyżej znaleźć się pod artykułem jako komentarz) + link będący spamem. Wskaż mi te bzdety, które łamią regulamin, a obiecuję, że zrobię porządek. Mógłby skomentować to gdyby istniał poprawnie założony artykuł. Chcesz skomentowac? To nie pisz bzdur tutaj, tylko napisz porządny artykuł lub poszukaj na jakimś portalu artykułu i zacytuj go, a następnie komentuj do woli - tylko nie łam regulaminu. Niby do jakiego działu można było go przenieść? Bo ja jeszcze nie widziałem, ani na tym, ani na innym forum, żeby moderator przenosił temat ze spamem z jednego działu do drugiego. A uwierz, że przy zamykaniu Ø i banowaniu (a jutro, lub pojutrze przeniesienu Ø do kosza) trzeba więcej razy kliknąć myszką niż przy przeniesieniu Ø do innego działu. Dla twojej ciekawości: Aby zamknąć Ø i dać ostrzeżenie, a następnie przenieść Ø do działu kosz (nie dałem bana ponieważ ten forumowicz wniósł coś na forum po przez swoje posty) musiałem kliknąć: 8 razy Aby tylko przenieść (jeżeli byłaby taka możliwość) musiałbym kliknąć: 3 razy A tak po za tym, to o w takich sprawach pisze się do moderatora na PW lub email, a nie tworzy nowy temat. To już 2 złamanie punktu 3b z regulaminu...</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

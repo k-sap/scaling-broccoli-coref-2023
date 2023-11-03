@@ -1,0 +1,34 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">sp1: jak to co pisał Tetmajer ? y mam powody powstrzymywać się od wody. bo bo od wody w brzuchu kole pijam tylko alkohole</p>
+        <p xml:id="p-2">sp2: soczek</p>
+        <p xml:id="p-3">sp1: o jaki zacny soczek</p>
+        <p xml:id="p-4">sp0: ha ha</p>
+        <p xml:id="p-5">sp1: Bodziu co tam u ciebie ? ruski rok cię kurde nie widziałem</p>
+        <p xml:id="p-6">sp0: ach panie panie kurcze. co tu a u mnie to lepiej nie gadać kurcze</p>
+        <p xml:id="p-7">sp1: pewnie zastępy kobiet</p>
+        <p xml:id="p-8">sp0: tak akurat</p>
+        <p xml:id="p-9">sp2: a może jednak. y piwko ?</p>
+        <p xml:id="p-10">sp1: kurde no wiesz co jak bym</p>
+        <p xml:id="p-11">sp0: co to jest ? ekologiczny napój ? a myślałem eken a to. hajneken</p>
+        <p xml:id="p-12">sp2: hajneken</p>
+        <p xml:id="p-13">sp1: ale to jest piwo czy szampan taki ?</p>
+        <p xml:id="p-14">sp2: piwo tylko było w promocji tam przy piwie. jak się dużą paczkę kupiło piwa. ale piwo mam. hajnekena też</p>
+        <p xml:id="p-15">sp1: ale nie to jest. to jest szampan tak ?</p>
+        <p xml:id="p-16">sp2: tak nie nie piwo. chyba</p>
+        <p xml:id="p-17">sp0: szampan w postaci piwa</p>
+        <p xml:id="p-18">sp2: ja też myślałem że to. ja myślałem że to jest szampan nie ? że w promocji był do piwa. natomiast. to to jest piwo</p>
+        <p xml:id="p-19">sp0: to jest piwo pod postacią szampana natomiast dla odmiany rozprowadzany jest również szampan pod postacią piwa</p>
+        <p xml:id="p-20">sp2: cwaniacki chwyt. reklamowy. wiesz podchwytliwe takie pytanie co jest lepsze tam jeden komik czy tam martwy ten ?</p>
+        <p xml:id="p-21">sp1: i dlaczego martwy ?</p>
+        <p xml:id="p-22">sp2: i dlaczego martwy jest lepszy nie ? dlatego bo coś tam nie ?</p>
+        <p xml:id="p-23">sp1: nie no nie będę pił bo kurde. nie będę. chociaż chętnie bym się napił. zawsze to. lepiej nie pić</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

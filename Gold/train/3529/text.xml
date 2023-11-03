@@ -1,0 +1,14 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Wartak wie swoje: - Jeżeli sąd stanu wojennego nie zastosował wobec nas odpowiedzialności zbiorowej, to nie może tego zrobić sąd demokratycznego państwa.</p>
+        <p xml:id="p-2">W więzieniu przesiedział do połowy maja 1983 r., wyszedł warunkowo w związku z wizytą papieża. - To był czas, w którym przeczytałem całą polską i europejską literaturę klasyczną - wspomina. Czas gorących dyskusji i sporów. - Koledzy spod celi i z różnych zakątków kraju otworzyli mi, prostemu górnikowi, oczy na świat. Wartak przyznaje, że gdyby pogrzebać w jego teczkach, to znalazłoby się parę dokumentów lojalnościowych. - Podpisywałem przy wyjściu z więzienia, że nie pojawię się na wizycie papieża w Katowicach i jeszcze coś podpisywałem - przypomina.</p>
+        <p xml:id="p-3">W działalność podziemną się nie zaangażował, ale jeździł z pomocą dla rodzin zabitych górników. W 1987 r. zezwolono mu na powrót do pracy w Kopalni Wujek. Został wiceprzewodniczącym Solidarności. Na początku grudnia 1989 r., kiedy pod Wujkiem pojawił się prezydent Wojciech Jaruzelski, Wartak twardo zażądał od niego ujawnienia winnych zbrodni. Wówczas witały generała transparenty KPN: "Morderco, odpowiesz przed narodem!" i okrzyki: "Na kolana!". - Wtedy mniej, dzisiaj bardziej podziwiam generała za to, że w takiej sytuacji pochylił się pod krzyżem górników - mówi Wartak. Podał wtedy rękę prezydentowi. - Mocno oberwałem od swoich Ø, że tym gestem rozgrzeszam zbrodniarza.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

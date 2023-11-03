@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Krajowe TFI nie są niestety w stanie szybko reagować na zmieniającą się sytuację na rynku i uruchamiać nowe fundusze, kiedy tylko widzą popyt ze strony inwestorów. Proces wprowadzania do dystrybucji nowego funduszu, poprzedzony koniecznością rejestracji w Komisji Nadzoru Finansowego trwa wiele miesięcy (w Luksemburgu np. ok. 2 tygodni). I niestety najwięcej tego czasu pochłania konieczność uzyskania zgody Komisji. W tej sytuacji trudno jest konkurować funduszom z innymi produktami i usługami finansowymi, których wprowadzenie na rynek z reguły trwa dużo krócej.</p>
+        <p xml:id="p-2">Aby zmienić tę sytuację, fundusze inwestycyjne powinny stać się, podobnie jak jest to w przypadku banków czy towarzystw ubezpieczeniowych, silnym lobby, tak aby walczyć o swoje interesy. Stąd powołanie do życia w 2004 r. Izby Zarządzających Funduszami i Aktywami, która kontynuuje prace działającego wcześniej Stowarzyszenia Towarzystw Funduszy Inwestycyjnych w Polsce. Fundusze muszą mieć możliwość tworzenia zapisów w prawie, które dotyczy ich bezpośredniej działalności, tak jak i inne instytucje finansowe w Polsce. Bez tego trudno będzie rozwijać ten rynek i tworzyć rozwiązania zapewniające klientom możliwości pomnażania własnych oszczędności. I nie chodzi tu tylko o interesy samych TFI, ale przede wszystkim samych klientów, którzy muszą mieć możliwość dostępu do nowoczesnych produktów, które dostarczać im będą firmy reagujące na potrzeby rynku. A zapotrzebowanie na takie produkty jest coraz większe, co widać na przykładzie kolejnych miliardów płynących w Polsce do funduszy inwestycyjnych. Szkoda byłoby zmarnować taką szansę.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

@@ -1,0 +1,47 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">AGNIESZKA</p>
+        <p xml:id="p-2">Mamo...</p>
+        <p xml:id="p-3">Agnieszka oddaje Kasię Reni i wybucha płaczem. Janina przytula Agnieszkę.</p>
+        <p xml:id="p-4">JANINA</p>
+        <p xml:id="p-5">Boże ty mój... Agniesiu... Co się stało?</p>
+        <p xml:id="p-6">AGNIESZKA</p>
+        <p xml:id="p-7">Płacze coraz mocniej</p>
+        <p xml:id="p-8">Nie mogę teraz mówić, ale już wszystko dobrze... Nie martwcie się... już wszystko jest dobrze...</p>
+        <p xml:id="p-9">Mamo, przewiniesz Kasię?</p>
+        <p xml:id="p-10">Zbliżenie Kasi</p>
+        <p xml:id="p-11">Scena</p>
+        <p xml:id="p-12">WNĘTRZE. DZIEŃ. KOMENDA. POKÓJ PRZESŁUCHAŃ. DONA, RUCIŃSKI, POLICJANTKA - STATYSTKA.</p>
+        <p xml:id="p-13">Dona siedzi naprzeciwko Rucińskiego.</p>
+        <p xml:id="p-14">RUCIŃSKI</p>
+        <p xml:id="p-15">Czy to ma dla pani takie wielkie znaczenie z kim pani będzie rozmawiać? Przecież komisarz... jak on się nazywa?</p>
+        <p xml:id="p-16">DONA</p>
+        <p xml:id="p-17">Chrust.</p>
+        <p xml:id="p-18">RUCIŃSKI</p>
+        <p xml:id="p-19">Komisarz Chrust jest policjantem takim samym jak ja, więc jeżeli jemu pani coś powie, to tak samo jakby powiedziała to pani mnie. Musi sporządzić protokół zeznań. Wasze spotkanie nie będzie prywatne. To będzie przesłuchanie.</p>
+        <p xml:id="p-20">DONA</p>
+        <p xml:id="p-21">UROCZO</p>
+        <p xml:id="p-22">Ale pan używa nieprzyjemnych słów. Protokół, zeznania, przesłuchanie... Fuj.</p>
+        <p xml:id="p-23">RUCIŃSKI</p>
+        <p xml:id="p-24">Czy pani zdaje sobie sprawę ze swojej sytuacji?</p>
+        <p xml:id="p-25">DONA</p>
+        <p xml:id="p-26">Proszę mi wierzyć... doskonale.</p>
+        <p xml:id="p-27">RUCIŃSKI</p>
+        <p xml:id="p-28">Odnoszę wrażenie, że chyba jednak nie.</p>
+        <p xml:id="p-29">DONA</p>
+        <p xml:id="p-30">To już pana problem.</p>
+        <p xml:id="p-31">RUCIŃSKI</p>
+        <p xml:id="p-32">Zostanie pani postawiony zarzut uprowadzenia dziecka.</p>
+        <p xml:id="p-33">DONA</p>
+        <p xml:id="p-34">Co pan powie?</p>
+        <p xml:id="p-35">RUCIŃSKI</p>
+        <p xml:id="p-36">Jeżeli pani spodziewa się, że ze względu na swoją przeszłość, mówię o pani pobycie w zakładzie psychiatrycznym, nic pani nie grozi, to muszę wyjaśnić, że...</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

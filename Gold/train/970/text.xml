@@ -1,0 +1,14 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Młodzi ludzie - wolontariusze - pomagają bezrobotnym i rolnikom w podnoszeniu kwalifikacji, ucząc ich za darmo języków obcych.</p>
+        <p xml:id="p-2">Jest to możliwe dzięki programowi „Edukacja bez Granic”, dziełu Fundacji Edukacyjnej Bachalskiego. Zajęcia z bezrobotnymi i rolnikami prowadzą młodzi wolontariusze, uczniowie trzecich klas szkół średnich lub studenci. Na razie prowadzona jest nauka języka angielskiego i niemieckiego.</p>
+        <p xml:id="p-3">Program „Edukacja bez Granic” rozpoczął się w czerwcu ub.r. w czterech miastach: Gorzowie, Sulęcinie, Świebodzinie i Zielonej Górze. Przedsięwzięcie okazało się wielkim sukcesem. Obecnie liczba miast uczestniczących w programie zwiększyła się do 12. Są to: Gorzów Wlkp., Grodzisk Wlkp., Gubin, Kostrzyn, Nowa Sól, Skwierzyna, Strzelce Krajeńskie, Sulęcin, Świebodzin, Zielona Góra, Żagań i Żary. Planowane jest rozszerzenie akcji na teren calej Polski. Obecnie program jest uruchamiany w Poznaniu i Szczecinie. Wkrótce obejmie swoim zasięgiem kolejne miasta. Już około tysiąca bezrobotnych uczy się języka angielskiego i niemieckiego. W programie bierze udzial ponad trzystu wolontariuszy. Kursy trwają pięć miesiące. Kolejny rozpoczął się po feriach zimowych. W zależności od potrzeb organizowany jest kurs podstawowy lub zaawansowany. Zajęcia odbywają się dwa razy w tygodniu i trwaja półtorej godziny. Na kursie sprawdzana jest lista obecności. Jeżeli ktoś opuszcza zajęcia bez usprawiedliwienia, jest wykreślany z programu. Po zakończeniu kursu uczestnicy otrzymują certyfikat potwierdzający nabyte umiejętności. Wolontariusze prowadzący zajęcia korzystają z pomocy i doświadczeń szkoły językowej JDJ Bachalski.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

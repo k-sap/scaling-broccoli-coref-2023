@@ -1,0 +1,14 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Odkrywanie prawdziwego obrazu Boga jest jednoczesnym odkrywaniem prawdziwej hierarchii wartości, ustanowionej przez Boga. Przykazania Boże posiadają swoją kolejność i jest ona częścią Objawienia. Człowiek nie ma żadnego prawa do przestawiania kolejności Bożych przykazań. Ustalenie hierarchii przykazań, to również ustalenie hierarchii zranień, słabości i grzechów.</p>
+        <p xml:id="p-2">Człowiek może poczuć się uzdrowiony w wymiarze seksualnym tylko wówczas, kiedy odkryje seksualność jako „szóstą” dziedzinę ludzkiego życia, zaś zranienie seksualne jako „szóste zranienie”. Uzdrowienie w wymiarze seksualnym dokonuje się między innymi także przez odkrycie pierwszych pięciu wartości oraz pierwszych pięciu słabości i zranień ludzkich. Nie byłoby w człowieku zranienia „szóstego”, gdyby nie było w nim zranień z pierwszych pięciu przykazań, nierzadko ważniejszych od „szóstego”. Zranienie seksualne jest najczęściej tylko objawem innych, zwykle głębszych zranień. Nie może dokonać się w człowieku uzdrowienie w wymiarze seksualnym, jeżeli nie zostaną uzdrowione inne jego podstawowe płaszczyzny życia.</p>
+        <p xml:id="p-3">W jednej z książek dla młodzieży wydanej w Polsce, omawiającej także problemy seksualne, czytamy: „Jest to przykazanie dopiero szóste, ale w młodych, szalonych latach, gdy niebo płonie, to przykazanie staje się pierwsze. Od niego w pewnej chwili wszystko zależy, pewne «być albo nie być»”. Aczkolwiek można rozumieć dobre intencje autora tego tekstu, to jednak dosłowne rozumienie go może wprowadzić młodego człowieka w błąd, ponieważ naprowadza na próby rozwiązania problemu „szóstego” w izolacji od wszystkich innych problemów. Problemy seksualne mają najczęściej charakter symboliczny, ponieważ są przejawem innych, bardziej podstawowych problemów. Im głębsza dezintegracja i poranienie w sferze emocjonalnej, psychicznej i duchowej, tym większa nieraz dezintegracja i poranienie dziedziny seksualnej.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

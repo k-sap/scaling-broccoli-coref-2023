@@ -1,0 +1,22 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">- Tak naprawdę, on z nas wszystkich jest najbardziej podobny do ojca - rzekł Wyweron.</p>
+        <p xml:id="p-2">Dracon milczał, wpatrując się w czubki swoich butów.</p>
+        <p xml:id="p-3">- Upadliśmy... przerażająco nisko - wysapał Alwaid, idąc ostrożnie po stromej ścieżce, biegnącej wzdłuż nadmorskiego klifu.</p>
+        <p xml:id="p-4">- Jeszcze nie - odrzekł Dracon, z obawą spoglądając za krawędź. - I wolałbym nie upadać. O w mordę, jak tu wysoko...</p>
+        <p xml:id="p-5">- Upadliśmy w sensie moralnym. Kłusujemy na smoka, w dodatku zagranicznego. Ojca by szlag trafił, gdyby żył oczywiście.</p>
+        <p xml:id="p-6">- Gdyby żył, anulowałby ten idiotyczny testament, a my nie musielibyśmy wlec się na polowanie aż do Lengorchii.</p>
+        <p xml:id="p-7">- Ja też uważam, że to niemoralne - syknął z tyłu Wyweron. - Co? Że zubażamy cudzy majątek narodowy? Zostawię im przed wyjazdem większy napiwek w gospodzie. Masz! Przyzwyczajaj się. - Dracon wepchnął bratu do rąk muszkiet, mimo lekkiego oporu obdarowanego.</p>
+        <p xml:id="p-8">- Ale ja się czuję nie bardzo... Planujemy zabicie zupełnie niewinnej istoty. Myślącej w dodatku. Ciapek miał rację...</p>
+        <p xml:id="p-9">- Nie jojcz. Po prostu wyceluj tę rurę w smoka i wyobraź sobie, że jest stosem złotych pięciokoronówek. Zobaczysz, jak to pomaga.</p>
+        <p xml:id="p-10">- A jak nie trafię...?</p>
+        <p xml:id="p-11">Podobne rozmowy bracia prowadzili mniej więcej od sześciu dni, od chwili kiedy postawili stopę na terytorium cesarstwa Lengorchii. Przed nimi rozciągał się błękitny przestwór oceanu, z drugiej strony horyzont ograniczało postrzępione pasmo zachodniego krańca Gór Zwierciadlanych - podobno ostatniego miejsca, gdzie żyły stada dzikich, nieponumerowanych smoków. Trzech smokobójców-amatorów włóczyło się po wybrzeżu, udając przed tubylcami, że polują na foki. Czwarty łaził za nimi w charakterze "ogona", gubiąc się nieustannie. Starsi bracia na próżno usiłowali wzbudzić w nim zainteresowanie łowiectwem, Cellofan przedkładał podziwianie krajobrazów nad ich barbarzyńskie rozrywki.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

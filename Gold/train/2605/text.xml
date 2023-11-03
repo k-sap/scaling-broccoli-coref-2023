@@ -1,0 +1,18 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Ma 187 cm wzrostu, za dużo waży i jest gotów zdobyć stopień sternika jachtowego. We władzach miasta zajmie się lokalami i gospodarowaniem majątkiem gminy</p>
+        <p xml:id="p-2">Łódź ma nowego wiceprezydenta</p>
+        <p xml:id="p-3">Marek Klimczak jest od wczoraj nowym wiceprezydentem Łodzi. Był jedynym kandydatem.</p>
+        <p xml:id="p-4">Poparli go radni rządzącego w Łodzi SLD, przeciwna była opozycja z Porozumienia Samorządowego Prawicy i UW. Nowy wiceprezydent będzie odpowiadał we władzach miasta za gospodarowanie majątkiem oraz sprawy budynków i lokali.</p>
+        <p xml:id="p-5">Zanim doszło do głosowania, radni zadawali Markowi Klimczakowi pytania. Radny Jarosław Jagiełło (PSP) chciał wiedzieć, czy w świetle planowanych redukcji zatrudnienia w administracji Marek Klimczak uważa swoje zatrudnienie w urzędzie za niezbędne. Dopytywał się też, czy kandydat na wiceprezydenta wie, ile wynoszą nakłady na inwestycje. Radny Zbigniew Klajnert (PSP) pytał Marka Klimczaka, jak ocenia on swoje predyspozycje do pracy we władzach miasta. Dociekliwość radnych próbował studzić przewodniczący RM Tadeusz Matusiak, który apelował, aby pytania do kandydata nie zmieniały się w przesłuchanie.</p>
+        <p xml:id="p-6">Apele na niewiele się zdały, bo radni nadal pytali. Chcieli wiedzieć, jakie jest doświadczenie Marka Klimczaka w organizowaniu kursów BHP (swego czasu media opisywały szczegóły szkoleń BHP, które organizowała dla pracowników magistratu firma Klimczaka). Radny Edward Mamos (SLD) rozbroił napiętą atmosferę na sali pytając kandydata o wzrost, wagę i chęć zdobycia stopnia sternika jachtowego.</p>
+        <p xml:id="p-7">- Mam 187 centymetrów wzrostu, ważę za dużo, a stopień sternika zdobędę z dużą przyjemnością - odpowiedział kandydat. - Zapewnił, że ma 30-letnie doświadczenie w kierowaniu instytucjami i zespołami ludzi. W głosowaniu poparło go 40 radnych, 29 było przeciw, zaś 3 oddane głosy były nieważne. Wyborem Marka Klimczaka na wiceprezydenta Łodzi poruszona była opozycja.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

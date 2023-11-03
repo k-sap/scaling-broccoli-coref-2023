@@ -1,0 +1,31 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">- Poświęcił. Mówił, że nie można w niepoświęcanej ziemi. Namawiał, żeby wieźć do Sławska.</p>
+        <p xml:id="p-2">- A tatuś Ø co?</p>
+        <p xml:id="p-3">- Tatuś Ø nie chciał. Powiedział: można w brzezinie. Tu ładne miejsce.</p>
+        <p xml:id="p-4">- Ładne!</p>
+        <p xml:id="p-5">- Bardzo ładne, ale ja tu nie lubię chodzić.</p>
+        <p xml:id="p-6">- Nie lubisz?</p>
+        <p xml:id="p-7">- Nie lubię. Chodzę tylko z tatusiem Ø. Tatuś Ø się modli.</p>
+        <p xml:id="p-8">- Tatuś Ø...</p>
+        <p xml:id="p-9">- Tatuś Ø codziennie chodzi z rana albo pod wieczór, a w niedzielę to się tu modli ze mną. Czyta z tej książki, co mamusia Ø miała.</p>
+        <p xml:id="p-10">- A ty pamiętasz mamusię Ø?</p>
+        <p xml:id="p-11">- Pewnie, to ledwie rok minął.</p>
+        <p xml:id="p-12">- Prawda. Już rok. A ja się dowiedziałem dopiero na jesieni. Twój tatuś rzadko pisuje.</p>
+        <p xml:id="p-13">- Tatuś Ø nie lubi listów.</p>
+        <p xml:id="p-14">- Ja pisałem częściej.</p>
+        <p xml:id="p-15">- Ale tatuś Ø nie lubi listów stryjcia.</p>
+        <p xml:id="p-16">- Czytał ci co kiedy?</p>
+        <p xml:id="p-17">- Nie... kiedyś czytał, jak stryjcio saneczkami jeździł. Ja też mam saneczki, ale tutaj nie ma żadnej góry. A w Szwajcarii duże góry?</p>
+        <p xml:id="p-18">- Ogromne. Pokażę ci fotografie.</p>
+        <p xml:id="p-19">- To chodźmy już do domu. Stryjcio pokaże fotografie.</p>
+        <p xml:id="p-20">Zaczął pokazywać jej fotografie, ale dziewczynka wkrótce się znudziła. Zresztą nie bardzo rozumiała, co to znaczy "hotel", "sanatorium", "Szwajcaria". Staś siedział na ceratowej kanapce, która stała w jego pokoju, i fotografie zsunęły mu się z kolan. Spoglądał bezmyślnie w okno, gdzie spoza pni sosnowych poczęły przebijać promienie. Igliwie między sosnami kurzyło się mocno; przestrzenie pomiędzy pniami napełnione były mgłą i wyziewami. Zresztą nie obserwował zjawisk przyrody, nawet nie myślał o tym, co się w nim dzieje. Trwał w spokoju, chciał nawet bezmyślności. Po chwili powtórzył:</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

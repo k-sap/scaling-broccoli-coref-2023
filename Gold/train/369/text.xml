@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">KRYTYKA RACJONALISTYCZNA: JULIEN BENDA</p>
+        <p xml:id="p-2">Jak wszyscy wpływowi i oryginalni myśliciele, Bergson był obiektem licznych ataków, w szczególności po ogłoszeniu Ewolucji twórczej. Ataki pochodziły głównie z dwóch przeciwstawnych obozów. W oczach racjonalistów filozofia Bergsona oznaczała degradację rozumu analitycznego; usiłowała zastąpić rygory nauki quasi-mistyczną intuicją. Z kolei ortodoksyjni tomiści atakowali jego panteizm i nominalizm, a nade wszystko widzieli w nim (całkiem słusznie) wielkiego sprzymierzeńca, czy wręcz najpotężniejszego filozoficznego orędownika modernizmu katolickiego, groźnej choroby, która szerzyła się w Kościele katolickim w większości krajów europejskich. Najbardziej nieprzejednanym wrogiem Bergsona wśród racjonalistów francuskich był z pewnością Julien Benda. W dwóch kolejnych książkach: Le Bergsonisme ou une philosophie de la mobilité (1912) oraz Une philosophie pathétique (1913), i w artykułach demaskował bergsonizm, z punktu widzenia tradycji kartezjańskiej, nie tylko jako filozofię, która po prostu jest błędna, ale jako jaskrawy objaw ogólnego upadku kultury. Było to w jego oczach barbarzyńskie odwoływanie się do biernych emocji, które miały jakoby zastąpić myślenie dyskursywne i dać nam wyższy, choć niesprawdzalny i niestosowalny, wgląd w rzeczywistość absolutną. Filozofia ta, na przekór wszystkim roszczeniom Bergsona, nie potrafiła wypracować żadnej "metody" ani dojść do jakichkolwiek wyników. Scjentyści, jak Spencer, będący jednym z głównych celów Bergsonowskiej krytyki, nie uchwycili istotnie ruchu ewolucji samej w sobie, albo "substancji" ruchu, ale też nigdy nie pretendowali do tego, by osiągnąć takiego rodzaju niemożliwą wiedzę. Wada inteligencji, powiada Bergson, polega na tym, że nie potrafi ona wyjaśnić ruchomości; owszem, ale też nie potrafi wyjaśnić nieruchomości, i nawet tego nie próbuje, gdyż ten rodzaj wyjaśniania, jaki Bergson, jak utrzymuje, odnalazł, jest zadaniem chimerycznym, jałowym uganianiem się za absolutem, który z definicji nie może być przedmiotem wiedzy, cokolwiek Bergson i William James by mogli sobie wyobrażać.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

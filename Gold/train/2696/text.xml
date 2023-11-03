@@ -1,0 +1,16 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Ukończył Seminarium Księży Salezjanów w Lądzie nad Wartą, studiował w tym czasie filozofię i teologię. Parafia pw. Najświętszej Marii Panny Wspomożenia Wiernych jest jego pierwszą placówką.</p>
+        <p xml:id="p-2">- Bardzo podoba mi się położenie miasta i parafii. Piękne są także okolice miasta. Wrażenie robi na mnie także tradycyjna, kaszubska pobożność - powiedział nam ksiądz Henryk.</p>
+        <p xml:id="p-3">W rumskiej parafii zajmuje się przede wszystkim pracą z dziećmi i młodzieżą. Mimo młodego wieku Ø posiada już spore doświadczenie. Brał udział w wielu imprezach i wycieczkach. Dlatego też obecnie opiekuje się ministrantami i prowadzi ruch oazowy. Przez całe wakacje trenował także tenisistów stołowych Salosa Rumia. Efektem ich wspólnej pracy są medale zdobyte w Ogólnopolskich Igrzyskach Młodzieży Salezjańskiej.</p>
+        <p xml:id="p-4">Uwielbia piesze wędrówki po górach - przede wszystkim po polskich Tatrach. Szczególnie lubi wędrówki z grupami młodych ludzi ze szkół, parafii czy innych organizacji. Chętnie też jeździ na rowerze. Cieszy się, że okolice Rumi obfitują w odpowiednie trasy. Kiedy zostaje w domu, lubi posłuchać spokojnej i refleksyjnej muzyki. Nie ma jednak ulubionego wykonawcy. Czyta także książki - jego ulubione dzieło to „Twierdza” Antoine de Saint-Exupéry'ego.</p>
+        <p xml:id="p-5">Jak sam przyznaje, mówienie o wolnym czasie to w jego przypadku nieco zabawne. Odkąd przyjechał do Rumi ma tak wiele zajęć, że nie udało mu się jeszcze odwiedzić domu rodzinnego, odległego zaledwie o 60 kilometrów. Nie narzeka jednak, gdyż ze swej pracy czerpie wiele satysfakcji.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

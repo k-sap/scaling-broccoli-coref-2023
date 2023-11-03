@@ -1,0 +1,17 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Ale na to skoczył rozsrożony kowal i jął przekładać gospodarzom, że Antek dawno się odgrażał podpaleniem, że stary już z dawna wiedział o tym i całymi nocami pilnował.</p>
+        <p xml:id="p-2">- A że on to zrobił, to bym przysiągł, a zresztą są świadki, zeznają i musi być kara na takich, musi! A bo to nie zmawiał się wciąż z parobkami, nie buntował to przeciw starszym, nie podmawiał do złego, wiem ci ja nawet z którymi Ø, wiem, patrzę nawet na nich, słuchają mnie teraz i jeszcze śmią bronić takiego - wrzeszczał groźnie. - Zaraza z takiego na całą wieś płynie, zaraza, że do kreminału, na Sybir go, kijami zatłuc kiej psa wściekłego, bo nie dość obrazy boskiej, żeby z rodzoną macochą... a tu podpala jeszcze! Cud jeno, że cała wieś nie poszła! - wykrzykiwał namiętnie, snadź miał w tym jakieś wyrachowanie.</p>
+        <p xml:id="p-3">Zmiarkował to Rocho stojący z Kłębem na uboczy i rzekł: - Mocno stajecie mu naprzeciw, choć wczoraj jeszcze piliście z nim w karczmie.</p>
+        <p xml:id="p-4">- Wróg mi każden, któren wieś całą mógł powieść na dziady!</p>
+        <p xml:id="p-5">- Ale dziedzic to wama nie wrogiem! - dorzucił poważnie Kłąb.</p>
+        <p xml:id="p-6">Zawrzeszczał ich, zakrzyczeli i insi, a kowal rzucał się między ludzi, podjudzał, do pomsty wzywał, niestworzone rzeczy wymyślał na niego; aż i naród dość już wzburzony zmącił się do dna i zakłębił, zaczęli głośno wołać, by przywieść podpalacza, skuć w kajdany i do urzędu powieść, a insi, gorętsi, już się oglądali za kijami i chcieli bieżyć, wywlec go z chałupy i tak sprać, bych całe życie popamiętał!... najbarzej nastawali ci, którym nieraz Antek żebra zrachował kijaszkiem...</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

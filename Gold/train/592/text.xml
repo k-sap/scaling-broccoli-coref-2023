@@ -1,0 +1,19 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">- Znaleźliśmy go w Starej Kiszewie – mówi szef Oazy. – Wydawało się, że sytuacja się już nie powtórzy. Niestety...</p>
+        <p xml:id="p-2">Z terenu ośrodka można wyjść nie zwracając uwagi. W końcu to nie zakład karny. Sobota, godzina 11. Opiekunowie wreszcie dostrzegają nieobecność Beniamina. Natychmiast powiadamiają policję.</p>
+        <p xml:id="p-3">Podinsp. Franciszek Ramczykowski, zastępca komendanta powiatowego z Kościerzyny z rezerwą mówi o pedagogicznej działalności misji.</p>
+        <p xml:id="p-4">- Nie pierwszy raz zaangażowaliśmy się w poszukiwanie niemieckich dzieci – stwierdza komendant. – Wcześniej uciekała pewna piętnastoletnia panienka, potem ten trzynastolatek. Opiekunowie powinni przewidzieć i takie kłopoty, podejmując opiekę nad trudną młodzieżą.</p>
+        <p xml:id="p-5">Rozpoczęto poszukiwania. Stary Bukowiec leży na skraju dużego kompleksu leśnego. Beniamin mógł zabłądzić w lesie, mógł się zranić, mógł napotkać złych ludzi...</p>
+        <p xml:id="p-6">Znaleziono go następnego dnia w odległym o kilka kilometrów Bartoszymlesie. Wyglądał fatalnie – wymiotował, miał biegunkę, skurcze mięśni... Natychmiast przewieziono go do szpitala w Kościerzynie.</p>
+        <p xml:id="p-7">Byłem głodny – opowiadał chłopiec. - Znalazłem takie grzyby podobne do pieczarek. Zjadłem je na surowo.</p>
+        <p xml:id="p-8">W takiej sytuacji niezbędne jest natychmiastowe płukanie żołądka. Potem kościerscy pediatrzy zadecydowali o przewiezieniu chłopca do AMG. Trzeba było jak najszybciej znaleźć przyczynę zatrucia i odpowiednią odtrutkę. Treść żołądkową Beniamina w pośpiechu przesłano do laboratorium w szpitalu miejskim na Zaspie. Dr Elżbieta Sienkiewicz zasugerowała, że przyczyną zatrucia może być muskaryna.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

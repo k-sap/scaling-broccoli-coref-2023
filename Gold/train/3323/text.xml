@@ -1,0 +1,17 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">- Ta praca to nigdy niekończąca się historia, praktycznie przerywana jedynie biologicznymi koniecznościami. Zajmujemy się pełną gamą spraw, od prywatnych po doradztwo prawne firmom zagranicznym i mediacje. Ta różnorodność sprawia, że nie popada się w męczącą rutynę, bo raz trzeba wysłuchać całej historii życia klienta, innym razem poznawać tajniki działania największych firm. Zwykle pracuję od 8.30 do 20.30, ale bywa, że i do północy. Najwspanialsze w tym zawodzie jest to, że każda sprawa jest inna. A fakt, że biorę na siebie odpowiedzialność, czasem ogromną, nie paraliżuje, ale - przeciwnie - pobudza do pracy, daje możliwość kreatywnego działania. Nie odczuwam więc z reguły zmęczenia - poza fizycznym - nowe, trudne wyzwania nakręcają mnie.</p>
+        <p xml:id="p-2">69 godzin</p>
+        <p xml:id="p-3">Rita Schultz, 28 l., redaktor naczelna 3 czasopism (półrocznika "Poradnik Inwestora", miesięcznika "Home&amp; Market", tygodnika "Gazeta Finansowa"):</p>
+        <p xml:id="p-4">- Zajmując się trzema tytułami prasowymi, nie ma się chwili wolnej, nie pracuje się od-do. Trzeba być dyspozycyjnym 24 godziny na dobę. Do pracy zwykle przychodzę na 9, wychodzę różnie - czasem o 19, czasem o 22- 23. Plus soboty i niedziele. Zarządzam trzema zespołami ludzkimi, więc czasami czuję, że mi coś umyka, chociaż pewnie bardziej odczuwają to moi pracownicy.</p>
+        <p xml:id="p-5">66 godzin</p>
+        <p xml:id="p-6">Maciej Grelowski, prezes Orbis SA, od 1997 r. spółki giełdowej, która niedawno w rankingu amerykańskiego dwutygodnika "Forbes" znalazła się w gronie "dwudziestu najlepszych na 2000" - mniejszych, ale najbardziej obiecujących i wytrwałych firm na świecie. W ub.r. w rankingu "Polityki" Orbis znalazł się na 23 miejscu najbogatszych polskich firm.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

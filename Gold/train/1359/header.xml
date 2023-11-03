@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<teiHeader xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xml:lang="en">
+  <fileDesc>
+    <titleStmt>
+      <title>Paragraphs: p-1039,p-1040,p-1041,p-1042,p-1043,p-1044,p-1045,p-1046,p-1047,p-1048 from NKJP text with id: PWN_2002000000118</title>
+    </titleStmt>
+  </fileDesc>
+  <profileDesc>
+    <textClass>
+      <catRef scheme="#nkjp" target="Literatura piękna"/>
+    </textClass>
+  </profileDesc>
+  <revisionDesc/>
+</teiHeader>

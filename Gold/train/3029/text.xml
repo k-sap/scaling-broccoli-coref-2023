@@ -1,0 +1,42 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">MAGDA z mężczyznami wchodzi do gabinetu.</p>
+        <p xml:id="p-2">KASIA:</p>
+        <p xml:id="p-3">Jutro o 11-ej? (...) Tak, do widzenia.</p>
+        <p xml:id="p-4">Ze swojego gabinetu wychodzi BARTEK z teczką.</p>
+        <p xml:id="p-5">BARTEK:</p>
+        <p xml:id="p-6">Zapisałaś Łukasza na gówienka?</p>
+        <p xml:id="p-7">KASIA:</p>
+        <p xml:id="p-8">Nie. Zapisałam, że ma spotkanie z klientem.</p>
+        <p xml:id="p-9">BARTEK:</p>
+        <p xml:id="p-10">(kpiąco)</p>
+        <p xml:id="p-11">Oczywiście!</p>
+        <p xml:id="p-12">BARTEK wychodzi. KASIA pokazuje za nim język.</p>
+        <p xml:id="p-13">GABINET MAGDY. WN. DZIEŃ.</p>
+        <p xml:id="p-14">Przed biurkiem MAGDY siedzą obaj JARECCY. NORBERT z pochyloną głową. MAGDA za biurkiem z notatnikiem. Kwiaty od FILIPA stoją w wazonie na parapecie.</p>
+        <p xml:id="p-15">WALDEMAR:</p>
+        <p xml:id="p-16">Ta dziewczyna...</p>
+        <p xml:id="p-17">NORBERT:</p>
+        <p xml:id="p-18">(pod nosem)</p>
+        <p xml:id="p-19">Klaudia.</p>
+        <p xml:id="p-20">WALDEMAR:</p>
+        <p xml:id="p-21">No, właśnie... Klaudia! Omotała mojego chłopca i porzuciła.</p>
+        <p xml:id="p-22">MAGDA:</p>
+        <p xml:id="p-23">Panie Norbercie, może powinien pan porozmawiać ze swoją dziewczyną, zamiast ją ciągnąć do sądu?</p>
+        <p xml:id="p-24">WALDEMAR:</p>
+        <p xml:id="p-25">W żadnym wypadku! Proszę pani, Norbercik to złote dziecko. Uczynny, dobrze wychowany, czuły i troskliwy domator. Ale żadna tam ciapa! Tenis, jazda konna, golf... Pływanie. Trzy jeżyki obce: włoski, francuski i hiszpański. O angielskim nie mówię, bo to już nie jest język obcy. Pech chciał, że na drugim roku studiów zakochał się z wzajemnością w tej Klaudii.</p>
+        <p xml:id="p-26">MAGDA:</p>
+        <p xml:id="p-27">Ile języków obcych?</p>
+        <p xml:id="p-28">WALDEMAR:</p>
+        <p xml:id="p-29">Mówiłem trzy plus angielski.</p>
+        <p xml:id="p-30">MAGDA:</p>
+        <p xml:id="p-31">Pytałam o Klaudię.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

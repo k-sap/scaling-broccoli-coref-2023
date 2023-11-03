@@ -1,0 +1,16 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Składając zgłoszenie rejestracyjne VAT-R, musisz liczyć się z koniecznością wydania 152 zł. Tyle wynosi opłata skarbowa od potwierdzenia zarejestrowania podatnika podatku od towarów i usług jako podatnika czynnego lub zwolnionego VAT.</p>
+        <p xml:id="p-2">Pojawia się jednak bardzo często wątpliwość - w jaki sposób ustalić moment, od którego uzyskana faktura VAT uprawnia do odliczenia podatku? Czy podatnicy mogą odliczyć VAT wykazany na fakturach, które otrzymali przed dokonaniem rejestracji VAT-R? Czy uznana za prawidłową będzie faktura, na której brakuje jakiegoś elementu nazwy?</p>
+        <p xml:id="p-3">Wyobraźmy sobie, że zanim rozpocząłeś faktycznie działalność, dokonywałeś zakupów związanych z wyposażeniem sklepu i uzupełnieniem towarów. Nie byłeś jeszcze zarejestrowanym przedsiębiorcą - wniosek o wpis do ewidencji czekał na rozpatrzenie. Na zakupione wyposażenie i towary otrzymywałeś faktury na imię i nazwisko, ale we wniosku o wpis do ewidencji jako nazwę firmy podałeś oprócz imienia i nazwiska również człon wyróżniający (np. PH Kamitex).</p>
+        <p xml:id="p-4">Po uzyskaniu wpisu złożyłeś zgłoszenie rejestracyjne VAT-R. Kiedy składałeś pierwszą deklarację VAT-7, byłeś już zarejestrowanym podatnikiem VAT.</p>
+        <p xml:id="p-5">O szczegółowych wymaganiach stawianych fakturze VAT piszę przy okazji omawiania dokumentów księgowych - w rozdziale 4.3.3. Sam fakt, iż na fakturze nie ma członu wyróżniającego firmy, nie stanowi przeszkody, aby traktować ją jako pełnowartościowy dokument. Dla celów podatku VAT wystarczy, aby znajdowało się tam imię i nazwisko podatnika. Zgodnie z rozporządzeniem Ministra Finansów w sprawie zwrotu podatku niektórym podatnikom, zaliczkowego zwrotu podatku, wystawiania faktur, sposobu ich przechowywania oraz listy towarów i usług, do których nie mają zastosowania zwolnienia od podatku od towarów i usług, faktura stwierdzająca dokonanie sprzedaży powinna zawierać, oprócz innych wymienionych tam elementów, co najmniej imiona i nazwiska lub nazwy bądź nazwy skrócone sprzedawcy i nabywcy oraz ich adresy.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

@@ -1,0 +1,17 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Tadeusz Pikus, prezes Przedsiębiorstwa Usług Komunalnych, także nie mający zastępcy, zarabia miesięcznie 7284 zł brutto, a główna księgowa Elżbieta Walczak - 5400 zł brutto.</p>
+        <p xml:id="p-2">Najsłabiej w miejskich spółkach zarabia Józef Borkowski - prezes Towarzystwa Budownictwa Społecznego. Jego miesięczne wynagrodzenie ("rządzi" samodzielnie) wynosi 6934 zł brutto. Sabina Humięcka, główna księgowa tej firmy, otrzymuje zaledwie 3234 zł brutto.</p>
+        <p xml:id="p-3">Pensje głównych księgowych, co daje się zauważyć, są bardziej zróżnicowane niż uposażenia prezesów. A jak kształtują się średnie zarobki w spółkach?</p>
+        <p xml:id="p-4">PEC - 2268 zł, TBS - 2360 zł, ZWiK - 2434 zł, ZKM - 2466 zł, PUK - 2683 zł. Wszystkie kwoty podajemy brutto. Ich wysokość przedstawiamy uwzględniając wszystkich pracowników (także zarząd spółki), co na pewno zawyża średnią. Przy obliczaniu zarobków całej załogi wzięto pod uwagę nagrody jubileuszowe, odprawy, premie i inne świadczenia. Kwoty są średnią z 9 miesięcy ub. roku.</p>
+        <p xml:id="p-5">Daje się zauważyć, że najwyższe czy jedne z najwyższych uposażeń zarządu nie zawsze przekładają się na równie wysokie pensje pozostałych pracowników, czego przykładem jest PEC.</p>
+        <p xml:id="p-6">Zupełnie odrębna sprawa to fakt, jak zarobki przekładają się na jakość zarządzania spółkami. Nie chodzi o to, czy spółka przynosi zyski lub straty, bo to nie może być jedynym miernikiem jej działalności, ale jak jest ona postrzegana przez społeczeństwo, jak oceniane są jej usługi itd. Naszym zdaniem ważne jest także, czy szefowie firm komunalnych szukają oszczędności, czy też wybierają najprostsze rozwiązanie - usiłują przeforsować kolejną podwyżkę.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

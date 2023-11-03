@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Z samych rozważań symetrii w uzyskanym schemacie klasyfikacji cząstek Gell-Mann i Zweig wyciągnęli wniosek, że powinny istnieć trzy składniki, z których można by zbudować wszystkie bariony i mezony. Nazwano je kwarkami. Aby utworzyć z nich zarówno bariony o spinie połówkowym, jak i mezony o spinie całkowitym, muszą one mieć spin 1/2.</p>
+        <p xml:id="p-2">Zgodnie z tym bariony powinny być zbudowane z trzech kwarków, a mezony z dwu. Odpowiednio do tego liczba barionowa dla kwarków musi być równa +1/3, dla antykwarków -1/3. Aby otrzymać zerowy spin całkowity, powinniśmy tworzyć mezony z dwu kwarków, a ze względu na ich zerową liczbę barionową musi to być para kwark-antykwark.</p>
+        <p xml:id="p-3">Dla odróżnienia trzech kwarków od siebie wprowadzono ich własność, którą nazwano zapachem (w języku angielskim flavor). Zapachy trzech kwarków otrzymały oznaczenia literowe u, d i s od angielskich słów up - górny, down - dolny i strange - dziwny. Aby można było z trzech kwarków utworzyć różne bariony, a z par kwark-antykwark różne mezony, mające ładunki równe całkowitym wielokrotnościom ładunku elementarnego e, kwarki muszą mieć ładunki wyrażające się przez e liczbami ułamkowymi: antykwarków mają znaki przeciwne. Ponieważ z kwarków możemy tworzyć również cząstki dziwne, musimy przypisać im także liczbę kwantową nazwaną przez nas dziwnością:</p>
+        <p xml:id="p-4">Znane nam już cząstki są w tym schemacie kwarkowym następującymi układami kwarków:</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

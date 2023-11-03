@@ -1,0 +1,23 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Co, też próbowałeś i nie stałeś się milionerem?</p>
+        <p xml:id="p-2">Zastanawiałem się, czy w ogóle o tym pisać, bo jak napiszę, co robić, i ktoś zacznie to robić, to też mu nie wyjdzie.</p>
+        <p xml:id="p-3">A wiesz dlaczego?</p>
+        <p xml:id="p-4">Bo wyjść nie może. Nie ma prawa! Sukces to nie bigos ani ciasto marchewkowe, na które można dać przepis. Gdyby istniało coś takiego, jak recepta na sukces, to szłoby się do szkoły i świadectwo jej ukończenia byłoby równoznaczne z Twoim pierwszym milionem na koncie.</p>
+        <p xml:id="p-5">A więc pierwsza i jedyna zasada sukcesu brzmi: Zasady sukcesu nie istnieją.</p>
+        <p xml:id="p-6">To znaczy - istnieją, ale jest ich tyle, ilu ludzi na świecie. I każdy musi je sam dla siebie napisać.</p>
+        <p xml:id="p-7">Zanim zaczniesz czytać tę książkę</p>
+        <p xml:id="p-8">Zanim zaczniesz czytać te książkę, zrób maty test, który odpowie Ci na pytanie, czy w ogóle ta książka jest dla Ciebie.</p>
+        <p xml:id="p-9">Usiądź spokojnie i zamknij oczy.</p>
+        <p xml:id="p-10">Zastanów się nad tym, czy jest coś takiego, co chciałbyś w życiu zmienić lub zdobyć - może są takie miejsca, gdzie chciałbyś być, albo wartości (materialne, intelektualne, duchowe), które chciałbyś osiągnąć.</p>
+        <p xml:id="p-11">Nie stawiaj sobie żadnych limitów: finansowych, intelektualnych, związanych z wiedzą, wykształceniem, uzdolnieniami czy sprawnością fizyczną.</p>
+        <p xml:id="p-12">Teraz wyobraź sobie, że zrealizowałeś swój cel.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

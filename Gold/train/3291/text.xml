@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">– AXA Ubezpieczenia wystartowała w listopadzie 2006 r., jako drugi na polskim rynku gracz direct. Od tego momentu liczba firm oferujących ubezpieczenia w tym modelu znacząco wzrosła. Mimo tak silnej konkurencji zrealizowaliśmy nasze plany, osiągając nie tylko bardzo dobre wyniki sprzedaży, ale także realizując te cele, które dotyczyły naszego wewnętrznego rozwoju jako organizacji. Dodatkowym, bardzo ważnym elementem całej strategii jest pozycja jaką w tak krótkim czasie zbudowała AXA jako marka. Śmiało możemy stwierdzić, że AXA na dobre zagościła w świadomości polskiego społeczeństwa – komentuje Ryszard Bociong, dyrektor generalny AXA Ubezpieczenia.</p>
+        <p xml:id="p-2">Grupa AXA jest jedną z pierwszych i najbardziej doświadczonych firm na rynku direct. Od ponad 16 lat rozwija ten model biznesu na rynkach światowych.</p>
+        <p xml:id="p-3">AXA Otwarty Fundusz Emerytalny odnotował ponad 27% wzrost wartości zarządzanych aktywów w stosunku do końca 2006 r. do kwoty 6,2 mld zł. AXA Życie Towarzystwo Ubezpieczeń wykazało dynamiczny przyrost przypisu składki o blisko 65% do poziomu ponad 382 mln zł.</p>
+        <p xml:id="p-4">– Czterokrotny wzrost w sprzedaży ubezpieczeń na życie i utrzymanie pozycji lidera wzrostu na rynku funduszy emerytalnych stanowią znaczący krok w realizacji ogłoszonych w ubiegłym roku planów Ambicja 2012. Zgodnie z nimi, w roku 2012 AXA w Polsce uzyska 3 mld zł składki ze sprzedaży ubezpieczeń na życie, a liczba klientów funduszu emerytalnego wzrośnie do 1 mln. Wyniki, które osiągnęliśmy w roku 2007 utwierdzają mnie w przekonaniu, że przyjęta strategia jest słuszna, a nakłady inwestycyjne uzasadnione i dobrze wykorzystane – mówi Maciej Szwarc, prezes zarządu AXA Polska.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

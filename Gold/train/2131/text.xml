@@ -1,0 +1,17 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Przedmowa</p>
+        <p xml:id="p-2">Pamiętam, jak na początku istnienia serwisu Osiagacz.info miałem na liście prenumeratorów jeden adres e-mail - był to mój adres. Pewnego dnia zdarzył się cud - zapisał się pierwszy subskrybent. Był nim właśnie Witold Wojtowicz - to przez niego musiałem zacząć wysyłać cytaty dnia... do OBU subskrybentów ;)</p>
+        <p xml:id="p-3">Obserwowałem stronę Witolda, trochę rozmawialiśmy mailowo, poznałem jego filozofię i było dla mnie oczywiste, że jest on człowiekiem, którego warto zaprosić do współrealizacji mojego kolejnego pomysłu - telewizji internetowej Osiagacz.tv. Jego cotygodniowy program "Prawa sukcesu" cieszy się dziś uznaniem i pomaga tysiącom ludzi.</p>
+        <p xml:id="p-4">Książka, którą masz przed sobą, jest niezwykła. To efekt tysięcy godzin studiowania sukcesu przez autora, uczenia się na własnych doświadczeniach, wzrastania. Będzie stanowić dla Ciebie ogromną pomoc na drodze do szczęśliwego życia.</p>
+        <p xml:id="p-5">Autor będzie Cię szokował, stawiał Twoje przekonania pod znakiem zapytania, zmuszał do myślenia i przekazywał Ci, co w danym zagadnieniu jest najważniejsze, używając do tego swojego lekkiego, humorystycznego i konwersacyjnego stylu. Poznasz również wiele ciekawych przykładów i porównań, które pozwolą Ci powiązać znane już sytuacje z tym, czego w danym przypadku chce nauczyć Cię Witold.</p>
+        <p xml:id="p-6">Największą - moim zdaniem - korzyścią z przeczytania tej książki jest zachęta do wejścia na wyższy poziom świadomości. Tak jak kiedyś Witold "zmotywował" mnie do rozpoczęcia wysyłania cytatów dnia, tak dziś zainspiruje Cię do opanowania emocji i przejścia do posługiwania się intuicją - jeśli to zrobisz, Twoje życie i Twój poziom szczęścia zmienią się nie do poznania.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

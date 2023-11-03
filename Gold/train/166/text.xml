@@ -1,0 +1,16 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Otwieram dyskusję.</p>
+        <p xml:id="p-2">Proszę panią posłankę Zofię Krasicką-Domkę o zabranie głosu w imieniu Klubu Parlamentarnego Akcji Wyborczej Solidarność.</p>
+        <p xml:id="p-3">Panie Marszałku! Pani Minister! Wysoki Sejmie! W imieniu Klubu Parlamentarnego Akcji Wyborczej Solidarność mam zaszczyt przedstawić stanowisko klubowe - uzasadnienie rozpatrzenia przez Sejm w trybie pilnym określa art. 123 Konstytucji Rzeczypospolitej Polskiej - do projektu ustawy zmieniającej ustawę o wynagrodzeniu osób zajmujących kierownicze stanowiska państwowe oraz o zmianie ustawy o uposażeniu byłego prezydenta Rzeczypospolitej Polskiej (druk nr 769).</p>
+        <p xml:id="p-4">Reforma ochrony zdrowia, w tym wejście nowych zasad udzielania świadczeń zdrowotnych z dniem 1 stycznia 1999 r., określonych ustawą o powszechnym ubezpieczeniu zdrowotnym, oraz zamierzona likwidacja lecznicy rządowej i utworzenie jednostki badawczo-rozwojowej spowodowały konieczność zmian w dotychczasowym systemie opieki zdrowotnej dotyczących osób uprawnionych do korzystania z lecznicy.</p>
+        <p xml:id="p-5">W odniesieniu do osób zajmujących kierownicze stanowiska państwowe, posłów, senatorów, sędziów Trybunału Konstytucyjnego, Trybunału Stanu, Sądu Najwyższego i Naczelnego Sądu Administracyjnego, a także członków personelu dyplomatycznego akredytowanego w Polsce oraz innych osób określonych w art. 2 omawianej ustawy, zapisy nowej ustawy o ubezpieczeniu zdrowotnym nie gwarantowałyby pełnej dostępności świadczeń zdrowotnych. Dlatego konieczne staje się uregulowanie tych spraw, co nastąpi przez wprowadzenie zmian do ustawy z dnia 31 lipca 1981 r. o wynagrodzeniu osób zajmujących kierownicze stanowiska państwowe. Zmiany te polegają na dodaniu po art. 5 art. 5a. Ust. 1 nowego art. 5a ma brzmienie: Osobom zajmującym kierownicze stanowiska państwowe, wymienionym w art. 2, i małżonkom tych osób oraz członkom rodzin będących na ich utrzymaniu przysługuje prawo do świadczeń zdrowotnych w zakresie podstawowym, w szczególności w razie nagłego zachorowania, wypadku, urazu i zatrucia lub konieczności natychmiastowego leczenia szpitalnego.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

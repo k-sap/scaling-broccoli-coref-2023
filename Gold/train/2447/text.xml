@@ -1,0 +1,17 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">W wypowiedziach nowego zarządu Kasy słyszymy o jej fatalnej sytuacji finansowej. Czy odbiera pan to jako zarzut przeciwko staremu zarządowi?</p>
+        <p xml:id="p-2">Niezrozumiałe jest to ciągłe narzekanie na podobno katastrofalny stan finansów Kasy już w bieżącym roku. Odnoszę wrażenie, że aktualny zarząd z jednej strony nie potrafi poradzić sobie z efektywnym zarządzaniem tak dużymi pieniędzmi, z drugiej strony znajduje się pod ciągłym naciskiem ministra zdrowia. W tej sytuacji najprostsze jest ciągłe narzekanie i zwalanie win na poprzedników. Dobrze byłoby, aby nowy zarząd znalazł więcej czasu na zarządzanie, a mniej na wyszukiwanie nieistniejących afer.</p>
+        <p xml:id="p-3">Czy nie ma na to żadnego rozwiązania?</p>
+        <p xml:id="p-4">Z niecierpliwością czekam, aż nowy zarząd zrobi w końcu coś pożytecznego. Chyba, że wszystko chcemy oddać do centrali. Śląska Kasa ciągle dysponuje funduszem rezerwowym w wysokości ponad 140 mln złotych i jeśli nie zostanie wykorzystany, to zostanie oddany „do Warszawy”.</p>
+        <p xml:id="p-5">Tymczasem słyszymy, że wzrosną wydatki na cele administracyjne.</p>
+        <p xml:id="p-6">Wydatków administracyjnych Kasy, jeżeli ma ona funkcjonować sprawnie, nie można pomniejszać. Od początku Kasa borykała się z ogromnymi kłopotami lokalowymi. Musieliśmy wynająć szereg siedzib. Niestety, w udostępnianiu nam tanich pomieszczeń nie pomogli nam ani ówczesny wojewoda, ani prezydent Katowic, mimo że zwracaliśmy się do nich o pomoc. A czas biegł nieubłaganie i problemy trzeba było rozwiązywać. Naszych biur nie mogliśmy rozproszyć po odległych kątach miasta, bo taką firmą nie da się sprawnie zarządzać. Mimo to daliśmy sobie radę, ale trochę to nas kosztowało.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

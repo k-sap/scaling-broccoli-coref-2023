@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Podobnie jest z tak zwanymi programami aktywizacji bezrobotnych. Przewidziano je tylko dla absolwentów. Program "Pierwsza praca" trwać ma tylko 3 miesiące, co oznacza, że w grudniu rzesza bezrobotnych może powiększyć się o następnych 100 osób. I to bez prawa do zasiłku, bo trzymiesięczne zatrudnienie nie daje prawa do jego nabycia.</p>
+        <p xml:id="p-2">Młodzi mieszkańcy Łasku są w uprzywilejowanej sytuacji. Także z myślą o nich przewidziano mikropożyczki. Mogą się o nie ubiegać absolwenci myślący o założeniu własnej firmy lub pracodawcy, którzy chcą stworzyć dla nich nowe miejsca pracy. Warunki są dobre, ponieważ kredyty w wysokości od 5 do 40 tysięcy złotych, które można zaciągnąć na trzy lata, są oprocentowane tylko w 7 procentach. Jednak na razie do łaskiego pośredniaka nie zgłosili się po nie chętni.</p>
+        <p xml:id="p-3">- Teraz strach otwierać jakąkolwiek firmę. Nie wiadomo, co może przynieść zyski, a kredyt trzeba będzie spłacić. Może i jest to szansa, jednak wolę przez rok posiedzieć na zasiłku, pomóc w domu rodzicom, a w przyszłym spróbować ponownie dostać się na studia. Takie zdanie ma większość moich kolegów. Nikt nie chce ryzykować - stwierdził Krzysztof, jeden z tegorocznych absolwentów łaskiego liceum.</p>
+        <p xml:id="p-4">Zdaniem pracowników Powiatowego Urzędu Pracy w Łasku nic nie wskazuje na to, by liczba bezrobotnych na tym terenie mogła się zmniejszyć. Wręcz przeciwnie. Kończy się okres prac sezonowych, więc do rzeszy pozostających bez zatrudnienia dołączy co najmniej 200 osób. Na zatrudnienie będą mogli liczyć najprawdopodobniej w maju. A w Łasku nie zanosi się na to, by znaleźli się chętni do otwierania nowych zakładów.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

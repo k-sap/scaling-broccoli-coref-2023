@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">W jaki sposób trafiłeś do programu?</p>
+        <p xml:id="p-2">- Wszystko potoczyło się błyskawicznie. W styczniu moja szkoła organizowała wystawę w Muzeum Regionalnym w Kościanie. Okrasić ją miały występy artystyczne. Z nauczycielem, panem Paszkowiakiem przygotowaliśmy kilka piosenek. Mój występ przypadł do gustu licznie zgromadzonym studentkom. W tym czasie Polsat zaczął emitować zapowiedzi Idola. Pan Paszkowiak powiedział, że powinienem spróbować. Zawsze staram się słuchać starszych.</p>
+        <p xml:id="p-3">Czy swoje życiowe plany wiążesz z występami estradowymi?</p>
+        <p xml:id="p-4">- Chciałbym spróbować swych sił jako wokalista w zespole. Na razie nikt się jednak nie zgłosił. Jedyną propozycję, którą otrzymałem złożyła mi właścicielka Niedźwiedzia z Nowego Dębca. Wystąpię tam 2 czerwca, podczas dużego rodzinnego festynu z okazji Dnia Dziecka.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

@@ -1,0 +1,14 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Już drugi rok mija, jak pani Barbara i jej wspólnota mieszkaniowa domagają się rzetelnych pomiarów natężenia hałasu. W sprawę jest włączony Urząd Miasta. - Wszystkie pomiary wskazują, że nie ma przekroczonych dopuszczalnych norm – dowiadujemy się w fabryce sprężyn, a potwierdzają to oficjalne pisma z Inspektoratu Ochrony Środowiska. - Mamy raport o oddziaływaniu na środowisko, z którego jasno wynika, że nie jesteśmy zakładem uciążliwym. Spełniamy wszystkie normy, a mimo to, idąc na rękę mieszkańcom pobliskiego osiedla, założyliśmy dodatkowy filtr na wentylator. Teraz powinno być już bardzo dobrze. Ale mieszkańcy osiedla twierdzą, że nie jest. - Dlaczego nie robiono pomiarów w nocy? Wtedy najbardziej cierpimy. Otrzymałam od siostrzeńca miernik hałasu. Wskazuje w nocy ponad 49 decybeli, a norma dopuszczalna wynosi 45. Zwracałam na to uwagę, ale w Inspektoracie Ochrony Środowiska mówiono mi, że to się inaczej przelicza. Skoro tak, niech sami zmierzą. Pani Barbara powołuje się na definicję dopuszczalnego poziomu emisji hałasu, która mówi, że w niektórych przypadkach, gdy okna znajdują się blisko źródła hałasu, powinny być stosowane ostrzejsze kryteria. - Uważam, że w naszym przypadku tak właśnie jest.</p>
+        <p xml:id="p-2">Fatalna decyzja</p>
+        <p xml:id="p-3">Władze fabryki sprężyn przypominają, że gdy w połowie lat 90. przedłożono nowy plan zagospodarowania terenów w tej dzielnicy, zgłosiły protest. - Już wtedy zgłaszaliśmy, że w sąsiedztwie fabryki nie powinno zezwalać się na budownictwo mieszkaniowe. Nasz teren leżał w dzielnicy przemysłowej. Fabryka stoi tu od lat. Wybudowanie za naszym płotem osiedla mieszkaniowego to kiepski pomysł. W tym czasie architektem miejskim był brat właściciela firmy, która wybudowała osiedle na Sulimów. Ale plan zagospodarowania terenu zatwierdza przecież Rada Miasta. Na Sulimów szybko powstało osiedle, które dziś boryka się z tą fatalną lokalizacją. - Dziś już nie ma mieszkań z przydziału. Dlatego przy kupnie własnego lokum trzeba dobrze wszystko rozważyć – radzi wzięty siedlecki architekt, Marek Bulak.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

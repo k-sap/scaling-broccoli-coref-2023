@@ -1,0 +1,14 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">2001</p>
+        <p xml:id="p-2">13 marca: koncert Czarno-czarny film otwiera Festiwal Piosenki Aktorskiej we Wrocławiu; w trakcie tej imprezy kompozycje Nalepy wykonują: Martyna Jakubowicz, Kasia Kowalska, Justyna Steczkowska, Grzegorz Markowski, Maciej Maleńczuk, Stanisław Sojka, Muniek Staszczyk, Mariusz Lubomski, Orkiestra Kameralna Leopoldinum i zespół Mateusza Pospieszalskiego.</p>
+        <p xml:id="p-3">"Bycie bluesmanem zawsze kojarzyło mi się z jakąś biedą. A ja biedny nie jestem, pieniądze mnie się zawsze trzymały i trzymają, wiec to nie bardzo do mnie pasuje. To jednak prawda, że w tych ramkach zostałem określony... Ale jestem muzykiem, grałem w swoim życiu różne rodzaje muzyki i mogę grać różne rodzaje muzyki. I nie chcę tu składać żadnych deklaracji. Ale że w końcu zacząłem grać bluesa, to wynikło z wielu powodów. Może nawet z lenistwa, bo w muzykę rockową trzeba włożyć trochę więcej pracy - przynajmniej w moim przypadku... Gitarzystą na pewno jestem bluesowym. Kompozytorem po części, bo bluesy to najwyżej połowa kawałków, które zrobiłem. Na pewno tę muzykę kocham, choć zdradzam ją czasem, uciekając w stronę rocka. Zresztą uważam, że takiego prawdziwego, czystego w formie bluesa dzisiaj już na świecie nie ma. Dlatego nawet nie mam prawa udawać, że to ja go gram. Mógłbym się oczywiście odważyć, tylko jest pytanie: czy ktoś to kupi?" (Tadeusz Nalepa w rozmowie z Mariuszem Szalbierzem, "Twój Blues", marzec 2001).</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

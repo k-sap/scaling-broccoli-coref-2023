@@ -1,0 +1,17 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Szedł mocno zamyślony. Wydawało mu się, że w jakimś programie przyrodniczym w telewizji widział już takie drapieżne spojrzenie, ale za nic na świecie nie mógł sobie teraz przypomnieć, co to było za zwierzę. A jak zadał sobie pytanie, jakie być mogło, odpowiedź nasunęła mu się natychmiast: kobra!</p>
+        <p xml:id="p-2">Szelemontało mu się co prawda po głowie, że kobra ma jakieś te oczy niewielkie, ale pewności nie miał. Był za to pewien, że jakby zobaczył taką kobrę w ataku, odczuł by to samo, co dziś gdy spojrzał Jurkowi w oczy.</p>
+        <p xml:id="p-3">Drzwi nie były zamknięte. Kaziuk wszedł do salonu. Na kanapie siedziała pani domu, a obok niej... wąż. Kaziuk wybałuszył oczy, wrzasnął krótko, acz głośno i padł bez zmysłów.</p>
+        <p xml:id="p-4">Helena spokojnie wstała i poszła po męża: – Przyszedł twój najlepszy przyjaciel, nie dzwonił do furtki ani do domu, wlazł pijany do salonu, wrzaskiem przestraszył Paszczę i zemdlał. Ocuć go albo co.</p>
+        <p xml:id="p-5">I dodała: – Ja mu kiedyś zrobię coś złego...</p>
+        <p xml:id="p-6">Pogotowie przyjechało dość szybko. Lekarz wysłuchał wyjaśnień uroczej pani domu. Akurat przyjechała koleżanka ze swoim zwierzątkiem – wężem boa. Bardzo nieśmiały, w dodatku zestresowany zmianą otoczenia zwierzaczek właśnie poznawał nowe terytorium, gdy raptem wdarł się do środka podpity przyjaciel pana domu i, wystraszywszy wrzaskiem węża, zemdlał. Łapiduch obejrzał – na wszelki wypadek z daleka – sprawcę omdlenia, którego właśnie koleżanka Heleny, uprzednio wywabiwszy zza kanapy, umieszczała w terrarium, i pojechali.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

@@ -1,0 +1,16 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Wojciech Mann - dziennikarz, współwłaściciel agencji MM Communications i 4WD; ur. 25 stycznia 1948, Świdnica; studia: 1965 - 69 SGPiS, Wydział Handlu Zagranicznego, 1970 - 1975 Wydział Filologii Angielskiej Uniwersytetu Warszawskiego.</p>
+        <p xml:id="p-2">Współpracownik Rozgłośni Harcerskiej, Warszawa 1965-67; PR, Warszawa:</p>
+        <p xml:id="p-3">Autor audycji muz. I rozrywkowych 1967-, komentator Programu III 1987-; TVP, Warszawa : kier. Red. Rozrywki w Studiu 2 1977- 82, obecnie stała współpraca.</p>
+        <p xml:id="p-4">Nagroda Przew. Kom. Ds. RiTV I st, nagroda telewidzów dla najpopularniejszej postaci tv "Wiktor" 1988 (wręczenie za rok 1987) , 1995, 1996 ( wręczenie za rok 1994 i 1995).</p>
+        <p xml:id="p-5">Twórczość Ø : cykliczne audycje radiowe : Magazyn 4/4, Mój magnetofon, Studio Stereo, Poranek z radiem, Muzyczna poczta UKF, Baw się razem z nami, Sami tego chcieliście, Zapraszamy do trójki, Bielszy odcień bluesa, Dyskoteka pod gruszą, Słuchaj razem z nami, W tonacji trójki, Między snem a dniem, Radio Mann, Manniak Niedzielny , szereg audycji w przez siebie założonym w 1992 roku Radiu Kolor, programy tv, m.in. współpraca przy red. Bloków Studia - 2: Wifon przedstawia, Magazyn pana Manna, 5-10-15 (program dla dzieci i młodzieży ), Non stop kolor , Za chwilę dalszy ciąg programu, MdM , MdM po godzinach , Szansa na sukces.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

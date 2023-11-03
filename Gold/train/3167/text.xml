@@ -1,0 +1,31 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">sp1: a to tam jest filia też tej wyższej szkoły.</p>
+        <p xml:id="p-2">sp0: hm hm..</p>
+        <p xml:id="p-3">sp1: gościu przyszedł z reklamówką .</p>
+        <p xml:id="p-4">sp2: no nie.</p>
+        <p xml:id="p-5">sp0: pani magister chciałbym podziękować.</p>
+        <p xml:id="p-6">sp1: nie to przerąbane jak tak trzy niedziele w miesiącu.</p>
+        <p xml:id="p-7">sp0: no no i jeszcze wiesz co. miała na początku tak plan ułożony bo ona jest jakimś tam kierownikiem przedmiotu. no i w związku z tym ma tam więcej zajęć. i na początku tak było że że miała poniedziałek wtorek środa a czwartek piątek miała wolne. coś się pozmieniało że nie mogli pogodzić ktoś tam odszedł na macierzyński. i ma teraz tak że poniedziałek wtorek wolny środa zajęcia czwartek wolny piątek zajęcia sobota niedziela. tak że na takie dwa dni to się nie odpocznie.</p>
+        <p xml:id="p-8">sp1: bez sensu. to i tak myśli o kolejnym dniu.</p>
+        <p xml:id="p-9">sp0: no.</p>
+        <p xml:id="p-10">sp1: ale to dużo godzin w sumie.</p>
+        <p xml:id="p-11">sp0: hm.</p>
+        <p xml:id="p-12">sp1: wiesz co głupia sprawa.</p>
+        <p xml:id="p-13">sp0: bo oni każdą godzinę mają etat. dodatkowo jeszcze są godziny. ponad ten etat jakieś tam pensum czy tam coś takiego.</p>
+        <p xml:id="p-14">sp1: no pensum no.</p>
+        <p xml:id="p-15">sp0: to mają inaczej płatne.</p>
+        <p xml:id="p-16">sp2: no tak to nadgodziny zawsze są inaczej.</p>
+        <p xml:id="p-17">sp0: tak że wiesz. każdy chce jak najwięcej no.</p>
+        <p xml:id="p-18">sp2: ale to różnica bo w szkole to tak bardzo różnicy nie ma znowu znaczy to znaczy no jest na pewno jest no ale.</p>
+        <p xml:id="p-19">sp1: no ja mam szesnaście złotych nadgodzinę.</p>
+        <p xml:id="p-20">sp2: ja nie wiem ile czekaj jak ja na przykład teraz miałam. pensji dostaję tam teraz siedemset. to powiedzmy osiemdziesiąt bez tego mojego całego remontu. a dostałam nadgodziny w tym miesiącu czterysta.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

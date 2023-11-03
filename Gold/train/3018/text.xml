@@ -1,0 +1,53 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Dobrze się bawiliście?</p>
+        <p xml:id="p-2">Mirek obserwuje Jolkę.</p>
+        <p xml:id="p-3">MIREK</p>
+        <p xml:id="p-4">Mieliśmy parę spraw do wyjaśnienia...</p>
+        <p xml:id="p-5">PAUZA</p>
+        <p xml:id="p-6">I... wyjaśniliśmy. Mam nadzieję raz na zawsze.</p>
+        <p xml:id="p-7">JOLKA</p>
+        <p xml:id="p-8">MOCNO</p>
+        <p xml:id="p-9">Doprawdy?</p>
+        <p xml:id="p-10">Mirek spogląda na Jolkę nieco zaskoczony jej tonem.</p>
+        <p xml:id="p-11">MIREK</p>
+        <p xml:id="p-12">Jesteś zazdrosna, Jolu?</p>
+        <p xml:id="p-13">JOLKA</p>
+        <p xml:id="p-14">Z PRZEKĄSEM</p>
+        <p xml:id="p-15">Co to za pytanie? Skąd ci to przyszło do głowy...</p>
+        <p xml:id="p-16">MIREK</p>
+        <p xml:id="p-17">Tak jakoś...</p>
+        <p xml:id="p-18">Po chwili, nieśmiało</p>
+        <p xml:id="p-19">Bo ja chyba bym chciał...</p>
+        <p xml:id="p-20">JOLKA</p>
+        <p xml:id="p-21">Żebym była zazdrosna? Dlaczego?</p>
+        <p xml:id="p-22">MIREK</p>
+        <p xml:id="p-23">Jak ktoś jest zazdrosny... znaczy, że naprawdę kocha...</p>
+        <p xml:id="p-24">Po chwili</p>
+        <p xml:id="p-25">Ja jestem o ciebie zazdrosny jak jasna cholera... Nie wyobrażam sobie, żebyś się umówiła z jakimś innym facetem.</p>
+        <p xml:id="p-26">Dlatego tak się tłumaczę...</p>
+        <p xml:id="p-27">Zbliżenie Jolki.</p>
+        <p xml:id="p-28">Scena</p>
+        <p xml:id="p-29">WNĘTRZE. NOC. MIESZKANIE KUBIAKÓW. PRZEDPOKÓJ. JAREK, GRZESIEK.</p>
+        <p xml:id="p-30">Grzesiek i Jarek wchodzą do mieszkania.</p>
+        <p xml:id="p-31">GRZESIEK</p>
+        <p xml:id="p-32">Głupi jesteś, czarna wyraźnie na ciebie leciała.</p>
+        <p xml:id="p-33">JAREK</p>
+        <p xml:id="p-34">Nie lubię tak... Nie znam jej...</p>
+        <p xml:id="p-35">GRZESIEK</p>
+        <p xml:id="p-36">Jak to nie znasz? Zatańczyłeś z nią co najmniej dwa razy...</p>
+        <p xml:id="p-37">JAREK</p>
+        <p xml:id="p-38">Tak, ale...</p>
+        <p xml:id="p-39">GRZESIEK</p>
+        <p xml:id="p-40">Jaruś, ja ci nie mówię, żebyś się z nią ożenił i miał trójkę pięknych dzieci: dwóch chłopców i dziewczynkę, tylko żebyś się dobrze zabawił.</p>
+        <p xml:id="p-41">JAREK</p>
+        <p xml:id="p-42">Daj spokój...</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

@@ -1,0 +1,16 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">- Głupstwo, niech się pan tym nie przejmuje, kochany dyrektorze. Od dwudziestu lat tak się kłócą, znane historie. Lepiej potem tańczą. Ona pohisteryzuje, on ją tego... i w porządku. Odmładzają się w ten sposób. Aha, nie widział pan gdzie przypadkiem mego syna?</p>
+        <p xml:id="p-2">W ostatnich latach Janusz Kotowicz bywał częstym gościem "Monopolu", lecz dzisiejszego wieczoru nigdzie go do tej pory Słomka nie zauważył.</p>
+        <p xml:id="p-3">- Szelma chłopak! Pieniądze miał mi przynieść. Obracamy, wie pan, jak się da gotówką. Trzeba z czegoś żyć. Z samej sztuki człowiek się nie utrzyma. Gdyby miał pan kiedyś w tej dziedzinie jakieś, że tak powiem, dezyderaty, polecam się zawsze. Z pierwszej ręki. Pojęcia pan nie ma, jaki łeb do interesów ma ten chłopak. Trzeba zajrzeć do naszych artystów.</p>
+        <p xml:id="p-4">Gdy poniósł w głąb korytarza swoją wspaniałą głowę, Słomka spojrzał na zegarek. Okazało się, że do przyjścia zamówionej Stefki miał nie więcej niż pięć minut czasu. Zajrzał jednak do baru.</p>
+        <p xml:id="p-5">Mała salka, pusta prawie przed kwadransem, zapełniła się teraz ludźmi. Przy bufecie, popychając się nawzajem i hałasując, tłoczyli się goście z dużej sali, młodzi przeważnie chłopcy i dziewczęta, którzy w przerwie pomiędzy tańcami przyszli tu napić się wódki. Większość z nich już się dobrze znała, ci zaś, którzy się jeszcze nie zbliżyli, szybko się przy krążących kieliszkach zaznajamiali, tworząc jedną przyjacielską kompanię, podnieconą i rozgorączkowaną. Dziewczęta brzydkie były i niezgrabne, źle ubrane, uczesane jednakowo, z lokami i czubami wysoko spiętrzonymi nad czołem. Zdrowi i rośli, o przedwcześnie dojrzałych, zblazowanych twarzach chłopcy, poubierani w dziwaczną mieszaninę cywilnych części garderoby z innymi, wojskowymi pochodzenia niemieckiego jeszcze albo rosyjskiego czy amerykańskiego, dowalali się do dziewcząt na całego. Niektórzy nieźle już mieli w głowach.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

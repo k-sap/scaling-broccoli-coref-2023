@@ -1,0 +1,16 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Kneź ze złości ze tę nowinę niedobrą na posła się z całych sił zamachnął i byłby mu głowę rozbił pięścią - jak to się niejeden raz zdarzało - gdyby na ziemię nie padł ze strachu. Kląć tedy począł piorunami i czarnymi duchy. Przypadła Brunhilda z rękami załamanymi za swym pacholęciem - krzyk stał się wielki i narzekanie.</p>
+        <p xml:id="p-2">Chciał Chwost zaraz słać ludzi, aby go odbić, ale czyja była czeladź i gdzie zabranego poprowadziła, Lisun powiedzieć nie umiał. Z grodu też ludzi teraz wysyłać nie było bezpiecznie. Pochwycenie Hadona znaczyło, iż rozumiano, po co był wysłany, a chwycić sługę kneziowskiego ten tylko mógł mieć odwagę, kto z nim myślał wojować. Popłoch się tedy zrobił na grodzie tym większy i smerdowie na konie posiadawszy gnali natychmiast po osadach dokoła i chałupach, by więcej ludzi spędzić na zamek.</p>
+        <p xml:id="p-3">Do pół dnia cicho było na grodzisku, ze stołba też nic nie widać - kneź trochę z gniewu ochłonął, a pani z żalu.</p>
+        <p xml:id="p-4">Czekała na powrót ludzi, co Leszkowi towarzyszyli, i na Muchę, który dwóch stryjów, Mściwoja i Zaboja, miał na gród zaprosić, ale tego dnia do nocy wyglądano ich na próżno.</p>
+        <p xml:id="p-5">Ślepy Leszek jechał do ojca tak milczący w drodze, jak był na zamku; obawiał się, mimo zaręczeń stryjenki, aby go dodani mu ludzie w lesie gdzie nie zamordowali. Tak dojechali aż na ojcowski gród stary i ocknął się dopiero, gdy róg usłyszał u wrót i dobrze znany głos starego strażnika. Na widok biednego ślepca wracającego tu krzyknęli ludzie, otwarto wrota, zbiegli się domownicy, na ręce porwano Leszka z konia i na rękach poniesiono go, płacząc razem i radując się, do ojca.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

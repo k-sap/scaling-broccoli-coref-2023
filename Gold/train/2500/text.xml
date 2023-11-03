@@ -1,0 +1,19 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Rząd chciał, by przyznanie dodatku zależało od liczby posiadanych dzieci, a nie od dochodu rodziny. Tymczasem Sejm zdecydował wczoraj, że pieniądze otrzymają tylko ci, którzy dostają zasiłek rodzinny. Poprawkę do ustawy wniósł poseł SLD. - Chcieliśmy wyeliminować sytuację, w której pieniądze dostają rodziny, których sytuacja finansowa jest bardzo dobra - powiedziała nam poseł Aleksandra Jakubowska z SLD. - Pomoc państwa ma być skierowana do najbardziej potrzebujących, a nie do tych którym żyje się dobrze.</p>
+        <p xml:id="p-2">Antoni Szymański z AWS twierdzi, że rząd wcale nie chciał wspomagać rodzin zamożnych, gdyż „95 proc. rodzin wielodzietnych żyje poniżej progu dochodowego uprawniającego do zasiłku”. - Sprzeciwiliśmy tej poprawce, ponieważ część rodzin wiejskich pozbawiona jest owego zasiłku, a więc w myśl tej ustawy nie otrzymają nic - powiedział nam poseł Szymański. - Cieszymy się jednak, że ustawa przeszła i przed rokiem szkolnym zostaną zasilone budżety rodzinne.</p>
+        <p xml:id="p-3">Dodatek ma obejmować wszystkie te rodziny, którym z racji niskich dochodów będą we wrześniu tego roku przysługiwać zasiłki rodzinne.</p>
+        <p xml:id="p-4">Pieniądze mają być wypłacone razem z wrześniowymi zasiłkami. Na ich wypłatę rząd przeznaczył 200 mln zł.</p>
+        <p xml:id="p-5">Rodziny wielodzietne stanowią ok. 20 proc. wszystkich rodzin w Polsce, a wychowuje się w nich prawie 40 proc. dzieci. Około 96-97 proc. tych rodzin jest w trudnej sytuacji materialnej.</p>
+        <p xml:id="p-6">ZA</p>
+        <p xml:id="p-7">To im się chwali!</p>
+        <p xml:id="p-8">Można wybrzydzać, że 160 zł to mało. Ale prawda jest taka, że dla jednych to tyle co nic, a dla innych to poważny zastrzyk finansowy. To pieniądze, które można przeznaczyć na książki i zeszyty dla dzieci. I dlatego dobrze, że Sejm przyznał niezamożnym rodzinom ten dodatek.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

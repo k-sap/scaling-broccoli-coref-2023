@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Ponadto komunizm światowy nie może już wskazać żadnego modelu społecznego, który posłużyłby jako drogowskaz na przyszłość. Klasyczna marksistowsko-leninowska definicja "powszechnego kryzysu kapitalizmu" - który, jak proklamował Kreml w 1961 roku, już się rozpoczął - doskonale pasuje do obecnej sytuacji komunizmu. Jeśli w tej proklamacji wstawić słowo "komunizm" lub jakąś wzmiankę o Związku Sowieckim w miejsce "imperializmu" czy "kapitalizmu", a termin "demokracja wolnorynkowa" zamiast "socjalizmu", wyłoni się miażdżąco wierny obraz współczesnego komunizmu: Komunizm w obecnym stadium rozwoju jest imperializmem sowieckim w okresie jego upadku i bankructwa. Nieunikniony proces rozkładu ogarnął komunizm od góry do dołu, wraz z jego ekonomiczną i państwową strukturą oraz jego polityką i ideologią...</p>
+        <p xml:id="p-2">Powszechny kryzys komunizmu znajduje wyraz w następujących faktach: ciągłe odstępstwa nowych krajów od modelu sowieckiego; osłabienie pozycji krajów komunistycznych we współzawodnictwie gospodarczym z rozwiniętymi krajami demokracji wolnorynkowej; rozpad bloku sowieckiego; pogłębienie się sprzeczności między komunizmem a rozwojem socjalizmu państwowo-monopolistycznego i wzrostem militaryzmu; rosnąca destabilizacja wewnętrzna i rozkład komunistycznej gospodarki, widoczny w coraz większej niezdolności komunizmu do pełnego wykorzystania sił wytwórczych - niskie tempo wzrostu produkcji, cykliczne kryzysy, stała nieumiejętność pełnego wykorzystania mocy produkcyjnych, chronicznie niepełne zatrudnienie; bezprecedensowy wzrost reakcji politycznej na wszystkich frontach; ustanowienie w pewnych krajach komunistycznych tyranii jednostek i głęboki kryzys komunistycznej polityki i ideologii.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Wiele z ornitochorycznych krzewów ma czerwone owoce, na przykład głóg, róża, kalina, bez koralowy, porzeczka czerwona, dereń jadalny, wawrzynek wilczełyko, wiśnia, berberys. Eksperymenty dowiodły, że ptaki, będące wszak wzrokowcami, preferują czerwień. Rzadsze są owoce czarne (bez czarny, ligustr, dereń świdwa), białe (śnieguliczka, dereń biały), pomarańczowe (trzmielina) i niebieskie (tarnina).</p>
+        <p xml:id="p-2">Także ssaki - gryzonie, lisy, niedźwiedzie - jedzą owoce krzewów. Te jednak, najczęściej pozbawione atrakcyjnej barwy, mają silny zapach, łatwo wyczuwalny dla ssaków, na przykład dzikie jabłka lub gruszki.</p>
+        <p xml:id="p-3">Najsmaczniejsze owoce - zawierające dużo cukrów - dojrzewają zwykle wcześnie i prawie natychmiast są zjadane (maliny, porzeczki, czereśnie). Później przychodzi pora na mniej smaczne, ale także bardzo pożywne owoce bogate w tłuszcze (głóg). Mogą one przez kilka miesięcy wisieć na gałęziach, nie psując się, w przeciwieństwie do krótkotrwałych owoców słodkich. Ich obroną przed zepsuciem są także gorzkie i cierpkie substancje (występujące w jarzębinie, tarninie, dzikich jabłkach).</p>
+        <p xml:id="p-4">Gdy zima jest lekka, a owoców nadmiar, wiele z nich pozostaje na krzewach do następnego roku. Dotyczy to szczególnie najmniej cenionych przez ptaki kaliny i ligustru. Ale bywa i tak, że zostają one zupełnie oczyszczone z owoców przed nastaniem zimy.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

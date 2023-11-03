@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">W Klubie Festiwalowym: KROKE (niepowtarzalna okazja zobaczenia zespołu koncertującego głównie na zachodzie Europy), etno-jazzowy projekt JORGOSA SKOLIASA i BRONKA DUŻEGO (odkrywczy, świeży projekt świadczący o wielkiej kulturze muzycznej znanych jazzmanów) oraz THE CRACOW KLEZMER BAND - laureat Grand Prix Konkursu Polskiego Radia "Nowa Tradycja '2000" Koncert finałowy Festiwalu (duża scena) zostanie jak myślę na długo w pamięci Fiestowiczów. Gwarantuje to przedni skład wykonawców, takiego zestawu nie powstydziłby się bowiem żaden europejski festiwal . Ukażą się na scenie: polscy MUZYKANCI w specjalnym premierowym projekcie z udziałem tancerzy i pieśniarek cygańskich , żydowskich i łemkowskich, genialny (z całą świadomością tego słowa) zespół YAT-KHA z Republiki Tuva (łączący bezprecedensowy, gardłowy śpiew z gitarowymi , rockowymi riffami w klimacie post-punkowym), TARAF DE HAIDOUKS - kwintesencja rumuńskiego, żywego, autentycznego muzykowania, pełna niebanalnej, niewyuczonej szkolnie wirtuozerii. Uznawani są za najlepszy zespół na świecie w swoim gatunku. Koncert zakończy wielokulturowy program (Mali, Ghana, USA, Niemcy, Nw. Gwinea) zespołu ARGILE.</p>
+        <p xml:id="p-2">Na Fieście także: wystawa sprzętu firmy YAMAHA, akcje plastyczne, bazar artystyczny, wystawy fotograficzne i pole namiotowe.</p>
+        <p xml:id="p-3">NIE STÓJ - FIESTUJ!</p>
+        <p xml:id="p-4">Koncert specjalny - 7 lipca, Wrocław, Rynek godz. 19.00, wystąpią: GERALDINE MAC GOWAN, AMALA, ORKIESTRA P/W ŚW. MIKOŁAJA Biuro Festiwalu: FOLK FIESTA Era GSM, Rynek 24, 57-200 Ząbkowice Śląskie.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

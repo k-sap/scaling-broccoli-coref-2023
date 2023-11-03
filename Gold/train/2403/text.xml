@@ -1,0 +1,21 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">– Próbowano nas nakłonić do podpisania porozumienia. Na jego mocy odzyskalibyśmy zaledwie pół miliona złotych. W zamian chciano nas zobowiązać do milczenia. Gdybyśmy podpisali, każda próba nagłośnienia konfliktu miała nas kosztować pół miliona – mówi Robert Kuszka z Elektronu.</p>
+        <p xml:id="p-2">Robert Bachłaj, project manager spółki Poznań Żonkil, który jest odpowiedzialny za rozliczenia finansowe budowy poznańskiego King Cross, przyznaje, że jeszcze przed zakończeniem budowy jego firma dowiedziała się o kłopotach finansowych francuskiego wykonawcy.</p>
+        <p xml:id="p-3">- Staraliśmy się monitorować przepływ pieniędzy między wykonawcą a firmami podwykonawczymi – zapewnia. – Później, kiedy okazało się, że S.E.I.C.C.F. nie jest w stanie uregulować swoich zobowiązań, bezpośrednio rozliczaliśmy się z tymi przedsiębiorstwami. Było to dziewięć spółek, sześć z Wielkopolski i trzy spoza regionu.</p>
+        <p xml:id="p-4">Twierdzi, że na liście nie było Elektronu.</p>
+        <p xml:id="p-5">Odbiór na papierze</p>
+        <p xml:id="p-6">Zapewnia też, iż dokonano wszystkich odbiorów technicznych: – Bez nich przecież nie otrzymalibyśmy pozwolenia na użytkowanie.</p>
+        <p xml:id="p-7">Ryszard Stabiszewski mówi natomiast, że wykonanych prac faktycznie nie odebrano.</p>
+        <p xml:id="p-8">- Kiedy wchodzili inspektorzy, kazano naszym pracownikom schodzić z drabiny, że niby prace zostały zakończone – dodaje.</p>
+        <p xml:id="p-9">W S.E.I.C.C.F. nikt nie chciał z nami rozmawiać na temat poznańskiej inwestycji.</p>
+        <p xml:id="p-10">- Tą sprawą nie powinny się interesować osoby trzecie, czyli media – usłyszeliśmy po drugiej stronie słuchawki. Pracownica spółki, która odebrała telefon nie chciała połączyć nas z prezesem Ø. Nie potwierdziła też informacji dotyczącej upadłości firmy.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

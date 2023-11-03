@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">– Gdybym nie potrzebowała kawy, tobym jej nie brała z półki – odparła Agnieszka, słysząc już pomruki w dalszej części kolejki. – Dobrze, niech pani odliczy – zrezygnowała. Nienawidziła osiedlowych sklepów. Pomyśleć, że cała ta hołota śmie mieć pretensje, że supermarkety zabierają im pracę. Jakaś państwowa komisja powinna się przelecieć po tych sklepach i karnie wysłać na bezrobocie co najmniej połowę tych strasznych babsztyli. Wstyd, że ta potwora tu się rządzi, kiedy porządni ludzie nie mogą znaleźć pracy.</p>
+        <p xml:id="p-2">– A kawę niech pani łaskawie odstawi na półkę. To jest kasa, a nie magazyn – rzuciła baba, zbierając tłustymi palcami drobne.</p>
+        <p xml:id="p-3">– Pocałuj mnie w dupę, babo głupia – warknęła Agnieszka i wyszła w lepki październikowy wieczór. Chciała odetchnąć głęboko, ale powietrze było jak zawiesina, jakby leżące na ziemi błoto uniosło się samoistnie i stworzyło brudną, szarą mgłę, przez którą słabo się widzi i którą z trudem się oddycha. Szła powoli w stronę ich klatki. Pociągnęła kilka razy nosem. Katar nie przechodził od dwóch tygodni, odkąd się tutaj sprowadzili. Musiała się przeziębić tamtej, jak to mówił Robert, “nocy pełnej niespodzianek”, i do tej pory nie mogła się wykurować.</p>
+        <p xml:id="p-4">Może to przez pracę? Dzisiaj mało się nie rozpłakała, wstukując po raz drugi notatki ze spotkania zarządu. Przepisywała je już wczoraj, z trudem odcyfrowując poprawki naniesione przez szefa, ale chyba zapomniała zachować zmiany przed wyłączeniem komputera i dziś musiała zrobić wszystko od początku, przy wtórze połajanek, z obolałą głową i cieknącym nosem, pracując bez chwili przerwy od ósmej do szóstej wieczorem. Nie tak wyobrażała sobie dorosłe życie. Czasami chciałaby znaleźć się z powrotem w Olecku, powiedzieć mamie, że dziś nie idzie do szkoły, i zagrzebać się w pościeli z książką, czekając na rosół i herbatę z cytryną.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

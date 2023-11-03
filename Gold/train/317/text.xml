@@ -1,0 +1,16 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Arystokracja z kolei organizowała duże i prestiżowe bale, na które zaproszenie stanowiło ogromny zaszczyt. Właśnie na balach niezwykle istotne stały się stroje, zwłaszcza pań – świadczyły one o statusie społecznym, kulturze i obyciu z modą.</p>
+        <p xml:id="p-2">Nieco inny charakter miały bale maskowe – choć też organizowane przez władców i arystokratów nie były tak oficjalne, pod maską mogły być bowiem „przemycone” różne osoby. Zasłonięta twarz sprzyjała swobodniejszym wyznaniom, wypowiedziom.</p>
+        <p xml:id="p-3">Karnawałowy bal był wyczekiwany przez dorastające panny i ich rodziców. Na balu młode dziewczyny były „wprowadzane w świat”. Często ten pierwszy bal decydował o tym jak na „rynku żon” będzie postrzegana debiutująca dziewczyna. „Wprowadzanie w świat” młodych panien przetrwało do dzisiaj. Bale debiutantek odbywają się w różnych krajach świata, a zapraszane są na nie dorastające dziewczęta ze znanych rodzin.</p>
+        <p xml:id="p-4">Ale, ale! Aby zadebiutować na balu nie trzeba starać się o zaproszenie do Paryża czy Wiednia. Wystarczy być w klasie maturalnej. Karnawał jest bowiem czasem studniówek. A studniówkowy bal to dla większości z maturzystów pierwsza poważna impreza. Oczywiście, mają już za sobą liczne dyskoteki, imprezy taneczne, udział w weselach. Ale studniówka różni się od wszystkich dotychczasowych doświadczeń – przede wszystkim dlatego, że zdarza się raz w życiu. Bal studniówkowy to czas zabawy przed czekającym „postem” – okresem przygotowań do matury.</p>
+        <p xml:id="p-5">175 uczniów Ekonomika studniówkę ma już za sobą. Odbyła się 30 stycznia br. w sali Orchidea i trwała do białego rana. Teraz warto pamiętać o pewnych przesądach - bieliznę noszoną na studniówce należy założyć na maturę, mężczyzna na maturze powinien być w studniówkowym garniturze i krawacie, po studniówce nie wolno obcinać włosów – grozi to „ścięciem” na egzaminie. Co wytrwalsi mogli jeszcze bezpośrednio po balu okrążać, skacząc na jednej nodze, fontannę przy ratuszu z Jackiem. Takie okrążenia gwarantują ponoć sukces na maturze:)</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

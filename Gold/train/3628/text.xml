@@ -1,0 +1,14 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Obecność jadu w jajkach żmij została niedawno wykazana przez p. C. Phisalixa. W każdym z jajników żmii (Vipera aspis) w końcu kwietnia znajduje się po 5-10 zarodków różnej wielkości. Jeżeli przetniemy powłokę jaja i wyciśniemy jego zawartość, otrzymamy gęstą żółtą masę o odczynie słabo kwaśnym, składającą się głównie z żółtka odżywczego. Masa, rozpuszczona w wodzie, wywołuje u świnki morskiej po zastrzyknięciu wszelkie oznaki zatrucia jadem żmii. U zwierzęcia występuje charakterystyczne opuchnięcie ciała w miejscu zastrzyknięcia, stopniowe obniżenie temperatury, trudność oddychania i poruszania się, wreszcie śmierć.</p>
+        <p xml:id="p-2">Substancya, powodująca te symptomy zatrucia, posiada własności fizyczne jadu.</p>
+        <p xml:id="p-3">Krew żmii, zastrzyknięta zdrowym zwierzętom, wywołuje również objawy zatrucia jadem, lecz dawka musi być 2 razy większa, niż zawartość jaja. Żaden organ ciała żmii, nie mówiąc naturalnie o gruczołach jadowych, nie zawiera tyle trujących pierwiastków, co zarodek. Wnosimy z tąd, że w chwili rozpoczęcia się u żmii oogenezy pierwiastki czynne jadu zbierają się w jaju. Jest rzeczą zupełnie możebną, że i inne specyficzne substancye przechodzą z krwi do jaj, wywierając pewien wpływ na ich rozwój. Jeśli tak, to zjawiskom mechanicznym ontogenezy towarzyszą zjawiska chemiczne i odgrywają zapewne znaczną rolę w kształtowaniu się organów i w mechanizmie dziedziczności. F. R. (Rutkowski) Obecność jadu w jajkach żmij, Wszechświat 1905, 24, 462 (23 VII)</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

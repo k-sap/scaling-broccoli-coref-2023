@@ -1,0 +1,17 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Ratownicy drużyn z 15 śląskich oddziałów WOPR rywalizowali w pięciu konkurencjach indywidualnych, a także Ø w sztafetach ratowniczych. Suma punktów zdobytych przez zawodnika w poszczególnych konkurencjach dawała wynik w wieloboju ratowniczym. Zawodnicy triumfowali w klasyfikacji drużynowej mężczyzn , pokonując m.in.Knurów (drugie miejsce) oraz Tychy (trzecie miejsce), natomiast ratowniczki uplasowały się na drugim miejscu, ulegając jedynie ekipie z Katowic. Trzecie miejsce zajęły Tychy. W klasyfikacji łącznej mężczyzn i kobiet, byliśmy już najlepsi.</p>
+        <p xml:id="p-2">Indywidualne sukcesy odnieśli: Robert Androsz – Indywidualny Mistrz Śląska w Ratownictwie Wodnym, który oprócz pierwszego miejsca w wieloboju, wygrał również konkurencje: 50m z holowaniem manekina, 100 m sztafetę kombinowaną, Ø był drugi na 100 m z holowaniem w płetwach i Ø trzeci na 100 m z pasem ratowniczym. Wioleta Cygan – która zdobywała trzecie miejsca w wieloboju kobiet, 200m z przeszkodami, w 100m sztafecie kombinowanej oraz 100m z pasem ratowniczym Tomasz Wiencek – zwycięzca konkurencji: 100 m z pasem ratowniczym Karol Korduła – trzeci w 100m sztafecie kombinowanej Agnieszka Bieniak – trzecia na 50 m z holowaniem manekina</p>
+        <p xml:id="p-3">Wspaniały sukces indywidualny odniosła juniorka Monika Nowak, która zwyciężając w konkurencji 100 m z pasem ratowniczym ustanowiła Rekord Polski Juniorów! Monika była również najszybsza na 100m z holowaniem manekina w płetwach.</p>
+        <p xml:id="p-4">Rybniczanie wygrali również sztafety ratownicze kobiet i mężczyzn.</p>
+        <p xml:id="p-5">Trenerem kadry ratowniczej jest Sławomir Walento.</p>
+        <p xml:id="p-6">Rybnik będzie gospodarzem Letnich Mistrzostw Śląska w Ratownictwie Wodnym, które odbędą się w czerwcu. Konkurencje będą rozgrywane na Pływalni Krytej MOSiR oraz na Kąpielisku „Ruda”. Do tych zawodów rybnicka drużyna będzie przystępowała w roli obrońcy tytułu mistrzowskiego oraz faworyta.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

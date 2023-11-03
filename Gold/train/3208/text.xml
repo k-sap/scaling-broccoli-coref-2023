@@ -1,0 +1,21 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">sp1: zawsze trzeba partnerom dawać wybór. drogi. układania sobie stosunków która będzie bardzo często zależała od wewnętrznego ustroju danego kraju i drogi tej mniej korzystnej jak Kuba Bogu tak Bóg Kubie. my. życzylibyśmy sobie aby Rosja poszła drogą demokracji. chyba się chyba chyba co do tego się zgodzimy</p>
+        <p xml:id="p-2">sp0: no. no ale no tak tylko że no właśnie czyli. co do tego się zgadzamy</p>
+        <p xml:id="p-3">sp1: i trzeba ją. i trzeba ja do tego zachęcać</p>
+        <p xml:id="p-4">sp0: no dobrze tylko że może należało zachęcać w inny sposób nie poprzez stwierdzanie że ona już tam doszła tylko przez pokazanie</p>
+        <p xml:id="p-5">sp1: że próbuje. ja tego nie powiedziałem</p>
+        <p xml:id="p-6">sp0: no tylko że ona nie próbuje. Putin nie próbuje. do demokracji maszerować</p>
+        <p xml:id="p-7">sp1: to było to było spojrzenie w dłuższej perspektywie</p>
+        <p xml:id="p-8">sp0: Putin. Putin no właśnie w dłuższej perspektywie to może należało zaprosić. opozycję rosyjską również. albo</p>
+        <p xml:id="p-9">sp1: podczas wizyty w Moskwie zarówno pan premier jak i ja zawsze spotykamy się z opozycją</p>
+        <p xml:id="p-10">sp0: no tak tylko ja mówią przy tej okazji tak to przekaz poszedł w świat. sam pan mówił że. ja wracam do początku sam pan mówił o tym że. oczy świata były skierowane na Polskę. media relacjonowały. relacjonowały również pański tekst który co więcej ja przypomnę to nie jest moje zdanie. na przykład to jest zdanie publicystów Polityki. oni powiedzieli że należy czytać komplementarnie. cały czas cytuję. komplementarnie pana artykuł. i artykuł Putina. jak gdyby tutaj Polska w dużej mierze. akceptuje</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

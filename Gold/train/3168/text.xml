@@ -1,0 +1,30 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">sp1: no jak byśmy nie mieli wyjścia no to bierzesz kogo ten ale mówię Borczykowa dzieci małych nie ma Ø dzieci są duże i kobieta jest w tym handlu</p>
+        <p xml:id="p-2">sp0: wszystko zrobi dyspozycyjna no</p>
+        <p xml:id="p-3">sp1: no w handlu ale w handlu przyniosła taka jeszcze jedna sześćdziesiąty piąty rocznik rok młodsza ode mnie ale dziewczyny mówią że nie nie jakaś taka wiesz taka no</p>
+        <p xml:id="p-4">sp0: ale z Wieruszowa ?</p>
+        <p xml:id="p-5">sp1: nie gdzieś tutaj Kolonia Dąbrowiecka czy jakaś</p>
+        <p xml:id="p-6">sp0: no to nie znam</p>
+        <p xml:id="p-7">sp1: no miała swoją działalność pracuje na rolnictwie pracowała w rolnictwie no i coś tam ten</p>
+        <p xml:id="p-8">sp0: ma swoją działalność a przyszła tu do pracy ?</p>
+        <p xml:id="p-9">sp1: no ale w rolnictwie tam coś miała</p>
+        <p xml:id="p-10">sp0: aha</p>
+        <p xml:id="p-11">sp1: no i pracowała chyba w tęczy w Wieluniu ale to ale to wiesz ileś tam temu</p>
+        <p xml:id="p-12">sp0: no wiadomo no tęcza to teraz już nieczynna</p>
+        <p xml:id="p-13">sp1: no</p>
+        <p xml:id="p-14">sp0: nie istnieje nawet</p>
+        <p xml:id="p-15">sp1: no no i mówię co się tu zastanawiać i nie wiem kto tam na Borczykową głosował w każdym bądź razie to ja oficjalnie mówię że na Borczykową no. trzeba być też naprawdę żeby nie widzieć że no że że nam jest taka osoba potrzebna</p>
+        <p xml:id="p-16">sp0: no</p>
+        <p xml:id="p-17">sp1: no manka ci nie narobi bo ona kasuje to każdy artykuł to patrzy w komputerze czy wybiło wszystko sprawdza bo wiem jak uczyła mnie w sedalu to wiem w Bolesławcu pracowała w handlu w Wieruszowie pracowała w handlu no i teraz szukaj takiej co sprzedawała spodnie i bluzki</p>
+        <p xml:id="p-18">sp0: no właśnie</p>
+        <p xml:id="p-19">sp1: no to później my dostajemy po dupie no bo musisz ileś czasu się wdrażać i ten no ja mówię jak z tym jak jestem z Ireną na zmianie czy z Andrzejem to nie mam jak iść do ubikacji Irena skasuje to tamto i tak dalej wszystko skasuje ale jak przyjdzie telefon nabić nie nabije kartą</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

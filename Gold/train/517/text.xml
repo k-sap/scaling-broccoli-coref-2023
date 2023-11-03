@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Jeśli reprezentanci wszystkich liczących się sił mają po domniemanej (i szybkiej?) klęsce Saddama Husajna zasiąść do obrad w wyzwolonej stolicy, to bagdadzcy stolarze będą musieli skonstruować mebel o powierzchni kilkuset metrów kwadratowych. Wokół stołu-olbrzyma zasiądzie co najmniej dwadzieścia ugrupowań politycznych, nie licząc tych, które niewątpliwie powstaną po likwidacji wszechmogącego aparatu bezpieczeństwa Saddama Husajna i jego dwóch nie mniej okrutnych synalków. Każde z tych ugrupowań zechce przeciągnąć linę na swoją stronę. Dodatkowym elementem, groźnym i nieobliczalnym, będą szajki mafijne powstałe po rozgromieniu tajnych służb policyjnych. Eksperci opierają się na przykładzie Rosji, gdzie po upadku komunizmu byli czołowi funkcjonariusze tych służb, korzystając z chaosu, koneksji i brutalnej siły, sięgnęli po władzę w rozmaitych rejonach kraju i opanowali część gospodarki narodowej, walnie przyczyniając się do destabilizacji centralnych władz państwowych. W irackich służbach specjalnych służy co najmniej ćwierć miliona ludzi, nie licząc wiernej dyktatorowi dwustutysięcznej dobrze uzbrojonej i świetnie zorganizowanej Gwardii Narodowej. Spuszczeni ze smyczy mogą być nieobliczalni.</p>
+        <p xml:id="p-2">Kurdowie, których zwykliśmy traktować jako jednolity, proamerykański naród, dzielą się na dwa zasadnicze, często wrogie sobie odłamy: jeden pod przywództwem Massuda Barzaniego, drugi idący w ogień za Dżalalem Talabanim, liderem Unii Patriotycznej. Obaj mają na pieńku z irackim dyktatorem, który traktował ich na przemian, zależnie od potrzeb, obietnicami autonomii lub gazem musztardowym. Nie znaczy to jednak, że wspólny wróg zlikwidował wewnętrzne spory; na ogół chodzi o pieniądze, a ściślej mówiąc o myto pobierane od przewoźników przemycających do Turcji iracką ropę naftową. Gra idzie o miliony.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

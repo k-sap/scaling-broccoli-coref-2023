@@ -1,0 +1,23 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">- Czyżby Wasza Dostojność miał na myśli Jastrzębia, kapitana wojsk Waszej Dostojności, który niczym Sot, Oblicze naszego Boga, wymierza sprawiedliwość na Rubieżach?</p>
+        <p xml:id="p-2">- Zabij go! - warknął Zebon, tracąc nagle spokój. - I rozpędź na cztery wiatry tę hołotę, która nazywa siebie wojskiem.</p>
+        <p xml:id="p-3">Mężczyzna spojrzał wprost w płonące chorobliwym blaskiem oczy Najwyższego Kapłana.</p>
+        <p xml:id="p-4">- Czy ja dobrze rozumiem? - Spytał zimno. - Życzeniem Waszej Dostojności jest, abym zamordował bohatera Rubieży, o którego męstwie bardowie po gospodach ballady śpiewają, słynnego Jastrzębia i jego dzielnych wojaków?</p>
+        <p xml:id="p-5">- Tak. - Czy Wasza Dostojność obmyślił dla niego jakiś specjalny rodzaj śmierci czy wystarczy ot tak? - Przejechał palcem po gardle.</p>
+        <p xml:id="p-6">- Otruj go, zastrzel z łuku, wyzwij na pojedynek, wszystko jedno. Ma umrzeć.</p>
+        <p xml:id="p-7">- A zapłata?</p>
+        <p xml:id="p-8">- Nie wykonałeś jeszcze poprzedniego zlecenia - przypomniał mu chłodno kapłan.</p>
+        <p xml:id="p-9">Bazyl skrzywił się.</p>
+        <p xml:id="p-10">- Ta kobieta dawno nie żyje - mruknął, po raz pierwszy tracąc pewność siebie. - To niepodobna, żeby ukryła się tak skutecznie. Włosy mogła ogolić albo ukryć pod chustą, ale kolor oczu?</p>
+        <p xml:id="p-11">- Jeśli nawet nie żyje, nie ty ją zabiłeś - przypomniał mu słodko Zebon. Widok krzywej miny mordercy wyraźnie poprawił mu nastrój. - Oto twoja zapłata za zabicie Jastrzębia.</p>
+        <p xml:id="p-12">Rzucił w jego kierunku mieszek. Bazyl złapał go zręcznie i zajrzał do środka.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

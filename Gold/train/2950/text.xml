@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Franz szedł z przodu, jego brat – z tyłu, a pomiędzy nimi zakrwawiona kobieta huśtała się jak w kołysce. Przez materiał ściekła druga – jak zauważył Eberhard – kropla krwi. Mocno zaciśnięty nad nadgarstkiem kobiety jedwabny krawat od Amelunga, który miał zapobiec wykrwawieniu, nie spełniał, jak widać, swojego zadania. Kiedy znaleźli się na schodach do piwnicy, Eberhard położył ciało pod drzwiami i ciężko, z lekkim sykiem wciągał powietrze do swych płuc perforowanych przez tytoń od prawie pięćdziesięciu lat. Nie przestając świstać i dyszeć, ruszył do góry i nie reagował na nerwowe szepty brata, który nie rozumiał, po co Eberhard wraca. Kiedy był na poziomie parteru kamienicy, lekko pchnął oszklone wahadłowe drzwi, prowadzące do wejścia głównego. Rozkołysały się oba skrzydła. Przez szparę, która pojawiała się w coraz krótszych interwałach, dostrzegał jedynie bramę otwartą na ulicę i kunsztowną mozaikę, wzorem starorzymskich domów, przedstawiającą szarpiącego się na smyczy psa i napis Cave canem. Wszedł do przedsionka i zlustrował uważnie listę lokatorów. Przez chwilę powtarzał sobie cicho jedno z nazwisk.</p>
+        <p xml:id="p-2">Nagle usłyszał miękkie dźwięki rosyjskiej mowy i stukot butów na trotuarze. Rzucił się na zimne płytki podłogi dokładnie w tym momencie, kiedy w bramie pojawił się rosyjski patrol. Eberhard, modląc się o łaskę milczenia dla Franza, poczuł na swym policzku śliską maź. Zamknął oczy i usiłował spiąć każdy swój mięsień, by udawać rigor mortis. Rosyjscy żołnierze minęli bramę kamienicy i odstukali swój marsz w oddali. Eberhard podniósł się z kałuży oleju i ze zgrozą obserwował ciemne, tłuste plamy, które znaczyły marynarkę i prążkowaną popelinową koszulę.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

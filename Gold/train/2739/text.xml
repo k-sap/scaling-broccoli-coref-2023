@@ -1,0 +1,21 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">2. W samorządowych instytucjach kultury, których wykaz określi, w drodze rozporządzenia, minister właściwy do spraw kultury i ochrony dziedzictwa narodowego, biorąc pod uwagę ich znaczenie dla kultury narodowej, wyłonienie kandydata na stanowisko dyrektora następuje w drodze konkursu, z zastrzeżeniem ust. 3.</p>
+        <p xml:id="p-2">3. Minister właściwy do spraw kultury i ochrony dziedzictwa narodowego może wyrazić zgodę na powołanie na stanowisko dyrektora, bez przeprowadzenia konkursu, kandydata wskazanego przez organizatora.</p>
+        <p xml:id="p-3">4. W celu przeprowadzania konkursu, o którym mowa w ust. 2, organizator powołuje komisję konkursową w składzie:</p>
+        <p xml:id="p-4">1) trzech przedstawicieli organizatora,</p>
+        <p xml:id="p-5">2) dwóch przedstawicieli ministra właściwego do spraw kultury i ochrony dziedzictwa narodowego,</p>
+        <p xml:id="p-6">3) dwóch przedstawicieli zakładowych organizacji związkowych reprezentatywnych w rozumieniu art. 241^25a Kodeksu pracy, działających w tej instytucji kultury,</p>
+        <p xml:id="p-7">4) dwóch przedstawicieli stowarzyszeń zawodowych lub twórczych właściwych ze względu na zakres działania tej instytucji kultury.</p>
+        <p xml:id="p-8">5. Jeżeli w instytucji kultury nie działają zakładowe organizacje związkowe, w miejsce osób, o których mowa w ust. 4 pkt 3, organizator powołuje do komisji konkursowej dwóch przedstawicieli załogi tej instytucji.</p>
+        <p xml:id="p-9">6. Minister właściwy do spraw kultury i ochrony dziedzictwa narodowego określi, w drodze rozporządzenia, organizację i tryb przeprowadzania konkursu, sposób powoływania członków komisji konkursowej oraz zadania tej komisji, uwzględniając w szczególności procedury zapewniające ocenę kwalifikacji kandydatów.</p>
+        <p xml:id="p-10">Dyrektor instytucji kultury zarządza instytucją i reprezentuje ją na zewnątrz.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

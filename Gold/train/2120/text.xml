@@ -1,0 +1,19 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Wszystkie plemniki zachowują się jak istoty żywe to znaczy mają zdolność poruszania się, w związku z tym dzielą się również na:</p>
+        <p xml:id="p-2">a) W pełni wykształcone, dojrzałe i żywotne (silne i zdrowe).</p>
+        <p xml:id="p-3">b) Żywe, ale niedojrzałe, słabe o małej zdolności do poruszania.</p>
+        <p xml:id="p-4">c) Całkowicie martwe.</p>
+        <p xml:id="p-5">W pełni sprawny mężczyzna nie spółkujący zbyt często posiada w mililitrze nasienia dziesiątki milionów plemników zdrowych (jednakową ilość żeńskich i męskich). W każdym następnym z kolei wytrysku występującym w niedługim czasie po poprzednim, ilość plemników spada. Proszę pamiętać, że proces produkcji plemników w jądrach trwa około 48 dni i dodatkowo powinny pewien czas przebywać w najądrzach, gdzie dojrzewają nabierając sił do "walki" o podtrzymanie gatunku ludzkiego.</p>
+        <p xml:id="p-6">Chociaż teoretycznie wystarczy jeden żywy plemnik, (bo tylko jeden łączy się z jajem), aby zapłodnić jajo i aby powstała ciąża to praktycznie, gdy zawartość zdrowych plemników spadnie do 100 tysięcy w 1 mililitrze nasienia zapłodnienie jest prawie niemożliwe. Przy wielokrotnym spółkowaniu sperma zawiera nawet mniej plemników.</p>
+        <p xml:id="p-7">Największą płodność (silne i zdrowe nasienie) posiada mężczyzna, który spełnia jednocześnie następujące warunki:</p>
+        <p xml:id="p-8">1. W okresie ostatnich ponad 7 tygodni nie chorował, nie brał silnych leków (np. antybiotyki) nie pił alkoholu ani nie zażywał narkotyków itp. To znaczy nie wprowadzał do organizmu żadnych "trucizn" mogących uszkodzić materiał genetyczny plemników, jak również powodujących powstawanie plemników zniekształconych, słabych lub niedojrzałych.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

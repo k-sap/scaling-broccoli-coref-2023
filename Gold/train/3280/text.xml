@@ -1,0 +1,14 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Na razie aktorzy dramatu stąpają po cienkim lodzie. Lepiej, by Kosowo ogłosiło niepodległość za zgodą i w porozumieniu ze wspólnotą międzynarodową i trzymało się jakiegoś powszechnie akceptowanego planu politycznego. Taki plan stworzył z mandatu ONZ były fiński prezydent Martti Ahtisaari. Daje on zielone światło kosowskim aspiracjom, ale warunkowo. Kosowska niepodległość ma być nadzorowana przez Unię Europejską, a nowe państwo ma gwarantować europejskie standardy demokracji, praw człowieka i praw serbskiej mniejszości. Serbom na otarcie łez po utracie symbolicznego matecznika ich państwowości, za jaki uważają Kosowo, oferuje się przyspieszenie procesu integracji z Europą.</p>
+        <p xml:id="p-2">Jak ułożą się stosunki państwa kosowskiego z Albanią, nie jest całkiem pewne, ale i tu można być ostrożnym optymistą. Kosowo było dla Albańczyków bardziej atrakcyjne w latach 70., kiedy w jakimś stopniu korzystało z dobrodziejstw titoizmu. Potem atrakcyjność Kosowa wyniszczonego konfliktem z Serbami zmalała. Ale gdyby niepodległość wypaliła, Kosowo ma szanse stać się ważnym partnerem Albanii. Pomogą w tym europejskie metody zarządzania i europejskie fundusze, za którymi przyjdą zagraniczne inwestycje. Dziś Kosowo eksportuje głównie złom, ale posiada złoża węgla i rzadkich metali.</p>
+        <p xml:id="p-3">Takie rozwiązanie, jeśli uda się wcielić je w życie bez większych zgrzytów, domykałoby sprawę granic na Bałkanach, a dzięki temu stabilizowało najbardziej zapalny rejon współczesnej Europy. Drugie państwo albańskie rozbroi niebezpieczne, bo destabilizujące region, marzenie o Wielkiej Serbii. Nie wszystkie państwa Unii muszą od razu uznać Kosowo, wystarczy, jeśli zaakceptuje je pierwsza liga i USA, a wszystko wskazuje, że tak będzie.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

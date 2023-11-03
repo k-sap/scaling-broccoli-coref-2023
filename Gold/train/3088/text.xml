@@ -1,0 +1,19 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Wrócił niedługo potem i szepnął coś do Margaret.</p>
+        <p xml:id="p-2">Oboje odwrócili się w kierunku majora Kovalsky’ego.</p>
+        <p xml:id="p-3">Działo się coś złego, i to bardzo.</p>
+        <p xml:id="p-4">Zdążył nawet wyciągnąć pistolet i postrzelić Smitha, ale Margaret była szybsza. Ciosem dłoni powaliła go na ziemię. Tracąc przytomność pomyślał, że nie spodziewał się tyle siły w tak wątłym ciele.</p>
+        <p xml:id="p-5">VII</p>
+        <p xml:id="p-6">Gdy się obudził nie miał lewej ręki. Z rany sączyła się krew. Obok leżał, dysząc ciężko, John Smith. Również krwawił, tyle, że na niebiesko. "Wszystko na opak w tym pojebanym miejscu" – pomyślał Kovalsky i znów zemdlał.</p>
+        <p xml:id="p-7">Gdy ocknął się drugi raz, Smith wyglądał trochę lepiej, a całą twarz miał we krwi. Czerwonej. Ręka majora obficie krwawiła do jakiegoś naczynia. Opodal uwijała się Margaret, która sprawiedliwie rozdzielała krwawy posiłek między siebie i Johna Smitha. Oboje sprawiali wrażenie bardzo szczęśliwych.</p>
+        <p xml:id="p-8">Margaret podeszła do Kovalsky’ego i pogłaskała po policzku. – Kochany, to był cudowny pomysł z tym wyścigiem. Naprawdę świetny. Nawet nie przypuszczałam... Nie przypuszczaliśmy... Jeden z nich się przewrócił i rozciął dłoń. Zaczął ssać i krwawienie ustało. A potem drugi, ale skaleczył się w nogę. Nie mógł sobie pomóc, więc myśmy to zrobili. Och... – Margaret jęknęła zmysłowo, a Kovalsky’ego znów ogarnęła ciemność.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

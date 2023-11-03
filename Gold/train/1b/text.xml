@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Miasto postanowiło za jednym zamachem trzy spółki połączyć w jedną. Przygotowany jest projekt uchwały, który przewiduje wniesienie udziałów w Towarzystwie Budownictwa Społecznego "Wielkopolska" oraz Towarzystwie Budownictwa Społecznego "Nasz Dom" do Poznańskiego Towarzystwa Budownictwa Społecznego. W piątek opiniować tę propozycję będzie Komisja Gospodarki Komunalnej i Polityki Mieszkaniowej, a we wtorek zajmie się nią Rada Miasta.</p>
+        <p xml:id="p-2">- Pomysł połączenia TBS-ów nie budzi wątpliwości z punktu widzenia racjonalizacji kosztów - twierdzi Tomasz Lewandowski, radny LiD i członek komisji. - Potrzebna jest jednak dyskusja o przyszłości towarzystw. Obecnie rząd pracuje nad zmianą ustawy, która przewiduje wykup mieszkań w towarzystwach budownictwa społecznego. To stworzy zupełnie nową sytuację. W związku z tym konieczne będzie podjęcie odpowiednich kroków przez miasto.</p>
+        <p xml:id="p-3">Norbert Napieraj, szef klubu radnych PiS również uważa, że ze względów ekonomicznych utworzenie jednej spółki jest zasadne.</p>
+        <p xml:id="p-4">- Na razie jest to jednak luźny pomysł. Nie ma konkretów - dodaje N. Napieraj. - Nasz klub jeszcze nie wypracował w sprawie tej uchwały stanowiska.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

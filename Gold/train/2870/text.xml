@@ -1,0 +1,16 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Przez następnych dwadzieścia minut słyszeliśmy jedynie dźwięk silnika samochodowego, szum opon na asfalcie oraz dźwięki wiolonczeli i skrzypiec brzmiących smętnymi ludowymi nutami pieśni z Appalachów.</p>
+        <p xml:id="p-2">Czas nie mógł uleczyć wszystkich ran Stallmana, ale był jego sprzymierzeńcem.</p>
+        <p xml:id="p-3">Nawet po czterech latach krytyka zapisana przez Raymonda w Katedrze i bazarze (The Cathedral and the Bazaar) tkwiła jak zadra w jego duszy. Boczył się także na Linusa Torvaldsa za zajęcie pozycji najsławniejszego hakera na świecie. Jeszcze dziś wspomina koszulkę typu T-shirt, która zaczęła się pojawiać na targach linuksowych w roku 1999. Zaprojektowano ją na wzór plakatu Gwiezdnych Wojen - z Torvaldsem wymachującym mieczem świetlnym jak Luke Skywalker i twarzą Stallmana na szczycie korpusu R2D2 . Ta koszulka wciąż gra mu na nerwach, nie tylko dlatego, że przedstawia go w roli pomagiera Linusa, lecz z tego powodu, że podnosi Torvaldsa do rangi przywódcy społeczności wolnego oprogramowani i oprogramowania open source, roli, której nawet on sam sobie nie przypisuje. "To śmieszne, że sam Torvalds nie zamierzał dzierżyć tego miecza - mówi z żalem. - Wszyscy uznali go za przywódcę ruchu, a on nie miał ochoty na walkę. Gdzie tu sens?"</p>
+        <p xml:id="p-4">Oto R2D2 w całej okazałości - przyp. tłum.</p>
+        <p xml:id="p-5">Ta niechęć Torvaldsa do "wzięcia w dłoń miecza" pozwoliła Stallmanowi zachować pozycję najwyższego arbitra hakerskiej etyki. Pomimo poczucia krzywdy Stallman musi przyznać, że kilka ostatnich lat to niezły czas dla niego samego i jego organizacji. Odsunięty na ubocze przez nieoczekiwany sukces GNU/Linuksa, zdołał jednak odzyskać inicjatywę. Od stycznia 2000 do grudnia 2001 odwiedził 6 kontynentów, wygłaszając wykłady w krajach, w których sprawy wolnego oprogramowania cieszą się zainteresowaniem, np. Chinach i w Indiach.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

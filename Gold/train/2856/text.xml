@@ -1,0 +1,16 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Na to zrobiona.</p>
+        <p xml:id="p-2">W innej znów pieśni porównany jest do harfy eolskiej posąg poety "stworzony zgłoskami" - całe jego dzieło poetyckie:</p>
+        <p xml:id="p-3">Otocz go lasem cyprysów, modrzewi</p>
+        <p xml:id="p-4">On się rozjęczy, jak harfa Eola.</p>
+        <p xml:id="p-5">Nie możemy mierzyć naszych strun z liczbą strun w harfie Eola. Dwie tylko w sobie nosimy dla wydobycia głosu. Ale w chorobie wpadają one w wibrację, targane gwałtownym ruchem powietrza, którego zaczyna płucom brakować. Muzyka duszności. Kiedy chory w napadzie astmy wchodzi do gabinetu lekarskiego, świsty tak charakterystyczne dla tej choroby, słyszane gołym uchem, wyprzedzają jego zbliżenie. Dołączają do nich gwizdy, a stetoskop donosi o furczeniach nad obu polami płucnymi. Świsty, gwizdy, furczenia to określenia techniczne, z którymi zapoznaje się już na pierwszych latach student medycyny. A przecież to wiatr gwiżdże w kominie, furczy kogutkiem czy chorągiewką na dachu i śwista w burzy. Powietrze z płuc, wprawione w obce mu turbulentne wiry, potrąca zwężone ściany oskrzeli, wprawia je w drgania, szarpie struny głosowe - niby struny harfy Eola. W innej chorobie, obrzęku płuc, powietrze musi przedrzeć się przez płyn, który wypełniać zaczyna gwałtownie drobniutkie pęcherzyki płucne; nad klatką piersiową rozbrzmiewają rzężenia. Mówią nam o skrajnym niebezpieczeństwie, którego rozstrzygnięcie nastąpi w ciągu kilkunastu minut. Czy można się dziwić, że starożytni Grecy też obawiali się wiatrów, zwłaszcza grasujących po świecie pod wodzą spowitego w chmurę burzową Boreasza? Mąciły w głowach ludziom, porywały ich, napadały na kobiety. Aż w końcu Zeus wraz z Posejdonem wydrążyli na odludnej wyspie labirynt jaskiń i tuneli i uwięzili w nich wszystkie wiatry. I tylko w razie potrzeby Eol, syn Posejdona, rozbijał trójzębem powierzchnię skały i uwalniał jednego z tych więźniów, po czym zatykał otwór. Dał nawet wiatry w zamkniętym worku Odyseuszowi na drogę, lecz jego współtowarzysze nie zrobili z nich dobrego użytku.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

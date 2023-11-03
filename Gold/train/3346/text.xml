@@ -1,0 +1,14 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Jowialny i pyskaty Aleksander Gudzowaty dawniej był (albo udawał, że był) apolityczny. Owszem, dał coś na kampanię wyborczą Wałęsy, ale podobno i Kwaśniewskiemu nie poskąpił. W bieżącym roku jednak przy każdej okazji głośno modlił się, żeby już prędzej nadeszła komuna, a jej poprzedników nie oszczędzał. Na urodziny do swojej kampinoskiej rezydencji zaprosił całą górę SLD. Niechęć była wzajemna: rząd Buzka robił wszystko, żeby Gudzowatego się pozbyć.</p>
+        <p xml:id="p-2">Okazało się, że to nie takie proste. Gudzowa ty uporczywie pracował na sympatię Rosjan nie tylko w Moskwie, ale na polach Jamału. Kiedy zakładano w 1993 r. przedsiębiorstwo mieszane Europolgaz, które miało budować rurociąg przez Polskę, i w rosyjskim kodeksie handlowym znaleziono zapis, że do spółki trzeba minimum trzech - był oczywistym kandydatem. Wskoczył ze swoim niewielkim kapitałem w spółkę Gas Trading, która była języczkiem u wagi (4 proc. akcji) przedsiębiorstwa Europolgaz; po 48 proc. mają Gazprom i PGNiG. Gudzowaty dostawy rosyjskiego gazu kompensował dostawami polskiej żywności. Jego siłą były nie tyle pieniądze, których z początku nie miał, co spryt, pomysłowość, dbałość o szczegóły - czyli typowe przymioty prywatnego biznesmena.</p>
+        <p xml:id="p-3">Sukcesów Gudzowatego strawić nie mogli nie tylko rywale, ale i politycy. Z zapisów umowy międzypaństwowej wynikało, że w Europolgazie dwie strony mają mieć po 50 proc., dla trzeciego miejsca nie ma. Ale w innym miejscu mowa o tym, że wszystkie strategiczne decyzje trzeba podejmować zgodnie. Ministerstwo Gospodarki starało się wpłynąć na rosyjskich partnerów, żeby walne zgromadzenie spółki odwołało prezesa, którym jest Polak Kazimierz Adamczyk, ale przede wszystkim, żeby wyślizgać mniejszościowego akcjonariusza Gas Trading, czyli Gudzowatego. Polskiego biznesmena atakowała strona polska, a broniła rosyjska. To dowód oczywisty, zdaniem niektórych ziomków, że jest rosyjskim agentem.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

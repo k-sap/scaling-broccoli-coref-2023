@@ -1,0 +1,14 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Juan opowiadał o sobie i o tym, dlaczego dziś leży tutaj ze mną, na swojej pryczy i dlaczego opowiada. Jego szept wwiercał się w moje uszy, chciałem się go pozbyć, bo przecież Juan był mną, częścią tego samego statku, tą samą ręką, która obejmowała liny i tymi samymi nogami, które wspinały się na bocianie gniazdo. Sam do siebie wtedy szeptałem i sam sobie odpowiadałem, że nic nie mogę zrobić.</p>
+        <p xml:id="p-2">Głowa człowieka głodnego jest na przemian pusta i pełna. Wie, co trzeba uczynić, ale nie jest w stanie tego zrealizować. Wie, czym ma się zająć, ale pod pewnymi, niespełnionymi, warunkami. Nie chodzi o to, że coś można zrobić. Chodzi o to, że umysł, jako ostatni, godzi się z rzeczywistością. Ciało jest zbyt wycieńczone, by podnieść się i coś uczynić, umysł cały czas analizuje i przedstawia swoje pustynne miraże. Człowiek głodny jest człowiekiem sparaliżowanym, człowiekiem, któremu wszystko się wydaje. I nic się nie dzieje. Głowa człowieka głodnego staje się pusta jak jego żołądek, głowa się poddaje, ale tylko na chwilę. Bierze oddech i mówi, mówi, mówi, co można zrobić, co trzeba zrobić, co da się zrobić – trzeba, musisz, powinieneś, zrób. Wyobraźnia jest najgorszą z trucizn.</p>
+        <p xml:id="p-3">Juan mówił i przekładał swoje słowa na fikcyjne czyny. A potem zniknął.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

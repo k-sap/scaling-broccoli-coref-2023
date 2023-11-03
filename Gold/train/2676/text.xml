@@ -1,0 +1,17 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Sprowadźcie tutaj Maćka!</p>
+        <p xml:id="p-2">Nazywał się bodajże Adamiak. On, PRL-owski cenzor, uczynił mnie wiceprezesem Stowarzyszenia Dziennikarzy Polskich i zaprzyjaźnił mnie z Maćkiem Szumowskim</p>
+        <p xml:id="p-3">Jerzy Surdykowski</p>
+        <p xml:id="p-4">Kiedy wróciłem do Krakowa z sierpniowego strajku w Stoczni Gdańskiej w 1980 roku, napisałem o nim reportaż do nieistniejącego już tygodnika „Życie Literackie”. Tekst trafił do cenzury. Czekam, płyną dni, aż wreszcie wraca tekst z pieczątką, ale nie poznaję go: kilka zdań moich, reszta dopisana przez cenzora, w duchu obowiązującym w ówczesnym „Dzienniku Telewizyjnym”. Po co te strajki, skąd się wziął ten Lech Wałęsa i tak dalej... Oczywiście nie pozwoliłem na druk i poleciałem do „Gazety Krakowskiej”.</p>
+        <p xml:id="p-5">Za radą Macieja Szumowskiego, wówczas felietonisty „Gazety Krakowskiej”, a jednocześnie autora reportaży telewizyjnych, postanowiliśmy wysmażyć buntowniczy manifest w obronie wolności słowa – skierowany do dziennikarzy, jak i do władz. Szumowski zaofiarował własne mieszkanie na miejsce redagowania tej odezwy; nie zebrało się w nim aż tak wielu kolegów, bo za udział w jawnie opozycyjnym przedsięwzięciu można było oberwać po głowie, a tego PRL-owskie środowisko dziennikarskie było nauczone.</p>
+        <p xml:id="p-6">Maciek doradzał cicho i mądrze, ale prym wiodła jego małżonka Dorota Terakowska. O świtaniu manifest był gotowy, wysypaliśmy się między bloki na Kapelance, a Stefan Maciejewski – jeden z filarów „Krakowskiej” – tubalnie podsumował obrady kilkoma słowami nie nadającymi się do zacytowania, ale słyszalnymi na całym osiedlu.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

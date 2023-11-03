@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">- Potrzeb moc się zaspokaja, Oto już staniały jaja, Wyrabiamy większe spodnie, By człek chodził w nich wygodnie; Krzesła zdatne do siedzenia I nożyki do golenia, I to nie są obiecanki, To są fakty! - No, a szklanki?</p>
+        <p xml:id="p-2">- Rozszerzamy nasze plany - Weźmy choćby przemysł szklany: Szkło - surowiec znakomity - Wytwarzamy szklane płyty, Szklane włókno niezrównane, Części maszyn, sprzęty szklane I pończochy, i firanki, Nawet domy! - No, a szklanki?</p>
+        <p xml:id="p-3">- Trudno się dogadać z panem! Przecież są nocniczki szklane, Zdobne w piękne malowanki, A pan tylko szklanki, szklanki...</p>
+        <p xml:id="p-4">Inna wersja - Ech! Pan spłyca problem wszelki, Piwo można pić z butelki I jest lepsze, bo bez pianki, A pan tylko - szklanki, szklanki...</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

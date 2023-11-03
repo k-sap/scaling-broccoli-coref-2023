@@ -1,0 +1,21 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">~MEMR Memory Read - aktywny (niski) poziom na tej końcówce wskazuje na ogólny kierunek transmisji z pamięci (do pamięci lub urządzenia wejścia-wyjścia).</p>
+        <p xml:id="p-2">~MEMW Memory Write - aktywny (niski) poziom na tej końcówce wskazuje na ogólny kierunek transmisji do pamięci (z pamięci lub urządzenia wejścia-wyjścia).</p>
+        <p xml:id="p-3">AEN Address Enable - umożliwia rozróżnienie między adresami dla pamięci i układów wejścia-wyjścia.</p>
+        <p xml:id="p-4">READY Powolne układy pamięci lub urządzenia, uaktywniając ten sygnał, mogą wymusić opóźnienie cyklu odczytu lub zapisu DMA.</p>
+        <p xml:id="p-5">HLDA Hold Acknowledge - podając na to wejście stan logicznej jedynki, układ (procesor lub inny kontroler) sprawujący dotychczas pieczę nad magistralami systemu (adresową i danych) wyraża zgodę na przejęcie sterowania przez kontroler DMA. Dotychczasowy kontroler odłącza się od magistral, ustawiając swoje wyjścia w stan wysokiej impedancji.</p>
+        <p xml:id="p-6">ADSTB Address Strobe - informuje układy zewnętrzne, że na szynie adresowej A0 - A7 znajduje się bardziej znacząca część adresu.</p>
+        <p xml:id="p-7">HRQ Hold Request - wystawienie logicznej jedynki na tym wyjściu jest reakcją układu na nadejście żądania obsługi transmisji DMA (sprzętowo przez końcówki DREQ0 - DREQ3 lub programowo) i stanowi polecenie przekazania kontroli nad magistralami systemowymi skierowane do CPU lub innego kontrolera magistral.</p>
+        <p xml:id="p-8">~CS Chip Select - wejście aktywowane przez procesor w trybie programowania lub odczytu rejestrów wewnętrznych układu.</p>
+        <p xml:id="p-9">CLK Wejście sygnału taktującego o częstotliwości 4,77 MHz.</p>
+        <p xml:id="p-10">RESET Podanie na to wejście logicznej jedynki powoduje inicjalizację układu 8237A.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

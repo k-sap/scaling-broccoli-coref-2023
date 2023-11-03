@@ -1,0 +1,35 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">na każde pytanie poświęcamy piętnaście minut</p>
+        <p xml:id="p-2">no właśnie też dobry pomysł</p>
+        <p xml:id="p-3">po czternastej która jest godzina ?</p>
+        <p xml:id="p-4">razem szybciej się nauczymy</p>
+        <p xml:id="p-5">która jest godzina ?</p>
+        <p xml:id="p-6">nie wiem czy ja mam zegarek</p>
+        <p xml:id="p-7">masz tam mamo telefon ?</p>
+        <p xml:id="p-8">mam</p>
+        <p xml:id="p-9">która jest ?</p>
+        <p xml:id="p-10">dziesiąta trzydzieści sześć nie jest tak źle</p>
+        <p xml:id="p-11">jest gorzej</p>
+        <p xml:id="p-12">to nie uczysz się ze mną ?</p>
+        <p xml:id="p-13">najpierw się muszę pouczyć do pracy</p>
+        <p xml:id="p-14">ej ale ty się uczysz tego wstępu ? no ale jak się uczysz w rozdziale pierwszym zaprezentowano ? jak to ty się uczysz ?</p>
+        <p xml:id="p-15">w pracy zaprezentowano to to i to nie mówię co w którym rozdziale ponadto przedstawiono nie musisz mówić w pierwszym rozdziale to w tym to w tym to bo tak się nie mówi</p>
+        <p xml:id="p-16">a zakres przedmiotowy i okres badawczy to też czy nie trzeba mówić ? sensie że uwzględniono okres od tysiąc dziewięćset dziewiątego do dwa tysiące dziesięć ? a na przykład jakie ci się pozycje przydały czy na przykład coś takiego ?</p>
+        <p xml:id="p-17">nie wiem właśnie</p>
+        <p xml:id="p-18">brzuch mnie boli</p>
+        <p xml:id="p-19">to już we wstępie jakie książki uwzględniono ja tak napisałam czytałaś ?</p>
+        <p xml:id="p-20">twój wstęp ? ja myślisz pamiętam ? nie chyba nie nie napisałaś tylko pozycje no bo co ty napiszesz ? napiszesz wszystko od powstania unii ? no bo tak</p>
+        <p xml:id="p-21">nie chodzi mi o</p>
+        <p xml:id="p-22">a jak ?</p>
+        <p xml:id="p-23">że rozdziale trzecim przedstawiłam jakie były użyte w latach dwa tysiące osiem dwa tysiące dziewięć i jakie są możliwe teraz</p>
+        <p xml:id="p-24">to tylko w trzecim rozdziale a w całej tej pracy trzeba napisać we wstępie że w całej pracy uwzględniono lata te i te</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

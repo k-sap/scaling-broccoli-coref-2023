@@ -1,0 +1,26 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">- Hej, niewolniku!</p>
+        <p xml:id="p-2">Ursus usunął głowę z komina i uśmiechnąwszy się niemal przyjaźnie, rzekł:</p>
+        <p xml:id="p-3">- Bóg ci daj, panie, dobry dzień i dobre zdrowie, ale ja człek wolny, nie niewolnik.</p>
+        <p xml:id="p-4">Winicjuszowi, który miał ochotę rozpytać Ursusa a ojczysty kraj Ligii, słowa te sprawiły pewną przyjemność, albowiem rozmowa z człowiekiem wolnym, jakkolwiek prostym, mniejszą przynosiła ujmę jego rzymskiej i patrycjuszowskiej godności niż rozmowa z niewolnikiem, w którym ni prawo, ni obyczaj nie uznawały ludzkiej istoty.</p>
+        <p xml:id="p-5">- Toś ty nie Aulusów? - spytał.</p>
+        <p xml:id="p-6">- Nie, panie. Ja służę Kallinie, jako służyłem jej matce, ale po dobrej woli.</p>
+        <p xml:id="p-7">Tu schował znów głowę w komin, by podmuchać na węgle, na które narzucił poprzednio drew, po czym wyjął ją i rzekł:</p>
+        <p xml:id="p-8">- U nas nie ma niewolników. Lecz Winicjusz spytał:</p>
+        <p xml:id="p-9">- Gdzie jest Ligia?</p>
+        <p xml:id="p-10">- Dopiero co odeszła, a ja mam uwarzyć śniadanie dla ciebie, panie. Czuwała nad tobą całą noc.</p>
+        <p xml:id="p-11">- Czemuś jej nie wyręczył?</p>
+        <p xml:id="p-12">- Bo tak chciała, a moja rzecz słuchać. Tu oczy zasępiły mu się i po chwili dodał:</p>
+        <p xml:id="p-13">- Gdybym ja jej nie słuchał, to ty byś, panie, nie żył.</p>
+        <p xml:id="p-14">- Zali żałujesz, żeś mnie nie zabił?</p>
+        <p xml:id="p-15">- Nie, panie. Chrystus nie kazał zabijać. - A Atacynus? A Kroto?</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

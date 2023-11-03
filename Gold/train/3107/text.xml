@@ -1,0 +1,19 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">- Ładnie pachniesz.</p>
+        <p xml:id="p-2">Ciepło Ø oddechu poruszało moje włosy.</p>
+        <p xml:id="p-3">Prawą rękę położył na oparciu. Czułam ramię opierające się o mój kark. Na granicy skóry krew pulsowała mocniej. Widziałam jego profil. Zaschło mi nagle w gardle.</p>
+        <p xml:id="p-4">Mieszkanie było prawie puste. Właściciel w T-shircie z twarzą Che nalewał alkohol. Spojrzał na nas nieprzytomny. Machał rękami nad głową. To przywitanie. Wielka tajlandzka szafa rzeźbiona w słonie stała na tle betonowej ściany. Oparłam się o nią plecami. Poczułam chłód. Przeszedł mnie dreszcz.</p>
+        <p xml:id="p-5">Czułam się jak Marsjanin podczas wyprawy badawczej na Ziemię.</p>
+        <p xml:id="p-6">Potem M. przyniósł mi whisky. Patrzył na mnie. Kiwałam głową w rytm muzyki. Wyjął kostkę lodu. Oblizał. Potem przesunął ją po mojej skórze. Po szyi, dekolcie, ramionach. Krople wody spływały w dół. Nasze tymczasowe braterstwo stawało się coraz bardziej kazirodcze. Wyszliśmy na balkon. Przed nami rozpościerała się czarna panorama Pragi. Świeciły jak rogi oświetlone wieże kościołów.</p>
+        <p xml:id="p-7">Opierając się o barierkę, paliliśmy, piliśmy. Staliśmy blisko. Twarz owiał mi lekki wiatr. Nagle poczułam się lekko. Zmęczenie odeszło. Krew zaczęła szybciej krążyć. Patrzyłam mu w oczy. Rozchylałam wargi. Robiłam się coraz ładniejsza. Dowcipniejsza. Uszczypliwa. Zaczepna. Pożądana.</p>
+        <p xml:id="p-8">W pokoju dziewczyny tańczyły boso. Kręciły biodrami. Ich piersi kołysały się w rytm muzyki pod lekkimi bluzkami. Opalone ramiona podnosiły się i opadały. Włosy stały się wilgotne od potu. Ich mężczyźni udawali mieszkańców amerykańskich gett. "Yo, ziomalu" wyciągali ręce, pokazując dwa palce. Z kuchni dolatywał zapach trawy.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

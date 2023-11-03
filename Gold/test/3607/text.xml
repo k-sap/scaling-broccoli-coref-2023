@@ -1,0 +1,17 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">6. Kliknij przycisk Szukaj. Wyświetlona zostanie lista trafień. Liczba trafień pojawia się na niebieskim pasku (rysunek 3.1).</p>
+        <p xml:id="p-2">Jeśli rezultaty wyszukiwania będą zbyt skąpe, oznacza to, że szukałeś w złym miejscu lub za bardzo zawęziłeś zakres wyszukiwań. Być może zapytanie zostało sformułowane niepoprawnie - zdarza się często, że literówka psuje wszystko. Być może szukanego materiału po prostu nie ma w internecie, choć to naprawdę trudne do uwierzenia - lecz i takie sytuacje się zdarzają. Spróbuj w takim przypadku zmienić słowa kluczowe. Jeśli to także nie pomoże, zmień wyszukiwarkę lub zastosuj multiwyszukiwarkę, sięgnij do katalogów lub zasobów specjalistycznych. Możesz także popytać na grupach dyskusyjnych.</p>
+        <p xml:id="p-3">7. Przeglądnij znalezione pozycje - skorzystaj z paska przewijania znajdującego się z prawej strony okna przeglądarki, aby przewinąć zawartość okna. Jeśli opis którejś ze stron wyda się interesujący, kliknij odnośnik prowadzący do niej.</p>
+        <p xml:id="p-4">8. Aby przeglądnąć kolejną stronę trafień, przewiń dokument do końca i kliknij numer strony lub kliknij odnośnik Następna (rysunek 3.2).</p>
+        <p xml:id="p-5">9. Jeśli lista wyszukanych pozycji jest zbyt obszerna, kliknij łącze Szukaj w wynikach (rysunek 3.3).</p>
+        <p xml:id="p-6">10. Kłopot z nadmiarem wyszukanych dokumentów najczęściej wynika ze zbyt ubogiej listy słów kluczowych. Dodaj w oknie, które się ukaże, jedno lub dwa dodatkowe słowa kluczowe i kliknij przycisk Szukaj w wynikach (rysunek 3.4), a liczba rezultatów wyszukiwania powinna się zmniejszyć.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

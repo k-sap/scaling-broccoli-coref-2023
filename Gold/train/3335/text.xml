@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Dobrze, że "Polityka" zwróciła uwagę na problem mobbingu [art. "Uwaga mobbing", POLITYKA 3, dot. szykanowania w miejscu pracy]. Jest on wszechobecny, jakkolwiek w Polsce słabo poznany. Dzięki dyskusjom internetowym można było stwierdzić, jak jest częsty w środowiskach szkół wyższych i instytucjach naukowych, gdzie panuje feudalna struktura, a przejawy dyskryminacji i szykanowania są dobrze ukrywane pod "dywanem". Konformizm środowisk akademickich tworzy przyjazny klimat dla mobbingu, a nowy projekt ustawy o szkolnictwie wyższym jeszcze ma wzmocnić autokratyczny sposób zarządzania. W projekcie brak jest instytucji mediatora akademickiego, co nas różni od uczelni amerykańskich czy europejskich. Jeśli się jest mobbingowanym, można zmienić pracę, ale można wpaść z deszczu pod rynnę, bo to zjawisko powszechne. W państwach unijnych ciężar dowodu spoczywa na oskarżonym, a u nas raczej na skarżącym się o mobbing. Tak sugerują prawnicy starając się interpretować niezbyt jasne zapisy nowego kodeksu pracy. Udowodnić mobbing przed sądem nie będzie łatwo. Świadkowie nawet jeśli są, to w przypadku procesu sądowego, można przypuszczać, zostaną dotknięci epidemią "amnezji", "ślepoty", "głuchoty", bo każdy będzie się bał o swoje miejsce pracy i tak zagrożone ogromnym bezrobociem sprzyjającym mobbingowi. O dokumenty będzie też trudno, bo większość szykan załatwia się na "gębę", a ponadto pracodawca może dokumenty chować w sejfach. Sądy nie zajmują się zmuszaniem pracowników do ich ujawniania, a czasami nawet twierdzą, że nie są od tego, aby dochodzić prawdy.</p>
+        <p xml:id="p-2">Ważną rolę mogą odegrać stowarzyszenia, które winny organizować szkolenia antymobbingowe, w szczególności w zakresie prowadzenia mediacji, edukacji prawnej, konfliktów w pracy, które źle rozwiązane stają się bardzo często przyczyną długotrwałego mobbingu.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

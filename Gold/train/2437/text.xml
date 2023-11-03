@@ -1,0 +1,19 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Maraton otwiera słynne dzieło "Lampart"</p>
+        <p xml:id="p-2">Luchino Visconti di Modrone (1906-1976) - wraz z Michelangelo Antonionim, Federico Fellinim i Roberto Rossellinim tworzył słynną wielką czwórkę włoskiego kina. Nie tylko kina. Visconti osiągał świetne sukcesy także jako inscenizator operowy i teatralny.</p>
+        <p xml:id="p-3">Duch niespokojny</p>
+        <p xml:id="p-4">Był arystokratą. Pochodził z jednej z najszacowniejszych rodzin Italii. Targał nim duch niespokojny. Uciekał z domu młodości. Z końcem wojny znalazł się we włoskim ruchu oporu. Wtedy zetknął się z grupą wpływowych komunistów. Pod ich wpływem zaangażował się w ruch neorealistów.</p>
+        <p xml:id="p-5">Ale z tego wpływu rychło się wyzwolił. Viscontiego pociągał świat sztuki, pięknej rzeźby, malowideł. Będąc w Paryżu, dzięki Coco Chanel poznał Jeana Renoira i został jego asystentem przy filmowaniu "Wycieczki na wieś" i "Toski".</p>
+        <p xml:id="p-6">Szaleńcza miłość</p>
+        <p xml:id="p-7">Na życiu osobistym Viscontiego zaciążył gwałtowny afront, jaki spotkał go ze strony rodziców pewnej pięknej Austriaczki, w której młody Luchino zakochał się bezgranicznie. Nie znajdując wzajemności dla swego uczucia, postanowił zamknąć się w klasztorze. Szybko jednak otrząsnął się, by trafić do szkoły kawaleryjskiej. Po jakimś czasie pochłonęła go twórczość filmowa.</p>
+        <p xml:id="p-8">Fatalne niepowodzenie uczuciowe przypłacił ciężkim wewnętrznym rozdarciem. Nie ożenił się. Przeżył natomiast burzliwą przyjaźń z wielką artystką Anną Magnani, a później z piękną - znów Austriaczką - Romy Schneider. W Viscontim kochała się słynna diva operowa Maria Callas. Wtedy jednak Visconti już nie krył swojej orientacji seksualnej i darzył uczuciem faworyzowanych przez siebie aktorów. Pierwszym z nich był Massimo Girotti, odtwórca głównej roli w "Opętaniu" (po latach aktor pojawi się także w ostatnim filmie artysty "Niewinne"). Kolejnym Alain Delon, którego zaprosił do filmu "Rocco i jego bracia" i do "Lamparta", wreszcie Helmut Berger, któremu powierzył postać tytułową w "Ludwigu", a na koniec ponownie w "Portrecie rodzinnym we wnętrzu".</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

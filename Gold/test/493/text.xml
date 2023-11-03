@@ -1,0 +1,61 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">sp3: Wiesia a ile ona ma lat ?</p>
+        <p xml:id="p-2">sp2: dwadzieścia siedem</p>
+        <p xml:id="p-3">sp3: yyy ona ?</p>
+        <p xml:id="p-4">sp4: no</p>
+        <p xml:id="p-5">sp2: no. co ?</p>
+        <p xml:id="p-6">sp1: idę do łazienki</p>
+        <p xml:id="p-7">sp4: tak jest</p>
+        <p xml:id="p-8">sp5: za dom idź lepiej</p>
+        <p xml:id="p-9">sp2: za za stodołę lepiej tam idź</p>
+        <p xml:id="p-10">sp0: łuna</p>
+        <p xml:id="p-11">sp2: udepcz sobie pokrzywy żeby ci ten pupę nie poparzyły</p>
+        <p xml:id="p-12">sp5: tam gdzie byłam ja tutaj</p>
+        <p xml:id="p-13">sp2: i wysikaj się</p>
+        <p xml:id="p-14">sp1: co ?</p>
+        <p xml:id="p-15">sp0: idź Ewa z nią</p>
+        <p xml:id="p-16">sp5: tutaj idź</p>
+        <p xml:id="p-17">sp0: idź Ewa</p>
+        <p xml:id="p-18">sp3: tutaj idź za to okno moje</p>
+        <p xml:id="p-19">sp2: czy ona umie w kucki siku zrobić ?</p>
+        <p xml:id="p-20">sp3: tam gdzie jest</p>
+        <p xml:id="p-21">sp5: nie wiem</p>
+        <p xml:id="p-22">sp2: idź z nią</p>
+        <p xml:id="p-23">sp0: Ewa idź z nią</p>
+        <p xml:id="p-24">sp1: nie no nie dajcie spokój</p>
+        <p xml:id="p-25">sp2: nie masz mi tutaj do łazienki nie chodzić tylko tam za stodołę</p>
+        <p xml:id="p-26">sp0: Ewa ! idź z nią</p>
+        <p xml:id="p-27">sp4: jak to</p>
+        <p xml:id="p-28">sp5: no nie chce iść Jezu co wy na siłę tego dzieciaka</p>
+        <p xml:id="p-29">sp0: ale ty żebyś szła z nią</p>
+        <p xml:id="p-30">sp3: tak chodź ja pójdę</p>
+        <p xml:id="p-31">sp1: ale ja ja nie chcę</p>
+        <p xml:id="p-32">sp5: no tak jeszcze Jezu</p>
+        <p xml:id="p-33">sp4: znowu cudujeta ludzie tam chodzą wszyscy i nie umarł nikt jeszcze</p>
+        <p xml:id="p-34">sp5: gdzie chodzą wszyscy ?</p>
+        <p xml:id="p-35">sp2: a ona</p>
+        <p xml:id="p-36">sp0: Ewa</p>
+        <p xml:id="p-37">sp2: z tego co tam z tego jej yyy</p>
+        <p xml:id="p-38">sp3: ona chciała se pospacerować Ewa idź z nią</p>
+        <p xml:id="p-39">sp5: no zaraz z nią pójdę matko powiedziała że nie chce co wy ją zmuszacie do wszystkiego i wszystkich na siłę tutaj</p>
+        <p xml:id="p-40">sp3: yyy</p>
+        <p xml:id="p-41">sp2: ona pracuje w ambasadzie Indii</p>
+        <p xml:id="p-42">sp3: kto ? a ta ta ta chrześnica</p>
+        <p xml:id="p-43">sp2: ychy ychy</p>
+        <p xml:id="p-44">sp0: w ambasadzie Chińskiej ?</p>
+        <p xml:id="p-45">sp2: Indii</p>
+        <p xml:id="p-46">sp0: Indii co on tam robi</p>
+        <p xml:id="p-47">sp3: i co z tego będzie ?</p>
+        <p xml:id="p-48">sp0: sprząta ?</p>
+        <p xml:id="p-49">sp3: statki umyję</p>
+        <p xml:id="p-50">sp2: nie chyba coś yyy w jakimś biurze chyba przy wizach tak z tego wynikało albo ona tam jakimś jest menadżer jakiś tam tak mi się wydaje</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

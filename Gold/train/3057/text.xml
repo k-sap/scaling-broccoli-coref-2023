@@ -1,0 +1,49 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">PAUZA</p>
+        <p xml:id="p-2">EDWARD</p>
+        <p xml:id="p-3">Wiem.</p>
+        <p xml:id="p-4">PAUZA</p>
+        <p xml:id="p-5">cedzi</p>
+        <p xml:id="p-6">Panie Ryszardzie, największy problem będzie z tym pana romansem z Martą... i nie dosyć, że to był romans z siostrą pana żony, to na dodatek żona się o tym dowiedziała...</p>
+        <p xml:id="p-7">RYSZARD</p>
+        <p xml:id="p-8">O co panu chodzi?</p>
+        <p xml:id="p-9">EDWARD</p>
+        <p xml:id="p-10">Zastanawiam się, jak z tego wybrnąć. Słyszałem, że są dowody zdrady... kaseta wideo...</p>
+        <p xml:id="p-11">RYSZARD</p>
+        <p xml:id="p-12">SZYBKO</p>
+        <p xml:id="p-13">Ja mam tę kasetę, więc tak jakby jej nie było.</p>
+        <p xml:id="p-14">EDWARD</p>
+        <p xml:id="p-15">Aha. A pańska teściowa? Czy ona to widziała?</p>
+        <p xml:id="p-16">RYSZARD</p>
+        <p xml:id="p-17">Z nią nie będzie żadnego problemu.</p>
+        <p xml:id="p-18">EDWARD</p>
+        <p xml:id="p-19">Czy może ktoś jeszcze to widział?</p>
+        <p xml:id="p-20">RYSZARD</p>
+        <p xml:id="p-21">Nie.</p>
+        <p xml:id="p-22">EDWARD</p>
+        <p xml:id="p-23">Jest pan pewny? Pani Maria jest przekonana, że Ø matka będzie zeznawała na jej korzyść.</p>
+        <p xml:id="p-24">RYSZARD</p>
+        <p xml:id="p-25">Ona nie zna swojej matki tak dobrze, jak ja.</p>
+        <p xml:id="p-26">Edward uśmiecha się.</p>
+        <p xml:id="p-27">EDWARD</p>
+        <p xml:id="p-28">Czy pan już myślał, kto będzie pana reprezentował? Ma pan jakiegoś swojego adwokata?</p>
+        <p xml:id="p-29">RYSZARD</p>
+        <p xml:id="p-30">Nie, jeszcze nie...</p>
+        <p xml:id="p-31">EDWARD</p>
+        <p xml:id="p-32">To może...Może ja się popytam...?</p>
+        <p xml:id="p-33">zbliżenie Ryszarda, który trochę się ucieszył, ale nie jest do końca pewny czy wszystko jest OK</p>
+        <p xml:id="p-34">Scena</p>
+        <p xml:id="p-35">WNĘTRZE. DZIEŃ. U LESZKA. POKOJ LESZKA. MARIA, LESZEK.</p>
+        <p xml:id="p-36">Maria ścieli łóżko. Wchodzi Leszek po prysznicu, ma sobie ręcznik przewiązany w pasie.</p>
+        <p xml:id="p-37">MARIA</p>
+        <p xml:id="p-38">Kochanie, o co ci chodziło z tym rozwodem?</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<teiHeader xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xml:lang="en">
+  <fileDesc>
+    <titleStmt>
+      <title>Paragraphs: p-2493,p-2494,p-2495,p-2496,p-2497,p-2498,p-2499,p-2500,p-2501,p-2502,p-2503,p-2504 from NKJP text with id: IPIPAN_0301000000010</title>
+    </titleStmt>
+  </fileDesc>
+  <profileDesc>
+    <textClass>
+      <catRef scheme="#nkjp" target="Literatura piękna"/>
+    </textClass>
+  </profileDesc>
+  <revisionDesc/>
+</teiHeader>

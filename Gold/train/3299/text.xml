@@ -1,0 +1,20 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Do łukowskiej Komendy Powiatowej Policji trafiła informacja, że jeden z mieszkańców miasta może posiadać twarde narkotyki. Na wskazane miejsce pojechała ekipa z Wydziału Kryminalnego.</p>
+        <p xml:id="p-2">Odnalezienie amfetaminy, ukrytej w „fabrycznie” zamkniętej puszce z... gulaszem wywołało nawet zaskoczenie u fachowców od walki z narkotykowym biznesem.</p>
+        <p xml:id="p-3">Mieszkanie, do którego przyjechali funkcjonariusze Wydziału Kryminalnego KPP, należy do 43-letniego łukowianina. Policjanci weszli do mieszkania z prokuratorskim nakazem w kieszeni. Mieli za zadanie przeszukać je w celu potwierdzenia dotychczasowych informacji o narkotykach.</p>
+        <p xml:id="p-4">Na systematycznym przetrząsaniu pokoi mijały kolejne kwadranse... Policjanci nie znaleźli zupełnie nic. – Wygląda, że gość jest tym razem czysty – rzucił któryś ze śledczych w przestrzeń mieszkania wyjątkowo silnie nasyconą policyjnymi siłami.</p>
+        <p xml:id="p-5">W tym samym momencie funkcjonariusz, który przeglądał zawartość damskiej torebki 47-letniej mieszkanki Łukowa, zastanej akurat w mieszkaniu przez śledczych, zwrócił uwagę na sporą puszkę „Gulaszu z kaszą”.</p>
+        <p xml:id="p-6">– Kto w damskiej torebce nosi konserwy? – zdziwił się policjant. – I to jeszcze tak dziwnie opakowane. Zobaczcie – pokazał swe znalezisko kolegom.</p>
+        <p xml:id="p-7">Na pierwszy rzut oka puszka wyglądała normalnie. Zamknięta, z naklejoną obwolutą, ciężar jak należy,</p>
+        <p xml:id="p-8">w środku nic nie stukało, ani nie chrobotało. Ale ta gulaszowa konserwa była najpierw zawinięta w papier,</p>
+        <p xml:id="p-9">a później włożona do foliowego worka. To dziwne opakowanie wzmogło czujność. Przeszukujący mieszkanie szybko znaleźli otwieracz do puszek i zrobili z niego praktyczny użytek. Po odchyleniu wieczka puszki oczom policjantów zamiast gulaszu ukazały się... stare polskie monety wycofane z obiegu!</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

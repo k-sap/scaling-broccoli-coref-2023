@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Senat, po rozpatrzeniu uchwalonej przez Sejm na posiedzeniu w dniu 15 marca 2002 r. ustawy o zmianie ustawy o drogach publicznych, przyjmuje tę ustawę bez poprawek.</p>
+        <p xml:id="p-2">Senat, po rozpatrzeniu uchwalonej przez Sejm na posiedzeniu w dniu 14 marca 2002 r. ustawy o uchyleniu ustawy o Radiofonicznym Ośrodku Nadawczym w Konstantynowie, przyjmuje tę ustawę bez poprawek.</p>
+        <p xml:id="p-3">Senat, po rozpatrzeniu uchwalonej przez Sejm na posiedzeniu w dniu 20 marca 2002 r. ustawy o zmianie ustawy o samorządzie pielęgniarek i położnych, wprowadza do jej tekstu następującą poprawkę: – w art. 1 w pkt 1 w lit. b, w ust. 3 wyrazy „przy Naczelnej Izbie Pielęgniarek i Położnych oraz okręgowych izbach pielęgniarek i położnych mogą być tworzone“ zastępuje się wyrazami „Naczelna Izba Pielęgniarek i Położnych oraz okręgowe izby pielęgniarek i położnych mogą tworzyć w porozumieniu z ministrem właściwym do spraw zdrowia“.</p>
+        <p xml:id="p-4">Senat uznał za celowe wniesienie poprawki do ustawy z dnia 20 marca 2002 r. o zmianie ustawy o samorządzie pielęgniarek i położnych, kierując się potrzebą uściślenia kwestii związanej z podmiotami uprawnionymi do tworzenia ośrodków informacyjno-edukacyjnych. Doprecyzowanie bowiem tworzenia tych ośrodków przez jednostki organizacyjne samorządu pielęgniarek i położnych, nie zaś jak stanowi ustawa nowelizująca – możliwość tworzenia ich przy jednostkach organizacyjnych samorządu pielęgniarek i położnych, eliminuje mogącą powstać w praktyce wątpliwość, czy ośrodki informacyjno-edukacyjne, realizujące zadania samorządu zawodowego pielęgniarek i położnych, będą działać w strukturze tego samorządu, czy też poza nią. Poprawka wskazując jednoznacznie podmiot uprawniony do tworzenia wyżej wymienionych ośrodków, wprowadza konieczność współdziałania, w procesie ich tworzenia, uprawnionych podmiotów z ministrem właściwym do spraw zdrowia, zapewniając poprzez udział ministra nie tylko prawidłowe funkcjonowanie powoływanych struktur, lecz także stworzenie gwarancji celowości powoływania ośrodków informacyjno-edukacyjnych.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

@@ -1,0 +1,17 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Po Nowym Roku plac przed pałacem tak zawaliły spalone czołgi i wozy pancerne, że nie sposób było chodzić. Wszędzie leżały sterty rosyjskich trupów.</p>
+        <p xml:id="p-2">– Nie wiem, ile ich mogło być, tysiące. W kilka dni wystrzelaliśmy w Groznym całą rosyjską armię. Mówiliśmy im, żeby zabrali swoje trupy, bo psy łażą po ulicach i pożerają zwłoki. Posmakowały ludzkiego mięsa, już nie uciekały z podkulonymi ogonami, patrzyły na ludzi jak na łowną zwierzynę. Musieliśmy je potem wybijać, żeby całymi watahami nie atakowały przechodniów.</p>
+        <p xml:id="p-3">Dziewiętnastego stycznia dziewięćdziesiątego piątego, o świcie, Czeczeni postanowili nie bronić dłużej pałacu prezydenckiego. Po prawie trzech tygodniach nieustannych bombardowań był już tak zniszczony, że przebywanie w nim groziło śmiercią. Ciężkie bomby, przystosowane do niszczenia betonowych bunkrów i pasów startowych na lotniskach, wypatroszyły od środka kilkunastopiętrowy budynek, z którego pozostały tylko opalone i pogruchotane kikuty murów. Bomby przelatywały przez kondygnacje jak ciskane z góry kamienie i wybuchały coraz głębiej w ukrytych pod ziemią piwnicach. Nie było już czego bronić.</p>
+        <p xml:id="p-4">– Nocą nasz dowódca, Ałman, został wezwany na naradę do pałacu. Wrócił i powiedział, że się wycofujemy.</p>
+        <p xml:id="p-5">Zrobiło się ciemno, twarz Mansura wyłaniała się z mroku, oświetlana reflektorami mijających nas samochodów.</p>
+        <p xml:id="p-6">– Mówił jeszcze, że prezydent prosił, żeby się nie martwić, bo jego pałac to tylko budynek, taki sam jak inne, tylko trochę wyższy. I że w Czeczenii każda chałupa jest pałacem prezydenta.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

@@ -1,0 +1,23 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">- Pan prezydent prosi zaczekać.</p>
+        <p xml:id="p-2">- Czy tam ktoś jest?</p>
+        <p xml:id="p-3">- Nie, panie doktorze.</p>
+        <p xml:id="p-4">Murek spojrzał nań pytającym wzrokiem, lecz Więcek wbił oczy w biurko. Dwie maszynistki pod ścianą zerkały zaciekawione w stronę Murka.</p>
+        <p xml:id="p-5">Zaczął chodzić po pokoju. Minęło pięć minut, dziesięć. Czuł, że maszynistka nie spuszczają zeń oczu.</p>
+        <p xml:id="p-6">- Może pan doktor spocznie? - podsunął mu krzesło Więcek.</p>
+        <p xml:id="p-7">- Nie, dziękuję.</p>
+        <p xml:id="p-8">Starał się zachować spokój, lecz przychodziło mu to z trudnością: - W tym musi coś być - powtarzał w myśli - musi coś być. Po kwadransie dzwonek zabrzęczał trzykrotnie i Murek natychmiast wszedł do gabinetu. Niewiarowicz z ponurą miną i jakby ociągając się, podał mu rękę zza biurka.</p>
+        <p xml:id="p-9">- Dziwię się bardzo - zaczął oschłym tonem - że zaniedbuje pan swoje obowiązki. Nie mogę tolerować tego, bym musiał w godzinach urzędowych szukać swoich podwładnych po całym mieście.</p>
+        <p xml:id="p-10">- Byłem w Izbie Skarbowej, panie...</p>
+        <p xml:id="p-11">- To już nie należało do pana. O ile się nie mylę, wydałem panu wczoraj polecenie przekazania spraw podatkowych właściwemu referentowi. Tymczasem był pan łaskaw nie zastosować się... Tak... Zlekceważyć moje zlecenie. Ani pan Lassota, ani pan Kubinowski nic od pana nie dostali. To jest przeciwne mojemu pojęciu o porządku.</p>
+        <p xml:id="p-12">- Panie prezydencie. Bardzo przepraszam, ale sądziłem, że to nie jest aż tak pilne. Poza tym myślałem, że... zdawało mi się, że pan był zadowolony z mojego Ø...</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

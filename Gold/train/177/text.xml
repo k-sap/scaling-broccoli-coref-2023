@@ -1,0 +1,27 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Tworzenie łańcucha rozpoczynasz od narysowania jednego wymiaru liniowego, który wyznacza bazę dla łańcucha bazowego lub początek łańcucha szeregowego. Następnie rysujesz dalsze jego elementy.</p>
+        <p xml:id="p-2">Zwymiaruj element za pomocą łańcucha bazowego i szeregowego.</p>
+        <p xml:id="p-3">Bazowy (na górze) i szeregowy (na dole) łańcuch wymiarowy Rozpocznij od narysowania wymiaru poziomego.</p>
+        <p xml:id="p-4">Polecenie:</p>
+        <p xml:id="p-5">Określ początek pierwszej pomocniczej linii wymiarowej lub (wybierz obiekt): ENTER Wybierz obiekt do wymiarowania: P1 (upewnij się, że wskazałeś odcinek bliżej lewego końca) Określ położenie linii wymiarowej lub [Wtekst/Tekst/Kąt/Poziomo/pIonowo/Obrócony]: P2</p>
+        <p xml:id="p-6">Następnie narysuj łańcuch bazowy. Polecenie: I</p>
+        <p xml:id="p-7">Określ początek drugiej pomocniczej linii wymiarowej lub [Cofaj/Wybierz] (Wybierz): P3</p>
+        <p xml:id="p-8">Określ początek drugiej pomocniczej linii wymiarowej lub [Cofaj/Wybierz] (Wybierz): P4</p>
+        <p xml:id="p-9">Określ początek drugiej pomocniczej linii wymiarowej lub [Cofaj/Wybierz] (Wybierz): Enter</p>
+        <p xml:id="p-10">Wybierz wymiar bazowy: Enter</p>
+        <p xml:id="p-11">Rysowanie łańcucha szeregowego rozpocznij od narysowania wymiaru poziomego. Polecenie: I</p>
+        <p xml:id="p-12">Określ początek pierwszej pomocniczej linii wymiarowej lub (wybierz obiekt): naciśnij prawy przycisk myszy</p>
+        <p xml:id="p-13">Wybierz obiekt do wymiarowania: P5 (upewnij się, że wskazałeś odcinek bliżej lewego końca)</p>
+        <p xml:id="p-14">Określ położenie linii wymiarowej lub [Wtekst/Tekst/Kąt/Poziomo/pIonowo/Obrócony]: P6</p>
+        <p xml:id="p-15">Narysuj szeregowy łańcuch wymiarowy.</p>
+        <p xml:id="p-16">Określ początek drugiej pomocniczej linii wymiarowej lub [Cofaj/Wybierz] (Wybierz): P7</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

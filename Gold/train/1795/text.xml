@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">A szkoda. Kiedyś poproszono mnie, bym zorganizował wyjazd do Muzeum Holocaustu w Waszyngtonie dla polityka, najłagodniej mówiąc, nieufnego wobec kwestii żydowskiej. Potem byłem poruszony, gdy publicznie przyznał, że wątek polski jest tam potraktowany uczciwie. Opcji nie zmienił, ale nie słyszałem później, by wypowiadał się na temat Żydów w agresywny sposób.</p>
+        <p xml:id="p-2">Czy wizyta w muzeum może wyleczyć z antysemityzmu? Choćby przez uświadomienie ludziom, że trudno wyobrazić sobie polską literaturę bez Żydów. Czy przez opowieść o ich udziale w powstaniach narodowych. Przez przypomnienie takich postaci, jak choćby Henryk Wohl, jeden z przywódców powstania styczniowego, zesłany potem na 20 lat katorgi.</p>
+        <p xml:id="p-3">Wszystkie te wątki będą obecne na wystawie. Jednak co do wyleczenia z antysemityzmu byłbym sceptyczny, choć pobyt w muzeum na pewno nikomu nie zaszkodzi. Takie zmiany dokonują się powoli. Najważniejsze jest to, że wizyta w muzeum nie będzie tylko wizytą polskiego zwiedzającego, który pozna historię żydowską, ani nie będzie tylko wizytą żydowskiego turysty, który zobaczy, jak Polacy przedstawili dzieje Żydów. Oni się tu spotkają. Będą mogli obserwować swoje reakcje. Muzeum może je trochę odczarować. Tworzymy także centrum edukacyjne, gdzie będzie spotykać się młodzież.</p>
+        <p xml:id="p-4">Najważniejsza sprawa, z którą chcemy się zmierzyć, to nie ideologia, ale morze ignorancji. I strona polska wcale nie ma tu monopolu. Skala ignorancji, nie tylko na temat stosunków polsko-żydowskich, ale na temat własnej, żydowskiej historii, jest wśród Żydów z Ameryki czy Izraela ogromna. Młodzi Żydzi nie znają własnej historii. To, co przed Holocaustem, wydaje im się nieważne. Tu będą mogli zobaczyć, że Państwo Izrael ma korzenie nad Wisłą, tu działał przez dwa stulecia unikalny żydowski parlament, tu zaczęło się świeckie żydowskie życie, tu także narodził się i rozwinął fenomen chasydyzmu.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

@@ -1,0 +1,24 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">- Grochulski, wartownika do mnie, ale już! Doktorze!</p>
+        <p xml:id="p-2">Prawie równocześnie dopadliśmy boku bewupa. Wciąż stał tu stolik pod radiostację, krzesełko, termos z kawą i karabin oparty o koło. Był też podoficer. Ale układ był inny.</p>
+        <p xml:id="p-3">Kapral leżał twarzą do ziemi i nie ruszał się, a kiedy przewróciłem go na wznak, natychmiast zrozumiałem, że nigdy więcej się nie ruszy. Jego gardło było jedną wielką raną.</p>
+        <p xml:id="p-4">- Kurrrwa mać - Filipiak omal nie połamał sobie zębów, przyciskając dolne do górnych. - Jak, do kurwy nędzy?! Jak?!</p>
+        <p xml:id="p-5">Zamknąłem powieki szeroko otwartych, szklistych oczu.</p>
+        <p xml:id="p-6">- Parę minut - powiedziałem, dziwiąc się własnemu spokojowi.</p>
+        <p xml:id="p-7">- Nie żyje. - Wciąż nie przezwyciężył szczękościsku.</p>
+        <p xml:id="p-8">- I tak bym mu nie pomógł. Nie da się założyć opaski... - urwałem i odwróciłem lekko głowę kaprala, chcąc się upewnić, że moje palce nie robią mi makabrycznych dowcipów. - O cholera.</p>
+        <p xml:id="p-9">- Co?</p>
+        <p xml:id="p-10">- Ma dziurę w czaszce. Chyba... chyba po kuli.</p>
+        <p xml:id="p-11">Tak czy inaczej nie żył i może dlatego Filipiak dość gładko przeszedł do porządku dziennego nad otworem w jego potylicy. Było zresztą coś ważniejszego od człowieka, którego zabito dwa razy.</p>
+        <p xml:id="p-12">- Panie poruczniku! - rozległ się głos Grochulskiego. - Szybko!</p>
+        <p xml:id="p-13">Nie miałem tu nic do roboty. Pobiegliśmy obaj. Szybko.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

@@ -1,0 +1,14 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">W punkcie startu idea była prosta i wyglądała sensownie: władze stanowe przestaną się mieszać w produkcję energii, która stanie się przedmiotem obrotu na nowym otwartym rynku hurtowym. Użytkownicy, zarówno gospodarstwa domowe jak i przedsiębiorstwa, zyskają dostęp do starych i nowych producentów i dystrybutorów. Reforma w założeniach przypominała to, czego w 1990 r. dokonano w Wielkiej Brytanii, gdzie w odstawkę poszły stare, niewydajne, opalane węglem elektrownie, a w ich miejsce pojawiły się nowoczesne, czystsze elektrownie na gaz i w konsekwencji Ø spadły ceny.</p>
+        <p xml:id="p-2">Ojcowie kalifornijskiej reformy oczekiwali, że w jej wyniku hurtowa cena energii obniży się z 7 do 3 centów za kilowatogodzinę. W wyniku czteroletnich żmudnych debat i przepychanek politycznych wyłonił się jednak twór mocno skomplikowany. Wprawdzie dokonano deregulacji cen hurtowych, ale ceny detaliczne pozostały jak poprzednio zamrożone. Użytkownicy nie mieli bodźców ani żeby oszczędniej gospodarować energią, ani też aby szukać nowych źródeł zaopatrzenia. Wielkim zakładom użyteczności publicznej, które dotychczas były nie tylko dystrybutorem, ale także właścicielem wielu elektrowni, kazano je sprzedać. Jednocześnie zabroniono im zawierania długoterminowych umów z producentami. Dystrybutorzy mieli kupować energię wyłącznie na rynku bieżącym.</p>
+        <p xml:id="p-3">Niejasne reguły gry, niechęć lokalnych społeczności do budowy elektrowni na ich terenie i biurokratyczne opóźnienia sprawiły, że moce stanowych elektrowni rosły bardzo powoli w czasie, gdy gospodarka zaczęła nabierać rozpędu. Ponieważ wzrost dochodów przekłada się zwykle na wzrost zużycia energii, kalifornijski boom ostatnich pięciu lat wywołał gwałtowny skok popytu. Mimo tego w marcu 1998 r., kiedy weszła w życie deregulacja, kilowatogodzina kosztowała tylko 2,2 centa. Dopiero latem ubiegłego roku fortuna nagle się odwróciła: ostro w górę poszły ceny paliw, a popyt wywołany silną koniunkturą okazał się wyższy niż oczekiwano. Ceny energii skoczyły w czerwcu do 12 centów, a w grudniu nawet do 60 centów za kilowatogodzinę.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

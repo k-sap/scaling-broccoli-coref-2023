@@ -1,0 +1,49 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">sp3: nie na mnie za krótkie są bo palec mnie boli paznokieć</p>
+        <p xml:id="p-2">sp4: no</p>
+        <p xml:id="p-3">sp2: to musisz paznokieć obciąć</p>
+        <p xml:id="p-4">sp4: nowiusieńkie nowiusieńkie prosto ze sklepu</p>
+        <p xml:id="p-5">sp3: we Wielgim kupiłam w zeszłego roku i za małe</p>
+        <p xml:id="p-6">sp4: tak</p>
+        <p xml:id="p-7">sp3: i nie mogę chodzić może Ewka weźmiesz</p>
+        <p xml:id="p-8">sp5: ychy z miłą chęcią</p>
+        <p xml:id="p-9">sp3: albo Natalcia która weźmie zara przyniesę wam</p>
+        <p xml:id="p-10">sp2: mama one nie będą chciały takich</p>
+        <p xml:id="p-11">sp5: nie no nikt nie chce</p>
+        <p xml:id="p-12">sp2: kozaków</p>
+        <p xml:id="p-13">sp3: krótkie kozaczki</p>
+        <p xml:id="p-14">sp4: ja już widzę Natalka w tych kozakach że weszła na salę to by dopiero by ją obstawili</p>
+        <p xml:id="p-15">sp3: no przecież</p>
+        <p xml:id="p-16">sp4: nie Wiesia ? ty</p>
+        <p xml:id="p-17">sp2: nie one to tam mają już swoje adidasy</p>
+        <p xml:id="p-18">sp4: koleżanki</p>
+        <p xml:id="p-19">sp3: no tak</p>
+        <p xml:id="p-20">sp2: ja mówię że poszłam im do tego a one że takie pikne te buty przecież za naszych czasów białe adidasy to w pewnym momencie był wielki obciach nie ?</p>
+        <p xml:id="p-21">sp0: no tak było</p>
+        <p xml:id="p-22">sp1: ale było</p>
+        <p xml:id="p-23">sp2: spodnie w pasy adidasy nie cza co to było ? czapka z daszkiem spodnie w pasy adidasy</p>
+        <p xml:id="p-24">sp1: co było</p>
+        <p xml:id="p-25">sp0: szwedzka i beretka</p>
+        <p xml:id="p-26">sp2: o</p>
+        <p xml:id="p-27">sp0: a teraz skóra komóra i fura</p>
+        <p xml:id="p-28">sp2: a te te te tak mnie tu na mnie</p>
+        <p xml:id="p-29">sp4: a moja myca nie wyjęta jest ? nie wyjęta jest</p>
+        <p xml:id="p-30">sp3: to nie</p>
+        <p xml:id="p-31">sp4: znowu</p>
+        <p xml:id="p-32">sp2: skrzyczały że to taka moda na białe adidasy i Ewa mi każe iść i kupić białe adidasy</p>
+        <p xml:id="p-33">sp0: no widzisz ty tylko słuchaj ich bo przecież one wiedzą dokładnie</p>
+        <p xml:id="p-34">sp5: a Natalia najbardziej co jej się podobało z zakupów to że wywalczyła białe buty</p>
+        <p xml:id="p-35">sp2: al ale się nawalczyła no pewnie mi tam wszystko jedno jeszcze tanie były</p>
+        <p xml:id="p-36">sp5: no nie było</p>
+        <p xml:id="p-37">sp2: no to wiesz dziewczyny</p>
+        <p xml:id="p-38">sp3: daj dla mnie schowaj nie wzięłysta ręce w górę</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

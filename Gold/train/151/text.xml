@@ -1,0 +1,18 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Stowarzyszenie Otwarte Forum, dzięki dotacji przyznanej z Funduszu Inicjatyw Obywatelskich Ministerstwa Pracy i Polityki Społecznej, zaprasza młode osoby z Siedlec i okolic Ø, zainteresowane działaniem na rzecz swojej społeczności lokalnej, do udziału w bezpłatnym cyklu szkoleniowym w ramach projektu Młodzieżowi Animatorzy Lokalni - Odciśnij Swój Ślad! Cykl składa się z 3 weekendowych sesji (sobota i niedziela). Zajęcia w Siedlcach odbędą się 22 i 23 sierpnia, 19 i 20 września oraz 24 i 25 października.</p>
+        <p xml:id="p-2">CO TO JEST MAL?</p>
+        <p xml:id="p-3">MAL to projekt aktywizacyjno-szkoleniowy, skierowany do osób w wieku 18 lat - 24 lata, które już realizują bądź planują zrealizować zadania na rzecz swojego najbliższego otoczenia. Adresujemy projekt MAL do osób, które działają w organizacjach pozarządowych, biorą udział w akcjach dobroczynnych, organizują spotkania, koncerty, dyskusje, bądź mają wiele pomysłów co zrobić, żeby uczynić swoje najbliższe otoczenie bardziej aktywnym i otwartym.</p>
+        <p xml:id="p-4">Uczestnicy projektu "Młodzieżowi Animatorzy Lokalni" wezmą udział w kompleksowym cyklu szkoleniowym, przygotowującym ich do poprowadzenia przy naszym wsparciu autorskiego miniprojektu w swoim miejscu zamieszkania. Zakres szkolenia,</p>
+        <p xml:id="p-5">obejmujący zagadnienia takie, jak: zarządzanie projektem, komunikacja oraz praca w zespole oraz promocja i prezentacja projektu, jest wzorowany na ofercie, kierowanej zazwyczaj do biznesu. Po odpowiednim przeformułowaniu i dzięki dotacji FIO oferujemy go bezpłatnie młodym liderom na Mazowszu.</p>
+        <p xml:id="p-6">JAKA JEST IDEA MAL?</p>
+        <p xml:id="p-7">Na Mazowszu istnieje wiele dysproporcji, jeśli chodzi o ofertę podnoszenia kwalifikacji młodych ludzi. Projekt MAL pragnie wyrównać szanse dla wszystkich aktywnych młodych na Mazowszu.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

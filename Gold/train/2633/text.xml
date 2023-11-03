@@ -1,0 +1,12 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Który z liderujących zespołów - Garbarni i Dalinu Myślenice ma trudniejszy wyjazd? Zarówno Orzeł Piaski Wielkie, jak i Górnik Brzeszcze fatalnie wystartowały i jeżeli na dobre nie chcą usadowić się w strefie spadkowej muszą zacząć zdobywać punkty. W ostatnim meczu piłkarze Dalinu "złapali" czerwone kartki, ale były one efektem dwóch żółtych i drużyna nie powinna być osłabina. Również Garbarnia wystąpi w nasilniejszym zestawieniu, ze znajdującym się w wyśmienitej formie Dzierżanowskim. - Jesteśmy w takiej sytuacje, że praktycznie "musimy" ten mecz wygrać - powiedział trener Górnika, Bogdan Przygodzki - Zdajemy sobie sprawę z siły rywala i dlatego nie będziemy frontalnie atakować, ale nastawiamy się na grę o komplet punktów. - Liga wydaje się być bardziej wyrównana niż w poprzednim sezonie - powiedział prezes Orła Piaski Wielkie, Józef Wajda - Faktycznie wystartowaliśmy nie najlepiej, ale straty punktowe to w głównej mierze skutek fatalnej skuteczności. Jednak w końcu piłkarze muszą się przełamać. Nie mniej interesująco zapowiada się sobotni pojedynek w Zabierzowie. Jeszcze wiosną obie drużyny dzieliła różnica dwóch klas rozgrywkowych, ale teraz faworytem tego meczu jest Kmita. Program VI kolejki - Sobota: Kmita Zabierzów - Skawinka, godz. 11; Orzeł Piaski Wielkie - Garbarnia; Karpaty Siepraw - Bolesław Bukowno; MKS Trzebinia-Siersza - Cracovia II; Skawa wadowice - Alwernia; wszystkie mecze o godz. 17. Niedziela: Niedźwiedź - Pogoń Miechów; Puszcza Niepołomice - Świt Krzeszowice; Górnik Brzeszcze - Dalin Myślenice; Garbarz Zembrzyce - Clepardia; wszystkie mecze o godz. 17.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

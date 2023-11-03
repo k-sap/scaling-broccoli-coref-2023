@@ -1,0 +1,23 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Tanie mieszkanie własnościowe</p>
+        <p xml:id="p-2">Mieszkanie spółdzielcze można wykupić na własność nawet za kwotę dziesięciokrotnie mniejszą, niż wynosi jego cena wolnorynkowa</p>
+        <p xml:id="p-3">Od początku roku obowiązuje nowe prawo spółdzielcze. Można mieć mieszkanie lokatorskie, własnościowe lub z pełną własnością. Spółdzielnie zmieniają statuty tak, by mieszkania własnościowe sprzedać lokatorom jak najtaniej</p>
+        <p xml:id="p-4">Tak było Od 24 kwietnia 2001 roku osoba posiadająca lokatorskie prawo nie mogła wykupić mieszkania i uzyskać własnościowego prawa do lokalu. Wszyscy musieli czekać na zmiany statutów, uregulowanie spraw własności gruntów, podział na działki. Po zakończeniu tych prac można było wystąpić o pełną własność lokalu, razem z gruntem i prawem wydzielenia się ze spółdzielni. W praktyce okazało się, że przygotowanie do wykupu na nowych zasadach jest uciążliwe i długotrwałe. Większość zarządów do tej pory nie spełniła wymagań ustawy, a zatem wykup nie jest możliwy</p>
+        <p xml:id="p-5">Parlament przywrócił zatem łatwiejsze do uzyskania prawo do mieszkania spółdzielczego-własnościowego. Nie wiąże się ono z prawem do gruntu, ale pozwala mieszkanie sprzedać, zapisać w testamencie lub podarować</p>
+        <p xml:id="p-6">Mieszkanie własnościowe</p>
+        <p xml:id="p-7">By uzyskać mieszkanie własnościowe, wystarczy taki zamiar zgłosić do spółdzielni. Trzeba także samodzielnie opłacić wycenę wartości rynkowej mieszkania</p>
+        <p xml:id="p-8">Zgodnie z ustawą, lokator płaci cenę ustaloną przez rzeczoznawcę, pomniejszoną o zwaloryzowaną wartość wkładu mieszkaniowego</p>
+        <p xml:id="p-9">Do ustanowienia własnościowego spółdzielczego prawa do lokalu nie jest konieczne spisanie umowy notarialnej</p>
+        <p xml:id="p-10">Odrębna własność</p>
+        <p xml:id="p-11">Kto chce mieć pełną własność lokalu, musi się liczyć z większymi wydatkami</p>
+        <p xml:id="p-12">Tak samo jak przy lokalu własnościowym, zapłaci za wycenę lokalu. Musi także spłacić zobowiązania spółdzielni związane z kredytem zaciągniętym na budowę.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

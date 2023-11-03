@@ -1,0 +1,16 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Pod Tatry zawitało 76 uczestników warsztatów. Obecnie PSBD skupia ok. 1000 firm, lecz liczba stowarzyszonych maleje z każdym rokiem. - Wpływ na to ma wielka niepewność co do ekonomicznych decyzji rządu. Przykładem ostatnia żonglerka wzrostem podatku VAT od materiałów budowlanych. Jesteśmy wciąż zawieszeni w próżni. Nie można planować w takiej sytuacji sensownego działania - podkreślali deweloperzy podczas warsztatowych dyskusji w Zakopanem. Narzekali na wiele zjawisk kryzysowych: spowolnienie wzrostu gospodarczego, załamanie się popytu, narastające bezrobocie, brak płynności finansowej przedsiębiorstw, narastanie długu publicznego, biurokrację i korupcję.</p>
+        <p xml:id="p-2">Eksperci Banku Handlowego przedstawili na warsztatach cele, zasady i metody przeprowadzania konsolidacji, która jest jedyną szansą na uchronienie przedsiębiorstw przed upadłością. Fachowcy prezentowali różne scenariusze, jak działać w warunkach rynku, mechanizmy konsolidacji przedsiębiorstw: łączenie spółek, fuzje oraz inkorporacje. Uczono się, na co zwracać uwagę przy wycenie wartości łączących się przedsiębiorstw.</p>
+        <p xml:id="p-3">Sporo czasu podczas warsztatowych spotkań poświęcono na dyskusje o rzetelności kupieckiej. - Klient narażony jest na działanie wielu nierzetelnych firm deweloperskich, które w zagmatwanej i nieprzewidywalnej na bliższy czas rzeczywistości rosną jak grzyby po deszczu - nie kryli obradujący w Zakopanem.</p>
+        <p xml:id="p-4">Jednym z końcowych, aczkolwiek bardzo istotnych tematów była konieczność dostosowania polskiego prawa budowlanego do prawa obowiązującego w Unii Europejskiej. Zaprezentowano program i stan dostosowania polskich norm budowlanych do normatyw Unii Europejskiej.</p>
+        <p xml:id="p-5">Tegoroczne spotkanie w Zakopanem było przygotowaniem do tworzenia mocnej grupy lobbingowej, która byłaby zdolna działać w imię wspólnych interesów. - Potrzebny jest nam ścisły podział kompetencji do wykorzystania w Sejmie - zaznaczają deweloperzy.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

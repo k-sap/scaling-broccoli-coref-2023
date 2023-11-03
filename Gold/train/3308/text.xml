@@ -1,0 +1,18 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Owszem, widzowie mogą mieć z nim problem. Do tej pory mieli do czynienia z Gombrowiczem wziętym z jego powieści, z "Dzienników". Natomiast trzeci akt wychodzi poza literaturę i przechodzi w sferę faktów. Pojawia się Gombrowicz w otoczeniu przyjaciół, żony, ludzi z nim związanych. Zbudowałem tę część, opierając się na autentycznych dokumentach.</p>
+        <p xml:id="p-2">Gombrowicza grają trzej różni aktorzy, z kolei są wykonawcy, którzy pojawiają się na scenie w różnych rolach. Jaki był cel tego zabiegu?</p>
+        <p xml:id="p-3">Już Konstanty Jeleński, który był wielbicielem i promotorem twórczości Gombrowicza, zauważył, że niezwykle istotnym kluczem, organizującym materię jego dzieł, była rodzina. Obsadzając tych samych aktorów w rolach postaci, które tworzą klucze rodzinne, chcę zwrócić uwagę na istotność tych wątków dla jego twórczości. Ignacy Gogolewski gra kolejnych ojców, Ewa Wiśniewska matki.</p>
+        <p xml:id="p-4">Jeszcze ciekawsze zadanie ma Małgorzata Kożuchowska, która gra m.in. żonę Gombrowicza, Ritę.</p>
+        <p xml:id="p-5">Rita Gombrowicz była wzruszona, widząc siebie i słysząc swoje słowa. Monologi Rity zaczerpnąłem z jej książki "Gombrowicz w Europie", a także z rozmaitych listów.</p>
+        <p xml:id="p-6">Spektakl telewizyjny nie jest mechanicznym przeniesieniem przedstawienia teatralnego.</p>
+        <p xml:id="p-7">Spektakl telewizyjny jest o połowę krótszy od przedstawienia teatralnego. Musiałem pominąć interesujące sceny z "Iwony księżniczki Burgunda", za które Ewa Wiśniewska dostała nagrodę Felixa. I bardzo dla mnie istotne sceny z "Historii" Gombrowicza, które są potwierdzeniem wspomnianej przez nas tezy Jeleńskiego. Obok scenografa Andrzeja Witkowskiego współtwórcą spektaklu telewizyjnego jest Dariusz Kuc, który okazał się samodzielnym artystą, fantastycznym magiem od światła. Mam nadzieję, że to nie ostatnia nasza wspólna praca.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

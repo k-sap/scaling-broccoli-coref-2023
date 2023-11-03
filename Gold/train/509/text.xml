@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">sp3: tak</p>
+        <p xml:id="p-2">sp1: i nie yyy nie wyobrażamy jej sobie jakoś nie łączymy z tym a to jest dramat</p>
+        <p xml:id="p-3">sp3: tak to jest bardzo ważne w życiu i o tym jak gdyby się czasami krępujemy nie mówimy no ale załatwianie potrzeb fizjologicznych jest niestety bardzo ciężkie czyli my jesteśmy wspomagani przez mięśnie a jeśli te mięśnie są porażone to się okazuje że nasza tłocznia brzuszna nie działa nasze zwieracze przestają funkcjonować i wszystko przez nas przecieka albo nie chce lecieć związku z tym zostaje nam co ? cewnikowanie jeśli ten mocz zalega w pęcherzu może dojść do stanu zapalnego jeśli ten stan zapalny powstanie to cały organizm jest zagrożony to są wysokie stany yyy temperatury gorączka związku z tym idzie antybiotyk leczenie stany bakteryjne związku z tym to się ciągnie jeśli mamy wysoką gorączkę nie możemy trenować tego pacjenta musimy jak gdyby zwlekać z pewnymi funkcjami związku z tym wprowadza się jak gdyby taki system w ten organizm żeby to wyregulować czyli powiedzieć mu co systematycznie będziemy robić i teraz systematycznie trzeba go odwrócić co trzy godziny systematycznie trzeba go prze cewnikować żeby nie było zalegania co określony ilość dni trzeba mu podać czopki żeby się wypróżnił czyli ten organizm musi funkcjonować i to trzeba wprowadzić jako taki system dlatego bywają tak zwane na przykład określenia że to jest tak zwany dzień czopkowy można to określić czasami święto lasu i w tym dniu jak się wejdzie na salę o godzinie między czternastą a siedemnastą no to właściwie wszyscy robią to samo</p>
+        <p xml:id="p-4">sp1: no wie pan tylko pan pan mówi o tym z perspektywy człowieka który no yyy jak gdyby jest tą służbą która za yyy za zapewnia ludziom funkcjonowanie ale jak się wchodzi w to z drugiej strony to myślę że się o tym tak łatwo nie opowiada bo to jest zupełne</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

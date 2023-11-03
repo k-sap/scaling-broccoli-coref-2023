@@ -1,0 +1,18 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">sp3: pani Strężyńska. czy to jest prawdziwy pani Strężyńska to jest prawdziwy moim zdaniem bohater</p>
+        <p xml:id="p-2">sp2: bezwzględnie</p>
+        <p xml:id="p-3">sp3: czwartej Rzeczypospolitej lat dwa tysiące pięć dwa tysiące siedem czyli okresu rządów PiS-u</p>
+        <p xml:id="p-4">sp1: czyli szefowa urzędu. konkurencji</p>
+        <p xml:id="p-5">sp3: komunikacji elektronicznej prawda ? czyli ta nadzorująca nasze telefony komórkowe</p>
+        <p xml:id="p-6">sp2: internet szerokopasmowy i tak dalej. nie wiem czy się pan zgodzi ale taką instytucją która była potrzebna było centralne biuro antykorupcyjne bo w ciągu ostatnich czterech lat. miejsce Polski w międzynarodowych zestawieniach korupcyjności zdecydowanie się poprawiło</p>
+        <p xml:id="p-7">sp2: tak ja wspierałem ten projekt. z wahaniami ale go wspierałem. natomiast ja mam. ja uważam że stała się. jeśli mówić rzetelnie o tamtych czasach. stała się rzecz którą uważam z perspektywy czasu za głęboko paradoksalną. mianowicie. prawdziwe dokonania Prawa i Sprawiedliwości tych rządów one są. to jest ewidentne. leżą w obszarze który w propagandzie politycznej jest przypisywany. wyłącznie przeciwnikom politycznym PiS-u a nie PiS-owskiej doktrynie one leżą właśnie w. w największej reformie podatkowej od. tak naprawdę od dwa tysiące od tysiąc. od od tysiąc dziewięćset osiemdziesiątego dziewiątego roku przecież. w gruncie rzeczy rząd uważany za rząd antyliberalny. dokonał najbardziej liberalnej reformy podatkowej. której doświadczamy w tym roku prawda bo bardzo wyraźnie bo ona właśnie weszła w życie z opóźnieniem. i na nadzorze nad nowoczesnym rynkiem internetowo-telekomunikacyjnym. czyli to są obszary w których wydawałoby się. że Kaczyński PiS jest całkowicie niekompetentny natomiast. natomiast Ziobro nie miał sukcesów w obszarze najbardziej klasycznym dla PiS-u czyli wymiarze sprawiedliwości. MSW nie miało sukcesów w obszarze spraw wewnętrznych. no to jest ten paradoks</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

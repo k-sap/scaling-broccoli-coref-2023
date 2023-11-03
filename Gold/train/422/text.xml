@@ -1,0 +1,16 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Echinocactus cinnabarinus</p>
+        <p xml:id="p-2">Następnego dnia należy ponownie wymienić papier gazetowy na suchy i znów przykryć książkami. Czynność tę powtarzać należy dopóki rośliny całkowicie się nie ususzą. Zwykle częstotliwość zmiany papieru zmniejsza się z biegiem czasu. Trudno jednoznacznie określić czas takiego suszenia. Zależnie od gatunku ("mięsistości", a właściwie ilości wody w roślinie), warunków w jakich został okaz zebrany (jeśli było mokro to dłużej...) i tym podobnych czas suszenia będzie się skracał lub wydłużał. Jednak bezwzględnie nie możemy zapomnieć o zmianie papieru, w przeciwnym wypadku z naszej kolekcji roślin błyskawicznie zrobi się kolekcja grzybów pleśniowych...</p>
+        <p xml:id="p-3">Warto zaznaczyć, że nie każdą roślinę można spreparować w zielniku. Przynajmniej nie w domowych warunkach. Nie wyobrażam sobie ususzonego kaktusa Echinocactus cinnabarinus... To samo tyczy organów roślinnych: owoce mięsiste (jagody, pestkowce itd.) zupełnie się do tego nie nadają. Pozostanie nam piękna, acz mokra plama w zielniku...</p>
+        <p xml:id="p-4">Właściwie po przejściu tych etapów można zająć się częścią formalną. Karta zielnikowa powinna zawierać opis okazu, wg szablonu:</p>
+        <p xml:id="p-5">W pierwszych dwóch przypadkach podajemy nazwy taksonów: najpierw polską, potem łacińską (chyba, że nie ma polskiej - to tylko łacińską). Właściwie kolejność nie ma znaczenia naukowego, za to zwykle tak ładniej się prezentuje. Jeżeli karta wypisywana jest na komputerze to należy nazwę rodzajową i gatunkową łacińską zapisać kursywą (pismem pochyłym), a rodziny czcionką prostą. W przypadku wypisywania karty ręcznie zasady te można, w gruncie rzeczy, pominąć. Po nazwie łacińskiej nie podajemy - zamieszczanych w kluczach i przewodnikach, informacji, kto po raz pierwszy ważnie opisał gatunek (L., Carr. itp.). Opisując stanowisko podajemy nazwę miejscowości (np. Koziegłowy), zaś siedlisko wybierając spośród: przydroże, ogród, las, torfowisko i im podobnych. Pozostałe dwa nie wymagają komentarza.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

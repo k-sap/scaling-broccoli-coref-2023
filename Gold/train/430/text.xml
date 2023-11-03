@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">W tym samym czasie Houtermans postanowił pojechać do Charkowa w nadziei odnalezienia przyjaciela z celi więziennej. Przyłączył się do grupy naukowej towarzyszącej pierwszemu rzutowi Wehrmachtu, co wśród niechętnych reżimowi naukowców wzbudziło podejrzenia, że jest aktywnym nazi . W 1944 roku rozpoczął pracę w Physikalische Technische Reichsanstalt. Wciąż cierpiał z powodu niedostatecznego zaopatrzenia w papierosy. W związku z tym wysłał na papierze firmowym PTR oficjalne zapotrzebowanie na większą ilość macedońskiego tytoniu, niezbędnego – jak twierdził – do prowadzenia badań nad absorpcją światła przez dym i mgłę (w związku z bombardowaniami). Jakiś czujny funkcjonariusz przechwycił list i Houtermans otrzymał wezwanie do wojska. Dzięki wstawiennictwu Heisenberga i Weizsäckera uniknął poboru. Skierowano go za karę do pracy w Getyndze, gdzie na ulicy spotkał wygłodzonego i obdartego Konstantina Szteppę.</p>
+        <p xml:id="p-2">W 1951 roku w wydawnictwie Hurst &amp; Blackett ukazała się książka Rosyjska czystka i wydobywanie zeznań ( Russian Purge and the Extraction of Confession ), studium na temat metod śledczych stosowanych przez sowiecką policję polityczną. Jej autorami byli F. Beck i W. Godin, a dokładniej – ukrywający się pod tymi pseudonimami niemiecki fizyk Friedrich Houtermans i rosyjski historyk Konstantin Szteppa.</p>
+        <p xml:id="p-3">W tym samym czasie niemieccy naukowcy i technicy budowali w Rosji kolejny reaktor do produkcji plutonu. Był między nimi Manfred von Ardenne.</p>
+        <p xml:id="p-4">Ale nie idzie mi tu o konstrukcje losów poszczególnych postaci, bo te, gdy kładzie się je na papier, tak czy inaczej dostosowują się do wzorca opisanego przez Arystotelesa. Zastanawia mnie historia losów.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

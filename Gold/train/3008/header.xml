@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<teiHeader xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xml:lang="en">
+  <fileDesc>
+    <titleStmt>
+      <title>Paragraphs: p-554,p-555,p-556,p-557,p-558,p-559,p-560,p-561,p-562,p-563,p-564 from NKJP text with id: IJPPAN_2004000000028</title>
+    </titleStmt>
+  </fileDesc>
+  <profileDesc>
+    <textClass>
+      <catRef scheme="#nkjp" target="Literatura piękna"/>
+    </textClass>
+  </profileDesc>
+  <revisionDesc/>
+</teiHeader>

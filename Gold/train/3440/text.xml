@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Wszystko zaczęło się od "Azazela" i "Gambitu tureckiego", powieści o dżentelmenie rozmiłowanym w japońskim haiku i buddyzmie, w pięknych kobietach i pościgach za zbrodniarzami, szpiegami i terrorystami. Dzięki Fandorinowi Akunin zyskał sławę i bogactwo. Rosjanie rzucili się na jego książki, podejrzewając w pierwszej chwili, że pod tym pseudonimem kryje się premier Jewgienij Primakow albo Władimir Żyrynowski, bo obaj z wykształcenia są orientalistami. Ile w tych plotkach było marketingu, nie wiadomo. Wiadomo natomiast, że powieści Akunina osiągają zawrotne nakłady, mimo że kosztują dwukrotnie więcej niż inne kryminały (równowartość dziesięciu dolarów, a to dla większości Rosjan suma niebagatelna).</p>
+        <p xml:id="p-2">Dlaczego wyrafinowany intelektualista bawi się w powieść kryminalną? Chciał, jak przyznaje, zrealizować rosyjskie marzenie: dowieść, że w Rosji można uczciwie zbić fortunę. Nigdy nie krył, że "projekt Fandorin" jest projektem finansowym. Magazyn "Forbes" umieszcza dziś Akunina na liście najbogatszych Rosjan. Jest on też autorem trylogii "Kryminał prowincjonalny", cyklu "Przygody magistra", ostatnio zaś pracuje nad "Gatunkami", parodiując powieści szpiegowskie, fantastykę czy literaturę dla dzieci - wszystkie ukazały się po polsku. Najnowsza powieść z tego cyklu zatytułowana jest "FM". Tajemniczy FM to oczywiście Fiodor Michajłowicz Dostojewski, a fabuła jest przewrotną grą ze "Zbrodnią i karą", której pierwotnym bohaterem nie był Raskolnikow, lecz... tego polski czytelnik może się już dowiedzieć sam, bo książka właśnie pojawiła się na naszym rynku.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

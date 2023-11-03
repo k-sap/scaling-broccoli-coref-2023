@@ -1,0 +1,18 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Mieszkańcy gmin Wartkowice i Dalików są niemal całkowicie pozbawieni dostępu do komunikacji zbiorowej. Najpierw wycofał się łódzki PKS, teraz zrezygnował prywatny przewoźnik</p>
+        <p xml:id="p-2">Bo nie opłaci się wozić</p>
+        <p xml:id="p-3">Anna i Krzysztof Andrzejczakowie z Budzynka w gm. Dalików, podobnie jak inni mieszkańcy krótko cieszyli się połączeniami autobusowymi z Łodzią i Poddębicami. PKS zostawił tylko po jednym kursie, a prywatny kilka dni temu całkowicie przestał jeździć przez ich wieś.</p>
+        <p xml:id="p-4">– We wtorek musiałem rzucić pracę, po to tylko, by ojca zawieźć na pobranie krwi do ośrodka zdrowia w Dalikowie – denerwuje się Krzysztof Andrzejczak, który na szczęście ma samochód. – Jedyny autobus w tamtym kierunku jest o godzinie jedenastej. Laboratorium o tej porze jest już nieczynne.</p>
+        <p xml:id="p-5">Żona Andrzejczaka dodaje, że problem ze zbiorową komunikacją jest nie tylko między Dalikowem i Łodzią, ale też z Poddębicami.</p>
+        <p xml:id="p-6">– Jedyny autobus do Poddębic mamy o dziewiątej, a powrotny jest już o jedenastej – wylicza Anna Andrzejczak. – Żeby cokolwiek załatwić w tak krótkim czasie trzeba się mocno uwijać. Z dojazdem do Łodzi jest jeszcze gorzej, bo nie ma powrotnego autobusu. Do domu wypadałoby jechać taksówką albo z Kucin iść pieszo.</p>
+        <p xml:id="p-7">Dlaczego mieszkańcy gmin Wartkowice i Dalików zostali odcięci od świata? Prywatny przewoźnik z Uniejowa, który zgodził się jeździć na nierentownych trasach przez północne tereny tych gmin, wytrzymał zaledwie miesiąc. Do sześciu kursów z Poddębic do Kucin i z powrotem Andrzej Gawroński dokładał codziennie nawet do 300 zł. Szybko więc zrezygnował. Na szczęście dla młodzieży szkolnej akurat rozpoczęły się wakacje. Zostały 2 miesiące, aby rozwiązać problem. Starsi, którzy muszą dojechać do lekarza, czasu nie mają.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

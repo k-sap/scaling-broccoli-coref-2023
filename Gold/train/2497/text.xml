@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Odpowiedzialny za górnictwo wiceminister gospodarki, pracy i polityki społecznej Marek Kossowski ujawnił skład zarządu Kompanii Węglowej — górniczego megakoncernu. Szefem — jak już wczoraj informowaliśmy — będzie Jarosław Klima, człowiek spoza górnictwa, do tej pory dyrektor w Górnośląskim Banku Gospodarczym. W skład firmy wchodzą 24 kopalnie węgla kamiennego, które do końca grudnia wchodziły w skład Spółek Węglowych: Bytomskiej, Gliwickiej, Nadwiślańskiej, Rudzkiej i Rybnickiej. Będzie to jedna z największych firm w Polsce. Zatrudniać ma około 85 tysięcy ludzi, a przychody ze sprzedaży węgla szacowane są na 7 miliardów złotych rocznie. Oprócz Klimy w skład zarządu KW weszła m.in. Henryka Pieronkiewicz, znana z działalności w Banku Przemysłowo–Handlowym i PKO BP. Górników najbardziej dręczy jednak pytanie: czy zarząd będzie chciał zrealizować wcześniejsze zapowiedzi rządu o konieczności zamknięcia kilku czynnych kopalń?</p>
+        <p xml:id="p-2">Andrzej Paweł Musioł, dyrektor biura zarządu Związku Pracodawców Górnictwa: — W zarządzie Kompanii Węglowej znaleźli się wysoko cenieni w środowisku specjaliści od finansów oraz ludzie od lat związani z górnictwem. Każdy z nich to zawodowiec, rzemieślnik, który wie jak dobrze wykonać postawione przed nim zadanie. Istotą powodzenia założonych celów jest uporządkowanie spraw finansowych. Nie ma żadnych wątpliwości co do tego, że finanse górnictwa muszą być uzdrowione. Teraz jednak najważniejszym zadaniem zarządu Kompanii Węglowej jest przedstawienie programu kierowania firmą. Nie wiem, czy będzie to oznaczało zamykanie kopalń. Zdanie związków zawodowych na temat sposobów rozwiązania trudnych problemów jest najczęściej różne od tego, jakie prezentują pracodawcy. Nie zwalnia to jednak tych ostatnich od obowiązku zapewnienia firmie możliwości funkcjonowania na rynku.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

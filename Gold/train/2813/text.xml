@@ -1,0 +1,14 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Jakie rośliny i jak je rozpoznać?</p>
+        <p xml:id="p-2">Powinniśmy zbierać okazy roślin nam potrzebnych, tj. takich które są związane z tematem. Nie mogą to być gatunki chronione, chyba że są to hodowle, dajmy na to konwalii majowej (Convallaria majalis), z naszego ogrodu. Obecność przedstawicieli flory objętych ochroną gatunkową (już nie daj Boże poprawnie oznaczonych!) w zielniku zwykle dyskwalifikuje tę kartę (zielnik podczas oceny jest uboższy o jedną pozycję) lub w ogóle całość pracy (finiszując z oceną niedostateczną, mimo ogromu pracy). Dlatego niezmiernie ważne jest poprawne rozpoznanie i sprawdzenie w rozporządzeniu, czy ten gatunek nie jest chroniony (najlepiej na stronie http://www.mos.gov.pl/).</p>
+        <p xml:id="p-3">Rozpoznanie właściwie ma dwa etapy. Pierwszy to wstępne określenie gatunku w terenie na podstawie ilustrowanego przewodnika. Pozwala to uniknąć zbierania gatunków rzadkich, czy chronionych. Czasem bywa tak, że nie uda nam się poprawnie rozpoznać rośliny objętej ochroną i nieświadomi zbierzemy taki okaz. W takim wypadku nie da się jej posadzić na nowo - stało się... (rośliny tej nie zamieszczamy w zielniku). Zrozumiałym jest, że zdarzyć się mogą "błędy w sztuce" - nikt nie rozpoznaje każdej rośliny bezbłędnie, niemniej autor powinien dołożyć wszelkich starań, aby chronić rodzimą florę. Pragnę podkreślić: autor zielnika nie może najpierw zbierać, potem myśleć. Takie działanie jest nieodwracalne i szkodliwe dla przyrody.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

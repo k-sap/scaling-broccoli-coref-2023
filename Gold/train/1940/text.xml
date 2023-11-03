@@ -1,0 +1,16 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">WicemarszalekDonaldTusk: I informuję zarazem, że lista mówców została niniejszym wyczerpana.</p>
+        <p xml:id="p-2">SenatorMarianJurczyk: Panie Marszałku! Wysoki Senacie!</p>
+        <p xml:id="p-3">SenatorMarianJurczyk: Ja nie byłem i nie jestem przygotowany do zabierania głosu. W czasie tej debaty bardzo, uważam, poważnej, w której każdy z państwa, myślę że i z lewa i z prawa, jest zainteresowany przyszłością Polski, co mnie cieszy, nie padł jednak jeden ważny argument. Chyba że w czasie, kiedy nie było mnie na sali, choć jak państwo wiedzą, jak do tej pory, jestem dosyć zdyscyplinowany. Wyszedłem tylko na trochę, żeby coś zjeść, i być może, że w tym czasie była o tym mowa.</p>
+        <p xml:id="p-4">SenatorMarianJurczyk: A więc mnie, proszę państwa, chodzi o taką rzecz. Nie będę się ustosunkowywał ani do terminu, ani do wydatków, bo dla mnie są to sprawy mniej istotne, drugorzędne. Dla mnie, Drodzy Państwo, najważniejsza jest obrona interesu narodowego. A co chcę przez to powiedzieć?</p>
+        <p xml:id="p-5">SenatorMarianJurczyk: Otóż ja chcę powiedzieć, że jeżeli wszystko będziemy robić za jednym zamachem - tak to zrozumiałem: wybory do wszystkich trzech szczebli, razem z dwunastu dużymi regionami - to tutaj jest zagrożenie. Są to mocne słowa. Ja nie mówię, że tak będzie, mówię, że tak może być. Chodzi mi, proszę państwa, dokładnie o to, o czym tu, z tej senackiej trybuny, już mówiłem w czasie debaty nad integracją z Unią Europejską, że cały pas ziem północno-zachodnich, to jest 114 tysięcy km 2, począwszy od Wrocławia, przez Legnicę, Gorzów, po Szczecin i jeszcze bliżej po Gdańsk, jest w tej chwili, dosyć poważnie zagrożony.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

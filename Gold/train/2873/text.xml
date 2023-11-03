@@ -1,0 +1,14 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Zabrałem z sobą do Hiszpanii obrazy przygniatającego wszystko upału, czego nie zabrałem - to ciepłych rzeczy. Mam dwie pary spodni, by mieć na zmianę, gdy jedne zmokną, podkoszulek z rodzaju tych, co odprowadzają wilgoć. Kupiłem go przed piętnastu laty za straszliwą naonczas sumę 70 marek i mam na wszystkich wędrówkach, wyjazdach na narty, wyprawach rowerowych. Trochę poszarzał, ale wytrzymał wszystko, nawet najgorsze - tarcie rzemieni plecaka. Szkoda, że nie wypada podać firmy, bo zasługuje na pochwałę. Do tego mam lekką koszulkę z krótkimi rękawami i - jako jedyną ciepłą rzecz - koszulę z cienkiego polaru, której używam także w domu, gdy na tarasie ciepły letni wieczór jest mniej ciepły niż zwykle.</p>
+        <p xml:id="p-2">Teraz mam to wszystko na sobie, ale wiatr i tak daje sobie z tym radę. Próbuję założyć poncho, ale wiatr chce je od razu potargać na strzępy. Ściągam furkoczący plastik, zwijam go i wkładam pod koszulę. Tak, to jest to. Od razu cieplej. Tylko wrodzona skromność powstrzymuje mnie od powiedzenia, że pomysł był genialny. Nawet bym tak powiedział, gdyby nie to, że już wcześniej dowiodłem, żem idiota, by się wybrać w podróż bez przynajmniej lekkiej nieprzewiewnej kurtki.</p>
+        <p xml:id="p-3">Z antywiatrową tarczą pod koszulą idzie się znacznie lepiej, pogoda sprzyja wydłużaniu kroku, czemu z kolei przeszkadza glina, która lepi się do podeszew. Zachodnia Hiszpania musi być chyba wyższa od wschodniej - zastanawia się głośno Kiwi. A czemu? - pytam. Od tysiąca lat idą ludzie, tak jak my, tą drogą. I co niosą? Wskazuje na buty z przylepioną do nich bryłą gliny - to. I zawsze ze wschodu na zachód. Pomyśl, ile się tego musiało nazbierać.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

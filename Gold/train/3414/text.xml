@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Zetknąłem się w USA z anonsem w prasie: "Wróżenie z gwarancją". Gdy opowiadałem o tym w Polsce, uzdrawiacze się śmiali. Tymczasem ogłoszenia "dyplomowana wróżka" lub "bioenergoterapeuta z certyfikatem" są tej samej natury.</p>
+        <p xml:id="p-2">Piotr Szałek, psycholog i psychoterapeuta, Katedra Filozofii Uniwersytetu Łódzkiego</p>
+        <p xml:id="p-3">Raport poruszył bardzo ważny problem. Chciałoby się rzec: nareszcie! Nie wystarczy narzekać na hochsztaplerów uzdrawiających pod takim czy innym szyldem - trzeba ten problem po prostu sensownie rozwiązać. Dziś każdy, kto tylko poczuje wolę bożą, może zajmować się leczeniem bez żadnej kontroli i odpowiedzialności; wystarczy zarejestrować działalność gospodarczą. W 1997 r. minister zdrowia prof. Jacek Żochowski powołał Radę ds. Niekonwencjonalnych Metod Terapii. Biorąc pod uwagę złożoność problematyki i jej interdyscyplinarność jest rzeczą oczywistą, że właściwe przygotowanie regulacji prawnych powinno być dokonane przez zespół przedstawicieli nauki i praktyki. Teza ta została jednomyślnie zaakceptowana na posiedzeniu kolegium Ministerstwa Zdrowia 11 sierpnia 1997 r. Zarządzeniem ministra Rada liczyła 12 osób, miałem zaszczyt jej przewodniczyć. Pierwszym i najpilniejszym zadaniem było przedstawienie projektu regulacji ustawowych dotyczących zasad, warunków i trybu prowadzenia działalności w zakresie niekonwencjonalnych metod terapii. Regulacja prawna miała na celu eliminowanie skutków błędów, zaniechań lub niekompetentnie prowadzonych zabiegów. Jednak po roku naszej działalności kolejny minister zdrowia doc. Wojciech Maksymowicz Radę rozwiązał bez podania przyczyn. (...)</p>
+        <p xml:id="p-4">Problemy związane z aktywnością wielu osób w zakresie niekonwencjonalnych metod terapii budzą głęboki niepokój i zaczynają się wymykać spod jakiejkolwiek kontroli merytorycznej. Trudno się zgodzić, że decydentami w tych sprawach są izby rzemieślnicze. Istnieje potrzeba podjęcia badań naukowych tego masowego zjawiska zarówno z punktu widzenia medycznego jak też socjologicznego i psychologicznego. (...)</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

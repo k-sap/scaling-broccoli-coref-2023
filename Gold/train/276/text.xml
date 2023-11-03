@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Nielękowski płatnym był względnie dobrze, jednak skąpił sobie we wszystkim.</p>
+        <p xml:id="p-2">Władysław miał go za sknerę.</p>
+        <p xml:id="p-3">Nadeszła wiosna. Ruch ranny w aptece się zwiększył ze względu na napływ kuracjuszów, którzy codziennie zaopatrywali się w wody mineralne. Targi z rana bywały dosyć duże. Władysław musiał podwójną uwagę zwrócić na dział wód, żeby przypadkiem której nie zbrakło.</p>
+        <p xml:id="p-4">Któregoś wieczoru Turkowski, będąc w piwnicy, zauważył, iż wody Kissingen zostało się tylko dwie butelki, zanotował więc sobie, aby dnia następnego wypisać ją od Heinricha z głównego składu. Następnego dnia, gdy wstał, ktoś przyszedł po Kissingen. Władysław pobiegł do piwnicy... wody już nie było. Zajrzał do książki, wody były nie sprzedane, więc zagadnął Nielękowskiego; ten mu oświadczył stanowczo, że wody Kissingen nie wydawał. Turkowski posłał służącego do sąsiedniej apteki... i tak się sprawa załagodziła. Władysław atoli zwrócił na fakt ten uwagę i podwoił baczność, a to głównie dla uniknięcia reprymendy; pryncypałowie nie darowaliby mu takiej nieuwagi. Jakież jednak było jego zdziwienie, gdy w kilka dni taż sama historia powtórzyła się z Hunyadą... Gdyby była adnotacja w książce odręcznej sprzedaży, niewiele by go to interesowało - wypadło niespodziewane jakieś zapotrzebowanie, i koniec - podczas gdy fakt niesprzedawania świadczył jednocześnie o nieuwadze Władysława. Tymczasem on gotów był przysiąc, że wieczorem były jeszcze trzy butelki. Wszystkie powyższe okoliczności obudziły w puerze podejrzenie, że wody ktoś wynosi. Postanowił więc wykryć winowajcę. W parę dni potem zauważył, iż Nielękowski nie notuje sprzedawanych wód, a... mimo to, kiedy czasem przyjdzie ochota któremu z pryncypałów sprawdzić kasę, ta zawsze zgadza się z książkami. To jeszcze bardziej zastanowiło Władysława. Nie zdawał sobie sprawy jeszcze, kto tu operuje. Czuł w powietrzu nadużycie i zaczął baczną na wszystko zwracać uwagę. Regularnie sprawdzał rano i wieczorem zapasy w piwnicy.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

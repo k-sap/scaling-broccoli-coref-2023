@@ -1,0 +1,20 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Poznań jest właścicielem 21 734 mieszkań komunalnych. Prawie jedna piąta najemców - 4 409 - zalega z opłatami. Najwięcej jest wśród nich osób, które zalęgają za czynsze i opłaty ponad sześć miesięcy - 1783. Liczba osób, które mają problemy z płaceniem czynszu, wzrasta z roku na rok i spowodowana jest wzrostem kosztów utrzymania mieszkań i pogarszającą się sytuacją materialną i życiową lokatorów.</p>
+        <p xml:id="p-2">Projekt osłonowy</p>
+        <p xml:id="p-3">ZKZL przygotował projekt uchwały w sprawie zawieszenia płatności czynszu i odraczania płatności należności związanych z zajmowaniem lokali mieszkalnych w komunalnych lokalach mieszkalnych. Działania te mają charakter osłonowy w stosunku do osób w trudnej sytuacji rodzinnej i życiowej. Projekt uchwały ma też zdyscyplinować dłużników do zapłaty czynszów i świadczeń za zajmowanie lokalu w okresie korzystania z ulgi polegającej na odroczeniu płatności.</p>
+        <p xml:id="p-4">Projekt zakłada trzy warianty abolicji czynszowej.</p>
+        <p xml:id="p-5">Wariant pierwszy - zamiana i spłata</p>
+        <p xml:id="p-6">Najemcy zostanie zawieszony na okres do sześciu miesięcy czynsz, ale w kwocie nie większej niż 90 proc. jego aktualnej wysokości - pod warunkiem jednak wyrażenia zgody na zamianę mieszkania na lokal wymagający niższych kosztów utrzymania. Natomiast w przypadku zaległości - wyrażenia zgody na jednorazową spłatę wszystkich zaległości.</p>
+        <p xml:id="p-7">W ubiegłym roku miastu udało się zrealizować 222 zamiany mieszkań - w pierwszym półroczu 2001 - 124. Udało się też wyegzekwować zadłużenie czynszowe na sumę 442 749 zł (spłacone przez najemców w dniu odbioru umów najmu na nowy lokal).</p>
+        <p xml:id="p-8">Wariant drugi - odroczenie</p>
+        <p xml:id="p-9">Najemcy odroczony zostanie termin płatności 50 proc. należności głównej oraz odsetek związanych z zajmowaniem lokalu - wymaganych na 30.9.2001 (obejmujący czynsze, odszkodowanie za zajmowanie lokalu bez tytułu prawnego oraz inne opłaty). Warunkiem jest jednorazowa spłata połowy należności.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

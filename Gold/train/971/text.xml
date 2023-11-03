@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Struktura autoramentu cudzoziemskiego</p>
+        <p xml:id="p-2">Przy zaciąganiu wojsk autoramentu cudzoziemskiego posługiwano się – w przeciwieństwie do systemu narodowego – systemem wolnego bębna. Polegał on na tym, że nie przyjmowano do służby towarzyszy, którzy dopiero niejako „podnajmowali” szeregowych żołnierzy, tylko „zatrudniano” bezpośrednio wszystkich żołnierzy. Zaciąg ten był ukształtowany na wzór zachodni, stąd podstawową jednostką taktyczno-organizacyjną był regiment którym dowodził oberszter – pułkownik. Regiment liczył około 1000 ludzi i składał się z kompanii lub szwadronów (skwadronów) w piechocie, albo chorągwi lub kornetów w jeździe. Pododdziały te były dowodzone przez kapitanów (w piechocie) bądź rotmistrzów (w jeździe). W skład korpusu oficerskiego oddziałów cudzoziemskich wchodził także zastępca dowódcy – obersztelejtnant, lejtnanci poszczególnych pododdziałów, kwatermistrzowie (zwykle całego regimentu w randze majora, oraz poszczególnych kompanii) i inni członkowie sztabu regimentu. Wojska zaciągu cudzoziemskiego posiadały, w przeciwieństwie do wojsk narodowych , umundurowanie; były też znacznie bardziej karne i lepiej wyszkolone od wojsk narodowych. Komendy, aż do reform Jana III, były wydawane w języku niemieckim. Żołd wojskom autoramentu cudzoziemskiego wypłacano rocznie systemem ślepych porcji co, zwłaszcza w późniejszym okresie, umożliwiało nieuczciwym dowódcom łupienie podległych mu żołnierzy . Proceder ten jednak, jak się wydaje, nie miał charakteru powszechnego. Tak więc wojsko cudzoziemskiego autoramentu już u schyłku XVII wieku górowało organizacją nad wojskami narodowymi miało bowiem zaawansowaną strukturę taktyczną i organizacyjną, oraz nie doświadczało wad systemu towarzyskiego. Nic więc dziwnego, że Jan III, który zasłynął zbłyskotliwego stosowania husarii, postawił przede wszystkim na rozwój dragonii i piechoty niemieckiej .</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

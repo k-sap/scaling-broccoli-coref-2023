@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Badlik yes! yes! yes! cytując pewnego bardzo znanego polityka Bardzo się ciesze, że w końcu PZPN poszedł po rozum do głowy i zatrudnił takiego trenera. Jedyne co mnie martwi to straszna wrogoś jaką okazują polscy trenerzy wobec Benhakkera. Po prostu mną trzęsie jak słysze pana Bońka, Tomaszewskiego czy Majewskiego, którzy mówią, że to zła decyzja. Boniek to w ogóle nie powinien się zbliżać do tematu reperezentacji po tym jak przegrał nam ostatnie el. ME. Tomaszewski to umie tylko na wszystkich wyzywać, a sam nie umie nic zdziałać. Majewski też nic wielkiego dla polskiej myśli szkoleniowej nie zrobił. Z tym wszystkim najlepiej zachował się Janas, który zaoferował nowemu selekcjonerowi pomoc w zakresie wizerunku zawodników reprezentacji Polski. Trochę mnie martwi też to, że Benhakker trafił na trudne el. ME ponieważ po słabym wyniku reprezentacji (co nie będzie jeszcze jego winą) może wylecieć. Nie spodziewam się żeby te eliminacje nam dobrze poszły z powodu silnej grupy i tego, że Benhakker w ciągu miesiąca nie zrobi przecież mocnej drużyny, a punkty z pierwszych meczów z Finlandią i Serbią będą bardzo ważne w ostatnim rozrachunku tabeli. Mam nadzieje, że nawet jeśli nie awansujemy do ME (co jest zresztą tradycją) to Benhakker poprowadzi kadre w meczach el. do MŚ 2010 i do tamtej pory zbuduje silną drużynę reprezentacyjną.</p>
+        <p xml:id="p-2">kizia_mizia Nie znam go, ale licze na to, że coś w końcu zrobi :}</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

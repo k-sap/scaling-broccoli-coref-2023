@@ -1,0 +1,27 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Związany z kim? Z Deutsche Bankiem pan jest związany poufnymi umowami?</p>
+        <p xml:id="p-2">Proszę wybaczyć, ale na tematy finansowo-biznesowe nie będę się w tej chwili wypowiadał.</p>
+        <p xml:id="p-3">A czy w ogóle takie zachowanie na walnym zgromadzeniu planuje się dużo wcześniej?</p>
+        <p xml:id="p-4">Zachowanie na walnym zgromadzeniu było podyktowane sytuacją na tym walnym zgromadzeniu, wnioskami, jakie padały, trudnością z uzgodnieniem stanowiska przez PZU SA, czy ze skonsultowaniem tego stanowiska. W takiej sytuacji najlepiej wstrzymać się od głosu.</p>
+        <p xml:id="p-5">Pan się spontanicznie na tym walnym zgromadzeniu zachowywał?</p>
+        <p xml:id="p-6">Panie redaktorze, trudno o tym mówić. Na walnym zgromadzeniu większość osób w sprawach głosowań, których nie ma w porządku obrad, zachowuje się spontanicznie. Jest nowa sytuacja, nowy wniosek zostaje poddany pod głosowanie, więc trzeba się zachować spontanicznie. Analizując wszystkie okoliczności w danym momencie, podejmuje się decyzję.</p>
+        <p xml:id="p-7">Jakie okoliczności przeważyły, że pan podjął taką decyzję?</p>
+        <p xml:id="p-8">Panie redaktorze, główne okoliczności, które przeważyły, to moja ocena działań pana prezesa Kotta.</p>
+        <p xml:id="p-9">Jaka jest?</p>
+        <p xml:id="p-10">Moja ocena pana prezesa Kotta była oceną negatywną. Pan prezes Kott w stosunku do PZU podejmował działania, które " w mojej ocenie " mogły skutkować niekorzystnie dla PZU.</p>
+        <p xml:id="p-11">Jakie działania?</p>
+        <p xml:id="p-12">Składał między innymi pewne oferty, które nie zostały przyjęte.</p>
+        <p xml:id="p-13">Jakie oferty?</p>
+        <p xml:id="p-14">Oferty handlowe, biznesowe.</p>
+        <p xml:id="p-15">Jakie to były oferty?</p>
+        <p xml:id="p-16">Oferty zaangażowania finansowego PZU SA w pewne spółki zależne od BIG Banku.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

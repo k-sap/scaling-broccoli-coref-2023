@@ -1,0 +1,22 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Pan profesor był znany i ceniony również w międzynarodowym środowisku naukowym.</p>
+        <p xml:id="p-2">Charakter prowadzonych przez niego badań wymagał umiejętności tworzenia międzynarodowych zespołów badawczych, co szczególnie przed 1989 rokiem było trudnym zadaniem.</p>
+        <p xml:id="p-3">Pomimo tych przeciwności, dzięki wytrwałości profesora, Uniwersytet Śląski był jednym z wiodących ośrodków akademickich, prowadzących długoletnie projekty badań niemcoznawczych.</p>
+        <p xml:id="p-4">On sam zaś wielokrotnie wygłaszał cykle wykładów za granicą, chociażby jako Gastprofessor w Johann Wolfgang Goethe Universität we Frankfurcie nad Menem.</p>
+        <p xml:id="p-5">Jestem uczniem pana profesora, któremu poświęcił kilkanaście lat życia.</p>
+        <p xml:id="p-6">Miałem zaszczyt być jego magistrantem, później asystentem i uczestniczyć w seminarium doktorskim. Jako promotor mojej rozprawy doktorskiej, pan profesor miał olbrzymi wpływ na mój rozwój naukowy i miejsce, w którym obecnie jestem, również wówczas, kiedy przyjmował mnie do pracy w swoim instytucie.</p>
+        <p xml:id="p-7">I choć pozwalam sobie mieć poczucie wyjątkowości mojej relacji z panem profesorem, to słowa te piszę w imieniu tysięcy osób, na których losy wpłynął swoją działalnością naukową i dydaktyczną. Dziękujemy, Mistrzu!</p>
+        <p xml:id="p-8">Waldemar Wojtasik</p>
+        <p xml:id="p-9">Prezes Zarządu Polskiego Towarzystwa Nauk Politycznych, oddział w Katowicach</p>
+        <p xml:id="p-10">W przyszłą niedzielę, 13 września 2009 roku, o godz. 18.00 w archikatedrze Chrystusa Króla w Katowicach odprawiona zostanie msza święta w intencji pamięci Pana Profesora.</p>
+        <p xml:id="p-11">Piotr Dobrowolski (urodzony 26 kwietnia 1938 roku, zmarły 6 sierpnia 2005 roku), profesor zwyczajny dr hab. nauk politycznych, nauczyciel akademicki Wydziału Nauk Społecznych Uniwersytetu Śląskiego w Katowicach i prodziekan tego wydziału, był także członkiem Polskiej Akademii Nauk i zespołu ekspertów przy Ministerstwie Edukacji Narodowej. W jego dorobku znajdowały się publikacje i opracowania z dziedziny stosunków polsko-niemieckich, historii Górnego Śląska, w tym pionierskie opracowania zagadnień śląskiego separatyzmu.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

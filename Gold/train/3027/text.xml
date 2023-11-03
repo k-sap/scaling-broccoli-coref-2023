@@ -1,0 +1,17 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">10.XII, Warszawa g.10.35</p>
+        <p xml:id="p-2">– O, udało się panu, generale – powiedział premier, nie odwracając się od okna. Wyglądał przez nie, delikatnie unosząc firankę, jak rasowy podglądacz. – Czy mógłby mi pan wyjaśnić, czemu trzy czwarte wszystkich reporterów – gorsze trzy czwarte i bardziej krwiożercze – zebrało się przed budynkiem? A zanim mi pan powie tę straszną wieść, proszę mnie łaskawie oświecić, kto tym razem będzie kłamał przed kamerami? – premier, łysawy pan po czterdziestce, odwrócił się od okna, mierząc zastępcę naczelnika sił zbrojnych zmęczonym wzrokiem.</p>
+        <p xml:id="p-3">Generał Odeski milczał, uznając pytanie za retoryczne.</p>
+        <p xml:id="p-4">– Niech więc mi pan szeptem i na ucho – zażartował premier – wszystko opowie.</p>
+        <p xml:id="p-5">10.XII, Warszawa g. 12.32</p>
+        <p xml:id="p-6">– Ta konferencja prasowa ma charakter zamknięty – powiedział premier do zgromadzonych dziennikarzy. – Jak państwo wiecie, żyjemy w kraju, który szanuje prawo i dba o sprawiedliwość. Są jednak przypadki, gdy nie możemy respektować wszystkich praw, którymi szczycą się zachodnie – w tym nasza Ø – demokracje. Pragnę państwa uprzedzić zupełnie otwarcie, że każdy, kto opublikuje choćby słowo na ten temat, zostanie oskarżony o zdradę państwa i powędruje na 25 lat w miejsce, gdzie będzie mógł przemyśleć swoje zachowanie. Bez prawa ubiegania się o wcześniejsze zwolnienie. Ponieważ wszystkim państwu zabraliśmy jakikolwiek sprzęt nagrywający, nie wątpię, że rozumieją państwo powagę sytuacji. Nikt nigdy nie piśnie o tym ani słówka, jeśli nie chce, by na długie lata jego jedynym audytorium pozostały cztery pancerne ściany. Czy moja skomplikowana przemowa trafiła do wszystkich, czy powtórzyć to jeszcze raz, powoli i z użyciem prostszych słów?</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

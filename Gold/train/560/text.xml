@@ -1,0 +1,14 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Wykrycie nowego gatunku</p>
+        <p xml:id="p-2">Okoliczności wykrycia nowego gatunku są interesujące, gdyż dotyczyły one stanowisk w trzech krajach - Holandii, Wielkiej Brytanii i Irlandii. W roku 2000 w pobliżu miejscowości Zeijerveld (Holandia) stwierdzono silne porażenie korzeni roślin ziemniaka przez nowy, nieopisany dotychczas gatunek guzaka, morfologicznie podobny do guzaka amerykańskiego i guzaka holenderskiego. Przez 10 lat poprzedzających znalezienie nowego gatunku guzaka, na zasiedlonym przez niego gruncie znajdowało się pastwisko. W próbach gleby pobranych z porażonego pola stwierdzono występowanie zarówno larw nieznanego gatunku guzaka, jak i Meloidogyne naasi Franklin - pasożyta traw i zbóż. Ten sam nieznany gatunek nicienia dał znać o sobie ponownie w latach 2001 i 2002. Tym razem został on stwierdzony na polach golfowych na terytorium Anglii, Walii i Irlandii, gdzie łącznie z M. naasi wywoływał objawy placowatego żółknięcia trawy z gatunku mietlica rozłogowa Agrostis stolonifera var. stolonifera L. Dalsze badania potwierdziły identyczność gatunkową guzaków z terenu Holandii i Wysp Brytyjskich.</p>
+        <p xml:id="p-3">W trakcie szczegółowych badań stwierdzono bliskie pokrewieństwo między nowo odkrytym gatunkiem a guzakiem amerykańskim i holenderskim, zarówno pod względem morfologicznym, jak i biochemicznym. Cechy morfologiczne pozwalające na odróżnienie M. minor od wspomnianych gatunków są trudne do zauważenia przez osobę nie będącą specjalistą. Mimo powyższego, jednoznaczne i pewne wyodrębnienie nowego, oddzielnego gatunku guzaka było możliwe. Początkowo nicieniowi temu nadano nazwę Meloidogyne X. Ostatecznie został on opisany pod nazwą gatunkową Meloidogyne minor Karssen et al., ponieważ jego stadia rozwojowe generalnie mają mniejsze rozmiary niż u innych opisanych dotychczas gatunków guzaków.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

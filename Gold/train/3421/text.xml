@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Mikołaj Dzierzgowski, herbu Jastrzębiec, urodził sie ok. roku 1490 - jak wyczytać można w „Poczcie prymasów Polski”(Instytut Prasy i Wydawnictw „Novum”, Warszawa 1988), podającym zwięzła notę biograficzną duchownego. Szerzej nieco pisze o nim Marceli Kosman w swoim dziele o identycznym tytule (wydanym w 1997 roku), z nazwiskiem Dzierzgowskiego spotkać się można w licznych opracowaniach historycznych, obrazujących czasy panowania Zygmunta I Starego i Zygmunta Augusta, była to wszak postać znacząca.</p>
+        <p xml:id="p-2">Mikołaj i Jan byli synami Pomścibora Dzierzgowskiego, kasztelana ciechanowskiego. Mieli jeszcze dwie siostry. Mikołaj wybrał stan duchowny, został kanonikiem warszawskim. W wieku 24 lat wybrał się - wraz z bratem - do Akademii Krakowskiej, po czterech latach studiów znalazł się w gronie współpracowników ówczesnego prymasa Jana Łaskiego - wielkiego patrioty, wybitnego polityka, współpracownika królowej Bony, obrońcy polskich interesów (za co go potem oczerniono i próbowano nawet odwołać z funkcji). Trafił Mikołaj do kancelarii królewskiej, pracował jako skromny sekretarz i notariusz przez blisko 20 lat - dawał się jednak poznać z dobrej strony. Był zaufanym arcybiskupa Piotra Gamrata i biskupa płockiego Andrzeja Krzyckiego. Po powrocie z Włoch dzięki prymasowi Gamratowi i królowej Bonie został biskupem w Kamieńcu Podolskim, a kilka miesięcy potem biskupem w Chełmie. Na sejmie w Piotrkowie w 1542 roku zasiadał już wśród senatorów. Jeszcze w tym samym roku awansował po raz kolejny - tym razem na biskupstwo kujawskie we Włocławku. W roku 1546 umiera arcybiskup Piotr Gamrat, bliski współpracownik królowej, reprezentant stronnictwa narodowego, przeciwnego austriackim Habsburgom, którzy ciągle marzyli o wciągnięciu Polski w strefę swoich wpływów. Któż, jak nie biskup Dzierzgowski, bliski współpracownik zmarłego, mógł objąć po nim gnieźnieńską archidiecezję?</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

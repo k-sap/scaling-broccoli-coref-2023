@@ -1,0 +1,18 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Straż pożarna przeprowadziła w minionym roku ponad sto kontroli tzw. suchych pionów w łódzkich wieżowcach, którymi biegną rury, umożliwiające w razie pożaru doprowadzenie wody pod ciśnieniem na wyższe kondygnacje. Wyniki kontroli strażaków są zatrważające - ledwie w kilku budynkach instalacja była kompletna lub uszkodzona w niewielkim stopniu. Pozostałe piony nie nadawały się do użytku.</p>
+        <p xml:id="p-2">W blokach należących do Spółdzielni Mieszkaniowej Retkinia-Południe suche piony istnieją, ale tylko teoretycznie.</p>
+        <p xml:id="p-3">- Wszystkie zostały tak zaprojektowane i wbudowane, że nie można z nich korzystać - usłyszeliśmy w spółdzielni. - Zgłaszaliśmy to strażakom, ale próba udrożnienia Ø skończyła się zalaniem całego budynku. Rada jest jedna - zburzyć bloki i postawić raz jeszcze.</p>
+        <p xml:id="p-4">Władze Spółdzielni Radogoszcz-Zachód mają inny problem: rury znikają szybciej niż zostają uzupełniane. To bowiem łatwy do zdobycia kąsek dla złodziei złomu.</p>
+        <p xml:id="p-5">Kłopot ze złodziejami mają zresztą prezesi wszystkich spółdzielni. Żadne zabezpieczenia nie są w stanie powstrzymać rabusiów.</p>
+        <p xml:id="p-6">- W Łodzi nie doszło jeszcze do tragedii, ale sytuacja jest bardzo niebezpieczna - mówi Piotr Jóźwiak, rzecznik prasowy Miejskiej Komendy PSP. - Jeśli zdarzy się pożar na siódmym czy dziewiątym piętrze, strażacy mogą nie zdążyć uratować ludzi. Ratownicy będą musieli biec po schodach z wężami, w zadymieniu. Po drodze będą musieli łączyć odcinki węży, by doprowadzić wodę. Stracą przez to cenne minuty. Do tego ciężar wody spowoduje spadek ciśnienia z każdą kondygnacją.</p>
+        <p xml:id="p-7">Straż może tylko wydać decyzję administracyjną, czyli polecić spółdzielni uzupełnienie braków czy naprawienie wad instalacji.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

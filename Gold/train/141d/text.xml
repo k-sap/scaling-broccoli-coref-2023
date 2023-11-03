@@ -1,0 +1,12 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">W obronie o. Rydzyka, pomówionego przez media o posiadanie bardzo luksusowego samochodu, wystąpiła poseł Gertruda Szumska wraz z członkami Domu Ojczystego, zapewniając w liście otwartym: "Nie pozwolimy na niszczenie naszego Radia i Telewizji przez wrogów Boga, Kościoła i Polski. Będziemy podejmować wszelkie dozwolone prawem działania w obronie Ojca Tadeusza i dzieł przez niego z Bożą pomocą stworzonych. Jesteśmy pewni, że prawda zawsze zwycięży!".</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

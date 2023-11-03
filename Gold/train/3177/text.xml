@@ -1,0 +1,25 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">sp1: że czym</p>
+        <p xml:id="p-2">sp3: że byłam sadystką jak się do niego nie odzywałam</p>
+        <p xml:id="p-3">sp1: powiedz mu żeby se pooglądał czternaście następnych odcinków konia. jak to było</p>
+        <p xml:id="p-4">sp3: konia Rafała</p>
+        <p xml:id="p-5">sp1: konia Rafała. ej koleś które którego coś takiego śmieszy albo</p>
+        <p xml:id="p-6">sp3: ale moich kolegów na roku tez to śmieszy tylko że oprócz tego są jeszcze normalni</p>
+        <p xml:id="p-7">sp1: no to dla mnie naprawdę. to jest taki szczyt beznadziejności. że nie wiem co jeszcze bardziej. bardziej beznadziejny jest jeszcze Gracjan roztocki. zapytaj się go bo może Gracjan. może on jest fanem fanem Gracjana. może to do ciebie przemówi jakoś tak. jasno</p>
+        <p xml:id="p-8">sp1: że coś z tym kolesiem jest nie tak.. czyli teraz po tym poniedziałku kiedy on nie przyszedł do ciebie przytulić cię przed egzaminem to się nie odzywacie</p>
+        <p xml:id="p-9">sp3: odzywamy znaczy ja. on powiedział że nie może przyjąć bo ogólnie bo jedzie do domu i w ogóle. potem chyba że ktoś włączył mu komputer a on wrócił później bo widać na sieci kto jest a kto nie. a my czasem włączamy</p>
+        <p xml:id="p-10">sp1: sprawdzasz na wyświetl komputery grupy roboczej czy jest Karol</p>
+        <p xml:id="p-11">sp1: boże boże</p>
+        <p xml:id="p-12">sp3: bo chciałam sprawdzić o której wrócił i czy mnie nie oszukał</p>
+        <p xml:id="p-13">sp1: no ale wiesz i wrócił trzy godziny za wcześnie ale jednak masz dla niego wytłumaczenie to na pewno był ktoś inny</p>
+        <p xml:id="p-14">sp3: nie. no dobra. nie mam. bo może sobie pomyślał bo on ma takie podejście że. powinnam się uczyć i o niczym innym nie myśleć</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

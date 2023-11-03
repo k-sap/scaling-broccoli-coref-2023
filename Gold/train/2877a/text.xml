@@ -1,0 +1,19 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Moje niefortunne pudła przygnębiły mnie do reszty. Zawsze miałem pretensje, że jestem dobrym myśliwym, a od dzieciństwa nie rozstawałem się ze strzelbą, a tu wśród obcych zblamowałem się jak nigdy w życiu. Jakże inaczej strzelałem cietrzewie i pardwy z moich "hollandów", które pozostawiłem na wieczną zgubę w Petersburgu.</p>
+        <p xml:id="p-2">Poczciwy Staś Sierakowski pośpieszył mi z pomocą, by wyjaśnić moje niepowodzenia.</p>
+        <p xml:id="p-3">- Pokaż mi strzelbę - poprosił, a gdy podałem mu mojego mauzera, spytał ze śmiechem: - Gdzieś to świństwo wykopał?</p>
+        <p xml:id="p-4">- Ano w Gdańsku - odrzekłem zawstydzony.</p>
+        <p xml:id="p-5">- Chyba byłeś ślepy, kupując taką szkaradę. Z czego strzelałeś przed wojną?</p>
+        <p xml:id="p-6">- Miałem hollandy - odrzekłem.</p>
+        <p xml:id="p-7">- Jedyna rada - rzekł w końcu Staś po oględzinach mojej broni. - Każ sobie skrócić szyję na dobrych kilka centymetrów, albo jeszcze lepiej rzuć to świństwo do pieca, a co się nie spali - na śmietnik.</p>
+        <p xml:id="p-8">Przed obiadem wypito sporo kieliszków na moją cześć, jako "pierwszego strzelca na Litwie", a w czasie obiadu wznoszono toasty za moje zdrowie jako króla polowania z odwrotnego końca. Sława o moich niefortunnych strzałach pozostała w historii łowieckiej Waplewa.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

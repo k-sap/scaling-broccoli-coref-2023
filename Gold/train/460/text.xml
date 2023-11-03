@@ -1,0 +1,16 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Tak się dziwnie złożyło, że nasza córka kilkakrotnie zmieniała formę swojego imienia, jakby "wyrastając" z kolejnych zdrobnień. Zaraz po urodzeniu nazywaliśmy ją Cecylką. Po paru tygodniach Tadek wprowadził zupełnie nowe zdrobnienie, "Celunia". Mówiliśmy tak do niej przez parę miesięcy, aż nagle ja uznałam, że to zdrobnienie ją jakby pomniejsza, jest zbyt infantylne, zwłaszcza przy zespole Downa. Często takie dziecinne zdrobnienia wloką się za ludźmi przez całe życie i potem starszą panią nazywa się "Lalunią", "Dziunią" czy wręcz "Dzidzią".</p>
+        <p xml:id="p-2">Wróciliśmy do formy "Cecylka", aż w wieku przedszkolnym Cecylka skróciła swoje imię i kazała się nazywać "Celą". I tak już zostało. Dlatego o małej Cecylii mówię "Cecylka", a o starszej - "Cela".</p>
+        <p xml:id="p-3">CO TO JEST ZESPÓŁ DOWNA?</p>
+        <p xml:id="p-4">Zespół Downa został po raz pierwszy opisany przez angielskiego lekarza Johna Langdona Downa w 1866 roku. Zespół Downa (inaczej "trisomia 21 chromosomu") nie jest chorobą, lecz uszkodzeniem genetycznym. Przyczyną trisomii jest nieprawidłowy program genetyczny komórek rozrodczych matki lub (rzadziej) ojca. W rezultacie nowo powstałe komórki mają jeden nadprogramowy chromosom (czyli 47 zamiast 46 chromosomów).</p>
+        <p xml:id="p-5">Cechy charakterystyczne dziecka z zespołem Downa, które można zauważyć zaraz po urodzeniu, są następujące: okrągła, mała główka, okrągła, mała twarz, mały, płaski nosek, skośne i wąskie szpary oczne, fałda w kąciku oka, często otwarte usta, podniebienie wysoko wysklepione, krótka i gruba szyja, krótkie ręce, nogi i palce, w zgięciach dłoni czasem tzw. małpia bruzda, sucha skóra, ogólna wiotkość mięśni, nadmierna ruchomość stawów.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

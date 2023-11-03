@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Fabuła Ø</p>
+        <p xml:id="p-2">Film opowiada o losach pułkownika Michała Wołodyjowskiego, który po śmierci Ø narzeczonej porzucił żołnierską służbę i wstąpił do klasztoru Kamedułów. Z klasztoru wyciągnąl go przy pomocy fortelu jego wieloletni przyjaciel, Onufry Zagłoba. Niebawem Wołodyjowski zaręcza się (w tajemnicy przed innymi) z Krystyną Drohojowską, jednak, gdy dowiaduje się, że narzeczona kocha innego, pomimo początkowej złości na rywala i chęci zemsty dał jej wolną rękę i ożenił się z Basią Jeziorkowską. Po paru latach Wołodyjowski wyjeżdża z żoną na kresy wschodnie, by bronić granic Rzeczypospolitej przed najazdem Tureckim. W Chreptiowie dzieje się wiele dramatycznych wydarzeń; okazuje się, że setnik Lipkowski, rzekomy Mellechowicz, jest synem groźnego Tatara Tuhaj-beja, który wyrządził wiele szkód Polsce. Azja podstępem próbuje porywać Basię, która nie poddaje się i wraca do Chreptiowa do swojego męża. Azja Tuhaj-bejowicz od ciosu Basi traci oko. Jego Lipkowie palą wiele miast i zabijają mieszkańców. Azja bierze do niewoli m.in. Ewę Nowowiejską - siostrę Adama Nowowiejskiego, syna człowieka który go wychował i skatował za amory do córki. Azja w okrutny sposób z traktuje starego Nowowiejskiego i morduje go w bestialski sposób. Następnie razem z oddziałem Lipków przekracza granice Turcji i udaje się na służbę do Padyszacha. Adam Nowowiejski, chcąc pomścić ojca oraz mając nadzieję na odbicie z rąk Azji siostry, przy pomocy niewielkiego oddziału porywa Azję i za dokonane przez niego okrucieństwa wbija go na pal.Azja ginie w ogromnych mękach. Wołodyjowski udaje się do Kamieńca Podolskiego, gdzie bierze aktywny udział w obronie fortecy warz z wiernymi mu towarzyszami. Generał Potocki, który mimo tego , że powierzył komendę radzie starszyzny poddał Kamieniec wraz z Biskupem Lanckorońskim, który od początku był zwolennikiem układów z Tureckim napastnikiem. Wołodyjowski pomny swej przysięgi, ze prędzej zginie niż podda twierdzę, ginie po poddaniu wraz z Ketlingiem wysadzając twierdzę w powietrze.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

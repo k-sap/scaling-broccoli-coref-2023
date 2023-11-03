@@ -1,0 +1,12 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Do małej, ciemnej sali kina "Pasaż" chodzili krakowianie i artyści, by zobaczyć filmy Bergmana, Felliniego i Viscontiego. Ale nie tylko. Niewielki budynek w Pasażu Bielaka służył kiedyś zakochanym parom. Ostatnio można było w nim obejrzeć powtórki z kina europejskiego i amerykańskiego. Po 38 latach działalności drzwi kina są zamknięte na głucho, a przybytek X Muzy postawiony w stan likwidacji. We wspomnieniach krakusów "Pasaż" był miejscem, do którego chodzili ci, dla których "dwoje to dobrze, a troje to już tłum". - Redaktor Mieczysław Czuma powiedział mi, że to jedyne miejsce, gdzie idziesz z dziewczyną, chwytasz ją za rękę, mówisz, że jest inna niż wszystkie, a ona w to uwierzy - opowiada Leszek Mazan, krakauer. W jego wypadku zadziałało. - Ta dziewczyna, którą zaprosiłem nie tylko uwierzyła, ale za mnie wyszła - śmieje się Mazan. Do "Pasażu" chodziło się, żeby poprawić sobie nastrój. - Bo tam ciemno i przyjemnie - mówi Marek Litewka, aktor m.in. teatru "Bagatela". W latach 70. (kino powstało w 1970 roku) chodził tam na filmy Felliniego. - nie przeszkadzały mi nawet niewygodne krzesła - mowi aktor. Niektórym nie było dane dostać się na 60-osobową salę. - Byliśmy na studiach maniakami kinowymi, oglądaliśmy nawet po dwa filmy dziennie - wspomina Jan Kanty Pawluśkiewicz. Do "Pasażu" wejść im się nie udało. - Zabrakło biletów. Nic dziwnego - to były złote czasy kina i na wejście czekało się w długich kolejkach - dodaje kompozytor.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

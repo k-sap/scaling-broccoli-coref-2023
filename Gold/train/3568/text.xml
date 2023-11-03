@@ -1,0 +1,19 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Kliknięcie kursorem przy prostokącie powoduje wolniejszy obrót - im bardziej będziemy oddalać się od prostokąta, tym szybciej będziemy obracać modelem (podobnie dla perspektywy). Wybranie ikonki Osie modelu spowoduje obrót względem ustalonych osi (bez obrotu osi z).</p>
+        <p xml:id="p-2">Perspektywy</p>
+        <p xml:id="p-3">Ustawienia dla perspektywy posiadają wiele opcji, zarówno w oknie Obraz/Parametry widoku 3D, jak i w ustawieniach narzędzia Kamera, niektórych ustawień można również dokonywać w palecie Podgląd nawigatora (rysunek 9.9).</p>
+        <p xml:id="p-4">W obu miejscach w podobny sposób ustawiamy potrzebne definicje - wpisujemy wartości i ustawiamy symbol kamery na rzucie. Paleta Nawigacji 3D zawiera kilka przydatnych opcji pozwalających płynnie zmieniać ustawienie kamery.</p>
+        <p xml:id="p-5">Za pomocą ikonki kamerzysty można również wykonywać płynne (dzięki OpenGL) spacery po modelu 3D, ikonki rodzaju ruchu blokują ruchy kamery na celu utkwionym ciągle w tej samej odległości (Osie kamery) lub w jednym punkcie przestrzeni (Ustalenie celu), jak widać na rysunku 9.10.</p>
+        <p xml:id="p-6">Ustawiając odpowiedni widok w oknie 3D, dobrze mieć uaktywnioną również paletę Podglądu nawigatora, dzięki niej na bieżąco lokalizujemy położenie symbolu kamery w odpowiednim miejscu modelu (rysunek 9.11).</p>
+        <p xml:id="p-7">Elementy widoczne w 3D</p>
+        <p xml:id="p-8">Najprostszym sposobem na określenie, które elementy mają zostać wyświetlone w oknie 3D, jest ich zaznaczenie w oknach Rzutów (Strzałką lub Obszarem zaznaczania). Można również ukrywać elementy, których nie chcemy wyświetlać, za pomocą Kombinacji warstw. Dla okna 3D możemy również ustalić pewne ogólne reguły w oknie wywoływanym z menu Obraz/Elementy widoczne w 3D (rysunek 9.12).</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

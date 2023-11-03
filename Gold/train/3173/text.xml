@@ -1,0 +1,31 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">sp0: a ty zostajesz do rozładunku ?</p>
+        <p xml:id="p-2">sp6: ja mam tutaj być od rozładunku słyszałem ja tu zostaje</p>
+        <p xml:id="p-3">sp7: zostajesz</p>
+        <p xml:id="p-4">sp0: ja słyszałem że przy załadunku miałem być teraz już</p>
+        <p xml:id="p-5">sp6: ej ja muszę iść na staw</p>
+        <p xml:id="p-6">sp7: ej tylko nie spadnijcie jak wtedy Piotrek z Gośką i z Markiem nie ?</p>
+        <p xml:id="p-7">sp6: nie wiem</p>
+        <p xml:id="p-8">sp7: w te pokrzywy takie wielkie</p>
+        <p xml:id="p-9">sp0: w tamtym ty w tamtym roku Marek układał nie ?</p>
+        <p xml:id="p-10">sp6: to Gośka walnęła na klepisko przecież kiedyś śledzioną tutaj w stodole</p>
+        <p xml:id="p-11">sp7: no tu a jak oni wtedy co podobno jechali jakiś twój tata zakręt taki wziął że oni w takie pokrzywy dwu metrowe wpadli porozbierani w ogóle i oni mali byli nie ? coś tam na tym</p>
+        <p xml:id="p-12">sp6: to nie wiem nie słyszałem</p>
+        <p xml:id="p-13">sp7: no na tym na tym wozie ze snopkami</p>
+        <p xml:id="p-14">sp6: no wiem</p>
+        <p xml:id="p-15">sp7: jechali i twój tata taki zakręt wziął że to się wszystko wywaliło a oni w takie pokrzywy powpadali</p>
+        <p xml:id="p-16">sp6: a to jest całkiem możliwe bo tam nie raz się wywaliło ale tego nie słyszałem</p>
+        <p xml:id="p-17">sp7: no</p>
+        <p xml:id="p-18">sp0: to ciotka mnie wzięła za szmaty i mnie wyrzuciła w pole żeby mnie nie przygn zżarło</p>
+        <p xml:id="p-19">sp6: a Gośka co mi zrobiła szliśmy się wykąpać tu na jeziorko takie pokrzywy były a ja byłem malutki nie ? nosiła mnie na rękach nie widziała co zrobić to mnie przerzuciła przez pokrzywy i na plecy spadłem i kurwa chuj pół dnia w domu ty yyyy yyyy wiesz wszystko odbite kurwa nie ? nie wiedziała co zrobić to mnie rzuciła nie ?</p>
+        <p xml:id="p-20">sp0: ta ciotka ta Maryla cię rzuciła nie ? na hucie w błocie</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

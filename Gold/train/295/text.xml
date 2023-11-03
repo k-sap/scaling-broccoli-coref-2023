@@ -1,0 +1,32 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">na magisterskie Ø. ponieważ on ma inżyniera..</p>
+        <p xml:id="p-2">ale jaja naprawdę ?</p>
+        <p xml:id="p-3">no..</p>
+        <p xml:id="p-4">to fajnie że idzie..</p>
+        <p xml:id="p-5">taa. zwłaszcza że nie ma na to pieniędzy.. mamunia mu da na pierwszy semestr a co się będzie działo na drugim to jest już nie ważne wiesz. co będzie to będzie wiesz..</p>
+        <p xml:id="p-6">słuchaj ale. z drugiej strony więcej inwestuje znowu w te studia.. wiesz co Ela tylko wiesz co nie bardzo jest z czego teraz inwestować.. słuchaj a ile płaci ?</p>
+        <p xml:id="p-7">piętnaście baniek. za semestr..</p>
+        <p xml:id="p-8">za semestr..</p>
+        <p xml:id="p-9">no. więc to jest wiesz. trzydzieści milionów na rok. to jest..</p>
+        <p xml:id="p-10">no a jaka jest jego wizja tego że będzie płacił ?</p>
+        <p xml:id="p-11">żadna na razie. na za pierwszy semestr płaci mu mamusia prawie że..</p>
+        <p xml:id="p-12">aha..</p>
+        <p xml:id="p-13">o czym ja się dowiedziałam całkiem niedawno..</p>
+        <p xml:id="p-14">aha..</p>
+        <p xml:id="p-15">aha. no..</p>
+        <p xml:id="p-16">upiekłam ciasteczka..</p>
+        <p xml:id="p-17">no widzę z czekoladką..</p>
+        <p xml:id="p-18">polałam Ø Ø. upiekłam trzy rodzaje..</p>
+        <p xml:id="p-19">natomiast pytam się co będzie za drugi semestr. no jakoś się tam wykombinuje a mamusia coś da no to dobrze a za trzeci bo to już będzie około czterdziestu pięciu. wtedy a mamusia dostaje pięć dziadziuś dostaje tatuś dostaje pięć i to jest ich wszystko na miesiąc..</p>
+        <p xml:id="p-20">super..</p>
+        <p xml:id="p-21">no. a my w związku z mieszkaniem mamy długi okropne. z czego wiesz..</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

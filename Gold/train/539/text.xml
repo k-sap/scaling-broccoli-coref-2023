@@ -1,0 +1,14 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">#PoselWieslawaZiolkowska: Proszę Państwa! Na podstawie exposé trudno jednoznacznie na te pytania odpowiedzieć i jeśli przedstawiciele rządu myślą, że unikając przedstawienia polityki społeczno-gospodarczej w dłuższym czasie, unikną odpowiedzi na te pytania, to się niewątpliwie mylą. Bezwzględnie konieczne dla dobra tego rządu jest powiedzenie na starcie, w jakim horyzoncie czasowym, w jaki sposób rząd będzie realizował wszystkie swoje obietnice, zarówno te w sferze gospodarczej, jak i te w sferze społecznej.</p>
+        <p xml:id="p-2">#PoselWieslawaZiolkowska: Jest faktycznie tak, na co wskazują badania opinii publicznej, że społeczeństwo nie oczekuje cudów dzisiaj ani jutro, ale jest również tak, iż ten fakt, że społeczeństwo nie oczekuje cudów, należy pozytywnie wykorzystać, to znaczy należy społeczeństwo rzetelnie, przeciwnie niż w przypadku poprzednich rządów, poinformować, kiedy te wszystkie obietnice będą po prostu rzetelnie realizowane.</p>
+        <p xml:id="p-3">#PoselWieslawaZiolkowska: Ci z koalicji rządzącej, ci posłowie, którzy w trakcie posiedzenia sejmowej Komisji Polityki Gospodarczej, Budżetu i Finansów z uporem, myślę, godnym lepszej sprawy, bronili faktu, aby rząd łącznie z budżetem - zapowiadam, łącznie z budżetem, bo mamy świadomość, że nie było i nie ma czasu na to, żeby wcześniej rozpatrywać założenia, a potem przedkładać budżet - przedłożył założenia polityki społeczno-gospodarczej, jako dokumentu ujmującego tę politykę w dłuższym czasie, posłowie, którzy nie dopuścili do takiego rozstrzygnięcia - przypominam, tylko jednym głosem - źle służą również rządowi. Unia Pracy ma nadzieję, że mimo to rząd wyciągnie wnioski z tego rozstrzygnięcia, również z wyniku głosowania w trakcie posiedzenia komisji sejmowej, i przedstawi Sejmowi tak obszerne uzasadnienie do ustawy budżetowej, że w gruncie rzeczy nie będzie ono niczym innym, jak dokumentem określającym założenia polityki społeczno-gospodarczej nowego rządu w dłuższym czasie.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

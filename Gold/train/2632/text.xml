@@ -1,0 +1,17 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Piłkarze Victorii Grabów zakończyli rundę jesienną piłkarskiej klasy A. W ostatnim meczu pokonali Polonię Andrzejów 3:2. Dwa gole strzelił Jarosław Dudkiewicz. Trzecią bramkę zdobył Łukasz Sobczyński.</p>
+        <p xml:id="p-2">Polonia była trudnym przeciwnikiem. O klasie zespołu świadczy najwyższe zwycięstwo odniesione w tej grupie klasy A . Polonia wygrała aż 14:0 z Pisią Zygry.</p>
+        <p xml:id="p-3">Chociaż rozgrywki w rundzie jesiennej są zakończone, to jeszcze nie wiadomo, które miejsce w tabeli będzie zajmować Victoria przed rundą wiosenną. – Możemy mieć w tabeli o trzy punkty więcej – mówi Tomasz Kubasiński, kierownik drużyny Victorii Grabów. – Nie został zweryfikowany wynik meczu z Zawiszą II Rzgów.</p>
+        <p xml:id="p-4">Przypomnijmy, że na boisku Victoria wygrała 2:1. Trwa procedura odwoławcza. Dodatkowe 3 punkty oznaczałyby, że Victoria zakończyła rundę jesienną na IV miejscu.</p>
+        <p xml:id="p-5">Po ostatnim meczu odbyło się spotkanie podsumowujące sezon. Wyniki drużyny uznano za zadowalające. Powrócił też problem grup klasy A. Przypomnijmy, że Victoria zdecydowała się grać w grupie łódzkiej, gdzie jest 14 drużyn, rezygnując z rywalizacji w grupie zespołów z naszego regionu, których jest zaledwie osiem. Chodziło o to, żeby kibice mieli możliwość częstszego oglądania swojej drużyny.</p>
+        <p xml:id="p-6">– Prawdopodobnie łatwiej byłoby nam awansować z grupy kutnowsko-łęczyckiej, ale jeśli mamy grać tylko kilka meczów w rundzie, to przystąpienie do takich rozgrywek jest bez sensu – mówi Tomasz Kubasiński. – Jeśli będzie grało więcej drużyn z naszego regionu, to wrócimy do tej grupy.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

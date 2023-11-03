@@ -1,0 +1,14 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">schizol Aha..rozumiem,dziekuje za odpowiedź..</p>
+        <p xml:id="p-2">frytka Tabletki o które pytasz zaczęłam brać w styczniu, skończyłam w kwietniu. Były to moje pierwsze tabletki. Nie ukrywam,że podczas wizyty u ginekologa, lekarz zapytał jakie Ø chcę. Odpowiedziałam, że w miare nie drogie. Zapisał mi te. Nigdy o nich wcześniej nie słyszałam. Ogólnie strasznie spadło mi libido. Nie miałam ochoty na seks, ani na żadne inne zbliżenia. Pobolewały mnie nogi(ale to u mnie standard), czułam się strasznie nerwowa...Mój chłopak powiedział, że kiedy je brałam i robiłam przerwe to byłam dwiema innymi osobami. Nie polecam tych tabletek. Są w świetnej cenie, hormony jak hormony - na każdego wpłyną inaczej. Mój ginekolog mówił, że nikt sie na nie nie skarżył. Ostatnio miałam wizyte u prywatnego ginekologa. Zapytałam jakie inne tabletki mogłaby mi pani doktor polecić. Dowiedziałam się , że yasmin i yasminelle (chyba tak to się pisze). Z tą różnicą, że przy tych drugich pacjentki przychodziły podobno często skarżąc się na spóźniający się okres mimo braku ciąży.</p>
+        <p xml:id="p-3">schizol Ja własnie rozpoczelam drugie opakowanie Ø..ale gdy tylko je skończe rowniez postaram sie o cos innego..Mam podobne objawy,szczegolnie te nerwy po nich..I dokuczliwe bóle podbrzusza..</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

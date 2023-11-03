@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Inna sprawa, gdy reżyser doczyta się w klasyce swoich dzisiejszych, najbardziej dręczących spraw. Wtedy uwspółcześnienie nie razi, nie drażni, nie ogranicza się jedynie do sztafażu. Odnalezienie w naszym życiu dramatu, który jak spadek dziedziczymy po latach minionych, jest odkryciem wstrząsającym. W tym wypadku uwspółcześnienie jest znakomitą formułą artystyczną, nieuchybiającą w niczym klasykowi i bardzo przejmującą. Wystarczy tu wspomnieć filmy Lattuady według Gogola: "Płaszcz" i "Spacer".</p>
+        <p xml:id="p-2">4. Pański pogląd na sprawę wierności adaptacji w stosunku do oryginału.</p>
+        <p xml:id="p-3">Znowu muszę przypomnieć, że współcześnie istnieją dwie kinematografie. Adaptujący dzieło literackie dla potrzeb filmu rekreacyjnego działa z pobudek finansowych. Są one niebagatelne i godne szacunku, jednakże nie na tyle skuteczne, żeby mogły gwarantować wierność wobec pierwowzoru. Poza tym zdarza się, że rzemieślnik, choć powodowany materialnymi bodźcami, ma najlepsze i szczere intencje, lecz dokonuje wadliwej adaptacji, ponieważ absolutnie nie rozumie i nie może rozumieć istoty artystycznej obrabianego tekstu. Dlatego też widzimy nieraz filmy rekreacyjne nakręcane dość ściśle według wybitnego utworu artystycznego, a mimo to zupełnie niepodobne, przeważnie złe i nieudolne, gdyż pozbawione tej życiodajnej witaminy, którą zawiera w sobie sztuka.</p>
+        <p xml:id="p-4">Inaczej wygląda to w przypadku filmu artystycznego. Tu adaptator sięga po klasyczny tekst nie dlatego, że musi, że dostał zamówienie, lecz dlatego, że utwór ten jest mu jakoś bliski, że odnajduje w nim pierwiastki tego, co sam pragnąłby w oryginalnym utworze zapisać. Mamy tu więc najbardziej platoniczną wspólnotę interesu autora tekstu adaptowanego i adaptatora. Adaptator, broniąc siebie, broniąc swojej intencji artystycznej, broni automatycznie autora. W takich okolicznościach nawet najpoważniejsze odstępstwa dramaturgiczne czy fabularne nie są szkodliwe, a nawet - co zabawniejsze - na ogół nikt ich nie dostrzega.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

@@ -1,0 +1,17 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Większy problem stwarzają plamy potu na twarzy (modela trzeba wypudrować przed sesją) i zabrudzenia na ciemnej tkaninie. Wtedy negatyw skrobie się żyletką albo używa chemicznych odczynników. Także trochę włosów można dorobić żyletką. Najmniejszy błąd podczas takiej korekty sprawia, że zmiany na zdjęciu są nieodwracalne. To znaczy widać je na portrecie.</p>
+        <p xml:id="p-2">Junior opowiada, jak zakład odwiedziła kobieta, która po wypadku samochodowym miała makabrycznie zniekształcone oko. Ponieważ portret był wykonywany tuż przed operacją plastyczną, wygląd twarzy i tak miał ulec radykalnej poprawie. Na komputerze pan Bogdan skopiował zdrowe oko i przełożył w miejsce chorego.</p>
+        <p xml:id="p-3">Z daleko idącej korekty trzeba zrezygnować, gdy wiadomo, że pomniejszona wersja portretu znajdzie się w paszporcie. Na fotografiach paszportowych nie wolno przede wszystkim nikogo odmładzać, bo kłopoty zaczną się przy pierwszej próbie przekroczenia granicy.</p>
+        <p xml:id="p-4">Fotograf nie zdziera skóry</p>
+        <p xml:id="p-5">Bogdan Czechlewski głosi teorię, że nawet w kilka wieków po najazdach tatarsko-tureckich widać wschodnie naleciałości w rysach twarzy. Wystające kości policzkowe, skośne oczy to ewidentny efekt mieszania krwi. To wszystko jednak można zmienić. Fotograf to nie chirurg plastyczny – skóry z klienta nie zdziera.</p>
+        <p xml:id="p-6">Ludzie nie zawsze dobierają się przed ślubem pod względem tuszy. Masywni, wysocy mężczyźni za towarzyszki życia biorą często niewysokie, filigranowe dziewczyny. Fotografia ślubna ma niwelować te dysproporcje. Niższe panie wkładają szpilki. Mężczyzna musi stać z tyłu, pokazując profil. Z jednej strony brzuch będzie przesłaniać partnerka, a z drugiej głęboki cień. Operując ustawieniem aparatu fotograficznego i lamp błyskowych, uzyskuje się taki efekt wyszczuplenia, że z największego olbrzyma na zdjęciu zostają tylko szerokie bary.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">W stosunkach międzynarodowych kwestia narodowa wiodła częstokroć do pomnażania sporów, do zaostrzania konfliktów. Walka narodowościowa na Półwyspie Bałkańskim nie tylko służyła mocarstwom za pretekst do rozgrywek dyplomatycznych, ale niejednokrotnie była rzeczywistą przyczyną zaognienia sytuacji międzynarodowej; dość przypomnieć tu okres pomiędzy wojnami bałkańskimi 1912/1913 r. a zabójstwem w Sarajewie. Sprawa polska była obciążeniem polityki zagranicznej zarówno Niemiec, jak i przede wszystkim Rosji; wywarła też wpływ na plany strategiczne sztabu rosyjskiego. Kwestia alzacka legła ciężkim kamieniem w stosunkach pomiędzy Niemcami a Francją. Irlandia osłabiała pozycję międzynarodową Wielkiej Brytanii; przyznał to lord Salisbury w 1887 r., sir Edward Grey w 1914 r.</p>
+        <p xml:id="p-2">Niektórym państwom zagrażały ruchy narodowe szczególnie silnie; wpływało to na ich politykę wewnętrzną, utrudniało im politykę zagraniczną. Widać to wyraźnie w wielu wypadkach, np. stanowisko Austro-Węgier wobec Turcji, wobec państw i ludów bałkańskich mocno obciążał fakt, że w Wiedniu i w Budapeszcie musiano wciąż pamiętać o dążeniach narodowych Słowian, pozostających pod panowaniem cesarza Franciszka Józefa. Niekiedy mniejszości narodowe służyły mocarstwom za atut w polityce zagranicznej. Tą bronią mniejszościową posługiwały się różne państwa, zwłaszcza Rosja, przeciwko Turcji. Bywało i tak, że państwa walczące z ruchami narodowymi u siebie, gorąco popierały takie ruchy u przeciwnika. Zaznaczyło się to szczególnie widocznie podczas pierwszej wojny światowej, gdy Rosja, Niemcy i Wielka Brytania wystąpiły w obronie narodów uciskanych, ale każde z tych państw broniło tylko ofiar swego przeciwnika. Rządy pruskie wytężały wszystkie siły, aby zniszczyć świadomość narodową Polaków, ale jednocześnie wysuwały tezę o "braku świadomości narodowej" tam, gdzie ona być powinna, i w imię tej tezy Niemcy zagarnęli Alzację i Lotaryngię, kraje rzekomo niemieckie, ale pozbawione niemieckiej świadomości narodowej.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

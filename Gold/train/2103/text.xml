@@ -1,0 +1,19 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Metoda run() wygląda tu bardzo podobnie, jak w poprzednim ćwiczeniu. Różnice są takie, że opóźnienie jest teraz sparametryzowane, możemy je regulować wartością zmiennej delay (jest ona przekazywana w konstruktorze klasy) oraz że wprowadziliśmy zmienną parent, która jest referencją do obiektu klasy Main i umożliwia nam komunikację z nim. Dzięki temu możemy modyfikować tekst pojawiający się na ekranie. Musimy w tej chwili tylko przystosować klasę Main do współpracy z naszym nowym wątkiem.</p>
+        <p xml:id="p-2">Ćwiczenie 1.9.</p>
+        <p xml:id="p-3">Napisz kod klasy Main wykorzystującej przygotowaną w ćwiczeniu 1.8 klasę wątku.</p>
+        <p xml:id="p-4">Synchronizacja wątków</p>
+        <p xml:id="p-5">Rozważmy w tej chwili następującą sytuację: mamy zmienną typu całkowitego i dwa wątki modyfikujące jej wartość. Załóżmy, że będzie to dodawanie w pętli w każdym przebiegu wartości 1, a sama pętla będzie miała tych przebiegów 10. Jaka będzie ostateczna wartość naszej zmiennej? Jeśli pierwszy wątek 10 razy zwiększył wartość o 1 i drugi wątek zrobił to samo, to w sumie powinno dać 20. Napiszmy taki program.</p>
+        <p xml:id="p-6">Ćwiczenie 1.10.</p>
+        <p xml:id="p-7">Napisz program, w którym dwa wątki będą niezależnie od siebie modyfikowały wartość jednej zmiennej typu int.</p>
+        <p xml:id="p-8">Wątki threadl i thread2 zajmują się zwiększaniem wartości zmiennej account. Jedynym zadaniem wątku thread3 jest odczekanie 1 000 milisekund i wyświetlenie wartości zmiennej account. Uruchomienie powyższego kodu wykaże, że faktycznie otrzymamy wartość 20, tak jak przewidzieliśmy wcześniej. Czy zatem wszystko jest w porządku? Jak najbardziej. Co się jednak stanie, jeśli instrukcja modyfikująca account będzie w postaci account = account + l? Napiszmy taki program.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

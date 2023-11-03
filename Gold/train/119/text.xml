@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">i pozwala sobie na nie. zaczyna sobie pozwalać przypomnę jeszcze przed katastrofą w Smoleńsku. ale też zwróćmy uwagę że. właściwie to co mówimy już jest polityczne w naszym kongresie w naszy w naszym przepraszam kontekście krajowym w naszym grajdołku bo teraz nagle okazuje się że pojednanie z Rosją jest własnością. władzy. krytykowanie tego pojednania z Rosją czy sugerowanie że to jest pojednanie bardziej w sferze symboli albo że wręcz. pozorowane pojednanie no to już jest wpisanie się w. przynajmniej w oczach głównego przekazu mediów w walkę polityczną między. władzą a opozycją. nie wiem czy to służy sprawie</p>
+        <p xml:id="p-2">po pierwsze chciałam jeszcze powiedzieć jedno zdanie. na temat Miedwiediewa i Putina. pozew w Strasburgu jest pozwem złożonym jakby przez administrację rządową reprezentowaną przez premiera Putina. a Miedwiediew realizuje własną. własną linię postępowania to warto zauważyć. niezależnie od tego czy jest to prawdziwa różnica czy tylko taka zagrana Ø żeby było królestwo stu kwiatów</p>
+        <p xml:id="p-3">odwieczna gra dobrego policjanta i złego policjanta</p>
+        <p xml:id="p-4">no można to tak nazwać natomiast jeżeli chodzi o. o to pytanie pana. to ja sądzę że trzeba sobie zdać sprawę że my wciąż poruszamy się. przeciw lub zgodnie z. dwoma archetypami polskiej dyplomacji i polskiej polityki i polskiej polityki zagranicznej w każdym okresie kiedy Polska była niepodległa czyli poruszamy się w ramach pytania. czy z Rosją należy współpracować i dzięki temu uzyska się koncesje różnego rodzaju ekonomiczne polityczne historyczne. czy też wręcz przeciwnie należy być w stosunkach z Rosją ostrym. bo tylko takie postępowanie zagwarantuje nam. prawdę historyczną. kontrakt i korzyści z i korzyści z handlu i my z tych dwóch pytań z tych dwóch postaw nie jesteśmy w stanie wyjść do dzisiaj i teraz akurat dominuje taka Ø która mówi. będzie cudownie jeżeli się będziemy świetnie dogadywać dzięki temu na pewno dostaniemy dużo gazu i nie należy podskakiwać a że na Ukrainie są rosyjskie wojska no to już trudno</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

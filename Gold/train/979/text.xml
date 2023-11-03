@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Po powrocie do Kraju zajmował się kolportażem w środowiskach narodowych emigracyjnej literatury narodowej, głównie Horyzontów, Opoki i książek wydawanych przez Jędrzeja Giertycha. Odnalazł nie drukowaną spuściznę po Feliksie Konecznym. Pisuje w prasie katolickiej, Przewodniku Katolickim i Rycerzu Niepokalanej.</p>
+        <p xml:id="p-2">W latach 1986-1989 był członkiem i wiceprzewodniczącym Rady Prymasowskiej. W roku 1987 na zaproszenie Ojca Świętego uczestniczył jako jedyny, polski, świecki audytor w pracach Synodu Biskupów nt. Roli laikatu w Kościele i świecie. Współuczestniczył w przygotowaniu materiałów na tym Synodzie do adhortacji apostolskiej Christifideles laici ogłoszonej 30 grudnia 1988 r. przez Ojca Świętego Jana Pawła II. W latach 1986-1989 był członkiem Rady Konsultacyjnej przy Przewodniczącym Rady Państwa.</p>
+        <p xml:id="p-3">Od 1990 do 2002r. był Przewodniczącym Rady Naczelnej Stronnictwa Narodowego. Od 1993 r. redaguje i wydaje Opokę w Kraju, pismo polityczne będące kontynuacją wydawanej w Londynie przez Jędrzeja Giertycha Opoki. Już kilkakrotnie wybór jego publicystyki ukazał się w formie książkowej: "Zagrożenia duchowe" (Michalineum 1993), "Dmowski czy Piłsudski?" (Nortom 1995), "Nie przemogą!" (Nortom t. 1. 1995, t. 2 1997), "I tak nie przemogą!" (Nortom 2000). Stale zajmuje się szukaniem wydawców i pomocą w wydawaniu różnych książek Jędrzeja Giertycha.</p>
+        <p xml:id="p-4">W 2001 r. z ramienia Ligi Polskich Rodzin został posłem na Sejm, był zastępcą przewodniczącego Komisji Ochrony Środowiska, Zasobów Naturalnych i Leśnictwa, a w 2004 posłem do Parlamentu Europejskiego. Pełni tam funkcję członka prezydium grupy politycznej Niepodległość i Demokracja. Jest Wiceprzewodniczącym Rady Politycznej LPR.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">brr a ja usnelam w polowie:( wiec chyba poczekam na DVD zeby przebrnac do konca:) wole zdecydowanie stare bondy...</p>
+        <p xml:id="p-2">Charlie:) Ja jestem już po:) no i musze powiedzieć ze bardzo pozytywnie:) chociaz pozostawia niedosyt szczegolnie w watku Bonda i Camille. Spodziewalem sie ze bedzie on bardziej rozwiniety. No i krotki;p ledow usiadlem a musialem juz wstac;p 104 minuty zlecialo bardzo szybko;p co do nowej konwencji bonda to jestem zaaa:) stary bond nie byl zly:) ale jak tak teraz sobie pomysle ze nastpene filmy mialyby byc robione po staremu to zaczelo by sie robic troche rutynowo;p rutyny nie lubie dlatego ucieszylem sie kiedy jeszcze przed casino royale czytalem co zamierzaja zrobic z nowym bondem:) ucieszylem sie tym bardziej gdy zobaczylem efekt:) nowy pomysl na bonda jest swietny:) bond jest bardziej ludzki realistyczny no i wiecej jest o jego stronie uczucuiowej:) dzieki temu wszytkiemu mozna z nim sie bardziej utozsamic i przez to bardziej polubiec:) co do roli craiga as bond:) to poczatkowo sie przestraszylem gdy go zobaczylem;p to ma byc bond?! myslem sobie;p tak jak ktos wyzej pisal;p nie byl klasycznie przystojny nie mial imagu gentelmana. ale tak myslem bo patrzylem na niego z perspketywy starej konwencji do ktorej by nie pasowal, jednak do nowego stylu bonda jak dla mnie jest idealny;d nie wyobrazam sobie brosnana czy innego w casino royale czy quantum of solace:) podsumowujac: nowy bond jest extra i nie moge sie doczekac Bonda 23!;d</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

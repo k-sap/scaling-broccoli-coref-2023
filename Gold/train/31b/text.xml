@@ -1,0 +1,14 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Tak brzmiał tytuł I Międzyszkolnego Konkursu Literackiego zorganizowanego w miniony piątek w Szkole Podstawowej nr 2 w Tarnowie. Wzięły w nim udział trzysobowe reprezentacje 12 szkół podstawowych z terenu miasta. Wiedzą na temat kilku wybranych szkolnych lektur popisywali się uczniowie klas od cztery do sześć.</p>
+        <p xml:id="p-2">Konkursowe pytania dotyczyły książek niekoniecznie z obowiązkowego zestawu lektur dla klas cztery-sześć. Uczestnicy konkursu musieli mianowicie odpowiadać ze znajomości następujących książek: "Opium w rosole" Małgorzaty Musierowicz, "Ten obcy" Ireny Jurgielewiczowej, "Fotoplastykonu" Krystyny Siesickiej, "Tajemniczego ogrodu" Frances Burnett, "Szaleństw panny Ewy" Kornela Makuszyńskiego i "Spotkania nad morzem" Jadwigi Korczakowskiej.</p>
+        <p xml:id="p-3">- Tym co łączy tych sześć lektur jest właśnie tematyka przyjaciół i przyjaźni - tłumaczy Ewa Oleksy, nauczycielka języka polskiego w SP 2, jedna z organizatorek konkursu. - Organizując tego typu konkurs literacki chcieliśmy zachęcić młodych ludzi z tarnowskich szkół do rozwijania zamiłowań czytelniczych i poznawania wartościowych książek.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

@@ -1,0 +1,19 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Wkrótce do owych wydarzeń dołączyły się inne. Dzieci w pałacu oprócz różnych potraw dostawały na kolację ziemniaki w mundurkach. Gdy wraz z boną przychodziły do pokoju by spożyć posiłek - ani jeden ziemniak nie leżał na talerzu, natomiast znajdowano je obite i rozrzucone po całym pokoju.</p>
+        <p xml:id="p-2">Wszystko to wzbudziło w dziedzicu niepokój. Widząc, że zwykłymi środkami nie może sobie dać rady, pojechał do Sianowa, by zwrócić się o pomoc do tamtejszego pastora, który podobno umiał poskramiać nieczyste siły.</p>
+        <p xml:id="p-3">Pastorowi wielce pochlebiało zaproszenie bogatego i wpływowego ziemianina. Toteż nie zwlekał i natychmiast udał się do pałacu, by zostać tam przez całą noc. Kazał sobie przynieść do dziecinnego pokoju wygodny fotel, wziął w ręce Biblię i zaczął się modlić w skupieniu.</p>
+        <p xml:id="p-4">Wszystko było w porządku, póki nie nastały ciemności. Kiedy odezwało się pukanie w okno, pastora obleciał strach. Zerwał się z miejsca i zaczął żegnać krzyżem wszystkie kąty pokoju, odmawiając przy tym modlitwy.</p>
+        <p xml:id="p-5">- Precz, duchu przeklęty... precz! - wołał głośno, a pot kroplisty wystąpił mu na czoło. - Zgiń, przepadnij siło nieczysta!</p>
+        <p xml:id="p-6">Nic nie pomogło. Ktoś łomotał w okno z taką siłą, jak gdyby miał zamiar wysadzić je z futryn.</p>
+        <p xml:id="p-7">- Precz do piekieł! Uciekaj! - wrzasnął pastor i sam wziął nogi za pas.</p>
+        <p xml:id="p-8">Rozgniewał się dziedzic jeszcze bardziej i postanowił sprawę raz na zawsze zakończyć.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

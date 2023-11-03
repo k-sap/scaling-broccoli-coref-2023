@@ -1,0 +1,17 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">- Zarąbiście, no i co? - No przecież w końcu to nie jest takie złe określenie. - Ale tego nie ma normalnie używanego słowa. - No, ale wiesz... - To jest taka gwara młodzieżowa, zarąbiście. Tak samo zaje... itd., a tego nie ma normalnie w potocznym pojęciu i niektórzy nie wiedzą, co to znaczy. (WSP 1996).</p>
+        <p xml:id="p-2">I jeszcze jeden termin:</p>
+        <p xml:id="p-3">- Żeniuch chodzi cały czas po pokoju... [...] - Czemu Żeniuch? - A to my nie nadaliśmy mu takiej ksywy. To już przyjechał z taką. (AR 1999).</p>
+        <p xml:id="p-4">Należałoby te użycia tekstowe skonfrontować z definicjami występującymi w słownikach. I tak żargon w encyklopedii językoznawczej objaśniony jest następująco: "jako nazwa środowiskowego jęz. specjalnego ze względu na swe pejoratywne nacechowanie raczej nie bywa używany we współczesnej literaturze językoznawczej. Zastąpił go wyraz slang. Potocznie ż. nazywamy jęz. specjalny, do którego mamy stosunek pogardliwy".</p>
+        <p xml:id="p-5">Z kolei w PSWP czytamy: "Żargon, językoznawczy 'odmiana środowiskowa języka narodowego, wykształcona przez jakąś grupę społeczną dla podkreślenia jej odrębności w społeczeństwie, cechująca się przede wszystkim swoistym słownictwem i frazeologią'. [...] Bliskoznaczne: slang, gwara".</p>
+        <p xml:id="p-6">Termin gryps według PSWP to "z niem. gripsen 1. potoczny 'w gwarze więziennej list, który potajemnie, nielegalnie przesłano więźniowi lub przekazano od więźnia na zewnątrz, poza więzienie...'. Dalej zn. 2. więzienny, 'nielegalny, potajemny sposób porozumiewania się, gwara przestępcza, gwara więzienna'. Bliskoznaczne: grypsera, grypserka".</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

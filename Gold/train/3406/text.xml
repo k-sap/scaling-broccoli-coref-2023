@@ -1,0 +1,18 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Można także zgłosić reklamację do informacji o stanie konta osoby ubezpieczonej (ZUS-ERU);</p>
+        <p xml:id="p-2">Prawidłowo wypełniony wniosek należy podpisać przy użyciu bezpiecznego podpisu elektronicznego weryfikowanego przy pomocy kwalifikowanego certyfikatu. Do podpisania wniosku niezbędny jest więc czytnik kart kryptograficznych oraz odpowiedni podpis elektroniczny wystawiany przez dowolne polskie centrum certyfikacji.</p>
+        <p xml:id="p-3">Po wysłaniu wniosku, zainteresowany otrzyma na wskazany adres poczty elektronicznej, wiadomość o przyjęciu dokumentu oraz Urzędowe Poświadczenie Odbioru. W poświadczeniu zostanie podany unikalny elektroniczny numer. Dzięki niemu, na specjalnej podstronie serwisu EUP można śledzić stan sprawy.</p>
+        <p xml:id="p-4">Odpowiedź zostanie przekazana - zgodnie z życzeniem klienta - pocztą na wskazany adres lub elektronicznie na adres e-mailowy (UWAGA! - elektroniczna odpowiedź nie dotyczy "Wniosku płatnika składek o wydanie zaświadczenia o niezaleganiu w opłacaniu składek"). Odpowiedź można również odebrać osobiście w placówce ZUS.</p>
+        <p xml:id="p-5">Wdrożenie Elektronicznego Urzędu Podawczego ma usprawnić obsługę klientów Zakładu i ułatwić im załatwienie najczęściej zgłaszanych rodzajów spraw.</p>
+        <p xml:id="p-6">Mamy nadzieję, że nowa usługa spodoba się naszym klientom. Dzięki niej niektóre sprawy w ZUS-ie będzie można załatwiać szybciej i wygodniej.</p>
+        <p xml:id="p-7">W dniu 4 czerwca 2007r. o godzinie 12.00 w siedzibie Oddziału ZUS w Ostrowie Wielkopolskim przy ul. Wysockiej 1b, odbędzie się prezentacja nowej usługi ,, Elektroniczny Urząd Podawczy''. Wszystkich chętnych serdecznie zapraszamy i prosimy o zgłoszenie udziału telefonicznie pod numerem ( 062) 735 73 69 lub osobiście w siedzibie Oddziału pokój nr 127. Prezentacja jest bezpłatna.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

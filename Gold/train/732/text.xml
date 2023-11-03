@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">10 kwietnia 1979</p>
+        <p xml:id="p-2">Wielce Szanowny i Drogi Panie Redaktorze!</p>
+        <p xml:id="p-3">Krótki list Pana przeczytałem Metropolicie telefonicznie: całą zimę spędził na Florydzie. Usprawiedliwiał się, że ma 82 lata - powiedziałem mu, że to mi nie imponuje, bo jestem od niego starszy, a obietnicę, daną Panu ("Kulturze") musi spełnić. Oświadczył, że mój rękopis - rozmowę z nim - oddał wraz ze swoimi uwagami jednemu, znanemu mi i godnemu, jegomościowi, który ma ten artykuł dla "Kultury" zlepić. Powraca w tym tygodniu (Wielkanoc) do domu, Bawnd Brook, i będę pilnował. Obiecuję zrobić to.</p>
+        <p xml:id="p-4">Tymczasem przesyłam Panu mój artykuł Rewindykacyjny idiotyzm (jak inaczej przetłumaczyć "bezhłuzdia"?!), w związku z artykułem J. Łobodowskiego w "Kulturze" nr 1/376 1979, Wyprawa do Ameryki. Łobodowski zrobił za dużo honoru Żeneckiemu: nie jest to żaden publicysta i nie posiada żadnego znaczenia w społeczeństwie naszym - gość mało wykształcony, odpisuje swe artykuły, nieco przerabiając je, z gazet polskich i niemieckich, bo języka angielskiego nie zna. Przyłączyłem się do p. Łobodowskiego, robiąc z Żeneckiego marmeladę. Nie znając dobrze stosunków, J. Łobodowski polemizował z "Ukraińskimi Wistiami": nie jest to "gadzinówka", a po prostu pismo wydawane, finansowane przez Moskwę, i dlatego prasa ukraińska nie reaguje na nie. Załączam dany numer "Nowego Szlachu" , tygodnika z Toronto, Kanada (organu OUN "Melnykowców") - dopisuję doń każdego tygodnia, pismo poważne i wpływowe.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

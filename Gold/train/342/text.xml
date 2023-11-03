@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Pani Bobrowa z I piętra kupiła tuż przed wojną sklep i mieszkanie przy ul. Płockiej. Do samego powstania handlowała - jak to się mówiło - mydłem i powidłem. W październiku 1944 r. wyszła z Warszawy wraz z ludnością cywilną. Trafiła do Niemiec na roboty, pracowała u bauera. Po powrocie swojego sklepu już nie znalazła. Dom był spalony.</p>
+        <p xml:id="p-2">Był rok 1945, pani Bobrowa w poszukiwaniu lokum trafiła na Mokotów. Tu dogadała się z pewną kobietą. Ta odstąpiła jej lokal sklepowy na parterze Kamienicy i mieszkanie na I piętrze. Pani Bobrowa zapłaciła jej za to 51 tys. zł. - Mama była naiwna - żali się córka pani Bobrowej. - Pieniądze dała, pokwitowania nie wzięła, dzisiaj może by się przydało.</p>
+        <p xml:id="p-3">Tato pana Sosenka z II piętra mieszkał w Kamienicy od początku, od 1936 r., kiedy dom zbudowano. Tato pana Sosenka osobiście uczestniczył w budowie Kamienicy, był elektrykiem. W ramach rozliczeń z właścicielem dostał dwupokojowe mieszkanie - ale transakcję zawarto też na gębę, bez urzędowego poświadczenia.</p>
+        <p xml:id="p-4">Właściciel nazywał się Blanksztejn i wojny nie przeżył. Pan Sosenek z opowieści taty zapamiętał, że prawdopodobnie nikt z rodziny Blanksztejnów nie ocalał. Dlatego zdumiała go wieść, że Kamienicę oddano właścicielom. - Komu oddano? - wypytywał. W adeemie wzruszano ramionami. - To nie pana sprawa, panie Sosenek - wyjaśniła urzędniczka. - Pan tu nie jest stroną, a jedynie lokatorem najemnym. My nic panu nie ujawnimy, a już na pewno nie powiemy, kto odzyskał Kamienicę.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

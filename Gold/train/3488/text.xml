@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Władze Metra twierdzą, że mechanizm kupowania ziemi przez pośredników i załatwiania wszelkich formalności w urzędach przez kolejnych pośredników wynika z ułomności polskiego prawa: - Gdybyśmy chcieli za każdym razem czekać na decyzję MSWiA, inne koncerny dawno by nas prześcignęły - mówi Karl Josef Baum. Taka sytuacja zdarzyła się we Wrocławiu, gdzie Metro otwarcie wystąpiło w przetargu na zakup ziemi. Na decyzję ministerstwa czekało pół roku. W międzyczasie miejskimi gruntami zainteresowało się kilka innych sieci. Koncern wycofał się tracąc 4 mln zł wadium wpłaconego przed przetargiem. Strat, według Bauma, Metro poniosło w Polsce znacznie więcej: za działki, które pośrednicy kupowali po kilka złotych za metr, koncern płacił im po kilkadziesiąt marek, dla części kupionych gruntów nie udało się uzyskać pozwoleń na budowę (Metro stopniowo pozbywa się ich). - Tam gdzie się udało, zawdzięczamy to tylko pośrednikom. Sami nie byliśmy w stanie dotrzeć do urzędów - mówi Baum.</p>
+        <p xml:id="p-2">Spółki-córki Metra: GBS, BSV i CMG już nie istnieją, w połowie 1999 r. zostały przekształcone w Metro Real Estate Management (MRE). Część ich pracowników odeszła już z koncernu, m.in. prezes GBS Hartmut Suraya. Pół roku po nim z koncernu odszedł także Jacek Moszyk. - Kategorycznie zabroniono nam rozmawiać o tych sprawach - mówi pracownik firmy, którego przeniesiono do nowo utworzonej komórki. Byłego pracownika, który doniósł organom ścigania o nieprawidłowościach związanych z inwestycjami, Metro podało do sądu w Niemczech. Za każde złamanie tajemnicy służbowej grozi mu teraz 10 tys. marek grzywny. - Ten koncern działa niczym podziemna kolej metra. Jej sieć się rozwija, ale niewielu wie, co dzieje się w niej naprawdę - mówi wiceprezes firmy budowlanej, która współpracowała z Metrem.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

@@ -1,0 +1,14 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Powoli zbliża się do końca pierwsza runda rozgrywek o mistrzostwo czwartej ligi piłkarskiej. Podczas rozpoczętego właśnie weekendu rywalizujące w niej zespoły rozegrają czternastą już serię spotkań.</p>
+        <p xml:id="p-2">Dojdzie w niej do dwóch aż derbowych pojedynków z udziałem zespołów z naszego regionu. Dzisiaj o godz. 15 w Tarnowie rozpocznie się pojedynek pomiędzy Unią a Tuchovią Tuchów. Faworytem tego meczu są z pewnością gospodarze. Na korzyść podopiecznych Andreja Ciraka przemawia nie tylko fakt gry przed własną publicznością, ale i miejsca zajmowane w tabeli przez oba zespoły. Unia plasuje się w niej bowiem na drugiej pozycji, natomiast Tuchovia zamyka ligową tabelę. Z drugiej strony pamiętać jednak należy, że mecze derbowe często rządzą się swoimi prawami, a podopiecznych trenera Jacka Ropskiego na pewno stać na lepszą grę niż wskazuje na to ich pozycja w tabeli. W ostatnim czasie pokusili się oni zresztą o kilka niespodzianek, do których z pewnością zaliczyć trzeba zwycięstwa 2-1 z Puszczą Niepołomice, czy też Ø 1-0 z rezerwami Sandecji Nowy Sącz.</p>
+        <p xml:id="p-3">O tej samej porze co pojedynek w Tarnowie, rozpocznie się spotkanie w Bochni, w którym tamtejszy BKS podejmował będzie Polan Żabno. W meczu tym trudno jednoznacznie wskazać faworyta. Gospodarze przeżywają wyraźny kryzys. Nie dość bowiem, że w pięciu ostatnich spotkaniach zdobyli tylko dwa punkty, to nie potrafili rozstrzygnąć na swoją korzyść już dwóch kolejnych meczów rozgrywanych na własnym boisku (przypomnijmy, że w wcześniejszych pięciu Ø odnieśli komplet zwycięstw). Dla odmiany Polan spisuje się w ostatnim czasie bardzo dobrze. Po wyjazdowej porażce w Trzebinii Sierszy, podopieczni trenera Tomasza Kijowskiego w trzech następnych spotkaniach nie doznali porażki, remisując 1-1 z Unią Tarnów oraz pokonując - w obu przypadkach po 1-0 - Płomień Jerzmanowice i Beskidy Andrychów.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

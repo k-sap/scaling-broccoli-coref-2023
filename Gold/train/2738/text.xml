@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Moje dziecko najdroższe i najmilsze!</p>
+        <p xml:id="p-2">Możesz sobie wyobrazić chyba, jak wielką przykrością dla mnie była wiadomość, że odczułaś bardzo moją nieobecność przy twojej operacji i że wzięłaś to za brak czułości z mojej strony. Chyba wywietrzały Ci już z głowy dziecinne twoje imaginacje, że jesteś niekochaną córką i wiesz dobrze, jak bardzo Cię kocham i jak mi zawsze jest ciężko, że nie możesz znaleźć jakiejś możności, aby przezwyciężyć skrępowanie, jakie odczuwasz wobec mnie. Nie byłem przy tobie w dzień operacji i nie przyjadę aż do poniedziałku, gdyż odczuwam po kongresie i po całym lecie intensywnej pracy tak fantastyczne zmęczenie, że po prostu słaniam się z nóg. Wczoraj spałem 10 godzin w nocy i przespałem potem całe rano, i jeszcze po obiedzie drzemałem, do tego przemęczenia dołącza się jakieś zobojętnienie na wszystko, tak jakbym trzy skóry miał na sobie - stąd może nie tak bardzo przejąłem się twoją operacją, jak to trzeba było, myślałem o tobie, dziecino moja najmilsza, przez cały dzień, i dzisiaj myśleć będę. Ale dziś nie mam po prostu sił na przezwyciężenie mojego wstrętu do szpitala, do zdobycia się na wysłuchanie wszystkiego, co ci mama powie, i na pojechanie do Warszawy. Za tę moją słabość stokrotnie Cię przepraszam, ale musisz już brać pod uwagę, że jestem stary, zmęczony, przepracowany, chory i nie mam już tyle sił co dawniej. Bardzo jestem spragniony wiadomości, jak się czujesz i jak spędziłaś noc, i do serca Cię bardzo mocno przyciskam, miłe moje i drogie dziecko. Twój Ojciec</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

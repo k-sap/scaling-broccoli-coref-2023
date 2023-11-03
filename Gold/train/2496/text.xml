@@ -1,0 +1,17 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Bogatą ofertę sprzętu proponują amatorom sportów zimowych łódzkie sklepy. Oprócz typowych nart, desek snowboardowych czy łyżew, na półkach można znaleźć wiele akcesoriów, które z pewnością przyciągną uwagę koneserów. Odstraszać może jedynie cena.</p>
+        <p xml:id="p-2">W sklepie przy pl. Pokoju można znaleźć na przykład narty pokryte bambusową okładziną, które kosztują 2,5 tys. euro. W komplecie są także kijki ze skórzanymi rękojeściami. Niewiele tańszy jest egzemplarz, który pokrywa imitacja skóry węża. – Na razie jednak zainteresowanie klientów kończy się na oglądaniu – mówi Agata Krawczak, pracownica sklepu.</p>
+        <p xml:id="p-3">Ciekawą propozycją na mroźne dni na stoku są też kijki z manierką. Odkręcając rękojeść można do środka nalać na przykład alkoholu za pomocą dołączonego lejka. W jednym kiju mieści się 160 ml płynu. Gadżet można kupić za 368 zł.</p>
+        <p xml:id="p-4">– Można się jedynie zastanawiać, czy po wypiciu takiej ilości rozgrzewającego napoju można bezpiecznie poruszać się po stoku – skomentował handlową ofertę Adrian Nowak, który w styczniu wybiera się z rodziną na zimowe wakacje.</p>
+        <p xml:id="p-5">Ponieważ amatorzy sportów zimowych coraz bardziej dbają o bezpieczeństwo, popularnością cieszą się kaski. Młodzież najchętniej wybiera modele z słuchawkami, które można podłączyć do odtwarzacza kaset, płyt i plików mp3. Za możliwość słuchania muzyki w czasie jazdy trzeba zapłacić prawie 300 zł.</p>
+        <p xml:id="p-6">Na rodzime stoki, gdzie zostawienie nart wiąże się zawsze z ryzykiem ich utraty, najlepiej wybrać się z kłódką do zabezpieczenia sprzętu. Stalowa linka z zamkiem, którą można kupić za 49 zł, pozwoli na przymocowanie nart i z pewnością zaoszczędzi stresu właścicielom drogiego sprzętu.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

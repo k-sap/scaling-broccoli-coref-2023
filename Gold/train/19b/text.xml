@@ -1,0 +1,12 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">"Święto miodu i pyłku kwiatowego" odbywało się wczoraj w Pszczelim Parku w Bronowicach Małych. Chętni zwiedzali pasiekę i obserwowali pszczoły, ale przede wszystkim odpoczywali. "Pszczeli Park" w Bronowicach Małych to pierwszy tego typu obiekt w Polsce. Malowniczość tła leśnego działa uspokajająco na centralny układ nerwowy. Las osłania przed uciążliwym wiatrem i filtruje zanieczyszczone powietrze - jest także olbrzymią fabryką tlenu, więc zapewnia komfort oddychania. Pobyt w parku wpływa na zwiększenie przemiany materii, usprawnia funkcjonowanie naczyń włosowych oraz przyspiesza krążenie krwi. W najbliższą niedzielę z okazji Dnia Dziecka pszczelarze zapraszają dzieci na obserwację pszczół pod szkłem. Początek o godz. 14.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

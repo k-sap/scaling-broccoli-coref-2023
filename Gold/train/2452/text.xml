@@ -1,0 +1,18 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Zaczęło się jak podczas kiepskiego szkolenia bhp albo pastiszu filmu "1984" według książki George'a Orwella. Na gigantycznych ekranach pojawiły się twarze członków Komitetu Organizacyjnego Igrzysk w Atlancie, którzy przejętym głosem tłumaczyli zebranym, jak ważnego podjęli się zadania. Później przypomniano wybuch radości, gdy Międzynarodowy Komitet Olimpijski zadecydował, że igrzyska 1996 roku odbędą się w Atlancie. Później zaczęło się właściwe podsumowanie.</p>
+        <p xml:id="p-2">Każdy z mówców, członków komitetu organizacyjnego, zaczynał podobnie: to wszystko już wiecie, ale dobrze by było, byśmy sobie jeszcze raz powtórzyli.</p>
+        <p xml:id="p-3">Dr Jim Askew opowiadał, co należy zrobić, gdy zawodnik się skaleczy.</p>
+        <p xml:id="p-4">Christy Callender mówiła, jak należy poruszać się po wiosce olimpijskiej.</p>
+        <p xml:id="p-5">Willie Banks, rekordzista świata i były mistrz olimpijski w trójskoku, wyjaśniał: - Wioska olimpijska to nie jest miejsce, gdzie sportowcy tylko jedzą, piją, śpią i odpoczywają. Wy jesteście od tego, by stworzyć im atmosferę, a wiem, że to umiecie.</p>
+        <p xml:id="p-6">Sala zapiszczała z uciechy, choć tym razem Banks nie rozwinął sznurka długości jego rekordowego skoku, który nie mieścił się w sali mieszczącej ponad 500 słuchaczy.</p>
+        <p xml:id="p-7">Po Banksie wystąpił Mark Irwin, specjalista od wioskowej etykiety. Mówił: - U nas w Ameryce jest tak, że jeśli ktoś uważa, że wyświadczona usługa to drobiazg, mówi: "It's a piece of cake" - "To kawałek ciasta" . Nie mówcie, proszę, o "kawałku ciasta" do obcokrajowców, bo stanie się to, co podczas igrzysk w Los Angeles: sportowiec z dalekiej Azji, zresztą dobrze mówiący po angielsku, przyniósł swojemu opiekunowi słodycze.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

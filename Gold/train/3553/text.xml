@@ -1,0 +1,22 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">#WicemarszalekDonaldTusk: Dziękuję, panie pośle.</p>
+        <p xml:id="p-2">#WicemarszalekDonaldTusk: Zapisała się grupa posłów do pytań.</p>
+        <p xml:id="p-3">#WicemarszalekDonaldTusk: Pan poseł Bolesław Bujak, Polskie Stronnictwo Ludowe.</p>
+        <p xml:id="p-4">#PoselBoleslawBujak: Panie Marszałku! Wysoka Izbo! Mam kilka krótkich pytań do pana ministra.</p>
+        <p xml:id="p-5">#PoselBoleslawBujak: Pytanie pierwsze. Czy urzędy celne przygotowane są do skoordynowanego monitoringu przepływu przez polskie przejścia graniczne towarów, by udokumentować i udowodnić podejrzenie ich subsydiowania? Czy w tym zakresie jesteśmy dostatecznie technicznie przygotowani?</p>
+        <p xml:id="p-6">#PoselBoleslawBujak: Pytanie drugie. Jaka będzie procedura nakładania ceł wyrównawczych przez ministra gospodarki, by bronić nasz rynek przed nieuczciwą, czyli subsydiowaną, konkurencją towarów z państw eksporterów? Czy ta procedura nie będzie sprzeczna z prawem Unii Europejskiej, czy więc będzie możliwe jej wdrożenie?</p>
+        <p xml:id="p-7">#PoselBoleslawBujak: Kolejne krótkie pytanie: Czy proponowana ustawa stanowi wystarczające uzupełnienie prawnych instrumentów obowiązującego prawa celnego chroniącego polskich producentów i polski rynek konsumpcyjny przed powszechnym zalewem naszego kraju, naszego rynku dotowanymi towarami? W społecznym odbiorze bowiem sprawia to wrażenie nieporadności służb państwowych w zakresie ochrony naszych producentów, a więc naszych polskich miejsc pracy, co przyczynia się również do wzrostu bezrobocia. Pytanie ostatnie: Panie ministrze, jakie są skutki ekonomiczne w związku ze sprowadzaniem towarów subsydiowanych pochodzenia zagranicznego do Polski i jaki to ma wpływ na nasz rynek, a zwłaszcza na nasz przemysł? Dziękuję.</p>
+        <p xml:id="p-8">#WicemarszalekDonaldTusk: Dziękuję bardzo.</p>
+        <p xml:id="p-9">#WicemarszalekDonaldTusk: Pan poseł Grzegorz Dolniak, Platforma Obywatelska.</p>
+        <p xml:id="p-10">#WicemarszalekDonaldTusk: Czy ktoś z państwa posłów chciałby jeszcze zapisać się do zadania pytań?</p>
+        <p xml:id="p-11">#WicemarszalekDonaldTusk: Nie widzę. Dziękuję, zamykam listę pytających.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

@@ -1,0 +1,16 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Ostatnio Urząd Marszałkowski, dzieląc unijne dotacje, przesunął wysoko przez ekspertów oceniony wniosek o dofinansowanie budowy linii tramwajowej na Rataje na ostatnie miejsce. Pretekstem było to, że miasto zdecydowało się budować energetyczną sieć zasilającą we własnym zakresie. Poznań dotacji nie dostał. Najwięcej natomiast skorzystał Wielkopolski Zarząd Dróg Wojewódzkich, którego dyrektor był ekspertem oceniającym wnioski.</p>
+        <p xml:id="p-2">Minister gospodarki nakazał powtórzyć procedurę. Władze Poznania liczyły, że marszałek tym razem pieniądze na linię tramwajową przyzna. Oznaczałoby to jednak odcięcie od dotacji tych gmin, którym powiodło się w pierwszym podejściu. Marszałek znalazł więc sposób na ponowne odrzucenie wniosku Poznania – w ogóle go nie rozpatrywano z powodów formalnych, choć był to identyczny wniosek jak ten, który znalazł uznanie ekspertów.</p>
+        <p xml:id="p-3">Będzie okragły stół</p>
+        <p xml:id="p-4">Czy można zmienić fatalną sytuację? Nadzieją może być osoba polityka cieszącego się powszechnym szacunkiem. Prof. Jan Kułakowski z dużą przewagą wygrał w Wielkopolsce wybory do europarlamentu. Czy podejmie się próby znalezienia wyjścia z patowej sytuacji?</p>
+        <p xml:id="p-5">– Nie podejmuję się żadnej mediacji, bo to nie moja rola, ale to nie znaczy, że posłowie do europarlamentu pozostawią tę sprawę – mówi prof. Kułakowski. – Zwróciłem się do wszystkich posłów o wspólne zorganizowanie spotkania dotyczącego roli Wielkopolski w Unii Europejskiej. W dyskusji z pewnością ujawnią się i konflikty, będzie okazja, by spróbować je rozwiązać. Oprócz posła LPR, Witolda Tomczaka, gotowość współpracy wyrazili wszyscy wielkopolscy eurodeputowani. Jedynym teraz problemem jest znalezienie terminu spotkania, w którym udział wezmą posłowie, prezydent Poznania i innych miast regionu, marszałek, wojewoda.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

@@ -1,0 +1,16 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">- U nas żywi się około 400 osób - dodaje ks. Jacek Ambroszczyk, z jadłodajni prowadzonej przez łódzki "Caritas" przy ul. Gdańskiej 111 - To maksymalna liczba osób, którą możemy obsłużyć. - Liczba głodnych łodzian wzrasta lawinowo. Ma to związek z postępującym bezrobociem i po prostu biedą. Jeśli ktoś musi przeżyć mając do dyspozycji zasiłek w wysokości 50 zł, to nic dziwnego, że przychodzi do nas. Coraz częściej wspieramy w ten sposób także osoby młode i matki samotnie wychowujące dzieci. Nasza stołówka czynna jest także w sobotę. Na niedzielę rozdajemy paczki z żywnością.</p>
+        <p xml:id="p-2">W Łodzi w wakacje czynna jest także jadłodajnia PKPS-u przy ul. Żeromskiego 54 wydająca ciepłe posiłki dla 130 osób z Polesia, Śródmieścia i Bałut oraz bar "Południowy" przy ul. Rzgowskiej 56, obsługujący 250 klientów.</p>
+        <p xml:id="p-3">- Do końca roku mamy 586 tysięcy złotych na tanie żywienie z Programu Profilaktyki i Rozwiązywania Problemów Alkoholowych w naszych placówkach - wyjaśnia Jolanta Piotrowska, z-ca dyrektora łódzkiego MOPS-a.</p>
+        <p xml:id="p-4">- Co do jadłodajni oo. bonifratrów dofinansowujemy tam jedynie stację socjalną. Niestety, budżet nie przewidział aż tak dużej liczby chętnych na darmowe obiady. Naturalnie będziemy zabiegać jeszcze o jakieś dodatkowe pieniądze.</p>
+        <p xml:id="p-5">Liczymy jednak nadal na sponsorów i producentów żywności. Na razie wydajemy również bony żywieniowe w ramach zasiłku, obowiązujące w określonych barach i bony na zakupy w sklepach podstawowych produktów spożywczych. (mawi)</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

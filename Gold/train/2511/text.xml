@@ -1,0 +1,20 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Najbardziej efekty policyjnego protestu odczują kierowcy. Od dziś muszą się spodziewać drobiazgowych kontroli pojazdów.</p>
+        <p xml:id="p-2">- Ale mandaty nie będą wypisywane. Kierowcy, którzy naruszą przepisy, będą pouczani, a w poważnych naruszeniach przepisów sprawy od razu kierowane będą do sądów grodzkich – zapowiada wiceprzewodnicząca Biełus.</p>
+        <p xml:id="p-3">I dodaje, że protest wymierzony jest głównie w ministra spraw wewnętrznych i administracji oraz rząd.</p>
+        <p xml:id="p-4">- Będzie mniej wpływów do budżetu z tytułu mandatów, a sądy zatkają się od spraw. Może wtedy ktoś zechce zrozumieć, że w służbach mundurowych dzieje się źle – zaznacza Romana Biełus.</p>
+        <p xml:id="p-5">Piratom drogowym, którzy mogliby się ucieszyć ze akcji policji, studzimy jednak zapędy do łamania przepisów. Ich kara na pewno nie minie.</p>
+        <p xml:id="p-6">Na ok. 420 pracowników wałbrzyskiej komendy miejskiej ponad połowa to związkowcy. I to głównie oni będą protestować, ale liczą również na poparcie akcji przez kolegów niezrzeszonych.</p>
+        <p xml:id="p-7">- W końcu walczymy o poprawę warunków nas wszystkich – mówią związkowcy.</p>
+        <p xml:id="p-8">Mandaty nie będą wypisywane. Kierowcy będą pouczani, a w poważnych naruszeniach przepisów sprawy kierowane będą do sądów.</p>
+        <p xml:id="p-9">Policjanci walczą o obiecane im przed kilku laty podwyżki. Miały one wzrastać stopniowo do 2000 roku. Tak się nie stało. I teraz szeregowy funkcjonariusz zarabia „na rękę” miesięcznie 1.300-1.400 zł, a miał dostawać ok. tysiąc złotych więcej. Związkowcy uważają, że to za mało, biorąc pod uwagę niebezpieczeństwo, jakie niesie za sobą praca w policji. - Wychodząc z domu nigdy nie masz pewności, że wrócisz do domu - mówią. O poprawę płacy i warunków pracy funkcjonariusze walczą wspólnie ze strażą pożarną i graniczną. W razie niepowodzenia protestów zapowiadają głodówkę.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

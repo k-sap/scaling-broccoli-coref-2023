@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">- Usługi ambulatoryjne wykonujemy w naszym gabinecie zabiegowym i w domu u chorego. Pobieramy materiał do badań laboratoryjnych, wykonujemy iniekcje i próby uczuleniowe, pomiary parametrów życiowych, badania EKG, zabiegi higieniczne, pielęgnacyjne i pielęgniarskie według zaleceń lekarza, opiekujemy się obłożnie i przewlekle chorymi, osobami w podeszłym wieku oraz opuszczającymi szpitale, prowadzimy zabiegi fizjoterapeutyczne, wypożyczamy sprzęt do rehabilitacji i pielęgnacji. Potrzebujący pomocy mogą ją znaleźć w naszym gabinecie od poniedziałku do soboty w godz. 8.00-10.00 i 16.00-18.00. W pozostałym czasie pielęgniarki pracują w środowisku chorego.</p>
+        <p xml:id="p-2">- Tak rozbudowana działalność wymaga wsparcia wielu osób i instytucji. Kto Siostrze pomaga w prowadzeniu Stacji?</p>
+        <p xml:id="p-3">- Oprócz pielęgniarek i rehabilitantów pracuje u nas bezinteresownie grono wychowawców, pań przygotowujących posiłki, studenci, licealiści, uczniowie szkół policealnych. Współpracują z nami lekarze, a także dzieci, uczniowie szkół podstawowych ze Skarpy, którzy m.in. przygotowują wspaniałe Wigilie i akcję świątecznej pomocy. Natomiast finansowo zabezpiecza naszą pracę dotacja, jaką otrzymujemy z budżetu miasta za pośrednictwem Wydziału Zdrowia i Opieki Społecznej Urzędu Miejskiego, oraz umowa na nasze usługi podpisana przez nas jako niepubliczną jednostkę opieki zdrowotnej z Kasą Chorych. Otrzymujemy poza tym doraźną pomoc od osób indywidualnych, a ostatnio PFRON ufundował dla nas samochód.</p>
+        <p xml:id="p-4">- Dlaczego "Caritasowi" w Polsce zależy w ogóle na prowadzeniu działalności charytatywnej, skoro fundusze na ten cel często pochodzą ze źródeł zewnętrznych?</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

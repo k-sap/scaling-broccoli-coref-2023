@@ -1,0 +1,16 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">sp1: tak ? myślałem że to jego</p>
+        <p xml:id="p-2">sp0: nie nie. to to była kurcze wielka rzecz. chyba prawie wszy. nie wiem chyba wszystkie. nie jestem już pewien bo to pamięć człowieka zawodzi. no tekściarstwo polskie lat kurcze właśnie siedemdziesiątych i osiemdziesiątych to. no nie wiem bo niestety z tłumaczeń ale jak właśnie przeczytałem to te wszystkie rzeczy które mi się tam kiedyś te zachodnie jakieś to to przy tym wygląda tak kurcze blado i mdle że aż się nie chce wierzyć. a zwłaszcza pamiętam jakim szokiem było dla mnie no women no cry Marleya jak przeczytałem w tłumaczeniu taka socrealistyczna agitka. nie płacz kobieto nie płacz bracia idą na barykady tam. coś zasadzie socjalizm zwycięży i tak dalej to</p>
+        <p xml:id="p-3">sp1: rewolucja</p>
+        <p xml:id="p-4">sp0: poetycznie to po prostu taka grafomania że szok. niewiele tam innych takich dzieł no po prostu aż nie nie mogłem wyjść z szoku jak to kurcze możliwe. takie rzeczy które człowiek uważał za kultowe to. takie prozaicznie kurcze</p>
+        <p xml:id="p-5">sp1: jest taki. chyba white roses. już nie pamiętam kto to śpiewa. taki liryczny kawałek. ja też czasami kurde jak przeczytałem tą znaczy. angielski tekst dostałem i sobie go przeczytałem to. byłem załamany. zawsze mi się wydawała właśnie ta piosenka taka wiesz. podniosła o miłości i w ogóle a to jest o. facecie który zarąbał swoją kobietę i pochował ją gdzieś tam nad rzeką a na jej ciele urosły białe róże i. kojarzysz tą piosenkę nie ? takie nie ta ta ta. Guma nie złą kolekcję widzę tutaj sobie. uzbierałeś. masz bezprzewodową mychę ?</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

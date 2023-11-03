@@ -1,0 +1,16 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">jakas_tam_17 hhhmm.. to co tu napisałas to bardziej kojarzy mi sie ze stresem. Udaj sie do psychologa, albo porozmawiaj szczerze z jakąs osobą co ci lezy na sercu. :|</p>
+        <p xml:id="p-2">Makavel nie bój się kochana, to wiek dojrzewania, każdy to przechodzi i każdemu przechodzi, to nic poważnego chociaż nie można tego lekceważyć, myślę, że jak ktoś załatwi ci wizytę u psychologa to może naprawdę pomóc, pozdrawiam</p>
+        <p xml:id="p-3">lovemartunia Wszyscy to tłumaczą dojrzewaniem, a ja po prostu uważam że to jest za mało pewności siebie i mało przekonania że będzie dobrze.</p>
+        <p xml:id="p-4">Anka :* Też miałam coś podobnego...tylko że nie bałam się że nie dożyję jutro, ja w sumie byłam w duuużym dole...więc nie ma się czemu dziwić, to mija.....mnie bynajmniej mineło</p>
+        <p xml:id="p-5">VanillaSky CYTAT(wika141 @ 28.07.2007, 09:10) "Od jakiegoś czasu mam lęk przed życiem, czyli boje się tego co się może zdarzyć. Najgorzej jest wieczorem i w nocy kiedy mogę pól nocy nie przespać bo się boję że nie dożyje jutra. Chodzi też o to że non stop się martwię że komuś mi bliskiemu coś się stanie, że umrze itp. Często cały dzień chodzę przybita. Większość twierdzi że jestem przykładem pesymistki a to tylko dlatego że nigdy nie robię sobie nadziei i wymyślam najgorsze scenariusze wszystkich wydarzeń, żeby się nie zawieść.... CO o tym myślicie? Może też coś podobnego odczuwacie?" o bratnia dusza</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

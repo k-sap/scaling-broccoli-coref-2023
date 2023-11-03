@@ -1,0 +1,26 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">- Przysięgam - przysiągłem z czystym sumieniem.</p>
+        <p xml:id="p-2">Aniela Sopelkundel myślała, drapiąc się po głowie wielkim zakrzywionym paluchem.</p>
+        <p xml:id="p-3">- Kurde, synu - zaczęła po chwili. - Naprawdę chciałabym ci pomóc. Ale jeśli chodzi o Halinę... To było naprawdę dobre dziecko. Takie ciche, posłuszne, nigdy żadnych kłopotów. Dobrze się uczyła. Nie przypominała nikogo z rodziny. Byłam z niej bardzo dumna. Nigdy bym się nie spodziewała, że właśnie ona...</p>
+        <p xml:id="p-4">Mamuśka Sopelkundel zamilkła i zaczęła nerwowo pocierać oczy.</p>
+        <p xml:id="p-5">- Że co? - ponagliłem, wietrząc brudną tajemnicę.</p>
+        <p xml:id="p-6">- Że o mnie zapomni.</p>
+        <p xml:id="p-7">- Była młoda, ładna... Pewnie miała różne podejrzane sympatie w większej ilości...</p>
+        <p xml:id="p-8">- A skąd - burknęła. - Tylko te książki i książki. Pewnie od tego tak się jej poprzestawiało.</p>
+        <p xml:id="p-9">Postawiłem na swoją ostatnią szansę i podałem jej przedarte zdjęcie.</p>
+        <p xml:id="p-10">- Co to ma być? - spytała, patrząc na mnie nieufnie.</p>
+        <p xml:id="p-11">- Jak robię materiał, cały się poświęcam. Wyciągnąłem to ze śmietnika Haliny. No, jak, zna pani to zdjęcie?</p>
+        <p xml:id="p-12">- Coś tak jakby - przyznała po dłuższym zastanowieniu.</p>
+        <p xml:id="p-13">- I wie pani, kto był na tej oderwanej połówce?</p>
+        <p xml:id="p-14">- Tak mi się zdaje, że Halina - powiedziała.</p>
+        <p xml:id="p-15">- Halina - powtórzyłem. Przytaknęła. Zacząłem się zastanawiać, czy w ogóle kontaktuje, co do niej mówię.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

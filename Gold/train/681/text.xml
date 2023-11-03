@@ -1,0 +1,17 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Rynek wideo jeszcze nie istniał. Właściciele nielicznych wypożyczalni bezkarnie [piractwo wideo] kopiowali domowym sposobem "na dwa magnetowidy" oryginalne kasety z Zachodu lub piracko nagrywali filmy z telewizji zachodnioniemieckiej i sami chałupniczo opracowywali je dźwiękowo. W połowie lat 80. nie było w Polsce nawet szczątkowego systemu ochrony praw autorskich.</p>
+        <p xml:id="p-2">Antoni Gabański wkrótce zaczął organizować kolejne wypożyczalnie na terenie Trójmiasta. Rozbudowę firmy przerwała wizyta milicji. Wedle właściciela najście to zapoczątkowało dwuletni okres prześladowania go przez gdańską MO i SB. Normalny rozwój firmy - w owych pionierskich, pirackich czasach oznaczało to podwajanie kapitału co miesiąc - został zahamowany.</p>
+        <p xml:id="p-3">Antoni Gabański doszedł wówczas do wniosku, że najkorzystniejsze będzie powołanie własnej spółdzielni pracy:</p>
+        <p xml:id="p-4">- Założyłem ją w Nałęczowie, bo zbyt dobrze znali mnie w Gdańsku i spółdzielni w Gdańsku by mi nie zarejestrowali.</p>
+        <p xml:id="p-5">Prezesem spółdzielni pracy "Vega" spółdz. w Nałęczowie przy ul. Promyk został siostrzeniec Gabańskiego. Sam Antoni Gabański został przewodniczącym Rady Nadzorczej - tak informował gdańską policję we wrześniu 1991 r. Antoniego Gabańskiego mianowano także przedstawicielem spółdzielni.</p>
+        <p xml:id="p-6">W maju 1988 r. "Vega" uzyskała od przewodniczącego Komitetu Kinematografii w Warszawie zezwolenie na prowadzenie wypożyczalni wideokaset. W grudniu 1989 r. zawarła z gdańską "Pro-Omnia" agencja, której właścicielem był Antoni Gabański, umowę-zlecenie na prowadzenie w imieniu i na rachunek "Vegi" działalności gospodarczej. Antoni Gabański wreszcie mógł przystapić do realizacji swego - jak to dziś sam określa - genialnie prostego planu opanowania rynku wypożyczalni wideokaset.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

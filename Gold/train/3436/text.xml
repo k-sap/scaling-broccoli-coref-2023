@@ -1,0 +1,14 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Ostatni tydzień był najbardziej leniwym tygodniem lata w USA. Danych makroekonomicznych było mało, a na rynkach panował marazm. Trochę zamieszania wywołały jedynie wypowiedzi członków Fed i dane z rynku nieruchomości, który czekają ciężkie chwile.</p>
+        <p xml:id="p-2">Zachęcam do sięgnięcia po tygodnik „Barron’s” z 21 sierpnia tego roku („The No-Money-Down Disaster” autor Lon Witter). Znajdują się tam dane, które przemówią do każdego. Autor twierdzi, że w końcu 2005 r. ceny domów były o 30 do 50% za wysokie i teraz nadchodzi korekta, która obniży je o 30% w czasie 3 lat. Gdyby ten analityk miał rację (uważam, że to bardzo prawdopodobne) to konsekwencje dla gospodarki byłyby ogromne. Wspomnę tylko o dużym wzroście obciążeń kredytobiorców wynikającym ze wzrostu stóp (rośnie liczba kredytów ze zmienną stopą procentową – jest ich już blisko 40%), 32,6% kredytów były tymi, w których spłacano tylko odsetki (w 2000 r. 0,6%), a 43% kupujących nie wniosło wkładu własnego.</p>
+        <p xml:id="p-3">Obniżenie wartości domów miałoby katastrofalne skutki, bo banki udzielające pożyczek wpadłyby w pułapkę, z której usiłowałyby się wydobyć przenosząc problem na kredytobiorcę. Na przykład zmuszając go do przejścia ze stałego oprocentowania na zmienne. A jeśli raty nie byłyby spłacane w całości to niedopłaty powiększałyby zadłużenie, zwiększając obciążenie kredytobiorcy. W tej sytuacji wzrost cen benzyny czy inflacja byłyby niczym w porównaniu do problemów zadłużonych Amerykanów. A ponieważ gospodarka amerykańska zależy przede wszystkim od popytu wewnętrznego, to takie problemy konsumentów powinny w końcu doprowadzić do bessy na giełdzie.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

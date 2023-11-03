@@ -1,0 +1,19 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">I wyciągła ręce ku Marji, podniosła głowę i — — o wszechmocy Boska, o dobroci nigdy niewyczerpana!… ulitowała się Najświętsza Panienka. Ślepa przejrzała.</p>
+        <p xml:id="p-2">Patrzy w górę, patrzy na Cudowny Obraz, jakby w ekstazie, jakby nieżywa i uśmiecha się wreszcie, Matkę Boską zobaczyła i poznała, taką, takąsamiuteńką o jakiej jej tak często opowiadano.</p>
+        <p xml:id="p-3">Radość rozpiera jej serce, wielka, ogromna.</p>
+        <p xml:id="p-4">— O Cudowna Panieneczko! — krzykła wkońcu w uniesieniu najwyższem, zerwała się z ziemi i prosto, bez pomocy, bez Jagusi, do ołtarza Matki Boskiej się ciśnie.</p>
+        <p xml:id="p-5">— Puście mię! — woła, puście, Cudownej Panience podziękować idę. Ciemną tu przyszłam, Ona mię uzdrowiła. Już widzę, wszystko widzę.</p>
+        <p xml:id="p-6">Ludzie natychmiast się rozstąpili, a ona padła twarzą na gradusy ołtarza i płacząc rzewliwie modliła się:</p>
+        <p xml:id="p-7">— O Matko Boska, cóż ja Ci zato teraz dam? Jak Ci się odwdzięczę? Ach kochać Cię będę co sił moich i głosić będę wszędzie, żeś dobra, żeś miłosierna, że nas wszystkich miłujesz i najbiedniejszych i najlichszych. O Panienko Najświętsza! O kochanie Ty moje! O śliczności wszystka dziękuję Ci.</p>
+        <p xml:id="p-8">Jagusię strach zdjął. Czy to prawda? Czy ją oczy mylą? — Jakto Elżbietka już nie ciemna!? O Marjo! I nie wiedząc co robić, wybiegła z kościoła, dopędziła kompanję i przewodnikowi tejże opowiedziała co się stało.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

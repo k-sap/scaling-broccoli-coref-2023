@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Wdowa po Piotrze Stołypinie, zamordowanym w roku 1911 premierze, kieruje się z rodziną w stronę Niemirowa, tu znajdą schronienie pod rządami białych. Postanowiono, że Arkaszka Stołypin, praprawnuk Suworowa, szesnastolatek, którego buty się rozlatują, będzie do szkoły chodził boso - tak jak dzieci wiejskie. Chłopiec jest zachwycony.</p>
+        <p xml:id="p-2">Jego wuj, książę Włodzimierz Szczerbatow, schronił się niedaleko nich w chacie leśnika. Ma ze sobą kuferek, którego nigdy nie spuszczał z oka. Leśnik domyśla się, co tam może być: książęce klejnoty. W nocy morduje księcia siekierą i rzuca się na kuferek. Grzebie w papierach, ale żadnych klejnotów nie ma. Są listy, tylko listy - od ukochanej żony księcia.</p>
+        <p xml:id="p-3">Latem 1920 roku, na Krymie, biali kozacy dońscy aresztują Osipa Mandelsztama. Żyd, więc już przez to samo wróg, a do tego mógł mieć opinię komunisty. Maksymilian Wołoszyn, poeta i człowiek miejscowy (dom w Koktebelu), interweniuje, i to skutecznie, u szefa kontrwywiadu. Oskarżenie pana Mandelsztama "o bolszewizm - pisze - o partyjną robotę to absurd. Jest on człowiekiem lekkomyślnym, nie nadającym się do żadnej roboty i nie grzeszącym żadnym przekonaniem politycznym."</p>
+        <p xml:id="p-4">Stan psychiczny Osi jest rzeczywiście nie najlepszy. Rozdrażniony lub bliski depresji, powody są raczej oczywiste, niemniej oboje decydują, że powinien się poradzić psychiatry. Nadia poprosiła psychiatrę, by dyskretnie podzielił się z nią diagnozą. "Pacjent żyje w świecie rojeń - powiedział psychiatra. (W porządku, z tym się można zgodzić.) - Uroił sobie, że jest poetą. I to wybitnym poetą. Stan ciężki". "Kiedy to prawda".</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

@@ -1,0 +1,16 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Po maturze wzmogły się naciski zakonne na Elżbietę. Była dziewczyną potulną, zamkniętą, uległą. Matka mówi, że była dziwadłem. Przechodziła stany lęku, często płakała. Co one jej mówiły? - spytałem wysoką kobietę. One jej mówiły słowa ogólne, które są zawsze groźne. Słowo: potępienie i słowo: wieczne, słowo: pamiętaj i słowo: przeklęci. Elżbieta wracała z gorączką.</p>
+        <p xml:id="p-2">W końcu Elżbieta zniknęła z domu. Pierwszy list, który przysłała z klasztoru, zaczyna się zwrotem: "Przez Maryję do Jezusa!". Tych listów jest kilka. Czuje się na nich rękę cenzora, ale i tak przemykają się tam zdania wymowne: "Proszę Boga, aby dał mi łaskę wytrwania aż do końca". Albo: "Czy wykluczyliście mnie już z waszej pamięci? Błagam, nie czyńcie tego".</p>
+        <p xml:id="p-3">Wysoka kobieta chciała walczyć. Czym może walczyć taka kobieta? Wszystko, co ma, to są zdjęcia płuc. Oglądam ten ponury dokument cały w dymach i w smolistej czerni jam. Z tym zdjęciem wysoka kobieta jedzie przez pół Polski do klasztoru. Przyjmuje ją przełożona. Ta przełożona, która nie jest lekarzem, bierze teraz do ręki zdjęcie, przygląda mu się i wybucha śmiechem:</p>
+        <p xml:id="p-4">- Ach, to przecież nic nie jest.</p>
+        <p xml:id="p-5">Matka wraca, ale nie zastaje męża. Mąż leży w szpitalu, ma ten drugi zawał. Lekarze wątpią, czy go przetrzyma. Matka wysyła do Elżbiety list, żeby natychmiast przyjeżdżała. Ale Elżbieta nie zjawia się. Ten list nie został jej wtedy doręczony. Zamiast niej, w szpitalu, gdzie leży nieprzytomny ojciec, zjawiają się dwie zakonnice, aby sprawdzić, czy rzeczywiście coś temu ojcu jest. Czy któraś z sióstr jest córką chorego? - pyta ordynator. Nie, my jesteśmy z polecenia - odpowiadają i cofają twarze w cień nakrochmalonych chust.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

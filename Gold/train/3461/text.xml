@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Jan Cybis, Malarstwo i rysunek, Muzeum Ziemi Lubuskiej w Zielonej Górze, wystawa czynna do 22 czerwca.</p>
+        <p xml:id="p-2">W dość zgodnej opinii historyków sztuki nie było artysty, który wywarłby większy wpływ na malarstwo polskie pierwszych dziesięcioleci po II wojnie światowej niż Jan Cybis, współtwórca i bodaj najważniejszy przedstawiciel kapizmu (skrót od: Komitet Paryski), czyli naszej narodowej wersji koloryzmu. Jedni po dziś dzień poczytują mu to za zasługę, inni natomiast wyklinają, uważając, że jego estetyczne poglądy na wiele lat przyhamowały w kraju rozwój nowoczesnej sztuki. W swej długiej karierze (zaczynał bowiem krótko po I wojnie światowej, a zmarł w 1970 r.) ulegał różnym czasowym fascynacjom, ale dał się zapamiętać przede wszystkim jako niezrównany piewca wartości kolorystycznych, mistrz efektów fakturalnych, harmonii barwnej, kompozycji dzieła. Daleko mu było zarówno do awangardy, jak i malarstwa symbolicznego czy ekspresyjnego. Malował niemal wszystko: martwe natury i akty, portrety i pejzaże. Tworzył przede wszystkim prace olejne, choć nie stronił od akwareli, gwaszu czy rysunku. Reprezentacyjny fragment tej obfitej i przebogatej spuścizny oglądać można w zielonogórskim muzeum. Ze zbiorów Muzeum Śląska Opolskiego w Opolu wybrano ponad 90 prac z różnych okresów artystycznej aktywności, choć z przewagą prac powojennych. Dziś nie jest to już chyba sztuka, która mogłaby jakoś szczególnie wzruszać lub intelektualnie inspirować, ale jako jeden z filarów polskiego malarstwa drugiej połowy XX w. zasługuje na przypomnienie i poznanie.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

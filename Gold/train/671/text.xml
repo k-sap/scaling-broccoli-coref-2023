@@ -1,0 +1,19 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Marek Pietraszewski: - Każdy może się pomylić...</p>
+        <p xml:id="p-2">Błąd sekretarza uratował szkołę?</p>
+        <p xml:id="p-3">- Lepiej znam się na ludziach niż na przepisach, chociaż powinno być odwrotnie - wzdycha Marek Pietraszewski, sekretarz gminy Krośniewice.</p>
+        <p xml:id="p-4">Sekretarz Pietraszewski przygotował dla krośniewickich radnych analizę subwencji oświatowej za 2003 rok. Popełnił w niej błąd. Z danych, które dostali rajcy wynikało, że gmina dostała 4.087.252 złote. "Zginęło" ponad 270.000 złotych. Błąd sekretarza Pietraszewskiego był błędem tylko na papierze. Gmina dostała przyznane jej pieniądze.</p>
+        <p xml:id="p-5">Problem polega jednak na tym, że radni dostali analizę tuż przed ostatnią sesją, na której mieli podjąć decyzję, czy zlikwidują Szkołę Podstawową w Jankowicach. Uchwała w sprawie tzw. zamiaru likwidacji szkoły, nie przeszła na obradach. Siedmiu radnych było na "tak", siedmiu nie przychyliło się do projektu likwidacji podstawówki w Jankowicach. Jeden z radnych nie zajął jasnego stanowiska w tej sprawie.</p>
+        <p xml:id="p-6">Tuż przed głosowaniem przewodniczący poszczególnych komisji przedstawili ich stanowiska, dotyczące likwidacji podstawówki w Jankowicach. W przypadku komisji oświatowej czterech z pięciu radnych, którzy w niej działają, nie zajęło ani stanowiska na "tak", ani na "nie".</p>
+        <p xml:id="p-7">Pytanie, czy na ich decyzję miała wpływ analiza subwencji oświatowej, którą dostali od sekretarza Pietraszewskiego?</p>
+        <p xml:id="p-8">- Analiza wprowadziła zamieszanie, ponieważ nie wiedzieliśmy, ile w końcu mamy pieniędzy na szkoły - komentuje radny Robert Nowak, przewodniczący komisji oświatowej. - Jak w takiej sytuacji podjąć decyzję o likwidacji jednej z nich?</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

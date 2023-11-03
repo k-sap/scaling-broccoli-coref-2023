@@ -1,0 +1,16 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Aby określić udział jeleni i saren w szkodach, wykonano zimowe tropienia tras żerowania tych gatunków. Posuwając się wzdłuż trasy żerowania jelenia lub sarny, notowano gatunek i średnicę świeżo zgryzionych pędów głównych gatunków lasotwórczych. Na tej podstawie - osobno dla jeleni i saren oraz dla poszczególnych gatunków drzew - obliczony został udział zgryzanych pędów w poszczególnych przedziałach średnic żeru. Dla każdego przedziału policzono też procent pędów zgryzionych przez jelenie i sarny, zmierzony na trasach żerowania.</p>
+        <p xml:id="p-2">Żerowanie jeleni i saren</p>
+        <p xml:id="p-3">Preferencje jeleniowatych względem gatunków żeru pędowego oceniono na podstawie znacznej ilości materiału. W Nadleśnictwie Gdańsk były to 54 tys. pędów, z których 4668 (8,6%) było zgryzionych przez jelenie i sarny.</p>
+        <p xml:id="p-4">W Nadleśnictwie Wejherowo odpowiednio - 112 tys. pędów i 14024 (12,5%) zgryzionych. W obu nadleśnictwach jelenie preferowały dąb, jawor, jesion oraz lipę. Dodatkowo w gdańskich lasach jeleniowate wybierały buk, olszę i sosnę, a w wejherowskich - jodłę. Wspólna dla obu nadleśnictw lista gatunków unikanych przez te zwierzęta obejmuje brzozę, świerk i modrzew.</p>
+        <p xml:id="p-5">Tropienia tras żerowania dostarczyły informacji o średnicach zgryzanych pędów buka, dębu i sosny. Podczas tropień, wykonanych tylko na terenie Nadleśnictwa Wejherowo, zebrano dane dotyczące 273 pędów zgryzanych przez jelenie oraz 833 pędów uszkodzonych przez sarny. Można zauważyć, że przeciętna średnica zgryzanych pędów była najniższa dla buka, pośrednia dla dębu i najwyższa dla sosny. Druga wykryta zależność dotyczy średnic pędów zgryzanych przez oba gatunki zwierząt: sarny wyraźnie wybierały pędy cieńsze, a różnice pomiędzy obydwoma gatunkami były statystycznie istotne.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

@@ -1,0 +1,25 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Czy ze spisu dowiemy się tylko o problemach ogólnokrajowych?</p>
+        <p xml:id="p-2">Nie. Bardzo ważne są też wyniki dotyczące konkretnych gmin. Dzięki nim można dowiedzieć się o poziomie wykształcenia mieszkańców, migracji, niepełnosprawności, bezdomności. W spisach zebranych będzie wiele informacji, których nie ma w żadnych rejestrach i ewidencjach urzędowych, i których nie można pozyskać z innych źródeł, oprócz spisowych. To jedyne pełne informacje na temat ponad 38 milionów Polaków. Polska jest bodaj jedynym krajem na świecie, w którym jednocześnie prowadzi się spis powszechny i rolny. Z ubiegłorocznych szacunków wiemy, że dzięki temu zaoszczędzimy 55 mln zł. Z tych samych wyliczeń wynika, że cały spis ma kosztować ok. 600 mln zł.</p>
+        <p xml:id="p-3">Spis na Śląsku</p>
+        <p xml:id="p-4">W naszym województwie będzie pracować 22 tys. rachmistrzów. To oni odwiedzą i spiszą:</p>
+        <p xml:id="p-5">- prawie 5 mln ludzi</p>
+        <p xml:id="p-6">- 1,6 mln mieszkań</p>
+        <p xml:id="p-7">- 130 tys. użytkowników gospodarstw rolnych</p>
+        <p xml:id="p-8">- 200 tys. użytkowników działek rolnych.</p>
+        <p xml:id="p-9">Kto może być rachmistrzem?</p>
+        <p xml:id="p-10">Człowiek mający przynajmniej 18 lat, wykształcenie co najmniej średnie i będący osobą „zaufania publicznego”. Rachmistrze powinni mieszkać na terenie gminy, w której chcą pracować.</p>
+        <p xml:id="p-11">Kto ustala szczegółowe wymagania?</p>
+        <p xml:id="p-12">Gminny komisarz spisowy, czyli wójt, burmistrz lub prezydent, ma prawo wprowadzić dodatkowe wymagania. Np. preferować bezrobotnych bez zasiłków, studentów czy emertów.</p>
+        <p xml:id="p-13">Kto prowadzi nabór?</p>
+        <p xml:id="p-14">Gminny komisarz spisowy. To on podejmuje decyzję o terminie naboru. Ustala też skład komisji kwalifikującej czy losującej kandydatów.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

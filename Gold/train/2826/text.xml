@@ -1,0 +1,14 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Projekt "Przekroczyć próg" jest inicjatywą partnerską i będzie realizowany przez Ośrodek Pomocy Społecznej w Rybniku (lider) oraz Polski Związek Niewidomych – Okręg Śląski. Celem ogólnym projektu jest zapewnienie równego dostępu do życia społecznego i zawodowego osobom niewidomych i słabowidzącym.</p>
+        <p xml:id="p-2">Projekt skierowany jest do 50 osób niepełnosprawnych z dysfunkcją wzroku i przewiduje: • poprawę jakości życia poprzez zwiększenie umiejętności społecznych i zawodowych (szkolenia), • utworzenie Punktu Aktywności Lokalnej (PAL) w Rybniku przy ul. Chrobrego 16, • wzmocnienie potencjału osobowościowego osób niewidomych i słabowidzących poprzez zwiększenie motywacji do działania i zaufania we własne siły, • podwyższenie świadomości społecznej wśród mieszkańców Miasta Rybnika (m.in. przez utworzenie strony internetowej, rozpowszechnianie ulotek i broszur, organizację promującą równość szans), • integrację osób niewidomych i słabowidzących poprzez działalność PAL, odbudowanie bądź wzmocnienie więzi rodzinnych i społecznych beneficjentów poprzez ich uczestnictwo w PAL, • konsultacje indywidualne i grupowe beneficjentów ze specjalistami w PAL, • umożliwienie osobom niewidomym i słabowidzącym dostępu do informacji w PAL (internet, czasopisma w języku Braille'a).</p>
+        <p xml:id="p-3">„Azymut – moja pasja, moja szkoła, mój zawód, moja praca” – budżet projektu to ponad 600 000,00zł. Projekt powstał z inspiracji i inicjatywy Platformy Poradnictwa Zawodowego grupującej m.in.. przedstawicieli Powiatowego Urzędu Pracy w Rybniku, Rybnickiego Centrum Edukacji Zawodowej Centrum Kształcenia Ustawicznego oraz Praktycznego, Zespołu Szkół Technicznych oraz przy współpracy środowiska doradców zawodowych w Rybniku.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

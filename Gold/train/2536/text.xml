@@ -1,0 +1,12 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Jest w niej poezja – Każdy wiersz obrazuje twórcę – przekonuje 19-letnia poddębiczanka Aleksandra Janaszkiewicz, która w sobotę zadebiutowała tomikiem poezji „Schiizofrenie wyłamanych drzwi” ? Krzysztof Kaniecki: Co czujesz stając przed publicznością i czytając swoje wiersze? Aleksandra Janaszkiewicz: – Tak, byłam przerażona. Jednak, to mnie pociąga. Jest to pewien rodzaj masochizmu, gdyż moje wiersze zrodzone są z gniewu, żalu i rozgoryczenia. I właśnie to chcę z siebie wyrzucić. ? W autoportrecie prezentujesz siebie jako osobę szczęśliwą, trochę despotyczną i niedostępną dla innych. Ile w tym jest prawdy? – Ten wiersz jest takim troszkę gorzkim komentarzem do tego, że wielokrotnie, mimo tej całej poezji, byłam postrzegana jako osoba dość chłodna i rzeczowa. Być może wypowiadając się poprzez wiersze przestałam mówić do ludzi. Przez to wydawałam się woskową figurą. Nie człowiekiem. ? Ale gdyby tak było, to z pewnością nie zobaczylibyśmy na promocji aż tylu znajomych. – Ale to są wyjątkowi ludzie. To nie są jedni z wielu. To są „ci”. ? Studiując anglistykę nie masz chyba zbyt dużo czasu, aby tworzyć? – Pisanie jest dla mnie ważniejsze niż studia. Z angielskim jestem za pan brat od dziecka. Na anglistykę poszłam jedynie po to, aby się nie przemęczać. Może to zabrzmieć niepoważnie, ale gdyby studia kolidowały z pisaniem wybrałabym to drugie.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

@@ -1,0 +1,21 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">STRACH PRZED SWOIMI?</p>
+        <p xml:id="p-2">Trudno rozstrzygnąć, na ile poważnym argumentem za rezygnacją z udziału w rządzie "małej koalicji" był lęk Pawlaka przed sprzeciwem wsi wobec liberałów [KL-D]. Wprawdzie z liberałami, ale mieliby chłopi chłopskiego premiera! A tak?</p>
+        <p xml:id="p-3">Czy chodziło o program, czy tylko o to, kto będzie decydował?</p>
+        <p xml:id="p-4">Jest rzeczą mniej ważną, czy była to samodzielna decyzja premiera, czy uległ on naciskom aparatu własnej partii. Ważniejsze, jaką rolę w odrzuceniu "trójki" odegrał prezydent.</p>
+        <p xml:id="p-5">ROLA PREZYDENTA</p>
+        <p xml:id="p-6">Jeśli prawdą jest, że to prezydent [Lech] Wałęsa sprzeciwił się tak szerokiemu udziałowi "małej koalicji" w rządzie Pawlaka, oznacza to, że woli on słaby rząd, przy którym jego pozycja będzie silniejsza.</p>
+        <p xml:id="p-7">Ale słaby rząd - prezydent zapewne o tym pamięta - to pełna odpowiedzialność za wszystkie sprawy państwa. Wydaje się więc, że - w tak trudnym czasie - w interesie Belwederu jest popieranie silnej ekipy. Jej sukces byłby chwałą dla prezydenta w następnych wyborach, a jej klęska - jego klęską.</p>
+        <p xml:id="p-8">RZĄD MOŻE POWSTANIE, ALE CZY PORZĄDZI?</p>
+        <p xml:id="p-9">Mało prawdopodobne, aby "ponadpartyjny rząd fachowców" ( "wachowców" - jak mówią złośliwcy) przeszedł przez głosowanie w Sejmie. Może on liczyć na - mniej więcej - 100 głosów PSL i SLD.</p>
+        <p xml:id="p-10">Miałby on natomiast szanse uzyskać większość, gdyby prezydent powiedział: to mój rząd i biorę za niego odpowiedzialność.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

@@ -1,0 +1,22 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">- Czekaj, czekaj! Skoro o to zapytała, to znaczy, że ma wobec ciebie poważne zamiary. Być może nawet cię kocha.</p>
+        <p xml:id="p-2">- Być może.</p>
+        <p xml:id="p-3">- Robert, jeśli ona cię kocha i ty ją też, to...</p>
+        <p xml:id="p-4">-...to czemu mnie straszy?! - Rozcapierzył ręce i puścił drążek. - O mało zawału nie dostałem! Zrobi ła kolację i podała ruskiego szampana! Cedziłem przez zęby, bo bałem się udławić pierścionkiem zaręczyno wym.</p>
+        <p xml:id="p-5">- Jakim znów pierścionkiem?</p>
+        <p xml:id="p-6">- A niby gdzie miałby być, jak nie w kieliszku? Pod poduszką?</p>
+        <p xml:id="p-7">Położyła mu pocieszająco rękę na ramieniu. Przechylił głowę i na moment dotknął policzkiem wierzchu jej dłoni. Miał miękki, kilkudniowy zarost. Szybko cofnęła rękę.</p>
+        <p xml:id="p-8">- „Józef Tkaczuk"? - mruknął Robert, odwraca jąc się w stronę wyjścia. - Skądś znam gościa.</p>
+        <p xml:id="p-9">Wysiedli i poszli do klatki Hanki. Weszli na górę i stanęli pod drzwiami. Grzebała w torbie, szuka jąc kluczy, gdy zamek szczęknął, drzwi uchyliły się na długość łańcucha, a po chwili na progu ukazała się matka.</p>
+        <p xml:id="p-10">- Wejdźcie, wejdźcie! - uśmiechnęła się, zapra szając do środka szerokim gestem.</p>
+        <p xml:id="p-11">Hanka zamrugała. Matka w fartuchu z falbanka mi i nowych kapciach na koturnie, obiadowe zapachy dochodzące z wnętrza mieszkania... Przez chwilę mia ła ochotę wziąć Roberta za rękę i zbiec z nim po scho dach. Opanowała się, wytarła buty o wycieraczkę i we szła do środka.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

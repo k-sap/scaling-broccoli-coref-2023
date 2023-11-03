@@ -1,0 +1,17 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">2a. Nie jest wymagane uzyskanie zezwolenia przez cudzoziemców, będących obywatelami państw członkowskich Europejskiego Obszaru Gospodarczego w okresach określonych w ust. 2, w przypadku:</p>
+        <p xml:id="p-2">1) nabycia nieruchomości rolnych położonych: a) w województwach: dolnośląskim, kujawsko-pomorskim, lubuskim, opolskim, pomorskim, warmińsko-mazurskim, wielkopolskim, zachodniopomorskim - po upływie 7 lat od dnia zawarcia umowy dzierżawy z datą pewną, jeżeli przez ten okres osobiście prowadzili na tej nieruchomości działalność rolniczą oraz legalnie zamieszkiwali na terytorium Rzeczypospolitej Polskiej, b) w województwach: lubelskim, łódzkim, małopolskim, mazowieckim, podkarpackim, podlaskim, śląskim, świętokrzyskim - po upływie 3 lat od dnia zawarcia umowy dzierżawy z datą pewną, jeżeli przez ten okres osobiście prowadzili na tej nieruchomości działalność rolniczą oraz legalnie zamieszkiwali na terytorium Rzeczypospolitej Polskiej,</p>
+        <p xml:id="p-3">2) nabycia drugiego domu:</p>
+        <p xml:id="p-4">a) jeżeli nabywca legalnie, nieprzerwanie zamieszkuje co najmniej 4 lata na terytorium Rzeczypospolitej Polskiej lub</p>
+        <p xml:id="p-5">b) w celu wykonywania działalności gospodarczej polegającej na świadczeniu usług turystycznych.</p>
+        <p xml:id="p-6">2b. Obywatele państw członkowskich Europejskiego Obszaru Gospodarczego, będący w dniu uzyskania przez Rzeczpospolitą Polską członkostwa w Unii Europejskiej udziałowcami lub akcjonariuszami spółek handlowych z siedzibą na terytorium Rzeczypospolitej Polskiej, mogą do okresów dzierżawy, o których mowa w ust. 2a pkt 1, zaliczyć okres dzierżawy nieruchomości rolnej przez spółkę, jeżeli przez ten okres, będąc udziałowcami lub akcjonariuszami spółki, osobiście prowadzili na tej nieruchomości działalność rolniczą oraz legalnie zamieszkiwali na terytorium Rzeczypospolitej Polskiej.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

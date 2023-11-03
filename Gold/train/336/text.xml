@@ -1,0 +1,18 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Co zmieni się w Filharmonii z chwilą zmiany dyrektora?</p>
+        <p xml:id="p-2">- Przede wszystkim chciałabym widzieć taką Filharmonię, z której Częstochowa byłaby dumna, i z której dumni byliby ci, którzy w Filharmonii pracują.</p>
+        <p xml:id="p-3">Ależ do tej pory częstochowianie dobrze postrzegali Filharmonię i poziom artystyczny muzyków nie budził zastrzeżeń, podobnie proponowany repertuar.</p>
+        <p xml:id="p-4">- To prawda. Pragnę jednak by, przy wysokim poziomie artystycznym, nasza Filharmonia stała się instytucją bardziej otwartą. Z jednej strony na to, co się dzieje w Polsce i na świecie, z drugiej strony, na potrzeby częstochowskich melomanów a także na wielu znakomitych częstochowskich muzyków, których Filharmonia winna promować.</p>
+        <p xml:id="p-5">Od wielu miesięcy słyszało się o konflikcie na linii dyrekcja - muzycy. Głównie chodziło o zarobki. Z tego powodu musiał odejść Jerzy Swoboda.</p>
+        <p xml:id="p-6">- Nie chodziło jedynie o sprawy finansowe. Dla muzyka, równie ważna lub nawet ważniejsza niż pieniądze jest dobra atmosfera pracy i satysfakcja artystyczna. Tu brakowało po trosze i jednego, i drugiego. Zarówno materii jak i artystycznego ducha, a co za tym idzie entuzjazmu.</p>
+        <p xml:id="p-7">Mimo to na zewnątrz instytucja była postrzegana pozytywnie. Sądzę, że obu byłym dyrektorom udało się wiele osiągnąć. Nie brakowało i ciekawych koncertów, i sław. Orkiestra pod batutą Jerzego Swobody grała wiele i coraz lepiej. Mówi Pani o otwarciu się instytucji, ale ona właśnie w ostatnich latach mocno otworzyła się na różnego rodzaju inicjatywy. W związku z tym moje pytanie, co konkretnie miałoby się zmienić w Filharmonii?</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

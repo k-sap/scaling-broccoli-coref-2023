@@ -1,0 +1,16 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">– To świadczy o tym, że Gwardia umie radzić sobie w ofensywie i na pewno będzie groźnym zespołem – mówi trener Kaszubii, Tomasz Kafarski. – Musimy być bardzo skoncentrowani, szczególnie w liniach defensywnych. Nie wolno nam bowiem tracić tak frajerskich bramek jak ostatnio. Tym bardziej, że zadanie będziemy mieli utrudnione, gdyż nie zagra kontuzjowany Robert Sierpiński. Znajdziemy jednak jakieś rozwiązanie ze środkiem obrony. Z Gwardią przydałoby się wygrać, bo remisów mamy już trochę za dużo.</p>
+        <p xml:id="p-2">Na punkty liczy również wejherowski Gryf, który w Turku zagra z miejscowym Turem, zajmującym ostatnie miejsce w tabeli. A przecież jeszcze w poprzednim sezonie bił się o awans!</p>
+        <p xml:id="p-3">– Sprawdza się twierdzenie, że drugi sezon jest zawsze najtrudniejszy dla nowych w trzecioligowym towarzystwie. Jednak w tym zespole nastąpiły spore zmiany personalne. Dla nas będzie to trudny mecz, bo z pewnością od nas drużyna Tura zechce rozpocząć marsz w górę tabeli. Zapowiada się mała wojenka, bo my też wybieramy się tam z optymizmem, tkwiącym w nas po ostatnim zwycięstwie nad Amicą.</p>
+        <p xml:id="p-4">Najtrudniejsze zadanie czeka tczewską Unię. Jej rywal – Flota – od lat zalicza się do trzecioligowej czołówki. W środę stoczyła dramatyczny pojedynek w Pucharze Polski z pierwszoligową Amicą, przegrywając 3: 4.</p>
+        <p xml:id="p-5">– Jedziemy na ciężki teren, ale wyjdziemy na boisko z myślą, by walczyć o jak najkorzystniejszy wynik – mówi trener Piotr Rzepka. – Tylko z takim podejściem możemy się o taki pokusić.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

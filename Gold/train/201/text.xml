@@ -1,0 +1,16 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">— Jesteśmy jedyną placówką w mieście, która przyjmuje uczniów ze stwierdzoną chorobą psychiczną. Musimy się rozwijać. Drugiego października podpisaliśmy umowę z Państwowym Funduszem Rehabilitacji Osób Niepełnosprawnych. Mamy otrzymać czternaście tysięcy złotych na zakup sprzętu rehabilitacyjnego. To pierwsza tak duża dotacja dla nas — mówi Teresa Paradowska, od września dyrektor szkoły.</p>
+        <p xml:id="p-2">Właśnie inwestycje to największa bolączka szkoły. Zajęcia odbywają się w dwóch starych budynkach. Władze miasta zgadzają się, że konieczna jest przeprowadzka do nowych pomieszczeń, jednak od dłuższego czasu nie dzieje się nic konkretnego w tej sprawie. Ciągłe przenosiny z budynku do budynku są szczególnie uciążliwe, bo niepełnosprawne, nieszczepione dzieci są podatne na wiele chorób, które omijają zdrowych rówieśników. Ponadto stuletni budynek pełen jest barier architektonicznych.</p>
+        <p xml:id="p-3">— Rodzice słusznie mają o to pretensje. Niepełnosprawni to też obywatele miasta. Występujemy w ich imieniu, same dzieci nie upomną się przecież o swoje prawa — zwraca uwagę T. Paradowska.</p>
+        <p xml:id="p-4">Niepełnosprawność i choroby psychiczne to problem społeczny. Jedną z przyczyn ich natężonego występowania w ośrodkach przemysłowych jest skażenie środowiska, w przypadku Górnego Śląska jego działaniu podlegało już kilka pokoleń. Dlatego konieczne jest łagodzenie skutków niepełnosprawności, umożliwienie normalnego funkcjonowania w społeczeństwie, na ile to tylko możliwe.</p>
+        <p xml:id="p-5">— Przy szkole działa stowarzyszenie rodziców „Kontakt”. Jego celem jest tworzenie warunków dla kontynuacji opieki nad dziećmi po zakończeniu nauki w szkole. Problemem Zabrza jest brak warsztatów terapii zajęciowej. Trzeba jeździć np. do Gliwic. Uważam, że problem ten musi znaleźć rozwiązanie — podkreśla dyrektor Paradowska.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

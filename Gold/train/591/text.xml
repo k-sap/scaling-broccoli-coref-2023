@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Wszystko wskazuje na to, że jeszcze w tym roku karszniczanie mieszkający w blokach PKP, staną się właścicielami swoich mieszkań. Jak mówi dyrektor Zakładu Gospodarowania Nieruchomościami PKP w Łodzi Jacek Derwisiński, kolei zależy, by jak najszybciej zakończyć proces. – Wykup kolejnej i myślę ostatniej już partii mieszkań powinien się rozpocząć we wrześniu. Myślę, że do końca roku ci, którzy chcą kupić mieszkania powinni być usatysfakcjonowani. Wiem, że sporo mieszkańców niepokoiło się, że sprawa się przedłuża, ale zgodnie z prawem mamy czas na to, by mieszkania sprzedać do końca przyszłego roku. W wielu przypadkach wystąpiły problemy z podziałami geodezyjnymi i kwestiami własności, ale myślę, że problemy mamy już za sobą – mówi.</p>
+        <p xml:id="p-2">Dyrektor Derwisiński twierdzi, że są już zrobione wyceny. Mieszkańcy jeszcze w tym miesiącu, najpóźniej na początku września, powinni dostać informacje do kiedy mają wpłacać pieniądze za mieszkania.</p>
+        <p xml:id="p-3">– Cieszę się, że wreszcie się doczekamy. Bo już pół roku temu wyceniano nam mieszkania i mówiono, że jeszcze kilka miesięcy i będziemy mogli je kupić. Sporo osób już wzięło na ten cel kredyty – mówi pani Ewa z ul. Sylli w Karsznicach.</p>
+        <p xml:id="p-4">Proces wykupu od PKP mieszkań po preferencyjnych cenach rozpoczął się w Karsznicach ponad pół roku temu. Kolej sprzedała ich do tej pory ponad 400. Chętnych do kupna jest jeszcze blisko 300 osób. Jak szacują w PKP, sprzedanych zostanie w sumie ponad 60 proc. wszystkich kolejowych bloków w Karsznicach. Te, które nie zostaną sprzedane do końca przyszłego roku, zostaną przekazane miastu.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

@@ -1,0 +1,16 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Profesor Gianfranco Fineschi, dyrektor Instytutu Kliniki Ortopedycznej Uniwersytetu Katolickiego, przeprowadził w znieczuleniu ogólnym bezkrwawy zabieg nastawienia przedniego zwichnięcia prawego barku z odcinkowym złamaniem obrąbka stawowego. Następnie kończynę unieruchomiono przy pomocy bandaża.</p>
+        <p xml:id="p-2">Jako osobisty lekarz Papieża miałem prawo utrzymywać, że do tego upadku przyczynił się również pewien brak pewności w utrzymaniu równowagi, który był efektem zespołu neurologicznego o charakterze poza-piramidowym, schorzenia po raz pierwszy zaobserwowanego w ostatnich miesiącach 1991 roku.</p>
+        <p xml:id="p-3">Początkiem choroby Parkinsona było zauważalne - czy to w czasie pracy, czy też podczas odpoczynku - drżenie niektórych palców lewej ręki. Choroba ta rozwijała się powoli aż do momentu, kiedy wystąpiły wszystkie patognomoniczne (charakterystyczne) i uniemożliwiające pracę objawy chorobowe, których leczenie za pomocą odpowiedniej terapii farmakologicznej i rehabilitacji nie przyniosło pożądanych rezultatów. W ciągu wielu lat liczne konsylia lekarskie zawsze potwierdzały przyjętą diagnozę i strategię terapeutyczną.</p>
+        <p xml:id="p-4">Inny poważny upadek miał miejsce wieczorem 28 kwietnia 1994 roku. Papież pośliznął się w swoim apartamencie i doznał złamania szyjki prawej kości udowej z przemieszczeniem. Chcąc przekonać Papieża, że uraz jest naprawdę poważny, oprócz nocnej wizyty specjalisty ortopedy, w apartamencie papieskim przeprowadzono badanie radiologiczne. Było to ważne, bowiem następnego dnia Ojciec Święty miał się udać z wizytą duszpasterską na Sycylię.</p>
+        <p xml:id="p-5">Zabieg wszczepienia protezy stawu biodrowego przeprowadził profesor Fineschi z kliniki Gemelli. Hospitalizacja była dość długa i wymagała męczącego okresu rehabilitacji ruchowej. Papież zaczął chodzić o lasce, z którą później już się praktycznie nigdy nie rozstawał. W następnych latach wykorzystywano ruchomy podest, ponieważ Ojciec Święty coraz mniej panował nad swoimi ruchami i równowagą.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

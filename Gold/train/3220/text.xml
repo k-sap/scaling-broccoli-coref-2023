@@ -1,0 +1,14 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">sp1: szczęść Boże witam serdecznie</p>
+        <p xml:id="p-2">sp0: nie da się w pełni wychować człowieka bez uwzględnienia także jego sfery religijnej to słowa. polskich biskupów które w minioną niedzielę wierni usłyszeli w kościołach. był to list skierowany do wiernych w związku z dwudziestoleciem wprowadzenia religii do polskich szkół. panie marszałku był pan w gronie tych osób które zabiegały o powrót w tysiąc dziewięćset. dziewięćdziesiątym roku religii do szkół. proszę przypomnieć klimat tamtych czasów</p>
+        <p xml:id="p-3">sp1: no uważaliśmy że jest to zupełnie naturalna część. naszej wolności. i tej wolności która wiąże się z odzyskaniem niepodległości. dlatego że w wolnej Polsce zawsze. religii można było uczyć w szkołach to była normalna część wychowania tak jak nasi biskupi napisali. ale z drugiej strony to była jedna z tych swobód których naród bardzo. mocno i dramatycznie bronił w czasach PRL-u dlatego że jeszcze przez pewien. katechizacja szkolna szczególnie w okresie destalinizacji była przywrócona i potem utrzymana Gomułka. wyrzuca i to wyrzucenie. nauczania poza szkoły. to że jako młodzi ludzie musieliśmy chodzić. nie wiem w zimie do salek katechetycznych. że nauczyciele religii byli traktowani jako nie nauczyciele w ogóle wiem to dobrze bo. moja mama uczyła religii wtedy kiedy nie mogła już w szkole pracować. to była sytuacja zupełnie nienormalna i my uważaliśmy że częścią wolności z której korzystamy. jest również zagwarantowanie. dzieciom i rodzinom prawa do. przekazu wiedzy religijnej w szkole a nie poza szkołą. no to oczywiście spotykało się z dużą agresją ze strony postkomunistów ale również co warto przypomnieć tych środowisk udeckich Unii Demokratycznej wtedy. tej radykalnej. radykalnych ugrupowań liberalnych które wtedy uważały że komuniści mogą być taką siłą. którą się użyje do walki z tym żeby odradzająca się w Polsce demokracja. żeby nie miała charakteru konserwatywnego żeby nasze państwo nie było państwem opartym na etyce chrześcijańskiej no i tutaj ich używano powstało takie. absurdalne hasło klerykalizacji życia publicznego</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

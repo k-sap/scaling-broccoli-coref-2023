@@ -1,0 +1,16 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Przekupni celnicy</p>
+        <p xml:id="p-2">Funkcjonariusze z łódzkiej delegatury Agencji Bezpieczeństwa Wewnętrznego zatrzymali wczoraj ośmiu celników i przedsiębiorcę z Łodzi w wieku od 27 do 48 lat. Celnicy 27-letni Krzysztof Ch., 27-letni Kryspin H., 32-letni Piotr S., 37-letni Piotr Ł., 36-letni Krzysztof G., 33-letni Jarosław D., 43-letni Andrzej M. i 38-letni Artur R. są podejrzani o przyjęcie co najmniej 250 tys. zł łapówek, a biznesmen 48-letni Piotr P. o przedstawienie do odpraw celnych fałszywych dokumentów, na podstawie których do Polski sprowadzono towar z Dalekiego Wschodu. W areszcie znaleźli się kierownik oddziału celnego w Grodzisku Mazowieckim, czterech celników z Mszczonowa, Marek i Pruszkowa oraz trzech z Izby Celnej w Warszawie</p>
+        <p xml:id="p-3">- Można powiedzieć, że jest to kontynuacja śledztwa przeciwko celnikom ze Skierniewic. Podobnie jak w tamtej sprawie chodzi o przemyt do Polski towarów z Dalekiego Wschodu - mówi kpt. Wojciech Barański , rzecznik prasowy łódzkiej delegatury ABW. - Do tej pory zarzuty przedstawiono 43 osobom. 20 w tym 15 celników zostało już oskarżonych. Na akt oskarżenia oczekuje 23 agentów celnych i przedsiębiorców</p>
+        <p xml:id="p-4">Według ABW celnicy za łapówki (w kwotach od 22 do 62 tys. zł) przymykali oczy na niezgodność co do wartości, ilości oraz jakości importowanych towarów z dokumentami celnymi</p>
+        <p xml:id="p-5">Szacuje się, że Skarb Państwa na tym procederze mógł stracić (w cle i podatku VAT) ponad 15,4 mln złotych. Celnikom grozi do 8 lat, a przedsiębiorcy do 5 lat pozbawienia wolności. (dag)</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

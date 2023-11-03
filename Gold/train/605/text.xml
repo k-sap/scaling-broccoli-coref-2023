@@ -1,0 +1,14 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">t.turczyn@prasa.gda.pl</p>
+        <p xml:id="p-2">Kampanie wyborcze ubiegających się o ster miasta trwają w najlepsze. I nie da się nie zauważyć, że miasto podzieliło się na dwa obozy. Jeden popierający Bugajskiego, a drugi Frankensteina. Jak wygląda zjednywanie sympatii mieszkańców? Odbywa się drogą ulotkowo-plakatową. Obaj kandydaci mają do przekonania 2338 osób uprawnionych do głosowania w obwodzie nr 4 i także nie stronią od spotkań z nimi. Jak obaj panowie oceniają kampanie wyborcze przeciwnego obozu? - Nie przyglądam się temu, co on robi. Ale znając tych ludzi na czele z Marią Poprawską, sądzę, że zajmują się moją osobą, bo nie mają programu - stwierdza Mirosław Bugajski. - Ich kampanię oceniam jako negatywną. - Jestem zaskoczony wypowiedzią pana Bugajskiego na temat sądów znajdującą się w jego ulotce wyborczej - odbija piłeczkę Frankenstein. - Ale tego typu retorykę pozostawiam bez komentarza. Sądzę, że mieszkańcy wybiorą mądrze.</p>
+        <p xml:id="p-3">Obaj panowie nie ukrywają wzajemnej niechęci. Obaj także zapowiadają zwycięstwo wyborcze. Przypomnijmy, to Krzysztof Frankenstein zanegował prawidłowość procedur wyborczych w Obwodowej Komisji nr 4 podczas ubiegłorocznej II tury wyborów. Sąd Okręgowy w Koszalinie przyznał mu rację i nakazał wybory powtórzyć w całym mieście. Sąd Apelacyjny, do którego odwołał się m.in. Mirosław Bugajski, zmienił o tyle decyzję, że nakazał powtórne głosowanie tylko w spornym obwodzie. Tym samym wynik z pozostałych pięciu obwodów utrzymano i dlatego o 171 głosów prowadzi na razie Frankenstein. Sławnianie głosują w najbliższą niedzielę od godziny 6 do 20 w Obwodowej Komisji nr 4 - w Specjalnym Ośrodku Szkolno-Wychowawczym. ‹</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

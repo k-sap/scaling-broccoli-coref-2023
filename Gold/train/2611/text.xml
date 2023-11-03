@@ -1,0 +1,18 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Kilka lat temu koło Zambrowa sześciu uczniów kursu nauki jazdy razem ze swoim instruktorem zasypało właśnie taki rów. Potem próbowali nysą sforsować zlikwidowany przez siebie przejazd. Utknęli na torach, gdyż nie było płyt między szynami. Wszyscy zginęli od uderzenia pociągu.</p>
+        <p xml:id="p-2">Niestety, prawda jest taka, że nadal nie ma żadnych zabezpieczeń będących skuteczną zaporą dla bezmyślności i braku wyobraźni.</p>
+        <p xml:id="p-3">TRAGICZNA STATYSTYKA</p>
+        <p xml:id="p-4">We Francji w latach 1971-97 w katastrofach kolejowych zginęło 306 osób, a 510 było rannych. W tym samym czasie w Niemczech (bez tragedii pod Eschede) zginęły 293 osoby, a 628 było rannych. W Polsce od 1980 r. zginęło w katastrofach kolejowych 399 osób, rannych było 2908 pasażerów.</p>
+        <p xml:id="p-5">Od 1990 r. liczba wypadków w Polsce spadła o ponad 70 procent. Zmniejszyła się również liczba ofiar śmiertelnych. W 1980 r. było ich 88, rok później - 53. W ostatnich latach: w 1995 - 9 ofiar śmiertelnych, w 1996 r. - 6 i w zeszłym roku - 15.</p>
+        <p xml:id="p-6">W 1980 r. usterki techniczne torów były przyczyną aż 510 wypadków na kolei, w roku 1997 - 57, w tych samych latach liczbę wypadków z powodu usterek wagonów zmniejszono z 316 do 20.</p>
+        <p xml:id="p-7">Udało się też zdyscyplinować maszynistów i dyspozytorów ruchu. W 1980 roku aż 44 wypadki nastąpiły po przejechaniu sygnału "stój" . W roku ubiegłym takich wypadków odnotowano tylko osiem. Miernik wypadkowości (czyli liczba wypadków na milion przejechanych kilometrów) w 1980 r. wynosił w Polsce 3,22, w ostatnich latach jest mniejszy o ponad połowę.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

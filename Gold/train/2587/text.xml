@@ -1,0 +1,17 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Zdaniem obserwatora: Omijać pecha</p>
+        <p xml:id="p-2">Opolanie lubią sport żużlowy. Świadczy o tym wielotysięczna frekwencja widzów na ligowych zawodach. Tradycje żużlowych imprez w Opolu sięgają lat pięćdziesiątych minionego wieku. Dzisiaj jednak coraz trudniej o dobrych zawodników i silną drużynę.</p>
+        <p xml:id="p-3">Walczące w I-ligowej stawce Towarzystwo Żużlowe Opole, miało w tym sezonie nieudany początek. Po I rundzie rozgrywek opolanie zajmują ostatnie miejsce z dorobkiem trzech punktów. Czy w siedmiu spotkaniach można było więcej wywalczyć? Na pewno tak, ale obok niezaprzeczalnych chęci do zwyciężania, opolskiej drużynie zabrakło nieco szczęścia. O jej porażkach w kilku meczach zadecydowały dwa lub nawet jeden nieudany wyścig.</p>
+        <p xml:id="p-4">Przed opolskim żużlowcami II runda spotkań, która rozpoczyna się w najbliższą niedzielę meczem rewanżowym z GKM Grudziądz. Przed dwoma tygodniami, opolski zespół, choć jeździł w Grudziądzu w optymalnym składzie, przegrał spotkanie dość nieszczęśliwie. O wyniku meczu zadecydował ostatni, przegrany przez Sama Ermolenkę i Adama Łabędzkiego, bieg asów.</p>
+        <p xml:id="p-5">Na domiar złego, występujący w barwach TŻ, Czech Vaclav Milik, tak pechowo upadł, że odnowiła mu się stara kontuzja kręgosłupa i zapewne długo, a może wcale, nie zobaczymy go na żużlowym torze. W ubiegłym roku Milik w starciu z bandą w Opolu, w bardzo skomplikowany sposób połamał sobie łokieć. Do dziś chirurdzy dziwią się, że powrócił na tor.</p>
+        <p xml:id="p-6">W rewanżowej rundzie opolscy sympatycy żużla oczekują lepszych rezultatów od swojej drużyny. Zarząd Towarzystwa natomiast nawet nie dopuszcza myśli o ewentualnym spadku zespołu do II ligi. Aby zachować status I-ligowca należy zająć co najmniej szóste miejsce. Siódma lokata, szansę walki o utrzymanie się, daje w meczach barażowych z II-ligowcem.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

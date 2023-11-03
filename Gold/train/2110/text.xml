@@ -1,0 +1,14 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">„Aby pomóc młodemu człowiekowi wyzwolić się z zamknięcia w sobie i poczuć się przyjętym do wspólnoty miłości, wychowawca powinien oddramatyzować fakt masturbacji, a także nie odmawiać wychowankowi szacunku i życzliwości”. Wielu młodych ludzi przeżywa kryzys masturbacji w sposób bardzo bolesny i dramatyczny. Czują się upokorzeni i poniżeni najpierw we własnych oczach. „Onanizuję się, choć bardzo wstydzę się tego. Chciałbym z tym skończyć, ale nie wiem jak” – wyznaje bezradnie w ankiecie pewien chłopiec.</p>
+        <p xml:id="p-2">Ponieważ młodzi ludzie, bezradni wobec własnych problemów seksualnych, poniżają się we własnych oczach, dlatego też osobista rozmowa z wychowawcą, z kapłanem ma służyć między innymi przywróceniu im szacunku do siebie samych. Okazując im szacunek i życzliwość, pomagamy im jednocześnie odzyskać poczucie własnej godności. Szacunek starszego „brata”, „siostry” winien być świadectwem szacunku samego Boga. Młody człowiek nie rozwiąże nigdy nie tylko problemu seksualnego, ale żadnego innego problemu,odwołując się najpierw do poniżania i pogardy dla siebie. Są to bowiem odruchy destrukcyjne i nie można na nich budować doświadczeń pozytywnych.</p>
+        <p xml:id="p-3">Stąd też zachęta do oddramatyzowania problemu masturbacji posiada doniosłe znaczenie wychowawcze, ponieważ zaprasza rodziców, wychowawców i duszpasterzy, aby auto erotyczne,niedojrzałe zachowania seksualne młodego człowieka traktować jak inne jego ważne sprawy. Oddramatyzować problemy masturbacji to także odzyskać wiarę we własne ludzkie siły, wiarę w możliwość nawiązania głębokich relacji z innymi, otworzyć się na innych, pokonać koncentrację na sobie i swoich potrzebach. Niedojrzałość zachowań autoerotycznych polega właśnie na koncentracji na własnych doznaniach.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

@@ -1,0 +1,20 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">1139 Atami – planetoida z grupy przecinających orbitę Marsa.</p>
+        <p xml:id="p-2">Odkrycie</p>
+        <p xml:id="p-3">Planetoida została odkryta 1 grudnia 1929 roku w Tokio przez japońskich astronomów Okuro Oikawę i Kazuo Kubokawę. Nazwa pochodzi od japońskiego miasta Atami. Przed nadaniem nazwy planetoida nosiła oznaczenie tymczasowe (1139) 1929 XE .</p>
+        <p xml:id="p-4">Orbita</p>
+        <p xml:id="p-5">Orbita 1139 Atami nachylona jest do płaszczyzny ekliptyki pod kątem 13, 09°. Na jeden obieg wokół Słońca ciało to potrzebuje 2 lat i 263 dni, krążąc w średniej odległości 1, 94 j.a. od Słońca. Mimośród orbity tej planetoidy to 0, 255.</p>
+        <p xml:id="p-6">Właściwości fizyczne</p>
+        <p xml:id="p-7">Atami ma średnicę ok. 6-7 km. Jego jasność absolutna to 12, 51 m . Okres obrotu tej planetoidy wokół własnej osi to ponad 27 godzin i 26 minut.</p>
+        <p xml:id="p-8">Satelita planetoidy</p>
+        <p xml:id="p-9">Na podstawie obserwacji zmian krzywej blasku odkryto w pobliżu tej asteroidy naturalnego satelitę o wielkości szacowanej na ok. 5-7 km. O odkryciu poinformowano 1 września 2005 roku. Ze względu na niewielkie różnice w rozmiarach obydwu składników tego układu można mówić o nim jako o planetoidzie podwójnej. Obydwa składniki obiegają wspólny środek masy w czasie ok. 0, 7 dnia lub – według innych danych – 27, 4 godziny. W drugim przypadku okres obiegu wokół barycentrum i obrót obydwu składników jest taki sam. Półoś wielka orbity satelity Atami wynosi ok. 20 km. Prowizoryczne oznaczenie satelity tej asteroidy to S/2005 (1139) 1.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

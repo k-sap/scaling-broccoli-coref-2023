@@ -1,0 +1,18 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">- Taak... więc...</p>
+        <p xml:id="p-2">Władysław trzasnął gwałtownie drzwiami materialni i wyszedł.</p>
+        <p xml:id="p-3">Na drugi dzień z rana wytoczyła się sprawa przed Gędźbą. Nielękowski zaczął od tego, że Władysław od czasu zamieszkania w pokoiku zaniedbuje się, wstaje późno, w nocy zamiast spać, pali świecę i czyta, w końcu, podkreśliwszy fakt, że sam codziennie dyżuruje, zwrócił się z propozycją, aby i puer wstawał razem i pomagał mu w załatwianiu nocnej ekspedycji.</p>
+        <p xml:id="p-4">Turkowski próbował się tłumaczyć i wspomniał o sprzeczce literackiej natury i obiecanej mu zemście, ale Gędźba nie dal mu skończyć.</p>
+        <p xml:id="p-5">- Panie Władysławie - rzekł - to... bardzo źle... bardzo. Pan się ośmiela odmawiać racji starszym... pan się zapomina... Proszę od dnia dzisiejszego sypiać w materialni... Trzeba się przyzwyczaić... będzie pan dyżurował.</p>
+        <p xml:id="p-6">- Ależ bo... - próbował zaoponować Władysław. Gędźba wydął wargi i wycedził przez zęby:</p>
+        <p xml:id="p-7">- Nie ma żadnego ale! Proszę słuchać... albo poszukać sobie innego miejsca! Gwizdnę i jutro będę miał stu kandydatów... Czy pan Władysław rozumie?... Gwizdnę!... I radzę panu w żadne głupie czytanie się nie bawić, a lepiej wziąć do rączki farmakopeę, taksy się nauczyć... i raniej wstawać!....</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

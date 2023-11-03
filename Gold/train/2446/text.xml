@@ -1,0 +1,19 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Instytucje odpowiedzialne za funkcjonowanie dróg w Rumi postanowiły zająć się tym problemem. Wskutek porozumienia Urzędu Miasta w Rumi i Generalnej Dyrekcji Dróg Oddział Północny w Gdańsku, rozpoczęto likwidację nawrotek. Po jej zakończeniu pozostanie ich niewiele - będą tylko przy ulicy Polnej oraz pomiędzy Gajową i Parkową. Powstaną natomiast nowe skrzyżowania, na których ruchem kierować ma sygnalizacja świetlna. Światła zostaną zamontowane przy ulicy Górniczej i Sabata. Za dwa lata, przy granicy z Redą, powstać ma również skrzyżowanie z drogą obwodową.</p>
+        <p xml:id="p-2">- Likwidujemy potencjalne punkty kolizji. Podejmujemy więc działania mające na celu zmniejszenie liczby wypadków drogowych. O wiele bezpieczniej wykonuje się manewr zawracania na skrzyżowaniach wyposażonych w sygnalizację świetlną - powiedział Robert Marszałek, naczelnik Wydziału Dróg w Generalnej Dyrekcji Dróg, oddział Północny. - Poza tym, ulice Sobieskiego i Grunwaldzka to drogi krajowe oraz fragment trasy międzynarodowej. Na drogach tej rangi bowiązują standardy, których musimy przestrzegać. Mamy nadzieję, że podjęte działania przyczynią się do wzrostu bezpieczeństwa na rumskich drogach.</p>
+        <p xml:id="p-3">Musimy jednak pamiętać, że nawet najlepsza droga nie rozwiąże wszystkich problemów. O to, aby szczęśliwie dojechać do celu, zadbać muszą przede wszystkim sami kierowcy.</p>
+        <p xml:id="p-4">Na wąskich nawrotkach manewr zawracania jest szczególnie niebezpieczny.</p>
+        <p xml:id="p-5">Fot. Dariusz Majewski</p>
+        <p xml:id="p-6">Zdarzenia</p>
+        <p xml:id="p-7">Jacek Szawłowski aspirant - specjalista w Wydziale Ruchu Drogowego Komendy Powiatowej w Wejherowie</p>
+        <p xml:id="p-8">Większość kolizji jest wynikiem najechania na tył pojazdu, który przystąpił do manewru zawracania. Jeżeli idzie o ulicę Sobieskiego, to do połowy września br. odnotowano tu 71 zdarzeń drogowych, w tym 6 wypadków z ofiarami w ludziach. Najwięcej wypadków miało miejsce na skrzyżowaniu z ulicą Sabata. Aczkolwiek wydawać by się mogło, że ze względu na sygnalizację świetlną to skrzyżowanie jest bezpieczne. Doszło tam do 14 zdarzeń, w których 2 osoby zostały ranne.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

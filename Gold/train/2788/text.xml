@@ -1,0 +1,18 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Aczkolwiek "Karolcia" to z podstawówki kiedy jeszcze czytałam lektury:)</p>
+        <p xml:id="p-2">Nielegalna Królewna Z tych lektur, które czytaliśmy, to: "Chłopcy z placu broni", "Kamienie na szaniec", "Mały Książę", "Romeo i Julia"( za Merkucja^^) A z tych, które będę prawdopodobnie przyszłościowo czytać, a już miałam okazję: "Mistrz i Małgorzata", "Potop"</p>
+        <p xml:id="p-3">Mr. Karma Clown Pewnie nie wiele osób się ze mną zgodzi ale mnie niesamowicie wciągnęła Lalka Prusa. Przeczytałem ją w 3 dni i do dziś bardzo dobrze wspominam. Rewelacyjny jest także serial na jej podstawie (film pełnometrażowy już znacznie słabszy).</p>
+        <p xml:id="p-4">Daros23 CYTAT "Pewnie nie wiele osób się ze mną zgodzi ale mnie niesamowicie wciągnęła Lalka Prusa. Przeczytałem ją w 3 dni i do dziś bardzo dobrze wspominam. Rewelacyjny jest także serial na jej podstawie (film pełnometrażowy już znacznie słabszy)." a to jest jak narazie jedyna lektura ktorej nie przeczytalem w calosci ale jak juz pisalem wszystkie lektury szkolne to strata czasu</p>
+        <p xml:id="p-5">Mr. Karma Clown Ja akurat lubiłem czytać lektury. Chyba jedyną przez którą brnąłem z ogromnym trudem było Nad Niemnem</p>
+        <p xml:id="p-6">klauducha14 mnie osobiści podobała się "Kamizelka" oraz '"Stary człowiek i morze"ale tez moze byc "latarnik"</p>
+        <p xml:id="p-7">Lillian CYTAT(Daros23 @ 20.07.2008, 00:21) "ale jak juz pisalem wszystkie lektury szkolne to strata czasu" Czemu tak uważasz ?</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

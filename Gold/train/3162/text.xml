@@ -1,0 +1,23 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">sp0: e metalu i roku</p>
+        <p xml:id="p-2">sp1: roka</p>
+        <p xml:id="p-3">sp0: roka przepraszam no na koncerty chodzę naczy no w zeszłym roku zacząłem miałem być na paru już wcześniej tylko nie wyszło no bo mój brat się naczy ja się połamałem pierwszy a drugi mój brat się rozwalił ale w grudniu byłem na koncercie no i teraz mam nadzieję że będę chodził jak najczęściej</p>
+        <p xml:id="p-4">sp1: mhm eee czy masz jakieś hobbi jakąś pasję ?</p>
+        <p xml:id="p-5">sp0: rower na pewno skakanie na rowerze jazda ekstremalna tak</p>
+        <p xml:id="p-6">sp1: mhm ee czy bierzesz udział w zorganizowanych zajęciach pozaszkolnych i czy jeśli to robisz to czy z własnej woli czy pod wpływem kogoś innego ?</p>
+        <p xml:id="p-7">sp0: też typ kółka matematycznego i tak dalej no to tak kółko no bo matematykę lubię i mnie to interesuje nie że jakoś kujon tak tylko po prostu szybko to łapię nie wiem czemu po prostu tak mam no czasami mi się nie chce ale kurcze no co no trzeba czasami rodzice każą no na przykład miałem chodziłem na dodatkowe z których i tak nic nie wynosiłem bo pani tłumaczyła tak że mi się nawet słuchać nie chciało no i teraz przestałem bo było przygotowanie tylko do konkursu no tak różnie zależy też właśnie od nauczyciela na przykład w razie dodatkowych lekcji też jak tłumaczy</p>
+        <p xml:id="p-8">sp1: mhm okej no rozumiem ee czy uprawiasz jakiś sport</p>
+        <p xml:id="p-9">sp0: mhm jazda na rowerze siatkówka koszykówka</p>
+        <p xml:id="p-10">sp1: rozumiem ee wu ef w szkole pasuje ci ?</p>
+        <p xml:id="p-11">sp0: bardzo lubię tak</p>
+        <p xml:id="p-12">sp1: no to spoko czy czytasz prasę albo książki i jeśli tak to jak często co czytujesz generalnie ?</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

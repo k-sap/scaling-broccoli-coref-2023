@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Wczoraj podczas spotkania małżeństw został podniesiony ten problem i to ponownie w kontekście cierpienia, którego absolutnie nie można było zignorować powtarzaniem pobożnych frazesów, specjalnie przygotowanych na taką okazję. Przyszło mi wtedy na myśl przeżycie sprzed kilkudziesięciu lat, gdy byłem jeszcze małym chłopcem i znajdowałem się w szpitalu po operacji wycięcia wyrostka robaczkowego.</p>
+        <p xml:id="p-2">Gdy się obudziłem w sali szpitalnej, najbardziej dotkliwie przeżywałem przywiązanie mi rąk do brzegów łóżka, tak abym nie pościągał pooperacyjnych bandaży. Ucieszyłem się, gdy zobaczyłem, że ojciec się do mnie zbliża. Poczułem się wyzwolony. Podejdzie i na pewno rozwiąże mi ręce. Uwolni mnie od tej tortury, którą zadali mi lekarz i pielęgniarki. Rzeczywiście, ojciec podszedł, pocałował mnie, o coś pytał, coś mówił, czego już nie pamiętam. Pozostało mi tylko wspomnienie ogromnego zdziwienia, tak wielkiego, że nie mogło się ono pomieścić w moich oczach. Cała moja twarz i nagle zdrętwiałe ciało musiały to wyrażać. Jak to? Ojciec nie odwiąże mi rąk? Ojciec mnie tak pozostawi i pójdzie sobie? Już go do wyjścia wołali. I wtedy... po raz pierwszy w życiu ujrzałem łzy w oczach mojego ojca. Nie chciałem uwierzyć, że on potrafi płakać. On jest przecież taki wytrzymały, z wszystkim potrafi dać sobie radę, niczego się nie boi. A teraz miał twarz skrzywioną, chociaż wszystko robił, żeby się uśmiechać.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

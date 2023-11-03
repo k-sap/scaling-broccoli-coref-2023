@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Jan Jakub Kolski (m.in. "Jańcio Wodnik", "Historia kina w Popielawach") jest jedynym czynnym reżyserem polskim, którego interesuje prowincja, przez co zresztą długo nie był najwyżej notowany w wielkomiejskiej krajowej kinematografii. Ale te jego Popielawy to wieś bardzo konkretna, gdzieś w okolicach Łodzi, gdzie spędzał u dziadków dzieciństwo, a z drugiej strony - miejsce mityczne jak w południowoamerykańskich powieściach z kręgu realizmu magicznego. Podobnie jest w "Pornografii". Fryderyk i Witold, główni bohaterowie, a zarazem reżyserzy zachodzących zdarzeń, jadą do zaprzyjaźnionego z Gombrowiczem ziemianina Hipolita, gospodarującego gdzieś w Sandomierskiem. Tymczasem w dialogach mówi się o leżących nieopodal Popielawach! Jest to więc miejsce umowne, dwór polski, jeszcze jeden dwór - ale niepodobny do tego z Soplicowa ani do tego z Nawłoci. Ø Skazany już na zagładę. Wprawdzie na pozór wszystko wygląda zwyczajnie, klomb przed domem, pan na swoim miejscu, parobek na swoim Ø, ale za chwilę ten porządek legnie w gruzach. W pejzażach tak pięknych, że aż strasznych (doskonałe zdjęcia Krzysztofa Ptaka), czai się niepokój nadchodzących czasów. Ten pejzaż przeorała wojna, a wkrótce dokończy dzieła rewolucja społeczna, której symptomy już widać i słychać.</p>
+        <p xml:id="p-2">Co w podupadłym dworku polskim mogą robić dwaj sfrustrowani panowie Witold i Fryderyk, przeniesieni tutaj wprost z zastępczego salonu na ulicy Kruczej w Warszawie? Zabawiają się uwielbianą przez Gombrowicza grą w ludzi, próbując doprowadzić do erotycznego zbliżenia dwojga nastolatków, Heni i Karola. Chcą w ten wyszukany sposób związać ich z sobą, a zarazem związać starość z młodością, co jest, jak wiadomo, jednym z dominujących motywów autora "Transatlantyku". "Ludzkość po trzydziestce wkracza w potworność - pisze Gombrowicz w "Pornografii". - Cała piękność była po tamtej, młodej, stronie". Młodość zostaje "popchnięta w dojrzałość", ale zarazem uwiedziona i wykorzystana.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

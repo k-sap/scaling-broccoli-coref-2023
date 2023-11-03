@@ -1,0 +1,53 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Ona cierpi... bo pana kocha...</p>
+        <p xml:id="p-2">Scena</p>
+        <p xml:id="p-3">WNĘTRZE. DZIEŃ. REDAKCJA. KORYTARZ. TERESA, ELŻBIETA</p>
+        <p xml:id="p-4">Teresa idzie po korytarzu, na którym również widać pełno kwiatów. Teresa spotyka na korytarzu Elżbietę.</p>
+        <p xml:id="p-5">Elżbieta wskazuje Teresie kwiaty.</p>
+        <p xml:id="p-6">ELŻBIETA</p>
+        <p xml:id="p-7">Niezły odjazd, nie?</p>
+        <p xml:id="p-8">TERESA</p>
+        <p xml:id="p-9">Myślałam, że są tylko w holu...</p>
+        <p xml:id="p-10">ELŻBIETA</p>
+        <p xml:id="p-11">Kochana... Są wszędzie...</p>
+        <p xml:id="p-12">TERESA</p>
+        <p xml:id="p-13">Niesamowite.</p>
+        <p xml:id="p-14">ELŻBIETA</p>
+        <p xml:id="p-15">Ciekawe jak zareaguje jak tu przyjdzie...</p>
+        <p xml:id="p-16">TERESA</p>
+        <p xml:id="p-17">Już przyszła. Jest na dole...</p>
+        <p xml:id="p-18">ELŻBIETA</p>
+        <p xml:id="p-19">ZE ŚMIECHEM</p>
+        <p xml:id="p-20">Wcale jej się nie dziwię, że nie może ochłonąć...</p>
+        <p xml:id="p-21">Po chwili</p>
+        <p xml:id="p-22">Ale ma baba szczęście...</p>
+        <p xml:id="p-23">TERESA</p>
+        <p xml:id="p-24">Myślisz?</p>
+        <p xml:id="p-25">ELŻBIETA</p>
+        <p xml:id="p-26">Teresko... Pokaż mi kobietę, która nie chciałaby raz w życiu przeżyć takiej niespodzianki...</p>
+        <p xml:id="p-27">Zbliżenie twarzy Teresy.</p>
+        <p xml:id="p-28">Scena</p>
+        <p xml:id="p-29">WNĘTRZE. DZIEŃ. POKÓJ Z ŻARÓWKĄ NA DRUCIE. KACPER, ZYGA</p>
+        <p xml:id="p-30">Kacper i Zyga patrzą na siebie badawczo.</p>
+        <p xml:id="p-31">KACPER</p>
+        <p xml:id="p-32">Chyba się zagalopowałeś...</p>
+        <p xml:id="p-33">ZYGA</p>
+        <p xml:id="p-34">WYBUCHA</p>
+        <p xml:id="p-35">Możliwe! Ale szlag mnie trafia jak patrzę na to co pan wyprawia!</p>
+        <p xml:id="p-36">PAUZA</p>
+        <p xml:id="p-37">Czego pan chce? Naprawdę na niczym panu nie zależy? Chcę wiedzieć, czy kocha pan tę dziewczynę czy nie?!</p>
+        <p xml:id="p-38">zbliżenie zaskoczonego, wściekłego Kacpra. Zyga patrzy na niego w napięciu. Trochę się uspokaja.</p>
+        <p xml:id="p-39">ZYGA</p>
+        <p xml:id="p-40">Pytałem, czy ją pan kocha?</p>
+        <p xml:id="p-41">KACPER</p>
+        <p xml:id="p-42">Co cię to do jasnej cholery obchodzi, kogo ja kocham, a kogo nie? Kazałem ci jej pilnować...</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

@@ -1,0 +1,21 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Prof. Stefan Lelental, kierownik Katedry Prawa Karnego UŁ: - Politycy uważają, że przy dużym zagrożeniu przestępczością, trzeba surowiej karać</p>
+        <p xml:id="p-2">Kara dobra i kara zła</p>
+        <p xml:id="p-3">Monika Pietras:</p>
+        <p xml:id="p-4">Młoda turystka, która zginęła w Tatrach, była ofiarą człowieka, który już kiedyś odpowiadał za zgwałcenie ze szczególnym okrucieństwem. Sprawca wyszedł z więzienia dwa lata temu. Czy tej zbrodni można było zapobiec?</p>
+        <p xml:id="p-5">Stefan Lelental:</p>
+        <p xml:id="p-6">- Trudno jednoznacznie odpowiedzieć. Z tego, co się wydarzyło w górach, można tylko wnioskować, że to człowiek wykazujący głębokie mankamenty psychiczne, które popchnęły go do kolejnego przestępstwa, a których wcześniej nie rozpoznano.</p>
+        <p xml:id="p-7">- Gwałciciel miał zbyt łagodną karę czy też zawiódł system resocjalizacji?</p>
+        <p xml:id="p-8">- Dziennikarze i niektórzy teoretycy prawa nadużywają pojęcia "resocjalizacja". Obowiązujący dziś kodeks karny wykonawczy nie posługuje się tym pojęciem, a ustawodawca nie stawia takiego zadania przed wykonaniem kary pozbawienia wolności. Fakt izolacji zabezpiecza społeczeństwo przed niebezpiecznym sprawcą, natomiast kara pozbawienia wolności powinna być wykonywana w taki sposób, aby wzbudzić w skazanym wolę współdziałania, by w przyszłości nie popełnił przestępstwa.</p>
+        <p xml:id="p-9">- Przypadki recydywy oznaczają, że skazani mieli za mało "woli współdziałania", czy też szwankuje cały system?</p>
+        <p xml:id="p-10">- Uczestniczyłem w procesie opracowywania nowego kodeksu karnego wykonawczego. U jego podstaw legło założenie, że w Polsce nie będzie więcej niż 40 tysięcy więźniów. Tymczasem mamy ich już ponad 82 tysiące! Jak w takich warunkach przewidziane w kodeksie uregulowania mogą być wykonywane? Administracja zakładów karnych cały wysiłek kładzie tylko na zapewnienie bezpieczeństwa pracownikom i osadzonym.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

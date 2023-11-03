@@ -1,0 +1,16 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Robert jako inżynier osiągnął światowe uznanie - zostawiał po sobie innowacyjne ślady. Często powtarzał: "Pracuję w świątyni techniki i technologii, w której ołtarzem jest komputer i jego liczne dodatki. Należę do ludzi nieuleczalnie chorych na tworzenie nowych form, sieci i systemów. Buduję sztuczny świat, kontynuuję dzieło Boga". Uważał, że człowiek musi ciągle się rozwijać, musi - jak ryba oceaniczna - nieustannie płynąć naprzód albo zginąć. Musi wychodzić poza to, co posiada i czym jest. Tylko wtedy przetrwa. Konsekwentnie urzeczywistniał te zasady. Zajmowała go cyberprzestrzeń, mikroprocesory, sztuczna inteligencja, a nawet technomistycyzm. Jego maksymą było: "Rerum novarum cupides".</p>
+        <p xml:id="p-2">Na biurku stała fotografia Stanisława Lema - w trudnych chwilach u niego szukał pomocy...</p>
+        <p xml:id="p-3">Miał poczucie humoru. Gdy na licznych spotkaniach ze studentami i inżynierami pytano go, czemu zawdzięcza swoje niepowtarzalne osiągnięcia, odpowiadał z miną egipskiego kapłana:</p>
+        <p xml:id="p-4">- Odkryłem, że na tym przewrotnym świecie rzeczy błahe wywołują gigantyczne skutki. Uczył o tym towarzysz Lenin. Tak, proszę państwa - nawet on. Właśnie zauważyłem, iż to moje ryże kłaki pobudzają umysł. Dzięki nim rodzą się w głowie nowe idee, pomysły, formy, sieci i buble!</p>
+        <p xml:id="p-5">Robert żartował - śmiechem pokrywając rzeczywiste zaangażowanie. Już jako dziecko pasjonował się poznawaniem. Rozebrał XVIII-wieczny zegarek Ø dziadka, a później próbował go złożyć. Pozostało jednak za dużo części... Wypatroszył martwego kota, aby zrozumieć jego cielesność, sprawdzić, gdzie ma duszę. Włamał się do czołgu, stojącego na poligonie... Miał niebotyczne aspiracje. Snuł naiwne plany stworzenia homo novus, człowieka bardziej inteligentnego od Adama i Ewy. Jednocześnie zaniedbywał naukę. Otrzymywał złe stopnie, za które był surowo karany przez Ø ojca. Ale kary nie zmieniały jego zamiarów. Przeciwnie, potęgowały pragnienie poszukiwania prawdy i tworzenia.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

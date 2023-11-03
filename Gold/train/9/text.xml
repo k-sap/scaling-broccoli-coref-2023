@@ -1,0 +1,14 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Ogród na... balkonie</p>
+        <p xml:id="p-2">Pani Stanisławie Budkiewicz z ul. Piłsudskiego na powierzchni niewiele przekraczającej półtora metra kwadratowego udało się "upchnąć" aż 15 skrzynek z kwiatami i kilka doniczek. - Utrzymanie takiego balkonu wymaga wiele pracy i serca - przyznaje S. Budkiewicz, której przy kwiatach pomaga córka - Grażyna Stańczyk</p>
+        <p xml:id="p-3">- Nie mamy własnego ogródka, a bardzo kochamy kwiaty. Dlatego każdą wolną chwilę poświęcamy balkonowi. Nasiona wysiewane są już na przełomie lutego i marca. Później wyrastające z nich roślinki pikuje się do skrzynek. - Skrzynki wystawiamy na balkon dopiero w maju-czerwcu - wyjaśnia G. Stańczyk. - Bardzo rzadko używamy gotowych sadzonek ze sklepu, bo nic nie sprawia takiej przyjemności jak wyhodowanie kwiatka od nasionka. O tej porze roku najwięcej pracy jest przy podlewaniu roślin i zasilaniu ich odpowiednimi nawozami. Na balkonie pani Stanisławy rosną: surfinie, petunie, gardenie, aksamitki, przypołudniki, groszek pachnący, kabea, nemezje i werbeny. W sumie kilkadziesiąt kwiatów, z których każdy kwitnie w innym kolorze i w różnym czasie. Efekt? Ogród na balkonie cieszy oczy właścicielki i przechodniów aż do późnej jesieni. Ozdabianie balkonów kwiatami staje się w Brzezinach coraz popularniejsze - Teraz jest za późno, by samemu uprawiać rośliny balkonowe - mówi Bożenna Kolasa ze sklepu ogrodniczego. - Jednak wciąż można kupić kwiaty gotowe do wystawienia na balkon. Najpopularniejsze są petunie, surfinie, oraz czerwone, białe i różowe pelargonie. Modnym kwiatem jest też datura-bieluń. Klientom nie przeszkadza, że jest to kwiat trujący.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

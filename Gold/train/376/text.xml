@@ -1,0 +1,17 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Juniorzy młodsi Arki Gdynia zagrają w turnieju finałowym mistrzostw Polski 17-latków. Ten awans wywalczyli po wyjazdowym zwycięstwie nad Stalą Mielec 3:0 (2:0). Zwycięstwo cieszy tym bardziej, że młodzi gdynianie pierwszy mecz ze Stalą, w Gdyni, przegrali 0:1. Rewanż miał więc słodki smak.</p>
+        <p xml:id="p-2">- Mecz w Gdyni nam nie wyszedł. Jesteśmy świadomi swojej wartości i do Mielca jedziemy po zwycięstwo - mówił przed rewanżem trener żółto-niebieskich Robert Wilczyński. Jak widać, wiedział, co mówi.</p>
+        <p xml:id="p-3">Mecz w Mielcu ułożył się dla gości bardzo dobrze. Już w 11 minucie Mateusz Szwoch strzałem z dystansu, pod poprzeczkę, wyrównał straty z Gdyni. Pięć minut później, także z dystansu, do siatki mielczan trafił Tomek Mokwa i w tym momencie to Arka była już w finale MP. Kropkę na "i" postawił po przerwie Adam Bębenek, ustalając końcowy wynik meczu na 3:0 dla gdynian.</p>
+        <p xml:id="p-4">Arka: Szromnik - Krause, Żołnierowicz, Kiernozem, Haberka - Paprocki - Mokwa, Szwoch, Bębenek (75 Sobótka), Róg (65 Drzewiecki) - Dąbrowski (75 Głuch).</p>
+        <p xml:id="p-5">Radość gdyńskiej ekipy była zrozumiała. Cieszyli się piłkarze, cieszył się sztab szkoleniowy, a warto odnotować, że z trenerem Wilczyńskim współpracują Arkadiusz Gafka i Maciej Dragosz.</p>
+        <p xml:id="p-6">- Teraz czeka nas od 7 do 11 lipca turniej finałowy i nie ukrywam, że naszym celem jest gra o złoty medal i mistrzowski tytuł - deklaruje odważnie trener Wilczyński.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

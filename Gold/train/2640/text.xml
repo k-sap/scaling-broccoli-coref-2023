@@ -1,0 +1,17 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Piekarnia Marlino Haliny Dziurdź i Mariana Segedy otrzymała tytuł Filantropa Roku 2001 oraz statuetkę Ferdynanda.</p>
+        <p xml:id="p-2">Uroczyste wręczenie statuetki odbyło się wczoraj w Teatrze Dramatycznym podczas drugiej już Gali Fundacji Elbląg. W koncercie wystąpili Ryszard Rynkowski i jego przyjaciele — Danuta Błażejczyk oraz Majka Jeżowska. Na saksofonie zagrał też Christian Mawa, młody stypendysta Fundacji Elbląg.</p>
+        <p xml:id="p-3">Promocja darczyńców</p>
+        <p xml:id="p-4">Konkurs o tytuł Filantropa Roku, którego celem jest promocja filantropijnych postaw ludzi biznesu, Fundacja Elbląg zorganizowała już po raz drugi. W ubiegłym roku statuetkę Ferdynanda, nawiązującą do postaci elbląskiego przemysłowca i filantropa Ferdynanda Schichaua, otrzymała firma Alstom Power. Tym razem do tego zaszczytnego tytułu organizacje społeczne, kluby i placówki nominowały kilkanaście firm. Były to: przedstawicielstwo PZU Życie, Alstom Power, firma Partner, sklep Konkurencja, firma Paters, PPHU Indeco, PUH Elpad, PPH Piekarnia Marlino, PUPH Techtrans, firma Prozamet, Biuro rachunkowe Bogusławy Nowaczyk, PPU Elzam Holding, Cukiernia Anetka, Cukiernia U Wołka, Masarnia w Żurawcu, Piekarnictwo-Cukiernictwo Alicji Olborskiej, Agencja Marketingowa Anon 1 oraz Piekarnia Roszczyk w Pasłęku. Najwyższe uznanie w oczach kapituły zyskała Piekarnia Marlino Haliny Dziurdź i Mariana Segedy, nominowana aż przez sześć organizacji. Wyróżnienia przyznano dwóm innym firmom — elbląskiemu przedstawicielstwu PZU Życie oraz Elzamowi Holding.</p>
+        <p xml:id="p-5">Dar elbląskich twórców</p>
+        <p xml:id="p-6">Podczas wczorajszej gali, oprócz występów gwiazd polskiej estrady i młodego elbląskiego saksofonisty, odbyła się również aukcja prac, przekazanych przez elbląskich artystów, z której dochód zasili Fundusz Stypendialny Fundacji Elbląg. Swoje prace ofiarowali: Ryszard Tomczyk, Janusz Hankowski, Halina Różewicz-Książkiewicz, Zbyszek Opalewski, Mirosław Czarny, Piotr Romanowski i Roman Fus.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

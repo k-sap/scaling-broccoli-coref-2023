@@ -1,0 +1,16 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Pamiętam, że przed pucharowymi meczami Legii z Interem mieliśmy porządnego stracha, ale Engel przekonał nas, że wcale nie jesteśmy gorsi od gwiazd z Mediolanu. Potrafił podbudować zawodników psychicznie. Nie udało nam się awansować, ale zagraliśmy jak równy z równym.</p>
+        <p xml:id="p-2">Engel był bardzo dobry, gdy drużynie się wiodło. Zagubił się, kiedy przyszły gorsze wyniki. Zarząd klubu zawiesił mnie wtedy na trzy miesiące: na klubowym zebraniu Engel mówił, że mam " zbyt wysokie ego" i nie gram dla drużyny. Przez cztery miesiące nie rozmawialiśmy ze sobą, bo uważałem, że postąpił wobec mnie nie fair.</p>
+        <p xml:id="p-3">Antoni Piechniczek faworyzował w reprezentacji piłkarzy ze Śląska. Można to było odczuć w kontaktach poza boiskiem. Nie byłem jego ulubieńcem. Duże znaczenie przywiązywał do kondycji. Myślał jak obrońca. Sądzę, że pożyteczniejszy był w klubie niż w reprezentacji, mimo iż osiągnął z nią tak duże sukcesy.</p>
+        <p xml:id="p-4">Przed Mundialem w Meksyku w 1986 r. Piechniczek przesadził z treningami. Na dwa dni przed meczem ganiał nas po polu golfowym. Brakowało nam świeżości. Mogłem biegać przez 90 min w równym tempie. Nie stać mnie było jednak na przyśpieszenie, zryw, śmiałą akcję.</p>
+        <p xml:id="p-5">Andrzej Strejlau to pierwszy trener, któremu nie mogę nic zarzucić. Jest obiektywny, uczciwy, nie faworyzuje nikogo. Nie ma lepszego fachowca w Polsce. Nie zmienię mojej opinii o nim nawet wtedy, jeśli nie powoła mnie już do reprezentacji.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

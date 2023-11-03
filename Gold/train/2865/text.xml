@@ -1,0 +1,18 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">8. Wydział Opieki Społecznej znów z braku funduszów niewiele mógł zdziałać dla przedłużenia gasnących istnień tego ciężaru społecznego, jakim byli zebrani z całej Polski "bieżeńcy" - mieszkańcy "punktów" lub liczne ofiary warszawskie wojny ogólnej i wojny z Żydami w szczególności.</p>
+        <p xml:id="p-2">9. Samodzielny Referat Dyscyplinarny oskarżał i sądził pro foro interno nadużycia służbowe urzędników Rady, których nie brakło!</p>
+        <p xml:id="p-3">10. Wydział Zabezpieczonych Nieruchomości (Sichergestellten Grundstücke) ściągał, owszem, komorne do kas niemieckich, ale napraw i niezbędnych nakładów w zaniedbanych budynkach nie przeprowadzał.</p>
+        <p xml:id="p-4">11. Biuro Ewidencji Ludności, na skutek ciągłego przypływu, koncentracji oraz ciągłych przeprowadzek [z powodu] modyfikacji granic getta, jak też [z powodu] całej masy niemeldowanych ze względów obozowych - nie mogło uchwycić istotnych danych ewidencyjnych ludności getta.</p>
+        <p xml:id="p-5">12. Biuro Wydawania Kennkart, owszem, ściągnęło opłaty, ale nie wydało ani jednej Kennkarty, bo nie otrzymało od władz materiału. Nie zdążyło!</p>
+        <p xml:id="p-6">13. Biuro Wydawania Biletów Tramwajowych zbierało miesięcznie pięciozłotówki (plus 25% dodatek) za tzw. kartę podstawową, uprawniającą Żydów do normalnej opłaty przejazdu w jedynej linii tramwajowej getta.</p>
+        <p xml:id="p-7">14. Wydział Poczty listowej, przekazowej i przesyłkowej miał okresy "świetności", gdy neutralna zagranica, głównie Portugalia i Sowiety, oraz prowincja przysyłały masami paczki żywnościowe dla swych krewnych w getcie, a getto wysyłało na Warszawę paczki "z towarem", omijając tym zakaz obrotu z Aryjczykami - aż do zupełnego zakazu tego ruchu pocztowego. Koło 6000 kartek Czerwonego Krzyża, jakie nadeszły w grudniu 1942 r., nie miało nigdy dotrzeć do adresatów, spoczywających dawno w Treblince. Były to zapytania szczęśliwszych krewnych o los swoich, gdy doszły do nich wieści o akcji lipcowej.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

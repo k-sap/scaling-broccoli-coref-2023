@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Jihad i Rasan, bo tak nazywają się narzeczeni, nikogo nie powiadomili o swoich zaręczynach, obawiając się, że wszyscy, którzy są im bliscy, czuliby się wówczas w obowiązku włączyć w tę uroczystość i w efekcie trzeba by koniecznie urządzić zaręczyny w tradycyjny, huczny sposób, czego oni chcieli właśnie uniknąć. Na ich zaręczynach byli tylko rodzice obu stron i rodzeństwo.</p>
+        <p xml:id="p-2">Luźne rozmowy nagle ucichły i wszyscy spoglądali w stronę ojca Jihada, który odchrząkując, zabierał się do przemówienia. Mój syn mówił zauważył cudowny kwiat w jednym z ogrodów tego miasta. Ten ogród należy do was, a tym kwiatem jest wasza córka Rasan. Zapragnął, aby ten kwiat przeszczepić do naszego ogrodu. Przychodzimy do was dziś z prośbą, abyście uszczęśliwili tym kwiatem naszego syna. Będziemy się tym kwiatem opiekować, nie tylko on, ale cała nasza rodzina. Ojciec Rasan w odpowiedzi zauważył, że ten kwiat nie jest ich kwiatem, ale pochodzi on od Boga, dlatego nie tylko oni go przekazują pod opiekę Jihada, ale wierzą, że Pan Bóg mu go również przekaże w sakramencie małżeństwa. Ponieważ zaręczyny miały miejsce w czasie świąt Bożego Narodzenia, przeczytałem Ewangelię o pasterzach, którzy najpierw, widząc aniołów, przestraszyli się, ale zaraz potem opanowała ich wielka radość. Strach bowiem może być dobrym objawem, jeżeli oznacza poczucie odpowiedzialności. Towarzyszy on każdemu poważnemu wyborowi i każdej poważnej decyzji, i jest on niejako wstępną przesłanką, aby umieć przeżywać radość. Odmówiliśmy następnie wspólnie Ojcze nasz i na koniec nastąpiło błogosławieństwo.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

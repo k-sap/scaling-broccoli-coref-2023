@@ -1,0 +1,17 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">- Podjęcie tych działań pozwoli przystąpić do budowania parku krok po kroku, kiedy tylko w budżecie będą na to pieniądze - dodaje M. Wiśniewski.</p>
+        <p xml:id="p-2">Fundusze potrzebne będą również na inny cel. Sprawa powstania parku w takim kształcie, jak zakłada to plan, nie jest bowiem jeszcze przesądzona. Tylko część przeznaczonego pod park terenu należy do miasta, część zaś to grunty prywatne lub o niewyjaśnionym stanie prawnym. Na wykup ziemi od prywatnych właścicieli potrzebne jest około 6 milionów złotych. Natomiast zagospodarowanie jednego hektara parku to koszt około miliona złotych.</p>
+        <p xml:id="p-3">- Oczywiście, jeżeli zrealizowana zostałaby koncepcja zakładająca powstanie parku z całą infrastrukturą sportową, boiskami, placami zabaw dla dzieci itd. - twierdzi radny.</p>
+        <p xml:id="p-4">Pojawił się jeszcze inny problem. Właściciele części gruntów, które obecnie mają być przeznaczone pod park, a należą do miasta, zostali wywłaszczeni w latach 50. i 60. Na uzyskanym w ten sposób terenie miało być budowane osiedle mieszkaniowe. Cel wywłaszczenia nie został więc zrealizowany, dlatego dawni właściciele zaczynają upominać się o grunty lub odszkodowania. To natomiast może za sobą pociągać dodatkowe koszty dla miasta.</p>
+        <p xml:id="p-5">Już w ubiegłym roku miał powstać też projekt parku ratajskiego, jednak przedsięwzięcie nie doszło do skutku. Wojewoda zaskarżył wtedy uchwałę Rady Miasta dotyczącą miejscowego planu zagospodarowania.</p>
+        <p xml:id="p-6">- Biorąc pod uwagę, że grunty pod park nie są jeszcze wykupione, sporządzanie takiego projektu byłoby przedwczesne - podsumowuje Mariusz Wiśniewski. - Najważniejsze jednak jest to, że na ratajskich osiedlach pojawi się więcej zieleni.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

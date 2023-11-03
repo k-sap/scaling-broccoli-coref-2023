@@ -1,0 +1,18 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">2 Kontroler napędu dysków elastycznych</p>
+        <p xml:id="p-2">3 Kontroler dysku twardego</p>
+        <p xml:id="p-3">Komputer IBM PC/XT</p>
+        <p xml:id="p-4">Ten typ komputera ma już 16-bitową magistralę danych. Nic to jednak nie daje urządzeniom wejścia-wyjścia na kartach rozszerzeń, których gniazda są i tak 8-bitowe (16-bitowa jest tylko organizacja pamięci). Oznacza to, że na liniach A0 - A7 magistrali danych może wystąpić jedynie bajt o adresie parzystym, a na liniach A8 - A15 odpowiednio bajt o adresie nieparzystym. Dodatkowe układy logiczne muszą kierować właściwą część 16-bitowej magistrali danych do 8-bitowego urządzenia wejścia-wyjścia, natomiast druga połowa magistrali musi być ewentualnie odłączona (zależnie od tego, czy adres urządzenia jest parzysty, czy nie). Bajty o parzystych adresach umieszczane są w "dolnej" połowie magistrali danych.</p>
+        <p xml:id="p-5">Ten sam problem dotyczy oczywiście również zapisu do pamięci. Podczas transmisji bloku danych pod kolejne adresy w pamięci, urządzenie musi przesuwać co drugi bajt "na drugą stronę" magistrali danych. Komputer XT ma jeden kontroler 8237A, wszystkie kanały są 8-bitowe, a ich przydział jest taki, jak w modelu PC.</p>
+        <p xml:id="p-6">Komputer IBM PC/AT</p>
+        <p xml:id="p-7">Model ten, w którym zastosowano procesor 80286, ma również 16-bitową magistralę danych i występuje w nim ten sam problem, co w modelu XT. Podczas sekwencyjnego dostępu do pamięci należy naprzemiennie używać jednej połowy systemowej szyny danych. Komputery AT z procesorem 80386 lub 80486 mają zwykle 32-bitową organizację pamięci. Adresowany bajt pojawia się na jednej z czterech części magistrali danych.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

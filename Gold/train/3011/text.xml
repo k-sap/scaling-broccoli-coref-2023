@@ -1,0 +1,20 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Potem poszedłem. Wynająłem na jedną noc prywatną kwaterę i zamelinowałem się tam, i już nigdzie nie wychodziłem. Cały wieczór czytałem, pamiętam, Reminiscencias de Santa Fé y Bogotá, bo to akurat miałem w chlebaku. I dobrze. Bo przeniosłem się daleko. Na drugą półkulę. Na drugi dzień obudziłem się znowu w Koninie. I znowu kapało. Wyjechałem tego drugiego dnia. Rano, jak szedłem na dworzec, zaczynał się capstrzyk. Nad miastem płynęła Międzynarodówka. Ale już nie zostałem, żeby chodzić po ulicach za orkiestrą tak, jak to lubię. Pamiętasz, Witek, Dzień Kolejarza w Poznaniu, jak szliśmy przez całe miasto za pochodem? Pamiętasz, jak grali? Dobosze, fanfary, piszczałki, dęte orkiestry, klarnety, ten na przodzie buławą wymachujący.</p>
+        <p xml:id="p-2">- Ach, to było piękne - powiedział Witek. - To było lepsze niż wszystkie noce gałgańskie ze śledziami w gazetach.</p>
+        <p xml:id="p-3">- Panie konduktorze. Jedziemy. Już po dziesiątej - krzyknął jakiś pasażer.</p>
+        <p xml:id="p-4">- Zaraz jedziemy. Nie spieszy się. Na razie nie ma kierowcy.</p>
+        <p xml:id="p-5">- A gdzie jest?</p>
+        <p xml:id="p-6">- Gdzieś tam zawsze jest - powiedział ktoś.</p>
+        <p xml:id="p-7">- Utopił się w maślance - powiedział ktoś.</p>
+        <p xml:id="p-8">- Z niczego sobie nic nie robią. Traktują tych ludzi, jak chcą.</p>
+        <p xml:id="p-9">- Tratują, panie, oj, tratują.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

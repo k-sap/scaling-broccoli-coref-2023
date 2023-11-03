@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Jeszcze do niedawna dominacja Boeinga, największego na świecie producenta samolotów pasażerskich, wydawała się niezachwiana. Na macierzystym amerykańskim rynku pochłaniał on kolejnych lokalnych rywali - między innymi McDonnella-Douglasa, zmierzając jednocześnie do hegemonii na całym świecie. Udany model samolotu B737 latającego na krótszych dystansach (podstawowa maszyna LOT) miał zdominować rynek. Z kolei opracowany jeszcze w latach 60. największy samolot pasażerski świata Boeing 747, ze względu na charakterystyczny garb nazywany pieszczotliwie Jumbo Jetem, stał się podstawową maszyną długodystansową.</p>
+        <p xml:id="p-2">Być może sukcesy te uśpiły czujność Boeinga, któremu rósł w Europie groźny konkurent. Międzynarodowy koncern Airbus (stworzyli go Brytyjczycy, Niemcy, Francuzi i Hiszpanie) powoli zdobywał uznanie dla swoich maszyn. Dzisiaj doszło nawet do sytuacji, którą jeszcze kilka lat temu z trudem można było sobie wyobrazić - europejska firma może niedługo odebrać Boeingowi palmę pierwszeństwa. Na pewno sukces nie jest wyłącznie sprawą pieniędzy wpompowanych przez europejskie rządy w Airbusa. Boeing też cieszy się przychylnością i opieką waszyngtońskiej administracji. Po prostu Airbus zaczął produkować samoloty nowocześniejsze i bardziej ekonomiczne. Niedawno firma Skytrax, zajmująca się badaniem rynku lotniczego, przeprowadziła ankietę wśród blisko 70 tys. pasażerów, którzy latali Boeingami 737 i Airbusami A320. Lepiej wypadły maszyny europejskie. Zdaniem respondentów A320 ma między innymi bardziej przestronną i przyjazną kabinę. Trudno więc się dziwić, że stał się najlepiej sprzedającym się samolotem na świecie. Na przykład tanie amerykańskie linie lotnicze JetBlue używają i zamawiają wyłącznie Airbusy!</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

@@ -1,0 +1,12 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Najsilniejsze kluby argentyńskie (a wśród nich Estudiantes) 17 maja 1931 roku wystąpiły z ligi organizowanej przez Asociación Amateurs Argentina de Football i założyły federację Liga Argentina de Football , która zorganizowała pierwszą w historii Argentyny piłkarską ligę zawodową. Pierwszy w historii klubu sezon w zawodowych mistrzostwach Argentyny był dla Estudiantes niezwykle udany. Klub z linią ataku Lauri-Scopelli-Zozaya-Ferreyra-Guayta zwaną Los Profesores zajął wysokie trzecie miejsce, demonstrując bardzo ofensywny futbol i strzelając w 34 meczach aż 103 bramki (zdecydowanie najwięcej w lidze - drugi w tej klasyfikacji Boca Juniors, który został pierwszym zawodowym mistrzem Argentyny zdobył 85 bramek) . Dwa najwyższe miejsca w tabeli strzelców ligi zajęli napastnicy Estudiantes - Alberto Zozaya (33 bramki - w tym historyczna pierwsza bramka w dziejach argentyńskiej ligi zawodowej) i Alejandro Scopelli (31 bramek). W roku 1937 Estudiantes stał się pierwszym klubem, który zainstalował na swoim stadionie sztuczne światło. W lidze niewiele to pomogło, gdyż klub znów uplasował się w okolicach środka tabeli (10 miejsce), a kolejne trzecie miejsce w lidze klub zajął dopiero w 1944 roku, a potem w 1948 roku. Główną postacią i najlepszym strzelcem klubowego ataku lat 40. był Ricardo Infante. Lata 50., choć w klubie grali tacy piłkarze jak Ogando, Garcerón, Bouché, Urriolabeitia, Infante, Antonio oraz najlepszy w historii klubu strzelec Manuel Pellegrina (221 goli), były dla Estudiantes mizerne - 12 miejsce w 1952 roku, a w następnym sezonie w 1953 roku Estudiantes zajął ostatnie 16 miejsce i pierwszy raz w swojej historii spadł z pierwszej ligi. Banicja trwała tylko rok. Jednak zespół wciąż plasował się bliżej końca niż początku tabeli.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

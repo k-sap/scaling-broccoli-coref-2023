@@ -1,0 +1,23 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">sp3: były w polityce w tym roku wakacje ?</p>
+        <p xml:id="p-2">sp0: a nie było wakacji ? sejmu nie było</p>
+        <p xml:id="p-3">sp3: myślę że tylko media takie bardzo szybkie informacyjne mogły twierdzić że są wakacje bo myślę że pozostałe była taka dynamika przecież. mieliśmy</p>
+        <p xml:id="p-4">sp0: czyli co nie nie nie wypoczęli panowie ?</p>
+        <p xml:id="p-5">sp3: nie. y po kilka dni byliśmy. oczywiście żeby trochę złapać powietrza i spotkać się trochę. w innym otoczeniu z ludźmi ale generalnie przecież mieliśmy stocznie. mieliśmy po drodze piętnasty sierpnia. a później już się zaczęło. tak a później się</p>
+        <p xml:id="p-6">sp0: a panowie ?</p>
+        <p xml:id="p-7">sp2: profesor Tatarkiewicz miał takie słynne powiedzenie wszystko mnie męczy oprócz pracy. no więc niektórzy się do tego stosowali. ja byłem dwa tygodnie niecałe dwa tygodnie z żoną na Dolnym Śląsku. i bardzo sobie chwalę</p>
+        <p xml:id="p-8">sp1: ja łącze funkcję posła z funkcją rektora w związku z tym. mój urlop trwał dosłownie kilka dni tak jak powiedział pan poseł Piechociński</p>
+        <p xml:id="p-9">sp0: ale to studenci mieli wakacje</p>
+        <p xml:id="p-10">sp1: a studenci tak. nawet wykładowcy tak ale. rektorzy nie bardzo</p>
+        <p xml:id="p-11">sp0: zostawmy w takim razie wakacje i bierzmy się do pracy najważniejszym wydarzeniem tego tygodnia są bez wątpienia obchody rocznicy wybuchu wojny. za chwilę porozmawiamy o tym czy udało nam się przekonać świat że zaczęło się w Polsce i na ile ważne dla przyszłości były słowa. które padały na Westerplatte. i nie tylko na Westerplatte. pierwszego września. przypomnijmy niektóre z nich</p>
+        <p xml:id="p-12">sp7: między. honorem a hańbą wybrano hańbę a i tak nie uniknięto wojny</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

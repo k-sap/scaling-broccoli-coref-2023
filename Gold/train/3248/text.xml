@@ -1,0 +1,16 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Rafał Guzowski mówi, że władze miasta są jak najlepszego zdania na temat pracy Gucwińskich. Ale na poświęconym sprawie internetowym forum pojawiają się liczne głosy zwiedzających, że wygląd ogrodu nie zmienił się od lat 70. Miejsce Antoniego Gucwińskiego jest w radzie naukowej ogrodu, a jego żony w Sejmie, skoro tak bardzo chciała zostać politykiem, piszą internauci.</p>
+        <p xml:id="p-2">Wokół ogrodu co jakiś czas wybuchają afery. Hanna Gucwińska nie ma wątpliwości, że to nagonka polityczna: - Dziwnym trafem ataki na nas nasilają się zawsze, gdy angażujemy się w kampanie wyborcze.</p>
+        <p xml:id="p-3">W 1989 r. dyrektor wystartował w pierwszych wolnych wyborach do Senatu. Kandydował z listy PZPR. - Ogród był państwowy, przyszło polecenie z komitetu, więc nie mogłem odmówić - tłumaczy. W przeddzień w "Gazecie Wyborczej" ukazał się artykuł "Solidarożerca", wypominający, że Gucwiński w stanie wojennym zwalniał z pracy członków komisji zakładowej Solidarności. W wyborach przegrał jak wszyscy kandydaci PZPR, ale pokonał Janusza Korwin-Mikkego i twórcę Pomarańczowej Alternatywy Waldemara Fydrycha.</p>
+        <p xml:id="p-4">W 2001 r. do wyborów stanęła dyrektorowa, szósta na liście SLD-UP. W trakcie kampanii lokalne "Słowo Polskie", zaalarmowane przez sąsiadów Gucwińskich, napisało, że na teren ich posiadłości w Bukowicach pod Wrocławiem przewieziono z zoo kilkadziesiąt zwierząt. Tytuł artykułu brzmiał "Prywatny folwark Gucwińskich". W innym miejscu pisano o prywatnym safari.</p>
+        <p xml:id="p-5">- Wywieźliśmy na letni wypas 4 kuce, parę koni, które w ogrodzie nie wychodziły ze stajni, kilkanaście danieli, którym w ogrodzie było już za ciasno, kilka odrzuconych przez stado strusi - mówi Antoni Gucwiński. - Koszt ich utrzymania na łąkach, gdzie żywiły się same, był kilkakrotnie niższy niż w ogrodzie. I płaciliśmy za to my.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

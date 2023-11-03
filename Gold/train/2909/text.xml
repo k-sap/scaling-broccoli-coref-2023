@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">W domu przypinam go do kolekcji i naklejam pod spodem łacińską nazwę, którą wykaligrafowałem z mozołem. Potem dowiaduję się z podręcznika, że taki na naszej szerokości nie występuje. Przejęzyczenie znowu zbija mnie z tropu.</p>
+        <p xml:id="p-2">Jesień spędzam nad wodą, rozlaną wokół spławika. Szuwary, brzeg przeciwległy, droga biegnąca po wyniesieniu wzdłuż topól, tatarak, w którym pewne gatunki lubią buszować, nawet czajka, ostrzegająca swym krzykiem - to wszystko, w przepisanej dawce, ma uspokajać. Złowioną rybę wpuszczam z powrotem do wody, a przedtem mierzę ją i ważę, oznaczam i klasyfikuję. Niekiedy zdarza się, że dane się powtarzają, jakbym wyciągnął bliźniaka Ø lub, co gorzej, tę samą, już raz zmierzoną. Staram się tym nie zrażać, nawet w ławicy okazy są jednostkowe.</p>
+        <p xml:id="p-3">I tak, nabrawszy ogłady wśród ryb i motyli, powoli wracam do świata tekstów i ludzi. Być może, nie zdobyłbym się na to ryzyko, gdyby nie moi mistrzowie, zawsze dodający otuchy. I oni odzyskiwali wiarę dzięki systematyce.</p>
+        <p xml:id="p-4">Nigdy nie będę wypierał się wpływów, mimo że porównanie to jeszcze nie dowód. Zawdzięczam im wszystko i ostatecznym probierzem moich ingerencji będzie nieodmiennie pytanie, czy Es, czy S tak by napisał? Pytanie bez litości, wiem, że powinienem był więcej przerabiać, cierpliwiej - i kiedy sięgam do archiwum, prawie zawsze oblewa mnie rumieniec wstydu nad niedoskonałością wyrazu. Czasami jednak widzę, że zdanie wytrzymało próbę, jakby wyjęte z ich kanonu, z Zapisków albo Opowiadań - i wtedy czuję prawdziwą rozkosz, jak chciał Es, znak prawidłowej lektury, mrowiącej w krzyżu - chwilowa ulga, nagroda w ciągłej pogoni za niewyrażonym.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

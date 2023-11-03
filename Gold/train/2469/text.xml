@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Wczoraj rozpoczęły się w Gdyni III Międzynarodowe Targi Kolejowe Trako'99. Wśród atrakcji znalazły się wyścigi drezyn o puchar prezesa Zarządu PKP.</p>
+        <p xml:id="p-2">To, o czym dotąd szeptano, stało się faktem. Podczas wczorajszej konferencji prasowej zapowiedziano, że od 1 stycznia 2000 roku trójmiejska SKM zostanie wyłączona ze struktury PKP. Jak twierdzą specjaliści, w innych aglomeracjach, np. w Warszawie prace nie są tak zaawansowane. Ponadto przedstawiono program modernizacji połączeń kolejowych w latach 1999/2001. W przyszłym roku PKP wyda na ten cel 460 mln zł.</p>
+        <p xml:id="p-3">Podczas tegorocznych targów odbywają się liczne konkursy, m.in. na najciekawszy wyrób lub innowację techniczną stosowaną w kolejnictwie. Wczoraj odbyły się wyścigi drezyn w kategoriach: media, wystawcy, żak i open. Na odcinku 100 metrów trzeba rozpędzić drezynę, a następnie zatrzymać ją na długości 30 metrów. Wygrywała drużyna z najkrótszą drogą hamowania.</p>
+        <p xml:id="p-4">Nasza redakcyjna ekipa pod nazwą „Wieczór o poranku” też wzięła udział w zawodach drezynowych. Pierwsza jazda ekipy „Wieczoru Wybrzeża” (Małgorzata Nagórska i Mariusz Niewski) zakończyła się... uszkodzeniem hamulców drezyny. Oczywiście, nie z naszej winy. Bieg trzeba było powtórzyć. Naszą zmęczoną koleżankę zastąpił fotoreporter Krzysztof Mystkowski. Tym razem pojechaliśmy jak błyskawica, choć... mieliśmy kłopoty ze startem. Zajęliśmy dobre trzecie miejsce, ale - niestety - tylko pod względem czasowym. Nie wytrzymaliśmy nerwowo na finiszu i nie zdołaliśmy zatrzymać się na wyznaczonej linii. Ukarano nas punktami karnymi i w rezultacie uplasowaliśmy się na piątej pozycji. Zwyciężył „Tygodnik Wieczór” przed radiowcami „Plusa” i dziennikarzami „Dziennika Bałtyckiego”.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

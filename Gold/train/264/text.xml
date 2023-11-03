@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Jesienią tegoż roku otrzymałem z RKU zawiadomienie o ...przeniesieniu mnie do rezerwy bez odbywania czynnej służby, jako "nadkontyngentowego" rezerwisty. W razie ogłoszenia powszechnej mobilizacji, miałem oczywiście obowiązek zgłoszenia się z załączoną kartą mobilizacyjną. "Więc jeżeli nie będzie nigdy powszechnej mobilizacji, to nigdy nie będę zmobilizowany!" - wnioskowałem, skacząc z radości pod sufit, a, opadając, nadal ciągle jeszcze wierzyłem, że taka możliwość istnieje. Nigdy już nie miałem się dowiedzieć, czy przeniesienie mnie do rezerwy nastąpiło za sprawą pułkownika, czy przez zwykły zbieg okoliczności zważywszy, że mój rocznik należał do wyżu demograficznego i takie przeniesienia "nadkontyngentowych " rezerwistów się zdarzały.</p>
+        <p xml:id="p-2">Latem 1939 roku popełniłem poważny błąd kupując sobie kapelusz zwany "panama". Ponieważ dzisiaj mało kto wie u nas, jak wygląda taki kapelusz, wyjaśniam: kapelusz "panama" przypomina kształtem tradycyjny kapelusz filcowy, ale zrobiony jest z delikatnej, mięciutkiej słomki, być może zbieranej na Panamskim Przesmyku. W przedwojennej Warszawie nawet latem nie chodziło się po ulicy z odkrytą głową, więc taki super lekki, przewiewny kapelusz był na tę porę roku szczególnie przydatny, chociaż i szczególnie kosztowny. A dlaczego uważam, że popełniłem błąd, kupując sobie takie nakrycie głowy? Na to wystarczy mi chyba odpowiedzieć, że następnym razem taki sam kapelusz kupiłem sobie latem 1944 roku.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

@@ -1,0 +1,22 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">- Dziewczynko, a dlaczego ty masz taką dużą głowę?</p>
+        <p xml:id="p-2">- Żeby mi się zmieściło to, co trzeba.</p>
+        <p xml:id="p-3">- A dlaczego masz takie wyłupiaste oczy?</p>
+        <p xml:id="p-4">- Bo w gałkach wbudowano mi kalejdoskop do wyświetlania pięknych obrazów.</p>
+        <p xml:id="p-5">- A dlaczego takie duże usta?</p>
+        <p xml:id="p-6">- Żeby was wszystkich zjeść i beknąć.</p>
+        <p xml:id="p-7">- A nóg i rąk od urodzenia nie miałaś czy ktoś ci ukradł? I dziwnie mówisz, struny głosowe ci popękały? Zaraz, toś ty świętą miała być i w kościele za grzechy Ø rodziny płacić do grobowej deski.</p>
+        <p xml:id="p-8">- To ją Ø matka do kościoła nie podrzuciła? - dopytywała sąsiadka.</p>
+        <p xml:id="p-9">- A gdzie tam, no nie słyszała pani, że jej Dzidzię odebrali i na siłę tu przywieźli. Ma być naszym najlepszym towarem eksportowym, dofinansowanym z unijnych oszczędności. Do Watykanu na pielgrzymkę ma zaraz jechać i prosić o wybaczanie hurtowe naszych miastowych grzechów, i to w pierwszej kolejności.</p>
+        <p xml:id="p-10">Dziewczynka miała zostać w przyszłości ambasadorką Gołąbek, naszą twarzą. Charakterystyczną ma urodę, to sobie nas zapamiętają.</p>
+        <p xml:id="p-11">Ludzie poczęli prześcigać się w nowościach i coraz to bardziej nieprawdopodobnych planach względem rozkraczonej kaleki. Podobno jej matka od kilku godzin wyje w ogródku i ludziom spać nie daje. Dwa razy ją poszczuli psami, ale - mimo dotkliwych pogryzień, bo to tamten Marek z bulterierem aż przyszedł - się nie uspokoiła i nadal wyje. Co za baba, naprawdę. Nic dumy, nic wychowania. Ale co się dziwić, jak Ø rodzina folksdojcze i żydy.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

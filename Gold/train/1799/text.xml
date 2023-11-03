@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Stwierdził, że ustawa o gminach uzdrowiskowych nie mogła doczekać się uchwalenia m.in. ze względu na opór ministra finansów. Teraz jednak - zdaniem marszałka - istnieje możliwość doprowadzenia do finału prac odpowiedniej komisji w Sejmie, jak również do przyjęcia koncepcji prywatyzacji uzdrowisk. Zapewnił, iż chciałby, aby rozpoczęte prace legislacyjne zostały zakończone w tej kadencji parlamentu. Do marszałka Sejmu z prośbą o poparcie dla starań o środki na inwestycje zwrócił się wiceburmistrz Roman Lipski, który powiedział o potrzebie sfinansowania budowy obwodnicy dla Kłodzka (kilkanaście milionów złotych). poszerzenia koryta Nysy na odcinku kilkudziesięciu metrów w okolicach Mostu Żelaznego, restauracji "Czardasz" i dostawienia jednego przęsła na tym moście. Jest to również inwestycja wielomilionowa, na którą nie stać samorządu Kłodzka. Trzecia sprawa to konieczność poniesienia ogromnych nakładów na infrastrukturę podziemną wyspy Piasek, na które zadłużone miasto nie ma pieniędzy, ale ma koncepcję jej zagospodarowania (przygotowuje nieruchomości do sprzedaży).</p>
+        <p xml:id="p-2">Rozwiązanie tych problemów - zdaniem M. Płażyńskiego - wymaga zapisania inwestycji w strategii Dolnego Śląska i zawarcia odpowiedniego kontraktu między marszałkiem Dolnego Śląska a Rządem na sfinansowanie tych przedsięwzięć. Nie ukrywał, że jest to jednak później kwestia uzyskania pieniędzy.</p>
+        <p xml:id="p-3">W czasie spotkania z samorządowcami pytania zadawał również marszałek Płażyński, którego interesowały ich opinie na temat wyborów bezpośrednich w gminach i stosunek do propozycji zmniejszenia liczebności rad miejskich i gminnych, jak również możliwości inwestycyjne szkół.</p>
+        <p xml:id="p-4">(ganz)</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

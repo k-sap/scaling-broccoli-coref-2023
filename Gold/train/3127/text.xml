@@ -1,0 +1,20 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">To i nie dziwota, że ludziska rozeźleni, zabiegani, nie wiedzący, w co ręce wrazić, kopną takiego kundla w podbrzusze, kij na jego grzbiecie złamią, pomyje na jego zapchlone jestestwo wyleją.</p>
+        <p xml:id="p-2">A gdy się im taki kundel znudzi, gdy królika lub kurę zadusi, gdy z niskiej żerdki w komorze porwie pęto kiełbasy, wyprowadzają go za stodołę i łopatą przez łeb, i pod jabłonką psie ścierwo zakopią, żeby sobie krzywdę na renetach złotych odbić.</p>
+        <p xml:id="p-3">I wcale się nie dziwią, że w nocy, gdy pod sad za potrzebą chodzą, wszystkie jabłonki skomlą, a nawet wyją.</p>
+        <p xml:id="p-4">Wiedzą, że na wiosnę trzeba je będzie wyciąć, żeby nie rodziły psiarek, żeby posadzić nowe.</p>
+        <p xml:id="p-5">- Od kilku lat do naszej ciotki przychodził archanioł.</p>
+        <p xml:id="p-6">Po raz pierwszy dowiedzieliśmy się o tym w dzieciństwie, gdy nasza ciotka, jeszcze jako panna na wydaniu, mieszkała razem z nami.</p>
+        <p xml:id="p-7">Ilekroć rankiem ściągano nas z łóżek wyścielonych słomą, z wyrka zbitego z desek na chlebowym piecu, w pokoiku ciotki, sąsiadującym z komorą, pachnącym zielem rozmaitym, jabłkami trzymanymi w malowanej na zielono skrzyni, panieńskim wstydem i onieśmieleniem, on już był.</p>
+        <p xml:id="p-8">Przez drzwi zamknięte na klucz, ale spaczone, pełne szczelin, sączyła się rozmowa jak wiosenne światło, jak cichy pacierz lub litania śpiewana na dwa głosy.</p>
+        <p xml:id="p-9">Nigdy jednak, chociaż staliśmy pod drzwiami przez parę zdrowasiek, nie udało się nam zobaczyć, żeby archanioł wychodził z pokoiku.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

@@ -1,0 +1,14 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Jeśli Jackson wygra znowu, to pobije rekord słynnego Reda Auerbacha, który poprowadził Celtów z Bostonu osiem razy do zwycięstwa. Jackson ma sześć sukcesów z chicagowskimi Bykami i dwa z Lakers. Bryant marzy o tytule MVP. O’Neala taki zaszczyt już spotkał, ale obiecał młodszemu koledze przed sezonem, że pomoże mu spełnić pragnienie. Richmond z elitarnego grona zawodników, którzy zdobyli więcej niż 20 tys. punktów w lidze, mistrzowskiego pierścienia nie założył. Wreszcie ma i klub swój cel. Rywale z Bostonu byli mistrzami NBA 16-krotnie, Jeziorowcom bardzo blisko do wyrównania tego rekordu.</p>
+        <p xml:id="p-2">W Los Angeles więc się cieszą, na Florydzie panuje smutek. Szczególne powody do niezadowolenia ma coach Miami Heat Pat Riley. Zanim przyszły sukcesy Jacksona, to on był najbardziej zwycięskim coachem.</p>
+        <p xml:id="p-3">Zresztą pod względem wygranych meczów (1051) ustępuje jedynie Lenny’emu Wilkensowi (prowadzi Toronto Raptors). Jednak coraz częściej zdarzające się porażki psują bilans Patowi. On w przeszłości poprowadził Lakers cztery razy do pierwszego miejsca w lidze. Ale to było dawno, w latach 80. Ponad 70-procentowa skuteczność też stała się historią i Riley dziś przegrywa nie tylko z Jacksonem, ale i niepracującym już Cunnighamem. A jeśli Heat będą wciąż przegrywać, to może przyjść to najgorsze - dymisja. Czy Pat to przeżyje? Póki co, broni się kadrowymi ruchami. Bezrobotny Jim Jackson dostał szansę. W dodatku wrócił na parkiet Brian Grant...</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

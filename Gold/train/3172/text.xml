@@ -1,0 +1,24 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">sp1: klasa średnia wyższa nie ta wyższa wyższa tylko średnia wyższa myślę że na tego typu osiedlu będą mieszkali ludzie którzy po prostu dobrze wykonują swoje obowiązki tak bym powiedział i nie specjalnie przejmują się otoczeniem w którym śpią poza tym że chcą też być sami</p>
+        <p xml:id="p-2">sp0: a jeżeli na przykład teraz tak abstrahując od zdjęcia tutaj trochę już wyraźne są takie jakby dwie strony Ø prawda ta klasa średnia średnia klasa średnia średnia i jedna z fantazją i druga bez nauczy tutaj taka która żyje sobie samemu gdzieś tam to jeszcze chciałby zapytać czy może jakoś ma na to wpływ jakieś tam zawody które one wykonują</p>
+        <p xml:id="p-3">sp1: myślę że tak</p>
+        <p xml:id="p-4">sp0: czyli na przykład ta średnia z fantazją i ta średnia bez fantazji to jakie zawody ewentualnie ?</p>
+        <p xml:id="p-5">sp1: naczy ja myślę że ta średnia bez fantazji to są zawody bardziej techniczne to mogą też być ludzie zajmujący się też własną działalnością gospodarczą na poziomie no mówiąc delikatnie takim dość nieskomplikowanym nie nachalnym typu jakiś handel tego typu rzeczy natomiast ci ludzie z fantazją to chyba są dla mnie humaniści często wykonujący zawody twórcze</p>
+        <p xml:id="p-6">sp0: to akurat teraz nie wiem czy to nie będzie takie ten to zdjęcie się nie skojarzy za bardzo</p>
+        <p xml:id="p-7">sp1: skojarzyło się</p>
+        <p xml:id="p-8">sp0: bo tutaj pan mieszka prawda ?</p>
+        <p xml:id="p-9">sp1: tak</p>
+        <p xml:id="p-10">sp0: właśnie to może ja je zostawiam jeszcze na koniec</p>
+        <p xml:id="p-11">sp1: dobrze</p>
+        <p xml:id="p-12">sp0: jak przejdziemy do tej części indywidualnej bo tak mi się czasami zdarza że robię wywiady i ludzie o tutaj mieszkam to więc jeszcze to na przykład</p>
+        <p xml:id="p-13">sp1: bardzo uporządkowani ludzie tutaj mieszkają moim zdaniem. ładne osiedle czyste zadbane też troszeczkę bez fantazji ale bardzo przyzwoite myślę że to jest takie. taki kawałek miejsca o który ludzie chcą dbać może nie ma jakiś wielkich kontaktów ale są dosyć dobre stosunki wewnętrzne wydaję mi się i też bardziej klasa średnia z małą przewagą średniej wyższej</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

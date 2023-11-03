@@ -1,0 +1,36 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">ZBLIŻENIE KOMÓRKI: „Agatko, wpuść mnie. chcę tylko porozmawiać. Twój Bartek„</p>
+        <p xml:id="p-2">AGATA zrywa się z krzesła. Wygląda przez szparę w zasłonie. SUBIEKT AGATY: BARTEK stoi pod domem i patrzy w jej okno. AGATA pośpiesznie zasuwa zasłonę i w panice wyłącza światło w pokoju. Po czym w półmroku zbiera papiery ze stołu i idzie z nimi do łazienki.</p>
+        <p xml:id="p-3">38. SALON MAGDY. WN. DZIEŃ.</p>
+        <p xml:id="p-4">Przy drzwiach stoją bagaże JERZEGO i TERESY. Oni i MAGDA przy skrzynce w salonie kończą śniadanie. Kot siedzi na kolanach JERZEGO.</p>
+        <p xml:id="p-5">MAGDA:</p>
+        <p xml:id="p-6">Pałac Ślubów na Starym Mieście!</p>
+        <p xml:id="p-7">TERESA:</p>
+        <p xml:id="p-8">Tu? W Warszawie?</p>
+        <p xml:id="p-9">MAGDA:</p>
+        <p xml:id="p-10">Zamówimy bryczkę! Przejedziecie się Starówką! Tylko potrzebne są metryki!</p>
+        <p xml:id="p-11">JERZY:</p>
+        <p xml:id="p-12">Ja mam przy sobie odpis. Musielibyśmy tylko wziąć twoją Ø z Olsztyna i wrócić szybko, żeby złożyć papiery.</p>
+        <p xml:id="p-13">TERESA wstaje.</p>
+        <p xml:id="p-14">TERESA:</p>
+        <p xml:id="p-15">(uśmiecha się zakłopotana)</p>
+        <p xml:id="p-16">Jak już tak rozmawiamy o metrykach…</p>
+        <p xml:id="p-17">MAGDA:</p>
+        <p xml:id="p-18">Sfałszowałaś swoją Ø?</p>
+        <p xml:id="p-19">TERESA sięga do torebki i wyjmuje z saszetki na dokumenty swoją metrykę urodzenia. Kładzie przed nimi.</p>
+        <p xml:id="p-20">TERESA:</p>
+        <p xml:id="p-21">Wzięłam ze sobą Ø… W razie czego. No, wiesz, gdybyś chciał wziąć ze mną ślub w Las Vegas, albo w Miami, albo w San Francisco… (uśmiecha się) Albo w samolocie…</p>
+        <p xml:id="p-22">MAGDA:</p>
+        <p xml:id="p-23">W samolocie nie udzielają ślubów.</p>
+        <p xml:id="p-24">TERESA:</p>
+        <p xml:id="p-25">No, wiem… Ale gdyby był jakiś urzędnik na pokładzie…</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

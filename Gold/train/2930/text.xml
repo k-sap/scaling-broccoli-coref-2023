@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Zaczęła szlochać. - Nie płacz - próbował ją pocieszyć. Ale czuł całą bezradność swych słów.- Nie płacz... Nie o mnie chodzi. Czy mówię prawdę, o tym się kiedyś twój mąż przekona. Ale jeśli jest chrześcijaninem, powinien ciebie kochać. Nie wolno mu ciebie opuszczać, nawet dla modlitwy. Powiedz mu to. Od miłości zawisło małżeństwo chrześcijan. Choćby ich wszystko rozdzieliło... Lecz - zastanowił się - czy cię usłucha?</p>
+        <p xml:id="p-2">Na jej zapłakanej twarzy pojawił się gorzki uśmiech. - Chyba nie... - szepnęła. Odruchowo rozłożył ręce. Cóż wobec tego mógł zrobić - on, więzień przykuty do domku Hermesa, do pilnującego go żołnierza? Ale zaraz zawstydził się swego gestu. Powinien był przecież mieć w pamięci Kolossę, to niebywałe odkrycie, że można całe miasto zdobyć na odległość jedynie siłą modlitwy. A naprawdę - to czyż kiedykolwiek zdobywał ludzi słowami? Nie, przecież nie umie mówić! Zdobywał ich Łaską, Łaską daną mu w ostatnim momencie. Zdobywał ich wtedy, gdy już wszystko mówiło o tym, że przegrał. - Moje dziecko - powiedział - cokolwiek by było, to przecież twój mąż. Pamiętaj, że tobie nie wolno przestać go kochać. Inaczej mówię tym, które mają mężów nie ochrzczonych. Ale kto jest ochrzczony, ten poświęcił się na miłość. Miłość pokrywa wiele braków... Kochaj go więc i módl się. Módl się. Mówię ci: módl się. Ja także będę się modlił. Obiecuję ci to...</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

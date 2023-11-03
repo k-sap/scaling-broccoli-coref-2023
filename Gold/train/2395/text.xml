@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Do III Liceum Ogólnokształcącego w Łodzi przyjechała wczoraj Jolanta Kwaśniewska, by wziąć udział w konferencji poświęconej projektowi "Tęczowy most". Uczniowie szkoły powitali ją "Odą do radości", hymnem Unii Europejskiej odśpiewanym w języku polskim, angielskim i niemieckim.</p>
+        <p xml:id="p-2">Założycielka Fundacji "Porozumienie bez barier" na spotkaniu z młodzieżą wspomniała obóz integracyjny w Perkozie. - Nazywam ten obóz "sianiem ziarna", teraz nastał czas zbioru plonów - mówiła. - Pobyt na obozie uświadomił 73 młodym ludziom z 20 krajów świata czym jest tolerancja. Pomysłodawcą wczorajszej konferencji był Łukasz Walewski, uczeń III LO. To on z kolegami opracował deklarację "Tęczowych wojowników", by codziennym życiem przyczyniać się do tworzenia pokoju. Jako pierwsi deklarację podpisali właśnie Jolanta Kwaśniewska i Wojciech Eichelberger (twórcy projektu "Tęczowy most"), który też przyjechał do Łodzi.</p>
+        <p xml:id="p-3">Projekt "Tęczowy most" powstał 24 marca 1999 r. po spotkaniu Jolanty Kwaśniewskiej z królowymi Szwecji, Belgii, Hiszpanii i Jordanii. Zdecydowano wówczas, że wezmą w nim udział dzieci z krajów, w których często wybuchają konflikty zbrojne. - Uważałam, że jako Polka mogę to zaproponować w dziesiątą rocznicę ratyfikacji konwencji o prawach dziecka w ONZ - powiedziała Jolanta Kwaśniewska. - Twórcą konwencji był przecież Polak, Ludwik Rajchman, przyjaciel Janusza Korczaka.</p>
+        <p xml:id="p-4">Żona prezydenta powiedziała, że w kwietniu chce spotkać się z nauczycielami szkół w Jedwabnem, by porozmawiać o tolerancji dla tej miejscowości. - Nie chciałabym, by mieszkające tam osoby żyły cały czas z piętnem na czole, były pokazywane palcami - mówiła.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

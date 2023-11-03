@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">W 1919 roku epopeja Katangi dopiero się zaczyna. Więcej tu jeszcze lwów niż kopalń. Nie ma samochodów, nie ma kolei, karawany wloką się przez wypaloną słońcem sawannę. Moise kończy szkołę i gimnazjum metodystów w Sandoa. Miło będzie później przyjąć fakt, że on, metodysta, wysłuchał przecież mszy świętej uroczystej w katedrze franciszkanów w Elizabethville, która odbyła się 21 lipca 1960 roku na intencję ocalenia Katangi i Belgii przed piekielnikiem Lumumbą. Po skończeniu gimnazjum chce studiować prawo, ale Belgowie mu nie dają. Zostaje więc księgowym w firmie swojego taty. Tymczasem tata Czombe dobił się ogromnego majątku. Belgowie nie dopuszczali, aby czarni się bogacili. W Kongu nie było w ogóle miejscowej burżuazji. Rodzina Czombe jest tu zupełnym wyjątkiem. Tata miał mnóstwo sklepów, składów, plantacji, dostąpił nawet jedynego w swoim rodzaju zaszczytu: posiadał w Elisabethville hotel dla białych. - Był to wypadek bez precedensu na czarnym kontynencie. Kapitał taty obliczano na wiele milionów franków. Być może Czombe był największym czarnym milionerem w Afryce!</p>
+        <p xml:id="p-2">Taką fortunę przejął syn od ojca. Jest rok 1949. Moise Czombe, przyszły prezydent, ma lat 30. Opowiadają, że kiedy krawiec przynosił młodemu Scheiblerowi ubranie, to dostawał 10 złotych. Kiedyś zaniósł ubranie staremu Scheiblerowi i dostał tylko złotówkę. "Jak to? - zdumiał się krawiec - syn pański daje mi zawsze 10 złotych!" "Mój drogi - odpowiedział stary - mój syn ma ojca a ja jestem sierota". Otóż Czombe postępuje tak jak młody Scheibler. Wydaje na prawo i lewo. Używa ile może. Krążą legendy o życiu, jakie Czombe prowadził.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

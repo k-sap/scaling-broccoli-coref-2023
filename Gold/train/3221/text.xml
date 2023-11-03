@@ -1,0 +1,18 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">sp1: dzień dobry</p>
+        <p xml:id="p-2">sp0: magazynu apokaliptycznego Czterdzieści cztery</p>
+        <p xml:id="p-3">sp1: tak</p>
+        <p xml:id="p-4">sp0: oraz członek redakcji publicysta Filip Memches</p>
+        <p xml:id="p-5">sp2: witam</p>
+        <p xml:id="p-6">sp0: witam panów. kiedy kilka tygodni temu na antenie innego swojego programu sobotnich spotkań rozmawiałem ze Sławomirem Sierakowskim redaktorem naczelnym. młodo lewicowego pisma Krytyka Polityczna. Sierakowski powiedział w pewnej chwili. prowokacja to dzisiaj raczej domena. środowisk konserwatywnych. i rzeczywiście takie zaskakiwanie szokowanie a niekiedy wręcz mówiąc kolokwialnie. podpuszczanie czytelników to raczej. Czterdzieści cztery wcześniej Fronda myślę że prawzorem w warunkach polskich prowokacje robione w latach dziewięćdziesiątych przez. Brulion. chciałem zapytać. dlaczego tak jest ? dlaczego ludzie o poglądach konserwatywnych czyli kojarzących się tak zacnie i mieszczańsko. tak bodźcują czytelników ?</p>
+        <p xml:id="p-7">sp1: myślę że że tutaj na nastąpiło pewne przewartościowanie faktycznie. prowokacja będąca. jeszcze do niedawna domeną raczej ruchów. lewicowych czy artystycznych które wiązane były z ruchami. lewicowymi. w ich obrębie stały się w pewien sposób. zużyte czy. przynoszące dosyć nikłe. nikłe efekty czasami również dochodziło do. do różnego rodzaju takich. blamaży można powiedzieć znaczy okazywało się że te pro. te prowokacje z którymi mieliśmy do czynienia. okazywały się bardzo. kolosami na na glinianych nogach tak. tak było w przypadku na przykład Nieznalskiej. która w momencie kiedy stanęła przed sądem jakby jej kreacja dalej nie postępowała tylko pozostawała. pozostało tylko ten jeden to jedno wydarzenie artystyczne które które było w zamyśle prowokacyjne natomiast później okazywało się. że mamy do czynienia z osobą która boi się tego co. zostało wywołane poprzez jej prowokację a. a w związku z tym sądzę że. prowokacja przeniosła się troszkę na inne. rejony. ruchy konserwatywne często do niej się. uciekają te które pan wymienił pewnie są pewnym faktem natomiast ja na pewno nie przeceniałbym ich efektywności dzisiaj to znaczy prowokacja dzisiaj się w ogóle. mam wrażenie zużyła. co ciekawe została bardzo mocno przejęta przez. przez reklamę i. prowadzi do. do zupełnie innych celów niż prowokacje intelektualne. w sensie najściślejszym</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

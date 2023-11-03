@@ -1,0 +1,17 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Wredota probowac zawsze mozna...ale tego co powiedzial i tego co zrobil nigdy nie zapomnisz ..</p>
+        <p xml:id="p-2">Sweet girl tak... tego raczej nie da sie zapomniec... chociaz z drugij strony w koncu zdobyl sie na szczerosc i za to mam do neigo resztki szacunku...</p>
+        <p xml:id="p-3">Wredota resztki szacunku? wybacz ale slowo przepraszam i jakies tanie gadki to kazdy potrafi..a jego wczesniejszeego zachowania niczym nie da sie usprawiedliwic a tym bardziej slowem ,,przepraszam" itp. Sweet girl musisz byc naprawde bardzo wyrozumiala cierpliwa i miec dusze aniola jak wytrzymalas najpierw tamta rozmowe na gg( jesli to wogole mozna nazwac rozmowa) a teraz cale to jego zachowanie podziwiam bo ja dawno juz bym faceta skreslila i poslala mu pare &lt;piiip&gt; i niech by poszedl do diabla.. ale to tylko twoja decyzja pozdrawiam</p>
+        <p xml:id="p-4">Sweet girl Tak chyba na prawde jestem bardzo cierpliwa... chodzi mi tylko o to ze powiedizal chyba pierwszy raz prawde i za to mam do niego resztkis zacunku, bo chociaz raz potrafil byc szczery...</p>
+        <p xml:id="p-5">Wredota tak tak szkoda tylko ze dopiero teraz zdobyl sie na ta szczerosc....</p>
+        <p xml:id="p-6">Sweet girl Wydaje mi się, że lepiej późno niz wcale... Wyznaję zasadę, że każdemu nalezy sie nowa szansa jeżeli szczerze załuje swojego błędui jeżeli o nia prosi... Z resztą sam Pan Bog mówił, że nalezy wybaczyc i dac nową szanse kazdorazowo gdy nas o nia proszą...</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

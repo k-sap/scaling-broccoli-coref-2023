@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Czynione niekiedy porównania stanu dzisiejszego z kulturą PRL-u ujawniają nostalgię nie za komunizmem bynajmniej, ani nawet za utraconą młodością, lecz za dokonaniami artystycznymi, jakich kiedyś mieliśmy zadziwiająco dużo mimo cenzury i ogłupiającej, choć nie zawsze skutecznej, indoktrynacji mas. Teatr Swinarskiego i Grotowskiego, szkoła polska w filmie, jazz Krzysztofa Komedy i awangardowe koncerty Warszawskiej Jesieni zawsze z najlepszą światową obsadą. Dziś natomiast mamy rynkowy sukces piosenek Ich Trojga, zaś twórcy teatralni, by zdobyć publiczność, inscenizują spektakle pełne drastyczności i gołych aktorów.</p>
+        <p xml:id="p-2">Z szacunku dla prawdy historycznej warto wszak przypomnieć, że i za PRL-u rozwijała się szczególna wersja kultury masowej, w sumie nie tak odległa od szmiry krytykowanej w latach 40. i 50. przez autorów antologii Miłosza w Ameryce i tandety znajdującej poklask teraz w III Rzeczypospolitej. Bywało nawet gorzej. Z braku prawdziwej rodzimej literatury sensacyjnej ludność czytała zeszyty z serii "Ewa wzywa 07", gdzie klasycznego prywatnego detektywa zastąpił funkcjonariusz MO, ni stąd, ni zowąd władający biegle kilkoma językami, fizycznie sprawny niczym Superman i przystojniejszy od Jamesa Bonda. Mieliśmy, owszem, zdolnych jazzmanów, ale estrada popularna roiła się od bigbitowców, którzy, wychodząc naprzeciw sugestiom urzędników od kultury, porzucali młodzieńcze fascynacje zachodnim rockiem, by śpiewać pseudoludowe kawałki tudzież chętnie widziane na festiwalu w Kołobrzegu pieśni o partyzantach z II wojny światowej. Jeszcze wiele lat po upadku oficjalnego stalinizmu spora część oferty dla szerokiej publiczności stanowiła dogodne pole dla działalności propagandowej, co dotyczyło nawet przeznaczonej dla dzieci twórczości komiksowej w rodzaju "Kapitana Żbika".</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

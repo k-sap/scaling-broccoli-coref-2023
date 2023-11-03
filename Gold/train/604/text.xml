@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Na szczęście klęska powodzi nie przeszkodziła w przygotowaniach do zawodów. - Wszystko idzie zgodnie z planem. Obecnie poprawiana i wymieniana jest siatka okalająca tor. Powódź nie zahamowała żadnych prac, przecież woda nie zdołała wedrzeć się na Stadion Olimpijski - mówi kierownik zawodów Lucjan Korszek.</p>
+        <p xml:id="p-2">Organizatorzy zapewniają, że przygotowali dla widzów liczne atrakcje. Impreza rozpocznie się o 18 - godzinę przed startem do pierwszego wyścigu. Po zawodach przewidziano pokaz sztucznych ogni.</p>
+        <p xml:id="p-3">Są jeszcze bilety na Grand Prix Polski. Najdroższe na trybunę główną kosztują 100 złotych, miejsca siedzące w sektorach 21-23 - wyceniono na 60 zł (ulgowe - 40), pozostałe "siedzące" - 45 (ulgowe - 30), stojące - 25 (10). Przedsprzedaż biletów we Wrocławiu prowadzą: Biuro WTS, ul. Mickiewicza 91; Dom Handlowy "Solpol" , ul. Świdnicka 21; Orbis, Rynek 29. Telefonicznie bilety można zamawiać pod numerem (0-71) 48 40 88.</p>
+        <p xml:id="p-4">Wrocław już po raz piąty gościć będzie najlepszych żużlowców świata. W pierwszym finale Indywidualnych Mistrzostw Świata w 1970 roku trybuny pękały w szwach, u "koników" bilety miały kilkakrotne przebicie. Startowało aż sześciu Polaków. Na podium stanęło dwóch. Mistrzem świata został jednak legendarny Ivan Mauger, który nie oddał rywalom żadnego punktu. Obok niego miejsca zajęli Paweł Waloszek oraz Antoni Woryna. Rekordzistą toru był wówczas Waloszek (73,2 sek).</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

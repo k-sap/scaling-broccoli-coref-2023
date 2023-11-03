@@ -1,0 +1,14 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Nieoficjalnie mówi się, że zatrzymanie wiceszefa katowickiego UOP–u ma związek z aferą korupcyjną na Śląsku, w której aresztowano między innymi biznesmena Krzysztofa P., a ponadto z nieprawidłowościami podczas śledztwa w sprawie giełdowej spółki Centrozap z Katowic. Zatrzymania dokonano na wniosek PO w Gdańsku, która prowadzi sprawę tzw. śląskiej ośmiornicy. – Jesteśmy zdumieni, bo to właśnie zatrzymany przyczynił się do aresztowania Krzysztofa P. Rozwikłanie afery Centrozapu to również jego zasługa – dodaje Magdalena Kluczyńska.</p>
+        <p xml:id="p-2">Przypomnijmy, że sprawa spółki Centrozap dotyczyła działań byłego zarządu w latach dziewięćdziesiątych. W połowie kwietnia tego roku funkcjonariusze katowickiego UOP–u zatrzymali w tej sprawie pięć osób, m.in. byłego prezesa spółki i byłych członków rady nadzorczej. Podejrzani próbowali przejąć pakiet kontrolny akcji Centrozapu – poprzez handel długami i machinacje finansowe – za pieniądze Centrozapu (sprawę szeroko opisywaliśmy na łamach „Trybuny Śląskiej” w artykule „Centrozap kupił sam siebie”). Zarzucono im m.in. niegospodarność i oszustwo, za co grozi do 10 lat więzienia.</p>
+        <p xml:id="p-3">Wczoraj katowicki UOP poinformował, że dopiero dziś wyda oficjalne stanowisko w sprawie zatrzymania zastępcy szefa tej jednostki. W dniu wczorajszym szefowie wszystkich piętnastu polskich delegatur Urzędu Ochrony Państwa wysłali do gdańskiej prokuratury pisma poręczające za zatrzymanego. – Tym samym udowadniają, że mają do niego pełne zaufanie – kończy Magdalena Kluczyńska.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

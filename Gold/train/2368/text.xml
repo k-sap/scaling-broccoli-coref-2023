@@ -1,0 +1,16 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">- Wprawdzie system premiowania był już ustalony wcześniej, ale w sobotę zrobimy wyjątek - mówi Papis. - Mecz w Szczecinie jest szczególnie ważny. Z naszych informacji wynika, że na stadion Pogoni wybiera się komplet widzów, a więc blisko dwadzieścia tysięcy ludzi. Jak wiadomo, właścicielem szczecińskiej drużyny jest Antoni Ptak , który kiedyś finansował ŁKS. Chcemy mu spłatać psikusa i pokazać, że w Łodzi nie mamy gorszej drużyny. Dlatego motywuję dodatkowo zawodników. Nagroda będzie dla tego, kto przyczyni się do zwycięstwa, lub zapewni remis - powiedział sponsor drużyny z al. Unii</p>
+        <p xml:id="p-2">Inauguracyjne, wygrane spotkanie Pogoni w Koninie oglądał drugi trener Grzegorz Wesołowski . Szkoleniowiec wrócił do Łodzi z wieloma cennymi obserwacjami i wspólnie z trenerem Wojciechem Boreckim przygotowuje strategię na sobotni mecz. Wczoraj jeszcze raz trenerzy ŁKS obejrzeli zapis magnetowidowy spotkania z GKS Bełchatów. Na dzisiejszych zajęciach zawodnicy dowiedzą się, co zadowoliło szkoleniowców, a nad czym drużyna musi jeszcze pracować. Szybko do zdrowia wraca Dariusz Kłus , który w jednym ze starć z zawodnikami GKS doznał zranienia głowy</p>
+        <p xml:id="p-3">We wczorajszym treningu nie brał udziału Krystian Bolimowski , który przebywa na zgrupowaniu reprezentacji Polski. Dziś kadrowicz ma już wrócić do Łodzi</p>
+        <p xml:id="p-4">Indywidualnie ćwiczy Robert Sierant , a Michał Godras nadal uczęszcza na zabiegi rehabilitacyjne. Obydwaj zawodnicy jeszcze przez jakiś czas nie będą brani pod uwagę przy ustalaniu składu</p>
+        <p xml:id="p-5">ŁKS został zaproszony do udziału w akcji Kolorowa Tolerancja. Z przedstawicielami władz miasta spotkał się wczoraj kierownik drużyny Jacek Żałoba . Ustalono, że 22 marca drugoligowi piłkarze ŁKS zamalowywać będą niestosowne i obraźliwe hasła na murach i ścianach w okolicach Dworca Kaliskiego</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

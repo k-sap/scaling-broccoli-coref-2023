@@ -1,0 +1,17 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Zdaniem pacjentki:</p>
+        <p xml:id="p-2">Irena Sibliga, emerytka z Katowic:</p>
+        <p xml:id="p-3">Narodowy Fundusz Zdrowia tylko utrudnia ludziom życie. Najgorsze są terminy do specjalistów, czasami trzeba czekać nawet pół roku, albo i dłużej. To zabójcze, nie tylko dla starszych osób. W sytuacji, w której coś człowiekowi dolega, niestety przez czas oczekiwania na wizytę można się wykończyć. Sama miałam kiedyś silny atak alergii, a w przychodni alergologicznej dostałam tak odległy termin, że sama musiałam wydedukować, na co jestem uczulona i zastosować odpowiednie leczenie. Na wizytę poszłam już tylko potwierdzić samodzielną diagnozę. Wszyscy wiedza także, że są drogie leki i trudności z dostaniem się na specjalistyczne oddziały i do zakładów opiekuńczych. Starsi ludzie, którzy powinni być cały czas pod fachową opieką lekarską i pielęgniarską muszą czekać w bardzo długich kolejkach, a jeżeli już się dostaną, to po kilku miesiącach fundusz odmawia finansowania ich leczenia. Czy to jest ludzkie postępowanie?</p>
+        <p xml:id="p-4">Co na to nfoz?</p>
+        <p xml:id="p-5">Wyjaśnia Ryszard Stelmaszczyk rzecznik prasowy Śląskiego Oddziału Narodowego Funduszu Zdrowia:</p>
+        <p xml:id="p-6">Zarząd NFZ podjął decyzję o wprowadzeniu załącznika nr 8 w oparciu o konsultacje z prawnikami. Prawnicy nie dopatrzyli się sprzeczności z obowiązującymi przepisami. Uchwała Zarządu NFZ jest obowiązująca dla wszystkich oddziałów Funduszu. Również Śląski Oddział NFZ musi się do niej zastosować. Uchwała jest po to, by zakłady opiekuńczo-lecznicze nie przerodziły się w domy starców. Pensjonariuszami tych placówek są bowiem często osoby, których stan zdrowia nie wymaga ciągłej opieki, czyli ci którzy zostali sklasyfikowani powyżej 40 punktów w skali Barthela. W tym roku mieliśmy 50 wniosków od pacjentów o przedłużenie terminu pobytu w zakładzie opiekuńczo-leczniczym. Wszystkie rozpatrzyliśmy pozytywnie.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

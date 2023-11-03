@@ -1,0 +1,16 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Dla mnie to bardzo prestiżowa i ważna nagroda właśnie dlatego, że przyznało mi ją moje własne środowisko naukowe. Choć urodziłem się w Krakowie, czuję się gdańszczaninem, bowiem mieszkam tu od początku studiów, czyli od 1969 roku.</p>
+        <p xml:id="p-2">Nagroda została przyznana za zastosowanie technik biologii molekularnej w leczeniu nowotworów złośliwych...</p>
+        <p xml:id="p-3">A mówiąc prościej - za powiązanie cech molekularnych nowotworów z ich zachowaniem się, czyli przebiegiem klinicznym choroby, z ich wrażliwością na leczenie. Umożliwia to bardziej precyzyjną kwalifikację chorych do różnych metod terapii i wybór metody najskuteczniejszej w indywidualnym przypadku konkretnego chorego. To bardzo szybko rozwijająca się dziedzina nauki, w którą mój zespół bardzo wcześnie się włączył . Mamy już na koncie znaczące sukcesy.</p>
+        <p xml:id="p-4">Na jakie pytania udało się już znaleźć odpowiedź?</p>
+        <p xml:id="p-5">Na świecie największe uznanie zyskały nasze badania dotyczące biologii molekularnej raka płuca, które prowadzimy od lat. To główny przedmiot zainteresowania naszej kliniki. Powiem może o najnowszych, które szczególnie sobie cenię. Udało się nam stworzyć tzw. molekularne profile , które pozwalają nam przewidzieć przebieg raka płuca u konkretnego pacjenta po zabiegu operacyjnym. Rak płuca to najczęstszy nowotwór złośliwy w większości rozwiniętych krajów świata. Wyniki jego leczenia są bardzo niezadowalające, szuka się więc sposobów, jak je poprawić, między innymi poprzez kojarzenie leczenia chirurgicznego, które jest metodą podstawową, z pooperacyjną chemioterapią. Ta chemioterapia dziś u wielu chorych podawana jest "na wszelki wypadek", choć część z nich najpewniej jej nie potrzebuje. U innych chorych z uwagi na wczesne stadium nowotworu rezygnujemy z tej metody, choć u niektórych mogłaby ona poprawić wyniki leczenia. Obecnie nie potrafimy bowiem określić indywidualnego ryzyka postępu nowotworu u każdego chorego i kierujemy się przede wszystkim stopniem zaawansowania nowotworu, które nie jest najlepszym kryterium. Nasze badania idą w kierunku bardziej finezyjnego wskazania indywidualnego ryzyka dalszego przebiegu choroby, a zwłaszcza ryzyka rozsiewu. Jeżeli będziemy umieli dokładniej wskazać chorych o bardzo wysokim ryzyku, będziemy mogli leczyć ich bardziej agresywnie.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

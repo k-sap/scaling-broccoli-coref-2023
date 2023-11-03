@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Tamten jednak odpowiedział odważnie: - Tak, najczcigodniejszy... - Więc mów. - Boska Poppea powiła... - Syna Ø czy córkę Ø? - gwałtownie zapytał Tygellin. Coś jak błyskawica oświetliło twarz prefekta. Na zdumiewająco krótką chwilę spod żółtej, ironicznej i zgorzkniałej twarzy, spod suchej, kanciastej szczęki i wąskich, zwiniętych do środka warg wyjrzała twarz inna, niepodobna do zwykłej, młodsza, lecz skrzywiona skurczem bólu i jakby rozdarta pomiędzy dwa sprzeczne uczucia. Ale zwykły grymas zaraz powrócił. Niedostrzegalnego koloru oczy, głęboko wciśnięte pod wydatne łuki brwi, wpijały się w setnika. - Córkę Ø...</p>
+        <p xml:id="p-2">Zdawać się mogło, że zszarzał jeszcze bardziej. Raz po raz oblizywał wargi. Wyglądało na to, że się namyśla. - Tak - powiedział ważąc słowa - miałeś powód, by wejść tu nie wołany. Lecz... - zawiesił niepokojąco głos. Zdawał się poić niepewnością, jaka odmalowała się na twarzy żołnierza - lecz ponieważ nikomu nie wolno łamać moich zarządzeń, będziesz ukarany. Pięćdziesiąt kijów... - Tygellinowi rozdęły się nozdrza, lecz zaraz zakaszlał ciężko i boleśnie. Usta skrzywiły mu się, gdy wycierał je chustką. Nie przestawał śledzić twarzy żołnierza. Niewątpliwie najlżejszy odruch nie uszedłby jego oczu. Nie odrywając wzroku, przywołał do siebie gestem Ariego. Nie patrząc sięgnął do trzymanej przez niego skrzyneczki. Jedna z bezcennych zapinek Chalafty błysnęła mu w palcach. Niedbałym, a zarazem znaczącym gestem rzucił ją setnikowi. Potem zaraz klasnął w dłonie. Wbiegającemu wyzwoleńcowi wydał rozkaz: - Dać dziś wszystkim klientom zjeść i wypić lepiej niż zwykle. Ogłosić im narodziny córki cezara, niech się cieszą... I dodatkowo po sto sestercji! A ja zaraz wyjeżdżam do Ancjum. Przygotować konie, wozy, gońców, straż pretoriańską. Ale prędko! Natychmiast!</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

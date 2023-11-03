@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Uporządkujmy fakty: 29 czerwca przestał istnieć Urząd Ochrony Państwa i w jego miejsce utworzono dwie agencje - bezpieczeństwa wewnętrznego oraz wywiadu. Na ich czele stanęli politycy w randze sekretarzy stanu. Premier kierowanie wywiadem powierzył Zbigniewowi Siemiątkowskiemu, bezpieczeństwo wewnętrzne przypadło Andrzejowi Barcikowskiemu, ostatniemu szefowi UOP. Tuż po powstaniu Agencji Bezpieczeństwa Wewnętrznego wręczono zwolnienia z pracy 420 funkcjonariuszom, co stanowi 8 proc. ogółu zatrudnionych. Nie wiedzieć czemu odbywało się to nocą (czyżby w myśl zasady, że służby pracują po ciemku?), co dodatkowo udramatyzowało sytuację. Zaraz potem pierwszym zastępcą szefa ABW został mianowany płk Paweł Pruszyński, zwolniony z UOP za czasów AWS, działacz SLD, łódzki radny, który rzeczywiście karierę rozpoczynał w SB, choć w 1990 r. został pozytywnie zweryfikowany. Dla każdej opozycji, zwłaszcza zaś dla opozycji nadal chętnie nazywającej się antykomunistyczną, takie wydarzenia są nie lada gratką.</p>
+        <p xml:id="p-2">Opozycja ogłosiła więc, że zwolnienia mają charakter politycznej czystki, a do pracy wracają esbecy. Jednak nie da się tego udowodnić. Po prostu nie ma żadnego czytelnego klucza, wedle którego zwalniano. Ustawodawca postanowił, że szefowie obu agencji mają zaledwie w ciągu 14 dni od wejścia ustawy w życie zaproponować pracownikom nowe warunki służby lub wypowiedzieć stosunek służbowy. Jest zatem sprawą oczywistą, że zwolnienia przygotowywano od dawna (mniej więcej od lutego), choć oficjalnym powodem jest brak pieniędzy, który ujawnił się podobno niedawno. W przypadku zwolnień można używać dowolnych argumentów i likwidowanie przerostów kadrowych jest równie dobrym uzasadnieniem jak brak pieniędzy, zwłaszcza że UOP był faktycznie strukturą nadmiernie rozdętą. Tak czy inaczej Andrzej Barcikowski przejął listy nazwisk przygotowane przez poprzednika, czyli Zbigniewa Siemiątkowskiego i jego ludzi (Siemiątkowski kierował Urzędem do kwietnia 2002 r.).</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

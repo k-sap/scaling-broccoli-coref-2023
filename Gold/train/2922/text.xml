@@ -1,0 +1,37 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">cięcie</p>
+        <p xml:id="p-2">Scena cd.</p>
+        <p xml:id="p-3">WNĘTRZE. DZIEŃ. SZPITAL. SALA JANINY. JANINA, RENIA, PANI EUZEBIA.</p>
+        <p xml:id="p-4">Janka z Renią rozmawiają</p>
+        <p xml:id="p-5">RENIA</p>
+        <p xml:id="p-6">PRÓBUJE ŻARTOWAĆ</p>
+        <p xml:id="p-7">No naprawdę, to ja tu jadę z duszą na ramieniu, a ty - jak się okazuje - szykujesz się do ślubu.</p>
+        <p xml:id="p-8">JANINA</p>
+        <p xml:id="p-9">Nie dowcipkuj, tylko mi powiedz szczerze...</p>
+        <p xml:id="p-10">SERIO</p>
+        <p xml:id="p-11">Renia... Co ty o tym myślisz?</p>
+        <p xml:id="p-12">pauza</p>
+        <p xml:id="p-13">Euzebia już by się wtrąciła, ale Janina mówi dalej (oczywiście nawet na Euzebię nie spoglądając)</p>
+        <p xml:id="p-14">JANINA</p>
+        <p xml:id="p-15">Bo ja myślę, że nie powinnam. Bardzo Lucjana lubię. I szanuję. To jest wspaniały, wyjątkowy człowiek...Na pewno lepszy niż ojciec chłopaków...</p>
+        <p xml:id="p-16">RENIA</p>
+        <p xml:id="p-17">Nie było ci z nim łatwo...</p>
+        <p xml:id="p-18">JANINA</p>
+        <p xml:id="p-19">Ale wiesz, małżeństwo... w moim wieku... Przecież ja teraz powinnam myśleć tylko o chłopakach... dla nich żyję... I jeśli w moim życiu jest jeszcze jakieś miejsce na miłość, a wierzę, że jest... To jest to miłość do moich...</p>
+        <p xml:id="p-20">CICHO, Z TKLIWOŚCIĄ</p>
+        <p xml:id="p-21">...niezbyt udanych synów</p>
+        <p xml:id="p-22">ZBIERA SIĘ</p>
+        <p xml:id="p-23">I gdzie tam dla mnie jakieś takie...</p>
+        <p xml:id="p-24">RENIA</p>
+        <p xml:id="p-25">Z PRZEKONANIEM</p>
+        <p xml:id="p-26">Nic ci nie umiem doradzić. Głupia się czuję w takich sprawach. Ale ci szczerze powiem przez siebie... przez swoje serce... Bo ja... Ja bym sama w ogóle nie mogła żyć... Wcale, a wcale. Jakbym miała zasypiać sama na potwornie wielkiej pustej poduszce, to...</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

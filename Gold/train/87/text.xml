@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Nadleciały stadkiem cyranki, krążyły kilkakroć z wyciągniętymi szyjami, przerywając ciszę melodyjnym, dzwoniącym świstem skrzydeł, zataczały w powietrzu elipsy coraz mniejsze - wreszcie zapadły w trzciny, z łoskotem rozbijając wodę piersiami. Ucichł dudniący lot bekasów, głuche wołanie kurki wodnej. Ustało dowcipne pogwizdywanie kulików, poznikały nawet szklarze i modre świtezianki, wiecznie trzepoczące siateczkowatymi skrzydłami dokoła badylów sitowia. Błądziły tylko jeszcze po świetlanej powierzchni głębin niestrudzone muchy wodne na swoich szczudlastych nogach, cienkich jak włosy a zaopatrzonych w kolosalne i nasycone tłuszczem stopy i pracowało dwoje ludzi.</p>
+        <p xml:id="p-2">Błota należały do dworu. Dawniejszy młody dziedzic taplał się po nich z wyżłem za kaczkami i bekasami póty, póki wszystkich lasów nie wyciął, pól nie zostawił odłogiem i wyleciawszy nagle z dziedzictwa nie oparł się aż w Warszawie, gdzie teraz wodę sodową w budce sprzedaje.</p>
+        <p xml:id="p-3">Gdy nastał nowy, mądry dziedzic, biegał po polach z kijkiem i często nad błotami stawał, w nosie dłubiąc.</p>
+        <p xml:id="p-4">Gmerał w bagnie rękami, dziury kopał, mierzył, wąchał - aż wreszcie wymyślił rzecz dziwną. Kazał karbowemu najmować dzień w dzień chłopów do kopania torfu, szlam na pola wywozić taczkami, na kupy składać, a dziury kopać precz, póki się nie wybierze miejsca na sadzawkę; wówczas groble fundować, dół na drugą sadzawkę wybierać niżej, aż ich się kilkanaście uzbiera; wtedy rowy rżnąć, wody napuszczać, mnichy wstawiać i ryby sadzić...</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

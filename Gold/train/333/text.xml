@@ -1,0 +1,24 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">ZABRANY REWOLWER</p>
+        <p xml:id="p-2">Z kolei Jackowska przechodzi do owej wizyty u adw. Kucharskiego, podczas której zabrała rewolwer. Twierdzi, że bała się jakiegoś wypadku, słysząc o jego sprzeczkach z żoną. Adw. Kucharski nie chciał jej dać rewolweru, wobec czego wydostała go podstępem. Zaniosła następnie rewolwer do domu, a ponieważ nie umiała się z nim obchodzić nie ruszała go zupełnie.</p>
+        <p xml:id="p-3">WSPÓLNE WAKACJE</p>
+        <p xml:id="p-4">Przewodniczący : — Czy pani spędziła z p. Kucharskim wspólnie jakieś wakacje?</p>
+        <p xml:id="p-5">— Tak w Nałęczowie. Mieszkaliśmy w jednym pokoju podając się za małżeństwo.</p>
+        <p xml:id="p-6">Z dalszych pytań okazuje się, że w podobny sposób Jackowska spędziła wakacje z Kucharskim i w Truskawcu.</p>
+        <p xml:id="p-7">Przechodząc do dnia zabójstwa Jackowska stwierdziła, iż w dniu tym między godz. 10–11 przyszedł do niej Kucharski i przystąpili do pracy. Wychylając się przez okno zauważyła, jak Julia Kucharska wychodziła z domu.</p>
+        <p xml:id="p-8">Adw. Nowodworski : — Czy Kucharski miał klucz do pani bramy?</p>
+        <p xml:id="p-9">— Tak.</p>
+        <p xml:id="p-10">Po przesłuchaniu św. Jackowskiej Sąd zarządził dłuższą przerwę.</p>
+        <p xml:id="p-11">ZEZNANIA SŁUŻĄCEJ KUCHARSKICH</p>
+        <p xml:id="p-12">Po przerwie zeznaje służąca Kucharskich, Wiktoria Rafalska .</p>
+        <p xml:id="p-13">Pożycie Kucharskich było niezgodne. W ciągu dwóch lat kiedy Rafalska u nich pracowała, dochodziło do bardzo częstych kłótni. Stan materialny Ø pogarszał się w sposób widoczny. Zalegali przez rok z wypłatą pensji Rafalskiej. Według Świadka kłótnie wynikały m. in. Na tym podłożu, że Kucharska nie miała dziecka i uważała że przez to nie ma celu w życiu. Kiedy nie było w Warszawie żony Ø, Kucharski bał się spać sam w pokoju, sprowadzał do siebie na noc Jackowską.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Pisanie biografii Boya w jakiejś mierze musiało Henowi komplikować nieco wcześniejsze ukazanie się analogicznej w założeniu biografii tegoż pisarza pióra wieloletniej badaczki jego dzieła, Barbary Winklowej ("Nad Wisłą i Sekwaną", 1998). Jest przy tym znamienne, że obie te biografie opublikowało to samo, wierne Boyowi wydawnictwo "Iskry", prowadzone przez Wiesława Uchańskiego. Wspominając jednak o komplikacji, jaką musiało być dla Hena "dublowanie" pracy Winklowej, trzeba podkreślić, że jej olbrzymi i wieloletni wkład w prace edytorskie, dotyczące spuścizny Boya, był też dla niego niewątpliwą pomocą. Myślę tu zarówno o opracowanych przez Winklową "Listach" Boya, do których Hen często sięga, jak o jej ważkiej antologii tekstów, dotyczących Boya w sowieckim Lwowie ("Boy we Lwowie 1939-1941", 1992), stanowiącej cenny zbiór kontrargumentów na rzucane na pisarza kalumnie, związane z tym trudnym okresem schyłku jego życia. Fakt jednak, że pisząc o Boyu Hen potrafił nadać swoim piórem skreślonej biografii ulubionego autora własne, indywidualne oblicze, jest niewątpliwie miarą jego talentu i daru własnego spojrzenia na charakteryzowaną postać.</p>
+        <p xml:id="p-2">Pisząc o Józku nie mogę zatrzymywać się nad wszystkim, co napisał, zwłaszcza że tych pozycji, przeważnie z dziedziny prozy, jest kilkadziesiąt. Wszystkie jego opowiadania, które udało mi się przeczytać, były zręczne i nieuciążliwe w lekturze, a zdarzył mi się i taki wypadek, że otworzyłem telewizor, obejrzałem fragment ciekawego serialu telewizyjnego, by stwierdzić z uznaniem, że jego tekst jest doskonale napisany i dopiero potem zajrzeć do programu i dowiedzieć się, że to tekst Hena. Chodziło o "Królewskie sny", których bohaterem jest stary król Jagiełło, grany przez Gustawa Holoubka.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

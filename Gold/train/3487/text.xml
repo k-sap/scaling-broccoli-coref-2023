@@ -1,0 +1,16 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Atradius planuje dalszy rozwój na rynku azjatyckim. W ramach strategii rozwoju spółka rozważa opcje ekspansji na kolejne rynki: Tajwan, Tajlandię, Malezję i Koreę.</p>
+        <p xml:id="p-2">Peter Ingenlath, p/o Dyrektora Generalnego spółki, stwierdził – Azja pozostaje kluczowym regionem wzrostu gospodarczego. Mimo iż Chiny i Indie są bezsprzecznymi liderami, pozostałe rynki regionu także odnotowują silny wzrost. Stale rośnie wartość transakcji handlowych, zarówno wewnątrzregionalnych jak i zawieranych z innymi, mniej rozwiniętymi rynkami; Atradius zamierza podążać za klientami i być wszędzie tam, gdzie klienci go potrzebują, pomagając im rozwijać potencjał handlowy. We współpracy z centralną bazą regionu w Hongkongu i innymi oddziałami azjatyckimi, nowe singapurskie biuro spółki zapewni klientom wysoki poziom obsługi, ułatwiając im proces ekspansji na kolejne rynki azjatyckie.</p>
+        <p xml:id="p-3">O spółce Atradius:</p>
+        <p xml:id="p-4">Atradius należy do grupy światowych liderów ubezpieczycieli wierzytelności, z rocznym obrotem sięgającym 1,3 miliarda euro i dwudziestoczteroprocentowym udziałem w rynku światowym. Firma ubezpiecza rocznie transakcje o wartości bliskiej 350 miliardów euro od ryzyka braku płatności, oferując szeroki wachlarz usług.</p>
+        <p xml:id="p-5">Atradius zatrudnia 3.400 pracowników w ponad 90 oddziałach w 40 krajach, co zapewnia firmie dostęp do informacji umożliwiających ocenę wiarygodności kredytowej ponad 45 milionów przedsiębiorstw na całym świecie; codziennie podejmowanych jest 12.000 decyzji dotyczących limitu kredytowego. Agencja ratingowa Standard &amp; Poor's przyznała firmie Atradius notę „A” (stabilna perspektywa ratingowa), natomiast agencja Moody's – notę „A2” (stabilna perspektywa ratingowa).</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

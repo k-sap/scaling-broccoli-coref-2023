@@ -1,0 +1,26 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">sp3: długopis nie ołówek</p>
+        <p xml:id="p-2">sp1: ołówek ?</p>
+        <p xml:id="p-3">sp3: no drew drewniany tak</p>
+        <p xml:id="p-4">sp1: a czaje</p>
+        <p xml:id="p-5">sp3: drewniany nie atramenty y</p>
+        <p xml:id="p-6">sp0: aha no to zajebiście słuchaj bo ja dojadę trochę później bo muszę być w tym teatrze yyy i to dopiero y kurwa bym był dwudziestej pierwszej to bym był tak dopiero o dwudziestej trzeciej.</p>
+        <p xml:id="p-7">sp1: naćpany zjarany kurwa jebnęła mu jakaś choroba</p>
+        <p xml:id="p-8">sp0: no wy ale wy wy siedzicie tak wódeczka wudżitsu party ogólnie tak no dobra dobra to zajebiście powiedz mi czy tam kimać można czy czy raczej bym musiał wracać. można kimać dobra to ja śpiwór wezmę ze sobą</p>
+        <p xml:id="p-9">sp1: więc nie wiedziałem jak to ogarnąć nie</p>
+        <p xml:id="p-10">sp0: dobra dobra dobra to zajebiście kapi y słuchaj jakąś pepsi mam przywieźć ? dobra dobra to wtedy ja pepsi przywiozę nie to nie nie nie kupuj dobra no to kurwa y chyba wszystko co chciałem wiedzieć do zobaczyska wieczorem trzymaj się narazie</p>
+        <p xml:id="p-11">sp1: i co nie będzie cie chuju ?</p>
+        <p xml:id="p-12">sp0: stary y przyjadę i kurwa o godzinie dwudziestej trzydzieści i kurwa obejrzę film i pojadę tam na szczutki o godzinie dwudziestej trzeciej pasuje ? no myślę że okej no stary</p>
+        <p xml:id="p-13">sp1: a nie wolisz pojechać tam i przyjechać do nas na dwudziestą trzecią ? jest większa szansa że zdążysz normalnie wciągnąć film bo zanim się rozłożymy przyjdą wszyscy no poważnie mógłbyś tak ogarnąć czy chcesz się tam zajebać normalnie na imprezę</p>
+        <p xml:id="p-14">sp0: znaczy wiesz co to są też m moi znajomi których dawno nie widziałem</p>
+        <p xml:id="p-15">sp1: no to jak chcesz no mówię ale mówię wygodniej by było na pewno</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

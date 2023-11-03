@@ -1,0 +1,19 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">- Moralności mnie chcą w ten sposób nauczyć? To lepiej, żebym żonę Ø i Ø dzieci zostawił i poszukał sobie kogoś z podobnym do mojego temperamentem - pyta zdenerwowany mężczyzna, którego spotykamy w chwili, gdy wychodzi z jednej z bardziej znanych warszawskich agencji towarzyskich.</p>
+        <p xml:id="p-2">Prostytutka: Niech mi dadzą inną pracę</p>
+        <p xml:id="p-3">Prostytutki na propozycję rządzących reagują bardzo nerwowo.</p>
+        <p xml:id="p-4">- Jakim prawem?! Przecież tyle lat o wolność walczyliśmy. A co to kogo obchodzi, jak ja zarabiam pieniądze? Nikt mnie nie zmusza, żebym tu przychodziła. To wybór, a swoją drogą to myśli pani, że ci z rządu tu nie przychodzą? To nasi najlepsi klienci - krzyczy młoda brunetka, którą spotykamy przy ul. Wilczej.</p>
+        <p xml:id="p-5">Jej starsza koleżanka jest mniej wybuchowa.</p>
+        <p xml:id="p-6">- Niech dadzą nam inną możliwość zarobienia pieniędzy. Czy ktoś sobie wyobraża, że my tu z przyjemności stoimy? Jestem pielęgniarką. Urodziłam córkę z wadą serca. Centrum Zdrowia Dziecka kazało przed operacją kupić cegiełkę za trzy tysiące złotych. Ojciec dziecka nie był zainteresowany pomaganiem nam. To co miałam robić? Wyszłam na ulicę - tłumaczy postawna blondynka.</p>
+        <p xml:id="p-7">Właścicielka agencji: skończy się na gadaniu</p>
+        <p xml:id="p-8">Właścicielka agencji towarzyskiej, którą znają wszyscy kierowcy, bo jej kolorowe wizytówki wciskane są za szyby samochodów, mówi, że całe środowisko pociesza się tym, że w tym kraju bardzo dużo się mówi, a niewiele z tego wynika.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

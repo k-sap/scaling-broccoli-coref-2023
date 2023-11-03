@@ -1,0 +1,21 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">- Słucham, słucham, ale tak mówicie, jakbym swojego rozumu nie miała...</p>
+        <p xml:id="p-2">- Rady dobrej nikomu nie za wiele... Bacz i to, by z Boryną nie huru-buru, a miętko, a dobrocią. Starszy wżdy uważniejszy jest na to niźli młodziak...</p>
+        <p xml:id="p-3">a kto wie, może ci z grontu przypisać abo gotowy grosz za pazuchę wrazić !</p>
+        <p xml:id="p-4">- Nie stoję tam o to - burknęła zniecierpliwiona.</p>
+        <p xml:id="p-5">- Boś młoda i głupia... A obejrzyj się ino po wsi, po ludziach, to obaczysz, o co się kłócą, o co prawują, o co zabiegają! O grunt jeno, o dobro! Dobrze by ci to było bez tego zagona, bez tej świętej ziemi, co? Nie do wyrobku i biedowania Pan Jezus cię stworzył, nie! A po com całe życie zabiegała? - La ciebie ino, Jaguś! A teraz ostanę kiej ten palec sama jedna!...</p>
+        <p xml:id="p-6">- A bo to chłopaki idą w świat? Ostają...</p>
+        <p xml:id="p-7">- Tyla mi z nich pociechy, co z wczorajszego dnia!- krzyknęła i rozpłakała się - a z pasierbami zgodę powinnaś trzymać! - dodała obcierając oczy.</p>
+        <p xml:id="p-8">- Józka dobra dziewczyna, Grzela jeszcze nierychło wróci z wojska... a...</p>
+        <p xml:id="p-9">- Kowali trza się strzec.</p>
+        <p xml:id="p-10">- Przecież oni się z Maciejem sielnie obserwują..</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

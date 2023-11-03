@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Mnożymy się przez pączkowanie — każdego roku przybywa bowiem „Dziennikowi Zachodniemu” wydań lokalnych, tygodników, dodatków tematycznych i wydań specjalnych. Dziś ukazujemy się na obszarze województw śląskiego, opolskiego i małopolskiego, ale w przeszłości nasza gazeta docierała do Czytelników mieszkających na Ziemiach Zachodnich, aż po Szczecin. Stąd wzięła się nazwa, właśnie „dziennik” i właśnie „zachodni”. Pozostaliśmy przy tym tytule rozległość terytorialną zamieniając tylko na dokładniejszą penetrację terenu.</p>
+        <p xml:id="p-2">Reporterzy „DZ” rejestrują co dnia życie społeczne, gospodarcze i kulturalne, a nawet towarzyskie w dziewięciu wersjach lokalnych: w Bielsku-Białej, Bytomiu, Częstochowie, Chorzowie, Gliwicach, Katowicach, Rybniku, Sosnowcu i Tychach. Niezależnie od codziennych dodatków ukazuje się także 16 naszych tygodników, a w tym roku dołączą do nich 3 kolejne: w Będzinie, Piekarach Śląskich i Rudzie Śląskiej.</p>
+        <p xml:id="p-3">W strukturze gazety swoje miejsce znalazły dodatki tematyczne grupujące artykuły, a często także oferty reklamowe z konkretnej branży, co ułatwia Czytelnikom orientację w całości prezentowanych zagadnień. Są to: Dom dla ciebie, Giełda pracy, Mops, Motogratka, Na zakupy, Dziennik Sportowy, Dziennik Turystyczny i Żyj zdrowo. Nic dziwnego, że codziennie do rąk Czytelników trafia kilkadziesiąt stron „Dziennika Zachodniego”.</p>
+        <p xml:id="p-4">Przez ostatnie lata zmniejszył się format naszej gazety, bowiem przejście z tradycyjnego składu drukarskiego na operacje komputerowe wymusiło mniejsze strony, krótsze artykuły i nowy układ szpalt. Była to właściwie zmiana kosmetyczna, ale można zaryzykować, że dzisiejszy kolorowy i wielostronicowy „Dziennik Zachodni” jest ten sam, ale nie taki sam. Jedno nie zmieniło się jednak i nie zmieni. Pierwszy numer naszej gazety nosił podtytuł: „Pismo dla wszystkich” — tą dewizą kierujemy się do dziś.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

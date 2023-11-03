@@ -1,0 +1,35 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">sp1: taka wiesz jesteś</p>
+        <p xml:id="p-2">sp0: na co dzień się nie zachowujesz tak jak metr ile tam masz ?</p>
+        <p xml:id="p-3">sp2: ale tu chodzi o że niby wzrost do wieku czy co nie rozumiem</p>
+        <p xml:id="p-4">sp0: nie że jesteś taka malutka i taka</p>
+        <p xml:id="p-5">sp1: fajnie nie mówię podoba mi się</p>
+        <p xml:id="p-6">sp2: dzięki nie wiem o co chodzi nie</p>
+        <p xml:id="p-7">sp0: to nie jest w żaden sposób negatywne</p>
+        <p xml:id="p-8">sp1: mówię patrz wyobraź sobie znasz taki jak się nazywają była taka bajka bajka ? film tam Fronczewski podkładał głos o takich małych ludzikach mali ludzie byli nie krasnale tylko małe lu lu mali ludzie oni mieszkali w szafkach i w ogóle</p>
+        <p xml:id="p-9">sp0: ci ci cho chomik chomi nie chomikowce nie</p>
+        <p xml:id="p-10">sp1: jakoś tak dziwnie się nazywają</p>
+        <p xml:id="p-11">sp2: king size ?</p>
+        <p xml:id="p-12">sp1: nie nie nie</p>
+        <p xml:id="p-13">sp0: szukacze ?</p>
+        <p xml:id="p-14">sp1: to jest bardziej coś takiego szukalscy ? coś takiego jakieś takie wiesz takie coś coś takiego śmiesznego było</p>
+        <p xml:id="p-15">sp2: no no no no</p>
+        <p xml:id="p-16">sp0: no no no no</p>
+        <p xml:id="p-17">sp1: czy jacyś</p>
+        <p xml:id="p-18">sp0: mogę</p>
+        <p xml:id="p-19">sp2: pożyczalscy !</p>
+        <p xml:id="p-20">sp1: pożyczalscy właśnie !</p>
+        <p xml:id="p-21">sp0: mogę ?</p>
+        <p xml:id="p-22">sp0: tak więc pożyczalscy nie ? i jak bym miał mieć takiego swojego pożyczalskiego ? czaisz ? takiego którego bym na przykład podłączał do usb i on by sobie chodził przy kompie cziasz by sobie siadał jak ja bym grał albo coś albo bym sobie słuchał muzyki taki by sobie chodził stworek i tam by mówił to bym wybrał ciebie czaisz ? na spaleniu byś tak chodziła tutaj to by mi się podobało nie no no</p>
+        <p xml:id="p-23">sp2: o boże</p>
+        <p xml:id="p-24">sp1: i w ogóle wymyśliłem fantastyczne opowiadanie po drodze jak jechałem muszę to zapisać szybko wymyśliłem po prostu opowiadanie o typie który</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

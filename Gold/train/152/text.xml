@@ -1,0 +1,14 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Będzie teraz mowa o temacie umiarkowanie kontrowersyjnym; kontrowersyjnym w istocie, bo zdania w interesującej nas materii są mocno podzielone - a umiarkowanie, bowiem z owego podziału nic groźnego nie wynika... Mianowicie, proponuję poświęcenie chwil kilku fantastyce naukowej. Jedni ją lubią, inni nie znoszą... Ja lubię bardzo i dlatego co nieco pobuszowałem po Internecie za jej zasobami. Oczywiście, mamy tego mnóstwo.</p>
+        <p xml:id="p-2">Zacznę może od klasyki klasyk, czyli najpopularniejszego chyba w historii tego gatunku serialu telewizyjnego, czyli Star Trek. Budzi on w wielu intelektualistach agresję, ale chyba niesłusznie: bardzo rzadko dzieło filmowe przygotowywane jest tak starannie i tak konsultowane z wieloma naukowcami. Star Trek ma swoje liczne witryny, ale ja chciałbym Państwu polecić szczególnie jedną: witrynę Instytutu Języka Klingon. Przypomnę, że językiem Klingon - wymyślonym, oczywiście - posługują się "czarne charaktery" serialu, a wspomniany Instytut (nawiasem mówiąc, rzeczywiście istniejąca organizacja społeczna) całkiem na serio zajmuje się jego gramatyką i słownictwem, promując ów język jako następcę esperanto. Na Klingon tłumaczy się już - naprawdę! - Biblię i dzieła Szekspira.</p>
+        <p xml:id="p-3">Witryna Instytutu Języka Klingon jest niezwykła i nieco zwariowana. Ale w dziedzinie fantastyki naukowej nie stanowi to specjalnego wyjątku. Proponuję tedy, by zainteresowani sami poszukali w Sieci równie szalonych pomysłów; najłatwiej chyba to zrobić, korzystając z witryny o nazwie Odsyłacze Fandomu - wystarczy wpisać w przeglądarkę adres sff.net/sff/sflinks/.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

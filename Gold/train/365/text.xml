@@ -1,0 +1,21 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">H: Tak wpadłem przy okazji do pana, bo przejeżdżałem w pobliżu. Ale chyba tak źle nie jest. Jacyś klienci przychodzą...</p>
+        <p xml:id="p-2">K: Tam tacy klienci, macanci i oglądacze...</p>
+        <p xml:id="p-3">H (coraz bardziej speszony): Wie pan, bo ja taką sprawę mam. Chciałem zapytać o te pieniążki za ostatnią fakturkę, bo jest tam chyba jakaś zaległość...</p>
+        <p xml:id="p-4">K: A to tam taki drobiazg. W najbliższym czasie zapłacę...</p>
+        <p xml:id="p-5">H (z nadzieją w oczach): Dobrze by było. A kiedy mniej więcej?</p>
+        <p xml:id="p-6">K: Na dniach.</p>
+        <p xml:id="p-7">H (z ulgą w głosie): No to dziękuję. Do widzenia.</p>
+        <p xml:id="p-8">W opisanej rozmowie, biorąc pod uwagę windykacyjny cel spotkania, handlowiec popełnił następujące omówione niżej błędy:</p>
+        <p xml:id="p-9">Zdrobnienia, ogólniki i pobożne życzenia</p>
+        <p xml:id="p-10">Nasz handlowiec, sugerując, że jest tu tylko przy okazji, oraz używając zdrobnień, wysyłał do podświadomości klienta sygnał: "Nie jest to na tyle ważna sprawa, żeby specjalnie przyjeżdżać". No i w końcu, skoro fakturka i pieniążki, to problemik jest malutki. Podobne efekty przynosi używanie w takich rozmowach różnych ogólników typu "chyba, mniej więcej" oraz pobożnych życzeń - "dobrze by było". Bardzo interesujący jest też ustalony w przytoczonym dialogu termin zapłaty - "na dniach". Ciekawe tylko, jak go wyegzekwować?</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

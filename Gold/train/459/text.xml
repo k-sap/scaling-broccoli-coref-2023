@@ -1,0 +1,17 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Dopiero wtedy poznańska oficyna "Pallottinum" mogła wydać tomik Bąka pt. "Modlitewnik".</p>
+        <p xml:id="p-2">A 21.07.1956 do ZG ZLP oraz do nowego już, popaździernikowego ministra kultury i sztuki, obywatela Karola Kuryluka, który zastąpił Sokorskiego, zwraca się pisemnie trzynastu przedstawicieli środowisk twórczych Poznania, nie tylko ze Związku Literatów (między innymi Egon Naganowski, Eugeniusz Paukszta, Stanisław Hebanowski, Tadeusz Kraszewski), ale też Związku Kompozytorów Polskich (dr Jerzy Młodziejowski) i Uniwersytetu Poznańskiego.</p>
+        <p xml:id="p-3">Przypominali zasługi poety, a także przejścia jego ostatnich lat. Tłumaczyli, że wystąpienia Bąka w sprawie paszportowej miewały bądź to cechy, bądź pozory wrogości politycznej i tak też zostały ocenione zarówno przez władze, jak i przez ZLP. A ponieważ ulegał i ulega różnym stanom maniakalnym, ZLP skreślił go ze swojej listy i wystąpił o jego ubezwłasnowolnienie.</p>
+        <p xml:id="p-4">Zmobilizował ich - przyznawali - rozpaczliwy krok Bąka, po raz drugi bowiem targnął się na swoje życie. Szczęśliwy przypadek pozwolił w ostatniej chwili wezwać pogotowie i przewieźć desperata do szpitala.</p>
+        <p xml:id="p-5">Załamał się, ponieważ - pisali dalej - oczekiwał po zmianach ostatnich miesięcy, w szczególności na stanowisku generalnego prokuratora PRL, umorzenia sprawy sądowej oraz pociągnięcia do odpowiedzialności ludzi winnych aktów dyskryminacyjnych wobec jego osoby, szczególnie władz w resorcie zdrowia, które, jak utrzymuje, usiłowały dokonać na nim tzw. zbrodni cywilnej.</p>
+        <p xml:id="p-6">Ciągnąca się od kilku lat sprawa sądowa - kontynuowali - nie dostarczyła podstaw do ubezwłasnowolnienia, tym niemniej, niezamknięta do dziś, powoduje przy każdym wezwaniu okres szkodliwej ekscytacji neurastenika. W dodatku pogarszająca się ciągle sytuacja materialna (wobec niemożności publikowania) doprowadziła Bąka do całkowitej depresji, skłócenia z otoczeniem, pogrążając go wreszcie w nędzę.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

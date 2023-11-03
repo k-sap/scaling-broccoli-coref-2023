@@ -1,0 +1,20 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Z prawej strony, w oddali, z białą czapą śniegu na wznoszącym się ponad dwa tysiące dwieście metrów nad poziom morza szczycie, majestatyczny masyw Hermonu. Bliżej, na ołowianoszarej skale, ruiny warowni, jak z posępnej baśni.</p>
+        <p xml:id="p-2">Hen na południe</p>
+        <p xml:id="p-3">Fortyfikacje wznieśli krzyżowcy. Punkt wybrali doskonale, bo z murów wzrok sięgać musiał daleko, hen na południe, ku błękitowi owianego mgiełką jeziora Genezaret i po szczyty wzgórz Libanu na zachodzie. Żaden pieszy, żaden jeździec nie zdołałby się przemknąć niepostrzeżenie z Judei przez Galileę na północ, nad libańską rzekę zwaną dziś Bekaa.</p>
+        <p xml:id="p-4">Strategiczne znaczenie tego miejsca doceniano też w naszych czasach, gdy biblijne ziemie zbrojnie podzielili między siebie przybyli tu z całego świata Żydzi i zasiedziali Arabowie.</p>
+        <p xml:id="p-5">- Pojedź na wzgórza Golan. Sam się przekonasz, że nie możemy ich oddać Syryjczykom - powiedział mi spotkany w autobusie młody Żyd, emigrant z ZSRR.</p>
+        <p xml:id="p-6">Świat usłyszał o wzgórzach Golan w czerwcu 1967 roku, po wybuchu trzeciej wojny między Izraelem, a koalicją państw arabskich.</p>
+        <p xml:id="p-7">Stoję w miejscu, gdzie znajdowało się syryjskie stanowisko dowodzenia, zdobyte przez Izraelczyków po krwawych starciach. Wspomnieniem tamtych czasów są resztki prymitywnych schronów i wrak izraelskiego samochodu pancernego.</p>
+        <p xml:id="p-8">Ostry skalpel</p>
+        <p xml:id="p-9">Młody Żyd z autobusu miał rację. Z syryjskiego stanowiska dowodzenia widać praktycznie całą Galileę. Wyszkoleni artylerzyści mogli ze wzgórz pokryć ogniem połowę państwa żydowskiego, wyprowadzone stąd ku morzu natarcie przecięłoby Izrael jak ostry skalpel...</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

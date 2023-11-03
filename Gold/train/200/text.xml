@@ -1,0 +1,24 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">agresywne psy</p>
+        <p xml:id="p-2">zaatakowały w Gdańsku</p>
+        <p xml:id="p-3">dziesięcioletnią dziewczynkę.</p>
+        <p xml:id="p-4">Ich właściciele nie pomogli</p>
+        <p xml:id="p-5">rannemu dziecku. Teraz grozi im nawet do 3 lat więzienia...</p>
+        <p xml:id="p-6">Sanda jest drobną, szczuplutką dziesięciolatką. Leży nieruchomo w szpitalnym łóżku. Rany na nogach i obrażenia pleców sprawiają jej ból. Na szyi dziecka widać podbiegnięty krwią ślad...</p>
+        <p xml:id="p-7">- Psy zaatakowały córkę, gryzły ją, ciągnęły za kaptur - mówi wstrząśnięta mama dziewczynki, Grażyna Elert. - Mogły ją udusić! Nie rozumiem, dlaczego dwoje dorosłych ludzi zostawiło moje dziecko bez pomocy!</p>
+        <p xml:id="p-8">W poniedziałek po południu tata Ø przywiózł Sandę i jej koleżankę Monikę ze szkoły. Dziewczynki bawiły się, odrabiały lekcje. Monika miała na godzinę 17 stawić się do oruńskiego Domu Dziecka.</p>
+        <p xml:id="p-9">- Wyszłyśmy z Moniką z domu i ruszyłyśmy ulicą Nowiny, do mieszkającego w pobliżu brata - opowiada cichutko Sanda. - Tam jest takie wzgórze porośnięte krzakami. Nagle zobaczyłam, że z góry biegnie jeden pies. Po chwili pojawił się drugi...</p>
+        <p xml:id="p-10">Pierwszy pies</p>
+        <p xml:id="p-11">chwycił Sandę za kaptur i powalił na ziemię. Drugi zaczął ją gryźć po nogach. Przerażona Monika ukryła się w krzakach. Tymczasem psy ściągały dziewczynkę z niewielkiej górki.</p>
+        <p xml:id="p-12">- Kaptur owinął mi się dookoła szyi - mówi dziesięciolatka. - Nie mogłam krzyczeć, nie mogłam nawet oddychać... Bardzo się bałam...</p>
+        <p xml:id="p-13">Właściciele psów - 24-letni Krzysztof H. i Aleksandra J., którzy razem spacerowali po parku, nie widzieli, kiedy psy zaatakowały dziewczynkę. Zaniepokojeni ich szczekaniem pobiegli w kierunku krzaków. Myśleli, że zwierzęta gryzą się ze sobą. Znaleźli tam pogryzione dziecko.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

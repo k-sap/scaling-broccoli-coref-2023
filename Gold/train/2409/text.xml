@@ -1,0 +1,12 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Wprawdzie piłkarska Proszowianka nie wie, w jakiej klasie rozgrywkowej będzie występowała w nadchodzącym sezonie, ale bez względu na wszystko przygotowania trzeba było rozpocząć. I zajęcia prowadzone są na klubowych obiektach. I tak będzie do końca przyszłego tygodnia. Dziś drużyna zagra mecz kontrolny, o godz. 11 zagra w Kazimierzy Wielkiej z tamtejszą Spartą. Kolejny sparing zaplanowano na przyszłą sobotę, 19 bm, a Proszowiankę gościć ma wielicki Górnik. Potem drużyna wyjedzie na 7-dniowe zgrupowanie do Zawoi, a po powrocie pracować będzie na powrót na "własnych śmieciach". W nowym sezonie - bez względu na to, gdzie ostatecznie drużyna zagra - kibice nie zobaczą w proszowickich barwach Mielca, Gizy i Bagnickiego. Pierwszy skorzystał z oferty kieleckiej Korony, drugi wrócił do zabierzowskiego Kmity po okresie wypożyczenia, a trzeci z wymienionych być może dalej będzie klubowym kolegą Gizy, akurat w barwach zabierzowskiego beniaminka IV ligi. Trener Dariusz Siekliński nie ma najweselszej miny, ale też nie tragizuje: - Kwestie personalne są jednymi z najważniejszych, ale na razie trudno z naszej strony o konkretne decyzje, skoro nie wiemy, gdzie będziemy grali. Dla mnie jedno natomiast jest pewne. Jeżeli będziemy pozyskiwać piłkarzy, to podobnie jak ostatniej zimy, młodych, perspektywicznych, którzy poprzez grę w Proszowiance mieliby okazję wypromować siebie, a przy okazji nasz klub. To jest przecież zespół naczyń połączonych i cel, który może być wspólny.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<teiHeader xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xml:lang="en">
+  <fileDesc>
+    <titleStmt>
+      <title>Paragraphs: p-419,p-420,p-421,p-422,p-423,p-424,p-425 from NKJP text with id: IJPPAN_PolPr_DZa00598</title>
+    </titleStmt>
+  </fileDesc>
+  <profileDesc>
+    <textClass>
+      <catRef scheme="#nkjp" target="Dzienniki"/>
+    </textClass>
+  </profileDesc>
+  <revisionDesc/>
+</teiHeader>

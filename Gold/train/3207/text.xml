@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">sp2: generalnie nie jestem samodzielny straciłem towarzystwo tak yyy już zupełnie gdzieś tam moi znajomi obracają się w innym świecie no nie pasuję do nich prawda przerywam szkołę nie mogę tam iść albo miałem plany zawodowe wszystko bierze w łeb no i tutaj yyy no mogę tylko powiedzieć że że że są pewne możliwości dla takich osób które chcą mimo wszystko tak otrząsnąć się z tego i zaakceptować swoją niepełnosprawność bo to jest chyba najtrudniejsze akceptacja że że tak już będzie tak to nie kwestia utraty nadziei ale po prostu akceptacji tej sytuacji i pró próba mimo wszystko podjęcia aktywnego życia powrotu do szkoły i ewentualnie gdzieś tam do pracy</p>
+        <p xml:id="p-2">sp1: powiemy już za kilka minut o tym yyy jak integracja może w tym pomóc yyy ale posłuchamy też yyy młodego człowieka młodego który jakiś czas temu skończył i konsekwencje odczuwa do dzisiaj jak to się zdarzyło w jaki sposób yyy wracał do tych swoich pierwszych kroków oto wszystko zapytamy za chwilę naszego telefonicznego gościa teraz yyy może teraz mru mru i hej a a zaraz potem usłyszymy yyy kolejnego człowieka który będzie nam mógł opowiedzieć z pierwszej ręki o tym jak to się wydarzyło i jak yyy odczuwa konsekwencje do dziś. skakanie na głowie to ja widziałem tylko na pokazach szałlin ale to robi ludzie którzy od małego nic innego nie robili więc prawdopodobnie organizm się przystosował no możemy zapytać człowieka który yyy swego yyy w pewnym momencie skoczył no i konsekwencje tego ponosi do dziś jak powiedziałem ale bardzo się dziękuję że zdecydował się pan z nami być panie Marku pan Marek Olszewski z Ostrołęki jest razem z nami dobry wieczór</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

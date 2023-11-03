@@ -1,0 +1,14 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Nielęgowo</p>
+        <p xml:id="p-2">Wypalanie traw</p>
+        <p xml:id="p-3">Nieznany sprawca dokonał wypalenia traw na nieużytkach rolnych pomiędzy miejscowościami Racot i Nielęgowo. Powstały pożar ugasiła jednostka ratowniczo-gaśnicza KP PSP w Kościanie.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

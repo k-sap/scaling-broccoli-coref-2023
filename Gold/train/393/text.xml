@@ -1,0 +1,16 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Senat, po rozpatrzeniu uchwalonej przez Sejm na posiedzeniu w dniu 6 czerwca 2002 r. ustawy o zmianie ustawy o ochronie zwierząt, odrzuca tę ustawę.</p>
+        <p xml:id="p-2">Odrzucona przez Senat nowelizacja ustawy o ochronie zwierząt już w trakcie prac legislacyjnych w Sejmie oraz po przekazaniu jej Senatowi wzbudzała szerokie zainteresowanie społeczeństwa i organizacji, których statutowym celem jest ochrona zwierząt.</p>
+        <p xml:id="p-3">Zdaniem Senatu, u podstaw tego zainteresowania, leżała potrzeba zmian w obowiązującej od 1997 r. ustawie, wykraczających poza cel zamierzony w inicjatywie rządowej, tj. harmonizacji przepisów o ochronie zwierząt z prawem Unii Europejskiej.</p>
+        <p xml:id="p-4">Rozwiązania przyjęte przez Sejm wzbudziły powszechne emocje. Najwięcej kontrowersji i sprzeciwu budził, nieprzemyślany i niedopracowany, zdaniem Senatu, przepis art. 33a ust. 3, dający podstawę do niekontrolowanego zwalczania na terenach obwodów łowieckich zdziczałych psów i kotów.</p>
+        <p xml:id="p-5">Senat jest przekonany o konieczności rozwiązania narastającego problemu dotyczącego bezpańskich albo wałęsających się z winy właściciela zwierząt. Zdaje sobie sprawę z zagrożeń, jakie problem ten niesie dla środowiska i ludzi. Dostrzega też potrzebę uregulowania tej sprawy na terenach poza obszarami obwodów łowieckich. Nie mógł jednak pozostać obojętny wobec przepisu, który jego zdaniem, rozmija się z ratio legis całej ustawy i wzbudza sprzeciw nie tylko środowisk statutowo zajmujących się ochroną zwierząt ale każdego człowieka o elementarnym poczuciu dobra wobec ludzi i otaczającej przyrody. Przeciwstawienie się przyjętemu rozwiązaniu uzasadnione jest również z uwagi na zagrożenia, jakie z powodu braku ustawowych i instytucjonalnych ograniczeń niesie ono w sferze bezpieczeństwa ludzi i ochrony prawa własności.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">- Podejrzewamy, że około 15 pochodziło od pielęgniarek, które od dłuższego czasu są już za granicą i pracują "na czarno" i w dodatku nie w swoim zawodzie - mówi Małgorzata Makulska, przewodnicząca Okręgowej Izby Pielęgniarek i Położnych w Radomiu. - Teraz kiedy można pracować legalnie w krajach Unii, liczą na to, że wrócą do wyuczonego zawodu. Niestety, zgodnie z dyrektywami unijnymi, do zaświadczenia o uprawnieniach zawodowych konieczna jest stała praktyka, a ja przecież nic o niej nie wiem, jeśli pielęgniarki od dłuższego czasu nie ma w kraju.</p>
+        <p xml:id="p-2">Za chlebem wyjeżdżają świetnie wykształcone pielęgniarki anestezjologiczne i onkologiczne, instrumentariuszki oraz położne. Najczęściej wybierają Włochy, Anglię, Niemcy. Pensja pielęgniarki w tych krajach jest sześciokrotnie wyższa niż w Polsce.</p>
+        <p xml:id="p-3">- Większość z nas myśli o tym, żeby stąd wyjechać - mówi prosząca o anonimowość pielęgniarka pracująca w dwóch radomskich szpitalach. - Od nas wyjechała już spora grupa. Trzeba jednak dostać urlop, znać język, zdecydować się na rozstanie z rodziną. To nie jest łatwe, ale się opłaca. Te, które już wyjechały, opowiadają, że pracując na przykład w Anglii, można zarobić nawet 12 tysięcy złotych. Z taką pensją spokojnie można odłożyć 7 - 8 tysięcy miesięcznie.</p>
+        <p xml:id="p-4">Jak dotąd zagraniczni pracodawcy nie kontaktowali się z radomskimi szpitalami. Pielęgniarki organizują sobie wyjazd na własną rękę, albo korzystają z biur pośredniczących w znalezieniu pracy. Składają wniosek o poświadczenie uprawnień zawodowych, a jeśli go otrzymają, biorą zwykle bezpłatny roczny urlop i wyjeżdżają. Wiedzą jednak, że konieczna jest przynajmniej średnia znajomość języka obcego.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

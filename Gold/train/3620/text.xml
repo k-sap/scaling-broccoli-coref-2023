@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Mów do dziecka wyraźnie, prosto i nie za szybko, aby mogło prawidłowo odbierać dźwięki mowy, przetwarzać je i rozumieć.</p>
+        <p xml:id="p-2">Rodzice, będąc dla dziecka najważniejszym punktem odniesienia, powinni zacząć rozmawiać ze swoją pociechą "normalnym" językiem najpóźniej od czasu, kiedy rozpoczyna się intensywniejsze wzbogacanie słownictwa, to jest od wieku 12-18 m-cy. Nie rozmawiaj z nim cały czas jak z dzidziusiem. Pieszczotliwe przemawianie nie zachęca do rozwijania języka i używania go w sytuacjach rzeczywistych. Zbyt długotrwałe nadużywanie zdrobnień i dziecięcych neologizmów niepotrzebnie hamuje rozwój językowy. Mów pełnymi zdaniami, gdyż to dostarcza dobrego modelu dla jego własnych, dłuższych wywodów. Niech dobór słów, budowa i długość zdań będą odpowiednie do stanu rozwoju językowego i intelektualnego dziecka lub nawet odrobinę ponad ten poziom - zawsze możesz przecież wyjaśnić dziecku trudniejsze zwroty czy terminy.</p>
+        <p xml:id="p-3">Małe dzieci zakochują się w języku, jeśli doświadczają jego bogactwa i różnorodności. Lubią, gdy się im śpiewa; uwielbiają, gdy na różne sposoby wymawia się ich imię. Zdjęcia, plakaty, kolorowe czasopisma, ilustracje w książkach oraz rysunki wykonywane przez same dzieci to świetne narzędzia, które mogą posłużyć do rozwijania zdolności wysławiania się. Gdy dziecko jeszcze nie umie czytać, możesz dać maluchowi książeczkę bez tekstu - z samą tylko sekwencją obrazków i poprosić, by Ci opowiedziało własnymi słowami przedstawioną na ilustracjach historię.</p>
+        <p xml:id="p-4">Przedszkolaki mówią często krótkimi, zwięzłymi zdaniami i to jest normalny etap rozwoju. Można pomóc małemu dziecku się rozwijać, rozbudowując jego wypowiedzi, a także proponując mu pełniejsze wersje tego, co - naszym zdaniem - próbuje powiedzieć.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

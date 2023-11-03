@@ -1,0 +1,16 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Obiekt Storyboard nie jest ostatnim znacznikiem, który poznajemy w tym miejscu. Do powiązania tego obiektu z triggerem zdarzenia należy wykorzystać obiekt Begin-Storyboard. Całość animacji wygląda zatem następująco:</p>
+        <p xml:id="p-2">Tuż po kliknięciu przycisku rozpocznie się animacja, która po 5 sekundach doprowadzi do poszerzenia przycisku na szerokość całego okna (przy założeniu, że okno ma 150 pikseli szerokości).</p>
+        <p xml:id="p-3">Wszystkie animacje udostępniają inne ciekawe właściwości, które pozwalają na bardziej precyzyjną kontrolę nad nimi:</p>
+        <p xml:id="p-4">public RepeatBehavior RepeatBehavior - określa sposób powtarzania animacji. Należy podać liczbę powtórzeń (z sufiksem x, np. 2x), aby uzyskać n-krotność powtórzeń, wartość Forever, aby animacja była powtarzana nieskończenie wiele razy, lub wartość typu TimeSpan (czyli przedział czasowy), aby animacja była powtarzana przez określony czas (przy ustawieniu tej wartości na 0:0:6 i czasie trwania animacji wynoszącym 3 sekundy, animacja zostanie wykonana dwa razy). W pierwszym przypadku można podać wartość niecałkowitą (np. 0.3x), aby animacja była wykonana tylko w części.</p>
+        <p xml:id="p-5">public bool AutoReverse - określa, czy animacja (przy wielokrotnym wykonywaniu) ma być odtwarzana od początku (wartość domyślna - False), czy ma cofać się od stanu końcowego do początkowego (True - w naszym przykładzie przy tej właściwości ustawionej na False szerokość przycisku po osiągnięciu wartości 150 pikseli zostanie ponownie ustawiona na 50 pikseli, natomiast przy właściwości równej True szerokość będzie stopniowo zmniejszana od 150 do 50 pikseli). Liczba wykonań określona we właściwości RepeatBehavior dotyczy całkowitych wykonań animacji - wykonanie animacji i wycofanie do stanu początkowego jest traktowane jako jedno wykonanie animacji.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

@@ -1,0 +1,17 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Dzikie wysypiska „wyrastają” najczęściej nocą. Gdynia tonie w śmieciach. Płacimy coraz więcej za skutki bezmyślności nielicznych „oszczędnych”.</p>
+        <p xml:id="p-2">Zarząd Miasta przeprowadzi przetarg na likwidację dzikich wysypisk śmieci na terenie miasta Gdyni. Powód Ø: finanse przeznaczone na te działania w ciągu całego roku 1998 zostaną wydane do końca sierpnia. Przyczyną nie jest rozrzutność, lecz lawinowo rosnąca liczba hałd śmieci na terenie naszego miasta. W ostatnich trzech latach wysypiska „rozmnożyły” się dwukrotnie, a koszty? W 1996 roku z gminnej kasy ubyło na ten cel 25 tys. zł. W roku następnym - 58 tys. zł. W obecnym, 1998, już 50 tys. zł.</p>
+        <p xml:id="p-3">Wywrotki pełne śmieci</p>
+        <p xml:id="p-4">- Co roku wiosną nasi inspektorzy wspólnie ze Strażą Miejską stwierdzają istnienie kilkudziesięciu takich miejsc - mówi Jan Kostrzyński, naczelnik Wydziału Eksploatacji. - Są to zarówno wysypiska drobne (1-2 tony), jak i takie, gdzie trzeba wywieźć kilkanaście samochodów śmieci. Wśród przyczyn tego stanu rzeczy można wymienić brak wychowania ekologicznego, stosunkowo niskie kary w porównaniu do kosztów wywozu śmieci na wysypisko miejskie, a przede wszystkim słabą skuteczność profilaktyki. Problem nie polega na wywożeniu śmieci, ale na tym, aby ich nie składować w nieodpowiednich miejscach, a najlepiej od razu segregować.</p>
+        <p xml:id="p-5">Zabawa w podchody</p>
+        <p xml:id="p-6">Problem wydaje się nierozwiązywalny. Straż Miejska ma ludzi, łączność, możliwości karania, jednak efekty są o wiele mniejsze niż należałoby się spodziewać.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

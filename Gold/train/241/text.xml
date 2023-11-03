@@ -1,0 +1,17 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Vicky A w domku... Musisz wierzyć że wszytsko będzie dobrze. że mama wyzdrowieje a tata przestanie pić. Tylko wierz w to. Wspomóż ich dobrym słowem. Wystarczy mocno wierzyć że wszystko będzie dobrze i nie zawahać się ani chwili. WIERZYĆ. "...ta sama moc, która mnie stworzyła, do dzisiaj kieruje życiem mojego organizmu. (...) Owa stwórcza mądrość, która ukształtowała moje ciało, stworzyła wszystkie jego narządy i kazała sercu bić, najlepiej zdoła uleczyć własne dzieło."</p>
+        <p xml:id="p-2">Kasia_na Vicky ten cytat wydaje mi sie dość znajomy.Możesz powiedzieć gdzie go znalazłaś?? W sumie masz rację.Trzeba wierzyć,że będzie dobrze!!</p>
+        <p xml:id="p-3">Milka's Wiem,że to co teraz powiem nie jest moze za bardzo pocieszające,ale... Jesteś jeszcze młodziutka ( 11 lat,jeśli dobrze widze ) w swoim życiu spotkasz jeszcze nie jedną taką osobę na której się zawiedziesz... Pomyśl...moze im się jakoś sprzeniewieżyłaś ( ahh ta moja ortografia sorry za błędy ) ? Postaraj się to jakoś wyjaśnić. "Przecież nie ma na ziemi tylko złych ludzi i brzydkich miejsc"</p>
+        <p xml:id="p-4">Kasia_na Milka's świetny cytat.</p>
+        <p xml:id="p-5">mysza87 Popieram, Ø rewelacyjny a Ty Edervenne uwierz ze wszystko będzie ok, bo tak musi być Pozdrawiam</p>
+        <p xml:id="p-6">Vicky Cytat jest z bardzo mądrej choć trudnej książki "Potęga podświadomości" Joseph Murphy</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

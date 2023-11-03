@@ -1,0 +1,47 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">sp0: to tam na dole w lodówce jest</p>
+        <p xml:id="p-2">sp2: to ja zaraz przyniosę</p>
+        <p xml:id="p-3">sp1: no to idź. ja jutro do domu pojadę</p>
+        <p xml:id="p-4">sp0: jutro ?</p>
+        <p xml:id="p-5">sp1: no ale po pracy</p>
+        <p xml:id="p-6">sp0: aha aha</p>
+        <p xml:id="p-7">sp1: bo w sobotę to nie bo tam muszę być od poniedziałku jutro to tak by się udało skończyć a tam to od poniedziałku</p>
+        <p xml:id="p-8">sp0: aha</p>
+        <p xml:id="p-9">sp1: bo w sobotę nie ma</p>
+        <p xml:id="p-10">sp0: nie wiem nie wiem wcale jak to jest</p>
+        <p xml:id="p-11">sp1: chyba nie no bo taki długi łikend to nie będzie a tak to będziemy pewnie w sobotę pracować nie ?</p>
+        <p xml:id="p-12">sp0: tak</p>
+        <p xml:id="p-13">sp1: to to nie będzie kiedy nie ?</p>
+        <p xml:id="p-14">sp0: ale zrobicie jutro za jeden dzień ?</p>
+        <p xml:id="p-15">sp1: no nie wiem chyba że będziemy w sobotę robić nie ?</p>
+        <p xml:id="p-16">sp0: nie wiem nie wiem właśnie ile tam jest</p>
+        <p xml:id="p-17">sp2: dobry chyba</p>
+        <p xml:id="p-18">sp0: tak dobry w lodówce był a ten nie wiem czy oni mają jeden pokój czy dwa</p>
+        <p xml:id="p-19">sp2: dwa</p>
+        <p xml:id="p-20">sp0: dwa ? o to nie zdążycie dzisiaj zależy czy tylko jeden kolor nie ?</p>
+        <p xml:id="p-21">sp2: dwa</p>
+        <p xml:id="p-22">sp1: dwa</p>
+        <p xml:id="p-23">sp2: biały i różowy</p>
+        <p xml:id="p-24">sp1: no zaczniemy najwyżej</p>
+        <p xml:id="p-25">sp0: aha w jednym pokoju biały a w drugim różowy ?</p>
+        <p xml:id="p-26">sp2: ehe</p>
+        <p xml:id="p-27">sp0: no to się zrobi jeden pomaluje jeden pokój drugi drugi i już no trochę chodziłam z Mietkiem dziewczyny tez nie ? oklejałyście</p>
+        <p xml:id="p-28">sp2: no a kto w łazience kładł fugę ?</p>
+        <p xml:id="p-29">sp0: no</p>
+        <p xml:id="p-30">sp2: ja</p>
+        <p xml:id="p-31">sp1: ty kładłaś Ø ?</p>
+        <p xml:id="p-32">sp2: no a co. a czemu ty se rano gotujesz w tym ?</p>
+        <p xml:id="p-33">sp1: a grzeje się ten sos ?</p>
+        <p xml:id="p-34">sp2: no grzeje no przecież się nie rozdwoję</p>
+        <p xml:id="p-35">sp1: jak trzeba będzie jechać w sobotę to pojedziemy w sobotę</p>
+        <p xml:id="p-36">sp0: nie wiem właśnie bo jak będzie tylko jeden kolor i nie mają tak bardzo brudno bo jak na dwa razy to może nie zdążyć wyschnąć bo jest taka pogoda a jak będzie tylko na raz i wyschnie znaczy z resztą tam palą to choćby nawet na dwa razy też powinno wyschnąć</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

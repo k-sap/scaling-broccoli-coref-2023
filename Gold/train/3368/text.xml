@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Olka uciekała z Otwocka kilka razy: przed filmem do babci Anieli, melin w Pabianicach i raz do Kurzaja, który akurat miał przepustkę z więzienia, po filmie na ulicę Woronicza w Warszawie, do telewizji, gdzie pracowała Karolina Bendera, asystentka Roberta Glińskiego. Olka mogła mieć gdzieś wszystkie inne autorytety, ale na pewno liczyła się z Glińskim i Benderą. - Kiedyś spędziłyśmy całą noc siedząc na ławce na Dworcu Centralnym. Dopiero nad ranem udało mi się namówić ją, żeby wróciła do Otwocka - opowiada Karolina Bendera. - To jest bystra, inteligentna dziewczyna, umie odwzajemnić przyjaźń.</p>
+        <p xml:id="p-2">W jednym z listów z poprawczaka Olka napisała Karolinie, że tak naprawdę wszystko, co robi, to poszukiwanie miłości.</p>
+        <p xml:id="p-3">Ostatnia szansa</p>
+        <p xml:id="p-4">Po filmie sąd dał Olce szansę: na próbę zamieszkała z babcią Anielą, poszła do drugiej klasy gimnazjum mieszczącego się kilka ulic od głównej. Miała dwójki i trójki, żadnych sukcesów, żadnych przyjaciół ze szkoły, trzymała się z boku, spóźniała się na każdą lekcję, nigdy nie zdążyła skończyć papierosa na czas. Jeśli cokolwiek mówiła, to żeby się odciąć, raz pobiła się z nauczycielem, pobiła kolegę, innemu usiłowała podpalić spodnie, bo nie chciał pożyczyć ściągi. - Razem z pedagogiem podchodziłem do nauczycieli na przerwach łagodzić konflikty, tłumaczyłem, że dziewczyna nie miała łatwego życia - mówi Wojciech Stanek, wychowawca klasy Olki. Bo akurat w jej przypadku najważniejsze było, że w ogóle chodzi do szkoły. Otrzymała promocję do trzeciej gimnazjalnej.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

@@ -1,0 +1,19 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">- Może pan nie mówić, ale milczenie nic panu nie pomoże. Wiemy o panu prawie wszystko, a reszty niedługo się dowiemy. Mogę tu przychodzić tygodniami i miesiącami. Między nami są dwie różnice. Pierwsza - mnie za to płacą, a panu nie. I druga - ja po czwartej stąd wyjdę, a pan będzie dalej siedział. Wyjdę na wolność. No, na razie na drugi koniec Rakowieckiej.</p>
+        <p xml:id="p-2">Niczego pan w tym kraju nie zmieni. Ni-cze-go. Gwa-ran-tu-ję. Proszę pana, wymyślić jakąś doktrynę lub napisać dramat to żaden problem. Główkuję, siadam i piszę. Ale robotnik nie ma czasu na takie głupstwa. Musi ciężko pracować. A normy są wyżyłowane.</p>
+        <p xml:id="p-3">Tylko dla inteligenta takiego jak pan wszystko prosto wygląda.</p>
+        <p xml:id="p-4">Kijem Wisły pan nie zawróci. Rewolucji żadnej pan tu nie zrobi. Po to potrzeba bardzo dużego kija. Bar-dzo du-że-go!</p>
+        <p xml:id="p-5">- Kto to mówi? - zapytał Frank.</p>
+        <p xml:id="p-6">Siedzieli po zacienionej stronie placu. Arkady na wprost zalane były słońcem. Odruchowo mrużył oczy, patrząc na swojego rozmówcę.</p>
+        <p xml:id="p-7">- Śledczy w areszcie, żeby złamać milczenie więźnia.</p>
+        <p xml:id="p-8">W tym miejscu Frank przerwał lekturę. Tekst otrzymał dzisiejszą pocztą. Nazwisko nadawcy oraz adres nic mu nie mówiły. Na odwrocie strony tytułowej znalazł zastrzeżenie, które każdy prawnik zaleca autorom piszącym z myślą o współczesnych. Paczka nie zawierała żadnego listu wyjaśniającego, tylko notarialną zgodę dla Franka Warninga na adaptację.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

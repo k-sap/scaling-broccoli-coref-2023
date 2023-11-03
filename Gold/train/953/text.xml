@@ -1,0 +1,17 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Sprudelhof</p>
+        <p xml:id="p-2">Symbolem Bad Nauheim jest Sprudelhof - ogromny kompleks zdrojowy rozbudowany w latach 1905-12, który zasilany trzema gorącymi źródłami obsługiwał kuracjuszy w 240 łaźniach i pokojach do kąpieli i masaży oraz w luksusowej łaźni książęcej. By usprawnić prace obsłudze oraz by nie przeszkadzać kuracjuszom wszystkie łaźnie zostały połączone skomplikowaną siecią podziemnych przejść służących do transportu urządzeń i do wywożenia zużytych ręczników i brudnej bielizny do pralni. Kompleks ten jest jedną z ikon niemieckiej secesji i głównie z tego powodu Bad Nauheim zostało włączone do sieci europejskich miast secesyjnych Réseau Art Nouveau Network.</p>
+        <p xml:id="p-3">Urodzeni w Bad Nauheim</p>
+        <p xml:id="p-4">1926, Hermann Goepfert, artysta niemiecki 1942, Dr Dieter Wedel, reżyser i scenarzysta 1950, Rainer Philipp, były reprezentant Niemiec w hokeju na lodzie 1964, Caroline Link, reżyserka i zdobywczyni Oskara (Nigdzie w Afryce) 1967, Andreas Maier, pisarz niemiecki 1968, Pascal F.E.O.S., właściwie Pascal Dardoufas. Disc Jockey i producent muzyczny</p>
+        <p xml:id="p-5">Osobistości</p>
+        <p xml:id="p-6">Elvis Presley podczas służby wojskowej mieszkał w Bad Nauheim od 1 października 1958 do 2 marca 1960 r. Początkowo mieszkał w Villa Grunewald a ostatni rok w wynajętym domu na Goethestr. W Bad Nauheim jest plac jego imienia oraz pomnik upamiętniający jego pobyt. Franklin Delano Roosevelt (późniejszy 32. prezydent USA) część dzieciństwa spędził w Europie, z czego lata 1891-96 w Bad Nauheim (gdzie uczęszczał też do szkoły).</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

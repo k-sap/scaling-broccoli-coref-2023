@@ -1,0 +1,16 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Lekarka miała się lepiej, ale nie zdążyła jeszcze podreperować swojego wyglądu. Przystupa od progu zauważyła siwe odrosty, białe włosy w brwiach i policzki pozbawione wsparcia sztucznej szczęki. Dopiero gdy umilkł ryk odkurzacza, Lekarka stanęła w progu, uśmiechając się kompletem zębów. Tylko do tego mogła ich teraz używać, bo dieta zmusiła ją do żywienia się produktami półpłynnymi i papkami.</p>
+        <p xml:id="p-2">Lekarka usiadła w kuchni. Pogrzebała w zastygającej na kamień błyskawicznej kaszy, patrząc spod oka, jak Przystupa podlewa kwiaty, a kiedy ta skończyła, usadziła ją obok siebie i rozłożyła na stole album. Na zdjęciach sprzed trzydziestu lat dmuchała dymem spod czarno połyskującej grzywki. Nie wyglądała wtedy na czterdzieści lat, najwyżej na trzydzieści.</p>
+        <p xml:id="p-3">– To przez miłość – wyjaśniła, układając usta jak na zdjęciu, choć teraz nie miała czego wydąć. – Wtedy ją poznałam...</p>
+        <p xml:id="p-4">Po raz pierwszy w życiu rozważała, czy nie zostawić męża, tego dobrego, kochanego człowieka, który był dla niej przyjacielem, matką, ojcem, bratem i dzieckiem. Kochanka przesłoniła wszystko – wciąż czuła na ustach jej wilgotny dotyk, a w ciele dreszcz. Mąż jednak postawił ultimatum: wyjechał do Szwecji, załatwił jej pracę w szpitalu i czekał.</p>
+        <p xml:id="p-5">– Wybrałam jego. Był moim przyjacielem, a przyjaźni się nie zdradza. Przyjechałam tutaj, już nigdy jej nie spotkałam. Teraz coraz częściej mi się śni, drobna, wąska w biodrach, z jasną twarzą, profilem w półksiężyc. Taka... podobna do ciebie.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

@@ -1,0 +1,17 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">- jest napisany bardzo małym druczkiem przy minimalnych odstępach między wierszami, więc czytanie go jest niezwykle trudne ze względów optycznych, a dla osób o słabym wzroku po prostu niemożliwe</p>
+        <p xml:id="p-2">- jest napisany językiem bardzo formalnym, więc klient bez przygotowania prawniczego oraz technicznego nie jest w stanie pojąć jego rzeczywistej treści, ani nawet oszacować, które fragmenty mogłyby go dotyczyć</p>
+        <p xml:id="p-3">- jest na tyle długi, że jednokrotne przeczytanie go nawet bez zrozumienia zajęłoby wiele czasu</p>
+        <p xml:id="p-4">- zawiera złożone konstrukcje logiczne (np. pewne przepisy obowiązują w zakresie określonym w innych przepisach, a te z kolei odwołują się do jeszcze innych).</p>
+        <p xml:id="p-5">Nie będąc w stanie samodzielnie zapoznać się z treścią proponowanej umowy, klient może albo zrezygnować z usług firmy X, albo wynająć prawnika, albo wreszcie podpisać ją w ciemno. Jeżeli usługa jest klientowi naprawdę potrzebna, pierwsza możliwość go nie interesuje, gdyż firmy konkurencyjne w stosunku do X mają bardzo podobnie skonstruowane umowy. Możliwość druga pochłonęłaby nieproporcjonalnie wysokie koszty w stosunku do wartości kontraktu. Pozostaje więc podpisać umowę w ciemno i mieć nadzieję, że w tym przerażającym regulaminie nie było żadnych haczyków na odbiorcę usługi. Nadzieja ta oczywiście jest nieuzasadniona, gdyż właśnie po to umowa jest tak skonstruowana, aby przemycić ustalenia leżące w interesie usługodawcy, zaś zupełnie sprzeczne z interesami usługobiorcy.</p>
+        <p xml:id="p-6">Warunkiem skutecznej manipulacji treścią każdej umowy jest, aby jedna ze stron nie miała łatwej możliwości zrozumienia rzeczywistych konsekwencji wszystkich warunków określonych umową.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

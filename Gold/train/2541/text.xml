@@ -1,0 +1,25 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Świetne. Wygrać z Górnikiem to duży sukces dla nas, tym bardziej, że ja wychowałem się w tym klubie. Zbychu: Jak wspomina pan okres gry w Górniku i rywalizację z Andrzejem Bledzewskim?</p>
+        <p xml:id="p-2">Dobrze, w Górniku debiutowałem w I lidze. Spędziłem tam jednak za dużo czasu, za mało meczów grałem i zyskałem miano „wiecznie drugiego”.</p>
+        <p xml:id="p-3">Irzyk: Dlaczego tak często przegrywacie na wyjazdach? Czy to wynik słabej koncentracji?</p>
+        <p xml:id="p-4">Nie wiem, co jest tego przyczyną. Mam nadzieję, że po zwycięstwie w Zabrzu przełamaliśmy tą niechlubną passę.</p>
+        <p xml:id="p-5">Zbychu: Czy spodziewał się pan kiedyś, że będzie Piłkarzem Tygodnia?</p>
+        <p xml:id="p-6">Nie spodziewałem się tego. Staram się grać jak najlepiej na boisku, żeby wspomóc swoich kolegów. Nie myślę o tym, co napiszą gazety.</p>
+        <p xml:id="p-7">Irzyk: Co pan czuje przed rzutem karnym?</p>
+        <p xml:id="p-8">Jest to loteria, w której na strzelającym ciąży jednak większe obciążenie psychiczne niż na bramkarzu.</p>
+        <p xml:id="p-9">Ruf: Jak w skali od 0 do 10 oceniasz sportową wartość „Cidrów”?</p>
+        <p xml:id="p-10">Na 7.</p>
+        <p xml:id="p-11">Irzyk: Co myślisz o odsunięciu Wojciecha Górskiego i Radosława Jasińskiego od pierwszego składu?</p>
+        <p xml:id="p-12">Taka była decyzja trenera i trzeba ją uszanować. Są to dobrzy zawodnicy i na pewno przydadzą się naszej drużynie.</p>
+        <p xml:id="p-13">Zbychu: Słyszałem, że jest pan miłośnikiem pszczół. Czy dostarcza pan kolegom miód?</p>
+        <p xml:id="p-14">Dostarczam wszystkim w klubie. Mój ojciec jest pszczelarzem i pasja przeszła z ojca na syna.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

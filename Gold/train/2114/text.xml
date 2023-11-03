@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Tak na marginesie - anorektyczki nie wyglądają pięknie. W zaawansowanym stadium, są "szkieletami pokrytymi cienką skórą", które często nie mają nawet siły, żeby chodzić, czy robić cokolwiek. Obsesyjnie myślą tylko o tym, żeby jeszcze schudnąć - tu właśnie widać brak określenia granicy chudnięcia (nieprawidłowym celem jest samo chudnięcie jako proces bez końca), a podświadomość realizuje zadane działanie z żelazną konsekwencją bez oceniania, czy jest ono dobre, właściwe, korzystne, czy nie.</p>
+        <p xml:id="p-2">W określeniu swej sylwetki bądź realistą. Podane przeze mnie zasady są uniwersalne, jednak nie wszyscy ludzie mają taką budowę ciała, by osiągnąć absolutnie każdy wymyślony i nierealny cel. Jeżeli masz np. 1,60 m wzrostu, będąc osobą dorosłą, to wiadomo, że nie osiągniesz nawet 1,65 m wzrostu, jak masz zmiany pokrzywicze z dzieciństwa, to już tak pozostanie do śmierci. Zdrowy rozsądek jest niezbędny w działaniu.</p>
+        <p xml:id="p-3">Z pewnym przybliżeniem można założyć, że osiągalny jest kształt sylwetki i masa ciała, które miało się tuż po osiągnięciu dojrzałości fizycznej, ewentualnie troszkę więcej. Jeżeli ktoś był otyły już jako dziecko lub nastolatek, to trzeba wziąć na to poprawkę.</p>
+        <p xml:id="p-4">Pamiętaj, że masz swoją indywidualną normę sylwetki i masy ciała, a koleżanki - swoje. Dlatego nie rób niczego "na siłę". Na świecie nie ma drugiego takiego samego człowieka jak Ty. Jesteś wspaniałą, niepowtarzalną indywidualnością i nie ma żadnego powodu, by z tego przymiotu rezygnować.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

@@ -1,0 +1,17 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">#PoselKrystynaHerman: Z treści projektu ustawy nowelizującej oraz uzasadnienia wynika, że likwiduje się lecznicę rządową, ale proponuje się nową lecznicę rządową na bazie zakładów opieki zdrowotnej, tworzonych przez ministra właściwego do spraw wewnętrznych. Na bazie dotychczasowej lecznicy rządowej ma powstać Instytut Geriatrii, jednostka badawczo-rozwojowa. Większość dotychczasowych podopiecznych lecznicy utraci swoje uprawnienia. Dotyczy to w szczególności profesorów, rektorów uczelni, zasłużonych artystów i literatów. Jeśli chodzi o te osoby, minister zdrowia podczas dyskusji w komisji zapewnił im dostęp do dotychczasowych świadczeń w nowo tworzonej jednostce na zasadach określonych w ustawie o powszechnym ubezpieczeniu zdrowotnym.</p>
+        <p xml:id="p-2">#PoselKrystynaHerman: Czy nie korzystniej i bezpieczniej byłoby zamiast likwidować - zreorganizować, dostosować funkcjonowanie lecznicy ministerstwa zdrowia do przepisów ustawy o powszechnym ubezpieczeniu zdrowotnym?</p>
+        <p xml:id="p-3">#PoselKrystynaHerman: Panie Marszałku! Wysoki Sejmie! W toku prac w Komisji Zdrowia posłowie Sojuszu Lewicy Demokratycznej zgłosili szereg uwag i wniosków, które zostały uwzględnione w przedstawionym sprawozdaniu. Między innymi w art. 5a rozszerzono zakres świadczeń zdrowotnych, nie ograniczając ich tylko do podstawowych. Objęto również opieką członków rodziny będących na utrzymaniu osób uprawnionych.</p>
+        <p xml:id="p-4">#PoselKrystynaHerman: Wątpliwości, które pojawiły się w czasie prac komisji, dotyczące nowej organizacji zapewnienia świadczeń zdrowotnych, nie zostały całkowicie wyjaśnione. Klub Sojuszu Lewicy Demokratycznej przychyla się jednak do proponowanych zmian organizacyjnych, ale będzie dokonywał bieżącej oceny przyjmowanych rozwiązań. Dziękuję za uwagę. (Oklaski)</p>
+        <p xml:id="p-5">#WicemarszalekFranciszekJerzyStefaniuk: Dziękuję pani poseł.</p>
+        <p xml:id="p-6">#WicemarszalekFranciszekJerzyStefaniuk: Proszę pana posła Mariana Cyconia o zabranie głosu - obawiam się, że dwóch na raz zechce wystąpić - w imieniu Klubu Parlamentarnego Unii Wolności.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

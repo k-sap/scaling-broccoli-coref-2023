@@ -1,0 +1,22 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Przez chwilę było cicho. Zaraz jednak ktoś parsknął śmiechem i zaczęli się śmiać inni. Morawica niezrażony mówił dalej.</p>
+        <p xml:id="p-2">- Chcę, żebyście byli szczęśliwi. Śmiejcie się, do woli, wiem, że to brzmi głupio, ale udowodnię wam, że to jest możliwe. Możecie być szczęśliwi - powtórzył, akcentując każdą sylabę. - Szczęście jest w zasięgu waszej dłoni. Wystarczy tylko chcieć.</p>
+        <p xml:id="p-3">Morawica skinął głową i w tym momencie dziewczyny z maleńkich pudełeczek zaczęły wysypywać na talerzyki czerwone tabletki. Każdemu dały po jednej. Morawica wziął sobie jedną i uniósł Ø w górę.</p>
+        <p xml:id="p-4">- Oto szczęście - powiedział. - Wystarczy połknąć.</p>
+        <p xml:id="p-5">- Panie, co to za numery, chcesz nas wytruć czy jak? - odezwał się Akonom.</p>
+        <p xml:id="p-6">- Najpierw tabletki, a potem gotóweczka, co? Ludzie, to jakiś lepszy cwaniak!</p>
+        <p xml:id="p-7">- Może to narkotyk jaki? - krzyknął Kuchta.</p>
+        <p xml:id="p-8">- Spokojnie. Nie jest to żaden narkotyk ani trucizna. Żeby wam udowodnić, połknę pierwszy. To jest tabletka, którą będziemy produkować w naszej fabryce. Chcecie pracować?</p>
+        <p xml:id="p-9">- Pewnie, że chcemy, ale czy to legalne?</p>
+        <p xml:id="p-10">- Chłopy, a może to Viagra? Co mi tam, najwyżej się przekręcę - powiedział Stasiek Bala, po czym połknął, popił wodą i zapytał: - Mogę prosić o dokładkę? Mam łeb jak koń.</p>
+        <p xml:id="p-11">Morawica i dziewczyny niemal równocześnie połknęli swoje tabletki. W końcu zaczęli łykać inni. Stary Podszus siedział z założonymi rękami i przyglądał się. Gdy zorientował się, że tylko na jego talerzyku została czerwona pigułka, udał, że wkłada ją sobie do ust. Po chwili wypluł do garści i podniósł szklankę. Tymczasem na sali zaczęły się dziać dziwne rzeczy. Jak na dobrym weselu zaczęli się bratać: sąsiad z sąsiadem, ojciec z synem i zięciem, brat z bratem.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

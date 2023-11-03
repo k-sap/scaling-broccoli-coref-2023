@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Zofia wiedziała, że cudzoziemiec, który odwiedził je tak niespodzianie któregoś lata, był w jakiś sposób związany z Ignacym. W przeciwieństwie do Jadzi rozpoznała jego młodość pod zbyt dorosłym ubraniem i dopiero od niedawna goloną twarz pod kapeluszem. Rozpoznała te długie zdania, pełne bocznych furtek i nagłych zakrętów, jakimi nie mówił nikt we wsi prócz księdza, i kolor skóry przypominający lekko zarumieniony chleb. Patrzył na Jadzię tak, jakby w myśli rachował, a Zofia naciskała drylownicę, by zagłuszyć bicie serca. Czy cudzoziemiec odnajdzie w Jadzi ślad Ignacego pod miękką powłoką jej niepodobieństwa? Rozczarowanie cudzoziemca było jak policzek, bo Zofia widziała, że zobaczył w Jadzi nie to, co ona tak bardzo chciała znaleźć.</p>
+        <p xml:id="p-2">Jadzia Maślak rosła w przekonaniu, że jej ojciec utonął w Pełcznicy, co odróżniało ją niekorzystnie od innych wojennych półsierot z Zalesia, Kocierzowej i Brzeziny, chwalących się ojcami zasztyletowanymi, zastrzelonymi, powieszonymi i spalonymi przez Niemców. Gdy już była dorosła, doszła do wniosku, że Maciek Maślak wrócił z wojny tylko po to, by ją począć. Zrozumiała, że brak matczynej miłości w jakiś sposób wiąże się z tym faktem, że to ona, Jadzia, przyczyniła się do śmierci tego pucołowatego chłopaka. Na jedynej fotografii, jaka po nim została, odstrojony do ślubu Maciek Maślak patrzył w obiektyw z takim przerażeniem, jakby to był pluton egzekucyjny, i Jadzia nie umiała sobie wyobrazić, jak patrzyłby na nią. Zawsze wydawał jej się zbyt młody na czyjegoś ojca i dziwnie bezbronny. Od dziecka wymyślała Jadzia heroiczną historię wojenną, broniąc swojego martwego ojca przed nieistnieniem i brakiem miłości, przed którym sam nie mógł się obronić. Mój ojciec był bohaterem, opowiadała w szkole, zabił stu Niemców w pojedynkę. Latał samolotem i strzelał do nich z nieba, trup się gęsto siał, szkopy w gacie robiły ze strachu. Był wprost niesamowicie mądry i odważny!</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

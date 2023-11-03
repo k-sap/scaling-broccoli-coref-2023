@@ -1,0 +1,14 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Konie w rozlewisku Warty były zawsze. Ponad dwieście lat temu, w czasach Fryderyka Wielkiego, nadwarciańskie lasy wycięto, bagna zmeliorowano, a na uzyskanych terenach zaczęto wypasać konie i bydło. Po latach na otoczonych rozlewiskami i bagnami łąkach zaczęło osiedlać się coraz więcej ptaków, w tym wiele gatunków zagrożonych wyginięciem. W trudno dostępnym terenie, nieniepokojone przez człowieka zakładały kolonie lęgowe. W 1977 r. na rozlewiskach wokół Słońska powstał rezerwat przyrody. Jednak warunkiem zachowania siedlisk była ochrona łąk i pastwisk przed zarastaniem. A to gwarantowało tylko systematyczne koszenie traw albo wypas zwierząt. Dlatego konie w rezerwacie nikomu nie przeszkadzały. Także wtedy, gdy w połowie 2001 r. w miejsce rezerwatu na 8 tys. hektarów łąk i rozlewisk powołano Park Narodowy Ujście Warty. Przemieszczające się dziko wśród rozlewisk stada koni stanowiły dodatkową atrakcję parku. Mimo to część hodowców jest przekonana, że dyrekcja parku chciałaby pozbyć się koni z jego obszaru.</p>
+        <p xml:id="p-2">- To nieprawda - mówi dyrektor parku Dariusz Wypychowski. - Obecność tych koni i bydła na terenie parku jest nie tylko niegroźna, ale wręcz niezbędna.</p>
+        <p xml:id="p-3">Konie i bydło pełnią rolę naturalnych kosiarek. W innym wypadku trzeba byłoby trawę kosić mechanicznie. - A przecież nie zamienię parku w PGR - mówi dyr. Wypychowski. Gdy wskutek recesji w rolnictwie liczba zwierząt hodowlanych zmalała, część łąk na terenie parku zarosła trzciną i krzewami wierzbowymi, zmniejszać się zaczął także obszar siedlisk i liczba rzadkich gatunków ptaków. - Dlatego spotykałem się z rolnikami w okolicznych wsiach wręcz zachęcając do wypasu, jednocześnie informując o zasadach, których należy przestrzegać - mówi dyrektor. - Jeśli zwierzęta wejdą na łąki przed końcem okresu lęgowego, zostaje nam jedna wielka jajecznica.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

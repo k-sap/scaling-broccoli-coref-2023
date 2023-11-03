@@ -1,0 +1,14 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">"Lokomotywa" da sygnał do rozpoczęcia Ogólnopolskiego Tygodnia Czytania Dzieciom, czyli drugiej edycji kampanii społecznej na rzecz głośnego czytania, zainicjowanej rok temu przez Fundację ABCXXI - Program Zdrowia Emocjonalnego. Założycielka i prezes Fundacji Irena Koźmińska daje sobie i współpracownikom pięć lat na dochodzenie do sukcesu. Dynamizm jej kampanii, świetne pomysły i rosnące kręgi sojuszników przekonują, że to musi się udać. Już się udaje w małej, lokalnej skali. Społecznicy z oddziałów Fundacji w Toruniu, Łodzi, Tarnowie, Opolu, Wrocławiu, Poznaniu organizują grupy wolontariuszy, czytających dzieciom w szpitalach, świetlicach, policyjnych izbach i domach dziecka. W Szczecinie teatr Pleciuga zaprasza na imprezy, podczas których znane osoby czytają dzieciom. Rzecz w tym, żeby kampanijne pospolite ruszenie stało się społecznym nawykiem, a jeszcze lepiej - zdrowym snobizmem.</p>
+        <p xml:id="p-2">Jakoś wszyscy przeoczyliśmy moment, kiedy modę na czytanie wyparły media elektroniczne. Fundacja ABC chce tę modę przywrócić. Zwraca się do dorosłych, żeby zaczęli od czytania dzieciom - codziennie, głośno, przynajmniej przez 20 minut. A czemu ma służyć ten happening? Czy w dobie elektronicznego przekazu można podbić świat żywym słowem?</p>
+        <p xml:id="p-3">To ważna kwestia. Głośne czytanie nie jest ani celem samym w sobie, ani narzędziem do zdobywania świata, tylko środkiem do osiągnięcia tak ważnych celów, jak równowaga emocjonalna, rozwój więzi psychicznych, stymulacja umysłu, rozwój inteligencji emocjonalnej. Nie chodzi o przymus czytania albo obowiązek zaliczania nudnych lektur. Głośne czytanie można nazwać obrzędem, podczas którego powstaje atmosfera wspólnego przeżywania treści literackich i rozwijania wrażliwości. Gdy rodzice czytają dzieciom, oznacza to, że poświęcają im swój czas i uwagę, niezbędne dla prawidłowego rozwoju i poczucia bezpieczeństwa. Wspólne lektury to wspólne emocje, bliskość fizyczna i emocjonalna. Dzieci wynoszą z domu różne nawyki, ale niewiele z nich procentuje tak wysoko jak nawyk czytania i miłość do książki. Kto czyta jako dziecko, ten jako dorosły więcej wie, rozumie i mądrzej postępuje.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

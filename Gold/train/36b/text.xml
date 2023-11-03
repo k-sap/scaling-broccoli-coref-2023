@@ -1,0 +1,12 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Około 30 właścicieli domowych żółwi bawiło się w sobotę w Klubie Wodnym Żabi Kruk w Gdańsku na trzecim Zlocie Żółwi. Jednym z najstarszych gadów obecnych na imprezie był 57-letni żółw grecki o wdzięcznym imieniu Rafałek. Najmniejszy Ø miał około 3 cm wielkości.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

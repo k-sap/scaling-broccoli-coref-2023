@@ -1,0 +1,32 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">- No i cóż tam, batko? - zapytał Kaziuk.</p>
+        <p xml:id="p-2">- Taki sam. Zliuszczy.</p>
+        <p xml:id="p-3">- Pije?</p>
+        <p xml:id="p-4">- Pije i bije. Mnie zeszłego tygodnia postronkiem tak sprał, że dwa dni siedzieć nie mogłem.</p>
+        <p xml:id="p-5">- Co? I myśli diabelskie nie przychodzą tobie?</p>
+        <p xml:id="p-6">- E! - nieokreślenie bąknął Juraj.</p>
+        <p xml:id="p-7">- Co to znaczy "e"? Co ty tam sobie myślisz w twojej głupiej głowie?</p>
+        <p xml:id="p-8">- Nic nie myślę - z pewną niecierpliwością powiedział Juraj i odsunął się od Kaziuka.</p>
+        <p xml:id="p-9">- A modlisz się za ojca? - spytał Kaziuk jeszcze.</p>
+        <p xml:id="p-10">- Nie!</p>
+        <p xml:id="p-11">- No, to pomódl się ze mną. Powiedz: Boże, miej w swojej opiece mojego ojca!</p>
+        <p xml:id="p-12">- Boże, miej w swojej opiece mojego ojca - obojętnie powtórzył Juraj.</p>
+        <p xml:id="p-13">- I wszystkich, i wszystkich - nieco przejętym głosem powiedział Kaziuk.</p>
+        <p xml:id="p-14">Juraj poruszył się.</p>
+        <p xml:id="p-15">- I wszystkich... - powtórzył sennie, przeciągając. A jednak w głosie jego brzmiało jakieś ledwie zaznaczające się, osnute mgłą jesiennej nocy wzruszenie. - I wszystkich...</p>
+        <p xml:id="p-16">- Amen - zakończył Kaziuk - a teraz śpij!</p>
+        <p xml:id="p-17">- Dobranoc.</p>
+        <p xml:id="p-18">- Dobranoc.</p>
+        <p xml:id="p-19">Juraj zasnął. A Kaziuk jeszcze długo patrzył na gwiazdy przez stajenne wrota. Ale w końcu zasnął i on. Wilki w lesie przestały wyć.</p>
+        <p xml:id="p-20">XIV</p>
+        <p xml:id="p-21">Trochę po północy ksiądz Suryn obudził się gwałtownie, jak od szarpnięcia, i zaraz poczuł, że czarny rozpiera się w nim zupełnie, że obudzone szatany nabrały namacalnej konkretności i że nalany jest substancją zła, które jakoby przelewało się przez niego. I zaraz przypomniał sobie o siekierze, o którą potknął się Wołodkowicz, kiedy pierwszy raz byli w tej karczmie. Poczuł tak gwałtownie przemożne istnienie tych dwóch przedmiotów, że przeciągnął się mocno, jakby odpychał od siebie pokrycie nocy, i powiedział:</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Trzech zamaskowanych mężczyzn sterroryzowało wczoraj ok. 18 pracowników sklepu jubilerskiego przy Rondzie ONZ. Bandyci uciekając oddali serię z broni maszynowej. Szczęśliwie nikt z przechodniów nie został ranny. Tuż po 18 do sklepu jubilerskiego Diament przy Rondzie ONZ weszło trzech mężczyzn. Bandyci mieli na głowach kominiarki. W sklepie była dwójka pracowników. Kobietę sterroryzowali bronią maszynową. - Zaczęli bić młotkami szyby gablot i wyjmować biżuterię - relacjonuje przebieg napadu podkom. Adam Jasiński z zespołu prasowego komendanta stołecznego policji.</p>
+        <p xml:id="p-2">W sklepie nie było w tym czasie klientów. Przebywający na antresoli drugi pracownik, słysząc odgłosy dobiegające z dołu, włączył elektryczną blokadę drzwi wejściowych. - Napastnicy zgarnąwszy łup rzucili się do ucieczki - mówi podkom. Adam Jasiński. - Dopiero wtedy zdali sobie sprawę, że odcięto im jedyną drogę ucieczki. W kierunku zablokowanych drzwi otworzyli ogień z broni maszynowej. Dopiero po tym desperackim akcie pracownik sklepu zwolnił blokadę. Kule podziurawiły drzwi niczym szwajcarski ser. Jedna z nich utknęła nawet w stojącym tuż przy rondzie znaku drogowym. Szczęśliwie żaden z przechodniów nie został ranny. - Aż strach pomyśleć co mogłoby się stać, gdyby któraś z kul trafiła przechodnia lub kierowcę jadącego po zatłoczonym o tej porze rondzie - komentuje podkom. Adam Jasiński. - W tym przypadku naprawdę możemy mówić o dużym szczęściu. Wybiegając ze sklepu (mężczyźni pobiegli w stronę bloków przy ul. Prostej - red.) bandyci rzucili w kierunku przechodniów kilka petard, licząc prawdopodobnie na to, że odgłos ich detonacji odwróci uwagę postronnych świadków od kierunku ucieczki. Jeden z napastników wpadł na przechodzącą koło sklepu kobietę. Uderzył ją kolbą karabinu. W chwili zamykania tego numeru ŻW nadal szacowano straty wyrządzone przez napastników. Dokładnie nie wiadomo jakiej wartości skradziono biżuterię. Jak udało się nam jednak dowiedzieć, łupem bandytów padł towar o znacznej wartości.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

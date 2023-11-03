@@ -1,0 +1,14 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Każdy szanujący się poseł ma asystenta. Do jego zadań należy robienie przeglądu prasy, przygotowanie wystąpień posła, czuwanie nad kalendarzem, a czasem nawet spotykanie się w terenie z elektoratem posła, kiedy ten ma inne zajęcia. Asystentami są z reguły ludzie młodzi, ale nie brakuje również szczerze zaangażowanych emerytów (zatrudniają ich m.in. Anna Bańkowska i Jerzy Wenderlich). Poglądy polityczne asystenta powinny być zbieżne z linią szefa, dlatego naturalnym źródłem przybocznych są partyjne młodzieżówki. Pracują jako wolontariusze tak jak Marek Hajbos, asystent Zyty Gilowskiej, student zarządzania w UW oraz finansów i bankowości w SGH, od czasu do czasu dostając ekstra pieniądze za "zadania specjalne". Poseł Adam Bielan (rzecznik PiS) na przykład płaci asystentom za wysyłanie korespondencji. Etatowa prawa ręka posła zarabia około 2 tys. zł miesięcznie.</p>
+        <p xml:id="p-2">Asystentura może stać się trampoliną dla własnych sukcesów politycznych. Obecny minister sprawiedliwości Grzegorz Kurczuk zaczynał partyjną działalność jako asystent Izabelli Sierakowskiej (potem wygryzł ją z fotela przewodniczącej lubelskiej rady wojewódzkiej Socjaldemokracji). - Był to jeden z moich najmniej udanych asystentów, ponieważ zbyt intensywnie myślał o własnej karierze - surowo ocenia Kurczuka poseł Sierakowska. W ministry poszedł też były asystent Józefa Oleksego Lech Nikolski, a także Michał Tober, dawniej przyboczny Oleksego i Millera - dziś rzecznik rządu.</p>
+        <p xml:id="p-3">Posłowie nie poprzestają na jednym asystencie. Bielan ma ich czterech, Sierakowska sześciu, a Maciej Giertych aż dziesięciu. Asystentem i najbardziej zaufanym człowiekiem byłego wicepremiera Jarosława Kalinowskiego jest Mariusz Suchecki. Poznali się ponad 20 lat temu, tańczyli w zespole ludowym na SGGW. Teraz są przyjaciółmi. Suchecki zajmuje się kalendarzem, jeździ ze swoim szefem w teren, zdarza się nawet, że załatwia sprawy rodzinne Kalinowskiego. - Trudno byłoby mi pracować z przewodniczącym Kalinowskim, gdybym nie podzielał jego poglądów, należę więc do PSL.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

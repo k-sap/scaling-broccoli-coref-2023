@@ -1,0 +1,26 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">- Akurat!</p>
+        <p xml:id="p-2">- Kisiel, i ty to wiesz, i ja to wiem. Mnie się zdaje, że ona chce zagrać nam na nosie. Wiesz...</p>
+        <p xml:id="p-3">- W jaki sposób?</p>
+        <p xml:id="p-4">- Zaprosiła nas dzisiaj na spotkanie. Pomyśl. Jak kogoś zapraszasz, to co podajesz?</p>
+        <p xml:id="p-5">- Termin i miejsce.</p>
+        <p xml:id="p-6">- Właśnie. Termin znamy - dzisiaj o czwartej po południu.</p>
+        <p xml:id="p-7">- A miejsce?</p>
+        <p xml:id="p-8">- To właśnie mamy rozszyfrować.</p>
+        <p xml:id="p-9">Umilkliśmy na chwilę. Każdy z nas przyglądał się swojej karteczce. Co to, do diabła, znaczy "coccinella"? Brzmi jak nazwa jakiegoś płynu do płukania tkanin albo czegoś w tym rodzaju. U Pawła nie lepiej - "bellis - medicus". To całkiem jak "piękny lekarz". Co za bzdury!</p>
+        <p xml:id="p-10">- Słuchaj! - Kisiel właśnie skończył jeść kanapkę i szarpnął mnie za rękę.</p>
+        <p xml:id="p-11">- No?</p>
+        <p xml:id="p-12">- Jeżeli i ze mną, i z tobą umówiła się o szesnastej, to w jaki sposób się dowie, że obaj rozszyfrowaliśmy te idiotyczne hasła? Przecież się nie rozdwoi?</p>
+        <p xml:id="p-13">Zastanowiłem się. Hmm... Miał rację.</p>
+        <p xml:id="p-14">- Chyba że miejsca, do których mamy dotrzeć, znajdują się niedaleko od siebie, lub można je obserwować z jednego punktu...</p>
+        <p xml:id="p-15">- Taaaaa... Zapewne Kaśka poleci balonem i przez lunetę przyfiluje, czy Czarny z Kisielem dotarli w wyznaczone miejsca. - Roześmiał się, po czym machnął ręką.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

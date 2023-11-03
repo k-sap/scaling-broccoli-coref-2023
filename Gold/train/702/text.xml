@@ -1,0 +1,17 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">W ŁKS zadebiutowała Swetlava Jurcak z Vojvodiny Novi Sad.</p>
+        <p xml:id="p-2">- CCC Aquapark Polkowice - ŁKS LOTTO 85:67 (29:17, 14:14, 28:12, 14:24)</p>
+        <p xml:id="p-3">Aquapark: Marczewska 22, Pałka 17, Koryzna 12, Waligórska 9, Nowacka 8, Stempniewicz 7, Kłosińska 5, Jasnowska 4, Falska 1, Fiałkowska, Urban 0. Trener: Wojciech Spisacki.</p>
+        <p xml:id="p-4">ŁKS LOTTO: Perlińska 17, Kenig 11, Makowska 9, Iwliewa 7, Jurcak 6, Włodarska 6, Skorek 4, Owczarek 3, Jodeikaite 2, Dominauskaite 2. Trener: Andrzej Nowakowski.</p>
+        <p xml:id="p-5">Paradoksalne, ale Aquapark zagrał słabiej niż w Łodzi, a jednak wygrał łatwiej! Dwa tygodnie temu polkowiczanki miały 71 procent skuteczności rzutów z gry, a w rewanżu na swoim boisku tylko 52 (ŁKS odpowiednio 52 i 38!). Przy tak małym procencie trafień, jaki miały w sobotę łodzianki, trudno nawiązać równorzędną walkę. Jeśli dodamy do tego bezradność ŁKS pod tablicami (zbiórki 29-40), to przyczyny dotkliwej porażki wydają się klarowne.</p>
+        <p xml:id="p-6">Indywidualnością spotkania była środkowa Aquaparku Agnieszka Pałka. Mierząca 195 cm wychowanka Polfy dawno już nie była w tak dobrej formie. To głównie dziękie niej dwunastopunktowa przewaga Aquaparku do przerwy wzrosła w trzeciej ćwiartce do 30 punktów! Łodzianki zmniejszyły straty dopierko w końcówce, kiedy trener Aquaparku wprowadził na boisko zmienniczki.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

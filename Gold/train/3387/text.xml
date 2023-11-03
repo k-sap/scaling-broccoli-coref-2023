@@ -1,0 +1,14 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Polska podczas wojny doświadczyła zdrady ze strony Wielkiej Brytanii i Francji, sojuszników, którzy mieli nam pospieszyć z pomocą, a którzy słowa nie dotrzymali. W efekcie w walce z agresorami zdani byliśmy tylko na siebie, gromieni z dwóch stron przez Niemców i Sowietów, skazani przez jednych i drugich na całkowitą eksterminację. Wywożeni do obozów i łagrów, doświadczaliśmy losu podobnego temu, jaki Niemcy zgotowali "podludziom" którzy mieli na zawsze zniknąć z powierzchni ziemi, aby mogła panować "rasa nadludzi i panów".</p>
+        <p xml:id="p-2">Powstańcy żydowscy z warszawskiego getta pokazali, że można godnie upomnieć się o swoje miejsce i umierać za swoją Ojczyznę - Polskę. Terror i obozy Auschwitz, Treblinka i Sobibor, niemieckie fabryki śmierci, w których obok Polaków ginęli obywatele okupowanej Europy, na zawsze odmieniły europejski krajobraz i dusze wszystkich pozostałych przy życiu, bo tak naprawdę po Auschwitz nigdy nie będzie już tak samo. Wiecznym cieniem na całą ludzkość położyła się ta straszna zbrodnia. Groby pomordowanych skłaniają każdego normalnego człowieka do zadumy. Ale tam nie ma grobów. Na miejscu tej niepojętej zbrodni, zaduma musi przeobrażać się w szczególną odpowiedzialność, w trwałą pamięć o tym, co się stało. Dobitnie wyrażają to słowa z Księgi Hioba, jednako ważnej dla Żydów i Chrześcijan: "Ziemio, nie kryj mojej krwi, iżby mój krzyk nie ustawał".</p>
+        <p xml:id="p-3">Uroczysty apel poprowadził dyrektor szkoły Stanisław Michalczyk a słowo końcowe wygłosił kombatant II Wojny Światowej, kpt. Stefan Styczeń. Warto w tym miejscu dodać, że młodzież z Zespołu Szkół w Konopiskach wraz nauczycielami uczestniczyła również w tegorocznym Marszu Żywych, organizowanym od kilku lat na terenie obozu KL Auschwitz.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

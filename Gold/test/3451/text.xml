@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Otóż prócz postanowienia i motywacji równie ważna jest świadomość tego, jakie działania musimy podjąć, aby zbliżyć się do celu. A z tą świadomością u nas różnie bywa. Jeśli np. chcę dostać stypendium naukowe, ale jestem przekonany, że zależy to jedynie od życzliwości egzaminatorów (a nie od mojej pracy), to z góry skazuję się na niepowodzenie. Jeśli chcę osiągnąć cel, to muszę mieć też plan jego osiągnięcia. Muszę wiedzieć, jakie moje działania zbliżają mnie do niego, a jakie Ø oddalają. Gdy jestem przekonany, że osiągnięcie celu nie zależy ode mnie, ale np. od losu lub życzliwości innych ludzi - czeka mnie porażka. Nie pozostaje mi bowiem nic innego, jak trzymać kciuki za los lub wierzyć w życzliwość ludzką. To jedyne, co mogę zrobić. W ten sposób jednak cel się nie zbliża.</p>
+        <p xml:id="p-2">Ostatnia przeszkoda na horyzoncie! Bywa, że wiem, czego chcę, wiem, co muszę robić, aby to osiągnąć i mam motywację do wysiłku. Drobnymi krokami zbliżam się do celu. Jednak u celu może czyhać ukryta pułapka. Otóż, mogę stracić zdolność cieszenia się moim marzeniem (psychologowie nazywają to "depresją szczytu"). "Notoryczny spóźniacz", który przez cały styczeń przychodził do pracy punktualnie, pierwszego lutego spóźnia się i zaczyna myśleć: "No tak, wszystko stracone. Nigdy nie uda mi się nic osiągnąć. Znowu zaczynam się spóźniać". Wpada w rozpacz i poddaje się. Tymczasem było to tylko jedno spóźnienie. Namiętny palacz, który po miesiącu zapalił tylko jednego papierosa, przecież nadal jest abstynentem. Gdy osiągamy nasze cele, wyglądają one niekiedy inaczej niż sobie to wyobrażaliśmy. Trzeba się umieć z tego cieszyć. A nie każdy to potrafi.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

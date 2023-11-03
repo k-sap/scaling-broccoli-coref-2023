@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">- Do świadomości decydentów, bez względu na formację polityczną, ciągle nie może przebić się idea, że latanie to nie tylko świetna rozrywka, ale również poważna gałąź gospodarki - tłumaczy Krzysztof Krawcewicz, redaktor naczelny "Przeglądu Lotniczego". - Prezydent zawetował niezwykle potrzebną ustawę o prawie lotniczym, uzasadniając swoją decyzję wydarzeniami 11 września w Nowym Jorku. Psychoza wywołana tym zamachem udziela się wielu osobom, nawet piastującym stanowiska publiczne. Myślą one, że byle kto może ukraść aeroklubową Wilgę i rozbić za jej pomocą Pałac Kultury.</p>
+        <p xml:id="p-2">Ludzie chcą latać, nie zrażają się więc i latają, jak mogą. Odkąd powstały przepisy latania na paralotniach - w ciągu kilku lat licencję uzyskało ponad 5 tys. osób. Ci, którzy nie mogą doczekać się lepszego prawa, rejestrują swoje samoloty za granicą. W Niemczech ludzie składają się po kilku, by kupić ultralighta - kosztuje jakieś 100 tys. marek, używane są znacznie tańsze. Potem latają, gdzie chcą i jak chcą, byle nie naruszali korytarzy powietrznych lotnictwa cywilnego.</p>
+        <p xml:id="p-3">Zostało z potęgi</p>
+        <p xml:id="p-4">Pionier polskiego prywatnego biznesu lotniczego inż. Edward Margański patrzy na problem polskiego lotnictwa z szerszej perspektywy. Po wielu latach pracy w przemyśle lotniczym i nad dziesiątkami konstrukcji w 1986 r. założył w Bielsku-Białej własną firmę - Zakład Remontów i Produkcji Sprzętu Lotniczego, pierwszy prywatny zakład lotniczy w Europie Środkowej. To w tej fabryczce powstał szybowiec akrobacyjny SWIFT oraz pierwszy na świecie dwumiejscowy szybowiec akrobacyjny MDM-1 Fox, na którym Jerzy Makuła zdobył w 1993 r. mistrzostwo świata.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

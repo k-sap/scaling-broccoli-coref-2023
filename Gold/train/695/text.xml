@@ -1,0 +1,21 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Bombowy młody chemik</p>
+        <p xml:id="p-2">Wiktor W., uczeń szkoły średniej w Radomsku, to niebezpieczny piroman czy lekkomyślny hobbysta? Zagadkę jego chemicznej pasji wyjaśnia policja. W laboratorium urządzonym w komórce w centrum miasta znaleziono substancje, które groziły wybuchem</p>
+        <p xml:id="p-3">Nadmierne zainteresowanie chemią młodego radomszczanina o mały włos nie doprowadziło do nieszczęścia. Uczeń szkoły średniej podobno tylko konstruował fajerwerki, ale jego chemiczna kolekcja trzymana na podwórku to prawdziwa bomba</p>
+        <p xml:id="p-4">Wybuchowa pasja chemika</p>
+        <p xml:id="p-5">Kilkaset pojemników z groźnymi substancjami chemicznymi znaleźli policjanci w komórce i mieszkaniu przy ulicy Reymonta w Radomsku. Ich właściciela, ucznia Zespołu Szkół Drzewnych i Ochrony Środowiska, zatrzymano.</p>
+        <p xml:id="p-6">18-letni Wiktor W. policjantom z sekcji kryminalnej Komendy Powiatowej Policji w Radomsku przyznał się do konstruowania fajerwerków i materiałów pirotechnicznych.</p>
+        <p xml:id="p-7">– Interwencja była skutkiem informacji, do jakiej dotarli policjanci, o podejrzeniu zgromadzenia na jednej z posesji w centrum Radomska dużej ilości niebezpiecznych chemikaliów – wyjaśnia Wojciech Auguścik, rzecznik prasowy KPP w Radomsku. – Na miejscu okazało się, że rzeczywiście istnieje poważne zagrożenie.</p>
+        <p xml:id="p-8">Mogło wybuchnąć</p>
+        <p xml:id="p-9">We wtorkowy wieczór, przez kilka godzin teren zabezpieczali policjanci i funkcjonariusze straży miejskiej. Ze względów bezpieczeństwa, konieczna okazała się ewakuacja mieszkańców kamienicy, przy której stoi komórka, gdzie znaleziono niebezpieczne laboratorium. – Siedmiu rodzinom, łącznie 25 osobom, nakazaliśmy opuszczenie mieszkań, wrócili do nich dopiero późnym wieczorem – zaznacza Auguścik.</p>
+        <p xml:id="p-10">Oprócz policjantów z Radomska znalezisko badał sprowadzony z Komendy Wojewódzkiej Policji z Łodzi specjalista kryminalistyki. Wstępnie ocenił, że zgromadzone substancje nie stanowią dużego zagrożenia, ale tylko wtedy, gdy przechowywane są w odrębnych i zamkniętych pojemnikach. Ich połączenie mogło grozić wybuchem.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

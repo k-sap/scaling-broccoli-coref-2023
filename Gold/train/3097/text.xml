@@ -1,0 +1,34 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">– Urodziny atomówek.</p>
+        <p xml:id="p-2">– Nie.</p>
+        <p xml:id="p-3">– Trup filatelisty powraca.</p>
+        <p xml:id="p-4">– Nie ma takiego filmu.</p>
+        <p xml:id="p-5">– Zdziwiłbyś się. Nie, zresztą, co ty się dziwisz? Sam jesteś jak filatelista, i to nieżywy.</p>
+        <p xml:id="p-6">– Czy ty w ten sposób próbujesz dodać sobie uroku?</p>
+        <p xml:id="p-7">– Nie potrzebuję. No dobra, niech ci będzie, Zatrute pióro.</p>
+        <p xml:id="p-8">– Nie!</p>
+        <p xml:id="p-9">– No coś ty. Coś dla ciebie. To o markizie de Sade. Filozof.</p>
+        <p xml:id="p-10">– Niezły filozof.</p>
+        <p xml:id="p-11">– Chodził w peruce. A ty lubisz perukarzy. Kręci cię osiemnasty wiek. Mnie zresztą też.</p>
+        <p xml:id="p-12">– Nie zauważyłem.</p>
+        <p xml:id="p-13">– Najpierw się pojedynkują, potem dwie godziny ostrego seksu, a na końcu gilotyna. Tak wygląda pra widłowy film o osiemnastym wieku. Tak wygląda prawidłowy film. No dobra. – Ewelina pokazuje ząbki, ostrożnie, tak, żeby nie ujawnić miękkich i różowych części, które się za nimi kryją. – Będę dzisiaj cicho, jeśli przejedziesz się raz po torze.</p>
+        <p xml:id="p-14">– Nie.</p>
+        <p xml:id="p-15">– Proszę.</p>
+        <p xml:id="p-16">– Nie.</p>
+        <p xml:id="p-17">– No to nie będzie seksu.</p>
+        <p xml:id="p-18">– I tak się miałem wyciszyć.</p>
+        <p xml:id="p-19">– Żeby się wyciszyć, najpierw trzeba sobie ulżyć, czyż nie?</p>
+        <p xml:id="p-20">– Jak to się dzieje, że pozwalam ci na wszystko?</p>
+        <p xml:id="p-21">– Spróbuj zabronić. To mogłoby być ciekawe.</p>
+        <p xml:id="p-22">– Zabraniam.</p>
+        <p xml:id="p-23">– Aha – zamilkła na chwilę. – Naprawdę?</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

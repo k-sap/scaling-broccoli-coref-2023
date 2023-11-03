@@ -1,0 +1,19 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Po raz ostatni w Chorzowie żużlowcy ścigali się 16 października 1994 roku, kiedy to odbyły się tam otwarte mistrzostwa Śląska.</p>
+        <p xml:id="p-2">Skuteczni dublerzy</p>
+        <p xml:id="p-3">W tegorocznym Memoriale wystartowało wielu znakomitych żużlowców, a wśród nich trzech indywidualnych mistrzów świata: Duńczyk Hans Nielsen oraz dwóch Amerykanów - Sam Ermolenko i Billy Hamill. Miał być także kolejny Tony Rickardsson. Ostatecznie Szwed odwołał swój występ w Chorzowie. Z powodzeniem zastąpił go jednak Duńczyk Tommy Knudsen, który wygrał zawody. Drugi zawodnik ściągnięty niemal w ostatniej chwili - za mistrza z długiego toru Niemca Gerda Rissa - niewielki Australijczyk Ryan Sullivan był natomiast drugi.</p>
+        <p xml:id="p-4">Żużlowcy mieli o co walczyć. Oprócz indywidualnych, zastrzeżonych umów ze sponsorami, otrzymywali po sto marek za każdy zdobyty punkt.</p>
+        <p xml:id="p-5">- Tor jest nieco przestarzały. Ma zbyt wąskie wejścia w łuk, jest bardzo trudny technicznie. Na dystansie w ogóle nie było walki, a o końcowej kolejności decydował najczęściej start - mówił po turnieju najlepszy z Polaków Roman Jankowski z Unii Leszno.</p>
+        <p xml:id="p-6">W kilku przypadkach kibice oklaskiwali jednak walczących zawodników.</p>
+        <p xml:id="p-7">W wyścigu 18., ostatni po starcie, Tomasz Gollob na drugim okrążeniu wyprzedził Andrzeja Huszczę i Hamilla, po czym zaatakował prowadzącego Sławomira Drabika. Częstochowianin na ostatnim okrążeniu zajechał Gollobowi drogę i w efekcie zdołał obronić swoją pozycję.</p>
+        <p xml:id="p-8">Podobnie było w kolejnym biegu, gdy po kiepskim starcie Jacek Krzyżaniak wyprzedził Jacka Golloba i Sebastiana Ułamka. Mistrz Polski sprzed kilku dni niespecjalnie przejął się swoim dziewiątym miejscem w końcowej klasyfikacji.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

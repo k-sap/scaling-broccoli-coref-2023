@@ -1,0 +1,19 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Nie udał się finał Pucharu Świata w skokach narciarskich. Szyki zawodnikom i organizatorom pokrzyżował wiatr. Stąd najbardziej atrakcyjny konkurs na „mamucie” w Planicy został odwołany. Mimo że Walter Hofer, dyrektor tej imprezy, robił przerwy i opóźniał zawody, licząc, że wicher się w końcu zmiłuje i ucichnie. Jednak 60 tysięcy kibiców znajdujących się pod „Velikanką” nie doczekało się dokończenia zawodów.</p>
+        <p xml:id="p-2">W godzinach rannych</p>
+        <p xml:id="p-3">z problemami udało się przeprowadzić kwalifikacje. Z Polaków, poza Małyszem, do konkursu głównego zdołał zakwalifikować się tylko Łukasz Kruczek. Zawodnik ten został ściągnięty do Planicy, w miejsce Tomasza Pochwały, który miał niezwykle groźnie wyglądający upadek podczas piątkowego treningu. Z poobijaną twarzą znalazł się w szpitalu w pobliskich Jesenicach. Po takim upadku, to cud, że Pochwała nic sobie nie złamał.</p>
+        <p xml:id="p-4">- Czuję się już lepiej. Wiem, jaki popełniłem błąd i więcej go nie powtórzę - mówił Pochwała w szpitalu.</p>
+        <p xml:id="p-5">- Dzwoniłem w sobotnie południe do Tomka i jak wynika z jego słów czuje się lepiej - powiedział Lech Pochwała, ojciec skoczka. - Syn ma trochę podrapaną twarz i nieco dolega mu skręcone kolano. Opuści szpital w niedzielę i po konkursie indywidualnym wróci z kolegami do domu.</p>
+        <p xml:id="p-6">W Pochwałę wierzy trener Apoloniusz Tajner.</p>
+        <p xml:id="p-7">- Tomek będzie dalej skakał. To jest bardzo odważny chłopak - mówi szkoleniowiec reprezentacji Polski.</p>
+        <p xml:id="p-8">W kwalifikacjach Kruczek skoczył 176,5 m i zakwalifikował się do konkursu głównego. Tomisław Tajner uzyskał 168, a Robert Mateja zaledwie 86 m. Początkowo skakano z dziesiątej belki, a dopiero zawodnikom z czołowej piętnastki skrócono rozbieg o dwie belki. Skacząc z dłuższego rozbiegu, Alan Alborn, uzyskując 221,5 m, pobił rekord USA.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

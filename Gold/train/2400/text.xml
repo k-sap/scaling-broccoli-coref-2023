@@ -1,0 +1,19 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Wygląda więc na to, że aż do jesieni w naszej tabeli zawierającej oprocentowanie kredytów w bankach nie zajdzie wiele zmian. Do tego czasu, jeśli nawet część banków zmieni oprocentowanie kredytów, to najprawdopodobniej będą to tylko kosmetyczne poprawki.</p>
+        <p xml:id="p-2">Poza tym jeśli nawet na jesieni kredyt stanieje, nie oznacza to wcale, że będzie bardziej dostępny. Choć nie dysponujemy danymi dotyczącymi wszystkich banków, jednak z fragmentarycznych informacji można wnioskować, że banki udzielają coraz mniej kredytów. Bardziej opłacalne dla nich jest operowanie na rynku kapitałowym.</p>
+        <p xml:id="p-3">Stawki oprocentowania, które podajemy w tabeli, trzeba traktować jako orientacyjne, ponieważ banki każdego klienta oceniają indywidualnie. Ostatecznie oprocentowanie kredytu zależy od kondycji finansowej klienta oraz stopnia ryzyka, jakie w ocenie banku niesie ze sobą kredytowany projekt.</p>
+        <p xml:id="p-4">Jeśli bank uważa przedsięwzięcie za szczególnie ryzykowne, wówczas stosuje specjalne stawki oprocentowania tzw. zwiększonego ryzyka. Banki, które nie podają konkretnego oprocentowania kredytów ryzykownych, zwiększają cenę pożyczki do górnej granicy oprocentowania podstawowego.</p>
+        <p xml:id="p-5">Na wysokość oprocentowania kredytu ma również wpływ termin spłaty oraz rodzaj zabezpieczenia przedstawionego przez kredytobiorcę.</p>
+        <p xml:id="p-6">ZABEZPIECZENIA</p>
+        <p xml:id="p-7">Najczęściej spotykane formy Ø to gwarancje bankowe lub gwarancje ewentualnego partnera zagranicznego (akceptowanego przez bank), hipoteka, weksel lub zastaw na majątku ruchomym. Jako zabezpieczenia niektóre banki przyjmują również depozyty terminowe, obligacje skarbu państwa, akcje spółek notowanych na giełdzie, cesję praw z polisy ubezpieczeniowej itp.</p>
+        <p xml:id="p-8">Bank oceniający ryzyko przedsięwzięcia chce wiedzieć, ile własnych pieniędzy zaangażował w nie kredytobiorca. Zazwyczaj jako minimum banki wymagają od kredytobiorcy, aby zgromadził sam 20-25 proc. sumy potrzebnej do uruchomienia inwestycji.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

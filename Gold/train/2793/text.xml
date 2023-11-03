@@ -1,0 +1,14 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Zamyślona Po współżyciu z chłopakiem zrobiłam test-wynik wyszedł negatywny-ale obawiam się, że wynik może być nie prawdziwy, bo zrobiłam go 7dni po współżyciu (a nie 14)...no ale 3 dni po tym teście dostałam okres.Wydaje mi się, że był normalny raczej...no może krótszy o 1dzień niż zwykle... Teraz drugi raz dostałam Ø, ale wcześniej o tydzień...pierwszy dzień Ø obfity, drugi średni i na tym koniec a u mnie okres zawsze trwa co najmniej 4,5 dni... Wymiotowałam dwa razy przed tym okresem, ale nie wiem czy to nie przez wirus...czasami jest mi niedobrze, ale poza tym nie zauważyłam żadnych innych objawów... Mój pierwszy raz był ponad miesiąc temu, czy to możliwe, że przez to okres mam tak strasznie rozregulowany?nie miałam nigdy tak dokładnie regularnego, ale teraz to już w ogóle masakra.... albo czy moge być w ciąży?</p>
+        <p xml:id="p-2">Carmen Zabezpieczaliście się czymkolwiek wogóle??</p>
+        <p xml:id="p-3">Justyśkaa wlasnie pytanie jak wyzej...ale mysle ze nie jestes w ciazy okres normalnie dostalas a przez obawe przed ciaza widzisz roznice w okresie za krotko trwal byl inny tatata za szybko zrobilas test strata pieniedzy,masz normalnie miesiaczki a rozregulowac sie mogly przez stres badz wahania hormonow</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

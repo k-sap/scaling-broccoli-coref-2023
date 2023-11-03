@@ -1,0 +1,16 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">- Zgadza się. Przez wszystkie sezony spędzone w Częstochowie miałem bardzo wiele dobrych ofert. Dodać muszę, że te oferty były lepsze niż oferty Włókniarza, które otrzymywałem wcześniej. Jednak cały czas byłem lojalny wobec klubu i dlatego startowałem tutaj aż siedem lat. Uważam, że niezbyt wielu żużlowców w dzisiejszych czasach zostaje w tym samym miejscu przez tak wiele sezonów.</p>
+        <p xml:id="p-2">Czy mamy rozumieć, że oferty Włókniarza przez te siedem lat zawsze były najgorsze pod wzgl. finansowym?</p>
+        <p xml:id="p-3">- Dokładnie. Miałem wiele lepszych ofert z innych ośrodków żużlowych, ale za każdym razem pieniądze nie były dla mnie ważniejsze od tego, ile zrobił dla mnie częstochowski klub. Gdyby chodziło mi tylko o pieniądze, to już dawno bym odszedł. Od przyszłego sezonu będę jeździł dla mojego nowego klubu z Rzeszowa, ale oczywiście nigdy nie zapomnę o fanach w Częstochowie, którzy byli dla mnie najlepsi na świecie. Odszedłem z Włókniarza tylko z powodu Zarządu Ø. O częstochowskich kibicach zawsze będę pamiętał.</p>
+        <p xml:id="p-4">Czy uważasz, że jako zawodowiec miałeś prawo postawić żądanie dotyczące wyboru, jaki miał podjąć Zarząd Ø pomiędzy Tobą a zawodnikiem, którego Ty nie chciałeś? Głośno mówi się, że tym żużlowcem był Sebastian Ułamek.</p>
+        <p xml:id="p-5">- Nigdy nic nie mówiłem o Ułamku. Ja tylko powiedziałem o pewnej obietnicy, którą klub mi złożył i jej nie dotrzymał. Zarząd Ø miał łatwy wybór pomiędzy mną a innym zawodnikiem. Klub podjął decyzję o podpisaniu kontraktu z tym drugim i ja ją respektuję.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

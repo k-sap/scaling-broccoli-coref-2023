@@ -1,0 +1,17 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Po raz drugi w 66-letniej historii największego na świecie mityngu lały się z nieba strugi wody. Poprzednio zdarzyło się to 16 lat temu. Pogoda pokrzyżowała plany zarówno organizatorów, jak i zawodników, którzy zapowiadali ataki na rekordy świata. Bruegger zaoszczędził dużą część z rekordowej kwoty 3,7 mln franków przeznaczonych na premie dla zawodników, ale na pewno go to nie ucieszyło.</p>
+        <p xml:id="p-2">Zawodnikom nie pomogła nowa nawierzchnia bieżni, która kosztowała trzy miliony franków. Jest ona dziełem naukowców z Instytutu Biomechaniki Politechniki Federalnej w Zurychu (m. in. tor wewnętrzny jest bardziej miękki, lepszy dla długodystansowców).</p>
+        <p xml:id="p-3">Tylko Maria Mutola z Mozambiku, która atakowała 13-letni rekord Jarmili Krotochwilowej na 800 m (1.53,28), uzyskała najlepszy w tym roku wynik na świecie. - Przygotowywałam się od marca z myślą wyłącznie o zawodach w Zurychu - powiedziała zawiedziona.</p>
+        <p xml:id="p-4">Inni faworyci mieli jeszcze mniej szczęścia. W biegu na milę 42-letnia Rosjanka Jekaterina Podkopajewa, która wystąpiła w roli "zająca" , pomagała pobić rekord Soni O'Sullivan. Irlandka nie pobiegła szybciej od rekordu i przegrała z Algierką Hassibą Boulmerką.</p>
+        <p xml:id="p-5">Javier Sotomayor ukończył zawody w skoku wzwyż nie zaliczając żadnej wysokości (pierwsza porażka w sezonie). Zrzucił trzykrotnie poprzeczkę na wysokości 225 cm, tej samej, na której odpadł Artur Partyka.</p>
+        <p xml:id="p-6">Przegrały też lądujące w błocie zamiast w piasku faworytki skoku w dal Heike Drechsler (7,01) i Jackie Joyner-Kersee (6,95). Pokonała je Inessa Krawiec (7,09).</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

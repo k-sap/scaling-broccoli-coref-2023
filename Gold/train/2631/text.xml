@@ -1,0 +1,18 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Stacja dializ w legnickim szpitalu wojewódzkim może przyjąć tylko połowę oczekujących na ten ratujący życie zabieg - wyłącznie najcięższe przypadki. Gdyby mieć pewność, że Kasa Chorych zapłaci za leczenie, już za dwa miesiące mogłaby zacząć działalność supernowoczesna prywatna stacja dializ w Głogowie.</p>
+        <p xml:id="p-2">Kiedy nerki przestają pracować, dializa jest niezbędna. Aby żyć chory musi przyjeżdżać na uciążliwe, długotrwałe zabiegi. Wielu tylko tak może dożyć przeszczepu.</p>
+        <p xml:id="p-3">Od roku Maciej Skomorowski, wspierany m.in. przez Dariusza Chramiuka, ordynatora legnickiego oddziału nefrologii, próbuje doprowadzić do otwarcia na parterze nowo oddanej przychodni w Głogowie stacji dializ - pierwszej prywatnej placówki tego rodzaju w kraju. W początkowym okresie mogłaby przyjmować 40 pacjentów, póżniej około 60. Dokładnie tylu, ilu z powodu braku miejsc musi odmawiać doktor Chramiuk.</p>
+        <p xml:id="p-4">- Jesteśmy bezsilni. Chorym pozostaje oczekiwanie w nadziei, że zwolni się miejsce - wylicza Dariusz Chramiuk.</p>
+        <p xml:id="p-5">Z raportu o stanie lecznictwa nerkozastępczego wynika, że w całej Polsce brakuje stacji dializ. Autorzy analizy wskazują miejsca, w których takie placówki powinny powstać - wśród nich właśnie Głogów. Koszt dowozu głogowskich pacjentów do Legnicy jest wyższy niż koszt samego zabiegu - to też niebagatelny argument.</p>
+        <p xml:id="p-6">Maciej Skomorowski twierdzi, że jego stacja dializ mogłaby zostać otwarta już 1 lutego 2000 roku, gdyby nie niepewność, czy Dolnośląska Kasa Chorych pokryje koszta zabiegów.</p>
+        <p xml:id="p-7">- Kasom nie powinno braknąć pieniędzy na ten cel, bo wraz z przekazaniem im odpowiedzialności za wysokospecjalistyczne zabiegi, weźmiemy na siebie część ich dotychczasowych zadań. Poza tym otrzymają kwotę wyższą niż inflacja - twierdzi Michał Sobolewski, dyrektor departamentu świadczeń zdrowotnych w ministerstwie finansów.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

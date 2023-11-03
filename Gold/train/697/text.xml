@@ -1,0 +1,25 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Działania są także wynikiem próśb samych mieszkańców. Rodzice w trosce o swoje pociechy chcieliby, aby mogły czas spędzać w parku, wśród zieleni.</p>
+        <p xml:id="p-2">Pomysł się podoba</p>
+        <p xml:id="p-3">Jeleniogórzanie mieszkający na jednym z największych osiedli są zachwyceni pomysłem.</p>
+        <p xml:id="p-4">– Zdecydowanie popieramy akcję – mówią Leokadia Reszczyńska i Edyta Sokołowska. Tego samego zdania jest Halina Dąbrowska, która podpisała się pod petycją do radnych miejskich.</p>
+        <p xml:id="p-5">– Brakuje miejsca z zielenią, gdzie można by spokojnie posiedzieć – mówi kobieta. Jak dodaje, jej wnuczek Aleks miałby gdzie jeździć na rowerze.</p>
+        <p xml:id="p-6">Zbierają podpisy</p>
+        <p xml:id="p-7">Młodzi jeleniogórzanie zebrali już około 1300 podpisów pod petycją do rajców o utworzenie parku na Zabobrzu.</p>
+        <p xml:id="p-8">– Ludzie bardzo chętnie wpisują się na listę – mówi Oliwer Kubicki.</p>
+        <p xml:id="p-9">Szare blokowiska i mało zieleni to jeden z głównych powodów działań prowadzonych przez radę młodych.</p>
+        <p xml:id="p-10">Zadecydują rajcy</p>
+        <p xml:id="p-11">Akcja potrwa do końca wakacji. – Chcemy mieć dobre argumenty. Dlatego postaramy się zebrać jak najwięcej podpisów – mówią Piotr Piątek i Kamil Polikowski. Jak zaznaczają młodzi działacze, teren, na którym miałby stanąć park, był zaniedbany i porośnięty chwastami. Dopiero gdy zainteresowali się gruntami, doprowadzono go do porządku.</p>
+        <p xml:id="p-12">Pomysł już teraz popiera kilku rajców, m.in. Robert Prystrom i Wiesław Tomera. Petycja trafi do rajców we wrześniu.</p>
+        <p xml:id="p-13">Wraz z podpisami będzie także gotowy projekt parku.</p>
+        <p xml:id="p-14">– Dobrze byłoby, gdyby to miejsce zostało zazielenione – uważa Halina Dąbrowska (na zdjęciu z wnukiem Aleksem). Z tyłu młodzi działacze WM.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

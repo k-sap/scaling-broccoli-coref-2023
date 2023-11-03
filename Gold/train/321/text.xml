@@ -1,0 +1,14 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Czytelnicy serwisu naukowego portalu Onet.pl dowiedzieć się mogli, że czasopismo "Cancer Research" podało nienajlepszą informację na temat związku powszechnie stosowanego do produkcji plastikowych opakowań na żywność – może on pobudzać wzrost opornego na leczenie raka prostaty (mają to potwierdzić dodatkowe badania na zwierzętach).</p>
+        <p xml:id="p-2">Bisfenol A (BPA) jest wykorzystywany do produkcji poliwęglanu (PC), z którego wytwarza się elementy konstrukcyjne, sprzęt medyczny, wyroby sportowe, ale także plastikowe pojemniki na żywność, butle do dystrybutorów wody czy butelki dla niemowląt. Ponieważ badania wskazują, że BPA może uwalniać się z tworzyw, od paru lat toczy się debata, czy jego stosowanie jest bezpieczne. Niestety, coraz więcej wskazuje na to, że nie. Do niedawna wiadomo było, że może on imitować – a przez to zakłócać – pracę hormonów. Teraz badacze z Uniwersytetu w Cincinnati zaobserwowali, że pobudza on do podziału niektóre typu komórek ludzkiego raka prostaty, na dodatek w taki sposób, że u osób chorych pojawia się grupa nowotworowych komórek opornych na terapię. Komórki takie spotyka się u 8-25 proc. mężczyzn z rakiem prostaty, dla nich więc kontakt z BPA jest szczególnie groźny, gdyż stanowi czynnik przyspieszający wzrost guza.</p>
+        <p xml:id="p-3">Warto pamiętać, że chemizacja środowiska to nie tylko konserwanty czy barwniki dodawane do naszego pożywienia; niestety, rozmaitego paskudztwa jest w naszym otoczeniu mnóstwo i także od nas zależy, jaką będziemy mieć z nim styczność. Warto o tym pamiętać, podczas zakupów – choćby wody mineralnej, w jakże wygodnych i praktycznych butelkach...</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

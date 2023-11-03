@@ -1,0 +1,17 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Położenie</p>
+        <p xml:id="p-2">Ch. PK położony jest w powiecie chełmskim na terenie gmin: Chełm, Dorohusk, Sawin i Ruda Huta.</p>
+        <p xml:id="p-3">Cel utworzenia Ø</p>
+        <p xml:id="p-4">Celem utworzenia parku była ochrona cennych ekosystemów leśnych i torfowych obfitujących w rzadkie i chronione gatunki roślin i zwierząt. Specyficzne cechy szaty roślinnej uwarunkowane są obfitością węglanu wapnia w podłożu. W zasięgu parku znajdują się cenne, nieznacznie przekształcone kompleksy leśne z dużym bogactwem biotypów (siedliska borowe, grądowe i łęgowe ze znaczną liczbą roślin rzadkich). Okolice Chełma są miejscem występowania unikalnych w skali kraju torfowisk węglanowych, z dominującym szuwarem kłoci wiechowatej. Na obrzeżach kłociowisk występują zbiorowiska rzadkich gatunków turzyc. Z innych rzadkich roślin należy wymienić następujące: miłek wiosenny, wisienka stepowa, dziewięćsił bezłodygowy, goryczka krzyżowa, storczyk kukawka i aster gawędka.</p>
+        <p xml:id="p-5">Fauna i flora</p>
+        <p xml:id="p-6">W parku i jego sąsiedztwie rosną 53 gatunki będące pod ochroną ścisłą i 13 pod ochroną częściową. Niektóre rosną (zwłaszcza na torfowiskach) w populacjach liczących tysiące osobników. Są to m.in. kosaciec syberyjski, storczyk krwisty, zawilec wielkokwiatowy i goździk pyszny. Szczególne zróżnicowanie siedliskowe warunkuje niezwykłe bogactwo faunistyczne parku. Stwierdzono tutaj gniazdowanie 152 gatunków ptaków m.in. czarnych bocianów, żurawi, orlików krzykliwych, wodniczki (jeden z najbardziej zagrożonych wyginięciem ptaków europejskich), sowy błotnej, dubelta, kulika wielkiego i in. W okolicach Stanisławowa, na torfowiskach i w obszarach Leśnictwa Sawin występuje żółw błotny. Niezwykle bogata jest też fauna bezkręgowców. Żyje tu ponad 800 gatunków motyli (38 % żyjących w Polsce). Dotychczas kilkunastu z nich poza okolicami Chełma w Polsce nie zaobserwowano. Wiele znalazło się na Czerwonej Liście Zwierząt Ginących i Zagrożonych w Polsce.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

@@ -1,0 +1,16 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">- Dziś za wszystko trzeba płacić…- tłumaczył niewypłacalnemu klientowi na odchodne, gdy ten z trzaskiem zamykał drzwi ozdobione wielkim logo przedstawiającym czarną tarczę ze skrzyżowanymi mieczem i pałką oraz z czerwonym napisem „Ochraniane przez SOLID”.</p>
+        <p xml:id="p-2">Zenkowi nie było ani do płaczu ani do gniewu, tylko trochę niesmacznie, bo czuł już w ustach rosół bez włoszczyzny, a szczególnie bez tej gorącej, rozpływającej się w ustach słodkiej marchewki, niezależnie już od tego, czy była zdrowa, polska, czy podtruta metalami ciężkimi, genetycznie modyfikowana, europejska. Jedno co miał w domu z warzyw to cebulę, ale sama cebula w rosole, choć też jest smaczna i najdłużej utrzymuje ciepło, (wiadomo: ubrać się na cebulę), nie wystarczy, aby uczynić jego samotną niedzielę radosną.</p>
+        <p xml:id="p-3">Miał swego czasu, no, czasu unormowanego, w PRL-u, żonę, która dzieliła z nim wszelkie radości i smutki, bo nie miała wtedy innego wyjścia, a teraz, w dobie wolności znalazła sobie bardziej perspektywiczny obiekt swoich wyładowań seksualnych i niespełnień materialnych.</p>
+        <p xml:id="p-4">W pewnym momencie wzrok Zenona padł na szyld wiszący na kamienicy, obok której przechodził. „Administracja Domów Miejskich. Biuro Obsługi Mieszkańców”.</p>
+        <p xml:id="p-5">Tak, to ci, u których mieszkał i którzy również z policyjną bezwzględnością francuską egzekwowali od niego czynsz. (Raz nawet musiał pisać rzewne, powołując się na solidarnościowe zasługi i komunistyczne krzywdy, podanie o przywrócenie prawa do zasiedlenia lokalu sublokatorskiego o powierzchni piętnastu metrów kwadratowych, z tego powierzchni użytkowej tylko osiem, na dotychczasowych warunkach, bo w wyniku zaległości czynszowych, odebrano mu to prawo). Zenon, nie bez pewnego wahania, wkroczył do tego biura i udając, że szuka w długich, krętych, błyszczących lakierem i laminatem korytarzach, właściwego pokoju, dotarł do ubikacji.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

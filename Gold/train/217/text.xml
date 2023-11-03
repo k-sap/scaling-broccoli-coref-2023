@@ -1,0 +1,16 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Za pieniądze kasy chorych pogotowie przyjedzie wezwane do wypadku, urazu, nagłego pogorszenia zdrowia czy zagrożenia życia. Za nieuzasadnione wezwanie karetki przyjdzie nam zapłacić z własnej kieszeni</p>
+        <p xml:id="p-2">O tym, czy taka potrzeba zaszła, decyduje lekarz pogotowia. Zapłacimy także za poradę, zmianę opatrunku czy zastrzyk, jeśli nie jesteśmy ubezpieczeni. - Pogotowie często wzywane jest z błahych powodów. Tymczasem każdy wyjazd karetki drogo kosztuje. Aby zmniejszyć ilość wezwań, a jednocześnie zapewnić opiekę podstawową, wydłużyliśmy do godz. 18 czas pracy przychodni - powiedziała Eryka Bocianowska, zarządzająca Publicznym Samodzielnym Zakładem Opieki Zdrowotnej w Malborku. Po godz. 18 z pomocy lekarza korzystać można w ambulatorium pogotowia</p>
+        <p xml:id="p-3">- Lekarz stacjonarny udzieli bezpłatnie porady każdemu, kto zgłosi się z książeczką RUM, aktualną legitymacją ubezpieczeniową, bądź odcinkiem renty - twierdzi Andrzej Piskozub, kierownik Oddziału Pomocy Doraźnej w Malborku. - Chodzi o to, by chorzy sami</p>
+        <p xml:id="p-4">przychodzili do nas. Wyjazd karetki kosztuje 70 złotych, w dodatku jest tylko jeden lekarz dyżurujący. Naprawdę warto się zastanowić, czy trzeba koniecznie wzywać pogotowie - dodaje.Dyrektor PSZOZ zdecydowała, że w okresie przejściowym, ze względu na chaos spowodowany reformą, w wyjątkowych przypadkach można się zgłaszać z jedną książeczką. Jeśli z usług pogotowia chce skorzystać przyjezdny nie mający przy sobie książeczki RUM, otrzyma kupony uprawniające do usługi.</p>
+        <p xml:id="p-5">Za nieuzasadniony wyjazd karetki pogotowia pacjent zapłaci 70 złotych, za wyjazd erki - 170 zł.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

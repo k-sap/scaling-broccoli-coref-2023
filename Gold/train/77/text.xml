@@ -1,0 +1,14 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Kiedy leżałem w szpitalu, jedynie rodzice mogli mnie odwiedzać. Byli ze mną każdego dnia, wspierali ze wszystkich sił. Raz w tygodniu odwiedzał mnie ksiądz. Na początku nie chciałem z nim rozmawiać, obwiniałem Boga za to wszystko. Skoro jest taki dobry, to dlaczego na to wszystko pozwolił? - pytałem sam siebie. Dopiero później zrozumiałem, że kiedy Pan Bóg nam coś zabiera, to nigdy w tym miejscu nie zostawia dziury. Daje nam coś innego. Lepszego. Ale to akurat jesteśmy w stanie pojąć dużo, dużo później…</p>
+        <p xml:id="p-2">Któregoś dnia ksiądz powiedział mi, że tak jak można za kogoś ofiarować modlitwę, tak samo można ofiarować swój ból. Na początku to brzmiało absurdalnie, ale spróbowałem. Pomogło! Każdą cząstkę bólu, nawet krzyk, ofiarowywałem za Piotrusia.</p>
+        <p xml:id="p-3">Mijały tygodnie. Czułem się coraz bardziej samotny i bezwartościowy. Mama wymyśliła, żeby ściągnąć do mnie Marka Kamińskiego. Wierzyła, że może mi on pomóc w drodze do zaakceptowania samego siebie. Wtedy, w szpitalu, to spotkanie nie doszło do skutku, spotkaliśmy się później. Tymczasem Marek wraz z grupą przyjaciół wpadł na pomysł wspólnej wyprawy na biegun północny. Kiedy mi to powiedział, różne dziwne myśli chodziły mi po głowie. Ja? Przecież ja ledwo radzę sobie na co dzień, gdzie mi do takiej wyprawy?! Dziękuję. Nie dam rady - myślałem.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

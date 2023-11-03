@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Tymczasem Renata P. przemykała po osiedlu pozostawiając smugę perfum. Gotowała synowi niedzielne obiady. Znikała, pozostawiając męża w coraz większym rozdarciu. Wpadał do samochodu i gazem jechał ją wymeldować z mieszkania. Nie miał na to siły, wracał na wolnym biegu, szedł powoli do domu. Sam się pchał na widok sąsiadek. Sąsiadce C. opowiadał, że nieważne, jak się rzeczy potoczą - on będzie żonę kochał zawsze. Sąsiadkę L. zawiadamiał, że kurwę zabije. L. mitygowała, że albo kocha, albo zabije i albo kurwę, albo żonę. Żeby się opamiętał i nie obrażał ludzi za plecami. Przyznawał rację, cichł. Napady żałości miewał rzadsze. Jeszcze z raz spytał sąsiadkę Z., czy wiedziała, że pewnego razu wrócił wcześniej z nocnej zmiany, a żony nie było? Siedział i czekał. Nad ranem wyszła od sąsiada naprzeciwko. Tego sąsiadki nie wiedziały. Ale wiedziały, że Renata mieszka obecnie z właścicielem motelu pod Katowicami. Janusz P. napomknął sąsiadce L., że żona ceni tamtego za jego dupny samochód. To wtedy kupił sobie Fordzika. W rozmowach z sąsiadką L. Janusz popadał w zwierzenia. Aż któregoś razu wyjrzał z okna pan L., mąż sąsiadki, i opierniczył ich, że się mizdrzą. Janusz P. ukłonił się sąsiadowi i odszedł.</p>
+        <p xml:id="p-2">W Boże Narodzenie miał lepszy humor. Kupił sobie ładną sportową bluzę. Poznał panią z dzieckiem, byli w Zakopanem. Zapowiadał, że wyprowadza się z tego pierońskiego bloku. Potem Janusz P. ucichł zupełnie.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

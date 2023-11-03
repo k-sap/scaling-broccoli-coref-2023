@@ -1,0 +1,17 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">PiS przejmowało władzę pod hasłem tanie państwo. Udało mu się - prezydent, premier i parlamentarzyści nie muszą latać do Watykanu ładować akumulatorów, wystarczy pojechać do Torunia.</p>
+        <p xml:id="p-2">W wypowiedziach czytelników "TRYBUNY" i polityków lewicy wyczuwam potępienie dla Kaczyńskich, że całą władzę biorą w swoje łapki. Moim zdaniem, to słuszna zasada. Zwycięzca bierze wszystko. Odpowiedzialność za czyny także. Gdyby lewica zamiast dzielić się władzą z nielojalnym koalicjantem, zamiast umizgów do prawicowej opozycji wzięła całą władzę w swoje ręce i realizowała swój program wyborczy, nie byłaby w sytuacji, w której jest dzisiaj.</p>
+        <p xml:id="p-3">NIK wciąż zaskakuje nas wynikami kontroli - a to stwierdza szczupłość środków na służbę zdrowia, a to niskie kwalifikacje nauczycieli języków obcych itp. Oczywiście winni są ludzie z rządów Leszka Millera i Marka Belki. My to rozumiemy - aby dotrzeć do kwitów z czasów rządu Buzka trzeba więcej czasu i środków.</p>
+        <p xml:id="p-4">Skok PiS - czytaj Rydzyka - na media publiczne zaklepany. I po to Lechu skakał przez płot?</p>
+        <p xml:id="p-5">Walka o stołki w KRRiTV ma wręcz groteskowy wymiar. Oceniając poziom publicznej tv jest oczywiste, że chodzi tu w gruncie rzeczy tylko o ciepłe posadki.</p>
+        <p xml:id="p-6">Amerykanom w Iraku nie udało się wybić wszystkich tzw. rebeliantów. W związku z czym bratniej pomocy podjęli się udzielić Polacy. Za wolność Ameryki zagrożoną przez ludzi pozbawionych domów, wody, leków, odrębnych kulturowo i religijnie. A wszystko to, bo kochamy wolność w amerykańskim wydaniu. Podziękowania dla pana Kwaśniewskiego, którego decyzja umożliwiła tę, jakże służalczą, rolę wojska w obcym interesie. Gdyby nie to, nie byłoby dziś dylematu: wyjść, nie wyjść, a jeśli to kiedy?</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

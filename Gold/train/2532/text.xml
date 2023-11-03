@@ -1,0 +1,12 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Caritas także w tym roku organizuje letnie kolonie dla polskich dzieci ze Wschodu. Zaczęto zbierać pieniądze, by umożliwić przyjazd do naszego kraju jak największej liczbie takich dzieci. Jeżeli darczyńcy będą hojni, w tym roku aż 3 tys. małych Polaków pogłębi znajomość ojczystego języka, wypocznie i zwiedzi najpiękniejsze rejony kraju. - Współfinansujemy dwutygodniowy wypoczynek dla 40 polskich dzieci z Mościsk na Ukrainie. Przyjazd tylko częściowo mogą pokryć sami parafianie, bez naszej pomocy byłby on niemożliwy - poinformowano "Krakowską" w Caritas Archidiecezji Krakowskiej. Caritas chce, by mogło w tym roku przyjechać aż 3 tys. dzieci z ubogich rodzin, których samodzielnie nie stać nie tylko na kolonie w naszym kraju, ale na wakacje w ogóle. Zaproszenie skierowano do polskich parafii na Ukrainie, Litwie, Białorusi i w Rosji. Caritas na ich przyjęcie przygotowuje własną bazę, a także specjalnie na ten cel wynajmuje obiekty. Zapewniono, że doroczna akcja w niczym nie ograniczy wakacyjnej pomocy polskim dzieciom, będącym w trudnej sytuacji materialnej. Z myślą o nich Caritas Archidiecezji Krakowskiej zorganizuje dla 1200 kolonistów 18 dwutygodniowych turnusów, m.in we własnym ośrodku w Odrowążu Podhalańskim. Dzięki środkom, które Caritas przekaże na ten cel m.in. z akcji sprzedaży adwentowych świec Wigilijnego Dzieła Pomocy Dzieciom (w Archidiecezji Krakowskiej przyniosła ona 150 tys. zł), ale także rokrocznemu dofinansowaniu gminy Kraków i Kuratorium Oświaty. Pieniądze można wpłacać na konto: Caritas Polska PKO BP SA I 0/centrum w Warszawie nr 90 10201013 122640130 z dopiskiem: kolonie-dzieci ze wschodu</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

@@ -1,0 +1,17 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Proszę wybaczyć, że tak późno - ale w nawale zajęć zapomniałem na śmierć o tem, że czekacie. Przesyłam zatem w załączeniu kilka słów przedmowy. Liczę, że to wystarczy, to będzie pozatem książka WWag[nera]. Ciekawy jestem, jak ta książka będzie wyglądała i w jaki czasie się może ukazać. Mam nadzieję, że będzie się podobać i będzie pożyteczna.</p>
+        <p xml:id="p-2">Łączę uprzejme ukłony i miłe pozdrowienia i proszę, by Pani była łaskawa "Czuwać".</p>
+        <p xml:id="p-3">[podpis odręczny]</p>
+        <p xml:id="p-4">Warto również przedstawić treść Przedmowy Tadeusza Saloniego, stanowi ona bowiem egzemplifikację celów wychowania morskiego Ligi Morskiej i Kolonialnej:</p>
+        <p xml:id="p-5">Dzieje jedynego w swoim rodzaju wyczynu harcerza Władysława Wagnera, który sam jeden, bez środków, wyposażony jeno w brawurową młodzieńczą odwagę, awanturniczą niemal przedsiębiorczość i wspaniale męską wytrwałość, na małym jachcie ruszył na zdobycie świata, a żeglując po wszystkich oceanach i morzach - po najdalszych zakątkach ziemi roznosił imię Polski - godne są bliższego poznania przez szersze warstwy naszego społeczeństwa, szczególnie przez naszą młodzież. Junacka postać harcerza Wagnera powinna się stać symbolem młodzieńczego romantyzmu i rycerskich marzeń, z których silna wola i tęgi charakter wykuwają najpiękniejszą nieraz rzeczywistość; powinna być przykładem, że można osiągnąć rzeczy najnieprawdopodobniejsze - jeżeli się umie chcieć.</p>
+        <p xml:id="p-6">Doceniając wartość wychowawczą popularyzacji czynu Wagnera, Okręg Śląski Ligi Morskiej i Kolonialnej zakupił od niego rękopis jego pamiętnika i postanowił wydać go drukiem [w oryg. błędnie drugiem - przyp. A.R.]. Oddając tę książkę w ręce młodzieży, wyrażam przekonanie, że jeżeli zdoła ona rozbudzić w jej sercach tęsknotę do czynów niezwykłych, jeżeli wznieci pragnienie służenia Polsce na morzu i przecierania dla niej szlaków na dalekich oceanach świata - to w zupełności spełni to zadanie, które jej przeznaczamy.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

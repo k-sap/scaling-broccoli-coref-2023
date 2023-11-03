@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Szóstego czerwca w miasteczku P. na Dolnym Śląsku na ulicy Kościuszki z otwartego na oścież (de par en par) okna na pierwszym piętrze odrapanej, całej w brudnych liszajach, żółtej kamienicy - wydostała się na zewnątrz, na zewnątrz, mówię, wielka biała siatkowana firanka i falowała na silnym wietrze tego dnia nieopisanego, tego dnia, który był nie do opisania w jakikolwiek inny sposób, niż w ten, jaki to czyniła firanka ta, kreśląc z rozmachem w powietrzu hojne i jednocześnie zwiewne białe znaki nieznanego piktograficznego pisma, albo znanego, tylko zapomnianego, tak, skądś jakby znanego, ale skąd? Skąd?</p>
+        <p xml:id="p-2">Chciał los, znowu niezłomny, że byłem tego właśnie nieopisanego dnia w pobliżu niedalekim: po drugiej, cienistej stronie ulicy tej. Ostatnio znowu, tak, jak kiedyś, dawniej, przed śmiercią, często bywam na swoim miejscu, tam, gdzie mię trzeba, tam, gdzie dzieją się dzieje. Siedziałem na schodkach prowadzących do znajdującej się na wysokim parterze apteki, paliłem papierosa i patrzyłem. Minął już dawno okres wiosennej zmiennej pogody: słońce, deszcz, słońce, śnieg, zimne kołowe wiatry, akwilony, i północno-wschodnie, suche i zarazem wilgotne, pełne przeziębień, gryp, katarów, awitaminozy i tak dalej, ludzie na te dolegliwości zapadający nie stali w kolejkach do apteki po proszki, pastylki, syropy i tym podobne. Minął już dawno ten czas. Był czerwiec słoneczny, wietrzny i okazały jak młody byk, nikt do apteki nie przychodził, nikt mi w uprawianiu sedenterii na jej schodkach nie przeszkadzał.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

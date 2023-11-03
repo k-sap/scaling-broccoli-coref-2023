@@ -1,0 +1,30 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">MAJKA</p>
+        <p xml:id="p-2">No jak to... to przecież nie chodzi nawet o rzeczywiste zagrożenie tym zakażeniem, ale jak to wygląda - dyrektor szkoły walczy o tolerancję dla nosicieli wirusa HIV? To chyba jednak paranoja!</p>
+        <p xml:id="p-3">KRZYSIEK</p>
+        <p xml:id="p-4">Maja, przeginasz.</p>
+        <p xml:id="p-5">Teresa chce coś powiedzieć, ale Marek jej nie dopuszcza</p>
+        <p xml:id="p-6">MAREK</p>
+        <p xml:id="p-7">Sami sobie strzelają samobója, przecież rodzice nie będą chcieli wysyłać dzieci do takiej szkoły, to chyba jasne. Coś mi się wydaje, że facet walczy o jakieś swoje ambicje, o to, żeby za wszelką cenę postawić na swoim i utrzymać się na stanowisku, a nie o żadną tam tolerancję. Jak politycy - idee na sztandarach, siedzenia na stołkach.</p>
+        <p xml:id="p-8">TERESA</p>
+        <p xml:id="p-9">No to co? to on nie ma prawa do pracy?!</p>
+        <p xml:id="p-10">zbliżenie Elżbiety</p>
+        <p xml:id="p-11">Scena</p>
+        <p xml:id="p-12">WNĘTRZE. DZIEŃ. SZKOŁA. SZATNIA LUB ŁAZIENKA. AGATA, SYLWIA, KAMILA (-UCZENNICE).</p>
+        <p xml:id="p-13">Agata wchodzi do pustej szatni, trudno jej powstrzymać łzy. Chowa się. Ale szybko orientuje się, że nie jest tu sama, słyszy głosy koleżanek (w zależności od topografii obiektu - chodzi tylko o to, żeby one jej nie zauważyły, a ona usłyszała co mówią)</p>
+        <p xml:id="p-14">Sylwia i Kamila wyglądają na b. grzeczne uczennice</p>
+        <p xml:id="p-15">Agata mimo woli słyszy ich rozmowę, może potem widzi rozmawiające dziewczyny</p>
+        <p xml:id="p-16">SYLWIA</p>
+        <p xml:id="p-17">Zastanów się, przecież ma żonę... córkę...</p>
+        <p xml:id="p-18">KAMILA</p>
+        <p xml:id="p-19">Rowek ma jeszcze syna. Ale to o niczym nie świadczy...</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">- Boimy się śmierci, gdy boimy się życia. Życie i śmierć to dwie strony tego samego medalu. Gdy nasze życie jest niespełnione, trudno przyjąć śmierć. I odwrotnie - boimy się żyć w pełni, ponieważ boimy się śmierci - ale nie tej biologicznej. Boimy się śmierci poczucia naszej nadzwyczajności i odrębności.</p>
+        <p xml:id="p-2">- I gdy do gabinetu terapeuty przychodzi człowiek, którego głównym problemem jest lęk przed śmiercią, rozmawiasz z nim o życiu?</p>
+        <p xml:id="p-3">- Lęk przed śmiercią, tak samo jak lęk przed życiem, może przejawiać się w skrajnych formach - tak drżymy o fizyczne życie ciała, że boimy się wychodzić z domu.</p>
+        <p xml:id="p-4">Boimy się, że zaatakują nas bakterie, że coś nam spadnie na głowę albo dostaniemy ataku serca i lekarze nie zdążą. Przeżywamy wszechogarniający lęk, który paraliżuje życie. Ale co jest warte życie, które ma służyć wyłącznie temu, żeby przeżyć albo żeby je bez umiaru przedłużać. I tak nie da się oszukać śmierci - to ciało w końcu umrze. Nasze życie nie może się sprowadzać do chronienia i upiększania ciała, żeby się nie uszkodziło, nie naraziło na żadne niebezpieczeństwo i żeby zawsze było mu miło i przyjemnie, i żeby robiło wrażenie na innych. Jeśli tak będziemy żyć, to ciało zajmie miejsce Boga, miejsce Ducha. Uważne, odważne i w pełni zaangażowane życie, w którym w każdej chwili umieramy, uwalnia nas od lęku przed śmiercią. Daje nam wolność.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

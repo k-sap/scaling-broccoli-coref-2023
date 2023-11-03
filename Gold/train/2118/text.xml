@@ -1,0 +1,21 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Daje to zupełnie inny efekt, nieprawdaż?</p>
+        <p xml:id="p-2">Możesz też odwrócić kolejność, pozostawiając łącznik bez zmian. Zamiast powiedzieć:</p>
+        <p xml:id="p-3">"To jest wspaniały apartament w bardzo prestiżowym budynku, ale kosztuje więcej niż w innych lokalizacjach."</p>
+        <p xml:id="p-4">Mówisz:</p>
+        <p xml:id="p-5">"Ten apartament kosztuje więcej niż w innych lokalizacjach, ale jest wspaniały i mieści się w bardzo prestiżowym budynku."</p>
+        <p xml:id="p-6">Na pierwszym planie znajduje się teraz zaleta i w dodatku jest to ostatnia część zdania, a jak wiadomo z psychologii, ludzie mają tendencję do lepszego pamiętania zakończeń niż poprzedzającej je treści.</p>
+        <p xml:id="p-7">Ćwiczenie 5.</p>
+        <p xml:id="p-8">Łączniki, które osłabiają obiekcje</p>
+        <p xml:id="p-9">Bardzo często przekonując kogoś, znajdujesz się w sytuacji, gdy zaletę Twojej propozycji niweluje inna jej cecha, która może być postrzegana jako przeszkoda, zastrzeżenie. Może to przyjąć albo formę zastrzeżenia, na które odpowiadasz odpowiednio je przeramowując, albo sam wiesz, że istnieje taka przeszkoda i podejmujesz "działanie prewencyjne". Ja osobiście wolę takie potencjalne zastrzeżenia lub przeszkody "rozbroić", ZANIM się pojawią, nadając im odpowiednie ramy za pomocą łącznika. Na przykład wiem, że w porównaniu do wielu typowych szkoleń moje autorskie szkolenia i warsztaty są droższe i w sytuacji gdy zamierzam przedstawić korzyści i cenę, zamiast czekać, aż usłyszę "to jest drogie", odpowiednio ustawiam plany za pomocą łącznika. Postępuj tak samo!</p>
+        <p xml:id="p-10">Znajdź po kilka takich potencjalnych zastrzeżeń w trzech różnych kontekstach.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

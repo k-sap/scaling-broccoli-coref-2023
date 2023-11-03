@@ -1,0 +1,18 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Prowincjał zmarszczył brew.</p>
+        <p xml:id="p-2">- Nie wiadomo, czy ją ocalił, nie wiadomo - powiedział ostro. - Żywot się chwali po śmierci, jak dzień po zachodzie słońca, jak powiada Pismo Święte. Niech on sobie nie myśli za dużo...</p>
+        <p xml:id="p-3">- Cóż ja mogę myśleć za dużo? - jęknął ksiądz Suryn - nikt z większą rozpaczą nie myśli o sobie. Przepaść rozwarła się przede mną w momencie. I nic teraz nie widzę, tylko tę otchłań straszliwą. Chodzę ostrożnie, stawiam kroki powoli, jak gdybym szedł po bardzo wąskiej kładce. I o niczym innym myśleć nie mogę, tylko bez przerwy, bez przerwy o tej strasznej głębi, która mnie wzywa i wciąga! Och...</p>
+        <p xml:id="p-4">- Rozpacz jest grzechem przeciwko Duchowi Świętemu - wtrącił ksiądz Brym.</p>
+        <p xml:id="p-5">- Więc jeszcze jeden grzech - mocniej zawołał ksiądz Suryn i stuknął dłonią w stół - jeszcze jeden punkt na sądzie przeciwko mojej duszy. O Boże! Boże!</p>
+        <p xml:id="p-6">Prowincjał ujął dłoń księdza pozostawioną na desce stołu i przycisnął ją serdecznie. Głos mu się zmienił, gdy wymawiał następujące słowa:</p>
+        <p xml:id="p-7">- Bracie Józefie! Bierzcie moje konie i wracajcie do Połocka. Ja tu zostanę na parę dni u ojca Bryma, do klasztoru też razem z nim zajrzymy. A ty jedź, księże Józefie, jedź zaraz. Sama ta droga już cię uspokoi. Jesień teraz, czarno, błoto koniom po pas, choć dzisiaj już był przymrozek. Pójdziesz sobie do swojej celi, zostaniesz ze swoimi książkami, a może demony jeden Ø po drugim Ø porzucą ciebie, zostawiając nam i twoje ciało, i twoją duszę.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

@@ -1,0 +1,23 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Posłyszawszy kroki ukrył sporządzoną dla siebie kopię przekładu, aby ją pokazać profesorowi.</p>
+        <p xml:id="p-2">- Udało się? - zapytała zdyszana panienka. - Myślę, że się udało.</p>
+        <p xml:id="p-3">- To dobrze, to dobrze! Bardzo serdecznie panu dziękuję. Czy to ciekawe?</p>
+        <p xml:id="p-4">- Ø Nudne - odrzekł Adaś. - Nic nadzwyczajnego.</p>
+        <p xml:id="p-5">Panienka włożyła oryginał i tłumaczenie Ø do koperty i nie interesując się treścią listu zalepiła ją ku wielkiej radości Adasia, który pomyślał, że gdyby ujrzała w starym liście nazwę "Bejgoła" i nazwisko sąsiadów Gąsowskich, długie musiałoby się zacząć gadanie</p>
+        <p xml:id="p-6">.</p>
+        <p xml:id="p-7">Przy wczesnej wieczerzy Adaś dał koncert wesołości i niestworzone opowiadał historie. Z serdeczną wdzięcznością patrzono na tego miłego chłopca, co przyszedł znikąd i napełnia cały dom radosnym śmiechem.</p>
+        <p xml:id="p-8">Nagle mu przerwano, gdyż ktoś wszedł z oznajmieniem, że ów nieznajomy, co mieszka w Żywotówce, czeka w kuchni.</p>
+        <p xml:id="p-9">- Ach, to po ten list! -. rzekła panienka i wyszła z pokoju. - Muszę i ja zobaczyć, dla kogo pracowałem - zaśmiał się Adaś jakoś nieszczerze i poszedł za nią.</p>
+        <p xml:id="p-10">Skradając się pod ścianami zajrzał przez otwarte drzwi wiodące do kuchni. Stał tam człowiek, który gorąco dziękował panience.</p>
+        <p xml:id="p-11">- Malarz! Fałszywy malarz! - zawołał Adaś bez słów. Rozmyślał przez chwilę, potem jednym kocim skokiem był za drzwiami wiodącymi na obejście.</p>
+        <p xml:id="p-12">Niezmierne zdumienie i serdeczny niepokój ogarnął cały dom: gość, miły, wesoły gość, przepadł tego wieczora jak kamień w wodzie .</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

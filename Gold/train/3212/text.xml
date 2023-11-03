@@ -1,0 +1,18 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Smolar: Z tym są związane różne koncepcje upadku czy osłabienia funkcji pewnych struktur, takich jak na przykład państwa, dlatego że z jednej strony powstają struktury globalne, powstają prawa międzynarodowe, a z drugiej strony coraz bardziej afirmuje się jednostka. A więc z jednej strony globalizacja, z drugiej - indywidualizacja.</p>
+        <p xml:id="p-2">Skowronski: W Ameryce mówi się o demokracji bezpośredniej.</p>
+        <p xml:id="p-3">Smolar: Wszędzie się mówi i pojawiają się nowe formy, nowe utopie demokracji bezpośredniej dzięki Internetowi, że świat będzie tą globalną wioską.</p>
+        <p xml:id="p-4">Skowronski: Prezydent będzie zadawał pytanie i będzie miał milion odpowiedzi w ciągu jednej minuty?</p>
+        <p xml:id="p-5">Smolar: Na przykład. Powstaje również problem funkcji prezydenta i w ogóle władzy politycznej - czy nie jest tak, że zanika polityka, w związku z tym, że jednostka bierze na siebie odpowiedzialność za własne losy?</p>
+        <p xml:id="p-6">Skowronski: A jeżeliby zanikła polityka, to dobrze czy źle dla świata?</p>
+        <p xml:id="p-7">Smolar: Czy dobrze, czy źle? To zależy. Dla mnie, z mojego punktu widzenia, byłoby w tym coś niedobrego, dlatego że uważam, iż wspólnota, podejmowanie przez wspólnotę pewnych decyzji dotyczących całej wspólnoty jest czymś pozytywnym, jest dobrem samym w sobie. Jednak prawdopodobnie pojawią się inne formy wspólnych decyzji, inne formy polityki. Być może polityka przemieści się, będzie zajmowała inne pole. Dzisiaj już to obserwujemy. Polityka w mniejszym stopniu zajmuje się dziś problemami gospodarczymi, którymi zajmowała się jeszcze stosunkowo niedawno, natomiast, jak widzimy, trafia często w sferę obyczajową, co może budzić niepokój. Cała ta afera "Monicagate" pokazuje, jak nagle cała polityka wielkiego państwa i cały świat zaczęły się zajmować sprawami prywatnymi.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

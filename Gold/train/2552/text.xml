@@ -1,0 +1,17 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Zabytkom na ratunek</p>
+        <p xml:id="p-2">Ponad 21 milionów złotych wynosi budżet programu „Dziedzictwo kulturowe” mający na celu ratowanie sakralnych zabytków. O dotację mogą ubiegać się administratorzy kościołów wpisanych do rejestru zabytków. Z tego programu chcą skorzystać również proboszczowie parafii w kaliskiej kurii. Włodzimierz Jędrzejak – starosta ostrowski zaproponował pomoc w przygotowaniu odpowiednich wniosków. Pracownicy Wydziału Integracji Europejskiej i Rozwoju w ostrowskim starostwie będą służyli pomocą nie tylko przy napisaniu wniosków, ale również pomogą w zakwalifikowaniu danego przedsięwzięcia, zweryfikują poszczególne pomysły, a także pomogą w rozplanowaniu całej inwestycji.</p>
+        <p xml:id="p-3">– W powiecie ostrowskim jest wiele cennych zabytków sakralnych – mówi Włodzimierz Jędrzejak starosta ostrowski. – Te prawdziwe perły sztuki sakralnej są niezwykle cenne nie tylko dla mieszkańców naszego powiatu, ale stanowią dziedzictwo kulturowe całego narodu. Stąd nasza inicjatywa, aby pomóc w uzyskaniu funduszy na modernizację i renowację tych zabytków.</p>
+        <p xml:id="p-4">Dofinansowaniem mogą być objęte wszelkie prace inwestycyjne związane z modernizacją, konserwacją, renowacją wyposażenia sakralnego i historycznego, rewaloryzacją zabytkowych cmentarzy, zabezpieczeniem przed skutkami klęsk żywiołowych, zniszczeniem, kradzieżą oraz ochroną zabytku na wypadek sytuacji kryzysowych. Minimalna kwota dofinansowania wynosi 25.000 złotych. Parafia może ubiegać się o sto procent poniesionych wydatków.</p>
+        <p xml:id="p-5">– Warto jednak pomyśleć o jakimś wkładzie własnym, dlatego, że to jest dodatkowo punktowane przy ocenie wniosku – zaznacza starosta.</p>
+        <p xml:id="p-6">W diecezji kaliskiej jest około stu kościołów drewnianych. Fundusze z programu to szansa, by zabezpieczyć zabytkowe kościoły przed kradzieżą, włamaniem i przed pożarem. To właśnie są powodem zniszczenia wielu bezcennych zabytków. W Polsce między rokiem 1990 a 2000 doszczętnie spłonęło 50 świątyń. Tylko w ubiegłym roku doszło do 137 pożarów kościołów, blisko 60 procent z nich to podpalenia. Stąd tak ważne jest, aby w tych obiektach instalowane były urządzenia antywłamaniowe i przeciwpożarowe. Wspólnoty parafialne nie są w stanie samodzielnie udźwignąć kosztów utrzymania zabytku, dlatego ważna jest pomoc z zewnątrz.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

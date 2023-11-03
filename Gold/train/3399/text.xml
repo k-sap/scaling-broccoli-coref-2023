@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Wszystko to jednak nie w Europie ani w ogóle nie w rejonie północnego Atlantyku, od którego Sojusz wziął nazwę. Sama Europa jest - w dużej części dzięki NATO - rejonem stabilizacji, powiedzmy jasno i z dużą pewnością: konflikty tu specjalnie nikomu nie zagrażają, w każdym razie nie takie, by do ich uśmierzania posyłać samoloty, bomby i żołnierzy.</p>
+        <p xml:id="p-2">Powstaje więc pytanie, czy Ameryka sama ma być "policjantem świata" i bacznie śledzić ogniska zapalne (a przy tym narażać się na ciągłe podejrzenia, że interweniuje tylko ze względu na swoje egoistyczne interesy gospodarcze)? Czy też może lepiej, by jasno i otwarcie powiedzieć, że Europa także powinna wyposażyć się w środki interwencji militarnej, a zwłaszcza siły szybkiego reagowania, "myśleć globalnie" i również aspirować do roli "supermocarstwa", gdyż znowu nie tak bardzo ustępuje Ameryce pod względem zamożności, a co do liczby ludności - znacznie ją przewyższa.</p>
+        <p xml:id="p-3">Europa dotąd specjalizowała się w skromnych misjach pokojowych i pomocy humanitarnej i rozwojowej, na którą przeznacza w świecie nie mniej niż USA. Ale kierunki interwencji wyznacza z konieczności dominująca wojskowo Ameryka, co złośliwi komentują stwierdzeniem: "Ameryka wojuje, potem Europa sprząta".</p>
+        <p xml:id="p-4">Nie musi tak być. Na szczycie w Pradze postanowiono, że NATO (czytaj: europejscy jego członkowie) wyposaży się w nowe środki działania, a nawet słabsi technicznie i mniejsi sojusznicy mogą się doskonalić w potrzebnych Sojuszowi specjalizacjach. NATO - jak podsumował lord Robertson w Pradze - to nowi członkowie, nowe możliwości i nowe misje. Jakie? Lepiej o tym rozmawiać na co dzień w Sojuszu, niż zostawiać wszystko Ameryce.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

@@ -1,0 +1,17 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Zdyskwalifikowano dożywotnio sześciu zawodników Świtu: Grzegorza Miłkowskiego, Marka Zawadę, Macieja Krzętowskiego, Rafała Rutę, Adama Warszawskiego i Macieja Lewnę oraz ukarano rocznym zawieszeniem Borisa Peskovicia.</p>
+        <p xml:id="p-2">Uzasadniając tak bezprecedensową w polskiej piłce decyzję członkowie Wydziału Dyscypliny stwierdzili, że opierali się na następujących dowodach:</p>
+        <p xml:id="p-3">– w zeznaniach dwóch piłkarzy Świtu (nazwiska nie zostały ujawnione) złożonych przed notariuszem, zawodnicy przyznali, że do próby przekupstwa doszło.</p>
+        <p xml:id="p-4">– na taśmach z nagraniem ze spotkania z udziałem piłkarzy Świtu, do jakiego miało dojść pomiędzy pierwszy a drugim meczem oraz po drugim meczu. Podczas spotkania miała być mowa o sprzedaży meczu, a w grę miała wchodzić suma 200 tysięcy złotych.</p>
+        <p xml:id="p-5">Śledztwo w sprawie barażowego meczu trwało ponad trzy tygodnie. Wszczęte zostało po tym jak po meczach barażowych Garbarni ze Świtem (0:1, 3:0) prezes klubu z Nowego Dworu Mazowieckiego, Wojciech Szymański oskarżył niektórych swoich zawodników o sprzedanie spotkań.</p>
+        <p xml:id="p-6">Wydział Dyscypliny przez trzy tygodnie przesłuchał kilkanaście osób, sprawdzał billingi telefoniczne, podróżował na Śląsk – gdzie przesłuchiwana była Garbarnia – i do Holandii – aby wysłuchać Macieja Bykowskiego. Już dzień przed ogłoszeniem wyroku po stolicy krążyły plotki, że Garbarnia zostanie zdegradowana z ekstraklasy. Wczoraj plotka stała się faktem. Na tym sprawa oczywiście się nie zakończy. Garbarnia ma 14 dni, aby się odwołać. Los zespołu wydaje się jednak przesądzony. Garbarnia, która przez trzy lata zrobiła w polskiej piłce zawrotną karierę, awansując z IV ligi do ekstraklasy, za kilkanaście dni będzie grała w II lidze.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

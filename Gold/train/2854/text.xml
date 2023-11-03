@@ -1,0 +1,14 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Wyprawę na "dach Afryki" dedykuję mojej żonie Ewie, synowi Piotrkowi i… Tomkowi.</p>
+        <p xml:id="p-2">Urodziłem się zdrowy. Kiedy skończyłem trzynaście miesięcy, zacząłem stawiać pierwsze kroki. Dla wszystkich rodziców to zawsze jest święto, ale dla moich Ø było ono podwójne, ponieważ ich pierwsze dziecko zmarło. Cieszyli się jednak zaledwie przez cztery tygodnie.</p>
+        <p xml:id="p-3">Pierwsze objawy choroby były niewinne. Najpierw straciłem apetyt. Z opowiadań wiem, że nie chciałem nawet czekolady, za którą przepadam. Był sobotni wieczór, mama kąpała mnie w wannie, a kiedy mnie wyciągnęła i postawiła na ręczniku, przewróciłem się: raz, drugi, trzeci. Noga mi się mocno podwinęła, a ja nic. Zero bólu, krzyku, płaczu. Mama się przestraszyła i pojechaliśmy do lekarza. Po licznych badaniach stwierdzono, że zapadłem na chorobę Heinego-Medina. Poraziło mi lewą nogę. Prawa była wówczas sprawna, ale przez to, że ją nadwyrężałem, doszło do zwyrodnienia biodra. Coraz trudniej mi się było poruszać. Ktoś powie: "E tam, to tylko taka noga!". Nie, to nie jest tylko powykrzywiana noga, bo z tą nogą trzeba żyć, znosić szyderstwa i upokorzenia, godzić się na ograniczenia, które ze sobą niesie. Przez piętnaście lat każdego dnia pytałem: dlaczego ja? Potem wcale nie przestałem pytać, ale robię to już znacznie rzadziej.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

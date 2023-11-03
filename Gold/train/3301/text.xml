@@ -1,0 +1,17 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">- To wyraz ułańskiej fantazji Polaków. Zawsze byliśmy najweselszym barakiem w obozie socjalistycznym - wyrokuje Dionizy Zejer, redaktor rocznika "Polskie Rekordy i Osobliwości".</p>
+        <p xml:id="p-2">Zenon Pustelnik, wydawca polskiej edycji Księgi rekordów Guinnessa sądzi, że Polacy po prostu chcą być sławni.</p>
+        <p xml:id="p-3">Kiedy Aleksander Cierpicki w marcu 1987 r. postanowił pobiegać w samych kąpielówkach ośnieżoną plażą w Jelitkowie, nie mógł przypuszczać, że właśnie zapoczątkował nowy obyczaj bicia rekordów. Wyczyn odnotowały z ciekawości wszystkie media. Niestety nie można było sprawdzić, czy pan Aleksander zakwalifikował się do Księgi rekordów Guinnessa, bo ta, z przyczyn ideologicznych, w Polsce nie mogła się ukazywać do 1989 r.</p>
+        <p xml:id="p-4">W latach 90. w ślady Aleksandra Cierpickiego poszło już kilkuset Polaków. W 2000 r. marginalne zjawisko przerodziło się niepostrzeżenie w modę. - Szał bicia rekordów to ostatnie trzy lata - mówi Dionizy Zejer, który w swym wydawnictwie z aptekarską skrupulatnością odnotowuje rekordy bite w Polsce. Skatalogowano 1016 różnorakich wyczynów. - To tylko te, o których my wiemy. Ich dokładna liczba pozostaje tajemnicą.</p>
+        <p xml:id="p-5">Skala zjawiska widoczna jest także w Księdze Guinnessa. W ciągu ostatnich dwóch lat Polacy zgłosili do niej ponad 2,5 tys. rekordów.</p>
+        <p xml:id="p-6">Rekordy w Polsce bije każdy, indywidualnie bądź zbiorowo: szkoły, przedszkola, restauracje, stacje radiowe, przedsiębiorstwa, instytucje i miasta. Opór stawia jedynie administracja publiczna, choć i tu pojawił się wyłom, od kiedy Gminna Komisja Rozwiązywania Problemów Alkoholowych w Lędzinach postanowiła ulepić najdłuższy łańcuch z gazety.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

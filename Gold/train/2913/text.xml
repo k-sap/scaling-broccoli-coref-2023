@@ -1,0 +1,16 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">- Na wydziale, obywatelu pułkowniku, jeszcze gorzej! O mało już nie wyleciał.</p>
+        <p xml:id="p-2">- To co się z nim patyczkować!!</p>
+        <p xml:id="p-3">Już skryba w sąsiednim pokoju rozsiadał się do pisania rozkazu o dyscyplinarnym usunięciu mnie ze studium wojskowego, co prowadziło w prostej linii do relegowania z uniwersytetu, a to z kolei z powrotem do wojska, ale nie udawanego jak to, tylko prawdziwego Ø, tego, gdzie przepadł Brzózka, niejeden Brzózka, i gdzie wielu serdecznych przyjaciół miał major Rutowicz.</p>
+        <p xml:id="p-4">Ja jednak miałem w zanadrzu pisemko od lekarza akademickiej izolatki, który badał mnie zaraz po owej służbie wartowniczej i w pisemku swym zaświadczał, że miałem czterdzieści stopni gorączki - naprawdę miałem! - że nie bardzo rozumiałem, co do mnie wtedy mówiono ani co sam mówiłem i robiłem, i że nie powinienem był w takim stanie w ogóle pełnić żadnej służby. Co się zaś tyczyło pewnej ilości alkoholu w organizmie, to w opinii lekarza uratowało mnie to od bardzo niebezpiecznego zapalenia płuc.</p>
+        <p xml:id="p-5">Na wiosnę mieliśmy ostre strzelanie. Kładliśmy się na pozycje po czterech i na komendę kolejno oddawaliśmy strzały. Gdy każdy wystrzelił cztery razy, podnosiła się czerwona chorągiewka, a z rowu wyłaził Druciński i odczytywał wyniki. Dostawaliśmy po cztery naboje, a chorągiewka podnosiła się, kiedy wszyscy oddali po cztery strzały. Ktoś jednak wpadł na pomysł, żeby w normalnej kolejce wystrzelić ze ślepaka zamiast z ostrego naboju, a gdy potem podniosła się czerwona chorągiewka - nagle padł piąty strzał.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

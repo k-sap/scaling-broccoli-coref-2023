@@ -1,0 +1,16 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Komando rychło zabrało się do dzieła i po chwili wartownia padła. Pozostało już tylko obezwładnić oficera dyżurnego i jego pomocnika, którzy drzemali zapewne za zasłoniętymi storami w swej kanciapie.</p>
+        <p xml:id="p-2">Zani wyszedł razem z Niższym, zostawiając trzech ludzi na wartowni. Wstąpił jeszcze do świetlicy i wymienił zakrwawioną bechatkę na jedną z wiszących na krześle. Sprawdził pobieżnie swój wygląd, założył kałacha na plecy, wcisnął tetetkę do kieszeni kurtki i nacisnął klamkę drzwi.</p>
+        <p xml:id="p-3">Od kanciapy oficera dyżurnego dzieliło ich około trzydziestu metrów. Zani z ulgą stwierdził, że story nadal są zasunięte. Zimny, przenikliwy wiatr działał orzeźwiająco. Zani obciągnął kurtkę i ruszył w stronę dyżurki. Za nim regulaminowo kroczył Niższy z kałachem na ramieniu. Wokół ani żywej duszy - mróz i silny wiatr dawno już zapędziły wszystkich do ciepłych budynków. Zani przypomniał sobie, że w ten sam sposób Jerzy Waszyngton zaskoczył heskich najemników pod Trenton. Teraz, dwieście lat później, historia się powtarza...</p>
+        <p xml:id="p-4">Dotarli na miejsce i Zani nacisnął klamkę drewnianych drzwi. Weszli do wąskiego korytarzyka, na końcu którego, po lewej stronie, znajdowało się wejście do dyżurki.</p>
+        <p xml:id="p-5">Pokój, ciepły i mroczny, wyglądał całkiem przytulnie. Zani nie spodziewał się tego po surowym wojskowym wnętrzu. Na biurku paliła się tylko mała lampka. W obrotowym głębokim fotelu drzemał gruby oficer - zapewne dyżurny. Zani dostrzegł w półmroku dystynkcje pułkownika. Obok Ø na drewnianym krześle siedział pomocnik - podchorąży z trzeciego czy czwartego rocznika - i rozwiązywał krzyżówkę. Czynność ta pochłonęła go w takim stopniu, że tylko przelotnie spojrzał na Zaniego i Niższego, po czym kontynuował wpisywanie literek w kratki. Zani spodziewał się raczej standardowego zdziwienia, gdy tymczasem spotkał się z kompletną ignorancją. Niższy smarknął dość hałaśliwie i pomocnik z grymasem szczerej niechęci oderwał się od krzyżówki. Rozcierając zmęczone oczy obiema dłońmi, rzucił:</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

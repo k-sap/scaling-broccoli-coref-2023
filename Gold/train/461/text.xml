@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Nie wiem, z którego wieku wywodzi się porzekadło o polsko-węgierskim braterstwie symbolizowanym przez szablę i szklankę. W okresie, kiedy przebywaliśmy na Węgrzech, było jak najbardziej aktualne. Polacy wciąż pamiętali, że Węgrzy okazywali nam przychylność w czasach drugiej wojny, choć - formalnie - pozostawali przecież w sojuszu z Hitlerem. Oni z kolei okazywali na każdym kroku i w rozmaitych formach wdzięczność za naszą lojalność i przyjaźń w mrocznym październiku 1956 roku, kiedy Rosjanie krwawo dławili budapesztańskie powstanie. W 1966 roku, a więc dziesięć lat po wypadkach węgierskich, wszędzie i od wszystkich doznawaliśmy ostentacyjnej serdeczności i życzliwości.</p>
+        <p xml:id="p-2">Węgry okazały się ostatnim etapem w naszej drodze na Zachód. Nazwałabym je etapem adaptacyjnym. Dzięki pobytowi w Budapeszcie nie o wiele, ale jednak trochę łatwiej wypadło nasze pierwsze zetknięcie ze światem Zachodu.</p>
+        <p xml:id="p-3">Pierwszym zachodnim krajem, jaki odwiedziliśmy, była Dania. Wyjechaliśmy tam na zaproszenie małżeństwa, któremu pomagałam w załatwieniu adopcji polskiego dziecka.</p>
+        <p xml:id="p-4">Otrzymaliśmy pierwsze w życiu prawdziwe paszporty oraz - po uzyskaniu specjalnych zezwoleń - prawo do wywozu po 15 dolarów na osobę zamiast przysługujących zwykłemu obywatelowi 5. Suma, którą dysponowaliśmy, wydawała nam się całkiem spora. W Polsce stanowiła ekwiwalent trzech czwartych naszych wspólnych miesięcznych dochodów. Poza tym kupiliśmy nielegalnie od mieszkającego w Danii kuzyna zawrotną - w naszym pojęciu - kwotę 1500 koron duńskich (25 dolarów). Czuliśmy się więc prawdziwymi krezusami.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

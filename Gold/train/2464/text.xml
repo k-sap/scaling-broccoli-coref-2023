@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Po kilku wizytach u pana Mączki ustąpiły silne bóle brzucha, które trwały trzy lata. Uspokoiły się też nerwy. Już nie biorę żadnych tabletek uspokajających. Odzyskałam też chęć do życia i pracy. Również moja dziesięcioletnia córka - dawniej znerwicowana, teraz jest zawsze zadowolona, uśmiechnięta i ma doskonały apetyt. Nie ma już też bólów brzucha. Za to wszystko serdecznie dziękuję. Zofia z Szadek</p>
+        <p xml:id="p-2">Już po trzech wizytach u uzdrowiciela ustąpił ból w klatce piersiowej, który od dłuższego czasu dokuczał mi i dusił. Ustąpiły także nerwy, na które leczyłam się w przychodni od wielu lat. Natomiast po siedmiu zabiegach zniknęły mięśniaki w prawym jajniku, które miały średnicę 29 mm i 27 mm. Halina z Pleszewa</p>
+        <p xml:id="p-3">Jesienią zaczęłam chorować na piersi. Byłam u różnych lekarzy, którzy podejrzewali zmiany zwyrodnieniowe i groziła mi operacja. Dowiedziałam się o niezwykłych sukcesach uzdrowicielskich Romana Mączki. Byłam u niego na kilku zabiegach, po których bardzo dobrze czułam się, byłam spokojniejsza, mogłam spać i piersi przestały mnie boleć. W maju byłam u onkologa na badaniach, który potwierdził, że jestem już zdrowa i operacja nie jest już potrzebna. Bardzo dziękuję panu Romanowi za jego zaangażowanie w zlikwidowaniu mojej choroby. Danuta z Ostrowa</p>
+        <p xml:id="p-4">Moje dziecko miało bezwład rączek i nóżek, mało reagowało na słowa, które się do niego mówiło. Dopiero po wizytach u energoterapeuty dziecko zaczęło poruszać rączkami i nóżkami, stało się mniej nerwowe, bardziej reaguje na słowa do niego kierowane. Beata z Tymanic</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

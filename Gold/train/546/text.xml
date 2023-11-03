@@ -1,0 +1,14 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Na początku XXI wieku notuje się wzrost tendencji, które do tej pory były marginesem życia rodzinnego: konkubinaty, kohabitacje, rodziny zrekonstruowane, których podstawą na ogół jest rozwód. Do masowych zjawisk socjologicznych współczesnej rodziny należy zaliczyć także wzrost liczby dzieci pozamałżeńskich, zjawisko życia w samotności, świadomą bezdzietność. Większość tych zjawisk miała miejsce w poprzednich epokach, ale nasze stulecie przyniosło społeczną akceptację form życia uznawanych dotąd za patologię i margines społeczny. Na zmianę w podejściu do rodziny (od systemu rodziny tradycyjnej do nowoczesnej) miała wpływ m.in. samodzielność zawodowa kobiet, która sprawiła, że przestały one być zależne finansowo od mężów. Praca zawodowa kobiet, ich dążenie do rozwoju zawodowego (rośnie liczba wykształconych kobiet w Polsce - w latach 2004-2005 wśród ludzi w wieku 21-23 lat kształciło się aż 58 proc. kobiet i tylko 38 proc. mężczyzn) także miały wpływ na to, że rodziny przestały być spójne. Zjawisku dezintegracji Ø sprzyja również emigracja zarobkowa, która szczególnie nasiliła się po 2004 r. - w związku ze wstąpieniem Polski do Unii Europejskiej i dopuszczeniem Polaków do europejskich rynków pracy.</p>
+        <p xml:id="p-2">Rodzina - najmniejsza jednostka społeczna - w XXI wieku przestaje być zwarta. Ma to znaczący wpływ na rozwój emocjonalny dzieci, które wychowują się w rozbitym środowisku rodzinnym. Czym cechują się nowoczesne formy życia rodzinnego?</p>
+        <p xml:id="p-3">Konkubinat jest związkiem partnerskim raczej stabilnym, ale bez wspólnego zamieszkiwania. Polscy konkubenci to w większości osoby biedne i słabo wykształcone. Aż 75 proc. ukończyło jedynie szkoły podstawowe i zawodowe. Tylko jedna dziesiąta takich par pozostaje w takim związku długo.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

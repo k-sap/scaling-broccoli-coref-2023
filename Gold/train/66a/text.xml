@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Chciałbym użyć słów najwnikliwszych, aby wyrazić piękno tej godności i wielkości powołania, które staje się waszym udziałem z mocy Ducha, gdy jako "jedno ciało" wyrażacie gotowość rodzicielską i dajecie miejsce w waszym życiu nowemu człowiekowi.</p>
+        <p xml:id="p-2">Nowym ludziom: ten "nowy" będzie "waszym" dzieckiem: ciałem z ciała i kością z kości.</p>
+        <p xml:id="p-3">Macie mu przekazać to, co macie najlepszego w ciele i duszy.</p>
+        <p xml:id="p-4">Rodzić znaczy zarazem wychowywać, a wychowywać znaczy rodzić.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

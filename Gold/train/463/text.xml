@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Rozbicie to wywołało wszakże potrzebę porozumienia się dla przywrócenia jedności. Potrzeba zrodziła się najpierw pośród działaczy misyjnych. W 1910 r. odbyła się w Edynburgu w Szkocji pierwsza ekumeniczna konferencja misjonarzy pod przewodnictwem Amerykanina Johna Motta. Dalszy rozwój ruchu ekumenicznego przypadł na lata po pierwszej, a silniej jeszcze po drugiej wojnie światowej.</p>
+        <p xml:id="p-2">Protestanci zwrócili także uwagę na kwestię społeczną. Tworzyli związki robotnicze o charakterze wyznaniowym protestanckim. Najwybitniejszym i najgłębszym przedstawicielem myśli społecznej protestantyzmu szwajcarskiego i niemieckiego był Leonhard Ragaz, w latach 1909-1921 profesor teologii na uniwersytecie w Zurychu. Usiłował on wprowadzać program demokracji, socjalizmu i pacyfizmu na podstawie chrześcijańskiej.</p>
+        <p xml:id="p-3">Oryginalną formę propagandy religijnej w krajach anglosaskich przedstawiała Armia Zbawienia (Salvation Army). Organizacja ta rozwinęła się w misji założonej w siódmym dziesięcioleciu XIX w. przez metodystę Williama Botha i działającego w East-End, ubogiej dzielnicy Londynu. Zorganizowana na modłę wojskową z generałem na czele, z oficerami, mundurami, sztandarami itp. Armia Zbawienia miała na celu pozyskanie z powrotem dla chrześcijaństwa zdechrystianizowanej ludności wielkomiejskiej.</p>
+        <p xml:id="p-4">Kościoły prawosławne były oddzielnymi instytucjami, złączonymi wspólnotą wiary i liturgii, lecz mającymi odrębną organizację. Patriarcha Stambułu miał prymat honorowy nad całym prawosławiem, ale nie był zwierzchnikiem innych Kościołów. Poza Stambułem patriarchaty były w Aleksandrii, Antiochii i Jerozolimie. Patriarchat moskiewski, zniesiony przez Piotra I, został przywrócony dopiero w 1917 r. po upadku caratu. Kościoły, czyli Cerkwie prawosławne – rosyjska, grecka, rumuńska, serbska, czarnogórska i bułgarska były ściśle związane z państwem.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

@@ -1,0 +1,17 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Dyrekcja wyliczyła, że m.in. na likwidacji szpitala przy Warszawskiej i zwolnieniu 260 osób zaoszczędzi 19 mln zł. Żeby znaleźć brakujące 5 mln, zaproponowała obniżkę płac o 180 zł. Przeciwko temu zaprotestowały związki zawodowe. Będzie więc łączenie oddziałów i kolejne zwolnienia. Teraz mówi się o 100 osobach.</p>
+        <p xml:id="p-2">Dyrektor Leszek Wakulicz nie chce powiedzieć, kto pójdzie na bruk. - Zwolnienia obejmą wszystkie grupy zawodowe - mówi. Zwolnienia przyniosą prawie 3 mln zł oszczędności. Większość związków pozytywnie zaopiniowała plan dyrekcji. - Inaczej nie dostaniemy pieniędzy z programu pomocy. Mamy nóż na gardle - tłumaczy Maria Kozimur ze związku zrzeszonego w OPZZ. Związek pielęgniarek też poprze projekt, ale z zastrzeżeniami, m.in. dotyczącymi zwolnień. Tym planom sprzeciwia się też Solidarność. - Niech dyrekcja szuka oszczędności gdzie indziej - uważa Andrzej Andrzejczak. Ale związki mają prawo jedynie do opinii. Dyrekcja nie musi ich słuchać.</p>
+        <p xml:id="p-3">Tabletka zamiast</p>
+        <p xml:id="p-4">Oszczędności ma przynieść likwidacja niedochodowych poradni, np. seksuologicznej. Resztę z potrzebnych 5 mln zł dadzą obniżka kosztów funkcjonowania oddziałów i zwiększenie kontraktu z Narodowym Funduszem Zdrowia.</p>
+        <p xml:id="p-5">- Można leczyć inaczej, zamiast drogiego zastrzyku dać tańszą tabletkę o takim samym działaniu. Więcej pieniędzy z NFZ dostaniemy np. dzięki temu, że na neurologii przy Walczaka uruchomimy drugi tomograf i stworzymy kilka stanowisk intensywnej opieki - tłumaczy dyr. Wakulicz.</p>
+        <p xml:id="p-6">- Jak szpital będzie spłacał ponad 210 mln długu?</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

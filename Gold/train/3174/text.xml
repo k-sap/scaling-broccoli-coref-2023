@@ -1,0 +1,30 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">sp0: to co pan miał zaliczać u mnie. na ten końcowy wpis.</p>
+        <p xml:id="p-2">sp1: to znaczy no tak mi się wydaje. starałem się coś nauczyć. ale czy umiem to nie wiem.</p>
+        <p xml:id="p-3">sp0: ale czego się pan uczył. niech mi pan pokaże.</p>
+        <p xml:id="p-4">sp1: to znaczy dostałem. takie kserówki od. koleżanek. nie wiem czy mam je tutaj. nie. nie mam ich przy sobie niestety..</p>
+        <p xml:id="p-5">sp0: no już dobrze. sprawdzimy czy pan. cokolwiek umie. no a na przykład czego się pan nauczył ? no co tam było na tych kserówkach ?</p>
+        <p xml:id="p-6">sp1: znaczy to konkretnie to.</p>
+        <p xml:id="p-7">sp0: bo ich było dużo.</p>
+        <p xml:id="p-8">sp1: no tak to jest coś takiego.</p>
+        <p xml:id="p-9">sp0: no ?</p>
+        <p xml:id="p-10">sp1: no nie wiem no wszystko to co tu było to przejrzałem.</p>
+        <p xml:id="p-11">sp0: no no no no no no no.</p>
+        <p xml:id="p-12">sp1: i starałem się rozwiązywać. no a czy nauczyłem się to co miałem myślę że pani magister powinna.</p>
+        <p xml:id="p-13">sp0: dobra to proszę niech pan tam siada i cos pan spróbuje napisać. zobaczymy ile pan umie.. proszę najpierw to. tam pan usiądzie za panią Anitą. i niech pan pisze. co pan w ogóle umie. to tam dalej.</p>
+        <p xml:id="p-14">sp2: dzień dobry.</p>
+        <p xml:id="p-15">sp0: dzień dobry. no a pan to w ogóle nie wiem co z panem.</p>
+        <p xml:id="p-16">sp2: no słyszałem że właśnie nie.</p>
+        <p xml:id="p-17">sp0: no.</p>
+        <p xml:id="p-18">sp2: poszedł mi ten test.</p>
+        <p xml:id="p-19">sp0: no nie no zupełnie no gdzie tu mam pana ? trzydzieści.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

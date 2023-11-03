@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Niezadowolenie wyraża natomiast nie tylko przegrana w tym starciu Komisja Europejska, ale także Europejski Bank Centralny. Jego obecny prezes Jean-Claude Trichet zadeklarował, że martwi go lekceważenie zapisów paktu. Jeśli źle pójdzie, deficyty budżetowe w największych państwach mogą wywołać wzrost stóp procentowych w strefie Unii. Państwa mające w miarę zrównoważone finanse publiczne (to one właśnie próbowały dyscyplinować Berlin i Paryż) musiałyby wtedy wziąć na siebie koszty związane z wyciąganiem Niemiec i Francji z gospodarczych kłopotów.</p>
+        <p xml:id="p-2">W krajach Unii Europejskiej, a nawet w samej Komisji w Brukseli, nie brak jednak polityków i prominentnych ekonomistów, którzy zapisy paktu stabilizacyjnego (zwłaszcza ten o deficycie budżetowym) od początku uznawali za wydumane i nierealne. Przypominano, że skoro rządy państw strefy euro nie mają już możliwości ustalania poziomu stóp procentowych i kursu waluty, a nadal samodzielnie muszą dbać o tempo wzrostu, stan finansów publicznych i utrzymywać w ryzach poziom zadłużenia, to siłą rzeczy powinny mieć większe pole manewru w dziedzinie polityki budżetowej.</p>
+        <p xml:id="p-3">Ostatnie doświadczenia małej Portugalii, którą w podobnej fazie cyklu koniunkturalnego przymuszono do poszanowania postanowień paktu, też nie napawają optymizmem. Po 2001 r. deficyt drastycznie zmniejszono i portugalska gospodarka zgasła. Całkiem niedawno sam szef Komisji Europejskiej Romano Prodi Pakt Stabilizacji i Wzrostu nazwał głupim.</p>
+        <p xml:id="p-4">Co innego jednak próbować spokojnie szukać innej, lepszej formuły, a co innego z pozycji siły gwałcić postanowienia, które wcześniej te same kraje (zwłaszcza Niemcy) uznały za fundament przy budowie eurolandu. Po wepchnięciu paktu do zamrażarki trudniej będzie wymagać od pozostałych krajów utrzymywania dyscypliny budżetowej, ale także przekonać społeczeństwa w dziesięciu nowych krajach członkowskich, że spełnienie wszystkich kryteriów z Maastricht jest konieczne i warte zachodu. Tymczasem jednak wiarołomstwo Niemiec i Francji w sprawie deficytu wzmocniło obóz obrońców traktatu z Nicei. Na konferencji ministrów w Neapolu, dał się odczuć spadek zaufania do kierowniczej roli Francji i Niemiec w budowie europejskich standardów.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

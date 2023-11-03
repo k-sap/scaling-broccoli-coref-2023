@@ -1,0 +1,14 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Katastrof politycznych było co niemiara, wymienię więc tylko te największe. Pierwsza to włączenie przez PiS do rządu i tym samym legitymizacja przez braci Kaczyńskich dwóch awanturniczych ugrupowań politycznych – Samoobrony i LPR. Najpierw w formie tzw. Paktu stabilizacyjnego podpisanego przez liderów partii – zrobiono z tego wielkie wydarzenie medialne, przy czym bezpośrednią transmisję prowadziły wyłącznie media o. Ryzyka, czyli telewizja Trwam i Radio Maryja. Potem okazało się, że Pakt to za mało i nastąpił drugi etap katastrofy. Powstała – ale już bez bogatej oprawy medialnej - koalicja rządowa PiS, Samoobrony i LPR. Dla ludzi bez kwalifikacji – nie tylko zawodowych, ale często też moralnych, utworzono wiele specjalnych stanowisk. Urządzono dla nich gabinety, umożliwiono zatrudnienie – oprócz personelu administracyjnego – armii doradców politycznych, dano do dyspozycji samochody służbowe – a wszystko to zrobiła partia, która szła do wyborów m.in. pod hasłem taniego państwa nie mówiąc już o odnowie moralnej.</p>
+        <p xml:id="p-2">Przy czym o ile Andrzej Lepper jako minister rolnictwa, choć rolnictwu nie pomoże, to również nie zaszkodzi, katastrofa więc polega na tym, że w ogóle pozwolono mu rządzić, to Roman Giertych jako minister edukacji to dla polskiej szkoły klęska, z której trudno się będzie podźwignąć.</p>
+        <p xml:id="p-3">Druga katastrofa polityczna – rozłożona w czasie – to kolejne etapy zawłaszczania państwa przez PiS. Znowu wymienię tylko te najważniejsze. Zaczęło się od Krajowej Rady Radiofonii i Telewizji, którą upolityczniono do granic absurdu, potem przyszła kolej na telewizję i radio publiczne, które stały się tubami propagandowymi partii rządzącej. W końcu padło na Trybunał Konstytucyjny, którego rangę drastycznie obniżono wybierając w jego skład ludzi, z których część mogłaby co najwyżej odbywać tam staż – bez dorobku naukowego, doświadczenia i wiedzy, w tym w dziedzinie prawa europejskiego. A przecież Trybunał Konstytucyjny jest swego rodzaju wyrocznią, powinny więc w nim zasiadać największe autorytety prawnicze.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

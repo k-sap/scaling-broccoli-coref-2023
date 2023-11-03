@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Jest lepiej, że aż strach!</p>
+        <p xml:id="p-2">Koryfeusze nauki twierdzą z żelazną stanowczością, że nigdy jeszcze ludzkości nie było tak dobrze, jak na progu XXI wieku - a niezadługo, gdy globalnie zwyciężą demokracja i neoliberalizm, będzie jeszcze lepiej: powszechna satysfakcja, dobrobyt i święty spokój jak u Pana Boga za piecem - Koniec Historii!</p>
+        <p xml:id="p-3">Ale inni mędrcy, równie lub bardziej utytułowani, kraczą, że nigdy przedtem nie było tak źle, a najczarniejsze dni dopiero nadciągają! Środowisko coraz bardziej zatrute. Coraz mniej tlenu i wody pitnej, rozprzestrzeniają się choroby cywilizacyjne, nadciąga ptasia grypa, która będzie ludzi zabijać milionami, zagładą grożą nam dziura ozonowa i globalne ocieplenie - a może nowa epoka lodowcowa? Nie, jednak raczej ocieplenie, to ono wszak zrodziło Katherinę i Wilmę, i kilkanaście innych atlantyckich huraganów roku 2005. Kurczą się zasoby wszystkich surowców z ropą naftową na czele (już przed II wojną światową Anthon Zischka ogłosił: "Nafta rządzi światem" - i jak jej nie będzie, to Apokalipsa!), coraz rozleglejsze są obszary skrajnej pauperyzacji (po dawnemu: nędzy). A przede wszystkim nastąpiło zderzenie cywilizacji, którego spektakularnym objawem jest terroryzm. Do tego wciąż niewykluczony holocaust jądrowy - Korea Północna uderzy pierwsza czy Iran?</p>
+        <p xml:id="p-4">No i to potworne przeludnienie, które narasta wedle reguły "krzywej wykładniczej" - postrachu Klubu Rzymskiego sprzed trzydziestu lat. Albo jeszcze gorsze - wyludnienie! Ono doskwiera starzejącej się Europie (w tym Polsce, która do niedawna imponowała dynamiką rozrodczą), a rychło może zagrozić nawet państwom gigantom - Indiom i Chinom! Wprawdzie one razem wzięte to - wedle ekspertów międzynarodowych - jedna trzecia całej ludzkości (a wedle mnie, niefachowca, prawie dwie piąte!), ale zaczyna tam katastrofalnie brakować... kobiet. Ich manko już sięga stu milionów!</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

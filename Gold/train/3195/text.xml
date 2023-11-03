@@ -1,0 +1,55 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">sp1: tak ?</p>
+        <p xml:id="p-2">sp5: bo będzie słodszy</p>
+        <p xml:id="p-3">sp2: no można odlać sok od</p>
+        <p xml:id="p-4">sp1: acha bo ja mam w domu robiony nie</p>
+        <p xml:id="p-5">sp2: nie no dobra możemy dać taki normalnie kisiel ale taki jak ty chcesz ale</p>
+        <p xml:id="p-6">sp5: ale lepiej normalny kisiel do soku dolać</p>
+        <p xml:id="p-7">sp2: do soku właśnie</p>
+        <p xml:id="p-8">sp5: bo nie bo nie będzie tej żelatyny tak czuć</p>
+        <p xml:id="p-9">sp5: no</p>
+        <p xml:id="p-10">sp1: acha no dobra wy się lepiej znacie</p>
+        <p xml:id="p-11">sp2: i smarujemy</p>
+        <p xml:id="p-12">sp1: no</p>
+        <p xml:id="p-13">sp5: a a a a</p>
+        <p xml:id="p-14">sp2: ładnie kiślem rzucamy wisienki i możemy nawet jeszcze bitą śmietaną przełożyć</p>
+        <p xml:id="p-15">sp1: tak</p>
+        <p xml:id="p-16">sp2: żeby było jeszcze lepiej</p>
+        <p xml:id="p-17">sp1: taki dobry masz mi upiec rozumiesz</p>
+        <p xml:id="p-18">sp0: Emila ty nie wiedziałaś nie widziałaś tańczącego ogórasa ogóras łoooo</p>
+        <p xml:id="p-19">sp1: tańczy ja myślę że to jest ju cen dens</p>
+        <p xml:id="p-20">sp0: ju cen dens</p>
+        <p xml:id="p-21">sp5: najpierw musi być to szubi dubi dubi dens</p>
+        <p xml:id="p-22">sp0: chodź Inka</p>
+        <p xml:id="p-23">sp2: ej to i świetnie i to taki właśnie podkład muzyczny nie</p>
+        <p xml:id="p-24">sp1: ychy</p>
+        <p xml:id="p-25">sp2: będzie i wtedy jak ty mówiłaś w tym teledysku nawet jak będzie też tak jest też w tym</p>
+        <p xml:id="p-26">sp5: no będzie na pewno ja bardzo muszę</p>
+        <p xml:id="p-27">sp2: akademii pani kleksa kleksa</p>
+        <p xml:id="p-28">sp5: brata muszę</p>
+        <p xml:id="p-29">sp2: myślałaś kleksa ?</p>
+        <p xml:id="p-30">sp1: ychy</p>
+        <p xml:id="p-31">sp2: no to ekstra</p>
+        <p xml:id="p-32">sp1: ty jak mówisz to ja nie zwracam uwagi tylko ja nieraz cię upomnę</p>
+        <p xml:id="p-33">sp2: to jak będzie ? ale nie ja się jeszcze seplenię przez bardzo przez aparat bo się zawieszam ale to jeszcze trochę</p>
+        <p xml:id="p-34">sp1: ychy</p>
+        <p xml:id="p-35">sp2: i zniknie mi</p>
+        <p xml:id="p-36">sp5: ile dałaś za aparat ?</p>
+        <p xml:id="p-37">sp2: tysiąc pięćset</p>
+        <p xml:id="p-38">sp1: tylko ?</p>
+        <p xml:id="p-39">sp2: za sam aparat</p>
+        <p xml:id="p-40">sp1: a później ?</p>
+        <p xml:id="p-41">sp2: no a później to</p>
+        <p xml:id="p-42">sp5: stówę za każdą wizytę pewnie albo i dużo więcej</p>
+        <p xml:id="p-43">sp1: bo mi nie chcą założyć</p>
+        <p xml:id="p-44">sp2: nie trzydzieści za wizytę pięćdziesiąt za wizytę yyy ale przedtem musisz na przykład ja musiałam wyrwać dwa zęby ja mam wyrwaną trójkę i piątkę yyy czwórkę i piątkę</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

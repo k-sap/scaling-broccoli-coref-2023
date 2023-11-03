@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Chorzy zapewniają, że nie są aż tak chorzy, aby sprzeciwiać się podwyżkom dla personelu szpitalnego, ale twierdzą, że pacjenci również chcą mieć coś ze swoich chorób. Tymczasem państwo z jednej strony chce, żeby obywatele się leczyli, ale z drugiej strony nie stwarza odpowiedniego systemu motywacyjnego - argumentują. I grożą, że nie będą dłużej chorować na zasadach, jakie proponują im dyrektorzy szpitali, bo to im się po prostu nie opłaca. - Niestety, po raz kolejny potwierdza się stara zasada, że lepiej być bogatym i zdrowym, zamiast biednym i chorym, z czym my, pacjenci, nie zamierzamy się godzić - deklaruje obłożnie chory pan Józef, szef komitetu. - Leżenie na korytarzu czy w wieloosobowej sali to nic przyjemnego. Personel bywa opryskliwy, jedzenie okropne, zero rozrywek. Czas, żeby ktoś za to zapłacił - dodaje rozżalona pacjentka jednego ze szpitali na południu kraju.</p>
+        <p xml:id="p-2">Protestujący nie kryją, że chcieliby - wzorem lekarzy i pielęgniarek - otrzymywać pieniądze za każdy dzień spędzony w szpitalu. Zapewniają, że jeśli pieniądze te dostaną, atmosfera w placówkach szpitalnych ulegnie poprawie. Jednocześnie zapowiadają, że jeśli ich niewygórowane postulaty nie zostaną przyjęte, rozpoczną bojkot niektórych zabiegów i operacji, rozważą także możliwość opuszczenia placówek szpitalnych i rozpoczęcia leczenia na własną rękę, a za skutki tego leczenia odpowiedzialność poniesie państwo. Niektórzy najbardziej zdeterminowani zapowiadają walkę do samego końca i - wzorem górników - nie wykluczają kontynuacji strajku pod ziemią.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

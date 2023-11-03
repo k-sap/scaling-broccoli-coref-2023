@@ -1,0 +1,24 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">sp0: słuchaj. taka była.</p>
+        <p xml:id="p-2">sp1: no a z tych foremek drugich korzystałaś ?</p>
+        <p xml:id="p-3">sp0: nie. bo już więcej ciasta nie miałam.</p>
+        <p xml:id="p-4">sp1: a.</p>
+        <p xml:id="p-5">sp0: i tą babkę piekłam. bardzo delikatnie myłam bo wiem że to jest teflon ściereczką niczym wiesz co Jadziu. i nawet nożem niczym nie podważałam.</p>
+        <p xml:id="p-6">sp1: dobrze dobrze.</p>
+        <p xml:id="p-7">sp0: tylko pukałam tak.</p>
+        <p xml:id="p-8">sp1: ona wychodzi bo ona jest taka gładka.</p>
+        <p xml:id="p-9">sp0: słuchaj taka była ta baba i moment wiesz co niepotrzebnie szeroko mówiła mi Parnowska jak to się upiekło. żeby otworzyć i potrzymać ją w piekarniku i ja cały piekarnik otworzyłam i poszłam jeszcze otworzyć drzwi frontowe słuchaj bo coś tam wynosiłam Jadzia. i przychodzę i patrzę a mój piekarnik tak jest zrobiony bo Kasia z Darkiem siedziała ja mówię a czemuście zamkli. a ona mówi tak no bo zobacz co przez moment się stało. wszystko tak.</p>
+        <p xml:id="p-10">sp1: to ja już babki podolskiej nie będę piekła.</p>
+        <p xml:id="p-11">sp0: upiekę Jadziu bo. bo się fajnie piecze. wiesz.. słuchaj ja wkładałam do pieca to było tu tak o tak tak było. taka piękna była. tak urosło.</p>
+        <p xml:id="p-12">sp1: ładnie rośnie.</p>
+        <p xml:id="p-13">sp0: tak a Parnowska do mnie mówi tak słuchaj. ty się wcale nie przejmuj nimi. niech one rosną nie wiadomo dokąd kiedy ci będzie pasowało to sobie ją upieczesz. no i ja obiad mówię ach to teraz wstawię. obydwie wstawiłam naraz. no i pięknie się piekły cholera jasna do momentu dopóki wiesz przeciągu nie zrobiłam nieświadomie zupełnie przez ułamek sekundy. a Darek do mnie mówi tak. mamo. mama powinna była mówi. wyłączyć. i ją zostawić żeby on tak zastygła.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

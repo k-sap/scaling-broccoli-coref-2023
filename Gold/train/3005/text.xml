@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Dla Paradyzyjczyka, przywykłego do ściśle kontrolowanej dyscypliny pracy, taki luźny reżim dnia musiał być rzeczą niezmiernie cenną.</p>
+        <p xml:id="p-2">Z drugiej strony, kontakt z przybyszem pozwalał na otrzymanie cennych dodatnich punktów do wskaźnika SC. W tym świecie, gdzie tak bardzo liczą się wypowiadane słowa, wszystko, co z przekonaniem wygłaszał Alvi na chwałę paradyzyjskiego porządku w obecności obcego przybysza, musiało być wysoko oceniane przez komputerowy analizator słów. Z pewnością taka działalność propagandowa przynosiła znacznie więcej punktów niż wypowiadanie tych samych zdań w obecności innego Paradyzyjczyka lub po prostu do ściany.</p>
+        <p xml:id="p-3">Ale, oprócz tych korzyści, na przewodnika czyhały także niebezpieczeństwa. Samo słuchanie przybysza mogło być oceniane ujemnie, jeśli ten nie powściągał się dostatecznie w swych wypowiedziach. Ponadto każda niewłaściwa odpowiedź, każda nieodpowiednia interpretacja faktu czy nieprawidłowe objaśnienie udzielone obcemu mogły kosztować mnóstwo punktów ujemnych. Podejmując się roli przewodnika (o ile w ogóle wchodził w rachubę swobodny wybór), tubylec ryzykował, lecz z możliwością wygranej - jeśli był dostatecznie inteligentny i ostrożny.</p>
+        <p xml:id="p-4">Istniała jednak także "trzecia strona" tej sprawy. Przewodnik musiał liczyć się z faktem, iż nie jest jedynym informatorem przybysza. Nieformalnie zdobyte informacje i spostrzeżenia mogły stać w jawnej sprzeczności z tymi, których zobowiązany był dostarczyć. Przewodnik, nie chcąc uchodzić w oczach Ziemianina za kompletnego durnia albo za notorycznego kłamcę, musiał równocześnie dać do zrozumienia, że to, co mówi, należy traktować trochę "na niby". Musiał się jakoś usprawiedliwić, przedstawiając swoje wypowiedzi jako wygłaszane raczej dla podsłuchu niż dla słuchacza.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

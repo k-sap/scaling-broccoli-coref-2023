@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Treść komunikatu: Biorąc pod uwagę przede wszystkim interes społeczny i wynikającą z niego konieczność zapewnienia wszystkim ubezpieczonym pacjentom bezpieczeństwa w postaci prawidłowego dostępu do świadczeń zdrowotnych na terenie województwa śląskiego, jak i zabezpieczenie prawidłowego finansowania zakładów opieki zdrowotnej, dyrektor Śląskiego Oddziału Wojewódzkiego Narodowego Funduszu Zdrowia w Katowicach podjął w dniu dzisiejszym tj. 13 lutego 2008r. decyzję o unieważnieniu konkursu na realizację świadczeń zdrowotnych w zakresie Opieki Długoterminowej oraz Ambulatoryjnej Opieki Specjalistycznej. Decyzja została podyktowana wysokim procentem braków i błędów w składanych przez świadczeniodawców ofertach. W ramach prowadzonego konkursu zostaną rozstrzygnięte procedury konkursowe w rodzajach: badania medycyny nuklearnej, badania angiograficzne narządu wzroku, badania ultrasonograficzne – kwalifikacja do operacji kardiochirurgicznych, świadczenia w zakresie diabetologii dla dzieci, badania endoskopowe przewodu pokarmowego – pH-metria, diagnostyka laboratoryjna: badania molekularne (PCR/PFGE), badania radiologiczne (RTG), świadczenia w zakresie chirurgii onkologicznej dla dzieci, badania elektrofizjologiczne, świadczenia w zakresie kardiochirurgii, badania echokardiograficzne płodu.</p>
+        <p xml:id="p-2">Równocześnie informujemy, iż nowy konkurs na unieważnione postępowania zostanie ogłoszony 18 lutego. Pozwoli to na dotrzymanie terminu rozstrzygnięć do końca trwania aneksów tj. do końca kwietnia, jak i zniweluje tym samym niebezpieczeństwo ograniczonej dostępności do świadczeń i nieprawidłowego finansowania zakładów.</p>
+        <p xml:id="p-3">W związku z dużą ilością błędów występujących w ofertach, jak i niejednokrotnie niemożliwymi do spełnienia warunkami szczegółowymi stawianymi przed dotychczas świadczącymi usługi zakładami ogłoszony kolejny konkurs będzie przeprowadzony na zasadach warunkowych.</p>
+        <p xml:id="p-4">Dodatkowo informujemy, że aby uniknąć najczęściej popełnianych błędów Śląski OW NFZ organizuje szkolenia dla składających oferty.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

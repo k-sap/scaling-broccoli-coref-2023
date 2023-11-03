@@ -1,0 +1,12 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Z wodą na Plantach zawsze były kłopoty, bo zieleń wymagała odpowiedniej porcji wilgoci. Początkowo wodę do podlewania kwiatów i krzewów rozwożono na osiołkach. Sytuacja zmieniła się na lepsze, gdy w 1899 roku władze rozpoczęły budowę miejskich wodociągów. Na Plantach przewidziano cztery wodotryski. W kasie miejskiej jednak, jak zawsze, brakowało pieniędzy i dopiero pięć lat później, dzięki hojności firmy "Rumpel et Waldek" (produkującej rury wodociągowe), wybudowano sadzawkę z fontanną. Jak to w Krakowie bywa, ta budowa wzbudziła emocje. Jedni uważali, że zbiornik spowoduje plagę komarów, a co za tym idzie wybuchnie w mieście epidemia malarii. Właściciele domów przy ulicy Basztowej obawiali się, że przesiąkająca woda podtopi fundamenty i spowoduje wilgoć w budynkach. Byli i tacy, którzy twierdzili, iż sadzawka tak wpłynie na zmianę mikroklimatu okolicznych terenów, że doprowadzi do zniszczenia zieleni. Prasa, która potraktowała te niepokoje z pełna powagą, przekonywała czytelników, że wszelkie obawy są płonne. Jak widać miała rację, a okolice sadzawki stały się ulubionym miejscem zabaw dzieci, spotkań, randek zakochanych. Jeszcze kilkanaście lat temu w domku na wysepce zamieszkiwały od wiosny do jesieni łabędzie. Niestety znaleźli się tacy, którzy utożsamili te piękne, ale niejadalne ptaki, z podobnymi z upierzenia gęśmi, co dało pretekst władzom miejskim do usunięcia tych królewskich ptaków. Przy okazji przestały w sadzawce pływać, budzące zachwyt maluchów, kolorowe rybki. Druga fontanna pojawiła się na Plantach koło Filharmonii dopiero w drugiej połowie minionego wieku, ale nie była to kontynuacja pierwotnego zamierzenia.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

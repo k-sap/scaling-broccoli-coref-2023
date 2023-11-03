@@ -1,0 +1,21 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">O stan większości basenów przeciwpożarowych dba Zakład Usług Komunalnych. W tym przypadku jednak jest inaczej. Teren nie należy do miasta. Wcześniej basen był własnością stoczni, która go sprzedała. Nowym właścicielem Ø jest firma Supon, która zajmuje się między innymi handlem sprzętem pożarniczym.</p>
+        <p xml:id="p-2">Nie chce basenu</p>
+        <p xml:id="p-3">- W tym miejscu ma powstać nasz zakład usługowy i z takim zamiarem kupowaliśmy ten teren - mówi Stanisław Urbańczyk, prezes firmy. - Nie jestem zainteresowany remontem tego basenu, nie będziemy go też utrzymywać.</p>
+        <p xml:id="p-4">Jak się dowiedzieliśmy, miasto wydało firmie Supon nakaz utrzymywania obiektu. Prezes jednak się od tej decyzji odwołał i wygrał.</p>
+        <p xml:id="p-5">- Nikt nie ma prawa mi mówić, co ma być na moim terenie - mówi.</p>
+        <p xml:id="p-6">Na razie nie wiadomo kiedy powstanie tu zapowiadany zakład usługowy.</p>
+        <p xml:id="p-7">- Czekamy na warunki zabudowy - twierdzi Stanisław Urbańczyk. - Czekamy już od kilku miesięcy, to rzeczywiście za długo. Ale tak w naszym mieście traktuje się inwestorów.</p>
+        <p xml:id="p-8">Woda musi być</p>
+        <p xml:id="p-9">Czy zaniedbany basen przeciwpożarowy, w którym prawie nie ma wody, nie uniemożliwi akcji ratowniczej straży pożarnej?</p>
+        <p xml:id="p-10">- Straż pożarna może wpływać, albo nawet wymuszać na właścicielach, czy zarządcach terenów, aby zapewnili oni wodę do gaszenia. Sposobów na zapewnienie tej wody jest kilka, wcale nie musi to być basen przeciwpożarowy, może to być dostęp do rzeki, jeziora albo sieć wodociągowa - mówi Mirosław Siewierski, rzecznik szczecińskiej straży pożarnej.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

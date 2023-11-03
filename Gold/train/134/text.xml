@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Za złoty medal wypłacono im po 14 400 zł, za srebrny Ø 12 000 zł, a za brązowy Ø 7200 zł, czyli prawie dziesięciokrotnie mniej aniżeli pełnosprawnym medalistom. Niepełnosprawni, podobnie jak ich cieszący się pełnym zdrowiem koledzy, otrzymują stypendia; jeśli zakwalifikowali się do kadry olimpijskiej, a wcześniej zdobyli medal na mistrzostwach świata lub Europy, miesięcznie 1100 zł brutto, zaś w grach zespołowych - 600 zł. Pełnosprawni otrzymują pięciokrotnie wyższe Ø, bez kłopotów znajdują hojnych sponsorów.</p>
+        <p xml:id="p-2">Trener koordynator każdej dyscypliny sportowej zawiera kontrakt z Polskim Komitetem Paraolimpijskim opiewający na kwotę 1000 zł (brutto) miesięcznie i to tylko w okresie przygotowań do igrzysk. Natomiast trenerów prowadzących zajęcia z zawodnikami podczas zgrupowań sportowych obowiązują stawki od 50 do 80 zł za 1 przepracowany dzień. Jednak we wszystkich klubach zajmujących się w Polsce szkoleniem niepełnosprawnych jest ich raptem kilku Ø zatrudnionych na pełnych etatach! Reszta to sportowcy, którzy - gdy chcą wyjechać ze swoją grupą na zgrupowanie szkoleniowe - muszą brać urlop z pracy.</p>
+        <p xml:id="p-3">Drogi jest specjalistyczny sprzęt. Cena wózków, na których grają koszykarze, lub ścigają się maratończycy, a także służących do tańca sportowego waha się od 5 do 10 tys. zł. Drogie są także kulonarty do startu w konkurencjach alpejskich. Sportowcy niepełnosprawni otrzymują pomoc z kasy Państwowego Funduszu Rehabilitacji Osób Niepełnosprawnych, co stanowi istotne uzupełnienie dotacji na działalność sportową pochodzącą z UKFiS.</p>
+        <p xml:id="p-4">Dotacja państwowa jest jednak w sumie bardzo skromna. Z danych statystycznych wynika, że jeden zawodnik zrzeszony w Polskim Związku Sportu Niepełnosprawnych Start w 1998 r. był dotowany miesięcznie kwotą 90 zł 50 gr! Niepełnosprawni umysłowo zrzeszeni są natomiast w Polskim Towarzystwie Społeczno-Sportowym Sprawni-Razem. Tutaj budżet za 2000 r. zamknął się sumą ok. 2 mln zł na obsługę sportowego wyczynu ok. 6 tys. zawodników startujących w tegorocznych imprezach.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

@@ -1,0 +1,14 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">- Krwi! krwi! - ryknął tek strasznym głosem, że aż dreszcz przeszedł blisko stojących.</p>
+        <p xml:id="p-2">I skoczył w fosę. Za nim rzucił się, kto był żyw na wałach. Żadna siła, nawet rozkazy książęce nie zdołałyby powstrzymać tego wybuchu wściekłości. Z fosy wydobywali się jedni na ramionach drugich, chwytali się rękoma i zębami za brzeg rowu - a kto wyskoczył, biegł na oślep, nie bacząc, czy inni biegną za nim. Beluardy zadymiły jak smolarnie i wstrząsły się od huku wystrzałów, ale nic to nie pomogło. Zagłoba leciał pierwszy, z szablą nad głową, straszny, wściekły, podobny do rozhukanego buhaja. Dopieroż Kozacy skoczyli także z cepami, z kosami na napastników i rzekłbyś: dwie ściany uderzyły o się z łoskotem. Lecz syte brytany nie mogą bronić się długo głodnym i wściekłym wilkom. Wsparci z miejsca, cięci szablami, darci zębami, bici i gnieceni, Kozacy nie wytrzymali furii - i wnet zaczęli się mieszać, a potem pierzchać ku otworowi. Pan Zagłoba szalał; rzucał się w największy tłum jak lwica, której zabrano lwięta; rzęził, chrapał, ciął, mordował, deptał! Pustka czyniła się przed nim, a przy nim szedł, jak drugi płomień niszczący, Wołodyjowski podobny do rannego rysia.</p>
+        <p xml:id="p-3">Strzelców ukrytych w beluardach wycięto w pień, resztę goniono aż za otwór w wale. Po czym żołnierze weszli na beluardę i odczepiwszy pana Longina, ostrożnie spuścili go na ziemię.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

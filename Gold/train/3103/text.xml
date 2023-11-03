@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Tadeusz Wyrwa-Krzyżański jest poetą bardzo wyrazistym, choć wcale nie pcha się do pierwszego szeregu literatów medialnych. Szczyci się filosłowiem, czyli własnym językiem poetyckim, zdumiewa mnogością wierszy, których wcale nie składa, ale jakby wydaje na świat z przestrzennego wnętrza… swojego świata. Ujmując to metaforycznie i malarsko, widzę szeroką strugę, wręcz Mleczną Drogę wypływającą z, tkwiącego w duszy poety, kłębowiska rodzących się wciąż ścieżek, dróg, autostrad. Łatwo to namalować: monumentalna postać, kto wie czy nawet nie widzewskiego barona, z otwartymi ustami, z których wylewa się nieprzerwana smuga słów. (Są takie średniowieczne, sztychy wykonane ręką nawiedzonych artystów). Tak, bo autor „Mostów z ogni” jest nawiedzonym bardem, uparcie śpiewającym swoją pieśń. Niepodległym Ø, gdyż w przeciągu 40 lat swojej aktywności twórczej nie uległ ani chimerycznym literackim modom ani, grożącym dziś, w konsumerycznym czasie, pokusom wygodnego i biernego życia, powlekanego aktywnością pseudo-artystyczną w przepastnym worze kultury masowej. Wciąż, i to wcale nie publicystycznie, upomina się o wysokie wartości, wciąż-niczym dziecko-zachwyca się prawdziwym pięknem, w tym pięknem napotkanych, co wcale nie znaczy, że za każdym razem skonsumowanych kobiet. Wciąż mówi swoje.</p>
+        <p xml:id="p-2">„To swoje” jest bardzo przejrzyste i mocne - i jak prawdziwa poezja ocala. Czyta się więc te wiersze za spokojem, choć pełne są one pasji (erotyki) i żalu (żalniki). Bo są to dobre pasje i, wiodące ku lepszemu, nie dołujące żale. A wszystko to jest bezinteresowne: nie ku sobie, ale ku wartościom…</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

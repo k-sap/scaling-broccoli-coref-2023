@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Przemax CYTAT "Po co ??? Po co ???... unsure.gif" Próba podtrzymania życia według mnie. Ostatni desperacji wysiłek do życia - nic już się nie ma do stracenia. Ale to rzeczywiście ciekawe.... przy tak szybkim spalaniu materii metabolizm musi być bardzo duży a każda sekunda musi się wydawać trwać wieczność - to musi być piękne .</p>
+        <p xml:id="p-2">sanaj W moim odczuciu, to bedzie dusza, tymbardziej, ze ubywa je tylko w chwili smierci ;]</p>
+        <p xml:id="p-3">h3lix CYTAT(omickal @ 24.05.2008, 14:23) "Najciekawsze jest to, że każdy człowiek traci te 21 gramów w momencie śmierci." każdy traci trochę na masie, nie dokładnie 21 gram!!! W badaniach ludzie tracili masę w przedziale 0,5 do 1,25 uncji - według Waszych teorii dusze musiałyby różnie ważyć, myślicie, że grzesznicy mają cięższe? Moim zdaniem to zwyczajna fizjologia, jak wykazały badania, w stanie agonalnym człowiek zaczyna trochę tracić na masie - pocąc się m.in., widocznie w chwili śmierci dzieje się z człowiekiem coś podobnego do wyłączenia silnika w samochodzie po długiej jeździe... @edit: Co do filmu - teraz w empiku mozna kupic za 9,99 moja kolekcja dobrych filmów powiększyła się</p>
+        <p xml:id="p-4">nuworld Widze Mia że obejrzałaś (dobry zresztą) film "21 gramów" ??? Szczerze mówiąc nie wiem czy to o 21 gramach to fakt medyczny czy amerykańska filmowa szmira. Więc jeżeli zakładasz taki temat to podeprzyj to jakimś dowodem naukowym, bo szczerze mówiąc brzmi to strasznie naiwnie i dziecinnie ,zeby każdy tracił dokładnie 21 gram.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

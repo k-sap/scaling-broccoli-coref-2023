@@ -1,0 +1,33 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Maria widzi, że atmosfera jest bardzo napięta. Wszyscy dziennikarze patrzą na nią wyczekująco.</p>
+        <p xml:id="p-2">GOŚKA</p>
+        <p xml:id="p-3">A może chce pani rozmawiać z kapitanem statku? Niestety pan redaktor naczelny gdzieś odpłynął. Marek chyba wie coś więcej na ten temat, ale on jest honorowy i o nieobecnych złego słowa nie powie.</p>
+        <p xml:id="p-4">MAREK</p>
+        <p xml:id="p-5">LEKKO WKURZONY</p>
+        <p xml:id="p-6">I po co te teksty? Uważasz, że są w tej chwili konieczne?</p>
+        <p xml:id="p-7">GOŚKA</p>
+        <p xml:id="p-8">A co ty tak ciągle go bronisz? Płaci ci za to? Nie ma co czarować. Za chwilę z tej gazety z dobrych rzeczy zostanie tylko tytuł.</p>
+        <p xml:id="p-9">MARIA</p>
+        <p xml:id="p-10">Przepraszam, że się wtrącę, ale chyba lepiej jak pan Kornacki usłyszy to, o czym państwo mówicie i będzie mógł się jakoś do tego odnieść.</p>
+        <p xml:id="p-11">MAJKA</p>
+        <p xml:id="p-12">On to słyszy po kilka razy dziennie i nic z tego nie wynika.</p>
+        <p xml:id="p-13">MARIA</p>
+        <p xml:id="p-14">Po chwili</p>
+        <p xml:id="p-15">To może spotkajmy się w takim razie wszyscy razem ... z panem Andrzejem i wtedy porozmawiamy otwarcie na wszystkie tematy...</p>
+        <p xml:id="p-16">Myślę, że tak będzie uczciwie.</p>
+        <p xml:id="p-17">Dziennikarze patrzą po sobie</p>
+        <p xml:id="p-18">Ja w każdej chwili jestem do państwa dyspozycji i jeżeli tylko uznacie, że moja obecność w czasie tej rozmowy jest potrzebna to stawię się natychmiast.</p>
+        <p xml:id="p-19">JACEK</p>
+        <p xml:id="p-20">Pani może i się stawi, ale nie wiemy jak Andrzejek stoi z terminami.</p>
+        <p xml:id="p-21">MAREK</p>
+        <p xml:id="p-22">Dobrze. Zostawmy to teraz. Wszyscy już chyba wszystko, co było trzeba i nie było trzeba, powiedzieli.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

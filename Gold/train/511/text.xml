@@ -1,0 +1,14 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">sp1: zwłaszcza Niemcy prawda ? gotowe są wręcz Grecję poświęcić prawda na ołtarzu. podtrzymania stabilności</p>
+        <p xml:id="p-2">sp0: pewnie nie tylko Grecję w przyszłości</p>
+        <p xml:id="p-3">sp1: no więc pozostał międzynarodowy fundusz walutowy. i i tu tu słabość strefy euro się. ujawnia. okazuje się że. w ogóle środki pomocowe jakimi dysponuje strefa euro. są w ogóle niewystarczające strefa euro nie jest przygotowana na tak duży kryzys finansowy oby się tylko to. skończyło na. na Grecji. tak że prawdopodobieństwo że tutaj. no i i w samym systemie strefy euro tkwi właśnie element kryzysogenny. który nie dotyczy tylko Grecji mianowicie okazało się. że. przystąpienie do strefy euro. ułatwiało krajom. członkowskim prowadzenie nadmiernie ekspansywnej polityki fiskalnej. nadmiernych deficytów budżetowych otóż. członkowie strefy euro liczyli na to że bezkarnie. będą mog mogli. powiększać swoje wydatki budżetowe. deficyty w nadziei że. to zostanie ukryte w ramach jednej waluty bo ona jest stabilna i mocna. otóż. pomylili się. właśnie teraz okazuje się że te deficyty są nadmierne że z nimi coś trzeba robić. a. kraje bardzo niechętnie to czynią prawda ? w Grecji bardzo niechętnie. dokonuje się reformy zaciskania pasów. tego nikt to jest niepopularne tego nikt nie chce. i tu tkwi właśnie. źródło kryzysu tej strefy. źródło kryzysu tej strefy. i dla ja jeżeli o mnie chodzi. jestem pełen obaw jeżeli chodzi o przyszłość tej strefy. właśnie z tego powodu</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

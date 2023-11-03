@@ -1,0 +1,17 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">- W Polsce rocznie wykonuje się kilkaset badań nieniszczących tak zwanej radiografii przemysłowej, polegających na prześwietleniu metalowych konstrukcji za pomocą przenikliwego promieniowania w celu wytworzenia na kliszy fotograficznej obrazu wewnętrznej struktury badanego elementu - mówi Maciej Skarżewski, starszy specjalista w Departamencie Bezpieczeństwa Jądrowego i Radiacyjnego Państwowej Agencji Atomistyki, inspektor ochrony radiologicznej.</p>
+        <p xml:id="p-2">Badania takie często wykonuje się w trudnych, terenowych warunkach. Stosowane są źródła promieniotwórcze, bezpieczne, bo zamknięte w specjalnym pojemniku. W momencie wykonywania badania źródło promieniowania jest zdalnie wyprowadzane z pojemnika za pomocą specjalnego mechanizmu.</p>
+        <p xml:id="p-3">- Całe urządzenie, zwane popularnie defektoskopem, przechodzi regularne kontrole techniczne - dodaje Skarżewski. - Na kilkaset wykonywanych badań w ciągu roku zdarzają się rzadkie przypadki, gdy mechanizm zawodzi i źródło nie daje się wprowadzić z powrotem do pojemnika. Wtedy należy poprosić o pomoc specjalne służby awaryjne, które bez narażania ludzi na większe niż dopuszczalne dawki promieniowania usuną awarię urządzenia. Raz na kilka lat zdarza się, że technicy narażają się na nadmierne napromieniowanie, próbując samodzielnie usunąć awarie defektoskopu.</p>
+        <p xml:id="p-4">Ze statystyk wynika, że do tego typu wypadków dochodzi średnio raz na pięć lat. W minionym dziesięcioleciu były dwa takie przypadki. Pierwszy nastąpił w lutym 2001 roku. Wówczas, w Białymstoku, podczas zabiegu naświetlania zostało poparzonych pięć kobiet. Drugi wypadek był w lipcu 2009 roku, właśnie w Gdańsku, gdzie napromieniowanych zostało dwóch mężczyzn.</p>
+        <p xml:id="p-5">Pomorze</p>
+        <p xml:id="p-6">W ciągu 5 lat PAA przyjęła jedno zgłoszenie poparzenia środkiem radioaktywnym.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

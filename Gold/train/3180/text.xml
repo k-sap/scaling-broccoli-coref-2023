@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">sp1: nie pada ?</p>
+        <p xml:id="p-2">sp0: od jutra potrzebne deszcze. ale to też by dobrze nawet było nie ?</p>
+        <p xml:id="p-3">sp1: nie no znowu powodzie ?</p>
+        <p xml:id="p-4">sp2: a tam powodzie co tam chwila będzie padać to zaraz powódź ?</p>
+        <p xml:id="p-5">sp0: wystarczy tylko godzina opadów nie ?</p>
+        <p xml:id="p-6">sp2: no</p>
+        <p xml:id="p-7">sp0: czy jaka ?</p>
+        <p xml:id="p-8">sp1: tylko u nas nie ?</p>
+        <p xml:id="p-9">sp2: tak</p>
+        <p xml:id="p-10">sp0: sklep jest nad samym wójtem to by rozwlekało problem</p>
+        <p xml:id="p-11">sp1: rozwiązało by wam sprawę ? co ty mówisz ?</p>
+        <p xml:id="p-12">sp0: to byśmy spokojnie se a nie bo to jeszcze trzy miejsca</p>
+        <p xml:id="p-13">sp2: wam trzy to jest co innego jak już jedno odstąpisz to już raz dwa się obskoczy. zamówimy deszcz</p>
+        <p xml:id="p-14">sp0: na allegro</p>
+        <p xml:id="p-15">sp1: no Matek</p>
+        <p xml:id="p-16">sp0: słucham ?</p>
+        <p xml:id="p-17">sp1: dzwoniłam dzisiaj do gimnazjum</p>
+        <p xml:id="p-18">sp0: do kina ?</p>
+        <p xml:id="p-19">sp1: do gimnazjum ! do kina</p>
+        <p xml:id="p-20">sp0: aha</p>
+        <p xml:id="p-21">sp1: i. pytałam się o pracę</p>
+        <p xml:id="p-22">sp0: no i co ?</p>
+        <p xml:id="p-23">sp1: no i dyrektorka powiedziała że</p>
+        <p xml:id="p-24">sp2: ale gdzie ? tu ?</p>
+        <p xml:id="p-25">sp1: tu</p>
+        <p xml:id="p-26">sp2: aha</p>
+        <p xml:id="p-27">sp1: i dyrektorka mi powiedziała że że jako dla nauczycielki to nie ma pracy ale ma jakiś projekt współfinansowany z Unii Europejskiej i że. to by było normalnie osiemnaście godzin czyli cały etat i że bo to są dodatkowe godziny</p>
+        <p xml:id="p-28">sp0: tygodniowo ?</p>
+        <p xml:id="p-29">sp1: tak taki jest zawód nauczyciela. i to by było w podstawówce i gimnazjum ja za bardzo nie zrozumiałam czy w Osjakowie ona mówi tak w Osjakowie na miejscu tutaj i mnie się pytała a skąd pani jest ? ja najpierw się przedstawiłam ale ona mnie nie usłyszała ja mówię że z Osjakowa nazywam się tak i tak a ! bo ty wychodziłaś z moją Pauliną do. do szkoły bo ja z nią chodziłam do klasy ona mówi no to słuchaj kochanie jutro mnie nie będzie zadzwoń w czwartek ja się dowiem czy czy ta pani która w tamtym roku przy tym pracowała czy sobie znalazła pracę. jeżeli</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

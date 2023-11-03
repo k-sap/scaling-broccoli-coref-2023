@@ -1,0 +1,17 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Pan Edward, dyżurny dyspozycyjny, jest pochłonięty światełkami, przekręcaniem gałek i krótkimi rozmowami przez radio albo telefon. Między szyfrowanymi zdaniami ( "na 108 Lucjan wychodzi" , "22557 można się zapinać" , "on stoi na czwórce, będę go puszczał" ) mówi normalnie: żona zwolniona ze żłobka, jeszcze nie wiadomo, czy dostanie zasiłek. Dyżurny dyspozycyjny ma milion sześćset i jedno dziecko, więc wyjeżdża czasem na handel do Czechosłowacji, bo kraść nie potrafi.</p>
+        <p xml:id="p-2">Podobnie zarabia i podobnie mówi dyżurny szlakowy. I wie, dlaczego jest źle: - Jak strajkujemy, to nam wciskają, że kraj jest zniszczony, że nie ma pieniędzy. Bzdura.</p>
+        <p xml:id="p-3">Jego zdaniem, nikomu nie trzeba zabierać, żadnej oświacie ani zdrowiu, bo pieniądze są na kolei. Dyżurny szlakowy nie może pojąć, dlaczego leśnik albo sprzątaczka z gminnego urzędu mają zniżki na pociąg: - Co oni mają wspólnego z koleją? To przez nich żyjemy w nędzy.</p>
+        <p xml:id="p-4">Dodaje, że gdy zabiorą mu przydziałowy węgiel i inne świadczenia, na pewno odejdzie: - Ja, mechanik, pracę znajdę.</p>
+        <p xml:id="p-5">- A ja, stara, gdzie pójdę? - rozczula się megafonistka i dosypuje koksu do "kozy" , ogrzewającej nastawnię.</p>
+        <p xml:id="p-6">Z nastawni, do której wchodzi się po 50 schodkach, widać gmach dworca; budynek, gdzie siedzą manewrowi i ustawiacze; noclegownię dla konduktorów; biurowiec Stacji Rejonowej Koluszki i tory (Koluszki, na dawnej trasie warszawsko-wiedeńskiej, są ważnym węzłem kolejowym. Tu krzyżuje się pięć głównych linii: Ø ze Śląska, Ø z Kielc, Ø z Warszawy i dwie linie z Łodzi, a wiec z zachodu kraju).</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

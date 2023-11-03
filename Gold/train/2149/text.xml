@@ -1,0 +1,14 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">23. Szczęśliwi razem</p>
+        <p xml:id="p-2">Kto zaprzyjaźnia się z Bogiem, ten staje się przyjacielem ludzi i odkrywa, że drugi człowiek nie jest konkurentem ani przeszkodą w drodze do szczęścia. Najłatwiej jest doświadczać szczęścia parami i we wspólnocie! Krzywdzić samego siebie można bez niczyjej pomocy. Wystarczy tu własna słabość, jak upewnia nas o tym historia syna marnotrawnego. Do wygrania dorosłości potrzeba obecności i wsparcia ze strony przyjaciół, czyli tych, którzy kochają i pomagają kochać. Przyjaciel kocha mnie nawet wtedy, gdy ja nie potrafię kochać samego siebie. Chroni moje ideały i marzenia. Potrafi łączyć miłość z wymaganiami, czułość ze stanowczością i tęsknotę z radością. Jest dla mnie słońcem w deszczu, snem w zmęczeniu i radością w cierpieniu. Przyjacielowi nigdy nie brakuje słów i czynów miłości.</p>
+        <p xml:id="p-3">Nikt z nas nie jest doskonały. Przeciwnie, każdy człowiek popełnia błędy i w niektórych sytuacjach ma żal do samego siebie. Czasem popełnione błędy są wyjątkowo bolesne i nie tylko przeszkadzają w radosnym przeżywaniu teraźniejszości, ale powodują zniechęcenie na przyszłość, a nawet prowokują człowieka do pogardy wobec siebie i do poddania się rozpaczy. Właśnie dlatego wygrać dorosłość mogą ci, którzy potrafią w uczciwy sposób rozliczyć się z przeszłością. Tacy ludzie nie negują błędów, jakie popełnili, ale też zdają sobie sprawę z tego, że nie wszystkie błędy popełnili w sposób świadomy i dobrowolny. Wiedzą również i o tym, że sumienie nie działa wstecz i że obecną wrażliwością sumienia należy oceniać obecne - a nie przeszłe - czyny.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

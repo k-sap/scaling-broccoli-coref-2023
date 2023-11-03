@@ -1,0 +1,24 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">J_M: Również witam :-)</p>
+        <p xml:id="p-2">Mefka: witaj Picia!</p>
+        <p xml:id="p-3">Piotr Lato: Dobrze, trochę mi brakuje tych ludzi w środku, ale tutaj jest całkiem sympatycznie.</p>
+        <p xml:id="p-4">ada: Kogo lubiłeś najbardziej z mieszkańców?</p>
+        <p xml:id="p-5">Piotr Lato: To jest pytanie, na które trudno odpowiadać. My byliśmy w domu na tych samych zasadach i zawsze będę traktował wszystkich na równi, no prawie.</p>
+        <p xml:id="p-6">Bolek: Co sadzisz o wczorajszym SHOW Janusza (Karoliny)</p>
+        <p xml:id="p-7">Piotr Lato: Tu nie można się było nie śmiać. Janusz przycesarzył. Ale to wszystko żarty, Karola się zdenerwowała, ale dojdą do porozumienia. Super audycja.</p>
+        <p xml:id="p-8">nuta89: Jedna z gazet ostatnio zrobiła z ciebie i z Gosi pare czy jest w tym nuta prawdy?</p>
+        <p xml:id="p-9">Piotr Lato: My z Gosia i Manuelcia mieliśmy bardzo sympatyczne, przyjacielskie warunki. Nie to nie była miłość. Ale bbbaaaardzo je lubię.</p>
+        <p xml:id="p-10">dafnee: czesc Picia! czy mozesz dokladniej zdradzic, na czym bedzie polegala Twoja praca, jako korespondenta BB?</p>
+        <p xml:id="p-11">Piotr Lato: Dafnee, moja praca będzie polegała na tym, ze będę jeździł do rodzin osób zamieszkujących dom w danej chwili, rozmawiał z ich rodzinami...</p>
+        <p xml:id="p-12">renia: jak Ci się ogląda dom Wielkiego Brata w telewizji, czy jest różnica?</p>
+        <p xml:id="p-13">Piotr Lato: Oczywiście, że jest różnica!!! TV pokazuje tylko część życia w domu, gdyż tylko tyle mogą. Natomiast ludzie muszą sobie zdawać sprawę, iż jest to niepełny obraz tych osób, i nie można reagować tak skrajnie, jak to czasem miało miejsce.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

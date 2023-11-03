@@ -1,0 +1,16 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Projekt ten ma na celu przygotowanie młodzieży do świadomego i przemyślanego wyboru dalszej ścieżki edukacji i zawodu, a tym samym zapobieganie wykluczeniu społecznemu osób młodych i zapoczątkowanie współpracy na rzecz rozwoju zasobów ludzkich na poziomie lokalnym. Ukierunkowanie przede wszystkim na młodzież ma zapobiec podejmowaniu decyzji o wyborze szkoły przypadkowo, bez poznania własnych predyspozycji zawodowych i rozeznania zapotrzebowania na poszczególne zawody na lokalnym rynku pracy.</p>
+        <p xml:id="p-2">W ramach projektu odbędą się szkolenia dla uczniów trzecich klas gimnazjów na temat planowania kariery edukacyjno-zawodowej, poznania własnych predyspozycji i motywacji oraz kierunków dalszego kształcenia. We wszystkich rybnickich gimnazjach zostaną utworzone Szkolne Punkty Informacji Zawodowej, gdzie uczniowie, rodzice i nauczyciele będą mogli znaleźć informacje o aktualnej sytuacji na rynku pracy, poszczególnych zawodach, planowaniu kariery zawodowej. Zorganizowane zostaną także letnie obozy profilaktyczno-edukacyjne z zajęciami integracyjnymi, motywacyjnymi i zawodoznawczymi dla młodzieży niepełnosprawnej, szczególnie zagrożonej wykluczeniem społecznym.</p>
+        <p xml:id="p-3">Planowane jest także przeszkolenie osób bezrobotnych z wyższym wykształceniem humanistycznym w celu przygotowania ich do pracy w szkole w charakterze stażystów na stanowisku szkolnego doradcy zawodowego. Zapewni to uczniom stałe poradnictwo zawodowe i umożliwi promowanie elastyczności zawodowej oraz kreowanie postaw aktywnych.</p>
+        <p xml:id="p-4">Stowarzyszenie na rzecz wspomagania osób niepełnosprawnych i ich otoczenia „Razem” z Rybnika otrzymało dofinansowanie w kwocie ponad 200 000,00 zł na realizację projektu „Naucz mnie, a zacznę samodzielnie pracować – aktywizacja zawodowo – społeczna osób niepełnosprawnych intelektualnie”.</p>
+        <p xml:id="p-5">Projekt skierowany jest do osób niepełnosprawnych intelektualnie (w tym Ø z zaburzeniami psychicznymi) w wieku 17-24 lata. Celem projektu jest aktywizacja społeczno – zawodowa uczestników projektu, wyposażenie ich w umiejętności i kompetencje potrzebne do podjęcia aktywności zawodowej.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

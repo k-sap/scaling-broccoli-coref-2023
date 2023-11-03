@@ -1,0 +1,54 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Nie możesz mnie zostawić... Córeczko... przecież... ja...</p>
+        <p xml:id="p-2">nie wie co powiedzieć</p>
+        <p xml:id="p-3">Marta nigdy by tak nie zrobiła...</p>
+        <p xml:id="p-4">reakcja Marii</p>
+        <p xml:id="p-5">Scena</p>
+        <p xml:id="p-6">WNĘTRZE. DZIEŃ. RESTAURACJA KREDENS. DONA, BARMAN-CZAREK, CHRUST.</p>
+        <p xml:id="p-7">Lokal jest jeszcze pusty. Barman przykrywa stoły. Ktoś szarpie za klamkę - chce wejść, ale drzwi są zamknięte, puka.</p>
+        <p xml:id="p-8">DONA</p>
+        <p xml:id="p-9">Otwórz. Jeśli gość chce nas odwiedzić, to godzina nie gra roli...</p>
+        <p xml:id="p-10">Czarek otwiera drzwi wejściowe - wchodzi Chrust</p>
+        <p xml:id="p-11">CHRUST</p>
+        <p xml:id="p-12">Przepraszam, chyba jeszcze nieczynne... ale....</p>
+        <p xml:id="p-13">DONA</p>
+        <p xml:id="p-14">uśmiechnięta</p>
+        <p xml:id="p-15">Zapraszam.</p>
+        <p xml:id="p-16">CHRUST</p>
+        <p xml:id="p-17">wyciąga blachę</p>
+        <p xml:id="p-18">Komisarz Chrust, komenda stołeczna...</p>
+        <p xml:id="p-19">reakcja Dony</p>
+        <p xml:id="p-20">CHRUST</p>
+        <p xml:id="p-21">Czy pani Dona?</p>
+        <p xml:id="p-22">CZAREK</p>
+        <p xml:id="p-23">Przyniosę państwu kawę...</p>
+        <p xml:id="p-24">wycofuje się</p>
+        <p xml:id="p-25">zbliżenie Chrusta obserwującego reakcję Dony</p>
+        <p xml:id="p-26">zbliżenie Dony</p>
+        <p xml:id="p-27">DONA</p>
+        <p xml:id="p-28">Proszę, usiądźmy...</p>
+        <p xml:id="p-29">CHRUST</p>
+        <p xml:id="p-30">Chciałbym z panią porozmawiać...</p>
+        <p xml:id="p-31">DONA</p>
+        <p xml:id="p-32">prawie kokieteryjnie</p>
+        <p xml:id="p-33">Tak? A o czym?</p>
+        <p xml:id="p-34">CHRUST</p>
+        <p xml:id="p-35">O śmierci Pawła Dunina.</p>
+        <p xml:id="p-36">Zbliżenie Dony</p>
+        <p xml:id="p-37">pauza</p>
+        <p xml:id="p-38">Scena</p>
+        <p xml:id="p-39">WNĘTRZE. DZIEŃ. MIESZKANIE DUNINÓW. SYPIALNIA AGNIESZKI I KASI. AGNIESZKA, ŁUKASZ. KASIA.</p>
+        <p xml:id="p-40">Agnieszka i Łukasz namiętnie dyskutują nad łóżeczkiem Kasi. Może do poprzecinania zbliżeniami obserwującej ich (lub czasem znudzonej) Kasi.</p>
+        <p xml:id="p-41">AGNIESZKA</p>
+        <p xml:id="p-42">INTENSYWNIE</p>
+        <p xml:id="p-43">Tak, zdjęłam te książki z półki, żeby sobie poczytać, ale ledwo zajrzałam... Łukasz, ja się do tego nie nadaję! Nie nadaję się do bycia studentką!!! Już za późno.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

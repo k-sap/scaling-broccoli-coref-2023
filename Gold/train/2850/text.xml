@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">ANDRZEJ: W tej szkole Tusia jest wśród swoich Ø. Czuje jakąś podskórną więź z innymi. Opowiada nam o innych dzieciach. Myślę, że to, co wybraliśmy, jest najbardziej wartościowe. Najważniejsze, że jest jej tam dobrze. Postaw się w jej sytuacji w klasie integracyjnej. Jesteś w obcym środowisku - w obcym mieście albo za granicą... Musisz udawać, że wszystko rozumiesz.</p>
+        <p xml:id="p-2">A.S.: Tak, ja czasem udaję wspólnotę, której nie czuję.</p>
+        <p xml:id="p-3">ANDRZEJ: A dzieci mają skłonność do segregacji, do podziału: "swój" - "obcy". Dzieci dzielą się na osobne podwórka, a co dopiero na poziomy rozumienia. Wszystko jest w porządku, kiedy dzieci są małe. Na poziomie przedszkola nie było żadnych problemów.</p>
+        <p xml:id="p-4">A.S.: Mam poczucie, że nasz wybór integracji dla Celi to nie był wybór najlepszego rozwiązania, tylko najlepszego z możliwych Ø w Warszawie. Najlepsza mogłaby być osobna szkoła dla dzieci z zespołem Downa, jak w Anglii, albo mieszana, częściowo specjalna, częściowo integracyjna, jak w Izraelu. W takich szkołach ćwiczy się przede wszystkim umiejętności językowe - wymowę i wypowiadanie się, oraz czynności praktyczne, program z matematyki jest ograniczony, a inne przedmioty są częściowo do wyboru. Może uznałabym za najlepszą taką właśnie szkołę, gdyby istniała u nas. Wybrałabym integrację dla Celi nie z powodu rodzicielskich ambicji, ale dlatego żeby nie zmarnować jej gotowości do uczenia się. Powiedziałaś, Ewo, że "wykształcenie osoby z Downem nie przekłada się na życie". To prawda. Nasze dzieci najprawdopodobniej nie znajdą pracy, a do warsztatów terapii zajęciowej wykształcenie nie jest potrzebne. Ale czy z tego należy wyciągnąć wniosek o zbędności kształcenia naszych dzieci? Może warto kształcić "Downy" jak najdłużej, bo przecież nie mają się do czego spieszyć w życiu.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

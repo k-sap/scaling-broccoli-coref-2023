@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Wiele wysiłku wkładają również w to, aby otrzymane wsparcie nigdy nie pachniało łapówką. Pieniądze płyną wyłącznie z kieszeni obywateli amerykańskich, przeciętnie 80 tys. dol. od każdej prywatnej osoby, która decyduje się na wspieranie wybranych przez siebie partii lub polityka. Również te dotacje mieszczą się w granicach dozwolonych prawem. Izrael nie dokłada grosza, ponieważ byłoby to sprzeczne z przepisami regulującymi działalność rozmaitych lobby w Waszyngtonie.</p>
+        <p xml:id="p-2">Nikt nie obliczył dokładnie, jakie sumy zainwestował dotychczas AIPAC, wespół z innymi organizacjami żydowskimi, w utrzymywanie polityki amerykańskiej na właściwym kursie. Nie ulega jednak wątpliwości, że była to inwestycja opłacalna. Abstrahując od wsparcia, jakiego Ameryka udziela Izraelowi na arenie międzynarodowej, a szczególnie na forum ONZ, bezpośrednia pomoc finansowa na cele gospodarcze i wojskowe wyniosła od powstania państwa żydowskiego ponad 165 mld dol. Izrael wciąż jeszcze otrzymuje z kasy waszyngtońskiej 3 mld dol. rocznie, stanowiące jedną szóstą kwoty, jaką Kongres zatwierdza na cele światowej pomocy zagranicznej.</p>
+        <p xml:id="p-3">Modus operandi AIPAC nie ogranicza się do smarowania kół Kongresu i Senatu. Polega on również na utrzymywaniu ścisłych kontaktów z decydentami w Waszyngtonie. Wielokrotnie udowadniano, że jak AIPAC chce, to AIPAC może. Setki zatrudnionych na stałe analityków politycznych oraz doświadczonych fachowców PR wie dokładnie (często lepiej od kongresmanów i senatorów), co dzieje się w kuluarach władzy.</p>
+        <p xml:id="p-4">Najlepiej tłumaczy to, w książce Johna J. Mearsheimera i Stephena M. Walta "Lobby Izraela i Polityka Zagraniczna USA", lobbysta Douglas Bloomfield: "nie jest tajemnicą, że liczni reprezentanci obu izb, lub ich personel, zwracają się do AIPAC, gdy poszukują potrzebnych im wewnętrznych informacji; wiadomo także, że specjaliści proizraelskiego lobby pomagają senatorom w pisaniu przemówień lub redagowaniu uwag do ustaw, dotyczących stosunków amerykańsko-izraelskich, a także oferują pomoc w znalezieniu sponsorów kosztownych kampanii wyborczych".</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

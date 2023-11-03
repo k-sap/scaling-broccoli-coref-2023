@@ -1,0 +1,14 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Pol miał już wtedy przeszło sześćdziesiąt lat, ja czterdzieści pięć, ale oboje czuliśmy się jeszcze w pełni sił, zdrowi, szczęśliwi. Pobraliśmy się dopiero przed sześciu laty, po śmierci jego pierwszej żony, którą znałam od dawna i bardzo kochałam, tak jak i całą jego liczną i piękną pod każdym względem rodzinę.</p>
+        <p xml:id="p-2">Bieg zdarzeń zaskoczył nas, podobnie jak całą Polskę, całkowicie. Wierzyliśmy naiwnie w pakty o nieagresji i w niewątpliwą pomoc Anglii i Francji.</p>
+        <p xml:id="p-3">Wyszliśmy z domu nagle odmienionego, bezładnego po tej gorączkowej krzątaninie. A w parku tak cicho. Świeci słońce, łabędzie pływają po stawie. Kwiaty na klombach jeszcze w pełni barw, gdzieniegdzie tylko zeschłe liście szeleszczą pod stopami. Mimo spokoju i pozorów bezpieczeństwa czujemy zbliżającą się burzę. Ostatnie chwile wolności i szczęścia tak wyraźnie człowiek sobie uświadamia. Tylko nie można tego uczucia komuś innemu przekazać. Szliśmy więc bez słów, oglądając się czasem na dom. Ludzi nie widać, jakby wszystko zamarło w oczekiwaniu. Ale napięta uwaga wyławiała z tej ciszy zbliżający się stukot końskich kopyt, warkot ciężarówek. Już są! Zawróciliśmy do domu. Chory, wzburzony Sieroża, z oczami błyszczącymi od gorączki wyszedł nam naprzeciw. Coraz silniej zaczynam odczuwać zaciskającą się pętlę. Sieroża i Pol usiedli, a ja zaczęłam zbierać porozrzucane rzeczy. Niech będzie porządek. Nikt nie uciekł. Dom zamieszkały i spokojny. Przerażona, drżąca niania pomaga mi sprzątać z tarasu dziecięce zabawki. Ciepło jak w lecie, wszystko zalane słońcem.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

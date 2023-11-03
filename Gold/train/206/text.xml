@@ -1,0 +1,19 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Sprawa jest rozwojowa. W tym tygodniu w zalewie znaleziono kilka fragmentów ciała należącego najprawdopodobniej do Eugeniusza Wróbla. Policjanci nadal badają inne wątki. Jeden z najpoważniejszych dotyczy tego, czy w ukryciu ciała pomagał ktoś trzeci. Tym tropem niezależnie idzie także detektyw Andała.</p>
+        <p xml:id="p-2">Współpraca: Aleksander Król</p>
+        <p xml:id="p-3">Od poszukiwań do zbrodni</p>
+        <p xml:id="p-4">59-letni Eugeniusz Wróbel został bestialsko zamordowany przez swojego syna, Grzegorza W. w ubiegły piątek - uważa prokuratura.</p>
+        <p xml:id="p-5">Z dotychczasowych ustaleń wynika, że podczas kłótni w domu rodzinnym przy ulicy Hibnera w Rybniku 30-latek zabił ojca, a potem poćwiartował jego zwłoki, zapakował w rolki tapet, wywiózł nad Zalew Rybnicki i porzucił w wodzie. Zaginięcie męża zgłosiła policji w piątek żona b. wiceministra Lidia. Jej mąż wyszedł z domu ubrany w lekki polar, bez dokumentów, telefonu, a nawet bez obrączki. Rodzina wyznaczyła 10 tysięcy złotych nagrody za pomoc w odnalezieniu Eugeniusza Wróbla. W sobotę od rana w całym Rybniku harcerze, żeglarze i znajomi Wróblów rozwieszali plakaty z jego zdjęciem i prośbą o pomoc. Jednak gdy drobiazgowo zaczęto zbierać informacje, okazało się, że ostatnią osobą, która widziała żyjącego Eugeniusza Wróbla był jego syn Grzegorz.</p>
+        <p xml:id="p-6">Został mu postawiony zarzut popełnienia zabójstwa. Grozi mu dożywocie. Trafił do aresztu.</p>
+        <p xml:id="p-7">Kim był Eugeniusz Wróbel?</p>
+        <p xml:id="p-8">Prawdziwą karierę polityczną rozpoczynał w 1990 roku - wówczas został wicewojewodą katowickim.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

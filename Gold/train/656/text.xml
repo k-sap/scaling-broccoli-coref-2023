@@ -1,0 +1,25 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Szanuję cudze poglądy i tego oczekuję od innych względem siebie. Nie lubię mówić tego, czego ktoś oczekuje, a ja do tego nie jestem przekonany. Na niezależność poglądów pozwalał prof. Zachariasiewicz, polonista w LO im. Bolesława Chrobrego. Bardzo to sobie ceniłem.</p>
+        <p xml:id="p-2">Przełamać bariery</p>
+        <p xml:id="p-3">Studia na Uniwersytecie Jagiellońskim nauczyły mnie umiejętności znalezienia się w środowisku dość hermetycznym. Nie powiem, by było łatwo w krakowski świat wejść ludziom z małego miasta, ale udało się.</p>
+        <p xml:id="p-4">Z czasu studiów pamiętam przede wszystkim wykłady z niezwykłymi ludźmi ze świata, jak np. prof. Estreicher, wiecznie zabiegany i notorycznie spóźniający się na zajęcia. Kiedyś wpadł do sali i zaczął mówić o Pompejach. Usłyszeliśmy tylko: „Wyobraźcie sobie: wybuch, lawa, pył... Wszystko opadło, zakonserwowało... Resztę sobie przeczytajcie”. I już go nie było.</p>
+        <p xml:id="p-5">Szkoda, że Ø ojciec nie dożył</p>
+        <p xml:id="p-6">Żałuję tylko jednego: że nie ma już Ø dziadka i że Ø ojciec nie dożył mojej nominacji na stanowisko dyrektora Muzeum Zamkowego. Zawsze marzył, żebym zasiadł w gabinecie Ø dziadka.</p>
+        <p xml:id="p-7">W dzieciństwie bałem się ...</p>
+        <p xml:id="p-8">... ciemności, zwłaszcza po obejrzeniu horroru.</p>
+        <p xml:id="p-9">Dziś boję się...</p>
+        <p xml:id="p-10">... nudy.</p>
+        <p xml:id="p-11">W dzieciństwie wierzyłem...</p>
+        <p xml:id="p-12">... w krasnoludki (do dziś lubię fantastykę).</p>
+        <p xml:id="p-13">Dziś wierzę...</p>
+        <p xml:id="p-14">... że będzie lepiej.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

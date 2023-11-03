@@ -1,0 +1,20 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">qwerty_lol A czemu niby tam?? skoro jest dział gdzie mozna zamieszczac tutk.</p>
+        <p xml:id="p-2">Rainingman Takie tematy już są.</p>
+        <p xml:id="p-3">angel Można pisać tutoriale - w dziale tutoriale ;] w czym problem?</p>
+        <p xml:id="p-4">qwerty_lol nie jestem pewny czy moje sposoby sa legalne, raczej ten Ø z wrzuta. bo Ø z google calkowicie legalny. AHA! I zaówarzylem ze gdy chce napisac tutka to wyskakuje informacja iz nie mam uprawnien by pisac tutki.</p>
+        <p xml:id="p-5">Centurio-X w dziale tutoriale są tutki dotyczące forum</p>
+        <p xml:id="p-6">qwerty_lol CYTAT(Centurio-X @ 27.12.2007, 11:58) "w dziale tutoriale są tutki dotyczące forum" Oczywiście VIP wie lepiej nigdy w dziale TUTORIALE nie był ale wie. To powiedz jaki związek z forum ma np. ten tutek: CYTAT "[tutorial] jak ominąć Beniamina (Opiekuna szkolnego)" lub CYTAT "[tutorial] pobieramy pliki z kont pocztowych ...za pomoca programu typu P2Mail" I co?? No to jak mogę napisać te tutki?? A i wracam do poprzedniego problemu, czemu nie mogę pisać tematów w dziale z tutami??</p>
+        <p xml:id="p-7">Rainingman To napisz Ø obojętnie gdzie i poproś o przenoszenie Ø - dogadaj się z moderatorem - układ!</p>
+        <p xml:id="p-8">qwerty_lol No spoko. Dzięki.</p>
+        <p xml:id="p-9">Severusa Przeciez jest specjalny temat! A tam dokładnie opisane jak tutoriala stworzyć! Robisz Ø, ma być czytelny, najlepiej z obrazkami (dla tych co literki nie teges) i zamieszczasz Ø w dziale forum testowe. Informujesz o tym jakiegoś global moda (na pw lub raportem) i jeżeli ten uzna, ze jest w porządku przenosi Ø do tutoriali.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

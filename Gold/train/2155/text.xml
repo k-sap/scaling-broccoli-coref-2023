@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Im krótszy sygnał CAS, tym krótszy jest czas losowego dostępu do danych zapisanych w pamięci, a procesor mniej czasu traci na oczekiwanie na potrzebne mu dane. Ustawienie zbyt krótkiego czasu CAS bardzo szybko powoduje jednak bardzo poważne przekłamania danych. Ten parametr powinien być jednym z pierwszych skracanych, ale zawsze jego zmiana powinna być zweryfikowana testem programu Memtest86; jest to też podstawowy cykl pracy pamięci, który należy wydłużyć, gdy komputer odmawia posłuszeństwa, a test Memtest86 wykazuje przekłamania danych zapisanych w pamięci.</p>
+        <p xml:id="p-2">Dla pamięci SDR SDRAM typowe czasy trwania sygnału CAS to 2 lub 3 takty zegara taktującego moduły pamięci (66 MHz, 100 MHz lub 133 MHz; CAS 2 jest szybszy), a dla pamięci DDR SDRAM typowe czasy trwania sygnału CAS to 2, 2,5 lub 3 takty zegara taktującego moduły pamięci (100 MHz, 133 MHz, 166 MHz lub 200 MHz; CAS 2 jest najszybszy).</p>
+        <p xml:id="p-3">- Bank Interleave - kontrola przeplotu banków pamięci.</p>
+        <p xml:id="p-4">Każdy nowoczesny układ pamięci SDRAM ma w swojej strukturze krzemowej wydzielone cztery wewnętrzne banki odświeżania. Stosowanie przeplotu 2- lub 4-bankowego poprawia wydajność komputera poprzez naprzemienne używanie banków - w ten sposób bank czekający na odświeżenie wiersza pamięci nie powoduje zablokowania możliwości dostępu do pamięci. Przeplot banków zwiększa jednak wymagania wobec układów pamięci i w przypadku bardzo intensywnego zwiększania częstotliwości taktowania pamięci może być konieczne ograniczenie go do trybu dwubankowego lub całkowite wyłączenie (Disabled). W takim przypadku sprawdź jednak, czy zysk wydajności wynikający z większej częstotliwości taktowania pamięci lub magistrali nie jest niwelowany przez spadek wydajności wynikający z wyłączenia przeplotu banków pamięci.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

@@ -1,0 +1,37 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">sp0: a inną no to ja mam bardzo dużo książek</p>
+        <p xml:id="p-2">sp1: no ja wiem przysłali ci</p>
+        <p xml:id="p-3">sp0: no no chodziłam na te konferencję ale no na przykład to do matury no do matury to ja nie mam za bardzo książek. to wiesz co to muszę z neta jakieś zadania wymyślać bo poszukać. co tam jest ?</p>
+        <p xml:id="p-4">sp1: pet</p>
+        <p xml:id="p-5">sp0: no nie</p>
+        <p xml:id="p-6">sp1: ktoś nie trafił do kosza</p>
+        <p xml:id="p-7">sp0: może a właśnie też na konferencję jedną zapisałam się już</p>
+        <p xml:id="p-8">sp1: jaką ?</p>
+        <p xml:id="p-9">sp0: dwudziestego drugiego kwietnia. z makmilana</p>
+        <p xml:id="p-10">sp1: co to jest ?</p>
+        <p xml:id="p-11">sp0: wydawnictwo dostanę jakieś książki będzie poczęstunek yyy w prezencie elegancki długopis i notes</p>
+        <p xml:id="p-12">sp1: uhm</p>
+        <p xml:id="p-13">sp1: super</p>
+        <p xml:id="p-14">sp0: w czwartek akurat no to mam wolne to mogę się przejść miałam iść teraz w sobotę ale nie miałam czasu. znaczy tydzień temu. nie no zawsze książka się przyda jak się nie przyda to można sprzedać nie ?</p>
+        <p xml:id="p-15">sp1: no. ja ci wystawię na alegro pobieram dwadzieścia procent od sprzedaży</p>
+        <p xml:id="p-16">sp0: ile ! ?</p>
+        <p xml:id="p-17">sp1: dwadzieścia procent</p>
+        <p xml:id="p-18">sp0: dlaczego tak dużo ?</p>
+        <p xml:id="p-19">sp1: no a kto będzie gadał z tymi kontrahentami ? sam jak to ten zależy co sprzedajesz. i piszą ci na gadu i dzwonią i kurcze milion głupich pytań zadawają</p>
+        <p xml:id="p-20">sp0: ja sobie sama sprzedam Ø tata ma konto też</p>
+        <p xml:id="p-21">sp1: uhm. nikt od ciebie nie kupi bo nie masz nic ten. mało punktów</p>
+        <p xml:id="p-22">sp0: nie no nie chcę na razie sprzedawać żadnych książek mogą się przydać</p>
+        <p xml:id="p-23">sp1: no jasne</p>
+        <p xml:id="p-24">sp0: Ø mama się pytała gdzie chce mieszkać po wakacjach</p>
+        <p xml:id="p-25">sp1: no i co jej powiedziałaś ?</p>
+        <p xml:id="p-26">sp0: że nie wiem</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

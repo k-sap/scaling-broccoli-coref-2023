@@ -1,0 +1,17 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Podstawową tezą encykliki była godność pracy i jej podmiotowy charakter, z czego wypływa "Konieczność uznania właściwej pozycji pracy i człowieka pracy w procesie produkcji". Wyrazem tego jest program uwłaszczenia robotników, wprowadzenie demokracji przemysłowej i prawnie utrwalonej samorządności zespołów roboczych. Są to postulaty wystarczająco konkretne, by móc uznać istnienie katolickiej teorii społecznej.</p>
+        <p xml:id="p-2">Ważnym świadectwem konstruowania Trzeciej Drogi chrześcijańskiej są dwa dokumenty watykańskiej Kongregacji Nauki Wiary: Instrukcja o niektórych aspektach tzw. Teologii Wyzwolenia oraz Instrukcja o chrześcijańskiej wolności i wyzwoleniu (które dalej zwiemy: Instrukcja 84 i Instrukcja 86).</p>
+        <p xml:id="p-3">Pierwszy dokument był przede wszystkim krytyką tych nurtów myślenia środowisk katolickich, które zawierają "szkodliwe dla wiary i życia chrześcijańskiego dewiacje", albowiem odwołują się bez należytego krytycyzmu do "pojęć zapożyczonych z różnych kierunków myśli marksistowskiej".</p>
+        <p xml:id="p-4">Zarazem jednak Instrukcja 84 określała jako skandal rażące i pogłębiające się nierówności pomiędzy bogatymi i ubogimi.</p>
+        <p xml:id="p-5">"W niektórych rejonach Ameryki Łacińskiej zagarnięcie większości bogactw przez oligarchię właścicieli, pozbawioną sumienia społecznego, niemal całkowita nieobecność i niedowład państwa opartego na prawie, dyktatury wojskowe urągające elementarnym prawom człowieka, korupcja niektórych osób sprawujących władzę, pewne bezwzględne posunięcia zagranicznego kapitału to czynniki podsycające gwałtowną postawę buntu u tych, którzy czują się bezsilnymi ofiarami nowego kolonializmu typu technologicznego, monetarnego lub ekonomicznego".</p>
+        <p xml:id="p-6">Jasne i bez ogródek wypowiedziane potępienie zarówno wszelkich metod przemocy, jak i totalitaryzmu ateistycznego (czyli komunizmu) było zarazem siłą i słabością Instrukcji 84. Siłą - bo przeciwstawiała się iluzjom licznych rewolucjonistów (i księży) latynoskich, którzy siedziby Wielkiego Szatana doszukują się tylko na Zachodzie. Słabością - bo nie odpowiadała tymże rewolucjonistom (i księżom) na pytanie dla nich zasadnicze: skoro nie przemocą, to jak inaczej zmusić skorumpowanych dyktatorów i właścicieli zagarniętych bogactw do respektowania elementarnych praw ludu?</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

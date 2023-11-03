@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Nikt nie wyobrażał sobie, jak potoczą się dalsze losy Żydów. Każdy się łudził, że stosunki jakoś się ułożą. Wielu sądziło, że rzeczą najważniejszą to mieć pieniądze. Za nie można wszystko osiągnąć - żyć spokojnie i nie wadzić nikomu. Pecunia non olet obowiązuje przecież w każdej sytuacji i pod tym względem Niemcy nie będą wyjątkiem. Nikt, dosłownie nikt nie przypuszczał, że już najbliższe miesiące przyniosą tak tragiczne wydarzenia, które zapoczątkują zagładę milionów istnień ludzkich. O tym jednak nie myślano jeszcze w listopadzie 1939 r. Raczej czyniono wszystko, aby zabezpieczyć sobie egzystencję. Również moja uwaga zaprzątnięta była tą sprawą. Trzeba było szukać możliwości zarobku, aby zabezpieczyć względnie skromny byt trzem osobom - staremu ojcu, sobie i młodszemu bratu. Kontynuowałem więc, na własną rękę, handel futrami. Wobec szerzących się niemieckich rekwizycji kupcy towar ukrywali i kontaktowali się jedynie z osobami zaufanymi. Handel odbywał się w sposób konspiracyjny. Ja, będąc dobrze zorientowany w tej branży, robiłem niezłe interesy i w stosunkowo krótkim czasie dorobiłem się poważnego kapitału. Poruszanie się po mieście, i to jeszcze z towarem tak cennym, było bardzo utrudnione i niebezpieczne.</p>
+        <p xml:id="p-2">Uliczne łapanki Żydów do pracy były na porządku dnia i nigdy nie wiadomo było, gdzie czekają na ciebie hitlerowskie hycle. Należało tak lawirować, aby nie dostać się do nazistowskich łap, zwłaszcza wówczas, gdy miało się przy sobie cenne pakunki. Takie wypadki, niestety, się zdarzały.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

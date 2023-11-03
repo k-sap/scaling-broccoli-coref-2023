@@ -1,0 +1,14 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Przecierając ze zdumienia oczy czytałem zamieszczony w "Czasie Ostrzeszowskim" artykuł "Bunt w AMI". Czytając ten artykuł w pierwszym rzędzie spojrzałem na datę, kiedy wydano gazetę, myśląc, że jest to wydanie sprzed grubo ponad stu lat. Bo w czasie nieco późniejszym organizacje pracownicze walczyły już o ośmiogodzinny czas pracy, stąd moje przypuszczenia, że czytam gazetę sprzed bardzo dawna. Dziwię się właścicielom firmy, że oto w czasie, kiedy zaczyna brakować rąk do pracy, oni wciąż trwają w okresie wielkiego bezrobocia.</p>
+        <p xml:id="p-2">Być może są przekonani, że jeśli nie Polacy, to inna nacja pracownicza potrafi zaspokoić ich żądze pieniądza. Jestem ciekawy, czy zjawiskiem tym zajęła się miejscowa prokuratura?. Przecież, jeśli opisana sprawa jest prawdą, to niewątpliwie doszło do złamania praw pracowniczych, których ochronę gwarantuje im Konstytucja RP, Konwencja o ochronie praw człowieka i podstawowych wolności (dla przypomnienia miejscowej prokuraturze Polska podpisała ją 26 listopada 1991r., a ratyfikowała 19 stycznia 1993r.), oraz Kodeks Pracy.</p>
+        <p xml:id="p-3">Moim skromniutkim zdaniem opisana sytuacja to czysty mobbing i nie tylko. Konstytucja mówi, że "Rzeczpospolita Polska jest demokratycznym państwem prawnym" czy aby na pewno, jeśli na jej terytorium może dochodzić to takich ekscesów. Jestem ciekawy, czy nasi stróże prawa podjęli już czynności sprawdzające z urzędu? Pewnie nie, bo przecież po co? Bo nawet gdy przymuszeni, czynności te podjęli, to i tak pewnie nic nie stwierdzą, bo, jak donosiła ostatnio prasa w sprawie mobbingu w naszym Urzędzie Skarbowym, przesłuchiwano świadków hurtem (po dwie naraz), pewnie dlatego, by onieśmieleni ludzie nic nie powiedzieli (rzecznik prasowy Prokuratury Okręgowej tłumaczył ten śledczy fenomen "sytuacją lokalową").</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

@@ -1,0 +1,21 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">- Poznałem Himilsbacha, gdy podczas studiów dziennikarskich zostałem szefem działu publicystyki i reportażu "Nowej Kultury". W kolegiach redakcyjnych uczestniczyli Kruczkowski, Przyboś, Grochowiak, Śliwonik, Czeszko, Żółkiewski i Putrament. Pojawiał się również Himilsbach, który prawie zawsze swoim ochrypłym głosem prosił: "Pożycz paczkę!". Janek idealnie spełniał ówczesne zapotrzebowanie na proletariackich twórców - wspomina Piwowski.</p>
+        <p xml:id="p-2">W redakcji "Nowej Kultury" reżyser "Rejsu" ujawnił już swoje specyficzne poczucie humoru oraz ironię towarzyszącą wszystkiemu, co robił. Oto wywiad, jaki Marek Piwowski przeprowadził w 1961 roku z Armando Hartem Davalosem, ministrem rewolucyjnego rządu Kuby.</p>
+        <p xml:id="p-3">- Kto dziś studiuje na wyższych uczelniach Kuby?</p>
+        <p xml:id="p-4">A.D. - Studiować mogą wszyscy. Przeważa stojąca za rewolucją młodzież pochodząca z warstwy średniej. Organizujemy stypendia dla dzieci pochodzenia robotniczego i chłopskiego. Jest ich na razie jeszcze niewiele, ale procent ten bardzo szybko wzrasta. Poza tym dzieci robotników i chłopów nie mają na ogół odpowiedniego przygotowania do studiów wyższych. Chcemy im pomóc.</p>
+        <p xml:id="p-5">- To się wiąże z reformą szkolnictwa podstawowego i średniego...</p>
+        <p xml:id="p-6">- Oczywiście. Ta sprawa pomyślana jest na bardzo szeroką skalę. Planujemy likwidację analfabetyzmu...</p>
+        <p xml:id="p-7">- W jakim terminie?</p>
+        <p xml:id="p-8">- Do końca bieżącego roku.</p>
+        <p xml:id="p-9">- Na Kubie jest w tej chwili ponad 30 proc. analfabetów?</p>
+        <p xml:id="p-10">- Tak. Bardzo trudno będzie zlikwidować analfabetyzm w tym roku. Ale podaję to na odpowiedzialność Fidela Castro. Obiecał to całemu narodowi. A przecież obiecywał nam rzeczy trudniejsze, które wydawały się nieraz niemożliwe... Jednak udało się je zrealizować.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

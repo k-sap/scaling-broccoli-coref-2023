@@ -1,0 +1,14 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Adam Małysz zachował się na Bergisel identycznie jak w Oberstdorfie i Ga-Pa — leciał stylowo bardzo dobrze, lądował technicznie nienagannie i, niestety, o kilka metrów bliżej od paru rywali... W skokach Polaka czegoś brakuje, ale nikt w naszej ekipie nie może określić co jest tym czymś. A określić trzeba, bo szefostwo Polskiego Związku Narciarskiego jest mocno zaniepokojone postawą naszych skoczków w turnieju i najprawdopodobniej tuż po zakończeniu TCS zażąda wyjaśnień.</p>
+        <p xml:id="p-2">Ale póki co wszyscy żyją konkursem w Innsbrucku. W parze z Hannawaldem wystartuje Austriak Martin Hoellwarth, który wynikiem 130 metrów (134 pkt.) wygrał kwalifikacje. Drugi był Rosjanin Ildar Fatkullin — 127 m i 129,6 pkt. Na trzeciej pozycji uplasował się jego rodak Walery Kobieliew — 130,5 m i 128,4 pkt. Adam Małysz zajął czwarte miejsce, uzyskując za skok na odległość 126 metrów notę 126,8 punktu. Niewiele brakowało, a Innsbruck okazałby się pechowy dla Andreasa Widhoelzla, który miał ogromne problemy w locie, ratował się przed upadkiem i ledwo co awansował do pięćdziesiątki.</p>
+        <p xml:id="p-3">Z Polaków, poza Adamem Małyszem, do piątkowego konkursu awansowali Tomasz Pochwała i Robert Mateja. Pochwała zajął 28. miejsce (121 m i 114,3 pkt.), a Robert Mateja był 44. (115 m i 104 pkt.). Nie udało się Tomisławowi Tajnerowi, który został sklasyfikowany na 76. miejscu (106,5 m/87,2 pkt.) i Wojciechowi Skupniowi — 91. pozycja (89/47,2).</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

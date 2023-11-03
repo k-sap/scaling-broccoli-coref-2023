@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Na domiar złego nigdy nie wyjaśniono, czy prorok Kibwetere zginął w płomieniach wraz z wyznawcami. Nie rozpoznano jego zwłok, a jednego z jego kapłanów widywano potem w Ruandzie i Kenii. Rozesłano za nim listy gończe jak za pospolitym złoczyńcą.</p>
+        <p xml:id="p-2">Lekarze z Kampali przyznali, że prorok Kibwetere leczył się u nich z dręczących go psychoz. Ale jak w przypadku Alicji od Ducha Świętego, zwykli ludzie tłumaczyli sobie choroby nieszczęsnego Kibwetere opętaniem przez ducha. Także Gredonia Mwerinde, niegdyś ulicznica, która przystawszy do proroka, została jego powiernicą i kochanką, utrzymywała, że wstępują w nią duchy Matki Bożej i Michała Archanioła. To one pewnej nocy kazały jej wyrzec się grzechu i słuchać proroka Kibwetere.</p>
+        <p xml:id="p-3">Za zwiastuny końca świata uznawane były też w Ugandzie wielkie powodzie, które coraz częściej dotykały ten kraj. Gdy jedna z powodzi, większa niż inne, nawiedziła kraj Aczolich, w Gulu i Kitgum, natychmiast pojawili się prorocy głoszący, że jest ona w istocie potopem, po którym nastąpi koniec świata.</p>
+        <p xml:id="p-4">Powódź była rzeczywiście wyjątkowo groźna. Pół miliona ludzi straciło dach nad głową. Rząd wprowadził stan wyjątkowy. Także po to, by pieniądze, zapisane już w budżecie na inne potrzeby, przeznaczyć na pomoc powodzianom. Pod wodą znalazły się pastwiska, poletka manioku, sorgo i orzeszków ziemnych. Tuż przed nadejściem potopu ludzie zdążyli co prawda zebrać plony, ale większość ich woda zabrała, a to, co udało się ocalić, marniało, bo chłopi nie mogli dotrzeć na targ. Ulewne deszcze, padające nieprzerwanie przez dwa miesiące, sprawiły, że drogi, którymi jeździli dotąd ciężarowymi samochodami, traktorami i rowerami, zamieniły się w wartkie, niebezpieczne strumienie. Można się teraz było poruszać nimi na łodziach. By wydostać się z niektórych wiosek, trzeba było brnąć kilometrami przez wodę.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

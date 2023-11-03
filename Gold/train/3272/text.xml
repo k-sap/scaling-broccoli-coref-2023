@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">W przypadku pandemii często sam wirus grypy powoduje również zapalenia płuc i mózgu, które są przyczyną znacznej liczby zgonów. Jeśli wirus jest mniej zjadliwy, grypa zagraża głównie życiu małych dzieci i osób w podeszłym wieku, a także szczególnie osłabionych. Może jednak prowadzić do schorzeń neurologicznych oraz zaostrzać objawy chorób przewlekłych - cukrzycy, chorób serca, nerek i układu oddechowego. Choć nie udowodniono, by wirus grypy uszkadzał płód, może ułatwić inne, niebezpieczne dla dziecka infekcje.</p>
+        <p xml:id="p-2">O ile bakteryjne powikłania grypy można wyleczyć antybiotykami, o tyle wirus grypy, jak wszystkie wirusy, wcale się ich nie boi. Dlatego leczenie grypy polega w zasadzie na leżeniu w cieple, unikaniu wysiłku, przyjmowaniu aspiryny i witamin, popijanych ciepłymi płynami. Istnieją wprawdzie środki przeciwwirusowe, jak amantadyna, rymatadyna czy rybawiryna, które przerywają cykl życiowy wirusa, ale ich stosowanie jest kłopotliwe, skuteczność ograniczona, a cena bardzo wysoka. W Polsce tym wyższa, że trzeba je sprowadzać na indywidualne zamówienie.</p>
+        <p xml:id="p-3">Strach przed nową pandemią</p>
+        <p xml:id="p-4">W roku 1997 wiele wskazywało na to, że pojawił się szczególnie groźny wirus grypy. Osiemnastu pracowników zatrudnionych na fermach drobiu w południowych Chinach zaraziło się podtypem wirusa spotykanym dotąd wyłącznie u ptaków. Sześć osób zmarło. Władze w obawie przed wybuchem epidemii podjęły drastyczne kroki - miliony kurcząt zabito, a ich ciała zniszczono. Jak się później okazało, była to reakcja przesadna, ten typ wirusa bowiem nie przenosi się z człowieka na człowieka, nie można się nim również zarazić, spożywając mięso kurczaków. Cała ta historia uświadamia jednak, jak bardzo świat boi się nowej pandemii grypy.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

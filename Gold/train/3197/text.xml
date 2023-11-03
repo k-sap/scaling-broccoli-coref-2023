@@ -1,0 +1,21 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">sp2: aha myślałam że znamy. no</p>
+        <p xml:id="p-2">sp1: no i. mm. no i wiesz no i później jak zerwali. to mu odbiło nie</p>
+        <p xml:id="p-3">sp0: właśnie i kurwa. andro mi to mówiła że. z Alkiem. oni kurwa założyli. ja z tego tak się podśmie znaczy pośmiewywałam</p>
+        <p xml:id="p-4">sp2: a to to co mieli opis na ?</p>
+        <p xml:id="p-5">sp0: tak</p>
+        <p xml:id="p-6">sp2: ?</p>
+        <p xml:id="p-7">sp0: tak tak. to też uśnierz podobno to miał to nie wiem</p>
+        <p xml:id="p-8">sp2: aha</p>
+        <p xml:id="p-9">sp0: i że ja się potem z nich śmiałam i z tym uśnierzem coś zrobiłam że mówię kurna ten gościu w w ogóle tak. bo bo. jakoś tak się z nim pokłóciłam i niby było tak na żarty że coś tam ten ale. ale wtedy ja jakoś tak powiedziałam no tak bo wy kurwa jesteście tam jakimiś gościami co nie szukają laski na stałe i. znaczy wiesz. nie to że. yy. kurwa ja się z tego śmieje bo. bo. kurwa bo ja potrzebuję facetów którzy kurwa będą chcieli no takie żałosne nie że oni kurwa</p>
+        <p xml:id="p-10">sp2: no ta. ale ja mu też kiedyś coś o tym powiedziałam bo się skapnęłam i mówię. to co. że. właśnie nie wiem czy to nie było na. a nie to było chyba na gadu. mówię że sory nie wierzę w takie pierdolenie bo to jest takie pierdolenie o Szopenie tak mówię spotkacie laskę kurwa w której się zakochacie no to kurwa. akurat będzie. nie nie. dziękuję. czekam do trzydziestki no. jasne</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

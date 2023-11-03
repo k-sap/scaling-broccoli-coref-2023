@@ -1,0 +1,18 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Andropauza ma ujemny wpływ na stan psychiczny i fizyczny mężczyzn. W Polsce przypadłość ta traktowana jest jako zespół normalnych objawów związanych ze starzeniem się. Mało kto wie, że dolegliwości związane z męskim przekwitaniem można skutecznie leczyć.</p>
+        <p xml:id="p-2">tarzejący się mężczyźni podlegają różnym zmianom hormonalnym. Z wiekiem znacznemu obniżeniu ulega poziom męskich hormonów - androgenów. Zespół objawów, które zwykle określa się terminem andropauza lub częściowy niedobór androgenów u starzejących się mężczyzn, może występować już od ok. 50 roku życia.</p>
+        <p xml:id="p-3">Andropauza charakteryzuje się szeregiem objawów, takich jak np. nerwowość, zaburzenia pamięci, pogorszenie zdolności kojarzenia. Starzejący się mężczyźni doświadczają także problemów w życiu seksualnym - zarówno w aspekcie psychicznym jak i fizycznym.</p>
+        <p xml:id="p-4">- Niedobór androgenów u starzejącego się mężczyzny odbija się na jego stanie psychicznym i fizycznym - mówi doc. dr hab. med. Marek Mędraś z Polskiego Towarzystwa Andrologicznego. - Zaburzenia erekcji dotykają około 46 proc. mężczyzn pomiędzy 45. a 59. rokiem życia.</p>
+        <p xml:id="p-5">Dolegliwości związane z andropauzą obniżają jakość życia zarówno samych mężczyzn, jak i ich partnerek.</p>
+        <p xml:id="p-6">- Mężczyźni w średnim wieku na ogół niechętnie zgłaszają się do lekarza, często skłaniają ich do tego żony. Również inicjowanie leczenia andropauzy, co jest swoistym paradoksem, leży przede wszystkim w ich rękach - podkreśla doc. Mędraś.</p>
+        <p xml:id="p-7">Niewiele osób zdaje sobie sprawę, że dolegliwości związane z niedoborem androgenów można złagodzić stosując substytucję hormonalną, która obejmuje podawanie preparatów testosteronu. Celem terapii jest przywrócenie prawidłowego funkcjonowania seksualnego i dobrego samopoczucia.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

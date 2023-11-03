@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Na jakość pracy duszpasterskiej plebanów z okolic Nowego Miasta Korczyna mógł jednak pozytywnie wpływać fakt, że w XIV wieku rodowe i ekonomiczne powiązania sprowadzały tu krakowskich biskupów: Jana Grotowica z rodu Rawitów i Jelitczyka Floriana z Morska, a wykształcony Jan Radlica, niegdyś nadworny lekarz ojca królowej Jadwigi, zanim został biskupem, piastował godność rektora kościoła w Korczynie (Starym). Hierarchowie chociażby poprzez rodzinne kontakty i rozmowy mieli możność lepszego poznania zarówno życia religijnego wiernych, jak i pracy duchownych na tym terenie, mogli też w nie bezpośrednio ingerować. Biskup Jan Grot wspomógł materialnie ubogą parafię w Świniarach, przyznając jej dziesięcinę z wsi Włosnowice, Parchocin i będącego częścią Piestrza folwarku Kruszyce, prawdopodobnie dzisiejszej Trzebicy. Właścicielem Świniar i opiekunem tamtejszego kościoła był wówczas współrodowiec biskupa Rawita Warsz z Michowa. Ale zdarzały się też mało budujące epizody z udziałem hierarchów. W należącej do krakowskiego biskupstwa Dobrowodzie był dwór, gdzie dostojnicy mogli spędzać więcej czasu, co zaowocowało graniczącym z plotką, a niemożliwym do zweryfikowania przekazem Janka z Czarnkowa o skandalicznych okolicznościach śmierci biskupa Zawiszy z Kurozwęk.</p>
+        <p xml:id="p-2">Poprzez familijne koneksje na umysły mieszkańców kasztelanii wiślickiej mogli również oddziaływać wykształceni i obyci w świecie duchowni niższej rangi. Uniwersytety w Padwie i Bolonii znali Jan Naszan Śmiłowic z Ostrowiec i Siegniew z Gręboszowa. Jan Pakosławic ze Strożysk, choć człowiek świecki, posłował nieraz do Stolicy Apostolskiej, która znajdowała się wtedy w Awinionie, i współpracował z wysłannikami papieża zbierającymi świętopietrze, zaś jego bracia piastowali godności w kolegiacie wiślickiej. W literaturze naukowej stwierdzono kult świętej Małgorzaty pielęgnowany w jego rodzinie, co mogło mieć korzenie w duchowości księżnej Kingi. Wykształcenie i szerokie kontakty tych synów drobnych rycerzy niewątpliwie imponowały ich ziomkom i przekładały się w jakiejś mierze na poszerzenie horyzontów środowisk, z których się wywodzili.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

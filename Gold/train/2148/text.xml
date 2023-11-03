@@ -1,0 +1,16 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Powoli zbliżamy się do końca rozdziału, ale zanim to nastąpi - musisz zapoznać się z Narzędziami, dzięki którym dostosujesz funkcjonowanie przeglądarki do własnych potrzeb. Pełne zrozumienie Opcji internetowych, o których będzie tutaj mowa, może sprawić Ci nieco trudności, dlatego chciałbym, żebyś na początku zbytnio się nimi nie przejmował. Praktyczna praca z przeglądarką zrobi swoje. Niestety, nie mogę w tym rozdziale opisywać dokładnie sposobów przystosowywania przeglądarki do własnych potrzeb, bo jest ich po prostu zbyt dużo, a większości być może nigdy nie wykorzystasz.</p>
+        <p xml:id="p-2">Pobieranie plików (ang. Download) - w trakcie surfowania po Internecie niejednokrotnie zechcesz pobrać pliki na twardy dysk. Firefox udostępnia Ci okienko, w którym na bieżąco będziesz mógł śledzić postęp ściągania każdego z plików.</p>
+        <p xml:id="p-3">Opcje (ang. Options/Settings) - po kliknięciu w tę pozycję zobaczysz okienko takie jak na rysunku 2.19. Składa się ono z siedmiu sekcji widocznych w górnej części okna.</p>
+        <p xml:id="p-4">Poniżej opisałem ich zakres przystosowalności przeglądarki.</p>
+        <p xml:id="p-5">Główne - wszystkie najważniejsze elementy działania programu są zebrane w tej sekcji. Możesz zmieniać adres strony wyświetlanej zaraz po uruchomieniu przeglądarki (Strona główna), miejsce zapisywania pobieranych plików oraz kontrolę domyślności przeglądarki. Domyślność przeglądarki - w przypadku posiadania kilku programów do przeglądania stron WWW, komputer musi wiedzieć, który z nich ma być tym głównym zarządcą wirtualnych treści, a który tylko dodatkiem do nich.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

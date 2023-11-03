@@ -1,0 +1,14 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Od zmierzchu do świtu, Muzeum Narodowe we Wrocławiu, wystawa czynna do 9 kwietnia 2007</p>
+        <p xml:id="p-2">Jak sprawić, by ci, którzy na co dzień szerokim łukiem omijają zacne muzea sztuki, zechcieli od czasu do czasu przekroczyć ich progi? Jednym ze sposobów jest organizowanie wystaw tzw. lżejszego kalibru, nie wymagających od widza nadmiernie rozbudzonych zamiłowań sztuką. Do takich należy z pewnością zaliczyć najnowszą ekspozycję w Muzeum Narodowym we Wrocławiu zatytułowaną "Od zmierzchu do świtu". Świetnie wpisuje się w trwający karnawał, albowiem dotyczy... balowej mody. Zgromadzono kilkadziesiąt rozmaitych kreacji wieczorowych i dodatków (pantofelki, wachlarze, szale, broszki itd.) powstałych w XIX i XX w. Towarzyszą im grafiki z projektami kostiumów na bale maskowe. Kilka eksponatów to prawdziwe ciekawostki. Na przykład przepiękne XIX-wieczne krynoliny lub suknia wieczorowa uszyta w latach 40. ubiegłego stulecia z jedwabnych szlafroków, które nadeszły do Polski w paczkach UNRRY. Jest też suknia ze sznurka, zrobiona w latach 30., która wraz z jej właścicielką zawędrowała aż na Syberię. Tam przez kilka lat, po kawałku, pruta była na nitki do cerowania, a gdy powróciła do kraju, okazało się, że świetnie nadaje się do noszenia, bo... zapanowała moda na mini.</p>
+        <p xml:id="p-3">Wprawdzie do przepychu i fantazji weneckich czy brazylijskich karnawałowych strojów bardzo nam daleko, to jednak i ta wystawa daje ciekawy ogląd przemian tzw. kultury materialnej, gustów i obyczajów ostatnich 200 lat. A przy okazji może okazać się źródłem nieocenionej inspiracji dla tych, którzy w najbliższym czasie wybierają się na wystawny bal i chcieliby zaprezentować się na nim oryginalnie.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

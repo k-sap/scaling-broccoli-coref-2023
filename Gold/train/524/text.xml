@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Boguś lubi przed zaśnięciem przeciągać rozmowę - jak było dawniej, w deszcz, w zimie, w motelu. To rozładowuje. Czasem śni się Bogusiowi Jadźka. Piękna, chętna. Ona słyszy w nocy, jak on mówi przez sen: - Jadziu, to nie ma sensu. Przecież jutro jedziemy na eucharystię, do spowiedzi trzeba będzie iść. Czasem we śnie, położy się obok Jadźki, a ona sztywnieje, choć ma sen głęboki. Ten heroizm jest z miłości: przecież miłość polega na tym, że chcesz, aby był zbawiony ktoś, kogo kochasz.</p>
+        <p xml:id="p-2">Półtora roku temu przyszła znowu ta myśl: że skoro się pożądają, to może ubiegać się o stwierdzenie nieważności poprzednich małżeństw i mieć stempel, żeby legalnie się kochać? Więc półtora roku temu stanęli przed swoją wspólnotą neokatechumenalną. Wspólnota przemodliła i wydała werdykt: - Macie żyć w czystości. Nie ma innej drogi. Koniec. Boguś wertuje ewangelię. Mateusz powiada słowami Jezusa: "Gdy mąż umrze, traci nad żoną moc prawo męża. Tak, iż nie jest cudzołożną, współżyjąc z innym mężczyzną". Na razie Boguś modli się modlitwą grzesznika: Wybaw mnie, Panie, ode mnie samego!</p>
+        <p xml:id="p-3">Zbawienie</p>
+        <p xml:id="p-4">Ostatnie warsztaty dla księży o tym, co zrobić z non sacramentabiles, prowadził Jarosław Naliwajko, jezuita i psychoterapeuta. - To był warsztat o bezradności dwóch stron. Tych, którzy uważają, że są potępieni. I tych, którzy są po to, żeby pomóc człowiekowi, a z seminariów znają technologiczne rozwiązanie: wyspowiadać z grzechu, rozgrzeszyć. Oczekuje się od księży, żeby nie byli bezradni. Kapłan ma wyciągać kamień z buta, nie lamentować, że ma ten sam kamień.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

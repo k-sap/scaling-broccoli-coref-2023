@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Telepraca dotąd była rozwiązaniem nieuwzględnianym w polskim prawie. W październiku prezydent podpisał ustawę, która wprowadza tę formę do kodeksu pracy i szczegółowo określa prawa i obowiązki pracodawców oraz telepracowników. Przede wszystkim telepracownik nie może być traktowany gorzej niż ci, którzy świadczą pracę w siedzibie firmy. Na formułę telepracy muszą wyrazić zgodę obie strony. Co więcej, tak pracodawca jak i pracownik w ciągu trzech miesięcy od wyboru systemu telepracy mogą zmienić zdanie i przywrócić poprzednie warunki.</p>
+        <p xml:id="p-2">Ustawa może być zachętą dla niezdecydowanych, którzy lubią mieć twarde fundamenty prawne. Wątpliwe jednak, żeby każdy, kto mógłby pracować w domu, rychło uzyskał na to zgodę. Henryk Michałowicz, ekspert Konfederacji Pracodawców Polskich, głównych barier upatruje raczej w zachowaniach kadry menedżerskiej: - System telepracy wymaga dobrej komunikacji wewnątrz firmy. Ludzie, stykając się ze sobą bezpośrednio, nadrabiają niedomagania zarówno w komunikacji, jak i w organizacji pracy. W przypadku telepracy to już niemożliwe.</p>
+        <p xml:id="p-3">Michałowicz po sobie wie, że telepracownik czasem potrzebuje potwierdzenia, że to, co robi, robi dobrze. Przy kontaktach czysto technicznych takiej weryfikacji brak. To może być powodem stresów i obniżenia poziomu pracy. - W przypadku telepracy - dodaje - pracownik musi się wykazać samodyscypliną, a menedżer wyobraźnią.</p>
+        <p xml:id="p-4">Zdaniem dyrektor Jaworskiej z IBM Polska, sukces wprowadzenia telepracy w dużym stopniu zależy od dojrzałości organizacyjnej przedsiębiorstwa. Pracownik i menedżer muszą sobie wzajemnie zaufać, zrozumieć, że liczą się efekty, a nie czas spędzany przy biurku pod okiem szefa.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

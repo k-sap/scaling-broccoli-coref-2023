@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Kino domowe na poważnie</p>
+        <p xml:id="p-2">W sklepach z domową elektroniką i supermarketach bez problemu znajdziemy odtwarzacze DVD. Wystarczy podłączyć to urządzenie jak zwyczajny odtwarzacz kaset magnetowidowych do telewizora i... No właśnie - nie będzie to jeszcze kino domowe! Telewizor może odtworzyć co najwyżej dźwięk stereofoniczny, a więc wszystkie efekty otaczających nas z czterech stron dźwięków po prostu diabli biorą. Myśląc poważnie o kinie domowym trzeba zdecydować się na zakup specjalnego zestawu, określanego w katalogach mianem "zestawu kina domowego". Najprostsze są urządzenia "4 w 1", które w jednym zestawie mieszczą wszystkie potrzebne funkcje: odczyt płyt DVD, dekodowanie dźwięku i wideo, rozbicie na pięć kanałów i przetworzenie na sygnał analogowy oraz wielokanałowe wzmocnienie. Taki "kombajn" jest dostępny w cenie ok. 3 tys. zł, lecz trzeba pamiętać, że jeszcze należy kupić głośniki (dla amatorów kina-samotników alternatywą mogą być odpowiednie słuchawki podłączane do wzmacniacza, choć na pewno jest to tylko substytut, imitujący efekt dźwięku pięciokanałowego). Droższe zestawy (ok. 4-6 tys. zł) składają się z dwóch części: odtwarzacza z dekoderem i przetwornikiem cyfrowo-analogowym oraz wzmacniacza. Najbardziej wyrafinowane kino domowe jest trzyczęściowe: odtwarzacz DVD, dekoder z przetwornikiem cyfrowo-analogowym i wzmacniacz. Takie rozwiązanie pozwala, bez odstawienia do lamusa wszystkich elementów, wymienić jeden moduł na jakościowo nowy model. Amatorzy dobrej muzyki wiedzą, że oprócz samej elektroniki ważne są także przewody łączące wzmacniacz z głośnikami. Wyspecjalizowane pisma i sklepy służą pomocą.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

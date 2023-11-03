@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Powodzie, coraz częściej nawiedzające Małopolskę, przy prawie każdej swej wizycie niszczą boiska, szatnie czy sprzęt sportowy jakiegoś klubu. Wysoka fala na Wiśle, przechodząca właśnie przez miasto, dosięgła siedzibę Krakowskiego Klubu Wodnego przy ulicy Wioślarskiej.</p>
+        <p xml:id="p-2">Krakowowi nigdy nie doskwierał nadmiar krytych pływalni, a wyremontowany w ubiegłym roku basen KKW 29 miał być początkiem lepszych dni, służyć kajakarzom i dzieciom ze szkół podstawowych. Janusz Jakubowski , prezes klubu, jest zrozpaczony. To nie pierwsze spustoszenie, jakiego dokonała tu Wisła.</p>
+        <p xml:id="p-3">Stanica klubowa, oddana do użytku w 1955 roku, jest jedynym tego typu obiektem w Polsce. Pięknie położona, dysponuje siłownią, basenem pokojami gościnnymi. Niestety, usytuowanie jej nad brzegiem rzeki pomiędzy wałami ma fatalne następstwa. Każde podniesienie się poziomu wody powoduje zagrożenie, a potem liczne remonty. Do niedawna myślano o modernizacji trapu, w sierpniu zacząć się ma remont dachu. 68 tysięcy złotych na ten cel przekaże miasto. Na co jeszcze będą potrzebne pieniądze gdy opadnie woda, w tej chwili nie wiadomo. Tym bardziej że dotacja z Urzędu Miasta może okazać się niewystarczająca. Zalany jest bowiem basen, korytarze, szatnie i natryski. Wypompowywana woda odsłania zniszczenia.</p>
+        <p xml:id="p-4">Największe powodzie - te z '74 i '97 roku poczyniły jeszcze większe straty. Prezes Jakubowski swego czasu, chciał przygarnąć strzelców nowohuckiej Sparty. W miejscu "suchego basenu", do którego wpływała woda z Wisły, przeznaczonego do nauki wiosłowania dla młodych kajakarzy, zaczął urządzać strzelnicę. Wybudowano nowe "ogniowe" ściany, wejścia i stanowiska. Wielka woda zniszczyła niegotową jeszcze strzelnicę i marzenia. Teraz zatapia basen pływacki. Aby podreperować budżet, można by było stworzyć tu camping, ale z uwagi na zagrożenie nikt się na to nie decyduje. Jeszcze niedawno myślano o budowie kortów tenisowych. Dziś najważniejszym jest, aby ocalić zabytkową, piękną przystań, która wymaga już nie tylko remontu dachu.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

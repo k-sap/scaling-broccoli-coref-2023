@@ -1,0 +1,14 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Brak solidarności i pogarda dla feministek - to nie jest dobre. Co zrobić, aby wszystkie kobiety zobaczyły w feministkach siebie, żeby wspierały się w mądrych działaniach?</p>
+        <p xml:id="p-2">Kobiety muszą się spotykać ze sobą i rozmawiać o własnych doświadczeniach. Bardzo często okazują się one wspólne. Pamiętam taką scenę z konferencji feministycznej sprzed bodajże kilkunastu lat: zebrało się nas z pięćdziesiąt i zaczęłyśmy rozmawiać o porodach. I co się okazało? Że każda z nas miała niemal identyczne doświadczenia. Rodziłam w 1983 roku. Kobiety były wówczas traktowane niemalże jak probówki do rodzenia dzieci, jak bezwolne przedmioty należące do władz szpitala, mąż nie miał prawa nie tylko do asysty przy porodzie, ale nawet do odwiedzin. Poród to był horror. I właśnie ta nasza kobieca dyskusja zainicjowała ruch "Rodzić po ludzku".</p>
+        <p xml:id="p-3">Najgroźniejsze są te niby niewinne codzienne zachowania i obyczaje. To źródło dyskryminacji kobiet. Nie reagujemy na dowcipy poniżające kobiety (słynne blondynki), porozwieszane na ścianach kalendarze z kobiecymi aktami (mężczyźni czuliby się upokorzeni i z pewnością by reagowali, gdybyśmy komentowały w pracy cielesność jakiegoś modela, którego zdjęcia rozwieszono nad biurowym śmietnikiem), na molestowanie seksualne w jego różnych formach. Proszę sobie wyobrazić, że pani czy ja podchodzimy w pracy do naszego kolegi i klepiąc go w tyłek, mówimy przymilnie: "Misiu, zrób mi herbatkę". Przecież to jest niewyobrażalne! Ale sytuacja odwrotna, kiedy to dyrektor klepie podwładną, jest wyobrażalna i tolerowana w Polsce. Albo takie zdarzenie (które rzeczywiście miało miejsce na jednej z polskich uczelni): wykładowca mówi - "wszystkie dziewczęta dostają u mnie czwórkę, a chłopcy na poważny egzamin". To może zabawne, ale jednocześnie upokarzające. I to jest dyskryminacja. Trzeba reagować na takie sytuacje. Nie można oswajać poniżenia. A my jesteśmy tak z nim oswojone, że w ogóle go nie dostrzegamy.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

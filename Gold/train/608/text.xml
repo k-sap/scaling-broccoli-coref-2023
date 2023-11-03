@@ -1,0 +1,14 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Na koncert, podczas którego oprócz muzyki na żywo miała być emisja na dużym telebimie koncertu MTV w Berlinie, przyszło ponad tysiąc osób. Wszyscy bawili się w najlepsze, kiedy nagle w hali pojawił się ogień. Rozprzestrzeniał się bardzo szybko. Najpierw zaczęła palić się scena, później podłoga i ściany, siedzenia dla publiczności i jedyne otwarte drzwi wyjściowe. Bilans pożaru był bardzo tragiczny: w ogniu zginęło 7 osób, do szpitala trafiło 258, 120 osób doznało ciężkich uszkodzeń ciała, 96 - średnich, a 42 - lekkich. Akcja dogaszania ognia trwała wtedy całą noc.</p>
+        <p xml:id="p-2">Śledztwo trwało ponad rok. W 1996 roku zarzuty postawiono czterem osobom. 14 stycznia 1997 roku przed Sądem Wojewódzkim w Gdańsku odbyła się pierwsza rozprawa. Proces nadal się toczy.</p>
+        <p xml:id="p-3">W grudniu, w Szpitalu Marynarki Wojennej w Oliwie, dr Hans Paschmeyer, ordynator Oddziału Chirurgii Ręki i Chirurgii Plastycznej Kliniki Rolanda w w Bremie, przeprowadzi cztery kolejne operacje u ofiar pamiętnego pożaru. Dotąd przeprowadził 16 operacji oraz około 70 konsultacji medycznych.Przewodniczący komisji ds. Podziału Środków Finansowych dla Ofiar Pożaru, skarbnik miasta J. Pietrzak poinformował, że na koncie pozostało 418 104,02 zł, z tego planuje się wydać na leczenie 372 864,21 zł, a na pomoc socjalną 45 239,81 zł. Wciąż potrzebne są nowe wpłaty, bo koszty leczenia i rehabilitacji są wysokie. Nr konta: Big Bank Gdańsk III Oddział Gd., 11601058-42555003-929, hasło „Ofiarom Pożaru“.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

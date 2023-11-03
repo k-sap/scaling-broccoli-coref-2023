@@ -1,0 +1,16 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">,,Danterki'' wyszły na boisko przeciwko gwardzistkom bardzo zmobilizowane. Pamiętały przecież, że właśnie drużyna ze stolicy Dolnego Śląska wyeliminowała dzielnego beniaminka z finałowego turnieju tegorocznej edycji Pucharu Polski. Wtedy najwięcej kłopotów było z powstrzymaniem Katarzyny Mroczkowskiej, 23-letniej reprezentantki Polski, naszej najlepszej zawodniczki w finałowym turnieju mistrzostw świata, rozgrywanych na przełomie sierpnia i września 2002 roku w Niemczech.</p>
+        <p xml:id="p-2">Kiedy na początku premierowego seta pojawiła się w polu zagrywki Ciaszkiewicz był to dla poznanianek sygnał do generalnego natarcia. Silną i trudną w odbiorze zagrywką, podopieczne trenera Skroka zmusiły rywalki do głębokiej defensywy. Poznanianki narzuciły szybkie tempo. Od 4:3 powiększyły błyskawicznie przewagę do 12:4. Po zagrywce ,,Danterek'' Mroczkowska, Anna Barańska i Natalia Bamber miały daleką drogę z głębi pola do siatki, aby zaatakować skutecznie z pierwszej linii. Tymczasem nad siatką podwójny, bądź potrójny, blok poznanianek skutecznie kontrolował sytuację.</p>
+        <p xml:id="p-3">Poznanianki atakowały w pierwszej odsłonie swobodnie, z fantazją. Na przemian środkową strefą bądź skrzydłami, albo z drugiej linii. Barańska i Kaczor jeszcze próbowały nawiązać równorzędną walkę z koncertowo grającym beniaminkiem. Ale ich wysiłek był bezowocny. Po 18. minutach jednostronnego spektaklu drużyny zmieniały strony boiska.</p>
+        <p xml:id="p-4">Ciekawszy scenariusz</p>
+        <p xml:id="p-5">W drugiej odsłonie obraz gry zmienił się. Przynajmniej wzrosły emocje, a poziom meczu mógł już usatysfakcjonować nawet najwybredniejszych kibiców. Wrocławianki poprawiły przyjęcie piłki, a zagubiona w premierowej partii rozgrywająca Anna Świętońska zmieniła styl. Nie rozgrywała już piłek wysokich, tuż na taśmę, ale częściej wykorzystywała dobrą dyspozycję Anny Barańskiej na lewym skrzydle. W drugim secie długo wynik ,,kręcił się'' wokół remisów 3:3, 7:7, 10:10, 15:15, 16:16.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

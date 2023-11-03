@@ -1,0 +1,16 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Bush nie może wygrać</p>
+        <p xml:id="p-2">Saddam zakłada, zresztą ma na ten temat bezpośrednie sygnały od swego znajomego Primakowa, że Putin będzie chciał wrócić na Bliski Wschód opuszczony przez ZSRR. Więc sprzeciwi się interwencji Busha. Francja ma interesy w Iraku, zresztą Chirac przyjmuje w Paryżu ludożercę Mugabego. Może chce zorganizować międzynarodówkę dyktatorów? Chiny na każdym konflikcie poza strefami swoich wpływów zyskują na znaczeniu, niczego nie musząc robić. Niemcy, to jest trzydzieści firm niemieckich, robią biznes w Bagdadzie. A więc ONZ nie pozwoli wyrządzić Irakowi krzywdy. Papież popiera Palestyńczyków i jest przeciwko wojnie. Trzeba posłać Tarika Aziza do Watykanu. To wicepremier i chrześcijanin. Ale przede wszystkim taki iracki Gromyko. Zrobi, co mu się każe.</p>
+        <p xml:id="p-3">Ruch niezaangażowanych na dopiero co zakończonym szczycie w Malezji opowiedział się przeciwko groźbom Busha. Kraje arabskie go przeklną. Kraje muzułmańskie - wyklną. Wielki autorytet moralny - Indie - nie pozwolą, bo mają za dużo gastarbeiterów w krajach Zatoki. Kto jest za Bushem? Nikt (Anglicy, Australijczycy, jak zawsze i Kuwejt, bo musi). Kto jest za Irakiem? Wszyscy. Nawet Arabia Saudyjska. Nie, Bush nie może wygrać.</p>
+        <p xml:id="p-4">Co robić?</p>
+        <p xml:id="p-5">Zatem wojna partyzancka. Wydać Amerykanom sobowtóra, niech go sobie wezmą na przesłuchania. Niech go sądzą w Guantanamo. Albo nie wydawać - tylko zabić. Potem zejść do schronów. Był przecież czas, żeby przygotować podziemne państwo. Z zagranicy nie da się kierować walką. Bezpośrednie otoczenie nie zdradzi, bo boi się zbirów. Generałowie wiedzą, że skoro jednostki Gwardii Republikańskiej będą mordować zdrajców, to już lepiej zginąć z własnej ręki, niż być dartym na pasy. Synowie Ø Udaj i Kusaj nie zbuntują się. To durnie nieistniejący bez ojca.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

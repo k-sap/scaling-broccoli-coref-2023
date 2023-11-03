@@ -1,0 +1,18 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Niestety podpalacz przestał zwracać uwagę na kalendarz.</p>
+        <p xml:id="p-2">- Tego obawialiśmy się najbardziej. Teraz może bawić się z nami w kotka i myszkę, podkładać ogień o godzinie 7 i 14. Trzeba będzie pilnować wsi przez cały tydzień od rana do wieczora, a i to może nic nie dać. Podpalacz zawsze znajdzie odpowiedni moment - mówi Piechaczek.</p>
+        <p xml:id="p-3">Tak stało się wczoraj nad ranem. Ogień wybuchł chwilę po tym, jak nocni stróże rozjechali się do domów.</p>
+        <p xml:id="p-4">- Tyle dobrze, że nie zdążyliśmy się jeszcze położyć. Szybko byliśmy na miejscu i w miarę szybko poradziliśmy sobie z ogniem - mówi Piechaczek, który jest również naczelnikiem tutejszej Ochotniczej Straży Pożarnej.</p>
+        <p xml:id="p-5">Z ulicy Szkolnej, gdzie dotąd wybuchały pożary, podpalacz przeniósł się na sąsiednią ulicę Pomnikową. Tu znajdują się trzy połączone ze sobą stodoły. Od głównej ulicy Raciborskiej teren ogrodzony jest płotem. Sprawca świetnie orientuje się w terenie. Wiedział, że od strony ulicy Szkolnej nie ma płotu i można wejść na teren działki. Bieńkowiczanie są pewni, że to ktoś ze wsi.</p>
+        <p xml:id="p-6">Podobnie ocenia sytuację młodszy brygadier Jan Pawnik, zastępca komendanta powiatowego Państwowej Straży Pożarnej w Raciborzu. - Mieszkańcy prowadzą we wsi patrole. Ogień wybuchł akurat wówczas, gdy się skończyły. Albo podpalacz zna dokładne godziny, w których się odbywają, albo sam bierze w nich udział - mówi Jan Pawnik.</p>
+        <p xml:id="p-7">Policja dla dobra śledztwa nie chce komentować całej sprawy.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

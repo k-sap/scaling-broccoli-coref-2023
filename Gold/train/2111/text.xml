@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Najczęściej w czasie pracy z programem Photoshop mamy do czynienia z tzw. obrazem rastrowym. Najogólniej rzecz biorąc, obraz widoczny na ekranie monitora składa się z pojedynczych, maleńkich punktów, zwanych pikselami. Każdy z pikseli może mieć odmienny kolor - współczesne systemy komputerowe (w tym prawdopodobnie także i Twój) pozwalają na korzystanie z palety liczącej ok. 16,7 milionów kolorów. Oznacza to, że pojedynczy piksel może mieć dowolny kolor ze wspomnianego zakresu. Piksele są zazwyczaj bardzo małe, dlatego oko ludzkie nie dostrzega każdego z nich, postrzegając je raczej jako jedną, większą całość. Zwykle układają się w większe grupy punktów o zbliżonych kolorach, co daje efekt płynnego przechodzenia jednego koloru w inny. Z tego powodu obrazy rastrowe, a więc zbudowane z pojedynczych pikseli, nazywane są również obrazami o jednolitej ciągłości barw.</p>
+        <p xml:id="p-2">W jaki sposób pozyskać obrazy odpowiednie do obróbki w Photoshopie? Istnieje wiele możliwości: skanowanie, fotografia cyfrowa, internet, zdjęcia na płytach CD-ROM (tzw. zdjęcia "royalty-free"). Można też samodzielnie narysować cokolwiek w programie do edycji grafiki wektorowej (na przykład we wspomnianym na początku poprzedniego rozdziału programie Adobe Illustrator bądź popularnym pakiecie CorelDRAW) i później przenieść taki obraz do Photoshopa, aby poddać go dalszej edycji.</p>
+        <p xml:id="p-3">Przygotowanie do edycji-kadrowanie i zmiana wymiarów obrazka</p>
+        <p xml:id="p-4">Korekcję obrazu zwykle rozpoczyna się od czynności najbardziej elementarnych - przede wszystkim kadrowania. Czasami zachodzi również potrzeba zmiany wymiarów obrazka po to, aby można było lepiej dopasować go do wielkości papieru, na którym zamierzamy drukować.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

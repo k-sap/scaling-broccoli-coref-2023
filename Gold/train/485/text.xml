@@ -1,0 +1,19 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">sp0: czerniak czy siatkówczak jakiś ?</p>
+        <p xml:id="p-2">sp1: czerniak chyba to było i to tak było że miała już z przerzutami jak stwierdzili na drugie oko. i w Polsce jej powiedzieli od razu że jej usuną obydwa oczy oba oczka. no a ponieważ Piotruś w tym czasie tak jak i Boguś załatwił papiery no i w Toronto jest taki specjalistyczny szpital który się zajmuje tym to tam usunęli jej to jedno oko ale drugie jej uratowali.</p>
+        <p xml:id="p-3">sp3: i normalnie widzi także jest.</p>
+        <p xml:id="p-4">sp1: normlanie to może za dużo powiedziane ona widzi słabo ale widzi.</p>
+        <p xml:id="p-5">sp3: mhm. ale wzrok został i tak zachowany.</p>
+        <p xml:id="p-6">sp1: a drugie ma taką. znaczy tą tą gałkę tak wygląda że tak trochę się rusza ale to nie jest tak że jest idealnie. jak ona była mniejsza to to się mniej jakoś rzucało w oczy teraz to widać widzę że Natalka tak sobie trochę grzywkę na to oko no. w ogóle bardzo ładna dziewczyna. no ale wiesz ma zaraz ileś ograniczeń ona zresztą całe życie była biedna bo to kiedy inne dzieci biegały to ona nie mogła bo to oko się tak wolno przystosowywało i ona na przykład wpadając do ciemnego pomieszczenia nie widziała.</p>
+        <p xml:id="p-7">sp3: no tak no ale to drugie ma przecież cały czas usunięte całkowicie tylko jednym widzi.</p>
+        <p xml:id="p-8">sp1: no tak. ale to jedno miało jeszcze taką wolniejszą akomodację. i jakoś ona się i w związku z tym no to dzieci ją od razu odrzuciły bo ona no nie biega z nimi. więc ja pamiętam jak ona przyjechała do Polski to myśmy robiły tam teatrzyki żeby dzieci przyciągnąć żeby tylko bo ona przychodziła ciociu bo wtedy dzieci się zbierały a ona chciała do tych dzieci wcale nie chciała siedzieć ze mna tylko chciała do tych dzieci no to robiliśmy coś żeby te dzieci przyszły do niej. ale bardzo długo ona. tak to już właściwie w liceum wydawało mi się że wreszcie. no po prostu no dzieci dojrzewają i są nie są takie.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

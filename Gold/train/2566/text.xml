@@ -1,0 +1,22 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Wałbrzych</p>
+        <p xml:id="p-2">Adres do niedawna był znany głównie osobom nadużywającym alkoholu. Gdy zlikwidowano izbę wytrzeźwień, pozostała przy ul. Pocztowej noclegownia. Ale warunki były w niej spartańskie. Teraz to się zmieni.</p>
+        <p xml:id="p-3">Dwupiętrowe łóżka, małe pokoiki, zaduch i ciasnota; wałbrzyska noclegownia dawała tylko dach nad głową. W ciągu dnia trzeba było ją opuścić i wędrować po mieście.</p>
+        <p xml:id="p-4">Najgorzej było zimą, gdy bezdomni nie mieli gdzie się schronić przed mrozem, bo w mieście nie było schroniska ani domu dziennego pobytu.</p>
+        <p xml:id="p-5">Warunków przebywania w noclegowni nie można było poprawić. Dopiero teraz pojawiła się taka szansa.</p>
+        <p xml:id="p-6">– Napisaliśmy program stworzenia przy ul. Pocztowej centrum, gdzie zajmowalibyśmy się nie tylko bezdomnymi, ale także osobami, które nie radzą sobie w życiu –mówi Krzysztof Czaja, zastępca dyrektora Miejskiego Ośrodka Pomocy Społecznej.</p>
+        <p xml:id="p-7">W schronisku można będzie przebywać przez cały dzień. Powstanie ponadto świetlica dla dzieci z okolic.</p>
+        <p xml:id="p-8">Na remont budynku przy ul. Pocztowej gmina Wałbrzych dostała z unijnego programu ponad 500 tys. złotych.</p>
+        <p xml:id="p-9">45 osób, które przebywały w noclegowni przeniosło się na czas remontu do domu Markotu przy ul. Moniuszki. Jest tu dużo miejsca, ale obiekt wymaga wielu napraw.</p>
+        <p xml:id="p-10">– Poradzimy sobie z nimi sami. Potrzebujemy tylko materiałów budowlanych i liczymy na pomoc sponsorów – mówi Lech Stachera, nowy dyrektor domu.</p>
+        <p xml:id="p-11">On także nie chciałby, aby budynek pełnił tylko funkcję schronienia.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

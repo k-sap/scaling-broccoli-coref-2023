@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Z górą sto lat wcześniej ministrowie rządu bawarskiego powtarzali to samo upartemu władcy, budowniczemu pustych zamków. Nie stać nas na gotyckie i barokowe fantazje, które niczemu nie służą. Koronny argument mówił, że król nie mieszka ani w Neuschwanstein, ani w Linderhofie. Gdyby - jak Ludwik XIV - wędrował pomiędzy swoimi siedzibami, wszystko byłoby mniej więcej w porządku. Inna sprawa, że pomysł zburzenia Wersalu powracał co jakiś czas we Francji. Za każdym razem odwoływano się do tej samej argumentacji: ekonomicznej, rzecz jasna. Nie brakowało zresztą i podtekstów politycznych. Lecz czym byłby dziś Wersal, gdyby nie rujnujące państwowy budżet koszty budowy i utrzymania pałacowego kompleksu?</p>
+        <p xml:id="p-2">Kilkanaście lat przed modernistami bawarscy urzędnicy państwowi dotknęli fundamentalnej kwestii, czy sztuka ma cel. I czy Ø zachowuje sens, jeśli już w założeniu ma posiadać tylko jednego odbiorcę.</p>
+        <p xml:id="p-3">Czemu służyły kamienie Stonehenge albo sławne babilońskie zikkuraty, o co chodziło Inkom czy Majom wznoszącym swe tajemnicze konstrukcje? Dzisiejsza publiczność pragnie wiedzieć wszystko dokładnie. Funkcjonalność podniesiona została do rangi cnoty. Na początku XXI wieku nie wystarcza interesujący rękopis. Wydawca coraz częściej pyta autora, kto kupi jego książkę i kto ewentualnie zechce ją przeczytać...</p>
+        <p xml:id="p-4">Wiadomo, że monarcha lubił samotność, która dla władcy, a tym bardziej dzisiejszego polityka, jest na ogół nieosiągalnym luksusem. Zamki i pałace tworzy się po to, by zapraszać, wizytować, urządzać bale, uczty, polowania. Każde z tych przedsięwzięć wymaga tłumu. Samotność w pałacu zawsze była równie podejrzana jak zamknięta komnata Sinobrodego.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

@@ -1,0 +1,18 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">- Ja nie jestem homoseksualistą, skarpetki mam czarne - zapewnił Andrzej Lepper na wczorajszym spotkaniu z dziennikarzami we Wrocławiu.</p>
+        <p xml:id="p-2">Przewodniczący Samoobrony, odpowiadając wymijająco na pytanie, czy zna jakichś gejów, nawiązał do głośnej wypowiedzi posłanki SLD Anity Błochowiak o czerwonych skarpetkach “pedałów”.</p>
+        <p xml:id="p-3">Już na poważnie, Andrzej Lepper sprzeciwił się nadaniu statusu małżeństwa związkom partnerskim osób tej samej płci (“Broń Boże, żeby wychowywali dzieci!”). Ponadto za szkodliwe uznał próby złagodzenia przepisów tzw. ustawy antyaborcyjnej.</p>
+        <p xml:id="p-4">Lepper przedstawił też projekt niezbędnych zmian w Konstytucji RP. Gdyby to od niego zależało, m.in. zlikwidowałby Senat, wszystkie wojewódzkie urzędy marszałkowskie, większość powiatów, Radę Polityki Pieniężnej oraz Krajową Radę Radiofonii i Telewizji.</p>
+        <p xml:id="p-5">Lepperowi znów towarzyszył były lider ZChN i poseł AWS, minister ds. integracji europejskiej w rządzie Jerzego Buzka, wrocławianin Ryszard Czarnecki. - Jestem zadowolony ze współpracy z nim i może w najbliższym czasie będę miał przyjemność przyjąć od niego deklarację wstąpienia do Samoobrony - oświadczył szef tej partii.</p>
+        <p xml:id="p-6">Gazeta Wrocławska: - Jak pan zamierza wygrać z panią Jolantą Kwaśniewską w wyborach prezydenckich? Ma pan na nią jakiś sposób?</p>
+        <p xml:id="p-7">Andrzej Lepper: - Spokojnie! Do wyborów prezydenckich mamy jeszcze dwa lata! Chyba że Aleksander Kwaśniewski ma już jakiś stołek w ONZ czy NATO zapewniony. Być może to rozpoczęcie kampanii już teraz przez panią - na razie - prezydentową jest podyktowane tym, że prezydent poda się wcześniej do dymisji. Byłoby to wskazane przy tym jego nieróbstwie, jakim się popisywał przez osiem lat urzędowania i którym szkodził Polsce.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

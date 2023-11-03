@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">W tym kraju potężna korupcja była, jest i będzie, ponieważ jedyną formą walki z nią jest (tak jak w Polsce) mnożenie instytucji do walki z korupcją oraz nieustanne mówienie. Politycy i rozmaite osoby publiczne ogłaszają, co zrobiliby z korupcją, gdyby mogli (ale niestety nie mogą, dopóki nie dojdą do władzy). Podczas gdy to mówią, korupcja w Rumunii rośnie.</p>
+        <p xml:id="p-2">- Z naszych badań wynika, że ponad połowa Rumunów za normalne uważa zapłacenie łapówki u lekarza, na poczcie, w urzędzie, merostwie i w ogóle w jakiejkolwiek instytucji, w której załatwia się jakąś sprawę - informuje Oana Valentina Suciu z Rumuńskiego Centrum Polityki Publicznej.</p>
+        <p xml:id="p-3">Rzecz jasna, korupcja istnieje we wszystkich Rumuniach, także w Rumunii nacjonalistów, chociaż dla nich nie jest to problem tak ważny, jak choćby panoszące się mniejszości narodowe. W tej Rumunii prawdziwym Rumunom jest za duszno i za ciasno, ponieważ jest ona zbyt mała. Ta Rumunia chce być większa, pragnęłaby także pozbyć się mniejszości narodowych. To Rumunia wywodząca się od starożytnych Daków, dumna, chociaż nękana spiskami antyrumuńskimi, Rumunia osamotniona, potrzebująca silnej ręki, mająca wielu wrogów i tylko dwoje przyjaznych sąsiadów: Serbię i Morze Czarne.</p>
+        <p xml:id="p-4">Ta wielka, agresywna Rumunia nienawidzi nędznej i obdartej Rumunii, w której żyją Cyganie. Jest ich ponad dwa miliony, z czego 80 proc. wegetuje na skraju nędzy, 60 proc. nie czyta i nie pisze, ponad połowa dzieci się nie uczy, ponad połowa dorosłych nie ma pracy. Trzy czwarte Rumunów przyznaje, że nienawidzi Cyganów. (Po rumuńsku Tigani to bandyta, oszust i prymityw, dlatego Cyganie chcą, żeby nazywano ich Romami. Rumuni protestują, bo to słowo kojarzy się ze słowem Romania, a ROM jest skrótem nazwy ich kraju w paszportach. Rada Europy zasugerowała, aby Cyganie pozostali Romami przez dwa R, czyli Rromami).</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

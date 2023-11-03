@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Ktoś nakłonił ją do samobójstwa</p>
+        <p xml:id="p-2">ZBRODNIA Z INTERNETU</p>
+        <p xml:id="p-3">W Polsce to pierwszy taki przypadek. Za pośrednictwem Internetu ktoś namówił studentkę do popełnienia samobójstwa. W stanie krytycznym trafiła do Akademii Medycznej w Gdańsku.</p>
+        <p xml:id="p-4">Ilona P. ma 23 lata. Pochodzi z małej miejscowości w Pomorskiem. Na jednej z trójmiejskich uczelni studiowała fizykę.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

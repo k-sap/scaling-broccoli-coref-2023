@@ -1,0 +1,28 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Skowronski: A ile zarobił na tym skarb państwa?</p>
+        <p xml:id="p-2">Jamrozy: O tej transakcji nie chcę jeszcze nic mówić, pozwólcie państwo, że dopiero po dziesiątej powiem coś na temat tych transakcji. Sądzę, że zyski skarbu państwa i PZU z tej transakcji mogą sięgać około miliarda złotych.</p>
+        <p xml:id="p-3">Skowronski: Kulisy tej transakcji są ciekawe?</p>
+        <p xml:id="p-4">Jamrozy: Myślę, że są spokojniejsze niż w przypadku BIG.</p>
+        <p xml:id="p-5">Skowronski: Wymienia się liczbę 650 milionów złotych. Czy to jest prawdziwa liczba czy nie? Ile zarobił skarb państwa i PZU na tej transakcji?</p>
+        <p xml:id="p-6">Jamrozy: To zależy, jak liczyć. Sądzę, że znacznie więcej.</p>
+        <p xml:id="p-7">Skowronski: A co będzie z panem dalej?</p>
+        <p xml:id="p-8">Jamrozy: Jestem menedżerem do wynajęcia, akcjonariusze zdecydują, czy będą mnie sobie życzyli w firmie czy nie.</p>
+        <p xml:id="p-9">Skowronski: Ile menedżer do wynajęcia weźmie, jaką pensję? Bo może wynajmie pana Radio Zet, dlatego się pytam...</p>
+        <p xml:id="p-10">Jamrozy: To proponuję umówić się na spotkanie i wtedy będziemy rozmawiać.</p>
+        <p xml:id="p-11">Skowronski: Dzisiaj zbiera się rada nadzorcza PZU SA.</p>
+        <p xml:id="p-12">Jamrozy: Tak, słyszałem nieoficjalne, że jest dzisiaj rada nadzorcza PZU SA. Nie zostałem na nią zaproszony, nie wiem, jakie są punkty programu rady. Do dzisiaj nikt z rady nadzorczej nie przesłuchał mnie na okoliczność mojego zawieszenia i na okoliczność mojego postępowania na walnym zgromadzeniu BIG.</p>
+        <p xml:id="p-13">Skowronski: A stanął pan przed komisją sejmową?</p>
+        <p xml:id="p-14">Jamrozy: Jeszcze nie.</p>
+        <p xml:id="p-15">Skowronski: A stanie pan?</p>
+        <p xml:id="p-16">Jamrozy: Mam zaproszenie na dzisiaj, na posiedzenie Komisji Skarbu Państwa, Uwłaszczenia i Prywatyzacji.</p>
+        <p xml:id="p-17">Skowronski: Jakie jeszcze tajemnice poznamy w związku z BIG Bankiem?</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

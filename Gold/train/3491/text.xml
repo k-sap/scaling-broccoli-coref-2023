@@ -1,0 +1,14 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Lecz ujawnienie swego biseksualizmu przed rodziną, a zwłaszcza współmałżonkiem, nie zawsze dobrze się kończy. Nie tylko u nas. William Wedin, psycholog pomagający biseksom w Nowym Jorku, twierdzi, że odkrycie związku męża z innym mężczyzną (a dwie trzecie znanych mu mężczyzn bi było żonatych, głównie z kobietami hetero) rujnuje zwykle małżeństwo.</p>
+        <p xml:id="p-2">On czuje się upokorzony, a ona zdradzona, już nawet nie tyle przez fakt, że kochanką jest mężczyzna, ile że mąż w ogóle ma kogoś na boku. Toteż bi decydują się często na życie w dwóch światach. W tym pierwszym świecie, mówi Wedin, bi są statecznymi ojcami rodzin i normalnymi facetami jak ich znajomi i przyjaciele. W drugim w grupie gejowskiej, która nie wie, co w trawie piszczy, uchodzą za gejów. Wszystko podwójne. Chodzą, bywa, nawet do dwóch lekarzy: internisty i wenerologa, a każdy z medyków leczy co innego w jednym z ich światów.</p>
+        <p xml:id="p-3">Aleksandra Sierakowska przedstawia w swej pracy magisterskiej sylwetkę bi utajonego. Jest żonaty, myśli już o dzieciach. Żyje im się spokojnie. Ale on od kilku lat ma stałego kochanka. W obu relacjach czuje się szczęśliwy. Nie zrezygnuje z tej drugiej, bo poświęcił na budowanie związku tyle samo czasu i energii co na małżeństwo z żoną. Spotyka się z nim kilka razy w miesiącu. Z mężczyzną łączy go przyjaźń i seks. Z żoną seks jest cokolwiek nudny, ale tworzą rodzinę - na tym polega różnica. Jeśli czuje się w dołku, spotyka się z innymi bi. Poznał ich na szczęście w Internecie. Między swoimi odzyskuje równowagę.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

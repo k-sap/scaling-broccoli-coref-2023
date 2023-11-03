@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">#MarszalekBogdanBorusewicz: Pan senator Ryszka. I potem poproszę pana ministra o odpowiedź.</p>
+        <p xml:id="p-2">#SenatorCzeslawRyszka: Dziękuję, Panie Marszałku. Panie Ministrze, mam pytanie o nabór funkcjonariuszy do CBA. Jak ma przebiegać na przykład to przepytywanie za pomocą wariografu? Jakie będą im zadawane pytania? Tak z ciekawości pytam. Skąd w ogóle będą pochodzić urzędnicy i funkcjonariusze tego urzędu? Czy to będą pracownicy ABW, WSI, tacy, którzy, że tak powiem, zdali tam egzamin z uczciwości? Drugie pytanie to pytanie o apolityczność funkcjonariuszy. Ja rozumiem, że oni nie mogą należeć do partii politycznych. Ale czy będą ich obowiązywać jeszcze jakieś zakazy, na przykład występowania w mediach, ujawniania swoich poglądów itd.? Dziękuję bardzo.</p>
+        <p xml:id="p-3">#MarszalekBogdanBorusewicz: Proszę bardzo, Panie Ministrze.</p>
+        <p xml:id="p-4">#PelnomocnikRzadudosprawOpracowaniaProgramuZwalczaniaNaduzycwInstytucjachPublicznychMariuszKaminski: Może najpierw sprawa legislacyjna, związana z WSI w ustawie. Oczywiście, przygotowując projekt ustawy, musieliśmy odnosić się do obowiązującego aktualnie stanu prawnego, stąd też WSI musiało być wpisane. Nie mieliśmy do końca pewności, jak szybko parlament będzie pracował nad tymi ustawami, która z tych ustaw będzie pierwsza. Ale są to tak naprawdę zmiany legislacyjne w przepisach przejściowych, tak więc to jest kwestia prac legislacyjnych nad ustawami o służbach wojskowych, gdzie te korekty powinny być dokonane. A my nie mogliśmy podejść do tego inaczej, nie mogliśmy przyjąć założenia, że parlament na pewno podejmie decyzję o reformie służb wojskowych, i projektując tę ustawę, odnosić się do przyszłego i niepewnego stanu prawnego. Jeżeli chodzi o pytanie pana senatora Piesiewicza, to powiem tak: oczywiście, Panie Senatorze, że kodeks postępowania karnego, jak już mówiliśmy na posiedzeniu komisji, będzie biblią funkcjonariuszy Centralnego Biura Antykorupcyjnego i wszystkie rygory i zasady z tym związane muszą być i będą respektowane.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

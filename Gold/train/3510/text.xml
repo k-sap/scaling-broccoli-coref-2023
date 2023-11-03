@@ -1,0 +1,14 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Nic zatem dziwnego, że zarówno wielkie sieci sprzedaży jak i właściciele małych sklepików oraz restauracji przygotowują się na wypadek wizyty niechcianych klientów, którzy zapowiadają kontynuowanie akcji w całym kraju. W ten skrajny sposób anarchiści, sami nazywający siebie "nieposłusznymi", antyglobaliści i inne radykalne grupy młodzieży protestują przeciwko drożyźnie. Podczas gdy w odpowiedzi na apele organizacji konsumenckich większość obywateli w tym roku już kilka razy strajkowała, powstrzymując się od wszelkich zakupów, nieposłuszni postanowili wcielać w życie hasła osobliwie rozumianego uwłaszczenia.</p>
+        <p xml:id="p-2">Nie wymyślili jednak nic nowego, bo takie akcje towarzyszyły protestom lewicowej młodzieży w drugiej połowie lat 70., o czym przypomniano w głośnym filmie Guido Chiesy "Lavorare con lentezza" (Opieszała praca), zaprezentowanym podczas wrześniowego festiwalu w Wenecji. W 1976 i 1977 r., w dobie kryzysu ekonomicznego we Włoszech, młodzi bezrobotni, studenci i lewacy organizowali protesty przeciwko zbyt wysokim kosztom życia, okupując wolne mieszkania, masowo pustosząc sklepy i biesiadując za darmo w restauracjach.</p>
+        <p xml:id="p-3">Powszechnie wiadomo, że od chwili przejścia na euro ceny w Italii poszły drastycznie w górę, nawet o kilkadziesiąt procent, czemu nikt nie jest w stanie przeciwdziałać. W ramach walki z drożyzną wielkie sieci hiper- i supermarketów zawarły we wrześniu porozumienie z rządem, w którym zadeklarowały, że do końca roku zamrożą ceny większości artykułów. Stowarzyszenia konsumentów wyśmiały ten pomysł uznając, że uczciwe byłoby obniżenie cen o 70 proc., a nie ich zamrożenie.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

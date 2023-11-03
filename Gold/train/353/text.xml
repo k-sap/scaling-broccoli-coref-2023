@@ -1,0 +1,21 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Kto jest przeciwny, proszę o naciśnięcie przycisku "przeciw" i podniesienie ręki.</p>
+        <p xml:id="p-2">Kto się wstrzymał od głosu, proszę o naciśnięcie przycisku "wstrzymuję się" i podniesienie ręki.</p>
+        <p xml:id="p-3">Proszę o podanie wyników głosowania.</p>
+        <p xml:id="p-4">Na 82 obecnych senatorów 79 było za, 2 wstrzymało się od głosu, 1 nie głosował. ( Głosowanie nr 2).</p>
+        <p xml:id="p-5">Stwierdzam, że Wysoki Senat przyjął poprawkę pierwszą.</p>
+        <p xml:id="p-6">Przystępujemy do głosowania nad poprawkami: drugą, czwartą, piątą, dziewiątą i siedemnastą. Głosujemy nad nimi łącznie. Są to poprawki senatora Willenberga poparte przez połączone komisje. Poprawka druga - do art. 5 ust. 1, poprawka czwarta - do art. 11 ust. 2, poprawka piąta - do art. 11 ust. 3 oraz poprawka siedemnasta - do art. 57 ust. 1 mają na celu przyznanie stuprocentowej podstawy wymiaru zasiłku chorobowego jedynie wtedy, gdy niezdolność do pracy przypada w okresie ciąży, nie zaś wtedy, gdy powstała wskutek wypadku w drodze do pracy lub z pracy bądź też trwa nieprzerwanie ponad dziewięćdziesiąt dni. Podobne uregulowanie przewiduje poprawka dziewiąta dla świadczenia rehabilitacyjnego.</p>
+        <p xml:id="p-7">Proszę o naciśnięcie przycisku obecności.</p>
+        <p xml:id="p-8">Kto z państwa senatorów jest za przyjęciem tych poprawek, proszę o naciśnięcie przycisku "za" i podniesienie ręki.</p>
+        <p xml:id="p-9">Kto jest przeciwny, proszę o naciśnięcie przycisku "przeciw" i podniesienie ręki.</p>
+        <p xml:id="p-10">Kto się wstrzymał od głosu, proszę o naciśnięcie przycisku wstrzymuję się" i podniesienie ręki.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

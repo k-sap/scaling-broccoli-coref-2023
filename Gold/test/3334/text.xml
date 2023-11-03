@@ -1,0 +1,18 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">• W kategorii dziennikarstwo specjalistyczne nagrodę Grand Press zdobyła również dziennikarka "Polityki" Bianka Mikołajewska, nagrodzona za artykuły poświęcone osławionym kasom oszczędnościowym SKOK (nagrodę otrzymała wspólnie z Maciejem Samcikiem z "Gazety Wyborczej").</p>
+        <p xml:id="p-2">Robota Bianki Mikołajewskiej to - jak podkreślało jury - najwyższej próby rzemiosło, wymagające kompetencji, odwagi i determinacji, bo też sieć SKOK to przeciwnik nie wahający się przed żadnym atakiem w odpowiedzi na krytykę. Przyjdzie nam jeszcze zmierzyć się z nim w sądzie.</p>
+        <p xml:id="p-3">O jakości tekstów Bianki i doniosłości podjętego przez nią tematu niech świadczy fakt, że nasza koleżanka, oprócz Grand Press, otrzymała też jedną z głównych nagród Stowarzyszenia Dziennikarzy Polskich: Nagrodę im. Eugeniusza Kwiatkowskiego, przyznawaną za publikacje o tematyce gospodarczej, właśnie za artykuły "Wielki Skok" oraz "Kasa wielkiej piątki".</p>
+        <p xml:id="p-4">• Ale to nie koniec nagród dla naszych autorów. W innej prestiżowej kategorii wyróżnień SDP - Nagrody im. Stefana Żeromskiego (za artykuły o tematyce społecznej) - nasza autorka Agnieszka Rybak (we współpracy z Justyną Januszewską), otrzymała wyróżnienie za publikację "Wybielamy, przyczerniamy", w której opisała polskie środowisko public relations.</p>
+        <p xml:id="p-5">• W plebiscycie, także organizowanym przez miesięcznik "Press", tytuł Dziennikarza Roku 2005 uzyskała Justyna Pochanke z TVN 24.</p>
+        <p xml:id="p-6">Przypomnijmy, że w naszym redakcyjnym gronie mamy dwoje publicystów z tytułem Dziennikarza Roku: Janinę Paradowską i Jacka Żakowskiego.</p>
+        <p xml:id="p-7">Wszystkim nagrodzonym gratulujemy!</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

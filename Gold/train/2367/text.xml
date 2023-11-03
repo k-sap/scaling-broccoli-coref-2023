@@ -1,0 +1,22 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Nie chciałem być piątym kołem u wozu. Trener Wieczorek nie widział mnie w składzie Ø, a ja jestem na tyle młody i zdrowy, by jeszcze coś pokazać. Nie miałem zamiaru tułać się w rezerwach Odry w czwartej lidze.</p>
+        <p xml:id="p-2">Jak pan ocenia swój półroczny pobyt w Wodzisławiu?</p>
+        <p xml:id="p-3">Dla mnie na pewno było to nowe doświadczenie piłkarskie. Mimo że nie był to udany okres, nie uważam go za stracony.</p>
+        <p xml:id="p-4">Jest pan wolnym piłkarzem, ma pan już jakieś konkretne propozycje?</p>
+        <p xml:id="p-5">Teraz dysponuję swoją kartą i mogę sam podejmować decyzje. Mam kilka propozycji, ale muszę je spokojnie przeanalizować, aby już nie popełnić błędu.</p>
+        <p xml:id="p-6">Czy to prawda, że ma się pan przenieść do Łodzi?</p>
+        <p xml:id="p-7">Jestem po rozmowach z działaczami ŁKS, ale na razie nie mogę nic więcej powiedzieć. Nic nie jest przesądzone.</p>
+        <p xml:id="p-8">Mówi się również, że może wrócić pan na Cichą.</p>
+        <p xml:id="p-9">Też była taka możliwość i ona w dalszym ciągu jest. Tak jak powiedziałem, nie chcę jeszcze niczego przesądzać, muszę w spokoju wszystko przemyśleć.</p>
+        <p xml:id="p-10">Do rozpoczęcia sezonu nie pozostało już wiele czasu. Jak pan się do niego przygotowywał?</p>
+        <p xml:id="p-11">Na początku trenowałem z pierwszą drużyną Odry, zagrałem nawet mecz w Pucharze Intertoto z Dynamem Mińsk. Na obóz jednak już nie pojechałem. Później miałem lekki uraz i trenowałem indywidualnie. To nie to samo co trening z drużyną, ale nadrabiam zaległości i nie powinno być źle.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

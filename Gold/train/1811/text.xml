@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Jednak, czy to nie będzie pewnego rodzaju pułapką. Stawianie na wysoki artyzm, który nie zawsze jest w pełni doceniany przez widzów, może w pewnym sensie okazać się zgubny. Liczba melomanów, i tak stosunkowo skromna, może się jeszcze zmniejszyć. Z takim problemem spotkała się dyrekcja Teatru im. A. Mickiewicza, bowiem bardzo ambitne propozycje repertuarowe mocno zaczęły odbiegać od preferencji widza. Na widowni świeciło pustkami, a instytucja zaczęła borykać się ze sporymi kłopotami finansowymi.</p>
+        <p xml:id="p-2">- Właśnie dlatego powtarzam: ważne jest wszystko i żadnej rzeczy nie można zaniedbać. Trzeba też przy tym wytrwałości, determinacji i kreatywność. Jeśli publiczność słysząc Szymanowski czy Szostakowicz mówi "nie" to nie powód, by się wycofywać. Nasze niedawne doświadczenia uczą, że Szymanowski przy świecach, w pięknej scenografii, okraszony poezją może być bliski szerokiej publiczności. Nie znaczy to bynajmniej, że zrezygnujemy z muzyki lżejszej - musicalowej, operetkowej czy rozrywkowej. Już w najbliższym czasie proponujemy państwu muzykę wiedeńską na Koncercie Noworocznym, najpiękniejsze piosenki o miłości na Walentynki, a w marcu dla Pań zaśpiewa Krzysztof Kiljański. Zapraszamy też na nasze niedzielne poranki, podczas których w luźniejszej nieco atmosferze łącząc muzykę, słowo i elementy teatru staramy się przekonywać zwłaszcza młodych melomanów, że muzyka poważna jest ciekawa, interesująca, wzruszająca a czasem zabawna. Powiem Pani jako teoretyk muzyki i nauczyciel harmonii, a "filharmonia" znaczy przecież umiłowanie harmonii. To taka dziedzina muzyki, która uczy jak z wielu różnych elementów skomponować piękną całość. Harmonia to jedność w wielości, to przeciwieństwa, które trzeba ze sobą umiejętnie połączyć. W harmonii nawet dysonans jest czymś inspirującym i ciekawym, pod warunkiem, że zostanie dobrze rozwiązany.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

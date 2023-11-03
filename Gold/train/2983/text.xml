@@ -1,0 +1,18 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Zapobieganie wymaga oddziaływania na jednostkę i jej otocznie, to jest na rodzinę, środowisko szkolne i grupę rówieśniczą. Szczególnej uwagi i troski wymagają tak zwane grupy wysokiego ryzyka. Do grup tych należą osoby, które już od wczesnej młodości wykazywały zaburzenia osobowości, skłonność do reakcji nerwicowych i lekceważenie zasad współżycia społecznego.</p>
+        <p xml:id="p-2">XXVI. ZABURZENIA PSYCHICZNE SPOWODOWANE ALKOHOLEM</p>
+        <p xml:id="p-3">Przez alkoholizm rozumie się nadmierne spożywanie napojów zawierających alkohol etylowy. Uzależnienie od alkoholu występuje najczęściej w postaci ciągłego picia dużych ilości alkoholu, względnie - wypijania znacznych ilości alkoholu w dni wolne od pracy. Inna postać uzależnienia polega na okresowych ciągach trwających kilka dni lub tygodni przerywanych okresami trzeźwości. W naszym kraju liczbę osób z problemami alkoholowymi określa się na trzy miliony, a w tym uzależnionych na ponad pół miliona.</p>
+        <p xml:id="p-4">W odniesieniu do ilości i rodzaju spożywanego alkoholu istnieją znaczne różnice w poszczególnych krajach. Niemal wszystkie narody śródziemnomorskie spożywają duże ilości wina, które jest traktowane często jako dodatek do posiłków. Anglicy piją alkohole wysokoprocentowe, ale na ogół w małych ilościach. W Polsce dominowało spożycie wódki, ale obecnie ponad 50% wypijanego alkoholu stanowi piwo.</p>
+        <p xml:id="p-5">Uzależnienie od alkoholu dotyczy znacznie częściej mężczyzn niż kobiet.</p>
+        <p xml:id="p-6">Zespól abstynencyjny</p>
+        <p xml:id="p-7">Zespół abstynencyjny (zespół odstawienia) jest następstwem uzależnienia organizmu od alkoholu i przejawia się licznymi zaburzeniami, a występuje zazwyczaj w kilkanaście godzin po zaprzestaniu picia. Do typowych objawów należą między innymi: zaburzenia żołądkowo-jelitowe, szybkie wyczerpanie się, niepokój, przyspieszenie tętna i podwyższenie ciśnienia krwi, ból głowy, drżenie rąk.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

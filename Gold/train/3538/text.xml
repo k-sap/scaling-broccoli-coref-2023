@@ -1,0 +1,18 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">WicemarszalekGrzegorzKurczuk: Dziękuję bardzo senatorowi Szwonderowi.</p>
+        <p xml:id="p-2">WicemarszalekGrzegorzKurczuk: Proszę o zabranie głosu senatora Stanisława Kucharskiego. Kolejnym mówcą będzie pan senator Zbigniew Romaszewski.</p>
+        <p xml:id="p-3">SenatorStanislawKucharski: Panie Marszałku! Wysoka Izbo! Zaproszeni Goście!</p>
+        <p xml:id="p-4">SenatorStanislawKucharski: Pierwszy kwartał każdego roku jest okresem, w którym w komisjach i w Wysokiej Izbie toczą się debaty na temat budżetu naszego państwa oraz sposobu realizacji w ciągu roku zawartych w nim założeń finansowych dotyczących różnych dziedzin życia gospodarczego, społecznego i politycznego.</p>
+        <p xml:id="p-5">SenatorStanislawKucharski: Uchwalony budżet posiada dwie charakterystyczne cechy. Przede wszystkim jego dochody pochodzą głównie od podatników, stanowią część dochodów polskich obywateli. Dlatego w jego przypadku zawsze rodzą się kontrowersje, szczególnie jeśli chodzi o sposób realizacji budżetu w poszczególnych ogniwach administracji państwowej i w życiu gospodarczym. Ten temat zawsze budzi wiele kontrowersji, rodzi wiele pytań podczas naszych spotkań z elektoratem.</p>
+        <p xml:id="p-6">SenatorStanislawKucharski: Parlamentarzyści z izby poselskiej i senatorskiej najczęściej muszą się z tego bardzo gęsto tłumaczyć. Nie jest obojętne obywatelowi, nie jest obojętne podatnikowi, jaka część budżetu, w jaki sposób i przy zachowaniu jakiej dyscypliny finansowej jest konsumowana przez taką czy inną grupę albo czy jest przekazana do dyspozycji takiego lub innego resortu. Nam i naszym wyborcom chodzi o to, żeby w sposób w miarę możliwości obiektywny, trafny – jakkolwiek jest to trudne i nie zawsze doskonałe – starać się wyjść naprzeciw zapotrzebowaniom, nadziejom i perspektywom zarówno naszego państwa, w tym wypadku zaś całego kraju, jak i przeciętnego obywatela.</p>
+        <p xml:id="p-7">SenatorStanislawKucharski: Pozwoli pan, Panie Marszałku, że ustosunkuję się do treści kilku działów budżetu. Każdy obywatel myśli zarówno o bezpieczeństwie tego kraju, o jego stabilności, jak i o osobistym bezpieczeństwie. Myśli również o swym zdrowiu od chwili urodzenia, a może nawet poczęcia, do chwili śmierci. Dlatego również te dwie dziedziny muszą być w sposób ewidentny, proporcjonalny uwzględnione właśnie w ustawie budżetowej.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

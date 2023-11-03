@@ -1,0 +1,12 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Z okazji Światowego Dnia Czerwonego Krzyża i Czerwonego Półksiężyca - największego święta humanitaryzmu, obchodzonego w 192 państwach na całym świecie, Zarząd Rejonowy PCK w Gorlicach wspólnie z Klubem HDK PCK przy Komendzie Powiatowej Policji zorganizował okolicznościowe spotkanie, podczas którego zasłużonym honorowym dawcom krwi wręczono odznaczenia. - 180 lat temu, 8 maja urodził się Henry Dunant, założyciel największej na świecie organizacji humanitarnej i pierwszy laureat Pokojowej Nagrody Nobla. Również gorliccy krwiodawcy należą do ponad stu milionów wolontariuszy, pracujących na rzecz innych w ramach PCK. To właśnie w Tygodniu Polskiego Czerwonego Krzyża, gdy w całym kraju odbywają uroczyste spotkania, imprezy plenerowe, pogadanki, prelekcje oraz zbiórki uliczne na cele dobroczynne, chcieliśmy wyróżnić tych zasłużonych - mówi Marek Podraza, wiceprzewodniczący Rejonowej Rady Honorowych Dawców Krwi PCK w Gorlicach. W spotkaniu udział wzięli m.in.: zasłużeni honorowi dawcy krwi - lek. med. Marian Sikora, prezes ZR PCK w Gorlicach, Zbigniew Sobieraj, prezes klubu HDK PCK przy KPP Gorlice, oraz komendant powiatowy policji, podinspektor Michał Gawlik. W trakcie uroczystości odznaczono zasłużonych honorowych dawców krwi. Odznakę Zasłużony Honorowy Dawca Krwi I stopnia otrzymał Marcin Reczek; Zasłużony Honorowy Dawca Krwi II stopnia: Bogusław Czajka, Sławomir Habel, Jan Lisowicz, Sławomir Szostak, Leszek Waląg, Janusz Kulisiewicz; Zasłużony Honorowy Dawca Krwi III stopnia: Jolanta Światek, Joanna Woźniak, Bernadetta Rybczyk, Przemysław Matuszyk, Wiesław Rybczyk, Jerzy Szydłowski, Wacław Kretowicz.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

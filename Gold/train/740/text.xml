@@ -1,0 +1,16 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Art. 174. W przypadku gdy w toku postępowania odwoławczego organ rozpatrujący odwołanie stwierdzi, że zobowiązanie podatkowe zostało ustalone w kwocie niższej, niż wynika to z obowiązujących przepisów, zwraca sprawę organowi podatkowemu pierwszej instancji w celu dokonania wymiaru uzupełniającego oraz zmiany w tym zakresie dotychczasowej decyzji. Od nowej decyzji służy odwołanie, które podlega rozpatrzeniu łącznie z odwołaniem wniesionym od decyzji ustalającej pierwotny wymiar.</p>
+        <p xml:id="p-2">Art. 175. § 1. Jeżeli obliczenie i pobranie podatku odbywa się za pośrednictwem płatnika, a podatnik kwestionuje obliczenie bądź istnienie obowiązku podatkowego, może on w terminie jednego miesiąca od dnia pobrania podatku przez płatnika wystąpić do organu podatkowego z żądaniem sprostowania obliczenia podatku bądź uznania nieistnienia obowiązku podatkowego oraz o zwrot niesłusznie pobranej kwoty. Od decyzji organu podatkowego służy odwołanie.</p>
+        <p xml:id="p-3">2. W zakresie podatku od wynagrodzeń pobieranego przez płatników będących jednostkami gospodarki uspołecznionej uprawnienia, o których mowa w § 1, zastrzeżone dla organów podatkowych przysługują również tym płatnikom. Wydanie decyzji w tych sprawach następuje na żądanie podatnika, wniesione przed upływem roku od pobrania podatku. W tym samym terminie płatnik może wydać decyzję z urzędu. Od wydanej decyzji służy podatnikowi odwołanie do organu podatkowego.</p>
+        <p xml:id="p-4">Art. 176. § 1. Organem odwoławczym w sprawach niektórych podatków jest podatkowa komisja odwoławcza, działająca przy izbie skarbowej.</p>
+        <p xml:id="p-5">2. Minister Finansów w drodze rozporządzenia określa rodzaje podatków, o których mowa w § 1, skład oraz tryb powoływania podatkowych komisji odwoławczych i ich organizację.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

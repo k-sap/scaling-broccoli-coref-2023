@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">W parku Zamkowym w Raciborzu odbyły się tradycyjne Sztafetowe Biegi Przełajowe.</p>
+        <p xml:id="p-2">W miejskich zmaganiach, które odbyły się 30 września, udział wzięły szkoły podstawowe oraz gimnazjalne. Ekipy, które w rywalizacji zajmowały pierwsze oraz drugie miejsca, otrzymywały awans do startu w etapie rejonowym, który odbędzie się 9 października, również w raciborskim parku. Jak co roku, prym w sztafetowych biegach wiedli reprezentanci SP nr 8 oraz SP nr 15 i to między tymi szkołami rozegrała się walka o najlepsze pozycje. Obie ekipy podzieliły się miejscami. Ci pierwsi zwyciężyli w kat. chłopców, a dziewczęta z Ósemki były drugie. Piętnastka triumfowała w kat dziewcząt, a chłopcy byli drudzy. W kat. dziewcząt III m. zajęła SP nr 4, a wśród chłopców SP nr 18.</p>
+        <p xml:id="p-3">W biegach szkół gimnazjalnych definitywnym zwycięzcą zawodów w obu kat. było Gimnazjum Mistrzostwa Sportowego. Miejsca drugie obstawiło G nr 3. Ostatnie miejsce na podium w kat. dziewcząt zajęło G nr 1, a wśród chłopców III m. wywalczyło G nr 2.</p>
+        <p xml:id="p-4">W parku przy SMS, 1 października, odbyły się biegowe zawody rejonowe szkół ponadgimnazjalnych. Awans do rozgrywki na szczeblu wojewódzkim wywalczyły dziewczęta z ZSOMS, drugie były reprezentantki ZSO nr 2, a III m. zajęło ZSO nr 1. Wśród chłopców również najlepsi okazali się uczniowie z ZSOMS. II m. przypadło ZSM, a III m. ZSO nr 1.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

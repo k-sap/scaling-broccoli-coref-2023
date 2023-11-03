@@ -1,0 +1,16 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Grali Szekspira, Ibsena, Gogola. Wystawiali sztuki irackich dysydentów. Każda z nich zawierała sens między wierszami. Publika miała więcej zrozumieć z ciszy i gestu niż z tekstu. Iracki wojak-pisarz zatrzymuje trafiającą go kulę. Kula mówi: masz drugą szansę, spróbuj mnie uniknąć. Żołnierz po śmierci spotyka kolegę. Kolega jest bogaty. Mówi: ty walczyłeś, a ja żyję. Żołnierz dostaje kulę w plecy. Same polityczne komunikaty.</p>
+        <p xml:id="p-2">- Budynek nic nie znaczył, to aktorzy wnosili tam znaczenie - zapala się Fadel. Cała teatralna śmietanka zbiera się popołudniami w galerii Hawar. Znają się, dobrze wiedzą, kto specjalnie unikał sławy. Kto próbował uciekać z kraju. Kogo przesłuchiwała policja. Kto musiał reżyserować grafomańską sztukę Saddama. Bezrobotne talenty przesiadują nad herbatą wśród rzeźb z muzeum narodowego. Właściciel galerii Kasim Al-Sabti skupował te dzieła od szabrowników.</p>
+        <p xml:id="p-3">W spalonym teatrze Al-Raszid ćwiczą tancerze. Nikt im za to nie płaci, może i nikt nie przyjdzie ich oglądać. Ale tym się właśnie różni artysta od urzędnika. Jest uwznioślony. Niech nawet mówią, że afektowany.</p>
+        <p xml:id="p-4">Człowiek bez języka</p>
+        <p xml:id="p-5">Magister ekonomii i administracji Ibrahim Al-Dżaburi mieszka z rodziną w ubogim domku w bagdadzkiej dzielnicy Adżadrija. Ma 53 lata, cały reżim przepracował jako kierownik działu w towarzystwie ubezpieczeń. Teraz nikt nie dba o polisy, ale Al-Dżaburi chwali się, że chodzi do pracy. To ustawia go w elicie. Nawet jeśli praca polega tylko na podpisywaniu odcinka wypłaty. Płacą Amerykanie, pensja w sektorze ubezpieczeń wzrosła kilkanaście razy.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

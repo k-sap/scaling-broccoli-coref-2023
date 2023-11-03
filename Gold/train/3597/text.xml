@@ -1,0 +1,16 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Nie, to nie pomyłka! Rysunki 15.8 i 15.10 naprawdę przedstawiają główne okno programu XMMS. To, że wyglądają zupełnie inaczej, jest efektem dostarczania przez firmę Red Hat oraz Mandrake różnych domyślnych motywów graficznych okna (tak zwanych skórek). Jeśli nie odpowiada Ci wygląd programu, możesz pobrać z Internetu inną skórkę i całkowicie odmienić główne okno programu XMMS.</p>
+        <p xml:id="p-2">Płyty kompaktowe</p>
+        <p xml:id="p-3">Choć skompresowana muzyka cieszy się wśród użytkowników komputerów większym powodzeniem - głównie ze względu na większą wygodę użytkowania i możliwość odtwarzania piosenek bezpośrednio z dysku twardego komputera bez konieczności wkładania płyty do czytnika - jeśli nie dysponujesz jeszcze skompresowaną wersją zakupionego niedawno albumu, nic nie stoi na przeszkodzie, abyś odtworzył zapisane na płycie kompaktowej piosenki za pomocą komputera. Obie opisywane dystrybucje zawierają proste, acz funkcjonalne, narzędzie służące do odtwarzania płyt CD.</p>
+        <p xml:id="p-4">Zaraz po włożeniu płyty kompaktowej do napędu CD-ROM, program Odtwarzacz CD powinien uruchomić się automatycznie. Jeśli jednak zamkniesz jego okno nie wyciągając płyty kompaktowej z napędu CD-ROM, będziesz musiał samodzielnie otworzyć je ponownie. System Red Hat Linux 9.</p>
+        <p xml:id="p-5">Aby odtworzyć płytę kompaktową w systemie Red Hat Linux 9, włóż ją do napędu CD-ROM, a następnie otwórz menu systemowe (klikając ikonę z symbolem czerwonego kapelusza, umieszczoną w lewym dolnym rogu ekranu), wybierz w nim pozycję Sound amp; Video, a w menu podrzędnym kliknij pozycję Odtwarzacz CD (rysunek 15.11). Na ekranie otworzy się okno programu Odtwarzacz CD - wystarczy teraz, byś kliknął przycisk rozpoczynający odtwarzanie, a z głośników popłynie muzyka (rysunek 15.12).</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

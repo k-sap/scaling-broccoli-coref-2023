@@ -1,0 +1,14 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Kilka miesięcy później współpracownicy Świtalskiego założyli Bank Komercyjny Posnania SA z kapitałem założycielskim "wypracowanym" przez Puszczyka w wysokości 20 mld zł. Początkowo uchodził za najbardziej prężny wśród prywatnych polskich banków. Elektromis JV wniósł tam cały swój majątek trwały. Imperium Świtalskiego rozrastało się. Oprócz sieci hurtowni jego firma była właścicielem kilku gazet, radia RMI i tygodnika "Miliarder" prowadzącego - zdaniem resortu finansów - nielegalne loterie. Spółka Presspo Świtalskiego przez pierwsze trzy miesiące wydawała tygodnik "Nie" Jerzego Urbana. Elektromis miał też własną pierwszoligową drużynę piłkarską Tygodnik Miliarder Pniewy, w którym piłkarze (dzisiaj to nie dziwi, wtedy było nowością) byli zabezpieczeniem kredytowym. Ogromne sumy pochłaniała też produkcja popularnego na początku lat 90. programu telewizyjnego "Koło fortuny", a głównie nagrody, które można było tam wygrać (złoto, samochody, mieszkania). Bank Posnania upadł.</p>
+        <p xml:id="p-2">W 1994 r. prokuratura wszczęła umorzone wcześniej dochodzenie przeciwko Elektromisowi. Po roku wpłynął do Sądu Rejonowego w Poznaniu akt oskarżenia przeciwko 13 osobom z kierownictwa holdingu i satelickich spółek. Prokuratura zarzucała im uszczuplenie dochodów Skarbu Państwa o co najmniej 40 mln nowych złotych. Prokuraturze nie udało się jednak zgromadzić dowodów przeciwko prezesowi straży pożarnej Elektromisu, Świtalski występował w sądzie jako świadek.</p>
+        <p xml:id="p-3">Proces trwał pięć i pół roku. Rozprawy (odbyło się 47 posiedzeń sądu) wielokrotnie odraczano lub przerywano, oskarżeni często chorowali, dostarczali zaświadczenia lekarskie, w tym i Ø od seksuologa. Adwokaci stosowali całą gamę kruczków prawnych w imię jeszcze jednego patentu:</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Dr Aleksander Proksa (41 l.) został prezesem Rządowego Centrum Legislacyjnego. Do czasu ogłoszenia przez premiera i zakończenia konkursu na obsadę dotychczas zajmowanego przez niego stanowiska - nadal będzie sekretarzem Rady Ministrów. RCL ma koordynować działalność legislacyjną rządu i premiera. Podlega bezpośrednio premierowi, ma własny budżet i 85 etatów (dziś jest ok. 30 wakatów). W RCL będą pisane projekty ustaw na zamówienie szefa rządu i wydawane opinie o przygotowanych resortowych aktach prawnych. Tu też będzie redagowany Dziennik Ustaw i Monitor Polski. Prezes RCL ukończył Wydział Prawa i Administracji UJ, a także aplikację sędziowską. Do 1993 r. był pracownikiem naukowym w Katedrze Prawa Cywilnego i Prawa Międzynarodowego Prywatnego UJ (praca doktorska: "Sądowe ustalenie ojcostwa w prawie prywatnym międzynarodowym"). Orzekał w samorządowym kolegium odwoławczym i był wspólnikiem w firmie Centrum Prawne. Od 1993 r. dyrektor Biura, a potem Departamentu Prawnego w Urzędzie Rady Ministrów. Od stycznia 1998 r. sekretarz Rady Ministrów. Żona Ø jest urzędnikiem państwowym. Córka Ø uczy się w liceum, a syn Ø w gimnazjum. Hobby: lubi turystykę, a zwłaszcza wypoczynek z rodziną.</p>
+        <p xml:id="p-2">Agnieszka Świecka-Pilaszek (30 l.) została redaktor naczelną tygodnika "Przyjaciółka". Zastąpiła Ewę Niezbecką, która została dyrektorem do spraw wydawniczych w wydawnictwie Edipresse Polska Sp. z o.o. Tygodnik ukazuje się obecnie w nakładzie ponad 700 tys. egzemplarzy. Po ukończeniu Instytutu Profilaktyki Społecznej i Resocjalizacji UW była słuchaczką rocznego kursu dziennikarskiego przy redakcji "Polityki". Następnie została reporterem, a później zastępcą kierownika działu informacji w tygodniku "The Warsaw Voice". W 1996 r. przeszła do "Przyjaciółki", gdzie była kolejno kierowniczką działu, sekretarzem redakcji, a ostatnio zastępcą redaktor naczelnej. Mąż Ø jest menedżerem w polskim oddziale zagranicznej firmy. Ma córkę, uczennicę gimnazjum.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

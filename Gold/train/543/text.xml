@@ -1,0 +1,17 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">#PoselIzabellaSierakowska: Nie bądź taki Miller.</p>
+        <p xml:id="p-2">#PoselMiroslawKuklinski: Wprowadzona od początku roku reforma ubezpieczeń społecznych wzbudza w dalszym ciągu duże zainteresowanie ze strony społeczeństwa. Zamieszanie, jakie wystąpiło na początku roku w związku z nowym sposobem rozliczania składek, powoli ustępuje. Na szczęście zmalało oblężenie oddziałów ZUS, choć trudno już mówić o ustabilizowaniu się sytuacji.</p>
+        <p xml:id="p-3">#PoselMiroslawKuklinski: Wprawdzie w przedłożonej dziś Wysokiej Izbie przez rząd informacji na temat wdrażania reformy ubezpieczeń społecznych ze szczególnym uwzględnieniem sytuacji finansowej ZUS porusza się wiele kwestii, to jednak o sytuacji finansowej ZUS mówi się szczątkowo. O zachwianiu sytuacji finansowej w ZUS wie chyba dziś każdy, głośno było ostatnio o tym w środkach masowego przekazu.</p>
+        <p xml:id="p-4">#PoselMiroslawKuklinski: Jak czytamy już na wstępie informacji, zdaniem rządu taki stan rzeczy wynika głównie z dwóch powodów. Pierwszy to przesunięcie terminów płatności składek w związku ze zmianą zasady opłacania składek na ubezpieczenia społeczne dla osób otrzymujących wynagrodzenie za poprzedni miesiąc w pierwszych dniach miesiąca następnego. Drugi powód, o którym mówi rząd, to większe, niż przewidywano wydatki na zasiłki chorobowe. Są to, jak już wspomniałem, dwa główne czynniki, które powodują zachwianie płynności finansowej ZUS. Z pewnością ważnym powodem jest także niezadowalająca ściągalność składek oraz zadłużenie płatników.</p>
+        <p xml:id="p-5">#Gloszsali: To fakt.</p>
+        <p xml:id="p-6">#PoselMiroslawKuklinski: Jak możemy dowiedzieć się z informacji, największymi dłużnikami są branże: górnictwo, PKP, hutnictwo oraz zakłady zbrojeniowe. To co może zdziwić, jednak w pozytywnym sensie, to fakt zdecydowanej poprawy ściągalności składek w górnictwie. W informacji czytamy: Dotychczas zebrane dane pozwalają stwierdzić, że po drugim terminie płatności składek górnictwo ma w 1999 r. ściągalność składek na poziomie 90%. W roku poprzednim ściągalność ta wynosiła, przypomnę, 20-30%. Jest to zadziwiająca poprawa, wprost niewiarygodna.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

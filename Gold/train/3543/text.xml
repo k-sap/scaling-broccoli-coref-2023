@@ -1,0 +1,14 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">SenatorLechFeszler: Jestem przekonany - jako praktyk, burmistrz dwóch kadencji - iż projektowana obecnie reforma jest konieczna. Z tej konieczności przeprowadzenia dalszych reform zdają sobie sprawę wszyscy, zarówno z koalicji rządzącej, jak i z opozycji. Pamiętając obawy z 1990 r., które okazały się płonne, również teraz musimy zdać sobie sprawę z tego, iż reformę należy wreszcie rozpocząć. Dalsze przeciąganie tego w czasie jest zgubne dla naszego kraju, bo blokuje reformowanie takich dziedzin społecznych jak oświata, ochrona zdrowia czy opieka społeczna. I stąd kolejne ekipy tkwią w zamkniętym kręgu niemożności, podejmując tylko doraźne działania.</p>
+        <p xml:id="p-2">SenatorLechFeszler: Panie Marszałku! Wysoka Izbo! Omawiany przez nas projekt ustawy nie przesądza o kształcie reformy, stwarza jedynie możliwość - również dla tych, którzy mają inne projekty - wzajemnej dyskusji i wypracowania jak najlepszych rozwiązań.</p>
+        <p xml:id="p-3">SenatorLechFeszler: Projekt ustawy stwarza możliwość przesunięcia wyborów do samorządu gminnego do stu dwudziestu dni od ustawowej daty wyborów. Pragnę przypomnieć, iż do Sejmu wpłynęły poselskie projekty ustaw o ordynacji wyborczej do rad gmin. Obecnie projekty te są w komisjach sejmowych. Trudno w tej chwili przesądzać o tym, kiedy zostaną przyjęte, a także jakie zostaną przyjęte rozwiązania. Istnieje więc zagrożenie, iż kalendarz wyborczy zmusi do zarządzenia wyborów na podstawie dotychczasowej ordynacji, którą wszyscy chcą zmienić. Istnieje też prawdopodobieństwo, iż terminy czynności wyborczych określone w kalendarzu wyborczym utracą swą aktualność w wypadku uchwalenia nowego prawa wyborczego do rad gmin.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

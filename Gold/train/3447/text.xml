@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Encarta 2000 zaspokoi teraz najwyższe wymagania, nie pozbawiając jednocześnie użytkownika mniej wyrobionego możliwości szybkiego dostępu do wiedzy uproszczonej. Zapewniają to nie tylko głęboko przemyślany i wysoce racjonalny dobór i układ treści, ale także wspaniała organizacja dostępu do nich, czyli tzw. interfejs.</p>
+        <p xml:id="p-2">Popatrzmy zresztą na ilustracje. Oto ekran tytułowy programu z otwartym po lewej stronie polem prostego wyszukiwania haseł. Jak widać, lista haseł rozwija się w miarę wpisywania kolejnych liter. Ja - szukając przykładowo informacji o Polsce - wpisałem "pola...". Wybrałem następnie właściwe słowo, kliknąłem na nim wynik został pokazany.</p>
+        <p xml:id="p-3">Jak widać, nie otrzymuję jeszcze całości hasła Polska, ale coś w rodzaju "sterowni", która pozwala mi w następnym kroku odnaleźć interesujący temat potraktowany bardziej szczegółowo. Proszę zwrócić uwagę na wykaz artykułów powiązanych, prosty dostęp do map (już jest wskazana lokalizacja Polski na mapie świata!), listę dostępnych odwołań multimedialnych i spis możliwych do wykonania akcji (interactivity), wreszcie wykaz odpowiadających tematowi adresów internetowych, których wybranie oczywiście przeniesie użytkownika automatycznie do Sieci.</p>
+        <p xml:id="p-4">Zwróćmy uwagę na wspomniane "akcje" czy też "odniesienia interaktywne". Tak więc zajmijmy się - dla przykładu - budową okrętu podwodnego. Wywołujemy odpowiedni podprogram i za pomocą specjalnych obsługiwanych myszką suwaków (trójkącików widocznych u dołu ilustracji) możemy uczynić widocznymi interesujące nas fragmenty, nadając jednocześnie powłoce okrętu przezroczystość.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

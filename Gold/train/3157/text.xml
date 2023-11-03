@@ -1,0 +1,30 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">sp0: tak ewentualnie..</p>
+        <p xml:id="p-2">sp1: bo dzieci przy dzieciach to jednak osobno..</p>
+        <p xml:id="p-3">sp0: potrzebne. na dwie osoby..</p>
+        <p xml:id="p-4">sp1: nau do do nauki. ale jak są dwie osoby i tak jak ty mówisz jak byś to rozpieprzył i byś tam sypialnie to. idealna sprawa. tak tak to by była idealna sprawa wiesz ?</p>
+        <p xml:id="p-5">sp0: tutaj na przykład zrobić sobie już wiesz bez ścian jakiś taki kącik nie ?</p>
+        <p xml:id="p-6">sp1: no..</p>
+        <p xml:id="p-7">sp0: czy wiesz postawić fotelik. ławę albo coś. ale mówię ja już nie potrafiłbym mieszkać tak na kupie wiesz ?</p>
+        <p xml:id="p-8">sp1: jak to nie ?</p>
+        <p xml:id="p-9">sp0: odzwyczaiłem się nie potrafiłbym mieszkać..</p>
+        <p xml:id="p-10">sp1: u kogoś ?</p>
+        <p xml:id="p-11">sp0: znaczy z dużą ilością ludzi. tak jak teraz na przykład jesteśmy..</p>
+        <p xml:id="p-12">sp1: ..</p>
+        <p xml:id="p-13">sp0: może kwestia przyzwyczajenia ale przez te studia i przez to mieszkanie odzwyczaiłem się strasznie. ani się skupić ani nic zrobić wiesz no. tak po prostu mieszkać tylko..</p>
+        <p xml:id="p-14">sp1: ano trzeba się wyłanczać robisz swoje i gra muzyka no co ?</p>
+        <p xml:id="p-15">sp0: ja muszę mieć kąt dla siebie wiesz zauważyłem taki gdzieś..</p>
+        <p xml:id="p-16">sp1: no tak każdy to ucieka troszeczkę nieraz potrzebuje. samotności usiąść coś pomyśleć porobić to. to nie ma wiesz nie ma szablonu. u nas to u nas to była dwupokoleniowa rodzina. a nawet trzy..</p>
+        <p xml:id="p-17">sp0: ale kiedyś tak się mieszkało..</p>
+        <p xml:id="p-18">sp1: no. babka całe życie miszkała z nami i się..</p>
+        <p xml:id="p-19">sp0: ale ja też kiedyś się dobrze czułem jakoś nie wiem chyba odwykłem..</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

@@ -1,0 +1,14 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Coraz więcej mówi się o konieczności wprowadzenia w życie ustawy o ratownictwie medycznym oraz ustawy o sytuacjach kryzysowych. Znalazły się one wśród zadań priorytetowych Ministerstwa Zdrowia. Na tych fundamentach ma powstać zintegrowany system, który umożliwi skuteczniejszą pomoc poszkodowanym we wszelkiego rodzaju wypadkach. Jedną z istotnych kwestii jest określenie zadań, jakie będzie spełniać ratownik medyczny. Od tego powinien zależeć sposób rekrutacji oraz program kształcenia studentów tej specjalności. Podniesienie jakości nauczania poprawi prestiż zawodu ratownika medycznego.</p>
+        <p xml:id="p-2">Z kilkuletnich obserwacji wynika, że wśród kandydatów na studia przeważają jednak ci, którym nie udało się dostać na kierunek lekarski, a zdali łatwiejszy egzamin na ratownictwo. Tworzyły się w ten sposób roczniki sfrustrowanych młodych ludzi, którzy na ratownictwo zdawać nie chcieli. Zakładając, że będzie to tylko przechowalnia do czasu ponownego zdawania na wydział lekarski, czekali i nie kryli swojej niechęci do kierunku, na którym się znaleźli. Spowodowało to nieprzychylny odbiór w gronie pedagogów i studentów innych kierunków. Z czasem prawie wszyscy zaczęli traktować przyszłych ratowników jak studentów drugiej kategorii. To z kolei miało negatywny wpływ na garstkę tych, którzy od początku bardzo chcieli zostać ratownikami.</p>
+        <p xml:id="p-3">Inna grupa kandydatów po prostu się do tego zawodu nie nadaje. Trudno sobie przecież wyobrazić drobną, szczupłą dziewczynę, prowadzącą przez 40 minut masaż serca albo dźwigającą po schodach otyłego pacjenta z zawałem. Mimo tak oczywistych przeszkód, nie można było przeprowadzać testów sprawnościowych na egzaminie wstępnym, gdyż było to niezgodne z rozporządzeniem ministra.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

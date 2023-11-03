@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Siuj - wątroba, He - serce, Hu - śledziona, Sy - płuca, Juj - nerki, Si - potrójny ogrzewacz. Dodatkowo wizualizujemy kolor żywiołu a myślą regulujemy strumień energii.</p>
+        <p xml:id="p-2">2. W tym ćwiczeniu intonujemy sylaby odpowiednie do interesującego nas narządu przez sześć razy (można w oparciu o konkretny dźwięk), czyli np. dla serca He, itd.</p>
+        <p xml:id="p-3">3. Punkt 3 stosujemy dla wyrównania energetycznego precyzyjnego na zasadzie prawa "matka pomaga synowi" zatem wspierając dany organ intonujemy sylabę żywiołu "matki", np. chorej "zablokowanej" wątrobie zaintonujemy dźwięk nerek - Juj (Czuj), przy braku energii w śledzionie lub żołądku "matkę Ziemi" - Ogień i sylabę He w kolorze czerwonym, chorobę nerek leczyć należy "matką" Wody - Metalem czyli sylabą Sy i kolorem białym, itp.</p>
+        <p xml:id="p-4">4. Kolejna możliwość dotyczy samoregulacji organizmu i wzajemnej kontroli narządów. Na rysunku Pięciu Przemian powyżej można zauważyć cykl tzw. systemu kontrolnego, tj. Drzewo zuboża Ziemię, Ziemia wchłania Wodę, Woda gasi Ogień, Ogień niszczy Metal, Metal tnie Drzewo. Kiedy na przykład wystąpił brak energii w wątrobie, powodem może być nadmiar energii w płucach (Metal tnie Drzewo), z kolei brak energii w żołądku i trzustce trzeba uzupełnić poprzez dźwięk wątroby Siuj (Drzewo uciska Ziemię) w III etapie wykonywania uzdrawiającego ćwiczenia. Za to niedobór energii w płucach - Ø dźwiękiem serca He (Ogień trawi Metal) poprzez III etap i sześciokrotnego wykonania tej sylaby. Niedobór w sercu wymaga sylaby Czuj (Woda gasi Ogień) itd.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

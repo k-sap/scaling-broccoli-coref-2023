@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Rewelacyjne wyniki leczenia białaczki szpikowej otwarły szeroko wrota do dalszych poszukiwań tego typu. Szczególną uwagę zwrócono na inne choroby rozrostowe krwi, określane mianem zespołów mieloproliferencyjnych. Cechuje je nadmierna produkcja w szpiku kostnym dojrzałych erytrocytów (polycythemia vera), trombocytów (thrombocythemia essentiale) lub włókien kolagenu (myelofibrosis). W latach 2005-2007 odkryto, iż u podstaw tych od dawna znanych, klasycznych chorób leży nabyta mutacja genu kodującego pewien element ścieżki sygnałów. Element ten to, mówiąc fachowo, kinaza proteinowa JANUS 2, a więc cząsteczka z szeroko pojętej rodziny przekaźników, których zaburzenie spotkaliśmy w białaczce szpikowej. Nie znamy jeszcze leku, który potrafiłby ją hamować bądź regulować jej powiązania z innymi szlakami (na co wskazuje choćby jej "janusowa" twarz). Ale z chwilą gdy staną się one dostępne, leczenie nowotworów krwi przekształci się rzeczywiście w terapię wybiórczą, celowaną. Tymczasem trwają poszukiwania mutacji w innych kinazach. W roku 2007 "zbadano pięćset osiemnaście genów kodujących kinazy białkowe u dwustu chorych na raka i wykryto około tysiąca mutacji". Jest jednak niesłychanie trudno ocenić ich rolę w inicjacji nowotworu. Geny bowiem, które badamy, gdy choroba została już zdiagnozowana, zawierają miliony komórek ze zmutowanym DNA. Niektóre z tych mutacji powstały pod wpływem pierwszych zaburzeń i odgrywają rolę we wzroście i szerzeniu się nowotworu. Są niejako "kierowcami"; inne to mutacje przygodne; nazywa się je "pasażerami". W pewnych postaciach raka płuc (tak zwanej postaci niedrobnokomórkowej) ma miejsce trwałe uszkodzenie na powierzchni komórki swoistego receptora. W próbach klinicznych są już leki, które zmierzają do okiełznania nadpobudliwego receptora, określanego skrótem EGFR. U niektórych chorych udaje się uzyskać poprawę, u innych po pewnym czasie rozwija się odporność, ujawnia się następna mutacja. Są to jeszcze obserwacje stosunkowo nieliczne i krótkotrwałe. To pole działania znajduje się w centrum zainteresowania przemysłu farmaceutycznego, receptor bowiem to początek drogi sygnałów.</p>
+        <p xml:id="p-2">PRAWDY BIOLOGII A WIARA</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

@@ -1,0 +1,16 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Znowu rewolucja? Co jeszcze można wymyślić? Użytkownicy komputerów zalewani są ofertami szybkiego dostępu do cyberświata. Kuszą operatorzy telekomunikacyjni. Konkurują z nimi telewizje kablowe, a ostatnio uaktywnili się na tym polu operatorzy telefonii komórkowej, proponując specjalną kartę do komputera przenośnego zapewniającą dostęp do Internetu z każdego niemal miejsca.</p>
+        <p xml:id="p-2">Nie dość jednak, że firmy kuszą coraz bardziej wyszukaną ofertą. By z niej skorzystać, nie wystarczy porównanie cen. Zagubiony klient musi jeszcze przebrnąć przez liczne pojęcia, jakich nie znajdzie w żadnym polskim słowniku. Czym się różni Blueconnect od Bluetooth? Co mają wspólnego WiFi i hotspot? I czy to wszystko jakoś łączy się w całość z GPRS, UMTS, ADSL, EDGE? No a teraz jeszcze WiMax.</p>
+        <p xml:id="p-3">Wystarczy komin</p>
+        <p xml:id="p-4">Bielsko-Biała dobrze ilustruje istotę nowej technologii. Wystarczy zainstalować na wysokim budynku specjalny nadajnik radiowy, by umożliwić dostęp do Internetu odbiorcom w promieniu 30 km (po przeniesieniu nadajnika na komin elektrociepłowni zasięg się zwiększy do technologicznego maksimum 50 km). Co jednak najważniejsze, w transmisji sygnału nie przeszkadzają przeszkody terenowe. Nawet jeśli na drodze między anteną a odbiorcą znajdzie się góra (jak w okolicach Bielska-Białej), komunikacja nadal jest możliwa.</p>
+        <p xml:id="p-5">By stać się odbiorcą sygnału, wystarczy założyć na budynku antenę odbiorczą. Ale, jak zapewnia Krzysztof Janicki z koncernu Intel (największego na świecie producenta mikroprocesorów i głównego promotora WiMaxa), to tylko pierwszy etap wdrażania nowej technologii. Już za rok pojawią się prostsze odbiorniki, które można będzie ustawiać wewnątrz pomieszczeń jak zwykły modem. Rewolucja dopełni się natomiast w 2007 r., kiedy pojawią się zminiaturyzowane odbiorniki WiMax od razu wbudowywane do komputerów przenośnych. Wystarczy wówczas znaleźć się w zasięgu nadajnika, by korzystać z dobrodziejstw szybkiego Internetu. Można będzie nawet się przemieszczać, nie tracąc łączności, podobnie jak dziś rozmawiając przez komórkę.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

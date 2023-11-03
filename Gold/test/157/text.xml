@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Okupacyjne wspomnienia Władysława Szpilmana należały do najlepiej sprzedających się książek ubiegłego roku. Po wielkim sukcesie ekranizacji "Pianisty" Polańskiego na festiwalu w Cannes zainteresowanie tą tematyką z pewnością jeszcze wzrośnie. Tym bardziej warto polecić książkę nie mniej interesującą, a trochę zepchniętą w cień, mianowicie "Ucieczkę z getta" Haliny Zawadzkiej. Co mnie w niej zafascynowało - to wątek nieustającego poczucia zagrożenia w obcym, wrogim świecie. Żydówka uciekła z getta, a dwie wspaniałe, szlachetne Polki przygarnęły ją i chroniły do końca. A przecież każdy dzień stanowił dla uciekinierki śmiertelne zagrożenie ze strony ludzi, z którymi miała kontakt. Żeby nie rozpoznali jej tożsamości, żeby jej nie zadenuncjowali. Niesłychanie dramatycznym fragmentem tej arcyciekawej autobiograficznej opowieści jest scena, gdy syn jednej z Polek, dowiedziawszy się komu matka daje schronienie, niemal wpada w szał i tylko strach przed konsekwencjami wobec matki powstrzymuje go przed popełnieniem podłości. Tu refleksja: mówimy często, że wielu Polaków zginęło ratując Żydów i że ginęli - co jest prawdą - razem z ratowanymi, ale pomijamy ważny szczegół, że w ogromnej większości przypadków ginęli po denuncjacjach innych Polaków. Autorka książki Halina Zawadzka spisała swoje wspomnienia nie mogąc zapomnieć upokorzenia, jakiego doznała, gdy wysłuchiwała od swoich aryjskich współtowarzyszy obelżywych i drwiących wypowiedzi na temat "Żydków, z którymi Hitler robi porządek". Wtedy nie mogła odpowiednio reagować, lecz musiała - aby nie zdradzić się ze swoimi uczuciami - dosłownie robić dobrą minę do złej gry. Nie tylko jej ten upokarzający ból pozostał do dziś.</p>
+        <p xml:id="p-2">Halina Paszkowska</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

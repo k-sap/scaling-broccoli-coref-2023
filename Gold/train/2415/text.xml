@@ -1,0 +1,18 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Żółto-niebiescy sprawdzą pomocników</p>
+        <p xml:id="p-2">Siebert ponownie trenuje z Arką</p>
+        <p xml:id="p-3">Arka Gdynia wciąż poszukuje środkowego ofensywnie grającego napastnika. I stąd w Gdyni pojawiło się dwóch piłkarzy, którzy przejdą testy sportowe pod okiem trenera Dariusza Pasieki. Jutro w nocy żółto-niebiescy wyruszą na zgrupowanie do Turcji i do tego czasu na pewno zapadnie decyzja odnośnie przydatności tych zawodników. Ponadto ponownie treningi w Gdyni podjął już wcześniej zapowiadany Mateusz Siebert.</p>
+        <p xml:id="p-4">Pierwszy z testowanych piłkarzy to Łotysz Maksims Rafalskis, który ma za sobą dziewięć występów w reprezentacji swojego kraju. Drugi to Kamil Walaszczyk, 28-letni zawodnik Resovii, który nie grał wyżej niż w polskiej drugiej lidze i zainteresowanie gdynian tym piłkarzem z pewnością jest zaskoczenie.</p>
+        <p xml:id="p-5">- Czasami i tak bywa, a nigdy nie jest za późno, żeby dostać szansę na grę w ekstraklasie. Rynek polski jest ubogi, a Walaszczyk był obserwowany w meczach ligowych i zrobił pozytywne wrażenie. Dlatego dostał zaproszenie na testy - powiedział Andrzej Czyżniewski, dyrektor sportowy Arki.</p>
+        <p xml:id="p-6">Rafalskis i Walaszczyk będą rywalizować o kontrakt w zespole żółto-niebieskich. - Szukamy tylko jednego pomocnika, więc obaj w Gdyni nie zostaną. Decyzja zapadnie przed wyjazdem do Turcji - zapewnił Czyżniewski.</p>
+        <p xml:id="p-7">Większe szanse na angaż w Arce ma z pewnością Rafalskis. Łotysz ma 27 lat, 177 cm wzrostu, a w reprezentacji swojego kraju wystąpił we wrześniu 2009 roku w meczu eliminacyjnym do mistrzostw świata ze Szwajcarią. Rafalskis występował w FK Ryga, a od 2008 roku grał w Liepajas Metalurgs. Z tym ostatnim grał w eliminacjach Ligi Mistrzów.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

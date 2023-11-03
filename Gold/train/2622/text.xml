@@ -1,0 +1,16 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">W wersji krótszej, trzydrzwiowej, o rozstawie osi 228 cm, zastosowano masywny środkowy słupek dachu, w odmianie pięciodrzwiowej, o spokojniejszej linii i rozstawie osi zwiększonym do 249 cm, słupki są węższe, zamaskowane czarną folią. Na tylnych drzwiach - które niestety mają zawiasy po prawej stronie, a więc od strony chodnika, nie zaś jezdni - zamocowano koło zapasowe w plastikowym futerale. Szesnastocalowe obręcze odlewane z aluminium wyposażone zostały w ogumienie 215/70 lub 235/70 o bieżniku uniwersalnym.</p>
+        <p xml:id="p-2">Wnętrze RAV-a robi doskonałe wrażenie. Tablica przyrządów jest prosta i funkcjonalna, fotele przednie są dostatecznie duże i prawidłowo wyprofilowane, z tyłu zastosowano dzieloną kanapę o regulowanym kącie ustawienia oparcia, którą można przesuwać, składać lub bez problemu wyjmować z auta. To ostatnie jest szczególnie istotne w aucie trzydrzwiowym, w którym bagażnik ma pojemność porównywalną z Fiatem Seicento...</p>
+        <p xml:id="p-3">Trzydrzwiowa odmiana nowego RAV-a produkowana jest wyłącznie z silnikiem o pojemności 1,8 l, znanym już z modeli Celica i MR-2, o mocy zmniejszonej jednak ze 140 do 125 KM. Napęd poprzez pięciobiegową przekładnię przenoszony jest tylko na koła przednie. Odmiana pięciodrzwiowa wyposażona została w silnik dwulitrowy o mocy 150 KM i stały napęd na obie osie. Jej nabywca może wybierać między manualną skrzynią pięciobiegową, a czterobiegowym automatem.</p>
+        <p xml:id="p-4">Za kierownicą</p>
+        <p xml:id="p-5">Podczas testu Ø mieliśmy okazję jeździć zarówno „krótkim“ RAV-em z przednim napędem, jak autem z napędem 4x4 i przekładnią automatyczną. Na szosie i autostradzie oba samochody prowadziły się jak zwykłe auto osobowe, bez trudności osiągając deklarowaną przez producenta prędkość maksymalną 175 km/godz. Ich stabilność i wzorowe zachowanie na zakrętach w niczym nie przypominało samochodu terenowego. W RAV-ie z krótkim rozstawem osi pasażerowie z tyłu narzekali trochę na typowe dla tak skonstruowanych aut kołysanie wzdłużne, chwalili za to - o dziwo - wygodę i ilość miejsca.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

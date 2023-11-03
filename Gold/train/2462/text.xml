@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Kornreich, który mieszka dziś w nowojorskim Brooklynie, przywiózł na oświęcimskie uroczystości czworo ze swych czterdzieściorga wnucząt. Przyglądały się w skupieniu, jak zgarbiony, wyraźnie wzruszony Hirsch pokazywał miejsce, gdzie 60 lat temu modlił się ze studentami stary rabin. W zniszczonej, odrapanej synagodze opowieść ta zabrzmiała niesamowicie, podobnie jak wspomnienia innego ocalałego oświęcimianina, Adama Druksa, czy rabbiego Haskela Bessera, który - nim odprawił pierwsze od półwiecza modły w synagodze, przypomniał, że z Oświęcimia pochodził jego dziadek i że znał wszystkich oświęcimskich rabinów. Po umocowaniu w odrzwiach mezuzy i odmówieniu kadiszu za pomordowanych zebrani przenieśli się do położonego w sąsiedztwie synagogi kościoła Wniebowstąpienia NMP, gdzie mszę za pomordowanych Żydów i za pomyślność Centrum Żydowskiego odprawił biskup Rakoczy.</p>
+        <p xml:id="p-2">- Położyliśmy dzisiaj fundamenty z kamienia, a teraz pragniemy położyć fundamenty z ducha pod ośrodek, który powstaje. Dzieło to porównałbym do rekonstruowania bardzo cennej historycznej mozaiki. Cennej i rokującej wielkie nadzieje na przyszłość - powiedział biskup.</p>
+        <p xml:id="p-3">ZBIGNIEW BARTUŚ, ALICJA BARTUŚ</p>
+        <p xml:id="p-4">Edukacyjne Centrum Żydowskie w Oświęcimiu powstać ma w ciągu dwóch lat, kosztem 5-10 mln dolarów. Zbieraniem pieniędzy zajmują się dwie bliźniacze fundacje - w Polsce i USA. Obie założył Fred Schwartz, pomysłodawca projektu. W skład centrum wejdą: przywrócona do stanu sprzed wojny synagoga oraz przyległy budynek. Synagogę zwrócono gminie żydowskiej (bielskiej - bo w Oświęcimiu nie ma takiej gminy) w maju tego roku na mocy ustawy o zwrocie majątku gmin żydowskich. W czerwcu Fundacja Schwartza, dzięki wsparciu Fundacji Laudera, odkupiła z rąk prywatnych sąsiedni budynek. Mają się w nim mieścić m.in.: recepcja, kawiarnia, wystawa na temat życia oświęcimskich Żydów, sala wykładowa na 70-80 osób, kilka pokoi gościnnych i salka dialogu. Centrum będzie otwarte dla wszystkich - niezależnie od narodowości i wyznania.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

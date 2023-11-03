@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Nie tylko do pisarzy pani Irena miała szczęście. Doczekała się również biografa. Cztery lata temu Roman Dziewoński zdokumentował jej życie ("Irena Kwiatkowska i znani sprawcy", Muza). Czego nie wiedziałem, a co pomaga zrozumieć fenomen nieustającej gry z losem aktorki, której przyszło walczyć o swoje miejsce w czasach mało mających wspólnego z latami spokojnego słońca: jeśli już na horyzoncie pojawiło się słoneczko, to z wąsami, porażające swoim blaskiem. Skąd wziął się ten pracujący na pełnych obrotach motor ambicji? Teatr, a szczególnie jego kuzyn kabaret umożliwiał awans społeczny i towarzyski, wyjście z biedy, przeprowadzenie się do pięknych dzielnic, świata kawiarnianych stolików zarezerwowanych dla Wielkich i Sławnych, tańców na wirujących parkietach w Adrii, zakupów delikatesów u Hirschfelda. Nie mając warunków amantki, Irena Kwiatkowska, córka drukarza, jedząca pomarańcze tylko wtedy - jak wspomina - kiedy chorowała, postanowiła dostać się tam, na szczyt, gdzie Ordonka, Modzelewska, Mira Zimińska, Zula Pogorzelska.</p>
+        <p xml:id="p-2">Punkt na mapie pamięci, wysepka dzieciństwa Ireny Kwiatkowskiej to Waliców, Ciepła, Graniczna, Grzybowska. Czynszówka, gdzie dobijał się do nieba głos mieszkającego na piętrze kantora, na beton podwórza padał zawinięty w strzęp gazety grosz - honorarium dla grajka, nie cichły głosy lokatorów przekrzykujących się w jidysz i po polsku. Ciągłe obcowanie z przedstawicielami dwóch kultur, dwóch religii wyostrzało dar obserwacji. Uczyło twardości, uporu w zdążaniu do celu. Po komplementowanym debiucie kabaretowym, dopiero po siedmioletniej przerwie pani Irena zabłysnęła w krakowskich Siedmiu Kotach. A potem, wiadomo - co rola, to sukces. I ciągła troska o to, by się nie powtarzać, nie powielać osiągnięć. Dość przypomnieć, że w 1976 r. zgodziła się zagrać Chudogębę w eksperymentalnym przedstawieniu "Wieczoru trzech króli" w Starej Prochowni.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

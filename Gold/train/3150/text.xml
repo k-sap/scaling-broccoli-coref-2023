@@ -1,0 +1,33 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">sp0: stonsi zażyczyli sobie za zapłatę za. koncert ten pierwszy tu. ale bilety to już się sprzedały</p>
+        <p xml:id="p-2">sp1: na pniu ?</p>
+        <p xml:id="p-3">sp0: no pewnie</p>
+        <p xml:id="p-4">sp1: kurcze ja pierdzielę</p>
+        <p xml:id="p-5">sp0: nam Więcek kupił gdzieś tam przy scenie samej</p>
+        <p xml:id="p-6">sp1: wyskaczecie się ?</p>
+        <p xml:id="p-7">sp0: no zobaczymy</p>
+        <p xml:id="p-8">sp1: ale idziecie z dziewczynami czy ?</p>
+        <p xml:id="p-9">sp0: nie. z dziewczynami idziemy</p>
+        <p xml:id="p-10">sp1: już dziadki nie ?</p>
+        <p xml:id="p-11">sp0: no ale wiesz recenzje są takie ty no. ja już ten koncert se ściągnąłem z internetu. z Brazylii. bo to w Brazylii to turne zaczęli nowe z tą nową płytą</p>
+        <p xml:id="p-12">sp1: ale tylko muzykę czy obraz też ?</p>
+        <p xml:id="p-13">sp0: muzykę tylko nie płytę. bo już zdążyli wydać tam właśnie w Brazylii szybciutko zaraz jak tylko. no to recenzje są. no jedna z lepszych ich w ogóle. tak jak czadu dawali zawsze na turne to to podobno było. przeszli samych siebie. pomimo że dziadkowie. zobaczymy. ile w tym prawdy</p>
+        <p xml:id="p-14">sp1: kurcze po takich. imprezach jakie oni w życiu. a kto im tam odjechał ? gitarzysta zmarł ? czy perkusista ?</p>
+        <p xml:id="p-15">sp0: perkusistę wywalili chyba. bo tam to ze trzy osoby się zmieniły w składzie</p>
+        <p xml:id="p-16">sp1: ale ktoś tam. zmarł zmarł z członków tak ?</p>
+        <p xml:id="p-17">sp0: no któryś tam zjechał. ale to na początku</p>
+        <p xml:id="p-18">sp1: bo się. zakrztusił rzygowinami tak ? czy z przedawkowania ?</p>
+        <p xml:id="p-19">sp0: to nie wiem czy się zakrztusił</p>
+        <p xml:id="p-20">sp1: a nie to Bonam się chyba z tego. z zeppelinów zakrztusił. a ten</p>
+        <p xml:id="p-21">sp0: tam też któryś zjechał jakoś tak</p>
+        <p xml:id="p-22">sp1: kiedy jest ten koncert ?</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

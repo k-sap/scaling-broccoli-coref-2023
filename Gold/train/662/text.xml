@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Ambrosien Vermuellen, uważany za założyciela destylarni likieru Goldwasser, był emigrantem z Niderlandów. Przybył w okolice Gdańska wraz z grupą członków prześladowanej w całej niemal Europie sekty mennonitów, którzy szybko i sprawnie zagospodarowali pomorskie Żuławy. Z czasem mennonici zostali wpuszczeni w obręb murów Gdańska; postawiono im jednak warunek - mogli zająć się uprawianiem trzech tylko rzemiosł: tasiemkarstwa, farbiarstwa lub wyrobem wódek.</p>
+        <p xml:id="p-2">Ambrosien Vermuellen, który był z zawodu kupcem i destylatorem, skwapliwie skorzystał z możliwości osiedlenia się w bogatym nadbałtyckim mieście. Jak wynika z przekazywanej z pokolenia na pokolenie historii firmy, holenderski mennonita uzyskał obywatelstwo Gdańska 6 lipca 1598 roku.</p>
+        <p xml:id="p-3">Fabryczka wódek Vermuellena, usytuowana najprawdopodobniej przy ulicy św. Ducha, przechodziła na własność kolejnych potomków rodziny Vermuellen. Dopiero bezdzietny wnuk Ambrosiena, Salomon, podarował firmę przedsiębiorczemu szwagrowi, Isaacowi Wed-Lingowi. Nowy zarządca w roku 1704 wynajął od opata klasztoru Cystersów w Oliwie reprezentacyjną kamienicę przy ul. Szerokiej. Budynek, który stał się siedzibą firmy, był ozdobiony podobizną łososia, dlatego też gdańszczanie nazywali go "Der Lachs" (Łosoś). Potoczna nazwa domu stała się również nazwą fabryki wódek, dostarczyła również godła - jego rolę pełnił odtąd uproszczony wizerunek łososia.</p>
+        <p xml:id="p-4">Do spopularyzowania gdańskich trunków przyczyniło się oblężenie miasta w roku 1734 przez Rosjan i Sasów. Wielkim wzięciem u żołnierzy po obu stronach barykady cieszyły się wyroby fabryczki przy ul. Szerokiej: elektorówka, kordiał, pomarańczówka, tzw. ognista wiśniówka, czyli Krambambuli. Największą karierę zrobił jednak likier z płatkami złota, czyli Goldwasser. Do dziś zachował się też rachunek z roku 1767, świadczący o zakupieniu przez rosyjską carycę Elżbietę ładunku gdańskich likierów za sumę 5152 guldenów. Pojawiły się próby podrabiania Goldwasser. Jak pisze w książeczce "Tajemnice złotej wódki" Andrzej Januszajtis, Rada Miasta Gdańska interweniowała w sprawie fałszywek wyprodukowanych w St. Petersburgu nawet u władz Rosyjskiego Cesarskiego Senatu.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

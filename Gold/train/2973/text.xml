@@ -1,0 +1,29 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">HENRYK</p>
+        <p xml:id="p-2">Nie wiesz... no to ci powiem. Twój mąż jest złodziejem i malwersantem. Wydaje pieniądze szkolne nie na to, co trzeba... Daje zarabiać swoim kolegom... Przekupuje rodziców uczniów... Co tam jeszcze...</p>
+        <p xml:id="p-3">ELŻBIETA</p>
+        <p xml:id="p-4">Przekupuje rodziców uczniów?</p>
+        <p xml:id="p-5">HENRYK</p>
+        <p xml:id="p-6">Aha... Na przykład starego Knapika. Dałem mu kupę pieniędzy za milczenie. Nie wiedziałaś o tym? To teraz już wiesz.</p>
+        <p xml:id="p-7">Elżbieta przez chwile milczy. Widać, że zrobiło to na niej wrażenie.</p>
+        <p xml:id="p-8">ELŻBIETA</p>
+        <p xml:id="p-9">A co ty sobie myślałeś...? Że jakie będzie oficjalne uzasadnienie? Że cię zwolnili z powodu choroby?</p>
+        <p xml:id="p-10">HENRYK</p>
+        <p xml:id="p-11">WYBUCHA</p>
+        <p xml:id="p-12">Ale tak jest do cholery! Wcześniej nikt się mnie nie czepiał, że naprawiłem parkiet w sali gimnastycznej.</p>
+        <p xml:id="p-13">ELŻBIETA</p>
+        <p xml:id="p-14">Proszę cię Henryku, żebyś wreszcie spojrzał prawdzie w oczy. Od dawna próbuję ci uświadomić, że oni cię tam nie chcą. Nie znasz powiedzenia, że jak ktoś chce uderzyć psa, to zawsze znajdzie kij?</p>
+        <p xml:id="p-15">HENRYK</p>
+        <p xml:id="p-16">Elu... Zrozum... To są normalne, rutynowe działania... wszyscy dyrektorzy tak robią. Przesuwa się pieniądze stąd tu, a stamtąd tam... Jak kasa jest pusta to się kombinuje jak zrobić, żeby na wszystko starczyło...</p>
+        <p xml:id="p-17">ELŻBIETA</p>
+        <p xml:id="p-18">Ja to wiem... Tylko że można to było przewidzieć...</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

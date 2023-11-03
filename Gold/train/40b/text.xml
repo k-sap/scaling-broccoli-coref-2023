@@ -1,0 +1,14 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Krzysztof Włosik i Renata Leśniak</p>
+        <p xml:id="p-2">Podczas niedawnych 72. mistrzostw Polski seniorów w łucznictwie w Zgierzu po srebrny medal w łukach bloczkowych sięgnęła 19-letnia Renata Leśniak (M-GOKiS Dobczyce), wychowanka trenera Krzysztofa Włosika.</p>
+        <p xml:id="p-3">- Zabrakło mi doświadczenia - mówi łuczniczka - pojawiły się nerwy w finałowym pojedynku z rutynowaną Staniczek z Goleszowa, przegrałam z nią różnicą zaledwie 2 pkt. Złoto było w zasięgu ręki. Reprezentantka kraju - startowała zimą w Halowych Mistrzostwach Europy w Turynie, gdzie w drużynie zajęła 7. lokatę - która od jesieni rozpocznie studia na romanistyce na UJ, jest wizytówką młodej sekcji z Dobczyc. Jej założyciel Krzysztof Włosik, olimpijczyk z Moskwy, wielokrotny medalista MP, dobrze wie, że w Dobczycach jest sporo utalentowanej sportowo młodzieży, której trzeba dać szansę. - Ci młodzi odnajdują się w łuczniczej sekcji - opowiada szkoleniowiec - obecnie mam u siebie ćwierć setki ćwiczących. Pojawiają się utalentowane dzieciaki, żeby tylko wspomnieć 7-letniego Oskara, który mając trzeci raz łuk w ręce trafił jabłko z 10 m. Sukces Renaty zrobi swoje, podziała na pewno mobilizująco. W sekcji mam piątkę wyczynową, na razie są to dziewczęta. Oprócz Leśniak są to 2 Eweliny: 19-letnia Olesek, młodsza o 2 lata Machajska, obie Ø już z medalami mistrzostw kraju juniorów, w drużynie seniorek. W Zgierzu pierwsza z nich zajęła 8. miejsce, a druga była 11. W tej grupie są także 16-letnie Magdy: Zarzycka i Olesek. Czołówka sekcji jest odziana przez naszego sponsora firmę Roger's z Dobczyc.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

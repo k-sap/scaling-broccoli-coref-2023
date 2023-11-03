@@ -1,0 +1,20 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Jeśli możesz pomóc - zadzwoń 997</p>
+        <p xml:id="p-2">ZAGINĘLI BEZ ŚLADU</p>
+        <p xml:id="p-3">Żony Ø nie ma już od roku - mówi Leszek Kujawiak z Krzywego Koła. - Dzieci Ø tęsknią, rodzina odchodzi od zmysłów. Nie potrafimy tego zniknięcia wytłumaczyć. Poszukiwania nie dają rezultatu.</p>
+        <p xml:id="p-4">Bogusława Kujawiak zaginęła 29 października ubiegłego roku. Wracała z mężem z pracy, posprzeczali się, w centrum Gdańska kobieta wysiadła z samochoduÉ W domu nie pojawiła się. Ani tego dnia, ani następnego. Rodzina zaczęła jej szukać. Najpierw wśród krewnych i znajomych, potem w środowisku, w którym pracowała.</p>
+        <p xml:id="p-5">Pojechał do jasnowidza</p>
+        <p xml:id="p-6">- Nie natrafiliśmy na żaden ślad - mówi Małgorzata Kujawiak, szwagierka pani Bogusławy. - Poprosiliśmy o pomoc policję, ale ich działania też nie przyniosły oczekiwanego rezultatu.</p>
+        <p xml:id="p-7">Pan Leszek pojechał więc do Krzysztofa Jackowskiego, jasnowidza z Człuchowa. Miał nadzieję, że otrzyma jakieś wskazówki. I faktycznie: jasnowidz zapewnił go, że Ø żona żyje i przebywa w Gdyni. Wyrysował mapkę, zaznaczył, w jakiej okolicy należy jej szukać. Pan Leszek tam pojechał. Chodził po ulicach, pokazywał zdjęcie Ø żony, ale nikt takiej osoby nie mógł sobie przypomnieć.</p>
+        <p xml:id="p-8">Wszyscy tęsknią</p>
+        <p xml:id="p-9">Państwo Kujawiakowie mają troje dzieci: 18-letniego Łukasza, 17-letnią Karolinę i 8-letnią Elżbietę. Cała trójka mocno przeżywa zniknięcie Ø mamy. Ale najbardziej tęskni najmłodsza, Elżbietka. Bardzo się martwiła, że w maju, w najważniejszej dla niej chwili - podczas pierwszej komunii - Ø mamy przy niej nie było.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

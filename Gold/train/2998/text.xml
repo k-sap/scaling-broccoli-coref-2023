@@ -1,0 +1,19 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">"...Sędziami będziem wtedy my!"</p>
+        <p xml:id="p-2">Raz! - raz! - raz! - wybijał z dala w przynagleniach rytmem zmylonym młot walcowni swe głuche łomoty metaliczne. "...Sędziami będziem wtedy my!" - przyniosło wrzaskiem echa z oddali.</p>
+        <p xml:id="p-3">Nad głowami ludu zawisał na parkanie Franek, zwinny jak wiewiórka. I rozglądał się ciekawie żółtym łbem - lecz nie za pochodem patrząc, a w przeciwnym kierunku. Nadstawiał chrapów, strzygł uszami. Nagle wetknął w gębę cztery palce, świsnął przeraźliwie i rzucił się z góry w tłum jak w wodę.</p>
+        <p xml:id="p-4">Nurował w tłoku, roznosił świst donośny: siał popłoch.</p>
+        <p xml:id="p-5">Z dala po brukach ostrych dał się słyszeć tętent drobiony. Na łukowy zakręt ulicy wyrzucały się w pędzie kudłate głowy małych koni, twarze ludzkie do ich szyi przywarte i ramiona białym łyskiem zamachnięte. Nina podźwignęła się dłońmi i przysiadła na brukach, zdziwiona tak nagłą ciszą i pustką naokół.</p>
+        <p xml:id="p-6">- Koń! koń biegnie! - wykrzyknęła nagle w głos, widząc, jak okułbaczone bez jeźdźca zwierzę, wpakowawszy się tupotem ciężkim na trotuar, wącha łbem niespokojnym tę śliską drogę, osadza się przed czymś i w nagłym młynku a iskier skrzesaniu rzuca się w cwał wyciągnięty: pędzi w ogromnym tętencie wśród ulicy głuchej.</p>
+        <p xml:id="p-7">Tuż, tuż przed jej stopami przeleciał, bijąc się po bokach rozkołysanym strzemieniem.</p>
+        <p xml:id="p-8">Czyjaś ręka wyciąga się za nim z daleka. Porwał się ktoś prężnym skokiem z ziemi, przebiegł kroków kilka i zwalił się znów, a ramieniem wyprężonym drgawkowo zda się wciąż macać przed sobą wypuszczonej z rąk uzdy.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Spogląda w stronę lądu, na rozmywające się w oczach zabudowania. Z tyłu za nimi stoi niewidoczna stąd kapliczka - w tym samym miejscu, gdzie kiedyś Keftiu - ludzie morza, jak zwali Egipcjanie wyspiarzy, składali ofiary Afrodycie Limanii. Izyda była również patronką żeglarzy... - myśli. To przecież do niej modlił się zmieniony w osła Lucjusz... O Królowo niebios, ty, która w radości z odnalezienia Utraconej obdarzyłaś nas ziarnem, czczona w Eleusis Matko! Ty, której żywota owocem Amor, Astreo, Anadyomene wielbiona w obmywanym falami Pafos, siostro Feba, która brzemiennym w rozwiązaniu udzielasz pomocy, za co pokolenia dzięki ci składają w efeskiej świątyni, Prozerpino, rozwierająca bramy podziemi! Która rozświetlasz mury miast i życiem obdarzasz zimny kamień, wysłuchaj mnie i pod jakim bądź imieniem, w każdej swej postaci, udziel mi opieki w tej godzinie...</p>
+        <p xml:id="p-2">Procesja zbliża się z wolna przy dźwiękach fletów. Kobiety w bieli mają na włosach przezroczyste zasłony. Kapłani w lnianych fartuchach, z ogolonymi głowami, niosą przedmioty poświęcone bogini. Pierwszy - gałązkę palmową. Drugi - laskę oplecioną przez dwa węże. Trzeci, na którego szyi widnieje medalion w kształcie otwartej dłoni, ulewa co chwilę na ziemię kilka kropel mleka ze złotego naczynia w kształcie piersi. Inni niosą amfory lub kosze wypełnione kwiatami i laurowymi liśćmi. Na samym czele pochodu kroczą Ewa i Lilith. Obie mają na sobie białe szaty, a na plecach - błyszczące zwierciadła, w których bogini może oglądać składane jej hołdy.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

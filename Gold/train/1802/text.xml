@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Co dalej? Poszukiwanie Fabuły, pragnienie wzniesienia się ponad to, o czym od dawna pisze, oderwania się od "kreciego związku z rzeczywistością". Tworzenie od nowa fikcji, czyli świata. Budowanie katedry. To jego własne słowa. Marzenie, aby znów, jak w młodości, obudzić się "pełen energii, z płonącym umysłem i wyobraźnią". Chęć ucieczki, zerwania ze wszystkim splata się w Fabule z pasją nałogowego zbieracza, lub raczej myśliwego: co w polu widzenia, nadaje się na odstrzał, czyli opisanie! Niektóre wątki pisarz sam odrzuca, nazywając je "samograjami". Inne, bardziej wielowarstwowe, zdaje się akceptować. W regularnych odstępach i różnych wariantach powtarza się skarga: "Tyle lat wegetacji w dolnym żywiole". I pytanie: , Jak mogą na jałowej pustyni zakwitnąć ogrody?" Nie mogą. Trzeba samemu dogrzebać się wody i posadzić. Powrócić do własnych, autentycznych źródeł, gdziekolwiek jeszcze biją. Uprawiać stare miłości, Uważać na pierwsze zdanie: na jego styl i wewnętrzną prawdę. W Karnawale i poście Nowakowski gra o wielką stawkę i bardzo chciałabym, żeby wygrał. Na pohybel łuszczącemu się miastu, zdegenerowanemu społeczeństwu i ustrojowi, który Dżilas nazwał "przepisem na katastrofę". A także na pohybel własnemu ględzeniu o "nędzy słów" i "nędzy rzeczywistości". Angielski jezuita i poeta, Gerald Manley Hopkins napisał: "To, na co patrzysz twardo i z uporem patrzy twardo i z uporem na ciebie". W zakończeniu Fabuły Nowakowski pisze: "Zadzierając głowę, patrzyłem aż do bólu w oczodołach. I wtedy powiedziałem słowa swojej modlitwy: Wymarzona Fabuło, boski porządku życia i literatury, zstąp z wysokości! Ale zaraz przestałem. Zwykłe niebo zwykłe chmury". I tak w kółko.</p>
+        <p xml:id="p-2">Janina KATZ HEWETSON</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

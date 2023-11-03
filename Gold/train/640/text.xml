@@ -1,0 +1,18 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">– A przecież miejscy urzędnicy dość regularnie odwiedzają partnerskie miasto Makó, nigdy nie proponowano panu wyjazdu?</p>
+        <p xml:id="p-2">– Nie przypominam sobie o takim fakcie. Poza tym, ze względu na stan zdrowia, raczej z takiej okazji bym nie skorzystał, ale członkowie naszego towarzystwa z pewnością z chęcią by pojechali. Jednak do tej pory nikt z taką propozycją się do nas nie zwrócił...</p>
+        <p xml:id="p-3">– Ale jeśli mnie pamięć nie myli, to towarzystwo jest inicjatorem współpracy partnerskiej między węgierskim miastem Makó a Radomskiem?</p>
+        <p xml:id="p-4">– Tak, ale to wszystko w pewnym stopniu rozchodzi się po kościach. Nawet podczas pobytu oficjalnej delegacji z Makó na tegorocznych Dniach Radomska dziwnym trafem zostaliśmy zaproszeni do urzędu miasta o godzinę później, tak więc minęliśmy się w drzwiach z gośćmi z Węgier, gdy już kończyli spotkanie z prezydentem Jerzym Słowińskim... Czy to było celowe czy nie, to już teraz nieważne.</p>
+        <p xml:id="p-5">Mieliśmy też nadzieję, że korzystając z wyjazdów prezydenta i samorządowców uda się nam nawiązać bliższą współpracę ze szkołami z regionu węgierskiego. Chcemy dorobek towarzystwa komuś przekazać, ja mam już ponad 70 lat i wiem, że tylko młodzież może taką współpracę podtrzymać. Mimo naszych chęci, nikt tematu nie podjął.</p>
+        <p xml:id="p-6">A to przecież w zasadzie jedynie towarzystwo cały czas upowszechnia kulturę węgierską. To dzięki nam do Radomska zjeżdżają ambasadorowie, konsulowie z Węgier...</p>
+        <p xml:id="p-7">– A teraz zabrakło was w oficjalnej delegacji miasta Radomska do Makó na tradycyjne Święto Cebuli...</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

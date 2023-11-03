@@ -1,0 +1,12 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Bezstronne wiadomości i niezależne programy to kamień węgielny naszej służby publicznej. Greg Dyke dyrektor generalny BBC W Wielkiej Brytanii toczy się spór pomiędzy rządem a BBC w sprawie wiadomości na temat brytyjskiego zaangażowania w Iraku. Wpływowy polityk rządu Blaira Alastair Campbell, odpowiedzialny za strategię i wizerunek, poczuł się dotknięty informacją BBC, jakoby osobiście "podrajcowywał" doniesienia wywiadu brytyjskiego z Iraku. Prezes BBC Garyn Davis przyznał, że były pewne potknięcia, ale obiektywnie niezależność to kanon BBC. Podczas pierwszych 2 tygodni wojny w Iraku 93 proc. Brytyjczyków polegało na wiadomościach BBC.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

@@ -1,0 +1,14 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Francuzi kamienicy nie zburzą, tylko odrestaurują Ø zgodnie z wymogami konserwatora zabytków. Może również dlatego pani B., która kiedyś zarzucała pani K., byłej aktorce, że bierze za mało za swoje mieszkanie oraz narzekała, że nie będzie miała gdzie wyeksponować swoich antycznych mebli, sama nie przeciągała struny i wzięła rozsądną stawkę. Oszczędziła sobie nerwów. Przy pomocy córki i zięcia kupiła mieszkanie w luksusowej dzielnicy Warszawy. B. rozmawiała z Francuzami o interesach w ich języku, jak na damę przystało.</p>
+        <p xml:id="p-2">K., która do pośredników Nieruchomości Przy Placu Zbawiciela zgłosiła się sama, była oczarowana ich podejściem do ludzi. Mili, usłużni, zaproponowali, żeby sobie spokojnie szukała mieszkania, jakie jej pasuje, a oni zajmą się transportem mebli. Teraz pani K. mieszka w dwupokojowym mieszkaniu w bloku, ma okna na słoneczną stronę i jest zadowolona z wydarzeń.</p>
+        <p xml:id="p-3">Pan F. też się cieszy, bo pieniądze od Francuzów spadły mu z nieba. F. i tak nie mieszkał w swoim lokalu w kamienicy, tylko kątem u przyjaciół, bo ukrywał się przed komornikiem. Nie płacił rat za samochód i to dlatego. Dzięki odszkodowaniu F. wrócił na łono społeczeństwa jako legalnie zmotoryzowany obywatel. Inny lokator, któremu kwaterunek przydzielił 100 metrów mieszkania, a on nie przeciągał sprawy jak Dąbrowska, bo był mniej cierpliwy, po podliczeniu pieniędzy za wyniesienie się z Mokotowskiej przyszedł podzielić się swoją bezbrzeżną radością z okulistką. Była dla niego zimno uprzejma, ale życzyła powodzenia. W końcu to nie jego rodzice dźwignęli po wojnie 30 proc. kamienicy.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

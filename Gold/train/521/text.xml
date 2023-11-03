@@ -1,0 +1,18 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Miałem zrobiony szybki kurs i to wystarczyło. Ponadto proboszcz wiedział, że jestem zaangażowany w życie Kościoła i można mi zaufać.</p>
+        <p xml:id="p-2">Nie dość, że jest Pan wszechstronny, jak widzę, to jeszcze do tego potrafi Pan przykuć uwagę widzów. Był Pan na studiach duszą towarzystwa?</p>
+        <p xml:id="p-3">Na studiach było o tyle fajnie, że spotkałem tam ludzi o takich samych zainteresowaniach, których ciekawił świat, dla których ważne były podróże. Tworzyliśmy paczkę kilku bardzo wesołych osób.</p>
+        <p xml:id="p-4">A ma Pan jakieś szczególnie wesołe wspomnienia?</p>
+        <p xml:id="p-5">Chodziłem na zajęcia z jednym takim chłopakiem, sporo ode mnie wyższym. Był niezwykle wysportowany i potrafił założyć sobie nogę na szyję. Ale żeby było śmieszniej, postanowiliśmy, że wszyscy muszą zobaczyć tę jego sztuczkę. Najlepiej na wykładzie. Wybraliśmy więc wykład u profesora, który często pisał coś na tablicy. Ustaliliśmy, że kiedy wykładowca będzie stał do nas tyłem, Hawranek – bo tak się nazywał ten kolega – założy nogę na szyję, a ja krzyknę: „Już”, żeby wszyscy mogli zobaczyć ten popis. I tak też się stało. Wszystko trwało może ze trzy sekundy, a wykładowca – na szczęście – udawał, że nic nie słyszy.</p>
+        <p xml:id="p-6">Skończył pisać wzór na tablicy, obejrzał się i zapytał, czy pomylił się we wzorze, bo taki zrobił się harmider.</p>
+        <p xml:id="p-7">Czyli znał się na żartach. A miał Pan jakichś szczególnie lubianych profesorów? Albo szczególnie znienawidzonych?</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

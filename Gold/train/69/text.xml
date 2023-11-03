@@ -1,0 +1,14 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Rozszerzając swoje prerogatywy wielkiego sąsiada, władza królewska przyswoiła sobie w różnych krajach barbarzyńskiej Europy zwierzchność nad najbardziej atrakcyjnymi pastwiskami leśnymi, co pozwoliło pobierać daninę odpłatną za wypas świń w dąbrowach i bukowinach. Istnienie takiej daniny w państwie Franków potwierdza już Capitulare de villis Karola Wielkiego. Nie była to jednak frankijska, ani germańska osobliwość. W piastowskiej Polsce, w przemyślidzkich Czechach i na Pomorzu analogiczny ciężar występował pod słowiańską nazwą narzaz.</p>
+        <p xml:id="p-2">Tytuł XXXVIII najstarszego Prawa Burgundów wskazuje, że barbarzyński król bardzo wcześnie stał się "opiekunem gości", gwarantem miru chroniącego wędrowców i uczynił z tradycyjnego obowiązku gościnności ciężar na rzecz monarchii. Obejmowano nim zarówno świadczenia na rzecz urzędników i posłańców królewskich w podróży, jak i obowiązek podejmowania samego władcy z dworem podczas regularnych objazdów kraju. Świadczenia te, określane w krajach germańskich terminem gistum, na słowiańskim Pomorzu zwały się gościtwą, w piastowskiej Polsce stanem, a w przemyślidzkich Czechach noclegiem. Podobną genezę miało staroruskie polud'je, które - podobnie jak staronorweska weizla - odgrywało istotną rolę w najstarszym systemie ciężarów na rzecz państwa.</p>
+        <p xml:id="p-3">Nie ulega jednak wątpliwości, że pierwsze miejsce wśród owych ciężarów zajmowała danina wywodząca się z trybutów politycznych. Genezę tego świadczenia wyraża najlepiej nazwa, pod którą występuje ono w źródłach czeskich: tributum pacis, dań miru. Była to istotnie cena pokoju, którą jedno plemię płaciło drugiemu. Dla jednej ze stron była to konieczność spowodowana porażką wojenną lub obawą przed najazdami, dla drugiej zaś - owoc zwycięstwa, premia za wojowniczość, materialny wyraz politycznej supremacji. Decyzję o płaceniu trybutu podejmowały naczelne organy plemienia, ale jej realizacja wymagała obłożenia ogółu współplemieńców regularną daniną.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

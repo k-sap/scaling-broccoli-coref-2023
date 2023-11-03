@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Ten ton dominował podczas czwartej pielgrzymki w czerwcu 1991 r. Mówił o dekalogu. Czasami mocno i konkretnie, np. o kryzysie polskiej rodziny dotkniętej plagą rozwodów, konfliktami, egoizmem, alkoholizmem i aborcją. Pytał: "Co się stało z przykazaniem nie cudzołuż w naszym polskim życiu?". Bywało, że krzyczał, by na koniec zostawić nas z obrazem - przestrogą - wizją czasów saskich: małości, samolubstwa i interesowności, sprzedajności i podeptania wspólnej sprawy. To, co widział w Polsce w 1991 roku bolało Go. To nie była jego Ojczyzna z roku 1980, pełna społecznego solidaryzmu. W mediach dyskutowano nad kosztami pielgrzymki, a w Przemyślu dopiero papież ułagodził spór między łacinnikami a greko-katolikami. Dwa miesiące później Ojciec Święty znów przyjechał do Polski na Światowy Dzień Młodzieży w Częstochowie. Wzywał młodych do wierności Bogu, życia w prawdzie.</p>
+        <p xml:id="p-2">Mocna katecheza roku 1991 nie przynosiła natychmiastowych owoców, także w wymiarze życia społecznego i politycznego. Wprawdzie 17 lipca 1989 nawiązano stosunki dyplomatyczne między Polską a Watykanem, a w ślad za tym podpisano w lipcu 1993 r. konkordat, którego jednak ratyfikację lewica zablokowała na 5 lat. W tej atmosferze przyjazd papieża do Skoczowa w maju 1995 r, miał charakter prywatny. W kazaniu Jan Paweł II mówił o dyskryminacji ludzi wierzących i o spychaniu ich na margines życia społecznego. Zwracał się właśnie do nich: "Polska potrzebuje dziś ludzi sumienia!".</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

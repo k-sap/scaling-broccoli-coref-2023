@@ -1,0 +1,16 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Rodzice księżniczki postanawiają wziąć sprawy w swoje ręce.</p>
+        <p xml:id="p-2">Wizyta u teściów, jest przeżyciem nie tylko dla Shreka, wyzwaniem była przede wszystkim dla twórców bajki. Nie chodziło o tworzenie jej animacji, bo większość już była gotowa. Twórcom zależało przede wszystkim na tym, aby „Shrek 2” nie był robiony na siłę. Stąd perypetie małżeńskie Fiony i Shreka. W drugiej części pojawiają się nowi bohaterowie, jak na przykład Kot w butach, czy Matka Chrzestna. Nie zabraknie jednak także starych przyjaciół, w tym przede wszystkim Osła.</p>
+        <p xml:id="p-3">Za dziesięć milionów</p>
+        <p xml:id="p-4">W amerykańskiej wersji „Shreka 2” wystąpiła czołówka hollywoodzkich aktorów: Mike Myers, Cameron Diaz oraz Eddie Murphy. Każde z nich otrzymało za dubbing po 10 milionów dolarów. Polscy aktorzy: Zbigniew Zamachowski, Agnieszka Kunikowska i Jerzy Stuhr nie dostali takich stawek, ale wyzwanie mieli równie duże.</p>
+        <p xml:id="p-5">– Przy drugiej części ,,Shreka’’ mieliśmy wszyscy zawyżone poczucie odpowiedzialności. Wiedzieliśmy, że nie możemy zejść poniżej poziomu, który wyznaczyliśmy sobie w pierwszej części. Zatem zadanie było już trudniejsze – mówił Zbigniew Zamachowski (głos Shreka) w wywiadzie dla „Głosu Wielkopolskiego”. – Nie jest to może duże wyzwanie. To należy do zakresu mojej pracy. Powinienem umieć występować w kabarecie, jako tako śpiewać, grać w teatrze, filmie i dubbingować czy to żywych ludzi, czy bohaterów rysunkowych. Tutaj trzeba wykazać się przede wszystkim konkretnymi umiejętnościami warsztatowymi. To nie jest bardzo twórcza praca, ale przyjemna.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

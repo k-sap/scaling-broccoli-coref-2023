@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Hanna Gucwińska nie ma wątpliwości, że oznacza to trzy lata życia z siekierą wiszącą nad głową. - W dodatku nie wiedząc, kiedy spadnie - mówi. - Chyba po 47 latach pracy możemy oczekiwać, że informacja o emeryturze nie będzie miała formy listu gończego.</p>
+        <p xml:id="p-2">Zdaniem Antoniego Gucwińskiego wszystko zaczęło się pięć lat temu, gdy pojawiła się groźba, że ogród po wejściu do Unii przestanie istnieć. Wrocławskie zoo nie spełnia europejskich norm wymaganych dla dużych zwierząt: słoni, nosorożców, hipopotamów, lwów i tygrysów. Wybiegi, które według norm powinny mieć po kilkaset metrów kwadratowych, we Wrocławiu mają kilkadziesiąt. Klatki tygrysów i lwów powinny liczyć minimum 40 m kw., we Wrocławiu mają po kilkanaście. Bez powiększenia wybiegów ogród spadnie do roli śródmiejskiego ogródka z małymi zwierzątkami. A miejsca na nowe wybiegi nie ma. Szansą byłoby przejęcie sąsiadującego z zoo stadionu klubu sportowego Ślęza. Teren przyrzekł ogrodowi jeszcze premier Cyrankiewicz w latach 60., ale nic z przyrzeczenia nie wyszło. Pod koniec lat 90. władze klubu sprzedały stadion prywatnemu przedsiębiorcy.</p>
+        <p xml:id="p-3">- Nas nikt nawet nie poinformował, że stadion idzie pod młotek. A kiedy dość radykalnie upomnieliśmy się o prawa ogrodu, zaczęły się kłopoty - mówi dyr. Gucwiński. - Prawdopodobnie weszliśmy w czyjeś interesy, więc zaczęto patrzeć na Gucwińskich gorzej niż dotąd.</p>
+        <p xml:id="p-4">Klub oddał stadion za milion złotych, a po paru miesiącach nowy właściciel odsprzedał go już za 10 mln. Później teren przejął kolejny biznesmen, z którym obecnie miasto negocjuje wymienienie go na inne grunty. Sprawą sprzedaży zajęła się prokuratura, kilka osób stanęło już przed sądem.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

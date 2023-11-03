@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Finał konkursu literackiego</p>
+        <p xml:id="p-2">W kęckim Domu Kultury ogłoszono wyniki VII Konkursu Literackiego w ramach Szkolnych Potyczek Artystyczno-Kulturalnych dla szkół podstawowych. Imprezie patronuje "Gazeta Krakowska". Na konkurs napłynęło 30 opowiadań na temat "Rok 2000 - koniec tysiąclecia - najważniejsze wydarzenie, najciekawsze wspomnienie. Najwięcej prac, bo aż 16 napłynęło ze Szkoły Podstawowej w Bulowicach. Komisja konkursowa w składzie Irena Droździk, polonistka, Kazimierz Palma, pisarz, członek Związku Literatów Polskich i Wacław Front, polonista przyznała pierwsze miejsce Katarzynie Kani ze Szkoły Podstawowej nr 2 w Kętach za opowiadanie pt. "Tancerka". Druga lokata przypadła w udziale Joannie Tomiak z SP w Bulowicach. Trzecie miejsce zajęli, ex aequo, Mateusz Sokalski i Grzegorz Pelczar z SP nr 2 w Kętach oraz Ewelina Piwowarczyk z SP w Bulowicach. Jury wyróżniło też Katarzynę Maciąg i Piotra Zatora z SP w Bielanach oraz Jolantę Bryzek z SP w Bulowicach.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

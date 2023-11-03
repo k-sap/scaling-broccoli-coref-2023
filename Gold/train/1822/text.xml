@@ -1,0 +1,17 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Toksyczne związki</p>
+        <p xml:id="p-2">Jednym z głównych klientów i dostawców odpadów na wysypisko Eko-Boruty jest Zakład Utylizacji Odpadów Malex w Zgierzu. Zakład mieści się na terenie dawnych zakładów Boruta. Właścicielką Maleksu jest żona Szczepana M., z wykształcenia chemik. W firmie pracuje również jej córka Maria.</p>
+        <p xml:id="p-3">Szczepan M., niegdyś członek zarządu miejskiego SLD, do niedawna zasiadał we władzach kilku spółek WFOŚ. Był prezesem jednej z największych spółek Funduszu - Agencji Poszanowania Energii, wiceprezesem Eko-Okno, członkiem rady nadzorczej Eko-Pomocy.</p>
+        <p xml:id="p-4">W ubiegłym roku Szczepan M. został aresztowany. Prokuratura postawiła mu zarzut wręczenia 25 tys. zł łapówki naczelnikowi śródmiejskiego urzędu skarbowego - w zamian za odstąpienie od kontroli w APE. Chciał ukryć m.in. fakt, że z pieniędzy spółki remontowano dom Marka K., byłego prezesa Funduszu. Gdy sprawa wyszła na jaw, Marek K. próbował nakłonić naczelnika do złożenia fałszywych zeznań. W zeszłym miesiącu został aresztowany. Szczepanowi M. i Markowi K. grozi do 5 lat więzienia.</p>
+        <p xml:id="p-5">Należący do żony Szczepana M. Malex zajmuje się utylizacją odpadów przede wszystkim Ø niebezpiecznych, unieszkodliwianiem leków oraz opakowań po środkach toksycznych i regeneracją rozpuszczalników. Ma jedyną w województwie instalację do prowadzenia utylizacji wszystkich grup odpadów niebezpiecznych. Wybudował ją za pieniądze z WFOŚ.</p>
+        <p xml:id="p-6">Pytany o dofinansowanie inwestycji Maleksu Jerzy Szmit podaje, że 1999 r. Fundusz pożyczył firmie Malex 25,6 tys. zł na utworzenie Zakładu Utylizacji Odpadów, a w grudniu 2000 r. na jego rozbudowę kolejnych 85,4 tys. zł. Połowa obu pożyczek została umorzona. Nam udało się ustalić, że Malex dostał jeszcze z WFOŚ co najmniej trzy pożyczki: 260 tys. zł w 2000 r. oraz dwie pożyczki w 2001 r. - w wysokości 521 tys. zł i 100 tys. zł. Razem 992 tys. zł.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

@@ -1,0 +1,12 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Już starożytni mawiali, że darowanemu koniowi nie zagląda się w zęby. Nie znaczy to, że nie należy przywiązywać wagi do tego, co obcy prezydenci, premierzy i ambasadorzy wręczają naszemu premierowi. Prezent od nich może być sympatycznym dowodem pamięci, ale także wyrazem uznania dla prowadzonej przez Polskę polityki i oznaką osobistej sympatii dla Jarosława Kaczyńskiego (jak i pewnego lekceważenia, choć nikt tego nie potwierdzi). Niektórzy przywódcy ograniczają się do podarunków symbolicznych. Premier Ukrainy wręczył naszemu premierowi wizerunek kościoła greko-katolickiego w Kijowie, kanclerz Austrii - płyty CD z muzyką Mozarta, prezydent Albanii - wizerunek miasta Berati, a prezydent Litwy - szklaną ozdobę na biurko z godłem Litwy. Premier Kaczyński to dziś dobrze ubrany mężczyzna. A jeszcze niedawno przywódca PiS chodził w butach z porwanymi sznurowadłami. Zapewne raporty ambasadorów poszły w świat i premier otrzymuje sporo prezentów osobistych i takich, które mogą być przydatne w jego gospodarstwie. Premier Włoch Romano Prodi podarował Kaczyńskiemu dwa krawaty, przewodniczący senatu Kanady i premier Estonii - spinki do koszuli, prezydent Francji Nikolas Sarkozy - czarną skórzaną teczkę, prezydent Konfederacji Szwajcarskiej - budzik, premier Czech - cztery kieliszki, prezydent Węgier - wazon, premier W. Brytanii Tony Blair i kanclerz Niemiec Angela Merkel - misy, prezydent Pakistanu - dywan, ambasador Kazachstanu - dywan i wałek pod głowę, premier Słowacji - kryształową muszlę, a ambasador Chin - "instalację obrazową przedstawiającą dwie rybki".</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

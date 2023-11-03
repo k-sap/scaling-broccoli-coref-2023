@@ -1,0 +1,24 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">sp0: kiedy mnie karmiłaś</p>
+        <p xml:id="p-2">sp1: no do dziewiątego miesiąca</p>
+        <p xml:id="p-3">sp0: ale nie do kiedy tylko kiedy danego dnia mnie karmiłaś</p>
+        <p xml:id="p-4">sp1: no kiedy ty byłaś głodna</p>
+        <p xml:id="p-5">sp0: no właśnie właśnie ja się pytam czy na godzinę że na przykład</p>
+        <p xml:id="p-6">sp1: nie</p>
+        <p xml:id="p-7">sp0: o dziewiątem tam o dwunastej</p>
+        <p xml:id="p-8">sp1: nie dziecko samo sobie reguluje. żołądek wiesz tak samo jak ty jesteś głodna no to jesz nie jesteś głodna i tak samo</p>
+        <p xml:id="p-9">sp0: no dobrze ale są takie matki które sobie ustalają że karmią o ósmej o dziesiątej o dwunastej o trzynastej i karmią wtedy</p>
+        <p xml:id="p-10">sp1: to znaczy wiesz</p>
+        <p xml:id="p-11">sp0: a indziej nie karmią kiedy indziej</p>
+        <p xml:id="p-12">sp1: to już raczej takich tych to nie ma Kasiu teraz bo to już już raczej historia no kiedyś tak było że na godzinę i tego a teraz to po prostu mówią na żądanie tak zwane no. to już było. wiesz bo to różne są teorie kiedyś były że z jednej piersi tylko później było że z obu piersi tak jak ja was karmiłam to było że ile chcą ile chce jeść</p>
+        <p xml:id="p-13">sp0: bo to jest tak generalnie że. dziecko powinno jeść kiedy chce nie tam że jakieś godziny czy inne cuda i teraz tak jeżeli dziecko. jeżeli matka bierze dziecko na przetrzymanie tak zwane. to wtedy dziecko dostaje jeść jak już faktycznie wyje tak po maksie no że ta matka już wie że teraz i już koniec tak wiesz o co chodzi jak już się po prostu zadziewa na śmierć nie tak prawie. no i wtedy matka utrwala to że dziecko ma wrzeszczeć wtedy dostaje nie i potem dziecko nawet jak czuje mały głód to wyciera mordę za przeproszeniem żeby już dostać bo wie że się dostaje jak się wrzeszy już po maksie a jak się wrzeszczy tylko trochę to się nie dostaje</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

@@ -1,0 +1,22 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">WicemarszalekMarcinTyrna: Dziękuję bardzo.</p>
+        <p xml:id="p-2">WicemarszalekMarcinTyrna: Pan mówi, że tak?</p>
+        <p xml:id="p-3">WicemarszalekMarcinTyrna: Tak jest. Mówiąc krótko, tak.</p>
+        <p xml:id="p-4">WicemarszalekMarcinTyrna: Do tej sprawy później się ustosunkuje jeszcze pan minister.</p>
+        <p xml:id="p-5">WicemarszalekMarcinTyrna: Pan senator Kozłowski. Proszę o zadanie pytania.</p>
+        <p xml:id="p-6">SenatorKrzysztofKozlowski: Dziękuję, Panie Marszałku.</p>
+        <p xml:id="p-7">SenatorKrzysztofKozlowski: Mam pytanie dotyczące pierwszej poprawki. Chyba jest tu jakieś nieporozumienie. Centralnym organem administracji jest prezes głównego urzędu, a urząd jest tylko jego narzędziem. Wobec tego ustawa powinna dotyczyć prezesa, a nie urzędu. Czy nie sądzi pan, że ta poprawka jest chybiona?</p>
+        <p xml:id="p-8">SenatorKrzysztofKozlowski: Prosiłbym też o wyjaśnienie, tak na chłopski rozum, przed kim wojewoda będzie odpowiedzialny: przed prezesem urzędu, przed ministrem właściwym do spraw administracji publicznej czy przed premierem? Że ostatecznie przed premierem, to ja wiem. Tylko czy przypadkiem nie nastąpi sytuacja, w której wojewoda będzie się głowił przed kim właściwie ma odpowiadać i kto ma mu wyznaczać zadania? Czy nie piętrzymy stopni, które w gruncie rzeczy nie przysłużą się usprawnieniu administracji rządowej?</p>
+        <p xml:id="p-9">WicemarszalekMarcinTyrna: Dziękuję bardzo, Panie Senatorze.</p>
+        <p xml:id="p-10">WicemarszalekMarcinTyrna: Proszę o udzielenie odpowiedzi.</p>
+        <p xml:id="p-11">SenatorMieczyslawJanowski: Jeśli idzie o pierwszą kwestię, którą poruszył pan senator Kozłowski, to przypomnę, że przedłożenie rządowe mówiło o tytule takim, jaki zaproponowała komisja w wyniku swoich dyskusji. Być może nie byłoby tej poprawki, gdyby nie bardzo nieszczęśliwy zbieg słów: "urząd Prezesa Głównego Urzędu Administracji Publicznej". Rozumując w ten sposób, moglibyśmy podobnie mówić również o innych instytucjach, na przykład "urząd Prezesa Najwyższej Izby Kontroli" et cetera, et cetera. Komisja zaproponowała więc takie rozwiązanie. Gdyby, mówię raz jeszcze, nie te powtórzenie słowa "urząd", pewnie tej poprawki by nie było.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

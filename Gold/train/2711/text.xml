@@ -1,0 +1,17 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">ZARZUTÓW PRZYBYWAŁO</p>
+        <p xml:id="p-2">Na kolejnych posiedzeniach Wydziału Dyscypliny Mirosław Stasiak już się nie pojawił. Reprezentował go Ø pełnomocnik. Po kolejnych zeznaniach zatrzymanych sędziów i działaczy zwiększała się liczba zarzutów pod adresem KSZO. - Jest ich około trzydziestu - powiedział nam dzień przed ogłoszeniem decyzji mecenas Michał Tomczak, przewodniczący Wydziału Dyscypliny.</p>
+        <p xml:id="p-3">Taką samą liczbę zarzutów postawiono drugoligowemu Górnikowi Polkowice. Ten klub, podobnie jak KSZO, otrzymał karę degradacji o jedną klasę rozgrywkową, a ponadto będzie musiał zapłacić 50 tysięcy złotych grzywny i zacznie sezon z dziesięcioma punktami ujemnymi. Trzeba też zaznaczyć, że konsekwencje udziału w aferze korupcyjnej poniesie tylko drugoligowy zespół KSZO. Rezerwy KSZO II Polvat, występujące w klasie okręgowej, mimo że jest to ten sam klub, nie zostaną zdegradowane. Kary będą obowiązywać od następnego sezonu.</p>
+        <p xml:id="p-4">Paweł Kapsa, bramkarz KSZO: - To nie jest w porządku, że wszyscy musimy płacić za czyjeś błędy, a nie te osoby, które są zamieszane w korupcję. KSZO nie jest tylko własnością pana Stasiaka, ale miasta i całej ostrowieckiej społeczności. Przez głupie działanie, z którego nie było specjalnych korzyści - ani awansu, ani utrzymania, najbardziej ucierpimy my i kibice KSZO, którzy od lat chodzą na mecze. Teraz trzeba szybko odpowiedzieć na pytanie: co dalej?, bo sytuacja nie jest ciekawa.</p>
+        <p xml:id="p-5">MOGĄ SIĘ ODWOŁAĆ</p>
+        <p xml:id="p-6">KSZO i innym ukaranym klubom przysługuje prawo odwołania od decyzji Wydziału Dyscypliny. Najpierw do Najwyższej Komisji Odwoławczej Polskiego Związku Piłki Nożnej, potem Komisji Nadzwyczajnej, a później nawet do UEFA. Ta procedura może jednak potrwać kilka miesięcy.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

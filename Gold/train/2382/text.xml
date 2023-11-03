@@ -1,0 +1,20 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Na co zwrócić uwagę</p>
+        <p xml:id="p-2">Każdy pojazd samochodowy posiada książeczkę obsługi w ogólnej formie informacji dla właściciela oraz książeczkę serwisową, zwaną gwarancyjną. Ta druga jest jakby metryką i kartą zdrowia pojazdu. Tak więc pierwsza rzecz to prośba o pokazanie książeczki serwisowej. W niej mamy odnotowane informacje o pochodzeniu pojazdu, jego kolejnych zmianach właścicieli, i co istotne o przeglądach obsługowych pojazdu. To rzuci już nam pewne światło o kupowanym samochodzie. Następnie ważną sprawą jest sprawdzenie czy numer identyfikacyjny pojazdu tzw. VIN, który zawiera 17 cyfr i liter numeru silnika zgadza się z tym w dowodzie rejestracyjnym. Dobrze jest też sprawdzić w bazie danych na policji, czy pojazd nie został skradziony.</p>
+        <p xml:id="p-3">Diagnoza w autoryzowanych warsztatach lub stacjach serwisowych</p>
+        <p xml:id="p-4">Po upewnieniu się w tej kwestii możemy odbyć jazdę próbną, podczas której możemy wychwycić: stan zawieszenia i amortyzatorów, stan hamulców i pracę silnika. Jednak najlepiej stan techniczny pojazdu sprawdzić na autoryzowanej stacji serwisowej. Tutaj otrzymamy pełną informację o stanie: silnika, układu kierowniczego, hamulcowego, zawieszenia, ogumienia. Mało tego stacja powinna udzielić klientowi informacji o terminie czekających go w przyszłości wydatkach, spowodowanych zużyciem eksploatacyjnym części.</p>
+        <p xml:id="p-5">To co możemy sami sprawdzić w kupowanym pojeździe ilustruje poniższa grafika.</p>
+        <p xml:id="p-6">Co możemy sprawdzić sami</p>
+        <p xml:id="p-7">SILNIK</p>
+        <p xml:id="p-8">Stan silnika</p>
+        <p xml:id="p-9">Jeśli podczas pracy silnika z wlewu oleju ( musi być otwarty) wydobywają się gazy, to najczęściej są uszkodzone pierścienie tłokowe. Kropelki wody widoczne na bagnecie pomiaru oleju świadczą o uszkodzeniu uszczelki głowicy cylindrów.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

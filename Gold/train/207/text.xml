@@ -1,0 +1,16 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">(INF. WŁ.) Sześciu małopolskich radnych województwa, którzy do tej pory należeli do klubu Akcji Wyborczej Solidarność, utworzyło klub Platformy Obywatelskiej. To pierwszy rozłam w klubie AWS od początku kończącej się kadencji Sejmiku Województwa Małopolskiego.</p>
+        <p xml:id="p-2">Bogusław Sonik, przewodniczący klubu PO, zapowiedział, że nowy klub nadal będzie popierał Zarząd Województwa Małopolskiego (ma w nim dwóch przedstawicieli - wicemarszałka Janusza Sepioła i radnego - członka zarządu Marcina Pawlaka; Bogusław Sonik jest przewodniczącym sejmiku).</p>
+        <p xml:id="p-3">- AWS-u już nie ma, trwanie w nim nie ma sensu - powiedział nam przewodniczący, który przyznał, że tak długie utrzymywanie się klubu AWS było wynikiem solidarności wszystkich radnych. - Razem zaczynaliśmy, więc razem chcieliśmy skończyć. Gdybyśmy chcieli tylko dopłynąć tym statkiem do portu i potem wysiąść, to moglibyśmy trzymać się AWS, ale my chcemy płynąć dalej.</p>
+        <p xml:id="p-4">Według Bogusława Sonika, powstanie klubu PO jest początkiem zmian politycznych po prawej stronie sejmiku, które przyniosą ujawnienie się m.in. sympatyków Prawa i Sprawiedliwości oraz Ligi Polskich Rodzin.</p>
+        <p xml:id="p-5">Marek Nawara, marszałek małopolski, nie chciał komentować nowej sytuacji politycznej w sejmiku między innymi dlatego, że klub PO nie przedstawił swoich propozycji działania. Jego zdaniem, podział klubu AWS nie będzie miał większego wpływu na decyzje w tej kadencji, bo jest to decyzja związana z nadchodzącymi wyborami. - Do tej pory grupa 38 radnych była bardzo jednolita, nie było większych zgrzytów - stwierdził marszałek, przypominając, że działania zarządu bardzo często zyskiwały też poparcie opozycji.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

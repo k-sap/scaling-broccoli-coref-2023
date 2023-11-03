@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">#PoselAleksanderKwasniewski: Szanowni Państwo! Ponieważ pan poseł Wielowieyski mówił o opinii publicznej, myślę, że to jest ogromnie ważne, aby przy tej dyskusji, która jest dyskusją w sumie dość cząstkową - dotyczy przesunięcia terminu złożenia projektu budżetu przez rząd - opinia publiczna otrzymała pełną i niezafałszowaną informację. Otóż przypominam, iż rząd pana Waldemara Pawlaka został zaprzysiężony dwa tygodnie temu przez pana prezydenta, a wotum zaufania uzyskał przed kilkunastu minutami na tej sali. Byłoby więc rzeczą zdumiewającą, iżby ten rząd w pełni zaakceptował, przejął i zaproponował Wysokiej Izbie budżet przygotowywany przez poprzednią ekipę. To nie oznacza odrzucenia propozycji budżetowej. To oznacza prośbę o zwłokę, prośbę o możliwość zapoznania się z propozycjami, jakie ustępujący rząd przedłożył. To oznacza także konieczność dyskusji wewnątrz rządu w sprawie realizacji postulatów wyrażanych w kampanii wyborczej i potem, realizacji tego, co pan premier powiedział w exposé. Nie sądzę, żeby ktokolwiek myślący rozumnie miał wątpliwości, iż nowemu rządowi, który uzyskał wotum zaufania, taka zwłoka, taki czas nie należałby się dzisiaj.</p>
+        <p xml:id="p-2">#PoselAleksanderKwasniewski: Jednocześnie, gdyby sprowadzić całą sprawę do absurdu, można byłoby powiedzieć, że wybory mają wręcz znikomy sens, skoro nowy rząd, powołany w wyniku woli wyborców i tak musi realizować wszystkie ustalenia, wszystkie zobowiązania, wszystkie decyzje, podjęte wcześniej przez rząd, który w wyborach takiego poparcia nie uzyskał. Sądzę, że dla dobra i dla logiki całego procesu pracy nad budżetem, a niewątpliwie w tej Izbie czekają nas bardzo trudne dyskusje na temat budżetu, powinniśmy przyjąć wniosek rządu o przedłużenie terminu złożenia projektu budżetu. I dlatego w imieniu Sojuszu Lewicy Demokratycznej deklaruję głosowanie za propozycją rządu, przedłużeniem terminu, co nie oznacza chęci nierespektowania żelaznych zasad ekonomii, co nie oznacza niechęci do przedłożeń, które zostały przedstawione przez ustępującego ministra finansów. Po prostu chodzi o czas na racjonalną dyskusję, na zastanowienie się nad tym, co ten rząd, rząd Waldemara Pawlaka powinien Wysokiej Izbie przedłożyć.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

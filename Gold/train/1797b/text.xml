@@ -1,0 +1,12 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Co mi dał, co zabrał PRL, co mi dała, co zabrała III RP? - zapytała "Trybuna" parę osób, w tym Bohdana Łazukę, który odpowiedział szczerze: "Mówi się, że PRL to był szary okres. Nie zgadzam się z tym, bo dla artystów był to okres wspaniały, który w całości przetańczyliśmy. Byłem wówczas królem życia. Dziś wszyscy narzekają. A ja, mimo iż w naszym zawodzie się nie przelewa, do tej drużyny nie dołączam".</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Sceptycyzm może szkodzić Tobie i innym</p>
+        <p xml:id="p-2">Sceptycy, którzy nie chcą sami się przekonać o skuteczności naturalnego leczenia i zdrowego odżywiania, często swoje teorie wygłaszają bez zastanowienia, szkodząc innym. Są tak zatwardziali w swoich poglądach, że nawet nie dopuszczają myśli, że mogą nie mieć racji. Choć sami tego nie sprawdzili, głośno wypowiadają swe zdanie. Przekonują innych o słuszności swojego poglądu. Szkodzą sami sobie, szkodzą innym. Gdyby mieli porównanie między dietą roślinną, a dietą mięsną, to można by na ten temat z nimi rozmawiać. Skąd mogą wiedzieć jak działa dieta wegańska, czy głodówka, jakie przynajmniej jest po niej samopoczucie, skoro tego nie sprawdzili. To są tylko wygłaszane przez nich teorie. Lepiej nie słuchać ich rad, a zaufać własnej logice.</p>
+        <p xml:id="p-3">Często ludzie chorzy śmiertelnie, też nie chcą uwierzyć w dobroczynne działanie innych metod leczenia. Z swoim ślepym przekonaniem, lub sugestią ludzi niemających pojęcia o zdrowym stylu życia i przywracaniu zdrowia dietą, nie pozwalają sobie pomóc. Ci natomiast, którzy nie mają doświadczeń wegańskich, swoją opinią o szkodliwości weganizmu i wegetarianizmu, wprowadzają w błąd tych, którzy chcieliby przynajmniej spróbować leczenia naturalnego.</p>
+        <p xml:id="p-4">Skąd ktokolwiek może wiedzieć, czy dieta nie ma wpływu na zdrowie i kondycję, skoro sam nie ma porównania? Jednak ludzie bardzo ciężko chorzy, gdy już czują, że medycyna też nie może im już pomóc, chcą skorzystać z tego sposobu leczenia. Niestety, wtedy jest już przeważnie za późno.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

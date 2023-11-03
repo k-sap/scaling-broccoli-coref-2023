@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Po tym wystąpieniu rozpoczęła się dyskusja. Głos zabierali między innymi rektor Politechniki Świętokrzyskiej, prezydent Kielc, przedstawiciele rolników i przedsiębiorców. Im jednak dłuższa była lista żądań i roszczeń mówców, tym większe robiły się oczy wicepremiera, który w końcu wybuchnął.</p>
+        <p xml:id="p-2">- To, co wszyscy proponujecie, to powrót do centralistycznego planowania. Panie rektorze, panie prezydencie, ja proponuję państwo samorządowo-obywatelskie, a wy korporacyjno-branżowe, gdzie każda grupa zawodowa broni swoich interesów. Nie rozumiem pana rektora Trąmpczyńskiego, który mówi, że na Zachodzie ludzie zostają profesorami w wieku 35 lat. A kto im broni w Polsce? Czy mamy taki zapis wprowadzić w ustawie? Polskie szkolnictwo wyższe jest w kryzysie dlatego, bo wielu profesorów zamiast uczyć, "robi kasę". Pracują na pięciu etatach, mają po dwa domy, trzy samochody, tylko jakoś już studenta nie zauważają. Nie mogę też zgodzić się z argumentacją rolników. Chcecie więcej i więcej. Zgoda, tylko powiedzcie, komu najpierw odebrać? Nie każcie odbierać rządowi. Ustalcie tu sobie w województwie, że zamiast na drogi, kasa pójdzie na tańsze ciągniki czy wyższe ceny skupu i jak znajdziecie u marszałka, mieszkańców Kielc czy u przedsiębiorców stosowne poparcie, to wtedy przyjdźcie do rządu - odpowiadał Jerzy Hausner. - Jestem za tym, aby powstało w Polsce szesnaście lotnisk regionalnych. Obiecuję też, że zrobię wszystko, aby wpisać do Narodowego Planu Rozwoju modernizację linii kolejowej - Kraków - Warszawa przez Kielce. Powinniście mieć ekspresową drogę numer 7 i 74. Jestem pod wrażeniem strategii zaprezentowanej przez Urząd Marszałkowski, ale po dzisiejszej dyskusji i roszczeniowym tonie rozmówców widzę, że nie ma pan, panie marszałku, partnerów do jej realizacji - grzmiał wicepremier Hausner. Dostał gromkie brawa, a po spotkaniu rozdawał autografy.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

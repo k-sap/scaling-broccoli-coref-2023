@@ -1,0 +1,14 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Gervazy Nie Ø wyjeżdżają, bo nie mają dokąd Ø - do Uni muszą Ø z wizą, do USA też Ø i oprócz tego UE nie otworzyła dla nich rynków pracy, jak się komuś uda cichaczem przemknąć do stanów to się cieszy, ale ryzyko zbyt duże, bo można utracić wszystko co się zarobiło. Pozostaje Rosja - ale po co ? Tam zarobki te same. Więc Ø Nie wyjeżdżają, przynajmniej nie Ø tak często jak Ø Polacy.</p>
+        <p xml:id="p-2">czeslaw CYTAT(Łukasz) "Białorusini jako naród popierają Łukaszenkę, nie potrzebują żadnych przemian, reform, jest im dobrze tak jak jest. Warto by się zastanowić z czego to wynika? Dlaczego są tak bierni, apatyczni..." Polacy też tacy są, a już napewno tacy byli do niedawna np. bardzo tolerowali nieuczciwych pracodawców, biernie i apatycznie znosili wymuszania nadgodzin, nieodpowiedniego wypłacania czy też "sprzedawania" urlopów... I z jakiegoś powodu nikt z dziennikarzy czy też z księży nie starał się unaocznić, że jest coś negatywnego w tej biernej apatii. Z tego co telewizja pokazuje to na Białorusi Łukaszenka przeszkadza głównie Polakom z ZPB. Ja na miejscu prezydenta bym ich tu (do Polski) wszystkich zaprosił do pracy, zamiast kombinować z otwieraniem rynków pracy dla Rumunów z Bułgarami, którzy tu wcale nie chcą przyjechać, czy też wymyślać ulgi dla Ukraińskich pracowników. Pozdr.</p>
+        <p xml:id="p-3">szpek_chomik CYTAT(jachu) "Polska niepotrzebnie miesza się w wewnętrzne sprawy Białorusi." Na podstawie ustaleń KBWE (OBWE) mamy pełne prawo do zajmowania się sprawa naszych rodaków na Białorusi.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

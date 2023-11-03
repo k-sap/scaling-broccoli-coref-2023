@@ -1,0 +1,12 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Importerzy aut są zdania, że z roku na rok kontyngent ma coraz mniejsze znaczenie, podobne poglądy mają również dealerzy. Jeszcze trzy-, cztery lata temu kontyngent był słowem magicznym, teraz nie ma różnicy, czy auto jest sprowadzone w ramach kontyngentu, czy poza nim.Nawet dla dealerów takich marek, które nie mają w Polsce fabryki czy choćby montowni kontyngent ma niewielkie znaczenie. Na szczęście, zyskał na tym głównie klient - mówi Roman Walder właściciel autoryzowanego dealera Toyoty w Chwaszczynie. Kilka lat temu jesienią, przeżywaliśmy prawdziwe oblężenie. Każdy chciał zdążyć przed innymi, by kupić auto bez cła, a więc sporo tańsze. Dziś cła są niższe, choć na samochody z Japonii nadal wysokie, co odczuwam, niestety, dość mocno. Najlepiej sprzedają się więc auta produkowane w europejskich fabrykach Toyoty, czyli Avensis i Corolla.Marian Jankowski, dealer Fiata i Alfy Romeo, też jest zdania, że kontyngent stracił znaczenie. Importerzy nie mogą sobie pozwolić na podwyższenie cen po wyczerpaniu kontyngentu, bo my, dealerzy, zwyczajnie stracilibyśmy klientów. A to oznacza nie tylko spadek naszych obrotów, ale i wzrost sprzedaży u konkurencji. A do tego żaden importer nie chce przecież dopuścić. W ofercie Fiata większość aut jest produkowanych lub montowanych w Polsce, kontyngent dotyczy więc niewielkiego procentu naszej sprzedaży. Bez cła sprowadzamy Alfy Romeo, Fiaty Punto Sporting i Multiplę.Andrzej Dmochowski (Ford EuroCar Gdynia) uważa, że kontyngent właściwie nie ma już racji bytu. Czasy, gdy po jego wyczerpaniu ceny zauważalnie rosły, na szczęście minęły. Dodatkowo wielu producentów, w tym i Ford, otworzyło w Polsce fabryki lub montownie.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

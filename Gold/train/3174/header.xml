@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<teiHeader xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xml:lang="en">
+  <fileDesc>
+    <titleStmt>
+      <title>Paragraphs: u-7,u-8,u-9,u-10,u-11,u-12,u-13,u-14,u-15,u-16,u-17,u-18,u-19,u-20,u-21,u-22,u-23,u-24,u-25 from NKJP text with id: PELCRA_7203010000462</title>
+    </titleStmt>
+  </fileDesc>
+  <profileDesc>
+    <textClass>
+      <catRef scheme="#nkjp" target="Mówione konwersacyjne"/>
+    </textClass>
+  </profileDesc>
+  <revisionDesc/>
+</teiHeader>

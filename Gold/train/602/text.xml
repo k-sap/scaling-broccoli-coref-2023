@@ -1,0 +1,14 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Z ustaleń NIK wynika, iż w latach 1996-2002 AWRSP sprzedała 74,50 ha gruntów, wycenianych na kwotę ponad 6,5 miliona złotych, czyli średnio 8,92 złotych za metr kwadratowy. W sierpniu 1998 roku, poznański oddział agencji zawarł umowę z TON AGRO, zgodnie z którą spółka miała opracować koncepcję zmiany miejscowego planu zagospodarowania przestrzennego oraz promować teren i wyszukiwać potencjalnych inwestorów. W ocenie NIK, w czasie trwania owej umowy, spółka nie wywiązała się z żadnego z obowiązków. Choć wartość gruntów nie wzrosła, spółka od 1998-1999 roku sprzedała 24,98 ha gruntów rolnych za niemal dwa miliony złotych. Przedstawiciele AWRSP i TON AGRO kilkakrotnie spotykali się z władzami miasta i byli informowani o zamiarze przeznaczenia części gruntów pod zabudowę mieszkaniową. Mimo to spółka kontynuowała sprzedaż działek po zaniżonych cenach. Sytuacja ta zaniepokoiła prezesa AWRSP, który we wrześniu 2002 roku skierował do prokuratury zawiadomienie o podejrzeniu popełnienia przez spółkę przestępstwa. Prokuratura nie dopatrzyła się jednak znamion przestępstwa i sprawę umorzyła.</p>
+        <p xml:id="p-2">Winny prezes?</p>
+        <p xml:id="p-3">NIK przyjrzała się również prowizjom, jakie spółka uzyskiwała ze sprzedaży terenów. Wysokość stawek zgodnie z pierwszą umową wynosiła 10 proc. Kolejne porozumienie z 14 kwietnia 1998 roku podniosło prowizję do 15 proc. Dopiero w aneksie z 6 maja 2002 roku przywrócono 10 proc stawki. Kontrolerzy zbadali stawki poznańskich pośredników przy sprzedaży nieruchomości i okazało się, że stosowali oni prowizje od 3-5 proc. Odpowiedzialność za te nieprawidłowości ponosić miał zmarły w ubiegłym roku Piotr B. dyrektor terenowego oddziału AWRSP. Zarzuty nie dotyczą jednak wyłącznie jednej osoby.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

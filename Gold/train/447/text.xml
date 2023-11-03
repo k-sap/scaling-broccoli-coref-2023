@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Osobiście uważam, że jedynie dobrze przygotowany, umiejętnie interpretujący oglądaną informację i segregujący ją wstępnie człowiek może racjonalnie ocenić i zaprognozować działania przeciwnika. Do końca zautomatyzować procesu rozpoznania raczej nie uda się nigdy. Sądzę, że pilotowane samoloty rozpoznawcze, operatorzy i interpretatorzy pozostaną w służbie rozpoznania tak długo, jak długo istnieć będą potrzeby zdobywania informacji z powietrza i kosmosu. Co zaś do sensacyjnych projektów rychłego zastąpienia pilotowanych samolotów rozpoznawczych "latającymi robotami", a interpretatorów "automatami analizy i obróbki uzyskiwanej informacji" to pozostawmy je (i to z pewnością na długo) fantastom.</p>
+        <p xml:id="p-2">Można jednak zastanawiać się nad odpowiedzią na następujące pytanie: obecnie brak jeszcze możliwości pełnej automatyzacji procesów rozpoznania, ale czy spontaniczny rozwój elektroniki i trudna do pokonania bariera czasu nie wniosą liczących się korekt w stopień automatyzacji procesu rozpoznania i w działalność operatorów w systemach rozpoznawczych?</p>
+        <p xml:id="p-3">Zdaniem wielu specjalistów odpowiedź na te pytania może być twierdząca, jeżeli automatyzacja procesów rozpoznania doprowadzona zostanie do takiego poziomu, przy którym zbiór, analiza i opracowanie zebranej informacji uwieńczone zostaną wynikami odpowiadającym potrzebom. Przy tym płynąca nieprzerwanie informacja winna być zobrazowana na ekranach monitorów w postaci różnego rodzaju wykresów i tabel, opisów, znaków rozpowszechnianych z wykorzystaniem automatycznych linii przesyłowych w wojskach, z określonym zawczasu priorytetem i w takiej formie, która jest odpowiednia dla każdej zainteresowanej nią instytucji.</p>
+        <p xml:id="p-4">Modernizacja obecnie funkcjonujących czy też budowa od podstaw systemów rozpoznawczych musi także dziś uwzględniać w swoim składzie: bezpilotowe i pilotowane środki uzyskiwania wiarygodnego materiału rozpoznawczego; komórki jego precyzyjnej analizy; wydolną aparaturę skrupulatnie dokumentującą uzyskane wyniki i rozpowszechniającą je. Ta ostatnia musi łatwo przyjmować, szybko wymieniać i precyzyjnie przekazywać uzyskane dane rozpoznawcze w systemie całkowicie zautomatyzowanym.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

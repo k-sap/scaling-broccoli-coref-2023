@@ -1,0 +1,28 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Nie tylko ciało</p>
+        <p xml:id="p-2">Człowiek zadowolony i przygotowany do pokonywania przeszkód, jakie mogą spotkać go na drodze życia, łatwiej poradzi sobie z chorobami. Bo człowiek to nie tylko ciało. Bardzo często przyczyną dolegliwości organów wewnętrznych są problemy naszej psychiki.</p>
+        <p xml:id="p-3">Jak spokojnie żyć?</p>
+        <p xml:id="p-4">Żeby uzdrowić swoje życie, trzeba najpierw uzdrowić swoje bycie wśród ludzi. W pracy, na wakacjach, w towarzystwie, a przede wszystkim w rodzinie. Jeśli tego chcesz:</p>
+        <p xml:id="p-5">• skończ z wzajemnym obwinianiem i oskarżaniem;</p>
+        <p xml:id="p-6">• odważnie spójrz na swój udział w zaistniałej sytuacji;</p>
+        <p xml:id="p-7">• odpowiedz na pytanie, co wnosisz do związku pozytywnego, a co negatywnego?</p>
+        <p xml:id="p-8">• sprawdź proporcje między „daję”, a „biorę”;</p>
+        <p xml:id="p-9">• dużo rozmawiaj z bliskimi;</p>
+        <p xml:id="p-10">• naucz się otwierać swoje serce.</p>
+        <p xml:id="p-11">• spróbuj nazywać emocje, które są w Tobie, takie jak miłość, radość, żal, gniew, nienawiść, zazdrość, poczucie winy, agresja, wściekłość, smutek, rozpacz, tęsknota, rozczarowanie, niepokój, strach i lęk;</p>
+        <p xml:id="p-12">• naucz się je wyrażać, mówić o nich do drugiej osoby;</p>
+        <p xml:id="p-13">• zachowaj proporcje między pracą i odpoczynkiem;</p>
+        <p xml:id="p-14">• nie siedź w domu, wyjdź do ludzi, poznawaj przyrodę.</p>
+        <p xml:id="p-15">Warto wiedzieć</p>
+        <p xml:id="p-16">Jak poprawić sobie nastrój?</p>
+        <p xml:id="p-17">Jeśli przyczyną naszych smutków jest sposób myślenia, możemy sami sobie pomóc – zmieniając go. Aby skorygować błędy w sposobie myślenia, zacznij prowadzić wykaz codziennych zajęć. Zapisz to, co będziesz robić. Zacznij od planowania rzeczy prostych. Zaznacz wszystko, co udało ci się wykonać. Podkreśl te rzeczy, z których jesteś szczególnie dumny i te, które sprawiły ci przyjemność.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

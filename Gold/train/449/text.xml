@@ -1,0 +1,18 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">DK: Tak, ja myślę, że właśnie dlatego został pan obwołany faszystą.</p>
+        <p xml:id="p-2">DG: Właśnie po to, żeby zakrzyczeć ten wątek, o którym nie można mówić wprost... Bo mówi pan rzeczy straszne...</p>
+        <p xml:id="p-3">Dlaczego straszne? Przecież tak właśnie było. Nawet jeśli ta wiedza jest teraz trochę zakazana, to wie o tym każdy Polak.</p>
+        <p xml:id="p-4">DK: Jestem pewien, że w podręcznikach zarządzania zbiorowym oburzeniem - gdyby takie istniały - o reductio ad Hitlerum byłby cały rozdział.</p>
+        <p xml:id="p-5">DG: Etykieta faszysty jest szczególnie pomocna przy krytyce polskiego autora, piszącego o Powstaniu Warszawskim, w gazecie wydawanej przez niemiecki koncern. Mamy wówczas sytuację pewnego soczystego paradoksu.</p>
+        <p xml:id="p-6">Żyjemy teraz w takim czasie, że ta kwalifikacja jest trochę śmieszna, ale w innej sytuacji mogłaby mieć bardzo groźne skutki.</p>
+        <p xml:id="p-7">MC: Ale ja chciałem zapytać o jeszcze jedną rzecz. Pan mówił wcześniej o tej miłości do polskości i do Polski. Mówił pan również o tym, jak niebezpieczne może być oduczanie ludzi tej miłości. Ale jakie są, według pana, aksjologiczne podstawy tej miłości? Gdyby nie to, że mamy wspólnie do czynienia z koalicją antypodmiotowców, którzy wpadają we wściekłość na samo słowo "polskość", to pan i my moglibyśmy się o te podstawy aksjologiczne poróżnić. Bo właściwie gdzie pan znajduje w swojej wizji historii i narodu aksjologiczne podstawy do tego, żeby kochać swoją polskość?</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

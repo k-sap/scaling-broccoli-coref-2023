@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">słychać, że ktoś otwiera drzwi kluczem</p>
+        <p xml:id="p-2">DANUTA</p>
+        <p xml:id="p-3">zrywa się</p>
+        <p xml:id="p-4">Nareszcie...</p>
+        <p xml:id="p-5">W drzwiach pokoju po chwili zjawia się Teresa</p>
+        <p xml:id="p-6">TERESA</p>
+        <p xml:id="p-7">Już jestem, mamo.</p>
+        <p xml:id="p-8">DANUTA</p>
+        <p xml:id="p-9">ze łzami rzuca się do ściskania jej</p>
+        <p xml:id="p-10">Mój Boże, Teresko, tak się denerwowałam.</p>
+        <p xml:id="p-11">TERESA</p>
+        <p xml:id="p-12">Już wszystko dobrze.</p>
+        <p xml:id="p-13">matka i córka ściskają się,</p>
+        <p xml:id="p-14">po chwili za Teresą pojawia się Kacper</p>
+        <p xml:id="p-15">KACPER</p>
+        <p xml:id="p-16">Dobry wieczór.</p>
+        <p xml:id="p-17">Danuta i Baranowski są zaskoczeni</p>
+        <p xml:id="p-18">DANUTA</p>
+        <p xml:id="p-19">O! to pan... Jak mam panu dziękować?! Że tez wcześniej nie pomyślałam? Jak Teresa wpadła w jakieś kłopoty, to kto ją uratował? Wiadomo, pan Kacper.</p>
+        <p xml:id="p-20">po chwili wzruszona obejmuje Kacpra</p>
+        <p xml:id="p-21">Bardzo panu dziękuję... z całego serca...</p>
+        <p xml:id="p-22">KACPER</p>
+        <p xml:id="p-23">Ale to nie tak... To nie ja pomogłem Teresie, tylko... ona mnie...</p>
+        <p xml:id="p-24">zbliżenie lekko zdziwionej Danuty</p>
+        <p xml:id="p-25">Scena</p>
+        <p xml:id="p-26">WNĘTRZE. NOC. MIESZKANIE DUNINÓW. SYPIALNIA. AGNIESZKA, KASIA</p>
+        <p xml:id="p-27">Agnieszka śpi. Nagle słychać cichutkie kwilenie dziecka. Agnieszka bardzo czujnie natychmiast się budzi. Wstaje i zagląda do dziecka. Kasia śpi. Agnieszka widzi, ze nic się nie stało. Poprawia dziecku becik czy kołderkę. Widać, że jest już na ostatnich nogach. Siada na chwilę i patrzy na Kasię. Potem wstaje i powoli wychodzi do salonu...</p>
+        <p xml:id="p-28">Scena cd.</p>
+        <p xml:id="p-29">WNĘTRZE. NOC. MIESZKANIE DUNINÓW. SALON. AGNIESZKA, ŁUKASZ.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

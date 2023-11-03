@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Kuba odwiedzałby rannego, współczułby mu. Potem pomyślałby, że okaleczony kolega zbyt mocno przypomina mu tamten ogień. Tamten smród palonego białka. Uścisnąłby koledze dłoń, jeśli którąś miałby sprawną, zamknąłby drzwi, odjechał windą i nigdy nie wrócił. Cudownie byłoby o takim koledze zapomnieć.</p>
+        <p xml:id="p-2">Inni - ci, którzy wtedy nie pielgrzymowali - czasem do Kuby wpadają, rzadko. Są już studentami, mają zajęcia, kolokwia, ważne sprawy. Przychodzą tutaj, kiedy idą święta, bo w święta myśli się o chorych.</p>
+        <p xml:id="p-3">I Kuba do nikogo nie dzwoni, nikogo nie zaprasza. Bo zaproszony, choć nie będzie miał ochoty, zawsze do chorego przyjdzie. Choremu nie wolno odmówić.</p>
+        <p xml:id="p-4">Nie wychodzi z domu. W spojrzeniach ludzi widzi tylko litość. Więc i on ludziom w oczy nie zagląda. I nie chce, by na niego patrzyli, by go wytykali palcami: to jest ofiara tamtej katastrofy. Ocalały pielgrzym. Jego twarz jest znana, bo nie raz, nie dwa pokazywali Kubę w tutejszych gazetach, kiedy organizowano turnieje sportowe i zbierano pieniądze na jego leczenie. Zresztą tu wszyscy się znają, bo tu jest Białystok, a Kuba jest dyżurnym białostockim inwalidą. Został nim w drodze do Matki Boskiej (dziennikarze piszą także: w drodze do Pani Jasnogórskiej, do Królowej Polski, do Czarnej Madonny, do Narodowego Sanktuarium). Na takiego warto zbierać pieniądze. Dać złotówkę albo stówę, dobrze o sobie pomyśleć. Takiego ludzie lubią sobie pokazywać szczególnie wtedy, gdy się Chrystus rodzi albo gdy umiera.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Po tych polskich wydarzeniach przenieśliśmy się do Londynu, gdzie w renomowanym hotelu odbywało się wręczanie nagród znanego pisma muzycznego "Q". W reportażu tym największe wrażenie zrobił podstarzały wprawdzie Johny Rotten, lider punkowego zespołu Sex Pistols, który kazał rozwydrzonym i rozochoconym gościom po prostu "zamknąć się".</p>
+        <p xml:id="p-2">Tak więc "SuperVIP" to jeszcze jeden tradycyjny program prezentujący nowości ze świata popkultury. Nie ma w nim, wbrew temu co można by sądzić, żadnych plotek i skandali, także sama formuła programu, gdzie na przemian pojawia się prowadząca go Ewa Olbrychska i krótkie reportaże bądź wywiady, jest mocno ugrzeczniona i nie odbiega od konwencji tradycyjnego programu informacyjnego.</p>
+        <p xml:id="p-3">Swego czasu badacze kultury przewidywali, że w społeczeństwach konsumpcyjnych nuda i wolny czas prowadzić będą do tego, że właśnie plotka stanie się tym, co owych konsumentów kultury będzie jeszcze ekscytować. I tak jest w istocie: przecież rozmaite reality shows to nic innego jak plotka dotycząca ludzi przeciętnych przeniesionych na ekran, takich, z którymi możemy się utożsamiać.</p>
+        <p xml:id="p-4">Na drugim biegunie znajduje się prasa kolorowa informująca o skandalach z życia sławnych ludzi. Na szczęście pośrodku jest jeszcze miejsce na takie programy jak "SuperVIP", które nie epatują nadmiarem złego smaku, naruszeniem prywatności i typowym dla dzisiejszej telewizji ekshibicjonizmem. Co nie znaczy, by nie można było robić tego programu, adresowanego przecież do młodzieży, z większym luzem, dozą szaleństwa i poczuciem humoru.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

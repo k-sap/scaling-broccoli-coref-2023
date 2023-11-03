@@ -1,0 +1,25 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Idąc z wtorku do soboty.</p>
+        <p xml:id="p-2">- A więc liczę na was - oświadcza naczelnik i zajmuje się inną ważną sprawą.</p>
+        <p xml:id="p-3">Pciuch dwadzieścia cztery nie był jednak tak doświadczonym listonoszem jak inne starsze Pciuchy, chociażby jego rodzice. Tatuś Pciucha, na przykład, otrzymywał bardzo odpowiedzialne Spóźnione Przesyłki i często zdarzało się, że musiał podróżować rowerem, żeby móc zdążyć w porę.</p>
+        <p xml:id="p-4">A młody Pciuch dostał właśnie od tatusia i mamusi hulajnogę. I chociaż rodzice ostrzegali go, żeby nie zabierał hulajnogi do pracy, postanowił spróbować, jak będzie mu szło dostarczanie przesyłek przy pomocy hulajnogi. Wskoczył więc na nią raz - dwa i szybciutko pojechał na ulicę Koszykową 12 mieszkania 5, do ciotki Patrycji Trąbalskiej.</p>
+        <p xml:id="p-5">A kiedy już był pod drzwiami, przypomniał sobie, że musi sprawdzić termin przesyłki.</p>
+        <p xml:id="p-6">- Na kiedy to ma być? - zapytał sam siebie i zajrzał do notesika.</p>
+        <p xml:id="p-7">- Ach, na sobotę! A jaki jest teraz dzień? - Niestety, zupełnie zapomniał, że hulajnoga nie ma takiego licznika jak rower Tatusia.</p>
+        <p xml:id="p-8">- To nic - pocieszył się Pciuch - poszukam kogoś, kto mi pomoże.</p>
+        <p xml:id="p-9">Na dole siedział pan dozorca.</p>
+        <p xml:id="p-10">- Proszę pana - zawołał Pciuch - bardzo przepraszam, jaki jest teraz dzień?</p>
+        <p xml:id="p-11">- A kto pyta? - zdziwił się pan dozorca.</p>
+        <p xml:id="p-12">- Listonosz Pciuch dwadzieścia cztery!</p>
+        <p xml:id="p-13">- A dlaczego pana nie widzę, panie listonoszu?</p>
+        <p xml:id="p-14">- Ponieważ ja tu jestem wczoraj! - zawołał Pciuch i wyrecytował:</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

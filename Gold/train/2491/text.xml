@@ -1,0 +1,14 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Dr Ven. Tenzin Jangchub, urodzony w 1957 r. w Tybecie, w Himalajach. Po zajęciu Tybetu przez Chińczyków w 1959 r. jego rodzina wyemigrowała wraz z Jego Świątobliwością Dalajlamą do Dharamsali w północnych Indiach, gdzie wstąpił do klasztoru buddyjskiego i ukończył siedmioletnie studia lekarskie w Tybetańskim Instytucie Medycyny i Astrologii. Praktykował u dr Yeshi Dhondena, osobistego lekarza Dalajlamy. Praktykował w Azji, Ameryce Południowej i Europie. Od sześciu lat przebywa w Polsce, gdzie uzyskał prawo stałego pobytu i oficjalnie zarejestrował praktykę lekarską. Mieszka w Warszawie; raz w miesiącu przyjmuje swoich pacjentów w Rzeszowie.</p>
+        <p xml:id="p-2">Najważniejsze jest śniadanie: zjedzone bez pośpiechu, pożywne. To ono dostarcza energii na cały dzień. Nierzadko wybiegamy do pracy po przełknięciu filiżanki kawy i zjedzeniu rogalika. Nie należy dziwić się, że jesteśmy bardziej podenerwowani i podatni na agresję. Może to prowadzić do nowotworów żołądka. Proces ten jest prawie niedostrzegalny, bo trwa długo: 10 - 30 lat.</p>
+        <p xml:id="p-3">Nie zapominajmy o drugim śniadaniu, bo po jego zjedzeniu mamy energię do dalszej pracy. Bardzo ważny jest obiad: gotowany, pożywny. Kolacja winna być lekka. Zjedzmy ja najpóźniej dwie godziny przed snem. Możemy zapełnić, co najwyżej jedną trzecią pojemności żołądka. Obciążając go na noc, będziemy mieli problemy z oddychaniem, krążeniem i snem. Z pustym żołądkiem wystarczy 7 godzin snu. Z pełnym - 9 godzin snu to za mało. W dodatku nie daje on odpoczynku, bo organizm zmuszony jest do trawienia.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

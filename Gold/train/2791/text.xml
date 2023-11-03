@@ -1,0 +1,20 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">deBeriere Zdecydowanie w Rzymie okresu wspaniałych cesarzy Traja i Hadriana to wspaniały okres dla Rzymu.</p>
+        <p xml:id="p-2">Hauer Zdecydowanie w jakims pałacu. Oczywiście jako jego właściciel. Miejsce jakieś sródziemnomorskie, nad morzem. Z dala od Cezara, Hanibala, Spartakusa i całej reszty im podobnych. Czas nie gra w tym układzie wiekszej roli.</p>
+        <p xml:id="p-3">Lizander No... jeszcze 100 służebnic Czemużby nie jakaś miła wyspa na Morzu Egejskim? Na własność razem ze służebnicami, rzecz jasna.</p>
+        <p xml:id="p-4">Markus Chciałbym żyć w Atenach, w okresie największego rozkwitu filozofii</p>
+        <p xml:id="p-5">Hauer CYTAT "Chciałbym żyć w Atenach, w okresie największego rozkwitu filozofii" A fuj!</p>
+        <p xml:id="p-6">Lizander CYTAT "Cytat: Chciałbym żyć w Atenach, w okresie największego rozkwitu filozofii A fuj!" fuj, fuj... pewnikiem homoseksualista a tak serio o gustach się nie sykutuje - jak dla mnie mógłby chciec mieszkać nawet w Ninniwie za czasów Sargona II ;]</p>
+        <p xml:id="p-7">Blake Ja w Atenach między wojnami perskimi a wojną peloponeską albo w Rzymie republikańskim. Można by się trochę pobawić w polityce. Albo uczestniczyć w wyprawie Aleksandra - to by dopiero był bajer, łazić po krainach, o których prawie nic przeciętny Grek nie wiedział</p>
+        <p xml:id="p-8">sargon Ale założę się, ze w drodze powrotnej z Indii wolałbyś dralować z Kraterosem :wink:</p>
+        <p xml:id="p-9">Gnome Jakoś tak od razu nasuwają mi się Ateny w okresie Sokratesa, ale po głębszym zastanowieniu to Chiny w okresie Konfucjusza, nie żebym widział wiele na ten temat, ale właśnie dlatego, chętnie bym się czegoś nauczył, a zawsze podziwiałem cywilizacje Wschodu.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

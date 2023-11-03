@@ -1,0 +1,20 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">WicemarszalekAndrzejChronowski: Kto się wstrzymał od głosu, proszę o naciśnięcie przycisku "wstrzymuję się" i podniesienie ręki.</p>
+        <p xml:id="p-2">WicemarszalekAndrzejChronowski: Dziękuję. Proszę o podanie wyników głosowania.</p>
+        <p xml:id="p-3">WicemarszalekAndrzejChronowski: Na 89 obecnych senatorów 70 głosowało za, 8 - przeciw, 11 wstrzymało się od głosu. ( Głosowanie nr 24).</p>
+        <p xml:id="p-4">WicemarszalekAndrzejChronowski: Wobec wyników głosowania stwierdzam, że Senat podjął uchwałę w sprawie ustawy o świadczeniach pieniężnych z ubezpieczenia społecznego w razie choroby i macierzyństwa.</p>
+        <p xml:id="p-5">WicemarszalekAndrzejChronowski: Powracamy do debaty nad punktem trzecim porządku dziennego: stanowisko Senatu w sprawie ustawy o zmianie ustawy o ujawnieniu pracy lub służby w organach bezpieczeństwa państwa lub współpracy z nimi w latach 1944-1990 osób pełniących funkcje publiczne.</p>
+        <p xml:id="p-6">WicemarszalekAndrzejChronowski: Przypominam, że debata nad rozpatrywaną ustawą została zakończona i obecnie możemy przystąpić do głosowania w sprawie tej ustawy.</p>
+        <p xml:id="p-7">WicemarszalekAndrzejChronowski: Przypominam ponadto, że Komisja Praw Człowieka i Praworządności przedstawiła projekt uchwały, w którym wnosiła o wprowadzenie poprawki do ustawy.</p>
+        <p xml:id="p-8">WicemarszalekAndrzejChronowski: Komisja wnosiła o zastąpienie w art. 1 pkcie 3 literze "a" wyrazów "oraz upoważnieni pracownicy Biura Rzecznika Interesu Publicznego słowami "oraz, w zakresie określonym przez Rzecznika, upoważnieni pracownicy Biura". Poprawka zmierza do tego, aby upoważnieni pracownicy Biura Rzecznika Interesu Publicznego mogli korzystać z prawa wstępu do pomieszczeń, w których znajdują się materiały i dokumenty określone w art. 31 ustawy, jedynie w zakresie określonym przez rzecznika.</p>
+        <p xml:id="p-9">WicemarszalekAndrzejChronowski: Przystępujemy do głosowania nad przedstawionym przez Komisję Praw Człowieka i Praworządności projektem uchwały w sprawie ustawy o zmianie ustawy o ujawnieniu pracy lub służby w organach bezpieczeństwa państwa lub współpracy z nimi w latach 1944-1990 osób pełniących funkcje publiczne.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

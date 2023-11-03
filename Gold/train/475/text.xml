@@ -1,0 +1,27 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">- Bo i prawda, że cud, prawdziwy cud!</p>
+        <p xml:id="p-2">- Wiatru też nie było i w czas spostrzegli.</p>
+        <p xml:id="p-3">- A ktosik w dzwon uderzył, bo wieś była w pierwszym śpiku.</p>
+        <p xml:id="p-4">Pono to niedźwiedniki szły z karzmy i pierwsze zobaczyły.</p>
+        <p xml:id="p-5">- Moiściewy! ale ich sam Boryna złapał w brogu i tyle co rozegnał, a tu ogień zaraz buchnął... Miarkowałem wczoraj u Kłębów, że coś będzie, skoro razem się wynieśli.</p>
+        <p xml:id="p-6">- Pono już dawno stróżował za nimi.</p>
+        <p xml:id="p-7">- Jakże! powiadał mój chłopak, że wczoraj cały czas chodził po drodze przed Kłębową chałupą i miał ich na oku - prawiła pod nosem Kobusowa.</p>
+        <p xml:id="p-8">- Toteż widno, co bez złość Antek podpalił.</p>
+        <p xml:id="p-9">- Abo się to nie odgrażał?</p>
+        <p xml:id="p-10">- Cała wieś o tym wiedziała.</p>
+        <p xml:id="p-11">- Musiało się na tym skończyć, musiało! - dogadywała Kozłowa.</p>
+        <p xml:id="p-12">A w drugiej grupie starszych gospodyń szeptano również różności, jeno tyle że ciszej i ważniej.</p>
+        <p xml:id="p-13">- Stary pono tak zbił Jagnę, że leży chora u matki...wiecie to?</p>
+        <p xml:id="p-14">- Jakże! zaraz do dnia, powiadali, wygnał ją, skrzynkę za nią wyrzucił i wszystkie szmaty - dorzuciła milcząca dotąd Balcerkowa.</p>
+        <p xml:id="p-15">- Nie powiadajcie byle czego, byłam dopiero co w chałupie, skrzynka stoi na swoim miejscu - objaśniała Płoszkowa.</p>
+        <p xml:id="p-16">- Ale już na weselu przepowiadałam, że się tak skończy - podjęła głośniej.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

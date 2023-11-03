@@ -1,0 +1,20 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">- Może.</p>
+        <p xml:id="p-2">Wstał i począł spacerować po komnacie. Deski podłogi skrzypiały pod jego nogami, to skrzypienie przypomniało mu opowieść Ojczulka Adama o dwóch pestkach, które wędrowcowi ocalonemu od burzy podarowała staruszka o głosie jak skrzyp nadłamanej gałęzi w wietrzny dzień.</p>
+        <p xml:id="p-3">Podejrzliwie spojrzał na siedzącą przy wielkim stole Poetkę. Nie patrzyła na niego, ale odwróciła głowę, gdy tylko poczuła jego wzrok. Było to spojrzenie rozświetlone myślami, nieobecne, a przez to trochę obce, obce w jej twarzy. Bo już wiedział, dlaczego te oczy wydawały mu się znajome: światło nadało przejrzystości jesiennym barwom, stara kobieta o włosach jak poświata patrzyła na niego oczami białowłosej dziewczyny.</p>
+        <p xml:id="p-4">Zatrzymał się raptownie i zdał sobie sprawę, że musiał patrzeć wrogo, bo zapytała.</p>
+        <p xml:id="p-5">- Jesteś zły?</p>
+        <p xml:id="p-6">- Nie - zaprzeczył. - Nie, albo może i jestem. Na siebie. Za swoją wyobraźnię.</p>
+        <p xml:id="p-7">- Nie potrafisz niczego przyjmować po prostu.</p>
+        <p xml:id="p-8">- Nie potrafię uwierzyć, że coś może być jednoznaczne. Tutaj w Paradisie ludzie nie mają wyobraźni. Żyją. Po prostu żyją. A ty, ty musisz mieć wyobraźnię! Jesteś Poetką. Po co tutaj Poetki? Dla kogo właściwie piszesz? Dla siebie samej?</p>
+        <p xml:id="p-9">- Piszę dla nich. Jestem im potrzebna właśnie dlatego, że nie dostaje im wyobraźni. A lubią śpiewać pieśni w czasie świąt. Skąd by je wzięli, gdyby mnie nie było?</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

@@ -1,0 +1,20 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">- Cierpimy, ponieważ dokonujemy nieświadomych wyborów? O to chodzi?</p>
+        <p xml:id="p-2">- Tak. Żyjemy w nieświadomy, nawykowy sposób, zgodnie z wzorcami zachowania wyniesionymi z najwcześniejszych lat życia. Często mówię ludziom: czujesz się tak, jak żyjesz. Zmień cokolwiek w swoim życiu, a zaczniesz czuć się inaczej.</p>
+        <p xml:id="p-3">- Jak bardzo boli zmiana?</p>
+        <p xml:id="p-4">- Czasem bardzo. Dlatego ważne jest, aby mieć wsparcie w osobie, która przeszła już kawałek tej drogi i może powiedzieć: nie bój się, mnie też nie było łatwo, ale można przez to przejść, warto ruszyć w tę podróż. Potrzebna jest osoba, która zainspiruje, obudzi w nas wiarę.</p>
+        <p xml:id="p-5">- Taką osobę trudno jednak znaleźć. Wiadomo: terapeuci są różni, a i przyjaciel nie zawsze mądrze poradzi.</p>
+        <p xml:id="p-6">- Oczywiście, że nie wiadomo, na kogo się trafi, ale przecież z każdej złej sytuacji można się wycofać. Aby spotkać na swojej drodze właściwego człowieka, trzeba choćby trochę pracy wcześniej w siebie włożyć. Jak ktoś mądrze zauważył: kieszonkowiec nawet gdy spotka świętego, i tak zobaczy tylko kieszenie i będzie chciał go okraść.</p>
+        <p xml:id="p-7">- Kimś, kto skutecznie wesprze, może być Bóg, prawda?</p>
+        <p xml:id="p-8">- Może to być ktokolwiek, kto daje świadectwo i inspiruje, nawet postać literacka.</p>
+        <p xml:id="p-9">- Znam ludzi ciężko doświadczonych w dzieciństwie, którzy mieli wszelkie powody, aby stracić wiarę i zrezygnować z życia, a jednak wygrali - żyją pięknie. I znam wielu mniej boleśnie doświadczonych, którzy nie wierzą w nic, z ulgą myślą jedynie o śmierci. Od czego to zależy?</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

@@ -1,0 +1,20 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Sweet girl wiem :0 oskar to juz historia i rpzeszlosc</p>
+        <p xml:id="p-2">Martyna;) a ja po malych wczasach powracam i gotowa z sercem na dloni, wspierac Cię w tych chwilach sweet . zdarzaja sie i takie chamy, trudno. żyć nijak trzbea dalej. a Ty wytrzymasz,w ierzę w Ciebie</p>
+        <p xml:id="p-3">pala_90 właśnie się miałam pytać gdzie ty byłaś jak cię nie było</p>
+        <p xml:id="p-4">Martyna;) byłam w Człuchowie, na działce u kuzynek i nad jeziorkiem Rychnowskim, tam zaraz, z dwa razy bylysmy, opalilam sie i gicior jest</p>
+        <p xml:id="p-5">Sweet girl nio ja własnie z uczelni wrocilam... juz nawet nie mysle o tym chlopaku ale zal pozostal... nie wiem co bedize jak sie mine z nim gdzies na ulicy lub na uczelni...</p>
+        <p xml:id="p-6">pala_90 jak sie miniesz to powiesz "cześć" i pójdziesz w swoim kierunku Sweet będzie dobrze... już odniosłaś sukces bo nie myślisz o nim</p>
+        <p xml:id="p-7">Martyna;) tak, z podniesioną głową . Zaczynasz nowe, lepsze życie. Rób to, co kochasz. A powiedzie Ci się dobrze. Zobaczysz.</p>
+        <p xml:id="p-8">Sweet girl To co kocham to milosc do swiata do ludzi to przyjazn to wartoci to wsyzstko to co mnie otacza... to ludzie... ale oni tlyko potrafia ranic...</p>
+        <p xml:id="p-9">pala_90 ale nie wszyscy... kiedyś się o tym przekonasz ...życzę ci tego z całego serca</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

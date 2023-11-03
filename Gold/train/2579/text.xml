@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Do Naczelnego Sądu Administracyjnego trafiły dwie skargi: Ø radnego Ryszarda Gębarowskiego i Ø Bloku Samorządowego, do którego należy.</p>
+        <p xml:id="p-2">Opozycyjni radni z Zelowa uważają, że uchwały dotyczące powołania komisji rewizyjnej i udzielenia burmistrzowi absolutorium powinny zostać uchylone.</p>
+        <p xml:id="p-3">Od początku kadencji do tej pory, komisja rewizyjna przy zelowskiej Radzie Miejskiej działa w niepełnym, trzyosobowym składzie. Tworzą ją radni związani z ugrupowaniem "Gmina Razem", mającym większość w radzie. Na każdej sesji Ø podczas wyborów do komisji rewizyjnej powtarza się ten sam scenariusz. Żaden z opozycyjnych radnych z Bloku Samorządowego Gminy Zelów, oprócz Ryszarda Gębarowskiego, nie zgadza się na udział w pracach komisji rewizyjnej. Przeciw Gębarowskiemu natomiast głosują radni z ugrupowania "Gmina Razem", a ponieważ mają większość, radny poparcia nie otrzymuje.</p>
+        <p xml:id="p-4">Radni z BS najpierw podczas obrad rady wnosili, aby uchylić uchwały dotyczące powołania komisji rewizyjnej w tak okrojonym składzie i bez udziału w niej przedstawiciela opozycji. Ich zdaniem, taka komisja nie miała prawa do wystawienia opinii i wnioskowania o udzielenie absolutorium burmistrzowi. Ich wezwania i wnioski nigdy nie zyskały większości głosów. BS powołuje się na zapisy w ustawie o samorządzie gminnym. Twierdzi, że rada powołuje komisję, ale nie może wskazywać, kto ma w niej być z ich opozycyjnego klubu. A ich zdaniem radny Gębarowski jest najbardziej kompetentną osobą do pełnienia tej funkcji. Swoje stanowisko przedstawiła wojewodzie, ale ten nie podzielił jej zdania. Teraz sprawa będzie rozpatrywana w NSA, do którego trafiły dwa wnioski - Ø ugrupowania i Ø Gębarowskiego.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

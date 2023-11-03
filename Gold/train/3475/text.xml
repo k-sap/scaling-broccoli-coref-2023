@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Europejskość wiąże się ze sprawami międzynarodowymi i wizją bezpieczeństwa Polski, ale przede wszystkim definiuje sposób myślenia o świecie, społeczeństwie i życiu. Partia rosyjska jest etatystyczna - wierzy, że za wszystko odpowiada państwo oraz batiuszka, który nim kieruje. Partia amerykańska jest neokonserwatywna - wierzy, że każdy odpowiada za siebie, a kierowane przez silne przywództwo państwo ma wymusić porządek. Demokraci tym różnią się od etatystów i neokonserwatystów, że wierzą raczej w solidarność, we wspólnotę i jej nieformalne normy niż w siłę urzędów lub dominujących jednostek. W polityce wewnętrznej kluczowym pojęciem jest dla nich społeczeństwo, jego organizacje i łączące je więzi. W gospodarce - spójność społeczna i jakość życia. W sprawach zagranicznych - społeczność międzynarodowa, jej powiązania oraz instytucje.</p>
+        <p xml:id="p-2">To się dość prosto przekłada na wizję roli państwa. Etatyści wierzą, że ludzie mogą wymagać od państwa. Neokonserwatyści, że państwo ma prawo wymagać od ludzi. Jedni i drudzy opisują świat językiem uprawnionych roszczeń. Demokraci wierzą w państwo wspomagające ludzi i przez nich budowane. Etatyści i neokonserwatyści wierzą głównie w siłę oraz prawo. Partia rosyjska wierzy w naprawę państwa za pomocą systemu totalnego nadzoru sprawowanego przez wszechpotężne i wszechobecne urzędy. Partia amerykańska wierzy w aparat ścigania, surowe prawo, w szeryfów sprawnie eliminujących skażone jednostki. Europejczycy wierzą w społeczeństwo i budowanie łączących ludzi więzi - w siłę chronionej przez państwo wspólnoty, w nieformalne zasady, w prawo raczej skuteczne niż surowe, w przenoszenie do Polski norm, na których opiera się europejska wspólnota.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

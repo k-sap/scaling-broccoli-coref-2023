@@ -1,0 +1,16 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">A 3 października 1952 informuje, że z mieszkania Ob. Wojciecha Bąka wzięte zostały następujące rzeczy, celem przesłania ich właścicielowi, przebywającemu w "Dziekance": 1 para rękawiczek wełnianych, 1 para skórzanych, 2 koszulki trykotowe, 3 wierzchnie Ø, 3 nocne Ø, 3 pary skarpetek, 1 płaszcz zimowy, 1 walizka tekturowa.</p>
+        <p xml:id="p-2">Wyżej wymienione rzeczy odebrał dr pielęgniarz.</p>
+        <p xml:id="p-3">Pojmano go siłą, zwabiono podstępem, według dokładnego scenariusza: 18 maja 1952 dostał wezwanie do stawienia się w ZUS-ie (róg Mickiewicza i Dąbrowskiego), gdzie zjawił się, myśląc, że chodzi być może o paszport.</p>
+        <p xml:id="p-4">Nie wrócił stamtąd do swego legowiska - wspominał Aleksander Rogalski. - Po krótkim indagowaniu go o stosunek do ustroju przez trzech panów, którzy mu się nie przedstawili, odprowadzono go na podwórze, gdzie stało zawczasu już przygotowane auto. Oświadczono mu, że zostanie nim zawieziony do "Dziekanki" na badanie. Nie chciał wejść do pojazdu, opierał się, protestował, ale zdołano mu szybko ten opór wyperswadować. I wkrótce potem zamiast za granicą, znalazł się w domu dla obłąkanych.</p>
+        <p xml:id="p-5">Mnie zaś, jako prezesa oddziału ZLP - kontynuował - zawiadomiono oficjalnie o skierowaniu Bąka na leczenie do Zakładu Psychiatrycznego w Gnieźnie, jednocześnie zapewniając, że będzie tam traktowany ze względami należnymi pisarzowi. Jednakże już same okoliczności, w jakich przeprowadzono ministerialny plan rozwiązania "sprawy Bąka", mogły co do tego nasuwać niejakie wątpliwości i obawy.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

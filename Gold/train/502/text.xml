@@ -1,0 +1,18 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">sp0: aa a kto decyduje się be yyy yyy na taką usługę ? wydawałoby się oczywiste że wola należy yy yy do zmarłego ale domyślam się że mogą być różne sytuacje kiedy zmarły życzy sobie tak a rodzina mówi nie ślub yyy ślub pogrzeb będzie yyy kościelny a może się też zdarzyć yyy inaczej kiedy rodzina jest niewierząca lub agnostyczna i nie wyobraża sobie zorganizowana yy zorganizowania ceremonii kościelnej mimo tego że zmarła osoba yyy była wierząca czy zdarzają się takie sytuacje ?</p>
+        <p xml:id="p-2">sp2: znaczy powiem tak yyy</p>
+        <p xml:id="p-3">sp0: czy z reguły jest to jednak wola osoby zmarłej ?</p>
+        <p xml:id="p-4">sp2: w naszym kraju na szczęście nadal przywiązuje się dużą wagę do spełnienia ostatniej woli zmarłego i bardzo często zdarzają się sytuacje kiedy yy osoba niewierząca chowana przez wierzących bliskich jest chowana według ceremoniału świeckiego i w drugą stronę często ateistyczna rodzina chcąc postąpić zgodnie z wolą zmarłego który był wierzący organizuje pogrzeb kościelny sądzę że to jest bardzo cenne że nadal tak jak przed wiekami tak i dziś poważnie traktujemy ostatnią wolę człowieka który już sam nie stanie w swojej obronie</p>
+        <p xml:id="p-5">sp0: no</p>
+        <p xml:id="p-6">sp1: ale bywa też i tak że rodzina pomimo że zmarły życzył sobie aby uroczystość była świecka rodzina chce żeby były elementy religijne ze względu na innych uczestników uroczystości pogrzebowej i wtedy się to robi w ten sposób że sama uroczystość jest świecka ale niektóre utwory muzyki muzyczne są religijne</p>
+        <p xml:id="p-7">sp0: no domyślam się że tutaj rzeczywiście yy ponieważ formuła jest elastyczna nie ma wielowiekowej yy tradycji yy sztywnej formalnej nie jest ani msza ani yyy właśnie yyy akt yy urzędowy ten przebieg ceremonii yy może być bardzo różny czasem pewnie i zaskakujący dla państwa czy z zdarzyło się tak ?</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

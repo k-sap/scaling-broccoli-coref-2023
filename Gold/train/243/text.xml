@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">paulina26 CYTAT(danielr9 @ 15.11.2007, 17:29) "Bądz obiektywna... Ksiądz to tez człowiek. Musi coś jeść, za coś się ubrać oraz mieć czym i za co dojechać do potrzebujących (np. podczas wizyt domowych tuż przed śmiercią). Ksiądz też ma prawo mieć w pomieszczeniu ciepło jak na polu jest -30 stopni - a ogrzewanie kosztuje. Ksiądz ma prawo również do odpoczynku i np. wyjechać sobie w którąś sobotę na narty - to też kosztuje. Zatem wielkim majątkom jestem przeciwny - wynagrodzeniom dla księży nie. Ludzie nie widza też tego, że księdza stać czasami na więcej z tego powodu, że nie ma na utrzymaniu rodziny...." Pogrzeb 1500 dla samego księdza, a gdzie inne rzeczy.....? Ksiądz ślubuje życie w skromności..... I jeśli stać go na nowe auto za 50 000 - to do skromności nie należy Albo jeśli jedzie sobie na narty do Austrii - to też nie skromność Jeśli stąć go na jacht....... to jest przesada, ani mają więcej ode mnie Skoro zarabia już tyle ile zarabia i jest mu za dużo to niech się podzieli z innymi - w końcu tego naucza.. Księza mają za dużo kasy, 10 zł z msze, 100 - 300 na pogrzeb i to wystaryczy, przynajmniej potem nie będzi miał się czym chwalić</p>
+        <p xml:id="p-2">aga-byczek ciekawy temat. ja spotkałam się w tym tygodniu z takim przypadkiem, że moja znajoma zamówiła mszę za swojego synka. i po wszystkim poszła do księdza, zapłacić. ich rozmowa mniej więcej wyglądała tak: Ksiądz: 50 zł. Ona: a ja myślałam, że 'co łaska'. Ksiądz: tak, ale ja muszę na benzynę mieć. moim zdaniem to trochę nienormalne.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

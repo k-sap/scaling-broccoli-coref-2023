@@ -1,0 +1,19 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">1b. Odmowa wydania zezwolenia, o którym mowa w ust. 1, nie wymaga wystąpienia do Ministra Obrony Narodowej lub ministra właściwego do spraw rozwoju wsi.</p>
+        <p xml:id="p-2">2. Cudzoziemcem w rozumieniu ustawy jest:</p>
+        <p xml:id="p-3">1) osoba fizyczna nie posiadająca obywatelstwa polskiego,</p>
+        <p xml:id="p-4">2) osoba prawna mająca siedzibę za granicą,</p>
+        <p xml:id="p-5">3) nie posiadająca osobowości prawnej spółka osób wymienionych w pkt 1 lub 2, mająca siedzibę za granicą, utworzona zgodnie z ustawodawstwem państw obcych,</p>
+        <p xml:id="p-6">4) osoba prawna i spółka handlowa nie posiadająca osobowości prawnej mająca siedzibę na terytorium Rzeczypospolitej Polskiej, kontrolowana bezpośrednio lub pośrednio przez osoby lub spółki wymienione w pkt 1, 2 i 3.</p>
+        <p xml:id="p-7">3. W przypadku spółki handlowej za kontrolowaną, w rozumieniu ustawy, uważa się spółkę, w której cudzoziemiec lub cudzoziemcy dysponują bezpośrednio lub pośrednio powyżej 50 % głosów na zgromadzeniu wspólników lub na walnym zgromadzeniu, także jako zastawnik, użytkownik lub na podstawie porozumień z innymi osobami, albo mają pozycję dominującą w rozumieniu przepisów art. 4 § 1 pkt 4 lit. b) lub c), lub e) ustawy z dnia 15 września 2000 r. - Kodeks spółek handlowych (Dz. U. Nr 94, poz. 1037, z 2001 r. Nr 102, poz. 1117 oraz z 2003 r. Nr 49, poz. 408 i Nr 229, poz. 2276).</p>
+        <p xml:id="p-8">4. Nabyciem nieruchomości w rozumieniu ustawy jest nabycie prawa własności nieruchomości lub prawa użytkowania wieczystego, na podstawie każdego zdarzenia prawnego.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

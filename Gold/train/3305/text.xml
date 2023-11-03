@@ -1,0 +1,14 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Ale cień Billa Clintona okazał się wyjątkowo długi. Prezydent od razu narobił Gore’owi kłopotu - przyjechał z Pierwszą Damą na kilka dni przed konwencją i pławił się w blasku reflektorów na przyjęciach w Hollywood zbierając fundusze na kampanie Hillary do Senatu i na swoją bibliotekę-muzeum w Arkansas. Sztabowcy wiceprezydenta z trudem ubłagali go, aby przemówił już w poniedziałek - kiedy będzie mecz futbolowy, więc i większa oglądalność - i aby następnego dnia wyjechał z Los Angeles.</p>
+        <p xml:id="p-2">Poniedziałkowe przemówienie Clintona było, jak zwykle, arcydziełem wiecowej sztuki oratorskiej - delegaci w hali Staples wpadali w ekstazę - ale prezydent zrobił swemu delfinowi kolejny niemiły kawał. Wychwalanie dorobku rządu sugerowało wprawdzie, że wybór Gore’a gwarantuje kontynuację dobrych czasów, ale o samym kandydacie Clinton powiedział tylko kilka dość zdawkowych i dziwnie brzmiących komplementów, w rodzaju: "jest dobrym człowiekiem", który "rozumie przyszłość". Nawet życzliwy demokratom David Broder z "The Washington Post" ocenił, że wystąpienie Clintona emanowało narcyzmem, kontrastującym z podobnym przemówieniem prezydenta Reagana, który kończąc swoją drugą kadencję w 1988 r. na konwencji przekazał pałeczkę George’owi Bushowi w taki sposób, że naprawdę niesłychanie wzmocnił ówczesnego republikańskiego kandydata.</p>
+        <p xml:id="p-3">Republikanie zacierają ręce, cieszą się, że swoim megalomańskim wystąpieniem Clinton nie pomógł Gore’owi ani na jotę. Tak prezydent odwdzięczył się swemu zastępcy - biadają ze smutkiem komentatorzy - który w okresie Monicagate (afery z Moniką Lewinsky) i impeachmentu nazwał go "jednym z największych prezydentów w historii kraju". Później, co prawda, Gore zdystansował się wobec swego szefa mówiąc, że był oburzony jego zachowaniem. Czyżby Clinton to właśnie zapamiętał, czy też w polityce na żadną lojalność liczyć nie można.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

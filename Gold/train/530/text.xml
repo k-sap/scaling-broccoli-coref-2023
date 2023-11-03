@@ -1,0 +1,16 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">SenatorRajmundSzwonder: Wysoka Izbo! Komisja Obrony Narodowej podjęła się dokonania analizy wydatków resortu obrony zgodnie z listą zadań wynikających z ustawowych zobowiązań resortu, jak również zadań nałożonych na MON przez Radę Ministrów.</p>
+        <p xml:id="p-2">SenatorRajmundSzwonder: Chciałbym tu podkreślić, że przejrzystość budżetu Ministerstwa Obrony jest pierwszym – po sprawnym funkcjonowaniu realnej, cywilnej, demokratycznej kontroli nad armią i siłami zbrojnymi – wymogiem stawianym państwom starającym się o członkostwo NATO i na pewno standardem państw członkowskich NATO. Miarą przejrzystości budżetu jest zadaniowa struktura budżetu obronnego.</p>
+        <p xml:id="p-3">SenatorRajmundSzwonder: Komisja w swych pracach nad budżetem poświęciła sporo czasu powierzonym przez Radę Ministrów resortowi obrony zadaniom wynikającym z międzynarodowych zobowiązań Polski.</p>
+        <p xml:id="p-4">SenatorRajmundSzwonder: Niewątpliwie takim zdaniem jest realizacja programu Partnerstwa dla pokoju. Zarówno w projekcie, jak i w przyjętej następnie przez Sejm ustawie budżetowej na 1996 r., znalazły się środki finansowe zgodnie z deklarowanymi, indywidualnymi programami Partnerstwa dla pokoju.</p>
+        <p xml:id="p-5">SenatorRajmundSzwonder: Innym, znacznie trudniejszym, zadaniem powierzonym Ministerstwu Obrony Narodowej jest udział polskich wojsk w siłach NATO – IFOR – w Bośni. Istota tej misji sprowadza się do tego, że środki finansowe przeznaczone na ten cel, w odróżnieniu od misji pokojowych ONZ, pochodzą z budżetów uczestniczących w niej państw i nie są refundowane ze środków ONZ, chociaż organizacja ta udzieliła politycznego wsparcia dla tych działań. Trzeba też podkreślić, że operacje IFOR będą miały miejsce w obliczu bardzo prawdopodobnego zagrożenia działaniami wojennymi, co powoduje konieczność zarezerwowania środków finansowych na funkcjonowanie polskiej misji, zgodnie ze scenariuszem działań polskich wojsk w Bośni w warunkach wojny.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

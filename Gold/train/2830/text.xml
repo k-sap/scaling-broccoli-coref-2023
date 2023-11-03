@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Zdaniem rządu, to wszystko pozwoli w efekcie na wznowienie produkcji statków przez nowe podmioty i zachowanie miejsc pracy. Żadnych gwarancji jednak na to nie ma. Potencjalni inwestorzy nie będą do niczego zobowiązani. Równie dobrze mogą zrównać z ziemią zakupioną część stoczni i postawić na tym miejscu np. budynki użyteczności publicznej.</p>
+        <p xml:id="p-2">Alternatywą dla specustawy jest postawienie stoczni w stan upadłości. Sąd i wyznaczony przez niego syndyk również jednak nie zagwarantują uratowania stoczni, zachowania produkcji statków i miejsc pracy. Nie takie jest zresztą zadanie syndyka. W dodatku nikt, żadna strona społeczna, nie będzie miał wpływu na jego poczynania ani też nie będzie go można - jako przedstawiciela niezawisłego sądu – z nich rozliczyć. Natomiast dzięki specustawie minister skarbu zachowuje kontrolę nad sprzedażą stoczniowego majątku i – co najważniejsze – bierze za to całkowitą odpowiedzialność. Parlament i partnerzy społeczni (stoczniowe związki zawodowe poparły specustawę), będą mu patrzyć na ręce i rozliczać z Ø obietnic.</p>
+        <p xml:id="p-3">Trzeciego wyjścia nie ma, bo Komisja Europejska uznała, że pomoc publiczna udzielona stoczniom w Gdyni i Szczecinie jest niezgodna ze wspólnym rynkiem. Jednocześnie zobowiązała polski rząd do odzyskania tej pomocy, wraz z odsetkami. Mamy na to czas do 6 czerwca 2009 roku.</p>
+        <p xml:id="p-4">Polska powinna nadal budować statki, ponieważ to potrafi. Nasz przemysł stoczniowy ma dobrą markę w świecie. Mamy świetnych fachowców – inżynierów, techników. Byłoby wielkim błędem i grzechem zmarnować ten potencjał. Nie można też zapominać, że upadek stoczni pociągnąłby za sobą bankructwo wielu kooperujących z nim zakładów, a tym samym utratę kilkudziesięciu tysięcy miejsc pracy.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<teiHeader xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xml:lang="en">
+  <fileDesc>
+    <titleStmt>
+      <title>Paragraphs: p-1320,p-1321,p-1322,p-1323,p-1324,p-1325,p-1326,p-1327,p-1328,p-1329,p-1330,p-1331,p-1332,p-1333,p-1334,p-1335,p-1336,p-1337,p-1338,p-1339 from NKJP text with id: PWN_2002000000110</title>
+    </titleStmt>
+  </fileDesc>
+  <profileDesc>
+    <textClass>
+      <catRef scheme="#nkjp" target="Literatura piękna"/>
+    </textClass>
+  </profileDesc>
+  <revisionDesc/>
+</teiHeader>

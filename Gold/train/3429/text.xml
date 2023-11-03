@@ -1,0 +1,16 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Koniec drogi pana chyba nie przeraża? "Symfonia o ruchu" kończy się światłem i miłością.</p>
+        <p xml:id="p-2">Kończy się dobrze, to prawda. Jest taki wiersz pani Wisławy Szymborskiej o kocie w pustym mieszkaniu, który wydał mi się przerażający, bo opowiada o straszliwej pośmiertnej pustce. Ale skądinąd wiem, że dla kogoś, kto stracił bliską osobę, był on źródłem pocieszenia, dawał poczucie, że ktoś coś podobnego przeżył, że ktoś go rozumie. Tak więc trudno przewidzieć, co dla kogoś może być pomocne w obliczu spraw ostatecznych.</p>
+        <p xml:id="p-3">Podobno lubi pan wygłaszać kazania, a zawód księdza jest jedynym obok kompozytora, który by panu odpowiadał. Widzę, że się pan uśmiecha, ale jakie kazanie wygłosiłby pan rodakom na Boże Narodzenie?</p>
+        <p xml:id="p-4">Księdzem nie mógłbym zostać, bo trzeba wcześnie wstawać, a ja akurat bardzo tego nie lubię. Z natury jestem leniwy, pewnie dlatego zostałem kompozytorem. Może po prostu powiedziałbym, że jeśli ktoś ma ochotę, to lepiej byłoby, gdyby zamiast moich kazań posłuchał któregoś z moich utworów. Może "Angelus" na Boże Narodzenie? A może lepsza byłaby krótka, wesoła "Orawa"? Jeśli coś powstaje w dobrej, czystej intencji, też może być na swój sposób utworem religijnym. O menuecikach Mozarta mówi się, że są równie święte jak jego "Requiem".</p>
+        <p xml:id="p-5">Lubi pan Boże Narodzenie?</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

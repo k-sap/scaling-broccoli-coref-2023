@@ -1,0 +1,17 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">sp3: bo przede wszystkim Rosjanie boją się że wyrok w Strasburgu może oznaczać otwarcie fali roszczeń finansowych wobec ich państwa. i dlatego ten element wywiadu o którym pani redaktor wspomniała kompletnie nie pasuje bo. jeżeli mówiłby w ten sposób o Katyniu. Miedwiediew. to oznaczałoby że on. przyzwala na ukaranie wciąż żyjących sprawców Katynia a są jeszcze żyjący oficerowie którzy mordowali Polaków w Katyniu. więc. jest tak. ja ewidentnie widzę ze strony Miedwiediewa sygnały pewne. tyle tylko że to jest oczywiście powrót do tego co Jelcyn robił kilkanaście lat temu na początku lat dziewięćdziesiątych ale proszę zrozumieć że przez lata Rosji putinowskiej. chronienia mentalnie dorobku Związku Radzieckiego. i takiego utwardzania wizerunku radzieckiego człowieka jako człowieka porządnego. jeżeli Midwiediew próbuje rozmontowywać takie myślenie to musi to robić powoli on także musi myśleć o reakcjach. wewnątrz Rosji na to co robi wobec Polski. ale</p>
+        <p xml:id="p-2">sp0: ale czy można w ogóle. przepraszam</p>
+        <p xml:id="p-3">sp3: ale jest jedna rzecz. moim zdaniem te gesty. my my patrz patrzmy na te gesty domagajmy się konkretnych działań ale wciąż pamiętajmy że. ponad sto tomów akt. jest utajnione. że Miedwiediew przekazał marszałkowi Komorowskiemu. te akta które zostały odtajnione z ogromnego śledztwa zakończonego w dwa tysiące czwartym roku. żądajmy tego co zostało utajnione tam są sprawcy i kolejna rzecz Rosja</p>
+        <p xml:id="p-4">sp1: ale to właśnie obiecał znaczy najważniejsza deklaracja z tego wywiadu to jest. dotycząca tej</p>
+        <p xml:id="p-5">sp0: słowo tak ?</p>
+        <p xml:id="p-6">sp3: jeszcze jedna rzecz. zwracamy uwagę na gesty. ale zapominamy zapominamy o realnej polityce. Rosja sobie pozwala na gesty w momentach kiedy jest bardzo silna politycznie. kilka lat temu nie chciała mówić o Katyniu dlatego że miała słabą pozycję. dzisiaj jest zbudowana na silnych cenach. wysokich cenach surowców. jest zbudowana tym że jej reprezentaci wygrali wybory na Ukrainie. że de facto przejmuje system gazowy. ukraiński flota czarnomorska. buduje gazociągi północne i południowy. układa sobie stosunki z krajami unii europejskiej jak chce. dzisiaj Rosja jest silna i pozwala sobie na gesty</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

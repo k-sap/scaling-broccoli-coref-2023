@@ -1,0 +1,17 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Wielki krytyk rządzącej w Polsce koalicji, profesor Stefan Niesiołowski, senator Platformy Obywatelskiej, jeden z liderów tego ugrupowania, gościł w płońskim saloniku politycznym. Towarzyszył mu partyjny kolega, senator Przemysław Berent z okręgu płocko-ciechanowskiego.</p>
+        <p xml:id="p-2">- Czy grozi nam wybór wójtów, burmistrzów i prezydentów miast przez partie polityczne? - to zasadnicze pytanie, jakie Andrzej Kamasa, przewodniczący PO w powiecie płońskim postawił przed gościem, nawiązując do ostatniego pomysłu Samoobrony, dotyczącego tej sprawy.</p>
+        <p xml:id="p-3">Zdaniem Stefana Niesiołowskiego, Samoobrona ma 8-procentowe poparcie i w żadnym dużym mieście jej przedstawiciel nie ma szans wygrać wyborów samorządowych. Pomysł, żeby o wyborze wójtów, burmistrzów i prezydentów decydowały partie polityczne może się jednak bardzo opłacać jej obecnemu koalicjantowi w rządzie - Prawu i Sprawiedliwości. Opozycyjny senator uskarżał się na dużą zachłanność rządzącego ugrupowania, które „chce przejąć władzę nad kolejnymi instytucjami”. Uznał, że w najbliższym czasie rozegra się batalia o to, czy Platformie uda się stworzyć opór publiczny wobec pomysłu przejęcia władzy partii politycznych nad samorządami.</p>
+        <p xml:id="p-4">- Ustawa samorządowa z 1990 r., w której przygotowaniu brałem udział, wprowadzająca bezpośrednie wybory na wójta, burmistrza i prezydenta miasta uważana jest za jeden z sukcesów III RP. Dlatego trzeba jej bronić - przekonywał Niesiołowski.</p>
+        <p xml:id="p-5">Dodał, że zdarzają się oczywiście przypadki, gdy samorządowcy po wygranych wyborach trafiali do więzienia, skąd próbowali dalej rządzić.</p>
+        <p xml:id="p-6">- Podnoszenie tego argumentu przez przeciwników dotychczasowej formy wyborów samorządowych jest żałosne, bo nie ma idealnych ustaw - przekonywał.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

@@ -1,0 +1,14 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Inna ważna zasada: "nie naprawiaj tego, co się nie zepsuło". Gdy ktoś jest zadowolony ze swego życia, wiedzie mu się nieźle, ale chciałby sobie polepszyć kupując tzw. remedia Feng Shui, ustawiając gdzie się da (bo modne), nagle dziwi się, że skutek jest odwrotny od zamierzonego.</p>
+        <p xml:id="p-2">Tzw. remedia, np. kulki kryształowe do wieszania w oknach, podwójne helisy DNA, mobile, lustra, dzwonki, kwiaty, obrazy muszą być umieszczone w odpowiednim miejscu, by zadziałały. Przede wszystkim, aby cokolwiek zmieniać, należy gruntownie oczyścić swe otoczenie. Mówiąc potocznie – pozbyć się bałaganu, niepotrzebnych gratów itp. Prawda, jakie miłe uczucie świeżości mamy po świątecznych lub wiosennych porządkach? Wszystko lśni i błyszczy, pozbywamy się przy okazji mnóstwa potrzebnych-niepotrzebnych rzeczy.</p>
+        <p xml:id="p-3">Jeśli ktoś ma ochotę poszerzyć swą wiedzę na ten temat, to polecam bardzo przystępnie i ciekawie napisane książki właśnie dla tych, którzy swą przygodę z Feng Shui dopiero zaczynają. 1. Feng Shui. Jak stworzyć zdrowsze środowisko naszego życia i pracy – Mistrz Lam Kam Chuen; tłum. Lobocka-Oleksowicz, wyd. Medium, 1996. 2. Feng Shui. Jak tworzyć przyjazną przestrzeń wokół nas – autor Karen Kingston; tłum. Katarzyna Przybyś, wyd. Amber, 1996. 3. Besser Leben mit Feng Shui - autor Herman Meyer, Günter Sator; wyd. Irisiana.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

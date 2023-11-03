@@ -1,0 +1,24 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Był sobie raz szewczyk Dratewka. Biedak był z niego a biedak! Aby liche odzienie na grzbiecie, aby podarte skórzniaki na nogach, aby torba, a w niej kromka chleba - cały to jego majątek.</p>
+        <p xml:id="p-2">Od wsi do wsi wędrował i stare obuwie łatał.</p>
+        <p xml:id="p-3">Szedł raz Dratewka wielkim lasem, zobaczył pod sosną rozrzucone mrowisko. Musi niedźwiedź, który na wiosnę rad mrówcze jaja wyjada, taką im psotę uczynił.</p>
+        <p xml:id="p-4">Biedne mrówki biegały na wszystkie strony, znosiły po ziarnku piasku, po igiełce sosnowej i mrowisko na nowo narządzały.</p>
+        <p xml:id="p-5">Użalił się nad nimi Dratewka, zdjął z głowy czapkę i jako mógł - to rozrzucone mrowisko na jedną kupę czapką zgarnął.</p>
+        <p xml:id="p-6">Wtedy na wierzchołek mrowiska wyszła mrówcowa matka i powiedziała:</p>
+        <p xml:id="p-7">- Dziękuję ci, dobry człowieku. Jak będziesz kiedy w potrzebie, to przyjdziemy ci z pomocą.</p>
+        <p xml:id="p-8">Uśmiechnął się szewczyk, bo jakąż pomoc mogłyby mu dać nędzne mrówki, pokłonił się im i poszedł w dalszą drogę.</p>
+        <p xml:id="p-9">Minęło dni mało-wiele. Szedł znów Dratewka puszczą zieloną, puszczą szumiącą i znów zobaczył wielką krzywdę.</p>
+        <p xml:id="p-10">W dziupli starej sosny była barć i ktoś tę barć zniszczył. Plastry wosku leżały na ziemi, miód ściekał po drzewie.</p>
+        <p xml:id="p-11">Musi i tutaj niedźwiedź gospodarował.</p>
+        <p xml:id="p-12">Zaczął Dratewka pszczołom pomagać. Pownosił plastry na drzewo i w dziupli je umocował, woskiem otwór oblepił, miód ciekący zatamował.</p>
+        <p xml:id="p-13">Wyszła na brzeg barci pszczela królowa i powiedziała:</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

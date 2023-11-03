@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Jesteśmy we wczesnym średniowieczu, gdy rozpoczynało się osadnictwo i rozwój gmin żydowskich na ziemiach polskich. W tej galerii chcemy pokazać mechanizmy ekonomiczne, które z jednej strony skłaniały władców polskich do zabiegania o to, by Żydzi się tu osiedlali, a z drugiej Ø sprawiały, że ten obszar był interesujący i ważny jako punkt docelowy wędrówek żydowskiej diaspory. Pokażemy obraz średniowiecznego miasta, kopie dokumentów i przywilejów, jakie określały położenia prawne ludności żydowskiej, a także jej udział w życiu gospodarczym. Znaczna część imigracji żydowskiej w tym okresie była częścią wielkiego ruchu, przekształcającego kulturowy pejzaż Polski, jakim było powstawanie miast.</p>
+        <p xml:id="p-2">Następne dwie galerie poświęcone będą czasom nowożytnym. Pierwsza Ø - powstaniu dużych, liczących się gmin żydowskich głównie w miastach królewskich i relacjom między władzą królewską a Żydami Korony. Druga pokaże etap, gdy w związku z kolonizacją ziem wschodnich włączonych do Korony po unii lubelskiej żydowskie osadnictwo dotarło na te tereny. Obie te galerie są ważne dla uświadomienia, że dzieje żydowskie w Polsce były bardzo ściśle splecione z dziejami polskiej państwowości, etapami jej rozwoju. To rzecz kompletnie nierozumiana i zapomniana w środowiskach żydowskich na świecie. A i w Polsce zapomniano, jak wielki wkład w rozwój gospodarki i miast mieli Żydzi. Chcemy zrekonstruować drewnianą synagogę w Gwoźdźcu, ale też pokazać obraz małomiasteczkowej architektury, rynek, karczmę, dwór; tych miejsc, w których obie społeczności się kontaktowały. Wschodni sztetl, wbrew pozorom, nie był żydowskim miasteczkiem. Często był on demograficznie zdominowany przez Żydów, ale jego ludność była zróżnicowana.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

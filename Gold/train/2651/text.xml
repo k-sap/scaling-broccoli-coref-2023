@@ -1,0 +1,16 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Na karę dożywocia i 25 lat więzienia skazał wczoraj Sąd Apelacyjny w Łodzi Krzysztofa i Jadwigę N. za zabójstwo swoich dzieci. Sąd utrzymał wyrok na ojca dzieciobójcę, zaś jego żonie obniżył karę do 25 lat więzienia. Zwłoki dzieci ukrywane były w mieszkaniu w centrum Łodzi, w plastikowych beczkach.</p>
+        <p xml:id="p-2">– To Krzysztof N. był złym duchem tej rodziny – podkreślał sędzia Marian Baliński. – Brutalnie zachowywał się zarówno wobec dzieci, o które nie dbał (nawet podczas choroby), jak i wobec żony. Był mężem tyranem. Kiedyś polał żonę benzyną i próbował podpalić. Gdy zaszła w ciążę, nie pozwalał jej w dzień wychodzić z domu. Wszystko po to, aby sąsiedzi nie domyślili się, że spodziewa się dziecka.</p>
+        <p xml:id="p-3">Sąd Apelacyjny zróżnicował stopień winy 32-letniej kobiety i 31-letniego mężczyzny. Według sądu, nie było wystarczających dowodów, aby uznać Jadwigę N. za współsprawczynię ponurej zbrodni. Dlatego zakwalifikował jej czyn jako „pomocnictwo przez zaniechanie”.</p>
+        <p xml:id="p-4">Ujawnienie wiosną 2003 roku zbrodni w mieszkaniu przy ul. Radwańskiej w Łodzi było wstrząsem dla opinii publicznej. W ukrytych w szafie plastikowych beczkach były zwłoki czworga dzieci: kilkuletnich bliźniaków Adama i Kamila oraz noworodków Maćka i Karoliny. Z pięciorga rodzeństwa ocalała jedynie 13-letnia dziś Monika, którą niedawno adoptowała rodzina z Włoch. Dziewczyna też miała być zgładzona, ale dostała za małą dawkę relanium.</p>
+        <p xml:id="p-5">Wyrok jest prawomocny i można się od niego odwołać jedynie poprzez złożenie kasacji do Sądu Najwyższego w Warszawie. Ani prokurator, ani obrońcy oskarżonych wczoraj nie wypowiadali się w tej sprawie.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

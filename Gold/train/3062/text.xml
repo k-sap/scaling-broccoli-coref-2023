@@ -1,0 +1,14 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Tym razem wystarczyło, że skojarzyłem wygląd i zachowanie pana S. z niewinnym faktem wypożyczenia przezeń naszego odbiornika, a już zobaczyłem go w myśli naradzającego się poufnie z przyjacielem młodości, kumplem z dawnych lat, obecnie posiadaczem zdartego barytonu radiowego, ściszonego na tę okazję do niewyraźnego szeptu. Chodziło o ściśle tajne zlecenie zarzucenia rozległej siatki konspiracyjnej na wszystkie zręby i podwaliny niezdobytej twierdzy na wypadek jej zdobycia, czyli upadku. Inaczej mówiąc: zorganizowanie podziemnego ruchu oporu.</p>
+        <p xml:id="p-2">Pan S., wciąż jeszcze klęczący na parapecie z kawałkiem dykty w ręku, już pomykał w mej wyobraźni zaułkami Arbatu czy Marosiejki, znacząc swą drogę ulotkami, bombami, zmasakrowanymi zwłokami zaskoczonych esesmanów z pancernej dywizji "Reich". Jasne, że mógł na razie zamieszkać kątem u nas, chociażby w kuchni, na fałszywych papierach, według których został dopiero co zwolniony z Biełomorkanału, lecz jako były kułak pozbawiony prawa do moskiewskiego meldunku. Bo też to nasze mieszkanie ze względu na moje niewątpliwe koligacje z wrogami ludu, czego bezspornym dowodem były zaplombowane drzwi, jak najbardziej się nadawało na lokal konspiracyjny. W najgorszym razie na punkt kontaktowy.</p>
+        <p xml:id="p-3">Tak, ten nowy pomysł coraz bardziej przypadał mi do gustu. I coraz wyraźniej rysowała się przede mną moja przyszłość w roli niezastąpionego łącznika, tajnego kuriera, kto wie, może nawet dziecka pułku, małego dobosza kolejnej Czerwonej Orkiestry. Czym prędzej zabrałem się do rozmontowywania dwuśladowego pojazdu.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

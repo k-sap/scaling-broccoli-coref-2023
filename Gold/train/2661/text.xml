@@ -1,0 +1,16 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">- Zgodnie z ustawą o kulturze fizycznej - mówi Andrzej Hyży z Urzędu Wojewódzkiego - takie zezwolenia wydaje gmina, czyli Urząd m. Krakowa. Cracovia pokpiła sprawę nie składając w terminie wniosku. Za organizację imprezy sportowej odpowiada zgodnie z ustawą klub. Nie można wszystkiego zrzucać tylko na "Krakowiankę". Cracovia chce robić profesjonalny hokej. To niestety wymaga nakładów. Klub musi zabezpieczyć we własnym zakresie na okres trwania zawodów toalety ekologiczne (taki jest wymóg sanepidu), musi zwiększyć liczbę porządkowych na meczu. Musi uzgodnić sprawy bezpieczeństwa z policją. Nikt tego za Cracovię nie zrobi!</p>
+        <p xml:id="p-2">Nowy od niedawna szef sekcji hokejowej Cracovii Wojciech Bełtowski przyznaje, że spóźniono się ze złożeniem wniosku. Nieoficjalnie dowiedzieliśmy się, że wynikło to z pewnych niedograń na linii klub - sekcja. Sekcja jest ponoć autonomiczna, ale na zewnątrz może ją tylko reprezentować klub.</p>
+        <p xml:id="p-3">- Trzeba będzie teraz nadgonić stracony czas - mówi Wojciech Bełtowski. - Wniosek został już złożony. Liczymy na przychylność władz miejskich. My ze swej strony deklarujemy pomoc, mam świadomość, że część spraw będziemy musieli przejąć na siebie (np. sprowadzenie toalet ekologicznych).</p>
+        <p xml:id="p-4">- Kiedy wreszcie lodowisko "Krakowianki" będzie odpowiadało wymogom bezpieczeństwa? - zapytaliśmy dyrektora MOSiR "Krakowianka" Czesława Sobasa .</p>
+        <p xml:id="p-5">- Proszę napisać, że nie jesteśmy przeciwko hokejowi w Krakowie, ale jako dyrektor jestem rozliczany w wyników ekonomicznych. Choć ponosimy straty, lodowisko zostało zamrożone na 8 września.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

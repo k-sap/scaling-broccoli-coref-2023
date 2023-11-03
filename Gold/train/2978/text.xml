@@ -1,0 +1,20 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Siostro, ile was jest? - szepnął wtedy dominikanin, patrząc w inną stronę.</p>
+        <p xml:id="p-2">Słucham? - zapytała speszona.</p>
+        <p xml:id="p-3">Siostro Karolino, nie ma wiele czasu, ile was tu przebywa? Czy siostra jest bezpieczna? Jak mogę pomóc?</p>
+        <p xml:id="p-4">Sześćdziesiąt sióstr, może kilka więcej, nie wiem. - Rzuciła mu krótkie, poważne spojrzenie. - Kilka dziewczyn w drugim budynku, z rodziny. Mnie Bóg ustrzeże, ale ojciec... proszę na siebie uważać.</p>
+        <p xml:id="p-5">Czy są jakieś siostry zza wschodniej zagranicy?</p>
+        <p xml:id="p-6">Są. Siostrzyczka Lidia miała w nocy widzenie, dlatego jest wyczerpana - powiedziała głośniej, lekko drżącą ręką wskazując koce, równo rozłożone na pościeli. - A tutaj są pokoje gościnne, naprzeciw salon dla gości.</p>
+        <p xml:id="p-7">Nad łóżkami wisiały obrazki, był też napis wykonany mazakiem: "Bo w Nim odnajduję wszystką radość życia mego". Gliński nie musiał odwracać głowy, by domyślić się, że nad drzwiami wisi krzyż. Ani że na progu stanął właśnie Romanyczko.</p>
+        <p xml:id="p-8">Jeśli siostra Karolina miała rację, to nie wszystkie mieszkanki domu przyszły adorować Najświętszy Sakrament - Gliński naliczył ich tylko pięćdziesiąt dwie. Wszystkie w habitach albo świeckich strojach postulantek. Nawet jeśli w pierwszej chwili oczekiwały czegoś innego, teraz pokornie powtarzały akty wiary, uwielbienia, dziękczynienia...</p>
+        <p xml:id="p-9">Adoracja zbliżała się do końca, kiedy w drzwiach kaplicy stanęła starsza zakonnica. Gdyby nie habit, wyglądałaby na typową mieszkankę tutejszych wsi: niska, otyła, o szerokiej, czerwonej twarzy. Brzydka, jednak pogodna i wzbudzająca zaufanie. Skinęła głową dominikaninowi i uklękła obok.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

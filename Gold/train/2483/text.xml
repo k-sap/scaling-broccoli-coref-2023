@@ -1,0 +1,17 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">W pozostałych szkołach nadal nie wiadomo, ile pierwszoklasistów rozpocznie naukę 1 września. W Zespole Szkół Ponadgimnazjalnych nr 1 na chętnych czeka jeszcze około 70 miejsc. Tylko klasy zawodowe są pełne. Miejsca są jeszcze we wszystkich typach techników i liceów profilowanych.</p>
+        <p xml:id="p-2">W Zespole Szkół Ponadgimnazjalnych nr 2 w Łasku nie powstała klasa liceum profilowanego o kierunku kreowanie ubioru. Pełną obsadę mają technikum elektryczne oraz zasadnicza szkoła wielozawodowa. Jeśli pojawi się jeszcze 10 chętnych do rozpoczęcia w takiej klasie nauki, zostanie utworzona druga. W "elektryku" kilka wolnych miejsc jest jeszcze w klasach, które uruchomione zostaną po raz pierwszy w tej placówce. Są to licea ogólnokształcące o profilu sportowym oraz o profilu europejskim.</p>
+        <p xml:id="p-3">Podobna sytuacja jest w Zespole Szkół Ogrodniczych w Ostrowie. Miejsca są we wszystkich typach techników. Planuje się, że naukę rozpocznie w tej szkole blisko 130 pierwszoklasistów. Wiadomo jednak, że zabraknie dwóch profilów nauczania. Nie zostaną otwarte klasy technikum ogrodniczego i liceum profilowanego.</p>
+        <p xml:id="p-4">Wszystkie typy klas pierwszych zostaną uruchomione natomiast w Zespole Szkół Rolniczych w Sędziejowicach. Miejsc nie ma już w liceum ogólnokształcącym i technikum żywienia. W pozostałych typach klas i szkół na chętnych czekają jeszcze miejsca.</p>
+        <p xml:id="p-5">Dyrektorzy szkół ponadgimnazjalnych twierdza zgodnie, że tegoroczny nabór przedłuży się najprawdopodobniej do końca wakacji.</p>
+        <p xml:id="p-6">- Uczniowie cały czas przynoszą oświadczenia lub zabierają dokumenty. Jest z tym sporo zamieszania i chyba dopiero we wrześniu będzie można dokładnie podać, ilu pierwszoklasistów rozpocznie naukę - mówi dyrektor ZSP nr 1 w Łasku Włodzimierz Nowicki.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

@@ -1,0 +1,17 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">sp0: nie bo to. znaczy ja mam trochę nie chronologicznie bo to tak mówię wam było. pokazywane po kolei. jak on tam. y strzelił w tą szybę tej najstarszej córce. to go po prostu pobili. ci faceci wszyscy tam na około stali i oglądali</p>
+        <p xml:id="p-2">sp1: a czekali na momenty</p>
+        <p xml:id="p-3">sp0: tak bo się po prostu do niego rzucili. i był mocno pobity rękę miał złamaną. przecież też wylądował w tym szpitalu. i jeszcze policja go pilnowała no bo. postę popełnił przestępstwo nie ? ale tam w szpitalu po spotkał salową która pozwoliła mu uciec</p>
+        <p xml:id="p-4">sp0: pomogła bo też jakąś jego była chyba woźną ze szkoły</p>
+        <p xml:id="p-5">sp3: co mu postawiła ? sp2: Ola wie kiedy wejść</p>
+        <p xml:id="p-6">sp0: pomogła mu uciec. a jeszcze wcześniej przyszła ta. adwokatka do niego do szpitala. powiedziała że załatwiła sobie że będzie jego obrońcą z urzędu ale załatwiła mu już też te to nabycie spadku. i dała mu akt własność tej kamienicy no więc on tą. tą rodzinę swoją zwołał na ławkę w parku bo to w ogóle latem się działo. tej tej salowej powiedział żeby ich wszystkim kazała wyjść na ławkę w parku. oni wszyscy ten tam każdy. no i dał im ten mówi wiem że nie. nie byłem dobrym ojcem ani dobrym mężem ani nic dla was nie mam ale macie ten dom. dał im ten akt własności a jeszcze wcześniej też mówił żeby pełnomocnictwa na tego syna nie ? no i ten no i dał im ten dom no i później właśnie już pod po jakimś czasie oni wszyscy po i się okazało że tak ta dziewczyna która te narkotyki brała zakochała się w swoim rehabilitancie</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

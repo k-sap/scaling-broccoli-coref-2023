@@ -1,0 +1,16 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">- Mamy kilku stałych sponsorów, którzy nam pomagają. Jest to Elektrownia Żarnowiec, Porta, Fiat, spółka Chwil - mówi Bożena Rutkowska. - Ale są również drobni darczyńcy. Przysyłają regularnie drobne sumy. Pewna pani z Krakowa, co miesiąc przysyła na nasze konto 100 zł, podobnie pan z Jasła.</p>
+        <p xml:id="p-2">Dla pracowników liczy się każda złotówka. Nawet najdrobniejszy datek może pomóc choremu w kupnie sprzętu rehabilitacyjnego lub lekarstw. Najtrudniej przekonać do świadczenia pomocy bardzo duże firmy, które nawet nie odpowiadają na prośby o pieniądze.</p>
+        <p xml:id="p-3">Udaje się jednak pomóc</p>
+        <p xml:id="p-4">- Każdy zgłaszający się do nas po pomoc, musi przedstawić opinię lekarza i potwierdzenie o stanie finansowym rodziny. Nie dajemy naszym podopiecznym pieniędzy do ręki - mówi Grzegorz Rosiński. - Przelewamy je na konto, na konkretną rzecz. Ewentualnie zwracamy pieniądze, po przedstawieniu nam rachunku.</p>
+        <p xml:id="p-5">Dzięki temu czteroletniej Roksanie udało się zorganizować wyjazdy na leczenie do kliniki okulistycznej do Poznania i uda się zorganizować pieniądze na przeszczep gałki ocznej. Taka operacja kosztuje ok. 8 tys. zł. Dzięki pracy fundacji z Chojnic Weronika mogła wyjechać do USA na operację oczu. Udało się zebrać ponad 40 tys. zł. Sylwia otrzymała protezę kolana wartą 18 tys. zł. Operacja przeszczepu szpiku kostnego Wojtka z Wejherowa kosztowała ok. 30 tys. zł. Wykonanie tak skomplikowanych zabiegów, to całkowicie wolny rynek i rodzice mają szansę wyleczyć swoje dzieci dzięki takim fundacjom.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

@@ -1,0 +1,14 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Forma serialu internetowego wydaje się wymarzona dla wszelkich amatorów, którzy chcą wejść do świata mediów kuchennymi drzwiami. Nie wymaga wielkich nakładów pieniężnych ani profesjonalnego sprzętu. Kręcić filmy da się nawet telefonem komórkowym. Pewna zgrzebność może być wręcz uznana za atut, bo czyni nagrania bliższymi prawdy. Ich twórcy wystarczy też minimalne pojęcie o sztuce filmowej. Serial internetowy charakteryzuje się bliskimi ujęciami, koncentruje na bohaterze i tym, co ma do powiedzenia, a nie na akcji. Małe okienko na ekranie monitora jest wprost stworzone dla kameralnych produkcji, opartych na monologach i dialogach. Wystarczy kilka sekund i nagranie ląduje na YouTube.</p>
+        <p xml:id="p-2">Wydaje się, że te atuty wykorzystał z powodzeniem pracujący w marketingu poznańskiej telewizji 31-letni Michał Napierała. Jego " Milioneuro.tv" od premiery w październiku 2008 r. obejrzano już ponad milion razy. - Bohaterem każdego półtoraminutowego odcinka jest pomysł, jak zarobić milion euro. Na hodowli w doniczkach i sprzedaży czterolistnej koniczyny czy produkcji nakładki z joystickiem dla komputerowych graczy. Wiem, że są już pierwsze osoby, które zaczęły realizować moje pomysły - mówi Michał Napierała.</p>
+        <p xml:id="p-3">I to, niestety, tyle, jeśli chodzi o warte wymienienia amatorskie produkcje. Pozostałe zwykle są jedynie wideografomanią. Nic dziwnego, że na rynku seriali internetowych liczą się głównie profesjonaliści. Najsilniejszym graczem jest z pewnością A2 Multimedia, który do swojego portfolio dorzucił w styczniu zrealizowaną na licencji "Lonelygirl15" "N1ckolę". Oprócz tej produkcji i "Klatki B" spółka stworzyła jeszcze pięć innych cyklicznych filmów. Wśród nich jest będący reklamą Winiar animowany serial "Pitu Pitu", którego bohaterem jest prowadząca zabawne rozmowy para, i "Łazienka", która doczekała się już w sieci swojej obscenicznej parodii - "Kibelek".</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

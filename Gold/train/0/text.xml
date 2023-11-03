@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">W spotkaniu weźmie udział blisko 7 tysięcy braci z całej Europy, ale tylko 206 z nich będzie ubiegało się o tytuł Europejskiego Króla Kurkowego. - Wezmę udział w strzelaniu, choć moje szanse są marne. Wynika to przede wszystkim z moich obowiązków gospodarza spotkań; w tym nawale pracy ciężko mi będzie się skupić na strzelaniu - przewiduje Zdzisław Maj, prezes krakowskiego Bractwa Kurkowego, panujący Król Kurkowy.</p>
+        <p xml:id="p-2">Strzelanie o tytuł Europejskiego Króla Kurkowego będzie się odbywało w kilku etapach. Do finału zostanie dopuszczonych 27 braci - jeden z nich otrzyma tytuł Europejskiego Króla Kurkowego odbierając go obecnie panującemu Wilfriedowi Stammermannowi. - Król nie otrzymuje żadnych nagród finansowych, ale taki tytuł jest ogromnym zaszczytem; król jest np. zapraszany na posiedzenia Parlamentu Europejskiego - mówi Zdzisław Maj.</p>
+        <p xml:id="p-3">Największą atrakcją 12. Europejskich Spotkań Bractw Strzeleckich będzie wielka parada, która rozpocznie się w niedzielę o godz. 13. Kilkuset braci w historycznych strojach przejdzie z Błoń na Rynek ulicami: Piłsudskiego, Straszewskiego, Franciszkańską i Grodzką.</p>
+        <p xml:id="p-4">Początki istnienia Bractwa Kurkowego w Krakowie sięgają XIII wieku. Skupiało ono znamienitych obywateli, kupców i rzemieślników pragnących wspomóc obronność miasta. Wielkim świętem bractwa był turniej, który odbywał się na strzelnicy zwanej Celestatem. Zawody trwały zwykle trzy dni. Strzelano do drewnianego kura umocowanego na wysokiej żerdzi. Brat, który zdołał celnym strzałem strącić ostatni jego fragment zdobywał miano Króla Kurkowego. Z tym tytułem wiązały się nie tylko honory, ale także przywileje: Rada Miejska zwalniała jego posiadacza m.in. z obowiązku płacenia podatków (ten zwyczaj utrzymał się do dziś).</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

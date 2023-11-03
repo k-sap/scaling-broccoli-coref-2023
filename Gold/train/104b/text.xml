@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Miasto płonęło niby suchy las, który ogarnęły płomienie zamieniając go w jedno wielkie ognisko. Huk ognia zagłuszył wszystkie inne odgłosy: stał się podobny rykowi germańskich rogów odkrywających nagle zasadzkę. Pożar rozlewał się coraz szerzej i z niepohamowaną siłą rzucał się na nowe dzielnice. Parł od Eskwilinu i wzgórza Caelius, gdzie wybuchnął, ku Palatynowi i Kapitolowi. Drewniany amfiteatr zapłonął nagle niby wielka pochodnia, a potem runął na wiwaria pełne oszalałych z trwogi zwierząt, na zwiezione pod budowę nowego pałacu materiały, na sztuczne jezioro u podnóża Eskwilinu, zwane pogardliwie "Stagnum Neronis". Rozległ się przeraźliwy syk i kłąb niebieskiego dymu strzelił w górę.</p>
+        <p xml:id="p-2">Teraz pożar zwalił się na budy kupieckie na Velia Carinae, pochłonął je jednym łykiem, łapczywie i prędko, po czym uderzył zaraz szeroką ścianą ognia na skupisko suburskie. Wielopiętrowe domy stawały w płomieniach jedne za drugimi. Z ogarniętych ogniem insul ludzie nie mieli czasu uciekać. Schody paliły się prędzej, niż ci, którzy mieszkali na górnych piętrach, mieli czas zbiec na ulicę. Zresztą i tym, co znaleźli się na dole, w ciasnych, krętych uliczkach pełnych szalejącego ognia i duszącego dymu niełatwo było uciekać. Krzycząc i nawołując się rozpaczliwie ludzie biegali tam i z powrotem, nie znajdując dla siebie wyjścia z morza ognia. Wpół oszaleli, w płonących tunikach, pędzili na oślep przed siebie, wpadali w płomienie i ginęli. Podcięte ogniem insule poczęły się walić. Osuwały się z łoskotem, zawalając ciasne uliczki. Snopy iskier buchały w górę niby stada rozszalałych os.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

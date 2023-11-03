@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Tegoroczne powiatowe święto plonów zorganizował Mikstat. Odbyło się pod sam koniec lata, 21 września, mimo to aura wynagrodziła rolniczy trud, obdarowując słońcem wszystkich świętujących. Drugim wspaniałym prezentem - tym razem od organizatorów - była muzyka. Podczas imprezy wystąpiły aż trzy orkiestry dęte: mikstacka, powiatowa i ta najbardziej oczekiwana - Orkiestra Reprezentacyjna Wojsk Lotniczych. Wszystkie orkiestry grały pięknie, ale występ gości z Poznania był porywający. Można powiedzieć, że mikstackie święto pokazało, jak byłoby pięknie, gdybyśmy na co dzień umieli dzielić się chlebem i muzyką.</p>
+        <p xml:id="p-2">Jednym z ważniejszych elementów każdych dożynek jest korowód, związany zwykle z życiem wsi. Tegoroczny wyruszył spod budynku szkoły, przeszedł ulicami miasta, by zakończyć marsz na boisku sportowym. Czoło korowodu stanowili jeźdźcy na koniach, za nimi orkiestra dęta z Mikstatu, poczty sztandarowe i delegacje poszczególnych gmin, niosące dożynkowe wieńce. Zasadniczą część orszaku tworzyły powozy i bryczki, w których jechali - pozdrawiając mieszkańców - dożynkowi goście, a także rolnicy z Mikstatu i okolic. Policzono, że w tej barwnej kolumnie przejechało 35 powozów. Ale w korowodzie jechały też ciągniki. Na ich przyczepach odbywały się prezentacje rolniczych tradycji. Na jednej przedstawiano wypiek chleba, na innej - prace kowalskie, to znów młócono zboże lub prezentowano staropolskie miody. A wszystko ze śpiewem i muzyką. Nie zabrakło też odniesień do witającej nas UE. Niektórym z prezentowanych w korowodzie maszyn trochę do tej Unii daleko, ale kombajnów zamykających pokaz raczej wstydzić się nie musimy. Trzeba zauważyć, że na trasie dożynkowego orszaku wiele posesji zostało udekorowanych bukietami kwiatów, kolorowymi wstążkami. Zdarzały się nawet zabawne kukły, pozdrawiające przechodniów z progów domostw.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

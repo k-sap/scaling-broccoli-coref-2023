@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">O kinie, nie o karierze</p>
+        <p xml:id="p-2">W "Sprzedawcach 2" powracają znane z pierwszej części postaci. Dante i Randal są już po trzydziestce, ale wciąż częściej rozmawiają o kinie niż o karierze. To świat dużych chłopców sfiksowanych na punkcie popkultury, która jest tematem nadrzędnym - nic dziwnego, że w rozmowach Transformersi mieszają się z religią, a najbardziej rozbudowany dialog (który zapewne zyska miano kultowego) to spór o wyższość "Gwiezdnych wojen" nad "Władcą Pierścieni". "Sprzedawcy 2" są kolejnym filmem Smitha, w którym silnie obecna jest kultura fanów. Jednak nie jest to już kino niszowe, tak jak fani nie są już zjawiskiem marginalnym. Popkultura nigdy jeszcze nie odgrywała w naszym życiu tak wielkiej roli. Do głosu dochodzi pokolenie, którego Smith jest apologetą. Hollywood - choć samo wyrosło na kulcie gwiazd - długo nie lubiło fanów i przedstawiało ich niepochlebnie. Przykładem może być "The Fan" (polski tytuł: "Wielbiciel") Edwarda Bianchi z 1981 r., w którym uwielbienie gwiazdy filmowej prowadzi do obłędu i serii morderstw. Niewiele lepiej jest w "Fanie" Tony’ego Scotta z 1996 r., gdzie Robert DeNiro, chcąc zmotywować ubóstwianego przez siebie sportowca do lepszej gry, porywa jego dziecko. "Sprzedawcy 2" pokazują, jak podejście Hollywood do fanów - możemy się domyślić, że w odpowiedzi na społeczne zapotrzebowanie - ewoluuje. To już nawet nie poziom Quentina Tarantino, który zanim został reżyserem, prowadził - jak twierdzi - żywot podobny do bohaterów Smitha, ale już jako guru Hollywood za namiętność do taniej literatury jednego z bohaterów "Pulp Fiction" ukarał śmiercią (czytający w toalecie Vincent Vega).</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

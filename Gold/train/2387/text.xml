@@ -1,0 +1,14 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">- Ma, niestety, parę niedobrych rzeczy po mnie, mianowicie skłonność do mówienia prawdy. Nie radzi sobie z fałszem. Jak widzi fałsz, to go paraliżuje. Wydaje mi się, że ma też uśmiech po mnie. Ciało z kolei bardziej po swojej matce. Mam wrażenie, że jeśli jego los potoczy się właściwie, to może być znakomitym aktorem, dlatego że ma to, czego ja nigdy nie miałem - duże skłonności do aktorstwa charakterystycznego. Potrafi być śmieszny, zabawny. I w tym upatruję jego szansę. Zresztą, wie pani, co to znaczy szansa. Oni gdzie indziej upatrują swoje cele. Oni nie marzą o znakomitym teatrze, jak my kiedyś. Oni chcą szybko dojść do czegoś. To są dzieci innego czasu. Ja, tak na dobrą sprawę, nie wiem, gdzie są usytuowane jego marzenia. I kim on będzie. Ale najważniejsze, żeby był zdrów, szczęśliwy. Być aktorem, zwłaszcza wielkim, to jest, poza wszystkim, ogromna ilość bólu, nieszczęścia i cierpienia. Także życzenie tego własnemu dziecku byłoby pomyłką.</p>
+        <p xml:id="p-2">- Ale pan akurat nie powinien narzekać na zawód.</p>
+        <p xml:id="p-3">- Ja nie narzekam, bo mnie się akurat powiodło. Jak może żałować chłopiec z małego miasteczka, który poszedł w świat, zobaczył wszystkie kontynenty, doznał wielkich porażek i sukcesów, jeździł pięknymi samochodami, kochał piękne kobiety, jest do tej pory zdrowy. Więc jak mogę być niezadowolony? Jestem zachwycony. Mało tego, uważam, że wszystko co mnie spotkało do tej pory, przekracza moje oczekiwania. Nie mam do losu żadnych pretensji. A jeżeli mam, to tylko do siebie. Ale minimalne. Dlatego, że ja próbuję traktować siebie bardzo łagodnie. O co mam teraz mieć do siebie pretensje? O to, żeby więcej robić, więcej zarobić? Na cholerę mi tyle tego.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

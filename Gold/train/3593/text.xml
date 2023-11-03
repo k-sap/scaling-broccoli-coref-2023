@@ -1,0 +1,21 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Badania dr Roberta Edwardsa i dr Richarda Gardnera udowodniły, że za pomocą planowanego, legalnego wyboru płci dzieci urodzonych w jednym pokoleniu moglibyśmy bezpośrednio uratować nie tylko to pokolenie, ale również całkowicie odsunąć zagrożenie w następnych.</p>
+        <p xml:id="p-2">Część druga praktyczna</p>
+        <p xml:id="p-3">CZYLI OPIS SZCZEGÓŁÓW METODY DRA SHETTLESA</p>
+        <p xml:id="p-4">6. Wstęp do części praktycznej</p>
+        <p xml:id="p-5">Na początku chciałbym ostrzec, że nie jest to metoda gwarantująca całkowitą pewność. Naukowo udowodniono jedynie ponad 80% skuteczność. Przy spełnieniu teoretycznie wszystkich warunków skuteczność osiąga ponad 95%. W niektórych opracowaniach mówi się nawet, o 99% ale... To tylko teoria sprawdzająca się jedynie w związkach spełniających tak dużo warunków, że praktycznie nie ma takich małżeństw.</p>
+        <p xml:id="p-6">Wymienię najważniejsze warunki:</p>
+        <p xml:id="p-7">1. Tak kobieta jak i mężczyzna mogą posiadać dzieci obu płci bez żadnych ograniczeń.</p>
+        <p xml:id="p-8">2. Kobieta ma regularny cykl miesiączkowy z dokładnością do godzin niezależnie od okoliczności oraz potrafi wcześniej przewidzieć moment jajeczkowania.</p>
+        <p xml:id="p-9">Ktoś powie: "Przecież jesteśmy zdrowi i spełniamy w/w warunki". I tutaj pragnę ostrzec, że praktycznie u około 10% ludzi występują czasowe lub stałe warunki powodujące, że mogą mieć tylko jedną płeć dzieci i nie pomoże tutaj żadna metoda. Zawsze można próbować, ale również proszę się liczyć z niekorzystnym wynikiem. Powtarzam, 10% czyli co 10 dziecko.</p>
+        <p xml:id="p-10">Dodatkowo przy występujących nieregularnościach cyklu miesiączkowego nie można przewidzieć z dokładnością do 1 dnia ( +/- 12 godzin) momentu owulacji, co jest warunkiem koniecznym. Większy błąd to już inna płeć albo brak ciąży.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

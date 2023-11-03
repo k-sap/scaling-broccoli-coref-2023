@@ -1,0 +1,16 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">- Nie zdążyłam dotknąć ramienia papieża – mówi Monika Skoczylas (rocznik 1977) z Winnicy, wspominając jedną z najważniejszych chwil życia.</p>
+        <p xml:id="p-2">Udział w 1998 r. w dziewięciodniowej pielgrzymce do Włoch, organizowanej przez ks. Wiesława Koska z pułtuskiej Bazyliki, na zawsze pozostanie w pamięci Moniki. Zachwyciły ją Padwa, Florencja, Asyż, Wenecja, Rzym, ale najwięcej wzruszeń dostarczyły jej audiencja generalna na Placu św. Piotra i uroczystości jubileuszu dwudziestolecia pontyfikatu Jana Pawła II.</p>
+        <p xml:id="p-3">– Nie potrafię opisać, co czułam, widząc i słysząc papieża z bardzo bliska. To jest coś ziernika Ojciec Święty przejeżdżał niedaleko naszego sektora, na tyle blisko, ze mogłam mu zrobić zdjęcie i go dotknąć. Ale ochroniarz odtrącił moją rękę, nie pozwolił na to, a już byłam bliziutko Ø.</p>
+        <p xml:id="p-4">Monika śledziła na bieżąco informacje o stanie zdrowia papieża. Popłakała się na wieść o jego śmierci. Żałuje, że nie uczestniczyła w spotkaniach z Janem Pawłem II podczas jego pielgrzymek do Polski. Dzieciom chce pokazać pamiątkę, jaka jej pozostała z pielgrzymki do Rzymu: pisemne błogosławieństwo Jana Pawła II dla całej rodziny Prażmowskich oraz dzieci i wnuków.</p>
+        <p xml:id="p-5">- Papież był dla mnie wielkim człowiekiem. Bardzo dużo zrobił dla Polski, dla całego narodu. Świat nie będzie już taki sam – mówi Monika.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

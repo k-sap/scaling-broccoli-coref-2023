@@ -1,0 +1,17 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">GOŁĘBIE I TORTY ZA 200 ZŁ</p>
+        <p xml:id="p-2">Dawno nie było takiego popytu na gołębie i torty. Na scenie przy Puchatku cztery ptaki zostały uwolnione po cenie 200 zł każdy. Za przyjemność wypuszczenia gołąbka do nieba wyłożyli kasę: poseł Henryk Milcarz, starosta powiatu kieleckiego Zenon Janus, Tomasz Lato, przewodniczący rady powiatu za Rafał Szpak, dyrektor Świętokrzyskiego Centrum Matki i Noworodka w Kielcach. Doktor Anna Chojnacka, wojewódzki specjalista neonatolog przekonywała: - Wielka Orkiestra Świątecznej Pomocy przemawia w imieniu tych, których głos jest najcichszy - dzieci. Bądźmy dla nich hojni.</p>
+        <p xml:id="p-3">To zaklęcie podziałało, bo przy licytacji tortów okazało się, że sprzedaliśmy na Sienkiewce jeden z najdroższych wypieków w Polsce. Jeden z tortów był licytowany aż trzy razy i zarobił łącznie prawie 400 zł.</p>
+        <p xml:id="p-4">POMAGAM, BO TAK CZUJĘ</p>
+        <p xml:id="p-5">Spotkaliśmy też ludzi, którzy grają w Orkiestrze od wielu lat, bo czują, że są jej to winni. - Moja siostrzenica Klaudia urodziła się niepełnosprawna. Pięć lat temu uratowano ją na sprzęcie od Wielkiej Orkiestry Świątecznej Pomocy, bo miała niewydolność oddechową. Od tamtej pory co roku gram i daję swoje całoroczne kieszonkowe - powiedziała nam Magda Hłasko z Kielc, która w tym roku wrzuciła do puszek 400 zł. Wspomagały ją koleżanki Klaudii: Daria Parchliniak i Klaudia Bednaszkiewicz.</p>
+        <p xml:id="p-6">Państwo Paweł, Adelajda i Stefan Bąk też grają w orkiestrze od zawsze. - Nasz syn Stefan przeszedł badania diagnostyczne na sprzęcie od Orkiestry, które uratowały mu życie. Dlatego co roku gramy, oddajemy na licytację książki, płyty. I najfajniejsze jest to, że ludzie płacą za nie pieniądze i z powrotem oddają je do licytacji - powiedzieli nam.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

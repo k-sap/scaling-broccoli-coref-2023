@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Okazuje się poza tym, że szanse powodzenia będą mieć zwłaszcza ci kandydaci, które odznaczają się... starannością w piśmie.</p>
+        <p xml:id="p-2">- Wiele odpowiedzi na formularzach będzie słownych i jeżeliby napisane były one niestarannie, nie dałby rady w ich odczytaniu elektroniczny czytnik, który będziemy wykorzystywać przy gromadzeniu zebranych informacji - dodaje kierownik Pawlaczek . Narodowy Spis Powszechny potrwa od 21 maja do 8 czerwca. W regionie tarnowskim do pracy przystąpi 2,6 tys. rachmistrzów.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

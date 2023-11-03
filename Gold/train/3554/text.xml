@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">PoselJanRokita: Wróćmy do tych trzech punktów, panie redaktorze. Czyli pan uważa, że drugi punkt nawiązuje do rozmowy Leszka Millera z Robertem Kwiatkowskim, trzeci, rozumiem, nie. Tak? Bo to jest, pańskim zdaniem, niewiarygodne? Tak...</p>
+        <p xml:id="p-2">PanAdamMichnik: Panie przewodniczący, no ja przed chwilą przecież wyraźnie powiedziałem zupełnie coś innego.</p>
+        <p xml:id="p-3">PoselJanRokita: To jest problem...</p>
+        <p xml:id="p-4">PanAdamMichnik: Panie pośle, no ja wyraźnie mówię, głośno mówię, nie mówię nic pod nosem, czym pana nie mogę rozweselić, mówię głośno, żeby pana rozweselić. Ja powiedziałem tak: punkt drugi jest absurdalny z mojego punktu widzenia, bo moja wiedza, moja wiedza na temat przebiegu tej rozmowy nie pozwala mi przypuszczać, żeby premier Leszek Miller za pośrednictwem prezesa publicznej telewizji informował Lwa Rywina, że nie ma nic przeciwko temu, żeby Lew Rywin został prezesem Polsatu, wtedy kiedy to zakupi Agora. Pan twierdzi na to, że pan ustalił, analizując zeznania prezesa Kwiatkowskiego i premiera Millera, że to możliwe jest. Ale to pański jest pogląd, a nie mój Ø. Ja na podstawie mojej wiedzy stwierdzam, że to jest absurd, to jest wykluczone. Dwa. Trzeci punkt, kompletny idiotyzm. Sprawa kompromisu jest na dobrej drodze, no tak, to sobie wyobrażam, że pan premier mógł - to jest tam 13 lipiec, no - pan premier mógł coś takiego powiedzieć panu prezesowi Kwiatkowskiemu, bo pan premier to mówił publicznie wtedy wielokrotnie, niejednokrotnie. Więc z tego bym wniosków nie wyciągał. Natomiast, jeżeli pan poseł łaskawie pozwoli, to chciałbym zwrócić uwagę wysokiej komisji i pana posła na cyfry, cyfry.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

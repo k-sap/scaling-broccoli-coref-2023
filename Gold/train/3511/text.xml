@@ -1,0 +1,16 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Po kilkudziesięciu minutach uczestnicy misterium ruszyli procesją w ślad za Jezusem, niosącym wielki, drewniany krzyż. Na ulicach Grębkowa poprzedzali go konni jeźdźcy, a w rolę rzymskiej eskorty wcieli się strażacy. Kilka znaczących scen rozegrano na boisku miejscowej szkoły: na platformie, przy kamieniu, gdzie Szymona z Cyreny przymuszono, by pomógł Jezusowi nieść krzyż i na górce saneczkowej, gdzie doszło do spotkania z Weroniką.</p>
+        <p xml:id="p-2">W zorganizowanym przez parafię pw. Bartłomieja Apostoła w Grębkowie oraz grębkowskie Katolickie Stowarzyszenie Młodzieży widowisku wzięło udział ponad sto osób. W rolach głównych wystąpili: Jezus - Rafał Milewski, Maryja - Magda Majewska, Maria Magdalena - Klaudia Żarnoch, Żona Kleofasa - Karolina Wielądek, Weronika - Urszula Witan, Szymon Cyrenejczyk - Adrian Pazdyka.</p>
+        <p xml:id="p-3">Byli też: apostołowie, aniołowie, szatani, żołnierze, niewiasty jerozolimskie, kaci, żołnierze. Zadbano również o profesjonalną realizację. Parafianie pomogli w zdobyciu rekwizytów.</p>
+        <p xml:id="p-4">Kto w niedzielę, 5 kwietnia po południu był w Grębkowie, nie ma wątpliwości, że przygotowanie misterium wymagało ogromnego wysiłku i współpracy wielu osób – uczniów, członków Katolickiego Stowarzyszenia Młodzieży. Reżyserem wystawienia Męki Pańskiej był wikary ks. Karol Nasiłowski.</p>
+        <p xml:id="p-5">- Misterium Męki Pańskiej czynnie angażuje bardzo wiele osób z naszej parafii. Chcę przekazać swoje uznanie dla tych osób: Straży, Radzie Parafialnej i wszystkim, którzy w jakikolwiek sposób pośpieszyli z pomocą ks. Karolowi w realizacji tego wydarzenia. W szczególny sposób dziękuję aktorom. Każda rola, która przypadła Wam w udziale jest ważna, bo lepiej nam uświadomi wydarzenia sprzed dwóch tysięcy lat, które wciąż trwają i dokonują się w inny - sakramentalny - sposób podczas sprawowania Eucharystii – napisał na internetowej stronie KSM promującej misterium proboszcz grębkowskiej parafii ks. Wiesław Proniewicz.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

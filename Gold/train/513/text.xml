@@ -1,0 +1,16 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Skowronski: Czy ten rosyjski oddział specjalny był w Czeczenii specjalnie po to, żeby uwolnić Polki?</p>
+        <p xml:id="p-2">Dobrowolski: Uwolnić jeńców, uwolnić zakładników, uwolnić przetrzymywanych " tak.</p>
+        <p xml:id="p-3">Skowronski: A to, że Polki odzyskały wolność kilka dni temu, było zaskoczeniem dla MSZ czy nie?</p>
+        <p xml:id="p-4">Dobrowolski: Jak to się zwykle mówi, timing, czyli moment był zaskoczeniem, ale umiarkowanym. Proszę pamiętać, że momenty, w których one były już "wolne" , przeżywaliśmy już od listopada, bo bez przerwy ktoś mówił, że one są wolne. Samym paniom wydawało się czasami, że są wolne, co też krążyło przez media polskie, a wcale nie było prawdą, bo nie można było wykonać tego ostatniego kroku, z różnych powodów " czasami właśnie dlatego, że nikt ich nie wypuszczał, a czasami z powodu pewnej inercji. Tego, że będą wolne, można się było spodziewać; my już od trzech tygodni mieliśmy takie wiadomości. Proszę pamiętać, że przez cały czas, ponad 70 dni, utrzymywaliśmy nasz przyczółek najbliżej jak było można, czyli w Gruzji. Tam właśnie przebywała mała grupa MSZ, dopiero teraz zresztą jej pracownicy wracają. Tak więc sama chwila uwolnienia Polek oczywiście była zaskoczeniem, ale " jak to się zwykle mówi " tendencja szła w tym kierunku.</p>
+        <p xml:id="p-5">Skowronski: 208 dni niewoli. A jaki był sam początek? Kiedy pan się dowiedział o tym, że Polki zostały porwane w Czeczenii?</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

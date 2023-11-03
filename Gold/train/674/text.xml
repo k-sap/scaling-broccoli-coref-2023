@@ -1,0 +1,16 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">PIŁA. We wrześniu pisaliśmy o tym, że prokuratura wyjaśnia sprawę podejrzenia sfałszowania dokumentu przez dyrektora pilskiej delegatury Kuratorium. W ostatnich dniach prokurator prowadzący zdecydował się postawić zarzuty dyrektor Bożennie S. oraz nauczycielce Annie D., która starała się o przyznanie jej wyższego stopnia awansu zawodowego.</p>
+        <p xml:id="p-2">Sprawa znalazła się w prokuraturze za sprawą prezydenta Zbigniewa Kosmatki. Złożył on zawiadomienie o podejrzeniu popełnienia przestępstwa po tym, jak w rękach komisji przyznającej nauczycielom wyższe stopnie zawodowe znalazł się dokument opieczętowany przez Szkołę Podstawową nr 12 w Pile i podpisany przez dyrektor Bożennę S. Szkopuł w tym, że w dniu wystawienia tego dokumentu Bożenna S. od ponad roku nie była już dyrektorem tej szkoły.</p>
+        <p xml:id="p-3">Pani dyrektor przyznaje, że pismo potwierdzające kompetencje nauczycielki Anny D. podpisała. Jako jej dawna przełożona miała bowiem do tego pełne prawo, jednak dopiero później i bez jej wiedzy ktoś przystawił pieczęcie szkoły. — Być może z nadgorliwości, nie zdając sobie sprawy z konsekwencji — przypuszcza.</p>
+        <p xml:id="p-4">Tymczasem prokuratura uznała te wyjaśnienia za nie do końca przekonujące i zdecydowała się postawić Bożennie S., jako funkcjonariuszowi publicznemu, zarzuty dokonania czynu przewidzianego w artykule 231 kodeksu karnego. Określa on jakiej karze podlega funkcjonariusz publiczny, który przekraczając swoje uprawnienia lub nie dopełniając obowiązków, działa na szkodę interesu publicznego lub prywatnego.</p>
+        <p xml:id="p-5">Także Annie D. postawiono zarzut popełnienia przestępstwa przeciwko dokumentom. Dzisiaj jeszcze nie wiadomo, czy sprawa zakończy sie aktem oskarżenia.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

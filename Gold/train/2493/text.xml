@@ -1,0 +1,16 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Prezydent Ryszard Brejza nie ukrywał, że wzruszył się, gdy w inowrocławskim teatrze usłyszał pieśń "Gaudeamus". - To było marzenie wielu inowrocławian. Od wielu lat podejmowaliśmy próby doprowadzenia do otwarcia roku akademickiego. Nie udawało nam się. Teraz to marzenie się spełniło. Mam nadzieję, że powstanie uczelni znacznie uatrakcyjni nasze miasto, ożywi je gospodarczo i kulturalnie - mówi prezydent. Dodaje, że żyjemy w czasach, w których o rozwoju miast decydują ludzie z wykształceniem i aspiracjami do tego, by osiągać sukces.</p>
+        <p xml:id="p-2">Kanclerz WSG doc. Krzysztof Sikora podczas uroczystości podkreślił, że szczególne gratulacje należą się Januszowi Radzikowskiemu i Januszowi Kiszce. - To w ich umysłach zrodziła się myśl, by w Inowrocławiu utworzyć oddział zamiejscowy naszej uczelni - mówił.</p>
+        <p xml:id="p-3">Juwenalia na wiosnę</p>
+        <p xml:id="p-4">WSG działa już od dziewięciu lat. - Należymy do grona najbardziej dynamicznie rozwijających się uczelni w kraju. Dzisiaj Wyższa szkoła Gospodarki w Bydgoszczy jest największą uczelnią niepaństwową w regionie i jedną z większych szkół tego typu w kraju. W rankingu szkół niepublicznych opublikowanym przez "Perspektywy" zajęliśmy piątą pozycje w kraju pod względem liczby studentów stacjonarnych oraz siódmą pozycję w zakresie aktywności wydawniczej - mówi rektor prof. zw. dr hab. Wiesław Maik.</p>
+        <p xml:id="p-5">W Inowrocławiu na studiach dziennych i zaocznych studiować będzie około trzystu studentów. Uczyć się będą na dwóch kierunkach: turystyka i rekreacja oraz zarządzanie. Prezydent Ryszard Brezja zapewnia, że wiosną przyszłego roku studenci dostaną od niego klucze do miasta i bawić się będą na pierwszych, historycznych, inowrocławskich juwenaliach.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

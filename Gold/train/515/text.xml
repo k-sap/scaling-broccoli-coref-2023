@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Wybory, postawy</p>
+        <p xml:id="p-2">Pewnie łatwo będzie pokazać, że mamy z czego razem być dumni. Dość wymienić długą listę Żydów polskiego pochodzenia, którzy osiągnęli światowy sukces: prof. Kazimierz Funk, wynalazca witamin, Izaak Singer, Helena Rubinstein, Samuel Goldwyn, Citroën. Ale jak pokazać, dlaczego ta wspólna historia bywała taka trudna?</p>
+        <p xml:id="p-3">Trzeba pokazać, na czym polegały te związki, pokazać dramatyczne czasem wybory w XX-wiecznej historii. Pewnych rzeczy nie da się do końca wytłumaczyć, może nawet nie trzeba. Trzeba je, niestety, przyjąć takie, jakimi są. Choćby kwestia 1968 r. Można powiedzieć, że była to sprawa związana z wewnętrznym kryzysem w systemie komunistycznym, gdy antysemityzm wykorzystano instrumentalnie. To prawda, ale przecież nie cała. Do tego doszła nienawiść, zacietrzewienie, ślepota części społeczeństwa. Przez pogrom kielecki i wydarzenia 1968 r. Polska, a jest to głęboko niesprawiedliwe, stała się na świecie sztandarowym przykładem antysemityzmu, utrzymującego się wbrew wszelkiej logice i przyzwoitości. Trzeba o tym mówić.</p>
+        <p xml:id="p-4">Ale są też pytania o żydowskie wybory i postawy, choćby o tak liczny udział komunistów żydowskiego pochodzenia w instalowaniu systemu i funkcjonowaniu aparatu bezpieczeństwa. To też część historii, od której nie można się odwrócić. Nie dążąc do obalania stereotypów, chcemy je rozbrajać, pokazując, jak wyrwane z kontekstu fakty stają się paliwem uprzedzeń. Nie pokazują tego, co najważniejsze w procesie historycznym, ale go zniekształcają, sprowadzają do wygodnych i prymitywnych interpretacji. Ta historia była szalenie trudna i złożona, ona nie mogła być bezkonfliktowa. Zresztą żadna historia taka nie jest.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

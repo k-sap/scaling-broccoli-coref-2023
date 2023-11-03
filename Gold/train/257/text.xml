@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Na ogół śmierć nam się kojarzy z ogłoszeniem, które wiesza się na skrzyżowaniach ulic i na kościelnych tablicach, w których wylicza się wszystkie tytuły zmarłego: doktor, inżynier, pryncypał, członek komisji. kochany mąż, najdroższy ojciec i dziadek oraz wymienia się wszystkie osoby, których odejście zmarłego pogrążyło w głębokim żalu. Na pogrzebie jest dostojnie i uroczyście. Dostojne jest milczenie oraz dostojny i uroczysty płacz, dostojna procesja, składanie kondolencji. ale śmierć to nie tylko pochówek. Śmierć to również umieranie, a ono nieraz trwa latami. Umieranie jest mniej podniosłe od śmierci. Nie towarzyszą mu na ogół kapłani w liturgicznych strojach, kadzidła i kwiaty. Umiera się zazwyczaj samotnie, nawet jeśli pośród ludzi. Umierający człowiek często jest przerażony, zdesperowany, szukający pociechy. Chce się z innymi porozumieć, ale inni są przeciążeni kłopotami, jakie im sprawia, i na ogół dobrze wiedzą, czego on potrzebuje, a czego nie. Jego prośby i uwagi przyjmują jako grymasy albo jako mało znaczące fantazje chorego, których nie należy brać poważnie, szczególnie gdy chodzi o starców, którzy niedosłyszą i niedowidzą. Któż bierze na serio ich skargi albo przysłuchuje się ich życzeniom bez zniecierpliwienia lub pobłażliwego uśmiechu?</p>
+        <p xml:id="p-2">Jak się nie uśmiechnąć, widząc chorego kalekę, zakonnika, który już nie tylko, że nie chodzi w sutannie, ale nawet bez spodni, z powodu gorąca albo może dlatego, że zbyt trudno było mu ubrać się bez pomocy. W czasie więc, kiedy wszyscy już wyszli z refektarza, w samych majtkach, z nogami w protezach, za pomocą dwóch lasek przesuwał się powoli jak żółw w kierunku drzwi. Jasne że nie był to radosny uśmiech.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

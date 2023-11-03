@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Zdaniem A. Łąckiego promocja jest integralną częścią strategii powiatu kłodzkiego, może przyczynić się do scalenia 14 gmin kłodzkich i zmniejszenia bezrobocia, jak również może zapobiec secesji powiatu.</p>
+        <p xml:id="p-2">Przedstawiając diagnozę sytuacji autor koncepcji zwrócił uwagę na rozproszenie w powiecie sił zajmujących się promocją, na brak konkurencyjności powiatu w promocji gospodarczej i przedsięwzięciach medialnych oraz brak sukcesów w zakresie pozyskiwania środków Unii Europejskiej.</p>
+        <p xml:id="p-3">Przewodniczący Komisji Turystyki uważa, że tę niekorzystną sytuacje można odmienić tworząc Regionalne Biuro Promocji i Targów Ziemi Kłodzkiej jako spółkę z udziałem powiatu zainteresowanych gmin i innych podmiotów. Aby uruchomić nową strukturę należałoby przerzucić siły i środki ze starostwa, zaangażować inne podmioty (głównie ze sfery turystyki), a także pokusić się o stworzenie w wybranych miejscach w Polsce (np. Warszawa, Katowice, Poznań, Szczecin) oraz za granicą (np. z wykorzystaniem miast partnerskich) stałych ośrodków promocji. Jednakże biurem głównym byłaby (do dyskusji) hala "Merkury" B w Kłodzku, gdzie pod jednym dachem pomieściłyby się wszystkie organizacje działające dotychczas na rzecz promocji Ziemi Kłodzkiej.</p>
+        <p xml:id="p-4">Celem Regionalnego Biura Promocji i Targów byłoby zwiększenie napływu turystów z kraju i zagranicy, pozyskiwanie potencjalnych inwestorów ważnych dla rozwoju infrastruktury, obiektów turystycznych i sportowych, pomoc prawna i organizacyjna małym i średnim firmom, w tym w branży turystycznej i agroturystycznej, organizacja targów branżowych dla małych i średnich firm, organizacja imprez atrakcyjnych medialnie na skalę krajową i międzynarodową. Dla realizacji zadań promocyjnych - zdaniem A. Łąckiego - można by wykorzystać współpracę z 30 miastami partnerskimi, środki pomocowe z Unii Europejskiej i możliwości, jakie stwarza organizacja przedsięwzięć targowych dla integracji pogranicza czeskiego i niemieckiego.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

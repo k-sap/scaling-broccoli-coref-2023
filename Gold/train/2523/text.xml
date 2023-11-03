@@ -1,0 +1,14 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Anna D. od lat hoduje świnki morskie. Twierdzi, że to bardzo inteligentne zwierzątka. Kiedy mieszkała w maleńkiej garsonierze, "akwarium" świnek stało blisko okna; świnki nauczyły się naśladować głosy ptaków i w chwilach radości ćwierkały jak wróble. Teraz Anna mieszka w dużym domu za miastem, a jej świnki to już kolejne pokolenie tamtych "ćwierkających". Najwyraźniej jednak przodkowie przekazali im umiejętność naśladowania ptasich treli, bo i te zwierzaki to potrafią, chociaż z miejsca, w którym teraz przebywają, ptaków nawet nie widzą. Tym ptasim świergotem zapowiadają również zbliżanie się domowników. - Nie mam pojęcia, skąd one wiedzą, że akurat z tego konkretnego samochodu wysiądzie mój mąż, ale one... to naprawdę wiedzą - śmieje się Anna.</p>
+        <p xml:id="p-2">Anna, prócz świnek, hoduje również koty. Wszystkie czworonogi żyją w wielkiej przyjaźni, ale szczególnie przyjacielski wobec świnek jest kot Rudek - zawołany gimnastyk. Rudek ubóstwia wykonywać ćwiczenia na kolanach swojej pani. Pani śmieje się, że ma to po niej - Anna jest właścicielką klubu fitness.</p>
+        <p xml:id="p-3">Alicja hodowała w swoim życiu najróżniejsze zwierzaki. Najpierw były to trzy koziołki, uratowane od... zjedzenia. Dwa z nich dorosły w domu na wsi i w odpowiednim czasie poszły w las. Trzeciego pani Alicja wzięła do domu w Krakowie. - Jadał makaron i pomidory, które wtedy, 20 lat temu, w zimie kosztowały majątek .</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

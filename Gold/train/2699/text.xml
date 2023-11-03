@@ -1,0 +1,12 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Sporo wiosek gminy Łapanów szczególnie w jej południowej części zostało ostatnio zasypanych przez śniegi nawiewane z okolicznych pól. Drogi dojazdowe do wielu zabudowań nie były przejezdne. Tak wygląda droga ze wsi Brzezowa do Zbydniowa. Te kilkumetrowej wysokości zaspy znajdują się na tej drodze i nawet koparki oraz ciężkie spychacze nie mogą sobie z nimi poradzić. Są to bowiem potężne zwały śniegu. Pług wirnikowy pracował ostatnio przy drodze Tarnawa-Zbydniów-Ujazd. Po uruchomieniu zasypanej trasy poszerzał on przejazd w tej okolicy. Do likwidacji śnieżnych zatorów na drogach wykorzystywany jest ciężki sprzęt z łapanowskich firm budowlanych. 40 mieszkańców peryferyjnej łapanowskiej wsi Cichawka problem zasypanej w ich miejscowości drogi dosłownie wzięło w swoje ręce. Łopatami odkopali oni zasypaną drogę w kierunku przysiółka Wichraz prowadzącej do Leszczyny. We wsi Ubrzeż spotkaliśmy gąsienicowy spychacz, który zakończył odblokowywanie zasypanej drogi prowadzącej do Brzezowej. Była ona od soboty przejezdna i tylko poszerzano ją spychając zwały śniegi na pobocza. Opady śniegu z soboty na niedzielę nie pogorszyły trudnej sytuacji na drogach wiosek w gminie Łapanów. Nieprzejezdne jeszcze w niedzielę były odcinki dróg Wola Grabska-Zbydniow Brzezowa i Wieruszyce Podzamcze. Znajduje się przy nich kilkanaście zabudowań. Są one sukcesywnie, zgodnie z opracowanymi na bieżąco planami odblokowywane. Od rana we wczorajsza niedzielę ekipy Urzędu Gminy pracowały nie tylko na drogach gminnych ale i powiatowych utrzymując ich przejezdność. Warto jednak aby kierowcy uświadomili sobie panujące zimowe warunki pełne wielu niespodzianek na drogach.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

@@ -1,0 +1,14 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">W tym roku kalifornijska pożoga ma symboliczny wydźwięk. Gdyby film "Niewygodna prawda" ostrzegający ludzkość przed skutkami efektu cieplarnianego nie otrzymał już Oscara, a jego twórca - pokojowej Nagrody Nobla, o podpalenie chaparralu można by posądzić Ala Gore’a. Pożary w Kalifornii znacznie zwiększyły bowiem siłę jego przesłania. Wśród komentatorów na pewno znajdą się tacy, którzy uznają tę klęskę za karę Bożą zesłaną na amerykańskich imperialistów za nieratyfikowanie Protokołu z Kioto. Proste konkluzje są nęcące, ale warto przyjrzeć się nieco bliżej temu, co w ostatnim roku wydarzyło się w amerykańskim dyskursie publicznym i politycznych decyzjach dotyczących środowiska.</p>
+        <p xml:id="p-2">Nie jest tajemnicą, że wśród ekologów prezydent George W. Bush cieszy się jak najgorszą opinią, a Nagrodę Nobla dla jego konkurenta z przedostatnich wyborów prezydenckich odebrano jako naganę dla administracji. Mimo to, jak dowodzą wyniki badań prasoznawczych ogłoszone w końcu września przez firmę Hill&amp;Knowlton, to właśnie Bush ma największy wpływ na media w kwestii globalnego ocieplenia. Jego deklaracja wpleciona w noworoczne orędzie o stanie państwa, w której obiecał "pomoc w stawieniu czoła wyzwaniu globalnych zmian klimatycznych", doczekała się licznych komentarzy. Gore w rankingu Hill&amp;Knowlton zajmuje dość odległe, dziewiąte miejsce.</p>
+        <p xml:id="p-3">Zaskakujące oświadczenie Busha nie oznaczało jeszcze, że prezydent USA nawrócił się na ekologię. Był to raczej wyraz politycznego realizmu, ustępstwo wobec opinii środków masowego przekazu, które w 70 proc. skłaniają się do tezy, że ocieplenie klimatu jest spowodowane działalnością człowieka. Choć w kolejnych miesiącach po orędziu stało się jasne, że Bush nie planuje żadnej ekologicznej rewolucji, amerykańska maszyna legislacyjna powoli ruszyła z miejsca.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

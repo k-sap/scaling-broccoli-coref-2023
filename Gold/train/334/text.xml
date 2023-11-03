@@ -1,0 +1,16 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">studentka</p>
+        <p xml:id="p-2">Z ekologią mam tyle wspólnego, że studiuję ochronę środowiska i mam nadzieję, że po skończeniu tego kierunku będę mogła w tym względzie działać. Przede wszystkim należy zacząć od samego siebie, czyli podjąć działania zmierzające do utrzymania czystości wokół siebie, w swoim mieście. Przyznam, że osobiście jestem na etapie pisania prac, a działalnością mam nadzieję się zająć. Ponieważ jestem teraz w Poznaniu, to więcej mogłabym powiedzieć o tamtym mieście. Patrząc porównawczo, trzeba przyznać, że tereny wiejskie w naszych okolicach pozostawiają wiele do życzenia, jeśli chodzi o kanalizację czy wywóz śmieci. Ludzie często utylizują śmieci we własnym zakresie, czego nie powinno się robić. Z kolei w dużym mieście jest bardzo rozwinięta komunikacja, co stanowi jakiś tam problem. Tu mamy zdrowsze powietrze, co naprawdę można odczuć, choć zieleni w Poznaniu też nie brakuje.</p>
+        <p xml:id="p-3">GRZEGORZ PIĄTKOWSKI</p>
+        <p xml:id="p-4">uczeń I LO</p>
+        <p xml:id="p-5">Cały czas jeżdżę rowerem, nie palę papierosów, więc nie zanieczyszczam powietrza i nie rzucam śmieci. Należałoby zamontować więcej koszy na odpadki, na śmieci. Jestem z Bierzowa i u nas są trzy pojemniki do sortowania tylko przy sklepie, a na uboczu nie ma nic. Należałoby karać ludzi, którzy wyrzucają śmieci do lasu, bo widzę, jak bardzo dużo śmieci w lasach pozostaje. Więc gdy ludzie nie mają koszy, to śmieci wyrzucają do lasu, a czynią to szczególnie przyjezdni z miast. Jeśli chodzi o Ostrzeszów, to wydaje się bardziej czysty, kiedyś jadąc do miasta można było napotkać na Budach śmieci w rowie, teraz tego nie widać. Pewnie zakład oczyszczania miasta dobrze działa, często sprzątają ulice. Myślę, że młodzież bardziej zwraca uwagę na ekologię, a to dlatego, że już od najmłodszych lat w szkołach mówi się o tym, są dni sprzątania świata. Starsi nie zwracają na to uwagi, rzucą gdzie popadnie, bo wielu nie ma tego nawyku - szczególnie na wsi.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

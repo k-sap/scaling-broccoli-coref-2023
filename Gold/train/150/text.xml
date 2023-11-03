@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">W całej tej wrzawie za pewnik przyjęto, że polska młodzież jest niedostatecznie patriotyczna. Nawet przeciwnicy ewentualnego "wupu" zdają się tak sądzić (powiadają: wzmocnijmy patriotycznie polski i historię!). A to jest oczywista nieprawda - polska młodzież jest patriotyczna i społecznie zaangażowana w stopniu bardzo przyzwoitym, nie licząc oczywiście zaangażowanych narodowo w stopniu niebezpiecznym skinów, licznych kibiców sportowych, aktywistów Młodzieży Wszechpolskiej, neofaszystów itp. Dowody na zdrowy patriotyzm? A zbieranie pieniędzy w Owsiakowej orkiestrze? A masowe marsze, gdy umarł Jan Paweł II? A zupełnie niespodziewany i niesterowany kult dla Powstania Warszawskiego? A ileż jest czułości w uwielbieniu dla polskiej komedii? Młodzi są absolutnie przygotowani do celebrowania tego, co im się w tradycji ojczyzny podoba, oraz pokazywania, jak im na ojczyźnie zależy. Jak dowiodły ostatnie tygodnie, nie potrzebują lekcji przysposobienia do manifestowania uczuć i poglądów nawet w tak skomplikowanym przedsięwzięciu jak uliczny pochód (tak się składa, że większość manifestacji odbyła się ostatnio akurat przeciw nominacji Romana Giertycha).</p>
+        <p xml:id="p-2">Prawdopodobnie cała wrzawa wokół nowego przedmiotu sprowokowana została bardziej na propagandowe potrzeby lidera LPR niż dlatego, że istnieje jasna koncepcja, jak nauka miłości do Polski miałaby wyglądać. Oczywiście, można sobie wyobrazić, jak to wysunięte szpice wszechpolskich aktywistów prowadzą podczas patrio-lekcji agitację i nabór do swoich szeregów. Znajomość realiów polskiej szkoły podsuwa jednak zgoła inny obraz: totalnego nudziarstwa uprawianego przez kombatantów, rozmaitych akademii ku czci, fałszywej, nieznośnej pompy. Na szczęście szkoła ma dość silny system immunologiczny, jeśli chodzi o indoktrynację. Jeśli kiedykolwiek przedmiot ten wejdzie w życie, skończy się zapewne na udręce uczniów i nauczycieli, którzy będą musieli sprawozdawać na piśmie, ile patriotyzmu udało się im zrealizować.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

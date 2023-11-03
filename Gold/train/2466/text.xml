@@ -1,0 +1,17 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Gospodarstwo księcia pana</p>
+        <p xml:id="p-2">Droga do Pszczyny (ok. 270 km) jest prosta - należy jechać przez Częstochowę w kierunku Bielska-Białej. Cała trasa wiedzie szeroką drogą, ale z prędkością nie można przesadzać, bo na prawej jezdni występują prawie cały czas koleiny odciśnięte kołami wielkich ciężarówek.</p>
+        <p xml:id="p-3">Na skraju pałacowego parku można pozostawić auto na parkingu. Opłatę reguluje się monetami w parkometrach. Jest taniej niż w Łodzi.</p>
+        <p xml:id="p-4">Olbrzymia rezydencja z zewnątrz nie wygląda nadzwyczajnie - sfatygowane tynki odsłaniają gołą cegłę. Bilet do muzeum wnętrz zamku książąt pszczyńskich von Plessów kosztuje 9,50 zł (4,50 zł ulgowy, 20 zł rodzinny dla dorosłych z dziećmi do lat 16). Te pieniądze warte są widoku około 20 komnat, z których część odrestaurowano z podziwu godnym pietyzmem w ostatnich latach.</p>
+        <p xml:id="p-5">Największa, piętrowa Sala Lustrzana jest miejscem koncertów muzyki barokowej im. Ø Telemanna, XVIII-wiecznego niemieckiego kompozytora, który bywał w Pszczynie. Najlepszą rekomendacją dla pałacu jest fakt, że "zagrał" on w znanym filmie i serialu pt. "Magnat". W słynnej, nieprzyzwoitej scenie makowcowej wystąpiła Grażyna Szapołowska.</p>
+        <p xml:id="p-6">Warto wiedzieć, że zamek w czasie I wojny światowej był siedzibą Kwatery Głównej Wojsk Niemieckich. Tutaj zapadła decyzja o rozpoczęciu totalnej wojny podwodnej na Atlantyku. Muzeum czynne codziennie oprócz poniedziałków. Szczegóły pod nr tel. (0-prefix-32) 210-30-37 lub w Internecie www.pszczyna.top.pl.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

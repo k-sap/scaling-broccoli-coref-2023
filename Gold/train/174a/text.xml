@@ -1,0 +1,14 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Konfiguracja środowiska SZBD PostgreSQL</p>
+        <p xml:id="p-2">Podczas uruchamiania SZBD PostgreSQL odczytuje zawartość plików konfiguracyjnych znajdujących się w katalogu /usr/local/pgsql/data/postgresql.conf oraz pg_hba.conf. Najprostszą i najbardziej uniwersalną metodą konfiguracji środowiska systemu Postgres jest edycja tych plików.</p>
+        <p xml:id="p-3">Niektóre opcje mogą zostać ustawione poprzez połączenie się z działającą bazą danych i wykonanie ' ' instrukcji SQL SET opcja wartość.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

@@ -1,0 +1,21 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Na pewno?</p>
+        <p xml:id="p-2">Z całą pewnością.</p>
+        <p xml:id="p-3">To może mały test dla historyka. Kto o polskiej elicie pisał, że jest "pożądliwa sławy, (...) chciwa (...) przyrzeczeń nie dotrzymująca (...), w mowie nierozważna, do wydatków ponad stan" przyzwyczajona?</p>
+        <p xml:id="p-4">To jest opis deformacji polityków.</p>
+        <p xml:id="p-5">Pasuje do dzisiejszej Polski?</p>
+        <p xml:id="p-6">Ale nie tylko do Polski. Więc kto to napisał?</p>
+        <p xml:id="p-7">Jan Długosz - połowa XV w. Tylko "szlachtę" zastąpiłem "elitą" i po 600 latach pasuje jak ulał. Czy to coś mówi o trwałości polskiej specyfiki?</p>
+        <p xml:id="p-8">Teraz politycy wszędzie cieszą się marną reputacją. W Polsce może bardziej, bo to wciąż są dość trudne początki. Ale Polska nie jest specjalnym wyjątkiem.</p>
+        <p xml:id="p-9">A weźmy opinię Długosza o reszcie narodu: "...skłonny do pijaństwa, kłótni, wyzwisk i zabójstw (...) postępujący w myśl zabobonów i przesądów, (...) kierujący się złośliwością, chciwy nowinek, gwałtowny i cudzego łakomy. Mało starannie budują domy, zadowalają się lichymi chatami (...) umysł mają przebiegły i niedowierzający". Czy to nie jest fenomen, że po sześciu wiekach czytamy ten tekst jak opis dzisiejszej rzeczywistości?</p>
+        <p xml:id="p-10">Ludzka natura chyba się nie zmienia. Zawsze są dobrzy, źli i ta reszta. Więc ostry obserwator zawsze może uzasadnić tego rodzaju opis. A ktoś inny może tę samą rzeczywistość opisywać odwrotnie.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

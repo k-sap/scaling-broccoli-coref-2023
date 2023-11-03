@@ -1,0 +1,34 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">PŁACZE</p>
+        <p xml:id="p-2">Bla... bla... bla... Błagam... oszczędź sobie tych pseudo mądrości...</p>
+        <p xml:id="p-3">KRZYCZY</p>
+        <p xml:id="p-4">One jeszcze nigdy nikomu nie pomogły!</p>
+        <p xml:id="p-5">Antek próbuje przytulić Agatę. Agata odpycha go.</p>
+        <p xml:id="p-6">SZLOCHAJĄC</p>
+        <p xml:id="p-7">Ja już nie mam marzeń! Rozumiesz?! Tylko się modlę, żeby nic nie wydarzyło się następnego dnia! Żeby w szkole nikt na mój widok nie zaczynał szeptać... nikt na drzwiach nic mi nie namalował!</p>
+        <p xml:id="p-8">Antek próbuje podejść do Agaty, ale ona robi krok do tyłu.</p>
+        <p xml:id="p-9">WYKRZYKUJE</p>
+        <p xml:id="p-10">Żeby najważniejszym wydarzeniem dnia było to, że Krzyś rozsypał cukier!!!</p>
+        <p xml:id="p-11">Do pokoju wchodzi Ela. Widzi zapłakaną i trzęsącą się Agatę. Podchodzi do niej.</p>
+        <p xml:id="p-12">ELA</p>
+        <p xml:id="p-13">Agatko... kochanie...</p>
+        <p xml:id="p-14">Agata odsuwa się od Eli jak zaszczute zwierzę. Patrzy na Antka, czy aby ten nie zamierza do niej się zbliżyć. Opanowuje płacz. Ciężko dyszy.</p>
+        <p xml:id="p-15">AGATA</p>
+        <p xml:id="p-16">Nic mi nie jest. Dobranoc.</p>
+        <p xml:id="p-17">Agata wychodzi z pokoju.</p>
+        <p xml:id="p-18">Zbliżenie Antka, zbliżenie Elżbiety</p>
+        <p xml:id="p-19">Scena kont.ZMIANA</p>
+        <p xml:id="p-20">WNĘTRZE. NOC. MIESZKANIE ŁUKASZA. SALON. ŁUKASZ, AGNIESZKA, PATRYCJA.</p>
+        <p xml:id="p-21">Agnieszka, Łukasz i Patrycja siedzą tak, że Patrycja siedzi tyłem do sypialni. Łukasz nalewa Patrycji wino. Agnieszka opowiada Patrycji.</p>
+        <p xml:id="p-22">AGNIESZKA</p>
+        <p xml:id="p-23">Łukasz zawsze stara się być przy panu Zdzisiu poważny, a ja nie wytrzymuję i zawsze muszę się chować albo do Kasi, albo do łazienki. Nie dość, że on sam wygląda jak te jego poduszki, to jeszcze mówi szybko, niewyraźnie i do rymu.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

@@ -1,0 +1,18 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Elżbieta Bereza - Grabowska w zasadzie tworzyła ten ośrodek. Pierwsze kroki były trudne, czasem pojawiało się zwątpienie, ale mimo wszystko szła przed siebie. Poza ustawowymi obowiązkami opiekuńczymi zawsze robiła coś ponad, a to pomoc powodzianom, a to samotne matki, a to chora dziewczynka, interwencja w sprawie dziecka wykorzystywanego seksualnie. Nigdy nie zrażały ją trudności i gdy dziś została bez pracy, nie myśli rozpaczać.</p>
+        <p xml:id="p-2">Nie znaleziono nieprawidłowości</p>
+        <p xml:id="p-3">W grudniu ubiegłego roku w zielonkowskim ośrodku pomocy przeprowadzono kontrolę. Pełnomocnik zarządu Halina Wojakowska nie znalazła żadnych nieprawidłowości. Podobną kontrolę przeprowadziła komisja rewizyjna przy zielonkowskiej radzie. Wyniki również były pozytywne. Aż do lutego wokół ośrodka pomocy nic się nie działo.</p>
+        <p xml:id="p-4">8 lutego w Zielonce przy ulicy Dziennikarskiej pojawiła się Anna Radlak, były pracownik podobnego ośrodka na warszawskim Bemowie. Pojawiła się i zażądała wszystkich dokumentów. Anna Radlak nie miała ani upoważnienia do przeprowadzenia kontroli ani też żadnych innych dokumentów świadczących o tym, że ma prawo oglądać dokumenty.</p>
+        <p xml:id="p-5">- Pani Bereza nie dała mi wtedy żadnych dokumentów - mówi oburzona Anna Radlak.</p>
+        <p xml:id="p-6">- Gdyby je przekazała, popełniłaby przestępstwo - mówi dyrektorka jednego z ośrodków pomocy w okolicy. - Po pierwsze, ochrona danych osobowych, po drugie, są to wszystko druki tajne i osoby nieupoważnione nie mogą mieć do nich wglądu.</p>
+        <p xml:id="p-7">W parę dni potem pani Radlak przyszła już z upoważnieniem od burmistrza Stefana Stępkowskiego (upoważnienie numer 16/2002 z dnia 12.02.2002 r).</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

@@ -1,0 +1,17 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">O ile faktycznie trudno podać te liczby w przypadku większości okręgów wyborczych, to nieoficjalnie wiemy, że we Wrocławiu zwyciężył Andrzej Łoś, wiceprezydent miasta startujący z list POPiS - ok. 14 tys. głosów. Na drugim miejscu jest Rafał Kubacki, kandydat popierany przez Samoobronę - ok. 12. tys. głosów, a na trzecim Piotr Ślusarczyk (Liga Polskich Rodzin) - ok. 10 tys. głosów.</p>
+        <p xml:id="p-2">Marszałek zrezygnuje?</p>
+        <p xml:id="p-3">Zanim podano nieoficjalne wyniki wyborów, było już wiadomo, że nowym marszałkiem województwa dolnośląskiego najprawdopodobniej będzie Janusz Pezda, obecny członek zarządu województwa. Po pierwsze, dlatego, że jego ugrupowanie ma najwięcej mandatów, a tak przewidywały sondaże przedwyborcze. Po drugie - z funkcji radnego najprawdopodobniej zrezygnuje obecny marszałek - Emilian Stańczyszyn. Owszem, jako jedyny przedstawiciel swojego ugrupowania wszedł do nowego sejmiku, ale wcześniej wygrał w pierwszej turze wybory na burmistrza Polkowic. Tym razem chyba postawi na to drugie stanowisko. Przypomnijmy, że kilkanaście miesięcy temu zrzekł się burmistrzowania na rzecz pracy w sejmiku. Poza tym, będąc osamotnionym w sejmiku, musiałby nawiązać stałą współpracę z jakimś ugrupowaniem. A w takich warunkach trudno liczyć na ponowny wybór na stanowisko marszałka.</p>
+        <p xml:id="p-4">tel. 37 48 180</p>
+        <p xml:id="p-5">afranas@gazeta.wroc.pl fot. magda kołodzińska</p>
+        <p xml:id="p-6">We Wrocławiu najwięcej głosów w wyborach do sejmiku zdobył Andrzej Łoś (POPiS). Głosowało na niego ok. 14 tys. mieszkańców stolicy Dolnego Śląska.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

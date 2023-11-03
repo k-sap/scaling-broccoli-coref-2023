@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<teiHeader xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xml:lang="en">
+  <fileDesc>
+    <titleStmt>
+      <title>Paragraphs: p-59,p-60,p-61,p-62,p-63,p-64,p-65,p-66,p-67,p-68,p-69,p-70,p-71,p-72,p-73,p-74,p-75,p-76,p-77 from NKJP text with id: IJPPAN_PolPr_DZa00100</title>
+    </titleStmt>
+  </fileDesc>
+  <profileDesc>
+    <textClass>
+      <catRef scheme="#nkjp" target="Dzienniki"/>
+    </textClass>
+  </profileDesc>
+  <revisionDesc/>
+</teiHeader>

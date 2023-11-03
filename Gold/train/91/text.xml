@@ -1,0 +1,17 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Chodząc gorączkowo po laboratorium i materialni uczeń spotkał się oko w oko z pomocnikiem i zagradzając mu drogę, rzekł ostro:</p>
+        <p xml:id="p-2">- Panie! Proszę ze mną do Miłeckiego... tak sprawa skończyć się nie może!...</p>
+        <p xml:id="p-3">- Taak? - syknął z nienawiścią pomocnik. - Dobrze! Więc Jeżeli pan usta otworzysz, to wiedz o tym, że ja... ciebie... oskarżę... i bądź pewien, że mnie uwierzą... A zatem wybieraj... albo trzymać język za zębami, albo ja panu pokażę! Dam ja ci komu zarzucać nieuczciwości... smarkaczu!</p>
+        <p xml:id="p-4">- Jesteś pan łajdak!...</p>
+        <p xml:id="p-5">- No, no! Tylko bez konfidencji, bo albo ja... albo pan!... Jeszcze słówko, a... słowo honoru, dziś cię wyprawią na bruk!...</p>
+        <p xml:id="p-6">Przy tych słowach Nielękowski odsunął gwałtownym ruchem Władysława i poszedł do apteki. Turkowski chciał biec za nim i wypoliczkować go... widok jakiejś staruszki w aptece powstrzymał krewkiego ucznia, A w końcu pierwszy gniew przeminął. Rozsądek wziął górę. Bo i cóż by mu przyszło z oskarżenia Nielękowskiego? Czyżby mu uwierzyli? A gdyby ten nicpoń istotnie uciekł się do piekielnej broni i rzucił podejrzenie na niego? O... wówczas by przepadł... zginął chyba... Wuj by mu nie przebaczył... pozostałby na bruku, bez opieki... jakież zmartwienie dla matki Nie... on tutaj nic nie wygra... powinien... usunąć się, uciec stąd co prędzej.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

@@ -1,0 +1,12 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Kilka dni temu przypadkiem trafiłem do starego, zapuszczonego sadu. Na wysoko wzniesionych konarach czerwieniły się dojrzewające jabłka. Coś mnie podkusiło, by połakomić się na owoce. Od pokusy do konsumpcji droga daleka - wdrapywać się na stare konary ani próbowałem, zanim więc udało mi się strącić kilka owoców, cały byłem oblepiony wyjątkowo kolczastymi nasionami chwastów. Było warto - aromatyczne, lekko kwaskowate owoce były słodkie, prawdziwa rozkosz dla podniebienia. Nie wiem, co to była za odmiana, może kantówka, kosztela lub antonówka. Takie "starocie" trafiają się tylko w starych, umierających sadach. Tymczasem o historycznych odmianach jabłoni przypominają sobie zachodnie firmy, które skupują owoce ze starych sadów w południowej i centralnej Polsce do produkcji poszukiwanych i drogich bio-soków. Mają w pogardzie sadownicze nowinki z wielkotowarowych sadów, ceniąc sobie niepowtarzalny smak i aromat dawnych, rosnących prawie półdziko odmian. Takie jabłonie porównywane są do ziół, mają zmienny, nieprzewidywalny bukiet zapachów, zwykle dobrze się przechowują i mają coraz więcej zwolenników ekologicznej dietetyki. Zresztą stare sady interesują nie tylko amatorzy zdrowego stylu życia - stare rodzaje owocowych drzew gromadzi się w specjalnych kolekcjach, by sięgać po ich zasoby dzikich genów do wyhodowania nowych odmian, gdy w towarowych sadach pojawi się kolejna choroba dziesiątkująca zbiory. Kiedy przejedzą nam się śliczne z wyglądu jabłka, przywiezione z supernowoczesnych, kierowanych przez komputer sadów, być może zatęsknimy do smaku zapamiętanych.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

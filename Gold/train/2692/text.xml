@@ -1,0 +1,16 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Przywileje dla kobiet obróciły się przeciw nim?</p>
+        <p xml:id="p-2">- W gospodarce rynkowej - tak. Kobieta, której prawnie i obyczajowo przypisano funkcje rodzicielskie, wychowawcze i opiekuńcze, nie może być poszukiwanym pracownikiem. Dyskryminujący jest także wykaz tzw. zawodów wzbronionych kobietom ze względu na ich ewentualne funkcje prokreacyjne. To znowu niewiara państwa, że obywatel, także płci żeńskiej, zdolny jest do podjęcia rozumnej decyzji.</p>
+        <p xml:id="p-3">Uważam, że każdy pracownik powinien być poinformowany o ewentualnym wpływie podejmowanej pracy na zdrowie przyszłego dziecka. To mit, że przed pracą w warunkach szkodliwych dla zdrowia należy chronić tylko kobiety. Badania amerykańskie wykazały, że niszczący wpływ na przyszłe potomstwo może mieć również rodzaj pracy ojca. Nie chronimy zatem w ogóle praw prokreacyjnych ojców.</p>
+        <p xml:id="p-4">Według polityków katolickich podstawowym posłannictwem kobiety jest jej rola w rodzinie - jako żony, matki, opiekunki. Czy możliwy jest powrót do takiego tradycyjnego modelu rodziny?</p>
+        <p xml:id="p-5">- Podczas kampanii parlamentarnej jeden z polityków ZChN stwierdził, że pełnowartościowa kobieta to taka, która ma przynajmniej troje dzieci i zajmuje się prowadzeniem domu. Nie zgadzam się z takimi kryteriami oceny. Nikt w taki sposób nie ocenia mężczyzn. Nie powinno się tak patrzeć na człowieka. Ale skoro ktoś wypowiada takie sądy, powinien sobie zadać pytanie, jaki w Polsce jest procent kobiet, których sytuacja materialna pozwala na autentyczne dokonanie wyboru. Nie chcę przez to powiedzieć, że kobiety pracują wyłącznie z motywów ekonomicznych, ale zarówno w okresie PRL, jak i dzisiaj jest niewielki odsetek mężczyzn, którzy są w stanie utrzymać na godziwym poziomie siebie, żonę i dwoje dzieci, nie mówiąc już o większej gromadce. Dlatego jestem przeciwna operowaniu etykietkami - "prorodzinne" i "feministyczne" , które padają w tej niedobrze prowadzonej dyskusji między ugrupowaniami kobiecymi działającymi na rzecz równości a tymi, które chcą utrwalić tradycyjny podział na role w rodzinie. Bo co to oznacza, że one są prorodzinne?</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

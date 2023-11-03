@@ -1,0 +1,20 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Około południa usłyszał splątane krzyki i nawoływania. Orkiestra była diabelska i gdyby w pobliżu znajdował się cmentarz, ten i ów nieboszczyk, spać w tym zgiełku nie mogąc, byłby zabrał trumnę i przeniósł się w spokojniejszą okolicę. Nad śliczną wodą odprawiała krzykliwe igrzyska liczna banda urwipołciów pod przewodem zuchowatej dziewczyny-jenerała. Szczególnie śmieszny był długonogi jakiś dryblas, piegowaty jak indycze jajo. Po dwóch stronach wody bieliły się dwa obszerne domy, a jeden z nich dźwigał na sobie garb niewysokiej wieży.</p>
+        <p xml:id="p-2">Banda ujrzawszy przybysza umilkła, co pozwoliło ogłuchłemu światu odetchnąć na krótką chwilę.</p>
+        <p xml:id="p-3">- Czuwaj! - zawołał Adaś.</p>
+        <p xml:id="p-4">- Czuwaj! - odkrzyknęli mołojcy i otoczyli go kołem. - Czy wolno mi tu odpocząć?</p>
+        <p xml:id="p-5">- Bardzo prosimy! - rzekła z uśmiechem dziewczyna. Skąd prowadzą bogowie?</p>
+        <p xml:id="p-6">- Ani bogowie tego nie wiedzą, ani ja nie wiem - zaśmiał się Adaś .</p>
+        <p xml:id="p-7">- Jestem taki Marek, co idzie na jarmarek. Chodzę, aby nie siedzieć.</p>
+        <p xml:id="p-8">Panna-jenerał skinęła przyjaźnie głową na znak, że jeszcze jeden wesoły rzezimieszek przyda się na tym radosnym świecie. Adaś oznajmił, że się zwie Cisowski, co zapewne nikomu nie będzie wadziło, więc i oni wymienili z kolei swoje nazwiska.</p>
+        <p xml:id="p-9">- Niemczewscy?... Gilewicz?... Kropka?... - zdumiał się Adaś. - Zaraz, zaraz. Coś mi się zdaje, szlachetni mężowie, i ty, dostojna pani, że ja już gdzieś słyszałem te świetne nazwiska, kiedyś i teraz, bardzo niedawno... Za pozwoleniem! Czy ten dwór na prawo to Głodowće, a ten na lewo Wiliszki?</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

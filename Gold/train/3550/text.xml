@@ -1,0 +1,16 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">SenatorRyszardBender: Dlaczego stan ten trwa do dziś? Czy musi trwać dalej? Nie służy to Polsce ani wychowaniu młodego pokolenia, aby cechowała je wysoka moralność indywidualna i społeczna. Próby oderwania polskości od chrześcijańskich wartości przestrzeganych w życiu indywidualnym i społecznym nie służyły interesom Polski i państwu polskiemu.</p>
+        <p xml:id="p-2">SenatorRyszardBender: Wiemy, że okupanci – Niemcy, Rosjanie za cesarskich czasów, a także za Hitlera i Stalina – czynili nadludzkie, wręcz szatańskie wysiłki, by oderwać naród polski od jego chrześcijańskich korzeni. Nie muszę udowadniać, ile przyniosło to szkód obecnemu pokoleniu Polaków i naszemu państwu.</p>
+        <p xml:id="p-3">SenatorRyszardBender: Trudności nękające nasz kraj, także ekonomiczne i polityczne, są w dużej mierze następstwem tego faktu. Relatywizm moralny, który rozpanoszył się dziś w życiu publicznym i gospodarczym, afery gospodarcze, kradzieże, rozboje, okrucieństwa, wszystko to w wielkim stopniu jest następstwem faktu podważania wagi wartości chrześcijańskich w naszym życiu indywidualnym i społecznym, w czym nie bez winy jest współczesna telewizja.</p>
+        <p xml:id="p-4">SenatorRyszardBender: Zasady moralności chrześcijańskiej tym wszystkim plagom mówią wyraźnie: „nie”! Nękające Polskę kłopoty, wady, patologie dostrzegane w życiu społeczno–gospodarczym i państwowym w znacznej mierze są konsekwencją faktu, iż chrześcijański etos był i jest rugowany z życia społecznego, publicznego i państwowego. Stan ten z różnym nasileniem trwa do dziś.</p>
+        <p xml:id="p-5">SenatorRyszardBender: Podstawą etosu chrześcijańskiego był i pozostaje krzyż. Doceniliśmy to w Senacie. Po roku upominania się o ten symbol wiary i moralności chrześcijańskiej, krzyż zawisł w sali naszych obrad. Stało się to później niż w innych krajach wyzwolonych spod komunizmu, ale krzyż jest! To jest najważniejsze!</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

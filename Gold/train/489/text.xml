@@ -1,0 +1,51 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">sp2: dzwonili ci ?</p>
+        <p xml:id="p-2">sp3: tak przed chwilą</p>
+        <p xml:id="p-3">sp2: ojej jak ty się rozerwiesz</p>
+        <p xml:id="p-4">sp1: idę bo muszę się uczyć</p>
+        <p xml:id="p-5">sp2: no ja szkoda że wiem dopiero teraz tak to bym wzięła urlop</p>
+        <p xml:id="p-6">sp1: jak chcesz to ja mogę jechać</p>
+        <p xml:id="p-7">sp3: gdzie ?</p>
+        <p xml:id="p-8">sp0: coś bym zrobiła ale nie wiem co mam najpierw robić próbuję sobie na wakacje zarobić trochę kasy</p>
+        <p xml:id="p-9">sp3: no nie ma sprawy jest robota</p>
+        <p xml:id="p-10">sp0: tylko ja się nie znam</p>
+        <p xml:id="p-11">sp3: jest podłoga do zakładania panele</p>
+        <p xml:id="p-12">sp0: kurde</p>
+        <p xml:id="p-13">sp1: sam jesteś ?</p>
+        <p xml:id="p-14">sp3: sam bo byłem w sklepie bo mi brakło tego dwie listwy i przyjechałem trochę kleju wziąć bo już nie było naleję wody i już jedziemy już betoniarka zrobiona i tam zaprawa się kręci</p>
+        <p xml:id="p-15">sp1: gdzie Ø Mateusz ?</p>
+        <p xml:id="p-16">sp3: u wójta na podwórku pilnuje</p>
+        <p xml:id="p-17">sp0: czego ?</p>
+        <p xml:id="p-18">sp3: nie no betoniarka jest i zaprawa zaraz będziemy wylewać ten</p>
+        <p xml:id="p-19">sp1: a on wziął sobie coś do jedzenia w ogóle ?</p>
+        <p xml:id="p-20">sp3: wziął on o jedzenie to dba co co godzina albo dwie coś tam je</p>
+        <p xml:id="p-21">sp1: bo on jest głodny</p>
+        <p xml:id="p-22">sp2: ja też Ø tak</p>
+        <p xml:id="p-23">sp3: napije się</p>
+        <p xml:id="p-24">sp2: ja też tak</p>
+        <p xml:id="p-25">sp3: napije się ten</p>
+        <p xml:id="p-26">sp1: masz weź mu to</p>
+        <p xml:id="p-27">sp2: ze mnie to się już śmieją</p>
+        <p xml:id="p-28">sp3: przyjedziemy to sobie zje no</p>
+        <p xml:id="p-29">sp2: że zachodzę do pracy i już jem</p>
+        <p xml:id="p-30">sp1: bo ja wiem że on to jest co dwie godziny głodny zawsze</p>
+        <p xml:id="p-31">sp2: ja też Ø Wiola</p>
+        <p xml:id="p-32">sp3: za dwie godziny przyjedziemy dobra na razie</p>
+        <p xml:id="p-33">sp2: to o której będziecie tutaj ?</p>
+        <p xml:id="p-34">sp3: za dwie godziny gdzieś</p>
+        <p xml:id="p-35">sp2: aha znowu Ø głodny</p>
+        <p xml:id="p-36">sp1: no przecież przyjechał teraz</p>
+        <p xml:id="p-37">sp2: zdążę ugotować</p>
+        <p xml:id="p-38">sp0: tata Ø taki opalony</p>
+        <p xml:id="p-39">sp1: no i co do pracy</p>
+        <p xml:id="p-40">sp0: to nie uczysz się ze mną ? jak nauczysz się pytań</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

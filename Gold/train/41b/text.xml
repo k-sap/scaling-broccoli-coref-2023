@@ -1,0 +1,12 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Około dziesięciu dni potrwa remont zwodzonego mostu w miejscowości Rybina. Dla chcących dostać się na Mierzeję Wiślaną przygotowano objazdy. Most w Rybinie nie był remontowany kilkanaście lat. Prace mają przywrócić sprawność techniczną i bezpieczeństwo.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

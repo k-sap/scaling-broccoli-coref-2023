@@ -1,0 +1,18 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Krystyna Sroczyńska z Kongresu Polonii Kanadyjskiej:</p>
+        <p xml:id="p-2">- Był moim przyjacielem. Największym, jakiego miałam. Nigdy nie spotkałam nikogo tak radosnego, żywotnego i pełnego zapału. Był bardzo życzliwy dla całego świata, dla ludzi, dla miejsc. Wiele podróżował, ale jeszcze więcej podróżował w wyobraźni, korespondując z całym światem.</p>
+        <p xml:id="p-3">Miał znajomych w Chicago, Hongkongu, Australii, Pradze, Nowej Funlandii, na kanadyjskich Kaszubach.</p>
+        <p xml:id="p-4">- On na tych Kaszubach, w sąsiedztwie rzeki Madavaska, nigdy nie był, choć bardzo chciał - mówi Charczuk. - Umówiliśmy się więc, że następnym razem już na pewno tam pojedziemy.</p>
+        <p xml:id="p-5">Nie pojadą. W parafii św. Kazimierza w Toronto właśnie odbyła się msza, podczas której ks. biskup Antoni Długosz z Polski odczytał intencję za zmarłych w katastrofie pod Smoleńskiem, a w szczególności za inż. Leszka Solskiego z Sopotu. Po mszy jego bliscy poszli pod Pomnik Katyński, by zapalić znicze. A potem starsza córka poleciała do Polski, do mamy. Razem miały się udać do Moskwy, gdzie trafiły ciała ofiar katastrofy.</p>
+        <p xml:id="p-6">Pół świata znało pana Leszka. Większość nazywała go przyjacielem. Dla wszystkich miał czas. Wszystkich lubił.</p>
+        <p xml:id="p-7">Jeszcze w czwartek rozmawialiśmy. O tej wyprawie, która okazała się ostatnią. Tyle ważnych osób miało być na pokładzie samolotu. Tyle spraw chciał załatwić. Marzyło mu się np., by w kaplicy, która powstanie przy stadionie na Letnicy, znalazła się ikona autorstwa Janusza Charczuka, dawnego piłkarza Lechii. Może Maciej Płażyński, szef Wspólnoty Polskiej, pomoże? - rozważał. "Trzymam kciuki. I do niedzieli!" - powiedziałam. "Buzi!" - odpowiedział.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

@@ -1,0 +1,14 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Szybko rozchodzi się wśród ludzi, który kapłan dobrze słucha. Najlepiej słuchają jezuici, jak człowiek człowieka. W seminariach uczą księży diecezjalnych restrykcyjności - szatan wszędzie czyha, zakonników uczą budować pozytywnie. Więc gdy przychodzą do księdza Naliwajki niesakramentalni, pytają między słowami, czy ta czystość to warunek. Ksiądz: - Odradzam czystość, jeśli czuję, że za tym kryje się lęk. Wiem, bo znam ciężar celibatu. Jarosław Naliwajko raz w miesiącu odprawia dla nich mszę: - Ja się pławię w sakramentach. Oni nie. Ja mam prościej - w celi mieszkam sam. Od nich mogę się nauczyć o głodzie eucharystii. Nie wiem, na czym polega ten głód. Ani uczucie potępienia, kiedy przychodzą z dramatycznym strachem. To rodzaj przeklętego koła - im poczują więcej dobra, bo przecież się kochają, tym więcej zła.</p>
+        <p xml:id="p-2">Fotografie</p>
+        <p xml:id="p-3">Marcin zamalował jasną plamę na ścianie po ślubnej fotografii. Zrobiona jedenaście lat temu. Na zdjęciu ma 21 lat. Poznali się we wspólnocie modlitewnej, gitara, oazy, miłość, czystość. Wspólnota klaskała, a on wchodził w ten nastrój jak nóż w masło. Czystość aż do ślubu. Cztery lata walki z pokusami - nie obejmować się, nie trzymać się za ręce. Wspólnota mówiła: - Bądźcie odpowiedzialni za ludzi, którzy patrzą. Marcin natrętnie zmuszał się do myśli, że inne są ładniejsze, szukał mankamentów w celu eliminowania pragnienia do narzeczonej. Żeby się przekonać, zaczął patrzeć na idealne dziewczyny z gazetek i teledysków. Są przecież dla wszystkich. Pozwalał sobie ich pragnąć, bo to nie był grzech, tylko droga do dobrego. Dobre zadziała po ślubie. Nie wie, czy wtedy, gdy mówił "aż do śmierci", widział w kobiecie, z którą miał żyć, kobietę. Już nie czekał na pierwszą noc. Nie wychodziło, choć w końcu miał sakramentalne przyzwolenie na łóżko. Siedem lat odkręcał oziębłość, zanim wniósł pozew.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

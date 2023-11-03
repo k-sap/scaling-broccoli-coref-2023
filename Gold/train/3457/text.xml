@@ -1,0 +1,14 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Zdaniem Joanny Trzepiecińskiej, grającej rolę Alutki w "Rodzinie zastępczej", o gwiazdorstwie powinno się mówić wyłącznie w odniesieniu do Hollywood. - Warunki pracy polskich aktorów są nieporównywalne ani do amerykańskich, ani nawet do europejskich standardów - twierdzi aktorka. U nas tak prosta, wydawałoby się, sprawa jak podesłanie taksówki na plan po aktora stanowi problem.</p>
+        <p xml:id="p-2">O chorym funkcjonowaniu systemu świadczą też zarobki artystów. Małgorzata Foremniak, słynna doktor Zosia z serialu "Na dobre i na złe", która w tym roku odcisnęła swoją dłoń w alei gwiazd w Międzyzdrojach, żali się, że ustalając wysokość honorariów nie każdy producent liczy się z tym, że popularny aktor, którego akcje idą w górę, ma prawo do wyższych stawek. A wykłócać się nie warto, bo wiadomo, że można zostać wymienionym na kogoś innego. W Hollywood istnieją ludzie niezastąpieni, u nas takich aktorów nie ma.</p>
+        <p xml:id="p-3">- W Ameryce - przyznaje Jerzy Trela - która jest nieustającym wzorem i lekarstwem na nasze kompleksy, to wciąż gwiazda jest gwarantem uzyskania pieniędzy na realizację. U nas tymczasem nawet najbardziej gorące nazwisko nie zapewnia budżetu. Polska megagwiazda jeśli dostanie 50 tys. dol. za główną rolę, to uważa, że złapała Pana Boga za nogi, a cały świat legł u jej stóp. Tymczasem w Stanach dobry aktor otrzymuje 20 mln dol., czyli 200 razy więcej. I kto tu jest gwiazdą?</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

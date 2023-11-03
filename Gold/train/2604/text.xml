@@ -1,0 +1,18 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">W cieniu pomarańczowego drzewka</p>
+        <p xml:id="p-2">Dzieci, toczące walkę z rakiem, chcą bawić się do końca. Także te, które już odchodzą. Jeśli nie mają już siły bawić się zabawkami, bawią się swoimi dłońmi i palcami</p>
+        <p xml:id="p-3">Po słowach lekarza: „to rak” człowiek czuje się tak, jakby odpłynął z rzeczywistości. Beata Olczak, gdy usłyszała o guzie na pniu mózgu u Ø 6-letniej córki Gabrysi, miała wrażenie, że to co się stało, rozgrywa się gdzieś poza jej realnym życiem.</p>
+        <p xml:id="p-4">Katarzyna Trawińska, której 2-letnia Ania leczy się w łódzkim szpitalu przy Spornej na białaczkę, pamięta z tych pierwszych dni tylko to, że drażniło ją, gdy spotykała na oddziale uśmiechnięte matki innych dzieci i słyszała nieraz śmiech dobiegający z innych sal.</p>
+        <p xml:id="p-5">– Jak minie odrętwienie, długo się płacze, a potem wrasta się w tę sytuację i zaczyna się normalnie żyć – wyjaśnia Beata Olczak, która dzień w dzień jest przy swojej córce w szpitalu. – Trzeba dziecku pomóc, trzeba się przy nim uśmiechać. Człowiek znieczula się na inne sprawy. Nie istnieje problem braku pieniędzy, zbyt małego mieszkania. Myśli się tylko o tym, żeby ratować dziecko.</p>
+        <p xml:id="p-6">Nie tylko kroplówki</p>
+        <p xml:id="p-7">Kiedy psycholog Aleksandra Solarek z fundacji „Gajusz”, pomagającej nieuleczalnie chorym dzieciom, po raz pierwszy szła na oddział onkohematologii szpitala przy Spornej, wyobrażała sobie, że zobaczy łyse, blade, przygnębione dzieci i dramat najbliższych. Są dni, że to wszystko rzeczywiście tak wygląda, ale pierwsi pacjenci, do których weszła, zmienili jej punkt widzenia.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

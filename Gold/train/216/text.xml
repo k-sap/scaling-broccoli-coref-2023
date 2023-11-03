@@ -1,0 +1,17 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">– Poddany zostałem w Salt Lake City kilku próbom i wszystkie przyniosły wynik negatywny. Taki sam był rezultat prób antydopingowych w poprzednich latach. Od 5-6 dni jestem na specjalnej diecie. Przez pierwsze dni spożywałem jedynie białko, trenowałem bardzo intensywnie. Jedynym moim pożywieniem w ostatnich trzech dniach były węglowodany – powiedział trzykrotny złoty medalista.</p>
+        <p xml:id="p-2">Sportowcy niemieccy są ogromnie zaskoczeni wiadomością o pozytywnym wyniku testu antydopingowego Muehlegga.</p>
+        <p xml:id="p-3">– To jakaś pomyłka, nie chce mi się w to wierzyć – powiedział Georg Hackl, wicemistrz olimpijski w saneczkarstwie.</p>
+        <p xml:id="p-4">– Sprawa Muehlegga położyła się cieniem na całym narciarstwie biegowym. Nie mieści mi się to w głowie – dodała biegaczka Anke Reschwamm.</p>
+        <p xml:id="p-5">Były biegacz Jochen Behle, koordynator ds. Pucharu Świata w Niemieckim Związku Narciarskim, przyznał, że jest „totalnie sfrustrowany”: – Cały czas mają miejsce kontrole. Kontrolowano go także po poprzednich dwóch biegach, kiedy zdobył złote medale. I teraz ta sprawa. Nie do wiary.</p>
+        <p xml:id="p-6">Być może do Muehlegga dołączy kolejne czwórka. Kontrola Białorusinki Julii Pawłowicz po występie w short-tracku na igrzyskach, wykazała że stosowała ona niedozwolone substancje wspomagające – łyżwiarka nie stawiła się jednak na powtórne testy. Nadal nie podano też oficjalnych wyników biegaczek: Rosjanek Larysy Łazutiny – poziom czerwonych ciałek krwi sugeruje wspomaganie EPO, i Olgi Daniłowej – czeka na wyniki próbek moczu, oraz Ukrainki Iriny Terelii – również podejrzanej o doping krwi.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

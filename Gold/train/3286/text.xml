@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">FOZZ, czyli wyścig do przedawnienia</p>
+        <p xml:id="p-2">Sprawa Funduszu Obsługi Zadłużenia Zagranicznego od 11 lat nie może znaleźć sądowego finału. Straty Skarbu Państwa szacuje się na ok. 100 mln dol., ale tak naprawdę nikt nie wie, ile rzeczywiście pieniędzy sprzeniewierzono. Rozliczanie osób odpowiedzialnych za FOZZ trwa od 1991 r. i jest oceniane jako największa kompromitacja polskiego wymiaru sprawiedliwości.</p>
+        <p xml:id="p-3">FOZZ utworzono na raty: najpierw jako agendę resortu finansów w 1985 r., a 15 lutego 1989 r. już jako samodzielną jednostkę, która miała prawo gromadzić środki finansowe i obracać nimi w celu wykupywania na rynkach światowych polskiego długu. Na czele nowej instytucji stanął Grzegorz Żemek, ekonomista z wykształcenia, wcześniej pracownik Banku Handlowego International w Luksemburgu, związany z Wojskowymi Służbami Informacyjnymi. Dzisiaj to właśnie Żemek jest głównym oskarżonym w przerwanym niedawno procesie sądowym. Oskarża się go o spowodowanie straty co najmniej 42 mln dolarów, 9,5 mln marek, 125 mln franków belgijskich i 47 tys. złotych. Poza Żemkiem na ławie oskarżonych zasiadają cztery inne osoby. Odpowiedzialności wymknął się natomiast Janusz Sawicki, były wiceminister finansów nadzorujący FOZZ - zarzuty wobec niego uległy przedawnieniu. Istnieje obawa, że wobec pozostałych oskarżonych zarzuty także się przedawnią - aby tak się nie stało, rozprawa przeciwko nim powinna zakończyć się do 31 grudnia 2005 r.</p>
+        <p xml:id="p-4">Już w 1993 r. prokurator skierował do Sądu Wojewódzkiego w Warszawie liczący 200 stron akt oskarżenia przeciwko Grzegorzowi Żemkowi i innym. Obrońcy zaskarżyli bilans strat w FOZZ dokonany przez biegłych powołanych przez prokuraturę. We wrześniu 1993 r. sąd odesłał prokuraturze akta z zaleceniem powołania innych biegłych. Nowa ekspertyza, przekazana w sierpniu 1996 r., kosztowała 10 mld st. zł. Zgodnie z procedurą prokuratura przystąpiła do sporządzania nowego aktu oskarżenia. Skierowano go do sądu w styczniu 1998 r. W styczniu 2000 r. z aktami zaczęła zapoznawać się przewodnicząca składu sędziowskiego, wyznaczonego do prowadzenia rozprawy, Barbara Piwnik.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

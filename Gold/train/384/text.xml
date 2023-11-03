@@ -1,0 +1,18 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">W niedzielę przed południem w największej w gminie obwodowej komisji wyborczej w Miedniewicach, gdzie uprawnionych do głosowania jest ponad 1200 osób, w spisie wyborców widniały jedynie pojedyncze podpisy osób, które oddały swój głos.</p>
+        <p xml:id="p-2">– Na razie bardzo niewiele osób przyszło zagłosować, może po południu będzie trochę lepiej – mówi Bożena Starczyk, przewodnicząca komisji.</p>
+        <p xml:id="p-3">Podczas pierwszej tury wyborów frekwencja w gminie Skierniewice wyniosła niewiele ponad 41 proc., a w jednym z obwodów przekroczyła ledwie 25 proc. Nic nie wskazuje na to, że tym razem będzie lepiej.</p>
+        <p xml:id="p-4">– Najprawdopodobniej nie pójdziemy głosować – mówi Irena Syndoman, mieszkanka Borowin. – Musielibyśmy dojechać do Sierakowic Prawych, a nie mamy samochodu. Trzeba by było jechać rowerem, a ciągle pada deszcz. Zresztą z gminą mamy niewiele do czynienia i tak naprawdę to wcale nie znam kandydatów – dodaje Irena Syndoman.</p>
+        <p xml:id="p-5">– Podczas pierwszej tury, kiedy wybierani są także radni, głosować przychodzą całe rodziny, by poprzeć swojego kandydata. Wtedy głosują także na wójta. Tym razem o wynikach wyborów zdecydują ludzie, którym naprawdę na tym zależy – mówi Dominik Moskwa, jeden z dwóch kandydatów na wójta.</p>
+        <p xml:id="p-6">Złożywszy swój los w ręce tych mieszkańców, którzy dotarli do lokali wyborczych, kandydaci na wójta w różny sposób radzą sobie ze z wyborczym stresem.</p>
+        <p xml:id="p-7">– Oczywiście, że się denerwuję. Ten dzień spędzam w domu z rodziną, ale telefon wciąż jest pod ręką. Bez względu na wynik wyborów trochę boję się poniedziałku. Z pewnością będzie to dzień inny niż dotychczasowe – mówi Dominik Moskwa.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

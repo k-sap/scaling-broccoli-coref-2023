@@ -1,0 +1,14 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Ten etos rzadko odżywa, ale wciąż tkwi gdzieś w społeczeństwie. Vaclav Havel były prezydent CSRR i Republiki Czeskiej Schorowany Havel unika ostatnio mediów, ale nie mógł milczeć w 15-lecie aksamitnej rewolucji, która wyniosła go do władzy. Na spotkaniu ze studentami w Pradze przypomniał atmosferę tamtych dni: powszechną solidarność, poczucie wspólnoty, gotowość do poświęceń. Dziś niezreformowana partia komunistyczna jest w Czechach trzecią siłą polityczną, a następcą Havla został Vaclav Klaus, najbardziej eurosceptyczny wśród liderów nowych państw Unii. I gdzie ten etos, drogi Vaszku?</p>
+        <p xml:id="p-2">No cóż, Wielka Brytania poparła USA, ale niewiele otrzymała w zamian. Jacques Chirac prezydent Francji Chirac pojechał do Londynu świętować stulecie serdecznego przymierza francusko-brytyjskiego, ale kontekst tej wizyty pojednania - druga kadencja prezydenta Busha i nominacja pani Rice na ministra spraw zagranicznych USA - położył się na niej głębokim cieniem. Premier Blair natychmiast też ripostował: nie układamy naszych stosunków z Ameryką w kategoriach coś za coś. I przypomniał, że Europa i Stany Zjednoczone powinny przestać ze sobą walczyć, a raczej szukać możliwości wspólnych działań.</p>
+        <p xml:id="p-3">Jaka jest różnica między cenzurą w USA a cenzurą w Iranie? Shirin Ebadi irańska laureatka pokojowej Nagrody Nobla Ebadi, profesor prawa na uniwersytecie teherańskim, ma ogromne zasługi w walce o prawa ludzkie w Iranie ajatollahów. Teraz skarży amerykańskie ministerstwo skarbu pod zarzutem, że jego interpretacja embarga na handel z Iranem uniemożliwia publikację książki Ebadi w Stanach. Tego samego tomu wspomnień nie chcą jej wydać w Iranie. Stąd gorzkie pytanie noblistki. Mało kto - może z wyjątkiem prawników wyszukujących luki i sprzeczności w prawie - zrównywałby USA z Iranem pod względem wolności słowa. Ale trudno zaprzeczyć, że Ebadi znalazła się w sytuacji kafkowskiej.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

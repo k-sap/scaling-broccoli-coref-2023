@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Słowacy rozpoczęli mistrzostwa w tej samej grupie co polska reprezentacja z którą już w pierwszym meczu wygrali 7: 0. Następnym rywalem była Ukraina pokonując ją 5: 4. W ostatnim meczu grupowym Słowacy grając z Finami przegrali 1: 3. Z bilansem dwóch zwycięstw i jedną porażką awansowali do drugiej fazy grupowej. Przeciwnikami zostali Szwedzi, Austriacy i Rosjanie. W pierwszym meczu spotkali się z gospodarzami turnieju. Przed pierwszą przerwą Szwedzi prowadzili 1: 0, lecz to Słowacy wygrali 2: 1. Następnym rywalem była Austria (najgorsza drużyna tej fazy turnieju). Słowacy szybko wyszli na prowadzenie i po pierwszej tercji prowadzili 3: 0 wygrywając mecz 6: 3. Ostatnim przeciwnikiem w tej fazie była reprezentacja Zbornej pokonując ją 6: 4 w meczu rozegranym w Göteborgu. W ćwierćfinale przeciwnikiem została Kanada, którą pokonali 3: 2. A półfinale ponownie zagrali z gospodarzami imprezy, ze Szwedami. Mecz zaczął się od przewagi Szwedów. Wynikiem czego był gol na 1: 0. Po przerwie padły dwa gole. Jeden dla Szwedów, a drugi dla Słowaków. Trzecią tercje wygrali Słowacy 1: 0 i mecz miał trwać dalej. Zarządzano dogrywki. W tej fazie meczu nikt nie zdobył gola i o tym kto awansuje do finału zdecydowały rzuty karne w których zwyciężył zespół słowacki finałowym wynikiem meczu 3: 2. W finale Słowacja zmierzyła się z Rosją, która po raz pierwszy od dziewięciu lat zagrała w finale. Słowacy wygrali 4: 3 (2: 0, 1: 1, 1: 2) zdobywając po raz pierwszy tytuł mistrza świata. Po powrocie zespołu Bratysławy odbyły się obchody tryumfalne, podczas których prezydent Rudolf Schuster pogratulował zwycięzcom. Najlepszym strzelcem mistrzostw został Peter Bondra, a najaktywniejszym Miroslav Šatan.</p>
+        <p xml:id="p-2">Nieudana obrona mistrzostwa</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

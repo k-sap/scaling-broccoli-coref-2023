@@ -1,0 +1,14 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Skorom powrócił do domu, ojciec mój, nakupiwszy sukna, sajety i bławatu, posłał do miasta po Żydów-krawców, dla zrobienia mi sukien; uważałem, że na coś się wielkiego zanosi. Jakoż dnia jednego, przywoławszy mnie do siebie, tak mówił:</p>
+        <p xml:id="p-2">- Wacławie, ten wąs, który ci się tak bujnie wysypał, przypomina, że już e pubertate et adolescentia wyszedłeś, florentemque iuven tutem dostąpiłeś, czas jest myśleć o przyszłej krescytywie: ponieważ ad Ecclesiam etc. palaestram nie masz wielkiej inklinacji, nie zostaje jak się udać do dworu pańskiego, i do tego zamyślam cię oddać; dawne przysłowie niesie, trzymaj się choć klamki dworskiej. JWHetman W. jest z dawna na familią naszą łaskawy, brat mój a stryj twój trzyma od niego w dożywociu dwie piękne wsie, Małe i Wielkie Buławki: prawda, że ten 30 lat na wiernych usługach jego strawił, a będąc deputatem do wygrania mu trzech znacznych spraw participavit, może i Waszmość non indignum his beneficiis ujrzysz się: to pan wielki, zacny, który immortalitate swoich brevitatem annorum rozszerzył. Zasługuj mu się więc tam in toga, quam in sago, pełnij ślepo wszystkie rozkazy, bądź bacznym na wszystkie jego skinienia.</p>
+        <p xml:id="p-3">Upadłem ojcu mojemu do nóg i przyrzekłem zlecenia jego zachować. Ojciec mój dał mi porządny półkrytek, sześć koni do niego, dwa konie powodne, dwóch pacholików, jednego pajuka i 500 tynfów do kieszeni. Wyjechaliśmy więc do rezydencji JWHetmana; stupefactus fui wspaniałością gmachu, a bardziej jeszcze licznym dworem sług i rycerstwa, które go otaczało. Persona JWHetmana była dziwnie poważna, nieco ad corpulentiam inclinans; ojciec mój, submitując się do stóp pańskich, tak mówił:</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

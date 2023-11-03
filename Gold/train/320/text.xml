@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Jaki był wpływ karykatury antyniemieckiej na społeczeństwo polskie przed wybuchem II wojny światowej? Jedno nie ulega wątpliwości - karykatura miała wówczas o wiele większą siłę docierania do umysłów niż dzisiaj. Przedwojenną karykaturę należy uznać za masowy nośnik informacji dostępnej wszędzie. Nie było zakładu fryzjerskiego, poczekalni lekarskiej czy kawiarni bez najświeższego numeru "Muchy" czy innych podobnych pism - piszą H. Górska i E. Lipiński w książce Z dziejów karykatury polskiej (Warszawa 1977). Jako że karykatura należy do wizualnych środków przekazu, trafić mogła także do osób nie potrafiących czytać, a w Polsce było wówczas ponad 23% analfabetów. Ci ludzie mogli być nawet szczególnie podatni na jej wpływy.</p>
+        <p xml:id="p-2">Militaryzm III Rzeszy dla szarego obywatela Niemiec, godzącego się z wyrzeczeniami w imię realizacji perspektyw nowych Niemiec, w oczach satyryków skończyć musi się głodem. Idee ideami, ale jeść trzeba! ("Mucha" 1936)</p>
+        <p xml:id="p-3">Tematem, który dominował w ówczesnej karykaturze, była polityka, wykorzystująca ją dla swych propagandowych celów, nierzadko manipulująca historią. Jakie były reakcje wywołane przez dowcip rysunkowy? Czy rysunki wzbudzały emocje? Czy i w jakim stopniu karykatura kopała przepaść między narodami, czy skłaniała do nienawiści? To pytania do dyskusji. Z całą pewnością jednak trzeba powiedzieć, że masowość i wszechobecność karykatury antyniemieckiej połączona z systematycznie rosnącą atmosferą wojennego zagrożenia nie pozostała bez wpływu na sposób postrzegania zachodniego sąsiada.</p>
+        <p xml:id="p-4">Ilustracje pochodzą ze zbiorów Biblioteki Jagiellońskiej.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

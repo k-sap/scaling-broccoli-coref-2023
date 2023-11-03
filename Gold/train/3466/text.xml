@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Można by powiedzieć - tak jest wygodniej, ludzie nie siedzą sobie na głowach. Ale zdaniem urbanistów to czyste marnotrawstwo. Tym bardziej że nie zyskujemy na takim rozproszeniu dodatkowych placów zabaw, parków, obiektów sportowych czy wygodnych dróg. W ciekawych badaniach przeprowadzonych w USA Peter Newman i Jeff Kenworthy udowodnili, że przy gęstości zaludnienia miast 1,5 tys. na km kw. statystyczny mieszkaniec pokonuje codziennie 11 km, przy 5 tys. - 4,5 km, a przy 16 tys. - zaledwie 1,5 km. Nie trzeba zresztą naukowych wyliczeń; wystarczy popatrzeć na ulice polskich miast w godzinach szczytu. - Niekontrolowana, bezplanowa suburbanizacja powoduje straty ekologiczne i jest nieekonomiczna. Jest trudna do opanowania przez transport miejski i wymaga gigantycznych nakładów na uzbrajanie coraz to nowych terenów; podciąganie mediów, budowę dróg, ale też przedszkoli, szkół, ośrodków zdrowia. Utrwala substandardowe warunki życia - przekonuje dr Adam Kowalewski.</p>
+        <p xml:id="p-2">Wraz z suburbanizacją następuje dezurbanizacja, czyli zamieranie życia w centrach miast. Wyprowadzają się z nich mieszkańcy, a na ich miejsce wkraczają banki i biurowce. Coraz rzadziej umawiamy się na rynku, idziemy do knajpki lub kina w centrum miasta czy spacerujemy po śródmieściu. Te funkcje przejęły teraz okupujące peryferia wielkie centra handlowe. Gdy nadchodzi wieczór, po głównych ulicach głównie hula wiatr. Miasto w swych tradycyjnych granicach spełniało zawsze wiele potrzeb: bezpieczeństwa, zapewnienia środków do życia, codziennego komfortu, międzyludzkich kontaktów, ale też przytulności czy estetycznej satysfakcji. Co z tego się ostało?</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

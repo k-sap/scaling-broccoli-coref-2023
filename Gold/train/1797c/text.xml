@@ -1,0 +1,12 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Minęła 15 rocznica powołania gen. Wojciecha Jaruzelskiego na urząd prezydenta Polski. Z tej okazji weterani Logistyki Sztabu Generalnego WP napisali list do "Przeglądu": "Z dumą i szacunkiem podziwiamy skromne, pracowite życie Pana Generała, chlubną Służbę Ojczyźnie, wiekopomne zasługi, które historia w swoich annałach już zapisała złotymi zgłoskami".</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

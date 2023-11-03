@@ -1,0 +1,29 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Grześ potrząsnął głową.</p>
+        <p xml:id="p-2">- Żadnego generała.</p>
+        <p xml:id="p-3">- Nie żartuj! To może być zwykły szeregowy.</p>
+        <p xml:id="p-4">- Ale nikogo takiego nie było. A na naszym terenie nie ma żadnej wojskowej jednostki.</p>
+        <p xml:id="p-5">Marek uśmiechnął się. W ciemnościach nie było tego widać.</p>
+        <p xml:id="p-6">- Tak myślisz? Kiedyś przy niemieckiej granicy było mnóstwo Rosjan. Dziś, w lasach, pewnie siedzą nasi.</p>
+        <p xml:id="p-7">Grześ podrapał się za uchem.</p>
+        <p xml:id="p-8">- Fakt. Ruscy tu byli. Zapomniałem. Ale ten "Spluwa" ma wokół siebie tylko tych "kosmitów".</p>
+        <p xml:id="p-9">- Facetów na motorach? Z czarnymi kaskami? Jeden blondyn, a drugi ma tatuaż z pająkiem?</p>
+        <p xml:id="p-10">Grześ zagwizdał. Wyrażał w ten sposób swoje uznanie.</p>
+        <p xml:id="p-11">- Dużo wiesz. A jesteś tutaj od niedawna. Aha, jeszcze jedno: oni to potem przerzucają dalej. Coś wspominali o kempingu turystycznym w Wilkowie.</p>
+        <p xml:id="p-12">- Gadali o tym przy tobie? - Marek czuł, że zasypia na stojąco.</p>
+        <p xml:id="p-13">- No tak.</p>
+        <p xml:id="p-14">- Dziwne. Wygląda, jakby chcieli, żebyś to usłyszał. Muszę to wszystko przemyśleć. Ale nie dziś.</p>
+        <p xml:id="p-15">- To ja już pójdę. - Grześ zaszurał sandałami na bosych stopach. - Kiedy znów mi zlecą przewóz, to co mam robić?</p>
+        <p xml:id="p-16">- Koniecznie zabrać mnie z sobą.</p>
+        <p xml:id="p-17">- Dobra, cześć.</p>
+        <p xml:id="p-18">W oknach facjatki paliło się światło. Znak, że Mirella była już u siebie. W restauracji trwały ostatnie porządki. Marek wspiął się po schodach do swojego "salonu". Łóżko rozkopane tak, jak je zostawił rano. Wsunął się pod koc, czując całym ciałem jego miękkość. Od niedawna dopiero sypiał nago. W jego plecaku nie znalazła się piżama - relikt przeszłości. Tamte czasy i tamte zwyczaje minęły bezpowrotnie. Nie żałował ich. Myśli płynęły wolno, pochłaniał go sen, przyjaciel zawiedzionych.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

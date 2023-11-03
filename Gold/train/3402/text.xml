@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Jego niezwykła pasja zrodziła się ponad 30 lat temu, kiedy jako pracownik FUM-u wiele czasu spędzał w przyzakładowym hotelu. Tam podpatrzył ciekawy sposób wykorzystania klamerek do wieszania prania oraz puszek po kupowanym w Pewex-ie piwie. Postanowił nauczyć się tego, jak jedne umieszczać na drugich, aby uzyskać widoczny na fotografiach efekt. Tak oryginalne hobby nie mogło ujść uwadze jego kolegów z pracy. Wkrótce rozpoczęła się wręcz masowa produkcja kufli, wazoników, a także krzesełek będących autorskim pomysłem T. Cierlaka. Dzięki temu, że w swoim czasie FUM kooperował z firmami z całego niemal świata, do Ostrzeszowa często zjeżdżali ich przedstawiciele. Również oni nie byli w stanie przejść obojętnie obok tych małych dzieł sztuki. Sypnęło więc zamówieniami z Austrii, Niemiec, Rosji, Czechosłowacji, Holandii, Hiszpanii, a nawet Chin i RPA. Jak szacuje p. Tadeusz, za granicę wyekspediował łącznie ok. 1000 sztuk takich prezentów! Bywało nawet, że aby wywiązać się ze wszystkich zamówień, musiał brać kilka dni urlopu. Teraz jest już spokojniej. Po pierwsze, będąc na stałym zasiłku przedemerytalnym nasz bohater ma więcej czasu na realizację swojej pasji. Po drugie zaś, krąg zainteresowanych ogranicza się obecnie do członków rodziny i znajomych. Pretekstem do obdarowania są urodziny, imieniny i inne okazje.</p>
+        <p xml:id="p-2">Od końca ubiegłego roku T. Cierlak dzieli swoje hobby z Ø sąsiadem - Janem Krawczykiem. Pan Jan nie ukrywa, że dla osoby bezrobotnej jest to doskonała forma wypełnienia sobie czasu. Tego samego zdania jest jego żona, która z własnej inicjatywy kupiła mu pierwszy zapas klamerek. Współpraca obu panów układa się najwyraźniej bardzo dobrze.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

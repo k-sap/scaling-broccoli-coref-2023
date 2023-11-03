@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Partia Demokratyczna wraca na wielką scenę polityczną - zapowiedział Janusz Onyszkiewicz (z prawej) po wyborze na nowego przewodniczącego PD. Miażdżącą przewagą głosów 288 do 39 pokonał zgłoszonego w ostatniej chwili Zbigniewa Fornala, prawnika i bankowca z podwarszawskiego Piaseczna, który, jak mówił "Polityce", zgłosił się, bo chciał powiedzieć, co mu "leży na wątrobie".</p>
+        <p xml:id="p-2">Dotychczasowy szef demokratów Władysław Frasyniuk w ogóle zrezygnował z kandydowania, czym sprawił zawód wielu spośród ponad 500 biorących udział w kongresie w warszawskim hotelu Gromada delegatów. To, że wciąż cieszy się dużym poparciem kolegów, okazało się podczas wyborów do Rady Krajowej. Frasyniuk otrzymał wówczas największą liczbę głosów ze wszystkich kandydatów. Marek Edelman nie mógł mu jednak wybaczyć rezygnacji z funkcji szefa PD: - Jesteś korzeniem tej partii - mówił. - Dziś potrzeba dyplomaty, który potrafi rozmawiać z Donaldem Tuskiem i Wojciechem Olejniczakiem - przekonywał Frasyniuk.</p>
+        <p xml:id="p-3">Dotychczasowy lider demokratów zdecydowanie poparł Onyszkiewicza i zadeklarował, że jeśli zabraknie mu sił, to on będzie "turbodoładowaniem": - By zmusić Janusza do wejścia na wyższe obroty - deklarował Frasyniuk.</p>
+        <p xml:id="p-4">To może się okazać potrzebne. Po nieudanych wyborach parlamentarnych i prezydenckich partia potrzebuje aktywnego lidera, który nada jej nowy ton. Część działaczy obawia się jednak, że nowy szef partii może mieć z tym kłopot, bo jako eurodeputowany i wiceprzewodniczący Parlamentu Europejskiego co najmniej dwa dni każdego tygodnia musi spędzać w Brukseli. Mimo tego Onyszkiewicz ma szerokie plany. Chciałby, by w zbliżających się wyborach samorządowych partia osiągnęła 7-proc. poparcie. Na razie jednak w sondażach oscyluje wokół jednego procenta. W rozmowie z "Polityką" Onyszkiewicz zapowiedział, że będzie szefem tylko na jedną 3-letnią kadencję. - Mam nadzieję, że w tym czasie ujawni się jakiś inny kandydat.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

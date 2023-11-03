@@ -1,0 +1,39 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">BOŻENKA</p>
+        <p xml:id="p-2">Ale...</p>
+        <p xml:id="p-3">MARIA</p>
+        <p xml:id="p-4">Ja to później pozbieram... Widzi pani... Muszę porozmawiać z Ø mamą i...</p>
+        <p xml:id="p-5">BOŻENKA</p>
+        <p xml:id="p-6">Chce pani być sama... Rozumiem, chociaż przysięgam, że ja nigdy nie podsłuchuję i jak nawet coś słyszę, to przypadkowo...</p>
+        <p xml:id="p-7">MARIA</p>
+        <p xml:id="p-8">Wiem, wiem... Ale tak będzie najlepiej...</p>
+        <p xml:id="p-9">BOŻENKA</p>
+        <p xml:id="p-10">No dobrze... To do widzenia...</p>
+        <p xml:id="p-11">Bożenka wychodzi. Widać, że zakłada buty, płaszcz. Maria ciężko wzdycha i idzie do pokoju Urszuli.</p>
+        <p xml:id="p-12">Scena</p>
+        <p xml:id="p-13">WNĘTRZE. DZIEŃ. DOM MARII. POKÓJ URSZULI. MARIA, URSZULA</p>
+        <p xml:id="p-14">Maria po cichu wchodzi do pokoju Urszuli. Urszula siedzi na fotelu zapatrzona gdzieś w dal. Maria siada obok niej.</p>
+        <p xml:id="p-15">MARIA</p>
+        <p xml:id="p-16">Mamo...</p>
+        <p xml:id="p-17">URSZULA</p>
+        <p xml:id="p-18">SPOKOJNIE</p>
+        <p xml:id="p-19">Mówi się, że mężczyzna w życiu powinien spłodzić syna... zbudować dom i zasadzić drzewo...</p>
+        <p xml:id="p-20">Maria spogląda na Urszulę w obawie czy nie zwariowała.</p>
+        <p xml:id="p-21">Wtedy jego życie ma sens... może umierać spokojnie...</p>
+        <p xml:id="p-22">PAUZA</p>
+        <p xml:id="p-23">Zastanawiałam się, kiedy można mówić o tym, że życie kobiety miało sens... Ale nic mi nie przychodzi do głowy...</p>
+        <p xml:id="p-24">PAUZA</p>
+        <p xml:id="p-25">Wiem tylko, kiedy kobieta przegrywa swoje życie...</p>
+        <p xml:id="p-26">Urszula spogląda na Marysię.</p>
+        <p xml:id="p-27">Kiedy nie potrafi kochać swoich dzieci...</p>
+        <p xml:id="p-28">Nagle w oczach Urszuli pojawiają się łzy, które spływają po jej policzkach.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

@@ -1,0 +1,19 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">W chwili przejęcia Ø długi szpitala obciążają budżet powiatu. Ich częściową spłatę umożliwiłoby sprzedaż, zdaniem zarządu części zbędnego majątku szpitala.</p>
+        <p xml:id="p-2">- Zdajemy sobie sprawę, że to rozwiązanie może wzbudzić wiele kontrowersji, ale nie mamy innego wyjścia - twierdzą członkowie zarządu.</p>
+        <p xml:id="p-3">O programie restrukturyzacji i propozycji Zarządu Powiatu, radni będą dyskutować 8 czerwca. Już dziś wiadomo, że części z nich, a na pewno opozycji, nie przypadł on do gustu.</p>
+        <p xml:id="p-4">- Przygotowany dokument jest kiepski i nie pokazuje tak naprawdę żadnych rozwiązań - ocenia członek Komisji Zdrowia Rady Powiatu, radny PiS Krzysztof Lipiec. - Wybrany przez zarząd kierunek działania doprowadzi do tego, że zlikwiduje się dwa podmioty służby zdrowia - szpital i dobrze prosperujący ZOZ.</p>
+        <p xml:id="p-5">Decyzji władz powiatu przeciwni są także pracownicy szpitala.</p>
+        <p xml:id="p-6">- Zarząd Powiatu zafundował nam nowość prasową - mówiła Aleksandra Markowska, rzecznik prasowy związkowców - Nie da się przecież zrobić żadnych przekształceń bez załogi, a to, co przeczytaliśmy w prasie jest to typowe łapanie miejsc pracy tamtego ZOZ. Jeżeli Zarząd Powiatu nie chce przyjść do nas, to my przyjdziemy do zarządu. Nawet ze śpiworami. Program restrukturyzacji przygotowany przez Leszka Waksmundzkiego jest programem ratowania ZOZ, nie naszego PZOZ.</p>
+        <p xml:id="p-7">Związkowcy podkreślali, że są zaskoczeni decyzją zarządu. Oczekują, że władze powiatowe poinformują załogę o powodach decyzji i dlaczego została ona podjęta bez konsultacji z załogą.</p>
+        <p xml:id="p-8">- Przyłączenie naszego dużego szpitala do małego "szpitalika" to jakby Monako przyłączyć do Francji - mówi Aleksandra Markowska.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

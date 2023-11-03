@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">W rozmowach przygotowawczych do Okrągłego Stołu obaj byli początkowo przez stronę solidarnościową trzymani w cieniu, by nie denerwować władz. Michnik był w tym czasie doradcą Wałęsy, cieszącym się jego całkowitym zaufaniem. Był rzecznikiem rozmów z władzami i szukania uczciwego kompromisu. W czasie inauguracyjnego posiedzenia Komitetu Obywatelskiego (18 grudnia 1988 r.) mówił: "I teraz, myśląc o przyszłości, trzeba myśleć w kategoriach kompromisu. I trzeba myśleć w kategoriach Polski dla wszystkich. Polski, w której będzie także miejsce dla znacznej części obecnego aparatu władzy i administracji". Wtórował mu Kuroń: "z tą władzą można się porozumieć także na takim oto gruncie, że ona ustępuje wobec nacisku społecznego, wobec różnego rodzaju konieczności i różnych układów ich wewnętrznej gry. I z taką sytuacją najprawdopodobniej będziemy mieli do czynienia" (Andrzej Garlicki, dz. cyt., s. 196-197).</p>
+        <p xml:id="p-2">Niemal do ostatniej chwili władze zgłaszały sprzeciw wobec udziału Michnika i Kuronia w obradach Okrągłego Stołu. Im bliżej inauguracji, tym bardziej sprzeciwy te łagodniały. Zdano sobie bowiem sprawę, że tych dwóch polityków nie uda się wyeliminować z procesu porozumienia. Znaleźli się więc w składzie delegacji, wkraczającej na czele z Lechem Wałęsą 6 lutego 1989 r. do Pałacu Namiestnikowskiego. Michnik wspomina, że usiłował uniknąć przywitania się z Kiszczakiem, co mu się jednak nie udało. Wymienili więc uścisk dłoni. W czasie kolacji, na którą Kiszczak zaprosił uczestników inauguracyjnego posiedzenia, przy jego stoliku znaleźli się Wałęsa, Kuroń, Michnik i Mazowiecki. Gen. Kiszczak był mistrzem w przełamywaniu lodów.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

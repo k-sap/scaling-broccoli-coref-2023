@@ -1,0 +1,19 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">11. Przeglądnij ponownie swoje "znaleziska".</p>
+        <p xml:id="p-2">Odszukana za pomocą wyszukiwarki strona WWW nie musi być stroną główną serwisu. Dobrze zaprojektowany serwis jest wyposażony w narzędzia nawigacji między swoimi stronami, w tym w łącze prowadzące do strony głównej. Łącze to nie zawsze rzuca się w oczy, przesuwaj więc myszą, aby wskaźnik zmienił się, przybierając postać dłoni Czasami do strony głównej prowadzi odnośnik tekstowy - o treści na przykład strona główna; na innych może to być logo firmy. Czasami można dostać się do strony głównej, usuwając z pola adresowego wszystkie dodatkowe informacje i pozostawiając tylko nazwę domeny.</p>
+        <p xml:id="p-3">Portale</p>
+        <p xml:id="p-4">Internetowe serwisy informacyjne mogą Ci zastąpić codzienną prasę. Jest ich tak wiele, że na pewno znajdziesz coś, co odpowiada Twoim zainteresowaniom i gustom. Serwisy te to tak zwane portale.</p>
+        <p xml:id="p-5">Portale mogą być horyzontalne lub wertykalne. Portale horyzontalne, na przykład takie jak Wirtualna Polska czy Onet, są wielotematyczne: podają wiadomości, informacje kulturalne, prognozę pogody itp. Oferują też często dodatkowe usługi (na przykład zakupy internetowe, darmowe konta e-mail, katalogi ciekawych stron WWW). Natomiast portale wertykalne - tak zwane wortale - koncentrują się na jednym zagadnieniu, np. na muzyce, motoryzacji, turystyce lub jeszcze na czymś innym. Tabela 3.1 prezentuje adresy niektórych z portali - może znajdziesz coś dla siebie.</p>
+        <p xml:id="p-6">Rozdział 3.</p>
+        <p xml:id="p-7">Internet źródłem informacji</p>
+        <p xml:id="p-8">Ciekawe miejsce w internecie dla poszukujących wiedzy.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

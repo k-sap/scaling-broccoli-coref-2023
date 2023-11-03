@@ -1,0 +1,12 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Może być tak, że w wyniku referendum zostanie przyjęty akt, który w drodze wyjątku zezwoli Łukaszence startować w wyborach po raz trzeci. Mikołaj Łazawik sekretarz Białoruskiej Centralnej Komisji Wyborczej Białoruska CKW nie wyklucza, że może zostać przyjęty specjalny akt konstytucyjny, który - bez zmiany ustawy zasadniczej da prezydentowi Aleksandrowi Łukaszence prawo do kandydowania na trzecią kadencję. Sam Łukaszenko pewnie chętnie poszedłby w ślady stojącego na czele Turkmenistanu Saparmurada Nijazowa, który przyznał sobie dożywotnio tytuł Ojca Wszystkich Turkmenów.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

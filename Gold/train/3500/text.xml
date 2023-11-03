@@ -1,0 +1,12 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">"Goodbye Bafana" to dziwne przedsięwzięcie, jednak bardzo typowe dla dzisiejszej kinematografii. Produkcja międzynarodowa (Niemcy, Belgia, RPA, Wielka Brytania, Luksemburg), reżyserem Ø jest Duńczyk Bille August, w głównych rolach wystąpili m.in. znany angielski aktor Joseph Fiennes i Niemka Diane Kruger (piękna Helena z "Troi"). Film opowiada zaś o Nelsonie Mandeli. Akcja Ø zaczyna się w 1968 r., kiedy apartheid jest oficjalną doktryną państwową, czyniącą z 25 mln czarnoskórych mieszkańców obywateli drugiej kategorii. Buntownicy trafiają do więzień, jak najbardziej znany z nich Mandela, skazany na dożywocie. "Goodbye Bafana" nie jest jednak filmem biograficznym, pokazującym heroiczne zmagania legendarnego bojownika o wolność. To raczej kino psychologiczne z dwoma bohaterami w rolach głównych. Jednym jest właśnie Mandela (Dennis Haysbert), drugim strażnik więzienny James Gregory grany przez Fiennesa. Mamy tu znany także z literatury schemat: kat i jego ofiara. Ten pierwszy ma, wydawać by się mogło, miażdżącą przewagę, stoi bowiem za nim aparat ucisku państwa; za tym drugim przemawiają jedynie racje moralne. Ale to bardzo niebezpieczna broń. W filmie sytuacja jest jeszcze bardziej skomplikowana, ponieważ strażnik nie jest człowiekiem z gruntu złym. W dzieciństwie miał czarnoskórego przyjaciela, poznał język Xhosa, dlatego zresztą powierzono mu tę szczególną misję. Władze nie przewidziały jednak, że dzięki znajomości języka strażnik będzie mógł się porozumiewać ze swym głównym podopiecznym, a nawet zacznie rozumieć jego racje. Oglądając "Bafanę" na festiwalu w Berlinie, zastanawiałem się, dlaczego nie powstał jeszcze film o Lechu Wałęsie? Niechby chociaż w krajowym wydaniu.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Magda za złotówkę Mieszkaniec Oświęcimia za bilet na występ Ich Troje, który odwołano (bo podobno organizator przywłaszczył sobie kasę), żądał tylko 2 zł 55 groszy. Fan Ich Troje z Warszawy proponuje siedem fotek grupy (jeszcze z Justyną w składzie) wykonanych podczas koncertu. Cena - 15 zł. Wśród przedmiotów dotyczących zespołu Michała Wiśniewskiego przeważają oczywiście płyty i książki. Ich ceny na ogół niewiele odbiegają od tych sklepowych. Ale zwolennicy grupy mieli też okazję zobaczyć, jak wygląda dawna wokalistka kapeli Magda Femme na zdjęciach w piśmie dla panów. Magazyn sprzedano za... złotówkę. Za 2 do 5 zł można nabyć fotki nagiej Anity Lipnickiej opublikowane w "Playboyu"</p>
+        <p xml:id="p-2">Autograf Krawczyka za 5 zł Wśród innych wykonawców związanych z Łodzią na internetowej giełdzie można znaleźć płyty Trubadurów, No To Co, Bractwa Kurkowego 1971, Krzysztofa Krawczyka, Michała Urbaniaka i Blue Cafe. Np. za oryginalną czarną płytę No To Co sprzed 30 lat pt. "W malowanej piwnicy" trzeba zapłacić 20 zł. Co ciekawe, tańsze są zupełnie współczesne kompakty tej grupy... Przeważnie kosztują 15 zł. Znaleźliśmy też longplaye supermodnej w latach 70. grupy Happy End (przebój "Jak się masz kochanie"). Trzeba za nie zapłacić od kilku do 32 zł (w zależności od stanu płyt). Fani Krzysztofa Krawczyka już za 5 zł mogą kupić kompakt piosenkarza z jego autografem zdobytym w ubiegłym roku po koncercie w Świnoujściu. Także za "piątaka" internauta z Krakowa proponuje oryginalne zdjęcie piosenkarza sprzed 30 lat</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

@@ -1,0 +1,31 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">ARTUR - Wyjść! Wszyscy za drzwi!</p>
+        <p xml:id="p-2">STOMIL - A to co znowu?</p>
+        <p xml:id="p-3">ARTUR - Precz! Żebym was tu więcej nie widział!</p>
+        <p xml:id="p-4">STOMIL - To tak się traktuje własnego ojca?</p>
+        <p xml:id="p-5">ARTUR - Ojciec był przedtem, ojca już nie ma! Ja ojca dopiero stworzę!</p>
+        <p xml:id="p-6">STOMIL - Ty? Mnie?</p>
+        <p xml:id="p-7">ARTUR - Ciebie i was wszystkich. Stworzę was na nowo. A teraz precz, idźcie już, wszyscy!</p>
+        <p xml:id="p-8">STOMIL - On za wiele sobie pozwala.</p>
+        <p xml:id="p-9">ELEONORA - Nie przejmuj się dzieckiem, Stomilu. Jesteśmy przecież uświadomieni.</p>
+        <p xml:id="p-10">STOMIL - Mam wyjść?</p>
+        <p xml:id="p-11">ELEONORA - Chodźmy. Cóż cię obchodzi poza twoim eksperymentem?</p>
+        <p xml:id="p-12">STOMIL - Tak, sztuka! Sztuka nowoczesna. Dajcie mi Boga, a zrobię z niego eksperyment!</p>
+        <p xml:id="p-13">ELEONORA - No widzisz... (wychodzą drzwiami w ścianie na wprost, po lewej)</p>
+        <p xml:id="p-14">EDEK (do Eugenii) - Idziemy, babuś?</p>
+        <p xml:id="p-15">EUGENIA - Bierz karty. (Edek zbiera karty. Wychodzą razem z Eugenią)</p>
+        <p xml:id="p-16">EDEK (odwracając się) - Panie Artku, jakby pan czego potrzebował...</p>
+        <p xml:id="p-17">ARTUR (tupiąc nogami) - Won!</p>
+        <p xml:id="p-18">EDEK (ugodowo) - Ale dobrze, dobrze... (wychodzi z Eugenią za kulisę na lewo)</p>
+        <p xml:id="p-19">EUGENIUSZ (upewniając się, czy tamci już wyszli) - Masz rację, Arturku. Między nami mówiąc, to hołota.</p>
+        <p xml:id="p-20">ARTUR - Wujek też wyjdzie.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

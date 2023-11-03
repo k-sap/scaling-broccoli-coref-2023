@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Warunki naturalne</p>
+        <p xml:id="p-2">Obejmuje ok. 3500 km² obszaru jednego z ostatnich pierwotnych lasów deszczowych w Afryce Zachodniej. Jest to największa enklawa leśna w tym regionie kontynentu. W południowej części parku lasy pokrywają lekko pofałdowaną równinę (najwyższy szczyt Niénokué, ok. 623 m n.p.m.). Występują tuwysokie na 40-60 metrów drzewa oplatane lianami i porośnięte epifitami tworzące gęsty dach. Botanicy naliczyli 1300 gatunków roślin wyższych, z czego ponad połowa występuje tylko w tym parku. Żyje tu też wiele zagrożonych gatunków zwierząt, m. in. hipopotam karłowaty. Spotyka się też słonie, lamparty i liczne gatunki małp, ptaków i gadów.</p>
+        <p xml:id="p-3">Zagrożenia</p>
+        <p xml:id="p-4">Ze względu na trwającą w kraju wojnę domową i związane z nią wzmożone kłusownictwo organizacja UNESCO w ostatnim czasie uznała park za miejsce zagrożone na liście dziedzictwa ludzkości. Szczególnie zagrożonymi zwierzętami w parku są słonie ze względu na cenny towar, jakim jest kość słoniowa. Populacja słoni zmalała w latach 1979-1999 z 1800 do zaledwie 100 osobników. Dodatkowo hipopotamy są dla tamtejszej ludności cennym mięsem, podobnie jak małpy i antylopy. Krokodyle i lamparty giną natomiast z uwagi na fakt, iż ich cenne skóry stanowią główne źródło zarobków dla wielu osób zamieszkujących obrzeża parku. Dla ochrony parku przed osadnikami, drwalami i poszukiwaczami złota, park otoczono szeroką szosą, lecz to przyczynia się tylko do szybszej jego zagłady. Ponadto teren ten jest narożony na katastrofalne powodzie, erozja gleby oraz 30% spadek ilości opadów.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

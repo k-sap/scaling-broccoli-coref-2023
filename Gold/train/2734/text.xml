@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Jeszcze inaczej wyglądały relacje między redaktorem "Kultury" a Iwanem Kedrynem-Rudnyckim (1896-1995). Kedryn był jedną z tych postaci ukraińskiego życia publicznego, które Giedroyć znał i z którymi współpracował jeszcze przed wojną. W 1939 r., jak wielu inteligentów galicyjskich, uciekł spod okupacji sowieckiej do Generalnej Guberni, do Krakowa. Od 1944 r. przebywał w Austrii, gdzie po zakończeniu II wojny światowej przewodniczył Ukraińskiemu Centralnemu Zjednoczeniu Pomocowemu (Ukrajinśkie Centralne Dopomohowe Objednannja). W 1949 r. wyemigrował do Stanów Zjednoczonych, gdzie początkowo utrzymywał się z pracy w fabryce. Dopiero w 1953 r. dostał posadę w redakcji największej gazety ukraińskiej w USA - "Swoboda" ("Wolność"), gdzie pracował do 1973. Obok "Swobody" współpracował z "Wistiami Kombatanta" - organem Związku Byłych Żołnierzy Ukraińców w Ameryce. Nie zaprzestał też działalności politycznej: przez pewien czas był przewodniczącym prezydium Ukraińskiej Rady Narodowej (rodzaj ukraińskiego parlamentu na wychodźstwie), członkiem władz partyjnych Ukraińskiego Zjednoczenia Narodowo-Demokratycznego.</p>
+        <p xml:id="p-2">Być może, to właśnie powojenny chaos, przyziemne trudności komunikacyjne oraz niepewna sytuacja ukraińskich emigrantów sprawiły, że Kedryn nie nawiązał kontaktu z redaktorem "Kultury" w czasie swojego pobytu w Europie. Mniej zrozumiałe jest jego milczenie już w okresie amerykańskim. Tym bardziej, że jego bratanek, Łysiak-Rudnycki, już w 1951 r. zapowiada, że stryj gotów jest prowadzić kronikę ukraińską na łamach "Kultury". Do tego rodzaju współpracy nigdy jednak nie doszło. Sam Kedryn nawiązał kontakt z Giedroyćiem w 1952 r., jednak po wymianie zaledwie kilku listów nastąpiła przerwa w korespondencji do 1976 r., a w 1979 r. ostatecznie się urwała. Pomimo różnych zapowiedzi ostatecznie Kedryn w "Kulturze" opublikował zaledwie jeden artykuł.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

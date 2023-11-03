@@ -1,0 +1,14 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">– Jest w nich takie światło – tłumaczy. – Czytam, że Gabrysia płakała, kiedy odkryła, że jej córka Tygrysek skłamała, i jest to dla mnie taki moralny azymut. Te książki pomagają odróżnić dobro od zła, dobrą miłość od złej, zakochanie od prawdziwego uczucia. Przekazują, że trzeba mieć szacunek dla wyborów dziecka. Rodzice muszą wskazywać swoją postawą, co jest dobre, a co złe, ale decyzję pozostawić dziecku. Pedagogika według Musierowicz to trochę jak podręcznik ogrodnictwa: dużo słońca, podlewać, ale też ucinać w porę niesforne pędy. Pamiętać o potrzebach dziecka, ale też pilnować, żeby zauważało potrzeby rodziców.</p>
+        <p xml:id="p-2">Dla Violetty Nowakowskiej Małgorzata Musierowicz to duchowy przewodnik, który odsłania przed czytelnikiem kolejne wartości: – Opisuje na przykład taką Kreskę, która ukrywała swoją biedę pod pięćdziesięciometrowym szalikiem i przez to wyglądała inaczej – tłumaczy. – I pokazuje, że ubóstwo może być duchowym dostatkiem, a to, co mało popularne, wartością.</p>
+        <p xml:id="p-3">W domu Nowakowskich panują czytelne zasady. Pierwsza z nich mówi: „jeśli chcesz powiedzieć coś miłego – powiedz. Jeśli chcesz kogoś obrazić – zamilcz”, druga: „nigdy nie kupuj niczego, kiedy usłyszysz, że musisz to mieć” – dlatego w domu nie ma np. pokemonów. Nie mówi się też „ups” i „wow”, nie kłamie i nie przeklina. Kiedyś drzwi sypialni rodziców (w ogromnym łóżku często sypiali tu wszyscy „jak stado wiewiórek”) zdobił napis: „Tyle tylko mamy – ile celebrujemy”. I nie chodziło o wielkie fety, ale zwyczajne, codzienne świętowanie – wspólnych posiłków czy czytania.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

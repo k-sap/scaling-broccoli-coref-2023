@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">- Tak. Obecnie jest już stosowany po polimeroasfalt, który nie odkształca się w lecie i nie pęka w zimie. Tę technologię stosuje większość naszych przedsiębiorstw. Z powodzeniem próbowano budowy nawierzchni betonowych, to może być dobra alternatywa.</p>
+        <p xml:id="p-2">Mamy więc wszystko poza pieniędzmi. Unia zapewnia nam bardzo duże wsparcie, ale musimy mieć swoją część, którą wcześniej trzeba wyłożyć. Brakuje nam dwudziestu pięciu procent całości nakładów.</p>
+        <p xml:id="p-3">- To wspaniała oferta, ale wiadomo na pewno, że nie można tu liczyć na środki budżetu centralnego, w kasach samorządowych też pusto. Pozostają kredyty... Mówimy od lat o autostradach. To jest szansa nie tyko dla komunikacji, ale również dla rynku pracy...</p>
+        <p xml:id="p-4">- To może zabrzmi paradoksalnie, ale dla takich rozwiązań, wielkich inwestycji autostradowych... mamy zbyt małe natężenie ruchu. Aby takie inwestycje były rentowne, przy rozsądnych za przejazd – ruch musiałby być większy. Opłacalność autostrady zaczyna się , gdy jest przejazd 50 tys. pojazdów na dobę. Daleko nam do tego. U nas, w okolicach miast jest maksimum 30 tys. Przy odpowiednim natężeniu ruchu opłaty za przejazd są stosunkowo niskie i jest to opłacalne dla inwestora jak i użytkowników. W kraju powstały takie przedsięwzięcia m.in. pod Poznaniem, ale opłaty są dość wysokie i ruch przeniósł się na drogi równoległe. Powstają korki. Takie konsekwencje są ze wszech miar niepożądane.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

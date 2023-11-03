@@ -1,0 +1,19 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Polska reprezentacja hokejowa od niedzieli przebywa na zgrupowaniu w Oświęcimiu. Wczoraj podopieczni Wiktora Pysza zjawili się jednak w Katowicach, by w Ośrodku Medycyny Sportowej „Sport&amp;Med” pod okiem Barbary Widuchowskiej przejść specjalistyczne badania lekarskie.</p>
+        <p xml:id="p-2">– Zawodników sprawdzamy pod kątem wydolnościowym i antropometryczym – tłumaczy Barbara Widuchowska. – Badamy również zawartość tkanki tłuszczowej metodą bliskiej podczerwieni.</p>
+        <p xml:id="p-3">Ten ostatni pomiar w lekkie zakłopotanie wprawił drugiego trenera reprezentacji Mariana Pysza.</p>
+        <p xml:id="p-4">– Coś mi się wydaje, że nie dostaniesz dziś kolacji – żartowali kierownik drużyny Stanisław Gawliczek i trener Wiktor Pysz.</p>
+        <p xml:id="p-5">Temu pierwszemu szybko zrzedła mina, bowiem chwilę później został poproszony na to samo badanie.</p>
+        <p xml:id="p-6">Wiktor Pysz mimo, iż starał się żartować, nie miał jednak najlepszego humoru.</p>
+        <p xml:id="p-7">– Wczoraj dowiedziałem się, że kontuzji doznał Jacek Zamojski. Awaryjnie powołałem Marka Szymańskiego z Katowic i Sebastiana Łabuza z Podhala – zdradza. – Mam nadzieję, że Zamojski za tydzień będzie już z nami. Gorzej z Tomkiem Wołkowiczem, który ma przejść operację kolana i kontuzjowanym Oskarem Szczepańcem. Adam Borzęcki, „zahaczył” się na dalsze występy w akademickiej drużynie za Oceanem i również nie przyjedzie na mistrzostwa. Nadal niepewny jest przylot Mariusza Czerkawskiego. Mimo, iż on sam chciałby wziąć udział w mistrzostwach, jego przyjazd uzależniony jest od działaczy New York Islanders.</p>
+        <p xml:id="p-8">– Nie ma co ukrywać, że Mariusz to 50 procent wartości zespołu – dodaje Wojciech Tkacz. – Od jego postawy wiele zależy.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

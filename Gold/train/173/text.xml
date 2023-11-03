@@ -1,0 +1,21 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">W polu Kryteria: kolumny Imie wpisz w cudzysłowie imię osoby, o której wiesz, że i tak nigdy nie odda pożyczonych filmów (rysunek 4.20).</p>
+        <p xml:id="p-2">7. Uruchom kwerendę. Pamiętaj, że spowoduje to automatyczne i nieodwracalne usunięcie danych o filmach pożyczonych przez wybraną osobę.</p>
+        <p xml:id="p-3">8. Wyświetl tworzącą kwerendę instrukcję języka SQL. Powinna ona wyglądać następująco:</p>
+        <p xml:id="p-4">9. Zapisz kwerendę pod nazwą Filmy_Usun.</p>
+        <p xml:id="p-5">Operacje kopiowania, zmiany nazw, importowania, eksportowania czy usuwania kwerend przeprowadza się w ten sam sposób, co analogiczne operacje w odniesieniu do tabel.</p>
+        <p xml:id="p-6">Napisz własną aplikację bazodanową</p>
+        <p xml:id="p-7">- Zaprojektuj tabele i zdefiniuj relacje pomiędzy nimi</p>
+        <p xml:id="p-8">- Utwórz formularze i kwerendy</p>
+        <p xml:id="p-9">- Wygeneruj raporty z bazy Microsoft Access to jedna z najpopularniejszych baz danych wykorzystywanych w przedsiębiorstwach. Od innych systemów zarządzania bazami danych różni się tym, że zawiera zintegrowane środowisko programistyczne, za pomocą którego można zbudować własną aplikację służącą do manipulowania danymi zgromadzonymi w bazie. Dzięki kreatorom i narzędziom pomocniczym samodzielne utworzenie bazy danych oraz takiej aplikacji jest stosunkowo łatwe nawet dla użytkowników, którzy nigdy wcześniej nie pracowali z bazami danych.</p>
+        <p xml:id="p-10">"Access 2003 PL. Ćwiczenia praktyczne. Wydanie II" to podręcznik przedstawiający podstawowe zasady korzystania z Accessa i tworzenia własnej aplikacji bazodanowej. Przeczytasz w nim o projektowaniu i tworzeniu tabel, wiązaniu ich relacjami oraz wprowadzaniu danych. Zbudujesz kwerendy różnego typu i wykorzystasz je do modyfikowania oraz wybierania informacji z tabel. W kolejnych ćwiczeniach nauczysz się projektować formularze i raporty oraz dzielić aplikację na moduły.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Bez falstartów</p>
+        <p xml:id="p-2">Takie barwne potyczki jak między Atlasem i Henklem zdarzają się w polskim świecie reklamowym rzadko. Już cztery lata minęły od czasu, gdy odbyło się spektakularne starcie margaryny z masłem. W ciągu dwóch lat swojej działalności Komisja Etyki Reklamy otrzymała zaledwie dziewięć zażaleń dotyczących budzących wątpliwości promocji. - W Wielkiej Brytanii do komisji tego typu - mówi przewodniczący Komisji Etyki Reklamy Marek Małecki - spływa kilkadziesiąt tysięcy skarg rocznie, zarówno od firm jak i obywateli. Komisja Etyki ma prawo do zdjęcia reklam, jeśli uzna je za przekraczające zasady zdrowej konkurencji, łamiące obowiązujące prawo lub godzące w dobre obyczaje. - Zwykle jednak nie posuwamy się do tak drastycznych sankcji - powiada Marek Małecki. - Firmy załatwiają kwestie sporne między sobą polubownie albo pod pretekstem zakończenia kampanii same usuwają sporny spot czy billboard.</p>
+        <p xml:id="p-3">Krajowa Rada Radiofonii i Telewizji w ciągu ostatnich dwóch lat czterokrotnie zwróciła się o wstrzymanie emisji spotów reklamowych. Po raz pierwszy w sprawie "Amerikanos Jeans 1962", z udziałem Bogusława Lindy. Zdaniem KRRiTV promowała ona zachowania bezwstydne i nieobyczajne. Następny był rejs żeglarski łódki Bols oraz reklama Bols Sport&amp;Travel. I wreszcie kampania promocyjna wódki Smirnoff pod hasłem "walczymy z podróbkami", w której promowano zmianę opakowania tego alkoholu.</p>
+        <p xml:id="p-4">Sprawa zdjęcia reklamy, choć wydaje się z pozoru błaha, ma każdorazowo swój ciężar gatunkowy. Wszelkie tego rodzaju interwencje muszą mieć głębokie uzasadnienie nie tylko społeczne, ale i prawne. W Polsce zbyt długo istniała urzędowa cenzura, aby teraz pozwalać sobie na falstarty we wstrzymywaniu reklam. Nic dziwnego zatem, że niedopuszczenie przez TVP do emisji spotów np. z generałami armii czerwonej promującymi piwo EB czy reklamy "Zimowe grzanie" (piwo EB), którą TVP oceniła jako niesmaczną, wywołało w środowisku reklamowym poruszenie. - Motywy decyzji telewizji były dla nas nie całkiem jasne, ocierała się ona o cenzurę prewencyjną - mówi Jarosław Ziębiński, dyrektor generalny Agencji Leo Burnett, która przygotowała te reklamy.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

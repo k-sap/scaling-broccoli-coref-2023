@@ -1,0 +1,16 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">A pan miał pomysł na uratowanie majątku partii? Cała operacja na tym przecież polegała.</p>
+        <p xml:id="p-2">To jest ocena nieprawdziwa i niesprawiedliwa. Kwestia majątku była istotna dla tych, którzy w ogóle mieli w nim rozeznanie i obronę stanu posiadania argumentowali czynnikiem ludzkim: że przecież pracownicy PZPR muszą zostać jakoś rozliczeni, opłaceni, dostać odprawy. Ja nie byłem członkiem władz, nie należałem do aparatu partyjnego i nawet nie wiedziałem, jaki ten majątek był.</p>
+        <p xml:id="p-3">Dla nas, a byłem przewodniczącym komisji statutowej i kontaktowałem się z różnymi grupami spoza aparatu, było jasne - PZPR jest kartą zamkniętą i nowa partia lewicowa ma szansę tylko wówczas, gdy stanie się elementem demokratycznej Polski, czyli uzyska w wyborach poparcie społeczne. Nie byliśmy tu przesadnymi optymistami. Pamiętam dyskusję na koniec zjazdu z Rakowskim, który mówił, że ten marsz będzie trwał pokolenia, 20, może 30 lat. Działaliśmy zresztą w niewielkim gronie. Zapomina się, że kilkuset uczestników ostatniego zjazdu nie weszło do żadnej partii. Nie poszli ani z Fiszbachem, ani z nami.</p>
+        <p xml:id="p-4">Bał się pan inicjatywy Tadeusza Fiszbacha powołania Polskiej Unii Socjaldemokratycznej? Wydawała się wówczas groźna?</p>
+        <p xml:id="p-5">Na zjeździe to była poważna inicjatywa. Dzieliła nas jeszcze głębiej i przechwytywała ludzi myślących podobnie jak my. To były chwile dramatyczne i komiczne. Pamiętam swoje wystąpienia w warunkach zbliżonych do tych, jakie miał Lenin w Smolnym. Ze sterty jakichś skrzynek przemawiałem do nich, że nie warto tego robić. Nie do zaakceptowania dla mnie był fakt, że ta partia jest w pewien sposób licencjonowana, powstaje na zamówienie Solidarności.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

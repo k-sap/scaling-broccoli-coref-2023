@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Na początku wielka kłótnia, która po serii wzajemnych ataków zaprowadziła ostatecznie obie firmy do sądu, wydawała się prywatnym sporem dwóch prezenterów "Striscia la notizia" Ezio Greggio i Enzo Iacchettiego, nie mogących wybaczyć swemu dawnemu koledze z zespołu Paolo Bonolisowi, że za kilka milionów euro przeszedł do RAI i stał się w ciągu kilku miesięcy najpopularniejszym showmanem. Tak właśnie zinterpretowano wytknięcie mu, że w niedzielnym magazynie, oglądanym przez całe rodziny przy obiedzie, całkiem serio rozmawiał z szarlatanką twierdzącą, iż jako medium posiada zdolności kontaktowania się z umarłymi.</p>
+        <p xml:id="p-2">Wkrótce jednak anteny obu stacji przestały być jedynie miejscem wymiany osobistych złośliwości, bo wesoły duet z Canale 5 najzupełniej poważnie postawił nie tylko Bonolisowi, ale całej telewizji RAI zarzuty mataczenia, ustawiania wyników oglądanego przez prawie 10 mln widzów teleturnieju i całej serii oszustw. Wiarygodność obchodzącej właśnie hucznie pięćdziesięciolecie telewizji publicznej została podważona do tego stopnia, że - jak zauważył jeden z komentatorów prasowych - widz może przestać wierzyć nawet w prawdziwość podawanych w dziennikach informacji. Ekipa "Striscia la notizia" przedstawiła szereg dowodów na to, że w prowadzonym przez Bonolisa w pierwszym kanale teleturnieju "Affari tuoi"(Twoje sprawy) zamiast tak zwanych zwyczajnych uczestników udział brali aktorzy i statyści, że figuranci ci w zamian za szansę wystąpienia przed kamerami dzielili się wygranymi z producentami, że wreszcie z góry wiadomo było, kto wygra. Kierownictwo RAI za sformułowanie, że jest to "największe oszustwo w historii telewizji", pozwało jego autorów do sądu o zniesławienie. Przed swą siedzibą w Rzymie znalazło natomiast gigantyczną, wyższą niż ogrodzenie, statuę Złotego Tapira. Niesławną tę nagrodę, choć kilkadziesiąt razy mniejszą, duet satyryków wręcza zawsze ku niezadowoleniu obdarowanego za wszelkiego rodzaju głupstwa czy szwindle. Tym razem, jak wyjaśnili ofiarodawcy, była ona proporcjonalna do winy.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

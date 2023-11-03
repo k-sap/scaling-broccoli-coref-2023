@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Nagrodą za włożony trud i ciężką pracę w szlifowaniu sportowego warsztatu są pierwsze sukcesy i medale. Obok wspomnianego Przemka wzorami do naśladowania dla najmłodszych adeptów trudnej sztuki, jaką jest łyżwiarstwo figurowe są Kamil Peteja, trzykrotny zdobywca Pucharu Polski Młodzików, Natalia Kotkiewicz - trzykrotna zdobywczyni Pucharu Polski Młodzików, Kamila Leszczyńska - wicemistrzyni Polski w kategorii Nobis czy Kinga Koniecko - brązowa medalistka Ogólnopolskiej Olimpiady Młodzieży w klasie junior.</p>
+        <p xml:id="p-2">Ci wszyscy zawodnicy trenują pod fachowym okiem trenerki Marii Domagały. Była łyżwiarka, członkini Kadry Narodowej, jest prawdziwym autorytetem dla swoich podopiecznych. O najwyższej klasie sztabu szkoleniowego świadczy również obecność w Spinie baletmistrza Vladimira Czernyszowa. Jest to uznany choreograf znany ze współpracy z ikonami polskiego łyżwiarstwa figurowego - Doroty i Mariusza Siudyków.</p>
+        <p xml:id="p-3">Niestety, atmosfera sukcesu i ogromnej radości z jazdy na łyżwach ostatnimi czasy została zachwiana. Klubem wstrząsnęła informacja o wycofaniu się głównego sponsora. Dotacje z katowickiego urzędu miasta, choć pomocne, okazały się niewystarczające. Nad Spinem pojawiło się widmo likwidacji.</p>
+        <p xml:id="p-4">- Dzieci, mając dobre warunki do trenowania będą odnosiły sukcesy, a my ze wszystkich sił staramy się im je zapewnić. Niestety, dotacje, jakie klub dostaje oraz składki członkowskie nie są w stanie pokryć wszystkich kosztów związanych z działalnością klubu. To z kolei wiąże się z jego likwidacją - ubolewa mama Klaudii. - Nie chcemy dopuścić do tego by młode talenty się zmarnowały, a dzieciakom odebrano radość z jazdy na łyżwach. Jeśli nie znajdzie się pomoc, to najtrudniej będzie to wyjaśnić maluchom. Na pewno trudno będzie im się pozbierać po tylu latach ciężkiej pracy - ocenia pani Anita.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

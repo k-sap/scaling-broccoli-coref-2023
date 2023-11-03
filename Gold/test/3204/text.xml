@@ -1,0 +1,31 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">sp1: wcześnie</p>
+        <p xml:id="p-2">sp0: no właśnie</p>
+        <p xml:id="p-3">sp2: właśnie</p>
+        <p xml:id="p-4">sp1: no moje koleżanki ze Stanów jak urodziłam Felka mając dwadzieścia dziewięć lat</p>
+        <p xml:id="p-5">sp2: to się pukały w głowę</p>
+        <p xml:id="p-6">sp1: dzwoniły do mnie i się pytały czy nie żałuję że zdecydowałam się na tak wczesne macierzyństwo. na ile</p>
+        <p xml:id="p-7">sp2: a ja zaszłam w ciążę mając dwadzieścia dwa lata. to teraz wydaje się ekstremalnie wcześnie no</p>
+        <p xml:id="p-8">sp0: to zupełnie jest. a powiedz mi</p>
+        <p xml:id="p-9">sp1: tak a kiedyś. to już stara panna dwadzieścia dwa lata</p>
+        <p xml:id="p-10">sp2: no pewnie</p>
+        <p xml:id="p-11">sp0: ale rozmawiałyśmy kiedyś w garderobie o tym że powiedziałaś że chcesz mieć jak najwcześniej dzieci. mówiłaś że nie chcesz z tym czekać</p>
+        <p xml:id="p-12">sp1: no ale w sensie że jak już zaczęłam. to jak najwcześniej to drugie żeby już wyjść z tych pieluch i żeby mieć ten okres pierwszy za sobą bo między zero a trzy to dziecko bardzo jest wymagające opieki a mało daje od siebie. a już z trzylatkiem się dogadasz. więc żeby jak najszybciej dobrnąć do. ja bym chciała urodzić trzylatka ale nauka mówi że nie da się</p>
+        <p xml:id="p-13">sp2: nie da się</p>
+        <p xml:id="p-14">sp1: podobno</p>
+        <p xml:id="p-15">sp2: ja stoję przed dylematem teraz że mam rzeczywiście chłopca który ma piętnaście prawie szesnaście lat. a chciałabym mieć drugie dziecko</p>
+        <p xml:id="p-16">sp0: o kurcze</p>
+        <p xml:id="p-17">sp2: więc ja się po prostu po raz kolejny w te pieluchy świadomie teraz będę pakowała</p>
+        <p xml:id="p-18">sp1: i to jest trudna decyzja. prawda ? bo to jest jednak</p>
+        <p xml:id="p-19">sp0: ale stoisz przed takim dylematem ? zastanawiasz się ? tak ?</p>
+        <p xml:id="p-20">sp2: tak tak tak tak. tak. znaczy wiesz no nie mam dużo czasu żeby się zastanawiać</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

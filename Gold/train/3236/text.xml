@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Ostatnie tygodnie upłynęły na widowiskowej wymianie ciosów między Anną Streżyńską, szefową Urzędu Komunikacji Elektronicznej (UKE) z nadania PiS, a Telekomunikacją Polską (TP). Streżyńska stanęła na czele UKE z jednym celem - wpuszczenia na rynek konkurencji dla TP. Kanonada trwa po obu stronach barykady, a scenariusz jest zawsze podobny. Nadzór nakazuje monopoliście np. obniżenie ceny konkretnej usługi. Ten się odwołuje, tłumaczy, że i tak świadczy ją na granicy opłacalności. Potem decyzja się uprawomocnia. TP odwleka jej wykonanie, mnoży trudności techniczne. UKE grozi karą, monopolista protestuje. UKE nakłada karę, TP się odwołuje. I tak dalej.</p>
+        <p xml:id="p-2">Jako nadzorca polskiego rynku telekomunikacyjnego Anna Streżyńska ma do dyspozycji decyzje i kary administracyjne. Z obu korzysta bezprecedensowo często, ale też wyniki, w porównaniu do poprzednich regulatorów rynku, ma niemałe. W zeszłym tygodniu w prasie pojawiły się informacje o kolejnej rekordowej karze - ponad 360 mln zł - jaką w połowie stycznia UKE nałoży na TP. Powodem Ø są nieuczciwe praktyki monopolisty, który 1,5 mln klientów każe płacić nie tylko za łącze do Internetu (Neostrada), ale też w pakiecie wykupić do niego przymusowy abonament za 43 lub 47 zł. Streżyńska jeszcze w 2006 r. nakazała rozdzielić te opłaty, tak aby klient mógł wybierać: np. mieć w domu sam dostęp do sieci, a dzwonić z komórek lub przez telefon stacjonarny innego operatora. Powinno to doprowadzić do obniżki cen Internetu w Polsce - wciąż najwyższych w UE.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

@@ -1,0 +1,21 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Przez uchylone drzwi</p>
+        <p xml:id="p-2">Rozmowa z sędzią, w obecności kierownictwa obu ekip, miała się odbyć początku w holu budynku klubowego. Grajewski uznał, że nie jest to zbyt dobre miejsce. Niemalże wymusił przejście wszystkich do pomieszczenia obok, gdzie przez uchylone drzwi przysłuchiwał się rozmowom.</p>
+        <p xml:id="p-3">Reporter „Dziennika” też był przy tym obecny. Arbiter dość mętnie tłumaczył, dlaczego przerywa mecz. Głównym powodem miało być bezpieczeństwo zawodników. Sędzia rzekomo wykonał jeszcze telefon na lotnisko w Poznaniu, by sprawdzić prognozę pogody.</p>
+        <p xml:id="p-4">W takiej sytuacji powinna zostać przynajmniej podjęta próba poprawy warunków torowych.</p>
+        <p xml:id="p-5">- Przecież warunki były takie same w pierwszym jak i w siódmym wyścigu. Gnieźnianie przestraszyli się. Brakuje mi słów - mówił w tym czasie w parku maszyn jeden z gdańskich żużlowców, Tomasz Piszcz.</p>
+        <p xml:id="p-6">- Sami jesteście winni - krzyczał z kolei Grajewski. - To przez was nastąpiła zmiana terminów.</p>
+        <p xml:id="p-7">- Nie zna pan regulaminu i faktów - odpowiedziałem w imieniu szybko pogodzonym z decyzją sędziego gdańskich działaczy.</p>
+        <p xml:id="p-8">- Co pan plecie? Proszę. Pokaże panu dokumenty - odparł Grajewski, stając się coraz bardziej agresywny.</p>
+        <p xml:id="p-9">Spłoszona sekretarka</p>
+        <p xml:id="p-10">Po chwili z sekretariatu wyprosił niemalże wszystkich, poza spłoszoną sekretarką. Nie chciał nawet spojrzeć w regulamin, gdzie stoi czarno na białym, że baraże powinny się odbyć 13 i 20 bm. a zostały przełożone m.in. na wniosek działaczy Startu ze względu na termin GP Australii z udziałem lidera gnieźnian, Krzysztofa Cegielskiego. Od tego zaczęła się cała kołomyja.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

@@ -1,0 +1,43 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">W nerwach mówi się różne rzeczy, a potem się ich żałuje. Nigdy ci się to nie zdarzyło? Przykro mi, że wtedy tak wyszło.</p>
+        <p xml:id="p-2">ŁUKASZ</p>
+        <p xml:id="p-3">Pati... przestań. Tobie przykro.</p>
+        <p xml:id="p-4">Wraca Agnieszka. Widzi, że Łukasz śmieje się z Patrycji, która świadomie odgrywa przed Agnieszką skrzywdzoną. Agnieszka patrzy na niego karcąco.</p>
+        <p xml:id="p-5">PATRYCJA</p>
+        <p xml:id="p-6">SKARŻĄCO, DO AGNIESZKI</p>
+        <p xml:id="p-7">Łukasz zawsze mnie tak traktuje. Jak bym była jakaś bez uczuć. Później jest zaskoczony, że się obrażam.</p>
+        <p xml:id="p-8">ŁUKASZ</p>
+        <p xml:id="p-9">ROZBAWIONY, DO AGNIESZKI</p>
+        <p xml:id="p-10">Nie wierz w żadne jej słowo.</p>
+        <p xml:id="p-11">Agnieszka bierze Patrycję za rękę.</p>
+        <p xml:id="p-12">AGNIESZKA</p>
+        <p xml:id="p-13">Chodź. Pójdziemy do Kasi.</p>
+        <p xml:id="p-14">Udając oburzoną</p>
+        <p xml:id="p-15">A ten bezduszny cynik niech tu sobie sam siedzi.</p>
+        <p xml:id="p-16">ŁUKASZ</p>
+        <p xml:id="p-17">Zjem wam wszystko.</p>
+        <p xml:id="p-18">AGNIESZKA</p>
+        <p xml:id="p-19">ŚMIEJĄC SIĘ</p>
+        <p xml:id="p-20">Nawet się nie waż!</p>
+        <p xml:id="p-21">Patrycja patrzy zaskoczona na Agnieszkę, ale wyraźnie jest zadowolona z takiego obrotu sprawy. Obie wychodzą do Kasi. Łukasz siedzi przez chwilę bez ruchu, po czym dolewa sobie wina.</p>
+        <p xml:id="p-22">Cięcie</p>
+        <p xml:id="p-23">Scena</p>
+        <p xml:id="p-24">WNĘTRZE. NOC. MIESZKANIE ROWICKICH. SYPIALNIA HENRYKA I ELI. HENRYK, ELŻBIETA.</p>
+        <p xml:id="p-25">Widzimy, że przed chwilą się poprztykali. Ela leży w łóżku i próbuje czytać książkę. Oczywiście nic jej z tego nie wychodzi. Henryk siedzi przy biurku.</p>
+        <p xml:id="p-26">HENRYK</p>
+        <p xml:id="p-27">Powiedziałaś swoje i jak zwykle uważasz, że sprawa jest zakończona.</p>
+        <p xml:id="p-28">Ela nie reaguje</p>
+        <p xml:id="p-29">Nie dodajesz mi sił.</p>
+        <p xml:id="p-30">Ela odkłada książkę.</p>
+        <p xml:id="p-31">ELA</p>
+        <p xml:id="p-32">Słucham?! Coś mówisz o dawaniu siły? Ja tobie mam dawać? A skąd twoim zdaniem ja mam ją brać? Rezerwy Ø już dawno są na wyczerpaniu.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

@@ -1,0 +1,16 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Z przesiadką</p>
+        <p xml:id="p-2">Tanie linie czasami bywają bardzo drogie, zwłaszcza gdy rezerwujemy przelot w ostatniej chwili. Nie warto więc z góry przekreślać tradycyjnych przewoźników jak np. KLM, British Airways czy Lufthansa. Kiedy na bezpośrednie połączenia pozostały tylko najdroższe bilety, to ci najwięksi czasem mogą nas jednak wybawić z finansowego kłopotu. Ceną będzie zazwyczaj lot z przesiadką.</p>
+        <p xml:id="p-3">W gąszczu lotniczych siatek, taryf, cenników łatwo się pogubić. Dlatego warto skorzystać z możliwości, jakie dają lotnicze portale. Najważniejsze, żeby taki portal miał zestawienie ofert przewoźników obsługujących wybrane przez nas połączenie. Przy wylotach z Polski szczególnie przydatny jest skyscanner.pl, gdzie można porównać aktualne cenniki tanich linii.</p>
+        <p xml:id="p-4">Przy rosnących cenach ropy i coraz większej ruchliwości Polaków trudno oczekiwać, żeby w szczycie letniego sezonu bilety lotnicze taniały. Jednocześnie z raportu Urzędu Lotnictwa Cywilnego (ULC) wynika, że w I kwartale br. tradycyjni przewoźnicy zaczęli gwałtownie tracić rynek. Pewnie więc na to zareagują. Pytanie tylko, kiedy?</p>
+        <p xml:id="p-5">Na razie przedstawiciele LOT tłumaczą, że nie sztuka latać dokładając do interesu. Wytykają konkurentom, że ponoszą na polskim rynku dotkliwe straty. I czekają, aż rywale skruszeją: podniosą ceny albo zbankrutują. Czy LOT ma aż tyle czasu, żeby problem rozwiązał się sam? W ciągu roku jego udział w rynku spadł z 49 do 37 proc., a nowy szef firmy nie podzielił się dotąd swoimi pomysłami na odwrócenie tego trendu. Ciężko mu widać przyznać, że to Michael O’Leary, twórca Ryanaira, ma rację. On powtarza, że wygra ten, kto umie ciąć nie tylko ceny, ale i koszty. A jego pasażerowie, choć narzekają trochę na poziom obsługi, to jednak w sumie się cieszą.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

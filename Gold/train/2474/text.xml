@@ -1,0 +1,21 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Mieszkańcy Rybna i sąsiednich wsi narzekają na trwającą budowę zupełnie nowej drogi - obwodnicy tej wsi, która będzie jednocześnie najkrótszą drogą dojazdową z Wejherowa do Gniewina.</p>
+        <p xml:id="p-2">- W pierwszych etapach remontu pozostawiono bardzo wąski przejazd, po którym lawirować musiały wszystkie samochody - mówi Bartosz Chojnacki z Gniewina. - Mam nadzieję, że uciążliwości, jakie przechodzimy, niedługo zostaną wynagrodzone nam fantastyczną obwodnicą.</p>
+        <p xml:id="p-3">- Zdarzają się przypadki, kiedy na jedynym dopuszczonym do ruchu pasie jednocześnie znajdują się dwa samochody, jadące na siebie z przeciwnych kierunków - dodaje Maria Macholl z Nadola.</p>
+        <p xml:id="p-4">Utrudnienia w ruchu sięgnęły szczytu w miniony weekend, kiedy złodzieje z sygnalizatorów sterujących ruchem wahadłowym ukradli akumulatory i światła w ogóle nie działały przez kilkanaście godzin, do czasu, aż drogowcy znaleźli nowe urządzenia.</p>
+        <p xml:id="p-5">Problemem już dla samej ekipy remontowej okazały się padające przez kilka dni deszcze.</p>
+        <p xml:id="p-6">- Ziemia jest gliniasta, bardzo przesiąknięta wodą - wyjaśnia Jacek Stróżyk, pracownik budowy. - W takich warunkach ciężko kłaść elementy betonowe, które zwyczajnie zapadają się w ziemię.</p>
+        <p xml:id="p-7">- Wszystkie trudności mieszczą się w granicach normy - kwituje krótko zarzuty Marek Panek, sekretarz powiatu. - W budowie nie ma żadnych poważnych opóźnień.</p>
+        <p xml:id="p-8">Odbiór nowej drogi ma odbyć się w listopadzie.</p>
+        <p xml:id="p-9">W ramach inwestycji powstaje zupełnie nowa droga, poprowadzona przez pola pod Rybnem. Będzie to szeroka jezdnia, dwa ronda, chodniki wzdłuż całej długości drogi.</p>
+        <p xml:id="p-10">Inwestorem jest powiat, który uzyskał dofinansowanie z Narodowego Programu Rozwoju Dróg. Całość zadania ma kosztować 7,5 mln zł. Inwestycja jest także realizowana w ramach przygotowań do Euro 2012, bo Gniewino stara się o status bazy pobytowo-treningowej dla jednej z drużyn piłkarskich.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

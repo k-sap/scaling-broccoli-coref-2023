@@ -1,0 +1,16 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Ledwo wyszły na jasny świat, a już jedno chciało górować nad drugim, choćby wrzaskiem. Dzieciaki były leniwe i złe, a mimo to właśnie te dwa diabelskie nasienia nauczyły się pisać. Czytać na tyle, żeby przesylabizować urzędowy papier czy gazetę, prawie każdy umiał, do pisania jednak nikt się nie zabierał. Mało kto daje sobie radę z pisaniną, taka wieś tępa; nie wiadomo, czy coś jest w powietrzu, czy są jakieś inne powody, ale ta wieś głowy do pisania nie ma. Kto się tylko pisać wyuczy, zaraz do miasta się wynosi.</p>
+        <p xml:id="p-2">A wcale nie jest to zapadła dziura. Domy solidne, murowane, obory, z wyjątkiem gospodarstwa Krukowej, pobielone i czyste; na każdym podwórku stoi traktor albo maszyna, a wódkę i bimber pije się z cienkich szklanek.</p>
+        <p xml:id="p-3">Kiedy zaczął myśleć o swoich dzieciach, wątroba zacisnęła mu się w pięść. Potem zaczęła puchnąć i wydawało się biedakowi, że rozerwie się na sto kawałków pod obolałą, wyschniętą jak pergamin skórą.</p>
+        <p xml:id="p-4">Wernery, jak nazywano we wsi Aciego i Maciego, nie miały za grosz delikatności ani dla tego, co żywe, ani co martwe. W tej wsi nawet baby nie grzeszyły przesadnie litościwymi sercami, wszyscy byli tu twardzi, ale bracia Wernerowie dostali chyba od Pana Boga po pół granitowego serca na głowę.</p>
+        <p xml:id="p-5">Póki nie skończyli pięciu lat, nikt oprócz Ø matki i Krukowej nie mógł ich rozróżnić. Jeden był starszy od drugiego o siedem godzin i tylko te dwie kobiety wiedziały, który. To, co wyzwoliło ich z podwójności i dało im jako taką pojedynczość, stało się następnego dnia po pogrzebie Ø matki.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

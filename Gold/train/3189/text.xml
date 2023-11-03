@@ -1,0 +1,23 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">sp0: ale y też wy zobacz bo ja nawet nie zauważyłam potem zauważyłam że ja tu mam ręce a ona na moich rękach ma te y też fajne takie. takich rzeczy nie można pokazywać wszystkim..</p>
+        <p xml:id="p-2">sp1: nie da się uciec..</p>
+        <p xml:id="p-3">sp0: moja siostra chciała te zdjęcia na wystawę co ja tu mogę wybrać no chyba że to przezroczyste..</p>
+        <p xml:id="p-4">sp1: fajne..</p>
+        <p xml:id="p-5">sp0: no jak..</p>
+        <p xml:id="p-6">sp1: myślę że to przezroczyste byłoby najlepsze..</p>
+        <p xml:id="p-7">sp0: będzie kiedyś ta to nagranie to jeszcze ci pokażę tą Szamonówkę bo to też jest. bo tam Asia dużo nagrywała właśnie takich tam spraw terenowych no i ten dom jest tam wiesz. uwidoczniony fajne miejsce naprawdę. w takim klimacie..</p>
+        <p xml:id="p-8">sp1: kiedy kupił kamerę sobie ?</p>
+        <p xml:id="p-9">sp0: no jakiś czas temu w zeszłym roku też nagrywały ale piasek się nasypał w ogóle ta taśma do wy do wyrzucenia oczywiście tyle pięknych tam fajnych rzeczy wiesz ze dwa lata mają ze trzy nawet..</p>
+        <p xml:id="p-10">sp1: na dużą ? taśmę ?</p>
+        <p xml:id="p-11">sp0: na malutką. maleńką taką taką zupełnie nie taką co my mamy. wiesz to jest taka mała kasetka którą się potem wkłada do takiej dużej kasety matki i można podglądać na wideo a one maja zupełnie inną. taśmę no. taką tasiemeczkę. fajną mają tą kamerkę leciutką taką zgrabną fajnie się kameruje..</p>
+        <p xml:id="p-12">sp1: teraz w Gołuchowie. w tym takim budynku nie zamku tym właściwym tylko obok Ø jest taki ładny też budynek który kiedyś był gorzelnią..</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

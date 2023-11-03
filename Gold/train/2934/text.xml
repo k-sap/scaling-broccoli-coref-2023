@@ -1,0 +1,16 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">- Ach, po cóż zaraz używać takich brzydkich słów jak zdrada! - odrzekł Bernard nader gładko, śliskim tonem doskonałego intryganta. - Mądry władca umie szybko dostosowywać się do zmiennych warunków. Trudno może nazwać mędrcem legnickiego Rogatkę, jakkolwiek miał dość sprytu, aby w porę wyczuć, skąd wiatr wieje, podobnie jak Władysław Opolski. Gwiazda Przemyśla Ottokara gaśnie. Zbyt wysoko ulokował swoje pragnienia i teraz nie ma dość sił, aby osiągnąć ów szczytny cel. Czeka go niewątpliwie klęska, a nasi bracia templariusze nie lubią przegranych. Utracił ich poparcie. Może więc uda ci się chociaż nakłonić twego niepraktycznie szlachetnego panicza, aby nieco mniej gorliwie wspomagał w walce czeskie go kuzyna?</p>
+        <p xml:id="p-2">Chytry Sas jak gdyby czytał w moich myślach i wydobywał na wierzch wszystkie od dawna nurtujące mnie wątpliwości. Chwilami miałem wrażenie, jakbym rozmawiał z samym sobą.</p>
+        <p xml:id="p-3">- Zobaczę, co się da zrobić - odpowiedziałem ostrożnie. - Nie żywiłbym jednak w tym względzie nadmiernego optymizmu.</p>
+        <p xml:id="p-4">- Drogi kolego, przemawiasz jak prawdziwy dyplomata - oświadczył Bernard z Kamieńca. - Osiągamy mądrość, kiedy zdajemy sobie sprawę z własnych ograniczeń. Skoro wstawisz się za mną u swego księcia, aby mianował mnie kanclerzem, choćby przez wzgląd na usługi, jakie oddawałem przed laty jego zacnemu ojcu, z pewnością zdołamy wspólnie coś wymyślić.</p>
+        <p xml:id="p-5">- Chętnie zarekomenduję cię przed księciem, uczony kolego - odrzekłem dwornie, wiedząc, że i tak nie mógłbym się sprzeciwić życzeniom templariuszy. - Być może syn Gocwina, Jakub, będzie nieco zawiedziony, gdyż zapewne liczył na owo stanowisko, myślę jednak, że jakoś to przełknie. Żaden w końcu z niego urzędnik, za bardzo lubi się bawić i oglądać za spódniczkami. Powiedz jednak, jakie król Rudolf oferuje korzyści z przyszłego sojuszu? - zapytałem bezceremonialnie.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

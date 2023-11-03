@@ -1,0 +1,14 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">W sprawie tej wypowiedział się również prezes SPZ R. Nowak.</p>
+        <p xml:id="p-2">"9.10.2003 r. dwa rottweilery uciekły z posesji, stwarzając zagrożenie dla ludzi i zwierząt (1 pogryzł, najprawdopodobniej z głodu, innego psa). Jeden z psów został zlokalizowany w okolicach targowiska. Na miejscu był już radiowóz KPP i razem ze Strażą Miejską udałem się tam, chcąc podejść do psa. Zwierzę jednak, jak się okazało, wcześniej uciekło i pomimo patrolowania terenu przez dłuższy czas, nie udało się go odnaleźć. Istnieje rozporządzenie ministra spraw wew. i administracji odnośnie rejestracji 11 groźnych ras (między innymi rasy rottweiler).</p>
+        <p xml:id="p-3">W Ostrzeszowie dotąd zarejestrowano 14 tzw. "groźnych okazów". Według mnie rozporządzenie jest niemądre, ponieważ nie istnieje możliwość jego egzekucji. Przecież właściciel może nie okazać papierów albo będzie to nie mniej groźny mieszaniec. Wszystko zależy od wychowania i stosunku do psa. Problem pojawił się na początku lat 90-tych, kiedy rasy te zaczęli sprowadzać snobistyczni nowobogaccy lub "dresiarze" w celu dowartościowania swojej osoby, a pies został używany jako broń. Proszę zauważyć, że prawie wyłącznie atakują psy zerwane z uwięzi, na terenie posesji lub właściwie mieszańce tych w/w groźnych ras. Bezdomny kundel nie atakuje ludzi, tylko łasi się lub ucieka przed ludźmi. Łapałem w życiu setki bezdomnych zwierząt i żadne nie rzuciło się na mnie bez powodu. Jeśli istnieją jakieś rozwiązania problemu w takim kraju jak Polska, to jednym z nich jest większy nadzór nad zabezpieczeniem psów na posesjach przez odpowiednie organa. Można też zastosować rozwiązanie przyjęte w kilku państwach Europy Zachodniej - zakaz importu, eksportu, rozmnażania i przymusowa sterylizacja "groźnych ras". Wszystko jednak zależy od mentalności Polaków i żadne prawo nie zmieni zachowań niektórych ludzi, którzy groźnych psów na pewno mieć nie powinni.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

@@ -1,0 +1,19 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">- Bądźmy dla siebie życzliwi, niech zwycięży rozsądek - apelował przewodniczący.</p>
+        <p xml:id="p-2">Następnie wybrano wiceprzewodniczących rady. Sojusznicy zgłosili Ryszarda Madziara z PiS (w uzasadnieniu padło, że w wyborach zdobył dużo głosów, a jego ugrupowanie ma w radzie pięciu przedstawicieli). Jako drugiego wice wskazano Igora Sulicha z PO, tutaj już bez żadnego uzasadnienia. Obydwaj panowie nie mają doświadczenia w pracy samorządowej, mogą za to liczyć, zgodnie z porozumieniem, na większość w radzie.</p>
+        <p xml:id="p-3">Natomiast radny Krzysztof Kozłowski zgłosił do prezydium rady Henrykę Żabik, nadmieniając o doświadczeniu radnej oraz o tym, że ugrupowanie, które w wyborach do Rady Miasta uzyskało najwięcej głosów, powinno mieć swojego przedstawiciela we władzach rady. Nic z tego. Madziar i Sulich dostali po 15 głosów, a Henryka Żabik - 8 głosów.</p>
+        <p xml:id="p-4">Prezydium wołomińskiej rady wybrano szybko, sprawnie i zgodnie z przewidywaniami.</p>
+        <p xml:id="p-5">A.B.</p>
+        <p xml:id="p-6">Po pierwszej sesji powiedzieli:</p>
+        <p xml:id="p-7">Krzysztof Gawkowski (LiD) - Cieszę się, że wśród radnych jest pięć osób poniżej trzydziestego roku życia. Wszystko wskazuje na to, że to właśnie w młodych ludziach jest przyszłość Wołomina. Mam nadzieję, że piąta kadencja samorządu w Wołominie będzie kadencją szybkiego rozwoju, a do tego potrzeba tak niewiele, wystarczy, że ci, którzy obiecywali najwięcej, spełnią swoje przedwyborcze obietnice.</p>
+        <p xml:id="p-8">Andrzej Saulewicz (PS) - Moje wrażenia po pierwszym posiedzeniu Rady Miasta są pozytywne. W radnych widać chęć wspólnego działania ponad podziałami. Równie dobrze rokuje na przyszłość współpraca między radą a burmistrzem. To mieszkańcy wybrali swoich reprezentantów, a my powinniśmy, nie zważając na ogrom czekającej pracy, spełnić oczekiwania społeczeństwa. Mamy na to cztery lata i obyśmy zostali pozytywnie rozliczeni z decyzji, które podejmiemy.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

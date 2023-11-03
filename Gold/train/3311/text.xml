@@ -1,0 +1,18 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">(...) Jestem w prostej linii prawnukiem Andrzeja Gołąba, który w znanej sztuce Gabrieli Zapolskiej był jakoby prototypem Felicjana Dulskiego [Leszek Mazan "Nie to miasto, nie ten kopiec", POLITYKA 38].</p>
+        <p xml:id="p-2">W albumie "Cmentarz Łyczakowski we Lwowie" Stanisław Nicieja stwierdza, że "hipoteza, iż Andrzej Gołąb mógł być prototypem Felicjana Dulskiego jest bezpodstawna..., a proste przeniesienie obrazu Dulskich na rodzinę Gołąbów jest dla tej rodziny wielce krzywdzące". Rozumiem, że Zapolskiej nie obowiązywała ścisłość historyczna, natomiast publicyści winni jednakże opierać się na źródłach. A oto sprostowania:</p>
+        <p xml:id="p-3">1. Żona Andrzeja Gołąba miała na imię Karolina, a nie Wiktoria.</p>
+        <p xml:id="p-4">2. Nieprawdą jest, że Andrzej Gołąb miał syna Gienia i dwie córki (odpowiedniki Zbyszka, Hesi i Meli Dulskich). Miał jedną córkę oraz czterech synów.</p>
+        <p xml:id="p-5">3. Ulica Andrzeja Gołąba jest na planie Lwowa (tzw. plan Horbaya) obowiązującym do 1939 r., a nie - jak pisze Mazan - "przed pierwszą wojną".</p>
+        <p xml:id="p-6">4. W latach 1919-1939 moja babcia Zofia Gołąbowa z domu Bruhl, wdowa po dr. Janie Gołąbie mieszkała w kamienicy przy ul. Łyczakowskiej 57. Dom ten stoi do dziś i jest w bardzo dobrym stanie.</p>
+        <p xml:id="p-7">5. Według Mazana i Ludwika Jerzego Kerna "kolejne pokolenie zacnej rodziny Dulskich trafiło po drugiej wojnie do Krakowa", a naprawdę trafiło do Łodzi, Warszawy, a nawet jeden z Gołąbów - prawnuk Andrzeja, mieszka w Londynie.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

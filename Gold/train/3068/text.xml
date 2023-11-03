@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">MAGDA:</p>
+        <p xml:id="p-2">To twoja decyzja.</p>
+        <p xml:id="p-3">SARA:</p>
+        <p xml:id="p-4">Tak. Ale dziękuję ci za pomoc. Bo zrozumiałam, że ja nie chcę takiego życia, jakie ty preferujesz. Nie chcę żyć bez namiętności.</p>
+        <p xml:id="p-5">Zbliżenie MAGDY.</p>
+        <p xml:id="p-6">27. KANCELARIA PIOTRA/SEKRETARIAT. WN. POPOŁUDNIE.</p>
+        <p xml:id="p-7">MARIOLA patrzy przez żaluzje na ulicę. Po chwili pośpiesznie wychodzi na środek sekretariatu i staje przodem do drzwi. Wchodzi WOJTEK.</p>
+        <p xml:id="p-8">MARIOLA:</p>
+        <p xml:id="p-9">(od razu)</p>
+        <p xml:id="p-10">Wiem, że rozstałeś się z Agatą. Rozumiem, że możesz się niekoniecznie doskonale z tym czuć... Ale dlaczego na mnie się wyżywasz? Co ja ci zrobiłam? Cholera! Za co ty mnie tak nie znosisz?</p>
+        <p xml:id="p-11">WOJTEK:</p>
+        <p xml:id="p-12">Skończyłaś? Bo nie mam czasu na próżną gadaninę.</p>
+        <p xml:id="p-13">MARIOLA:</p>
+        <p xml:id="p-14">(ze złością)</p>
+        <p xml:id="p-15">Tak, panie mecenasie. Dokumenty są tutaj!</p>
+        <p xml:id="p-16">Bierze z biurka teczkę i mu podaje. WOJTEK bierze teczkę i chowa.</p>
+        <p xml:id="p-17">MARIOLA:</p>
+        <p xml:id="p-18">Rozumiem, że znowu będę tu siedziała sama przez cały dzień. Bo umówiłeś się z klientami na mieście.</p>
+        <p xml:id="p-19">WOJTEK:</p>
+        <p xml:id="p-20">(chłodno)</p>
+        <p xml:id="p-21">Takie jest życie sekretarki!</p>
+        <p xml:id="p-22">MARIOLA:</p>
+        <p xml:id="p-23">(kpiąco)</p>
+        <p xml:id="p-24">Ach! Prawda! Zapomniałam, że jestem szczęśliwą sekretarką! Najmocniej przepraszam!</p>
+        <p xml:id="p-25">WOJTEK:</p>
+        <p xml:id="p-26">(kpiąco)</p>
+        <p xml:id="p-27">A nie jesteś?</p>
+        <p xml:id="p-28">MARIOLA:</p>
+        <p xml:id="p-29">Wyobraź sobie, że ja też mam problemy. I gdybyś wiedział, jakie, to założę się, że zrobiłoby ci się głupio. Nie, nie jestem szczęśliwa. No i co?</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

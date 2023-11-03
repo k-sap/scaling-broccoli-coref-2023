@@ -1,0 +1,14 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Ostatecznie, cóż mi to szkodzi? - pomyślałem, wypisując na formularzu numer jednego z rozkazów dziennych w sprawie aniołów. Wiele było haseł niezrozumiałych, na przykład: INFERNALISTYKA, CEBERNAUTYKA, INCE-REBRACJA, LEJBGWARDYSTYKA, DEKARNACJA, ale nie chciało mi się nawet grzebać pod tymi rubrykami - katalog był zbyt wielki, podparty drewnianymi kolumienkami, wznosił się pod strop, szeleścił jak morze, nawet pobieżne jego studium zajęłoby tygodnie, wyjmowane z szufladek zielone, różowe i białe kartki zalewały mnie z wolna, spływały, trzepocąc, na podłogę, odkładałem po dwie Ø, po trzy Ø, na koniec obejrzałem się i widząc, że wciąż jestem sam, byle jak, nie patrząc, powtykałem je na powrót do szufladek.</p>
+        <p xml:id="p-2">Czyżby panujący w katalogu bałagan brał się stąd, że czasem i inni trafiają tu podobnie jak ja? - zarysowało mi się w wyobraźni mętne podejrzenie. Wyprostowałem się. Na biurku obok katalogowych szaf spoczywały, zwalone pokotem, olbrzymie, czarne tomy encyklopedii. Podniosłem pierwszy z brzegu. Jak to tam było? CEBERNAUTYKA? Poszukałem pod C. " CEBULA - rodzaj operacji wielowarstwowej " . Nie, nie to... " CEBERNAUTYKA - nauka zastępcza o pływaniu w cebrze. Por. Pseudognozja, także: Nauki Fikcyjne i Kamuflujące " .</p>
+        <p xml:id="p-3">Chciałem zatrzasnąć tom, ale otworzył mi się na literze A, u samego początku. Uderzyła mnie kolumna tłusto wydrukowanych haseł, zaczynających się od " Aj " - AJENT... AJENTOWY... AJENCYJNY... u dołu był większy artykuł pod tytułem AJENCI i AJENCJE W PRZEKROJU DZIEJÓW.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

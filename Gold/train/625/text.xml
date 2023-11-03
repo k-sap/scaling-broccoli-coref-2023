@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">- Witamina C i E. Witaminy te są w stanie opóźniać proces pogarszania się wzroku wraz z wiekiem, a także minimalizować niebezpieczeństwo uszkodzenia fotoreceptorów siatkówki.</p>
+        <p xml:id="p-2">- Witamina C w największej ilości znajduje się m.in. w: aronii, czarnych porzeczkach, owocach cytrusowych, kiwi, natce pietruszki, surowych brokułach, zielonej i żółtej papryce. Witamina E jest w olejach, ziarnach soi, siemieniu lnianym, selerze, papryce, mięsie indyka.</p>
+        <p xml:id="p-3">- Cynk i selen. Zmniejszają ryzyko rozwoju zwyrodnienia plamki żółtej oka, a jeśli już do tego dojdzie – spowalniają proces utraty wzroku. Stwierdzono, że łączne zażywanie tych dwóch przeciwutleniaczy może ograniczyć to niebezpieczeństwo nawet o 28 proc. Cynk znajdziesz w żółtych serach, białym serze serwatkowym, rybach (makrela, szczupak, tuńczyk), cielęcinie, chudej wołowinie, produktach zbożowych, migdałach i orzechach. Selen występuje w produktach pełnoziarnistych, rybach (makrela, flądra, węgorz), owocach morza (zwłaszcza w ostrygach), nietłustej wieprzowinie, ziarnach soi.</p>
+        <p xml:id="p-4">- Luteina, zeaksantyna i antocyjany. Poprawiają ostrość wzroku. Luteina i zeaksantyna są obecne m.in. w: kapuście włoskiej, szpinaku, brokułach, zielonym groszku, dyni, papryce, kukurydzy, kiwi, winogronach, pomarańczach. Antocyjany znajdują się w owocach borówki czernicy. Istnieją dowody na to, że oczom szkodzi tłuste jedzenie. Stwierdzono, że wystąpienie zaćmy jest dwa razy bardziej prawdopodobne u ludzi otyłych niż szczupłych. Przypuszcza się, że dieta obfitująca w tłuszcze sprzyja również wystąpieniu zwyrodnienia plamki żółtej.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

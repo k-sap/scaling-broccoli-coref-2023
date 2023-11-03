@@ -1,0 +1,20 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Zagrożeniem dla zmniejszenia bezrobocia są też ogłaszane co jakiś czas redukcje zatrudnienia w dużych firmach zatrudniających po 300-500 i więcej pracowników. Jednym z powodów zwolnień jest przerost zatrudnienia, jaki wciąż ma miejsce w wielu firmach, zwłaszcza państwowych. W 2005 roku swoje plany redukcji zatrudnienia ogłosiło kilka dużych, znanych firm:</p>
+        <p xml:id="p-2">- Thomson, fabryka telewizorów pod Warszawą - redukcja ok. 1000 etatów. Nie muszę pisać o skutkach tych zwolnień dla rejonu wokół fabryki, która jest jednym z większych zakładów pracy;</p>
+        <p xml:id="p-3">- Colgate - redukcja ok. 300 etatów;</p>
+        <p xml:id="p-4">- TP S.A. - zwolnienia ok. 2800 osób;</p>
+        <p xml:id="p-5">- PKN Orlen - tracąc udział w rynku paliw, zapowiedział restrukturyzację i likwidację ok. 300 miejsc pracy;</p>
+        <p xml:id="p-6">- CUSSONS Polska - zamknięcie warszawskiego oddziału firmy to utrata pracy przez 128 osób;</p>
+        <p xml:id="p-7">- Prokom - jeden z potentatów IT ogłosił zwolnienia ok. 300 osób;</p>
+        <p xml:id="p-8">- sieć hoteli Orbis, aby umocnić swoją pozycję w walce z konkurencją, planuje modernizację poprzez budowę małych, tanich hoteli dwugwiazdkowych. Mniejsze koszty ich funkcjonowania mają zapewnić m.in. usługi outsourcingu. Zwolnienia obejmą ok. 700 osób.</p>
+        <p xml:id="p-9">Pod koniec maja 2005 roku pojawiły się pogłoski o połączeniu zachodnich inwestorów dwóch czołowych polskich banków Pekao SA i BPH. Taka fuzja w opinii analityków rynku oznaczać może zwolnienia ok. 6000 pracowników połączonej instytucji. Z pewnością nie stanie się to z dnia na dzień, ale będzie nie do uniknięcia. Rachunek ekonomiczny jest najważniejszy. Choć w marcu 2006 roku doszło do ugody pomiędzy rządem Polski a Komisją Europejską w sprawie fuzji, Polska nie chciała się na nią zgodzić - Bank BPH zostanie podzielony na dwie części. Jedna zostanie połączona z Pekao SA, a pozostała część oddziałów będzie sprzedana. Los wielu pracowników staje się tym samym niepewny.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

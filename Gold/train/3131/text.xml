@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Czytelnik tego artykułu może zapytać: co to takiego – Naddniestrze? To wąski pas ziemi, o długości ok. 200 km, szerokości do 15 km, leżący na lewym brzegu Dniestru, pomiędzy Mołdawią a Ukrainą. Stolicą jest to samo miasto, Tyraspol, którego jestem mieszkańcem.</p>
+        <p xml:id="p-2">Przyjezdni mówią, że tutaj czas się zatrzymał. Na budynku Parlamentu widnieje stare radzieckie godło, w mieście są dwa pomniki Lenina, ulice mają dziwne nazwy – Karola Liebknechta, Róży Luksemburg, Dzierżyńskiego, Engelsa, Kotowskiego, Łunaczarskiego. Ale to tylko pozory – młodzież słucha Guano Apes i Benny Benasi, pije piwo i nie chodzi w czerwonych krawatach.</p>
+        <p xml:id="p-3">W Tyraspolu budują się cerkwie prawosławne, kościół. Nad miastem codziennie o 17 rozlega się dzwon nowego soboru Bożego Narodzenia, zbudowanego z okazji jubileuszu 2000 lat chrześcijaństwa. Jest też synagoga. Już dawno minęły radzieckie czasy, ale nikomu po prostu nie spieszy się, aby niszczyć to, co pozostało po ZSRR, oznaki przeszłości i teraźniejszości spokojnie egzystują razem. Ludzie śmieją się, że na tym polega demokracja... Także i na tym, że przed biurem OSCE (OBWE) demonstrują młodzi z żółtymi flagami z wizerunkiem Che Guevary. kliknij, aby powiększyć</p>
+        <p xml:id="p-4">Nowe czasy wiele zmieniły w naszym kraju. Wcześniej, 20 lat temu, nikt nie zastanawiał się, gdzie mieszkać: czy w Odessie, czy w Tyraspolu, czy w Kiszyniowie. Ale mamy rok 2007 i już ten sam Kiszyniów w Mołdawii (Mołdowie) nawet po rosyjsku nazywają Kiszyneu. Nowe państwa postawiły swoje granice, komory celne. Żeby odwiedzić np. wujka w Ukrainie, 50 km od Tyraspola, trzeba już mieć paszport zagraniczny... Z tej gry w państwa zwykli obywatele mają niewiele korzyści.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

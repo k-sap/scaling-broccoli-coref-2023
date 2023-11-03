@@ -1,0 +1,27 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Pojutrze - wyszeptał niepewnie, a Beny kaszlnął.</p>
+        <p xml:id="p-2">Już?! - zapytałem.</p>
+        <p xml:id="p-3">I co teraz? - Beny uniósł wzrok.</p>
+        <p xml:id="p-4">Będę przepisywał jakieś artykuły w „The Sun”.</p>
+        <p xml:id="p-5">Nie wierzę... Nie dość, że każą ci pracować tak nagle, za granicą w dodatku, to żeby cię dobić, wysyłają cię do szmatławca, którym wstyd się podetrzeć!</p>
+        <p xml:id="p-6">Hej, spokojnie! Może... może oni maja rację, co?</p>
+        <p xml:id="p-7">W jakim sensie? - spytałem.</p>
+        <p xml:id="p-8">No, z tą pracą i w ogóle - wyraźnie stresowały go jego własne słowa - że... może już pora...</p>
+        <p xml:id="p-9">Już pora dorosnąć, tak? Tak to określają i to chciałeś powiedzieć...</p>
+        <p xml:id="p-10">Szybko wstałem z miejsca, uderzając przy tym w górną część łóżka. Zmierzyłem go karcącym spojrzeniem, które wyraźnie go przybiło. W sumie nie miałem tego na celu. Tak sądzę.</p>
+        <p xml:id="p-11">Jeśli nawet, to niby po co? Żeby się temu wszystkiemu poddać?!</p>
+        <p xml:id="p-12">Maciej - nazwał mnie po imieniu po raz pierwszy naprawdę od dawna - to już się nie uda. Dłużej to nie potrwa.</p>
+        <p xml:id="p-13">Chcesz się przekonać?</p>
+        <p xml:id="p-14">Beny patrzył na nas w milczeniu. Gdy spojrzałem na niego, wzdrygnął się i cofnął w pościeli pod ścianę.</p>
+        <p xml:id="p-15">Nie. Nie chcę. Normalnie żyć chcę...</p>
+        <p xml:id="p-16">Taa, ja też. Normalnie, czyli nie martwiąc się o wysokość wypłaty, która cała pójdzie na rachunki i o całe to gówno.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

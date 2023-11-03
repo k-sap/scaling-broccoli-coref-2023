@@ -1,0 +1,44 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">sp1: Maciej a ty jeszcze jesteś ze swoją dziewczyną ?</p>
+        <p xml:id="p-2">sp4: jestem</p>
+        <p xml:id="p-3">sp1: ciągle ?</p>
+        <p xml:id="p-4">sp4: ciągle</p>
+        <p xml:id="p-5">sp1: fajnie. byliście razem w Angli ?</p>
+        <p xml:id="p-6">sp4: tak</p>
+        <p xml:id="p-7">sp1: klasa. i jak było fajnie ?</p>
+        <p xml:id="p-8">sp4: zajebiście</p>
+        <p xml:id="p-9">sp1: ona też nie pracowała ?</p>
+        <p xml:id="p-10">sp4: też</p>
+        <p xml:id="p-11">sp1: kurwa</p>
+        <p xml:id="p-12">sp1: za co wy żyliście co tam odpierdalaliście ?</p>
+        <p xml:id="p-13">sp4: co ?</p>
+        <p xml:id="p-14">sp1: za co wy żyliście ?</p>
+        <p xml:id="p-15">sp4: noo za pieniądze które przywieźliśmy ze sobą</p>
+        <p xml:id="p-16">sp1: wydaliście wszystko ?</p>
+        <p xml:id="p-17">sp4: mhm</p>
+        <p xml:id="p-18">sp1: klasa</p>
+        <p xml:id="p-19">sp3: klasa</p>
+        <p xml:id="p-20">sp1: paliłeś zioło tamto ?</p>
+        <p xml:id="p-21">sp4: paliłem ale tylko raz na początku. bo byłem najpierw u kuzyna a potem do Londynu jechałem</p>
+        <p xml:id="p-22">sp1: ja pamiętam jak ty kiedyś mówiłeś że pojedziesz do Londynu w pizdu będziesz miał wszystkich w dupie i wrócisz po jakimś czasie i będziesz wielką wytatuowaną pizdą będziesz miał ogromny tatuaż i kurwa ogromne tatuaże wielką wielki samochód i ogólnie będziesz ogromny będziesz ćwiczył na siłowni ćpał i przyjedziesz ogromny i wielki i straszny. czekałem na to no ale kurwa nie udało się jesteś mały bez tatuaży i nie masz samochodu</p>
+        <p xml:id="p-23">sp4: miałem przyjechać swoją betą siódemką nową nie wiesz w takich dżinsach taki wiesz biały podkoszulek</p>
+        <p xml:id="p-24">sp4: tutaj taka dziara wiesz takie okulary amerykańskie nie</p>
+        <p xml:id="p-25">sp1: stary nie widzę cię</p>
+        <p xml:id="p-26">sp4: bym wysiadł dższ wiesz takie szelki nie tutaj klamka majami bicz</p>
+        <p xml:id="p-27">sp0: majami bicz</p>
+        <p xml:id="p-28">sp2: pomożesz mi ?</p>
+        <p xml:id="p-29">sp0: moja stara wyjebała strasznym straszny temat ostatnio mówi zawieź mnie do fordonu jedziemy z Michałem na zabieg</p>
+        <p xml:id="p-30">sp1: czego szukacie ?</p>
+        <p xml:id="p-31">sp2: pierścionka</p>
+        <p xml:id="p-32">sp3: już</p>
+        <p xml:id="p-33">sp0: jedziemy z Michałem na zabieg nie ja mówię no dobra ale gdzie do fordonu bo ja nie znam fordonu na janosika patrzę w gugle janosika w ogóle kurwa koniec fordonu na jakimś wypiździeju mówię no dobra jedziemy nie ale ja tam nie za bardzo wiem jak dojechać spoko ja biorę mapę. jedziemy</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

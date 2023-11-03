@@ -1,0 +1,16 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Ja mam takie pytanie: czy będą jakieś oddziały albo regionalne biura antykorupcyjne? Zdaje się, że będą, ale chciałabym potwierdzenia. Jak będzie wyglądał nabór do tych biur? Jaka będzie w ogóle wielkość tych biur regionalnych? I jakie będą relacje między tymi biurami a centralnym ośrodkiem w Warszawie? Jednym słowem, czy te sprawy, które zostaną wykryte przez regiony, będą przekazywane, czy to będą w jakimś sensie samodzielne jednostki? Chciałabym coś więcej usłyszeć na temat tych biur regionalnych. Dziękuję bardzo.</p>
+        <p xml:id="p-2">Proszę bardzo.</p>
+        <p xml:id="p-3">Pani Senator, instytucja, którą chce utworzyć rząd, będzie instytucją o charakterze centralnym, ale oczywiście przewidujemy powoływanie wydziałów zamiejscowych. Nie chcemy, żeby te wydziały oddawały podział administracyjny kraju. Mówimy właśnie o wydziałach regionalnych, a nie o wydziałach wojewódzkich. Chcemy, żeby te terenowe ekspozytury urzędu antykorupcyjnego, Centralnego Biura Antykorupcyjnego były ściśle podporządkowane centrali, żeby nie uległy autonomizacji, żeby funkcjonariusze i osoby kierujące tymi wydziałami regionalnymi nie stały się częścią establishmentu, i będziemy dążyli do tego, żeby były one ściśle zadaniowane przez centralę, rozliczane przez centralę. Jeśli chodzi o czas ich powoływania, to myślę, że pierwsze oddziały regionalne powstaną mniej więcej pół roku po powołaniu centrali. Najpierw musimy zbudować silną centralę, a później, w ciągu pół roku, wydziały zamiejscowe.</p>
+        <p xml:id="p-4">Ile ich będzie?</p>
+        <p xml:id="p-5">Trudno w tej chwili to przesądzić. Chcemy, żeby to była elastyczna struktura budowana w miarę potrzeb. Myślę, że może zostać powołanych do dziesięciu takich wydziałów regionalnych.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

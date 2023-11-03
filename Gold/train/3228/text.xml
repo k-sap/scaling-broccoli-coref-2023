@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">To był rok szczególny, bo wyłonił przede wszystkim jednego szczególnego faworyta. "Można się zastanawiać nad sensownością nominowania Rafała Blechacza, który - oczywiście - zablokuje wszystkie inne nominacje" - napisał jeden z krytyków (który zresztą tego pianistę również zgłosił). Tak, ale co poza tym? Bo przecież życie muzyczne toczy się także poza Konkursem Chopinowskim. I tu kłopot: krytycy zgłosili wiele kandydatur, większość z nich jest zresztą powtórzeniem wcześniejszych nominacji. Jednak poza Blechaczem zabrakło wyraźnych faworytów: jedyna propozycja, którą zgłosiło dwóch nominujących (i także nie po raz pierwszy), to wspaniały Kwartet im. Szymanowskiego, który od dawna jest naszym znakomitym muzycznym ambasadorem - do prawie każdego z koncertów włącza muzykę swego patrona, zrobi to też podczas najbliższego tournée po Wielkiej Brytanii (listopad) i Ameryce (luty-marzec). Sukcesy na najważniejszych scenach operowych świata osiągają już Aleksandra Kurzak i Mariusz Kwiecień, którzy mieliby zapewne kłopot z odebraniem Paszportu "Polityki", a paszport przydałby im się raczej dla zaistnienia w polskiej świadomości. Wybraliśmy więc artystów działających w Polsce, a z trójki zgłoszonych młodych kompozytorów - najmłodszą, za to z niebagatelnymi już sukcesami.</p>
+        <p xml:id="p-2">Dorota Szwarcman</p>
+        <p xml:id="p-3">Rafał Blechacz</p>
+        <p xml:id="p-4">Urodził się w 1985 r. w Nakle nad Notecią. Student Akademii Muzycznej w Bydgoszczy. Zdobywca m.in. II nagrody na IV Międzynarodowym Konkursie Pianistycznym w Hamamatsu w Japonii (2003; pierwszej nagrody nie przyznano), I nagrody na IV Międzynarodowym Konkursie Pianistycznym w Maroku (2004). Na XV Międzynarodowym Konkursie Chopinowskim poza główną nagrodą zdobył też nagrody za najlepsze wykonanie mazurków, poloneza, koncertu i sonaty. Koncertował m.in. na Ukrainie, w Czechach, Niemczech i Japonii. Nagrał płytę dla wytwórni CD Accord z muzyką Schumanna, Szymanowskiego, Debussy’ego, Liszta i Chopina (2005). Ukazała się też płyta z jego nagraniami z Konkursu Chopinowskiego.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

@@ -1,0 +1,14 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">"Monsieur, W ruchach niebieskich, siła działająca wprost proporcjonalnie do mas i odwrotnie proporcjonalnie do kwadratu odległości wystarcza do wyjaśnienia wszystkich tych wielkich obrotów, które poruszają wszechświat. Nie ma niczego równie pięknego według mnie; ale gdy chodzi o zjawiska podksiężycowe, to, co widzimy z bliska i co łatwiej nam badać, siła przyciągania jest jak zmieniający kształt Proteusz. Skały i góry nie wykazują widocznego przyciągania. Mówi się, że te małe osobne przyciągania są jakby wchłaniane przez przyciąganie kuli ziemskiej, nieskończenie większej. A jednak podaje się jako przykład działania przyciągania piankę w filiżance kawy, sunącą szybko do brzegów naczynia. Czy Pan tak to widzi? Z wyrazami szacunku, Pascal".</p>
+        <p xml:id="p-2">Zanim ktokolwiek z obecnych zada proste pytanie: skoro z listu Pascala wynika, że znał on już prawo powszechnego ciążenia, to dlaczego za jego odkrywcę uważa się Newtona? - Chasles pokazuje kolejne kawałki papieru zatytułowane "Notatka", zapisane tym samym charakterem pisma. W jednej z nich czytamy, że masy Jowisza, Saturna i Ziemi mają się do masy Słońca jak - odpowiednio - 1/1067, 1/3021 i 1/169282.</p>
+        <p xml:id="p-3">22 lipca fizyk Jean-Marie Duhamel zgłasza wątpliwości: jak Pascal mógł dojść do tego wyniku? Nie miał przecież dokładnego pojęcia o rozmiarach Ziemi. Nie miał go nawet Newton w 1665 r., gdy czasowo zarzucał rozmyślania o grawitacji. Astronom Hervé Faye natychmiast podsuwa wyjaśnienie: Pascal mógł wyprzedzić Newtona, przecież posługiwał się świetną milą francuską, zaś Newton - fatalną miarą, jaką jest mila angielska.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

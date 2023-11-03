@@ -1,0 +1,16 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Rano piszę "Cztery dni w Lubelszczyźnie". O jedenastej spotykam się z Kaziem Wierzyńskim u Lardellego. Kazio ma tylko jedno zmartwienie - co myśli teraz Rydz-Śmigły. Pewno nic nie myśli. Po południu u Samotyhów na imieninach Neli. Zrobiła ogromne postępy w malarstwie, choć dopiero w tym roku wzięła pierwszy raz ołówek i pędzel do ręki - pierwsze jej rzeczy były malowane, jak malują dzieci. Dziwne to u osoby, która całe życie pisze i wykłada - i to bardzo dobrze - o sztuce plastycznej. Jest bardzo zdolna i wiele z niej - tak jak i z jej uroków - się zmarnowało. Wieczorem w kooperatywie, gdzie zeszło się parę drobnomieszczańskich kumoszek, nie mających pojęcia o spółdzielczości. I tam więc nie ma czym oddychać.</p>
+        <p xml:id="p-2">2 VI 1937. Środa</p>
+        <p xml:id="p-3">Rano piszę. O dwunastej u Józia Czapskiego z moimi rysunkami. Dość mi skonfrontować je z byle jakim szkicem prawdziwego malarza, abym poznała, że moje upodobania rysunkowe są tym samym, co u grafomanów upodobania do pisania. Mimo to po południu na przemian rysuję i piszę...</p>
+        <p xml:id="p-4">4 VI 1937. Piątek</p>
+        <p xml:id="p-5">Piszę, śpię, piszę, wieczorem idę z Bogusiem na "Króla Włóczęgów", wodewil oparty na życiorysie François Villona z rewolucyjno-ludową pieśnią "Dzieci Paryża", która budzi taki entuzjazm, że teatr ją trzy razy bisuje. Melodia jest z rodzaju, który mnie fascynuje jak "Marsylianka". Spotkałam w teatrze panią Sobańską, przedstawiłam jej Bogusia. Tak jej się podobał, że powiedziała mi do ucha: "Pani ma uroczego brata". Wracając do tej pieśni, ciekawe, jakie rzeczy budzą dzisiaj entuzjazm. Ten wodewil był trochę w stylu niektórych scen z "Nędzników", utworu także w stylu patetycznego wodewilu.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

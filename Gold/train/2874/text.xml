@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Podsumowując, należy stwierdzić, że chociaż rosyjska kolejka polowa istniała na odcinku Biłgoraj - Zwierzyniec tylko przez kilka pierwszych miesięcy roku 1915, to jednak jej istnienie było decydujące dla przyszłego rozwoju sieci kolejowej na tym terenie.</p>
+        <p xml:id="p-2">Drugie życie kolejki - austriacka linia zaopatrzeniowa</p>
+        <p xml:id="p-3">Latem 1915 roku, po udanej niemiecko-austriackiej ofensywie, Lubelszczyzna znalazła się ostatecznie w strefie okupacji austriackiej. Atakujące armie budowały wiele nowych linii kolejowych, zarówno na potrzeby frontowe, jak i zaopatrzenia zaplecza. Przede wszystkim konieczne było przekucie rosyjskich kolei szerokotorowych 1524 mm na rozstaw europejski - 1435 mm - oraz zbudowanie linii łączących je z siecią kolei w Galicji. Dlatego austriackie wojska kolejowe wkrótce po wkroczeniu zbudowały linię Rejowiec - Bełżec. Do użytku oddano ją w początku roku 1916.</p>
+        <p xml:id="p-4">Na południe od Zwierzyńca (w stronę Górecka), na odcinku około 5 km, poprowadzono linię normalnotorową po zlikwidowanej przez Rosjan kolejce Ordynacji. Wynikało to z ukształtowania terenu. W samym Zwierzyńcu Austriacy rozbudowali tartaki mechaniczne, produkujące m.in. podkłady kolejowe. Surowiec pochodził z okolicznych lasów, w tym z Puszczy Solskiej w okolicach Biłgoraja oraz z okolic Szozd i Tereszpola. Dowóz drewna (dłużycy) utrudniony był przez brak dróg przejezdnych dla samochodów, szczególnie w okresie opadów deszczu i roztopów. Ponadto Biłgoraj, będący wówczas siedzibą powiatu i znaczącym ośrodkiem miejskim, potrzebował stałego dowozu towarów dla wojska i ludności cywilnej. Z tych powodów władze wojskowe rozważały budowę kolei wąskotorowej od Zwierzyńca do Biłgoraja. Planowano wykorzystanie trasy dawnej kolei rosyjskiej, co w założeniach miało zmniejszyć koszty prac ziemnych.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

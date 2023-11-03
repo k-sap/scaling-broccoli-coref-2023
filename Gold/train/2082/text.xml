@@ -1,0 +1,18 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Jest to program dobrobytu indywidualnego człowieka i grup ludzi. To prawo natury i nic na to nie możesz poradzić, człowieku.</p>
+        <p xml:id="p-2">Nic nie możesz poradzić na to, że prawa natury istnieją - i czy chcesz, czy nie, z nich możesz korzystać lub możesz ich nie dostrzegać. To Twój wybór. Możesz się zgadzać lub nie. A prawa natury działają i tak - dwadzieścia cztery godziny na dobę, przez każdą chwilę życia.</p>
+        <p xml:id="p-3">Konkretny program, z którym każdy może się zapoznać i wdrażać go w życie. Szczegóły umożliwiające podjęcie decyzji każdy może poznać, zapisując się na Akademię OLINP na www.olinp.pl. Tam pod przyciskiem "DISCE ET LABORA" ("Ucz się i pracuj") jest więcej informacji.</p>
+        <p xml:id="p-4">Rozdział VI: Potrzeby człowieka</p>
+        <p xml:id="p-5">59. Potrzeby człowieka w dzisiejszym realnym świecie</p>
+        <p xml:id="p-6">Na kolejnych stronach są podane i opisane fundamentalne dla człowieka potrzeby. Wiem o tym, że lewa część tabeli na następnej stronie jest uznana przez naukę. Przynajmniej wielu różnych autorów powołuje się w swoich publikacjach na potrzeby człowieka według Abrahama Maslowa. Nie wiem, czy są inne, bardziej uznane przez środowiska naukowe, badania na ten temat, czy nie.</p>
+        <p xml:id="p-7">W środkowej części tabeli podaję swoje własne przeświadczenia o potrzebach człowieka. Czy one są prawdziwe? W moim przypadku tak. Wielokrotnie osobiście potwierdzone metodą retrospekcji, introspekcji, doświadczeń i analizy różnych źródeł informacji z przeszłości i teraźniejszości.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

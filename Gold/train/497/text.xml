@@ -1,0 +1,24 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">sp1: no to był to był chyba nie szczypiorek tylko ta trawa taka..</p>
+        <p xml:id="p-2">sp2: ozimina..</p>
+        <p xml:id="p-3">sp1: pszenica czy coś takiego. a wczoraj wiecie Ewelina dzwoniła do dziadziusia byliśmy na zaległych imieninach u taty wczoraj Ewelina ponieważ też zapomniała miała zadzwonić bo dzwoniła w dzień imienin. dziadka i zapomniała. natomiast przypominała babci żeby babcia zadzwoniła do Krystynki bo Uystynka ma urodziny no i babcia po prostu. nie może chyba tego dziecku darować. no trzeba było jej powiedzieć że dziadek ma imieniny nie ?</p>
+        <p xml:id="p-4">sp0: czyli to Wambierzyce jeszcze cały czas tak ?</p>
+        <p xml:id="p-5">sp1: jeszcze cały czas Wambierzyce to też no to to są tamci ludzie przy stole..</p>
+        <p xml:id="p-6">sp0: pokaż Niemca z brodą..</p>
+        <p xml:id="p-7">sp1: Niemca z brodą poczekaj. to jest taka Agnieszka też w Krakowie studiuje. a ten chłopak był narkomanem i to takim że już w ogóle prawie że nie mówić wiesz kilka razy schodził. a oni go ciągle to rodzice są nie szukali po całej Polsce zabierali go od podleczyli i z powrotem..</p>
+        <p xml:id="p-8">sp0: co nie bierze już ?</p>
+        <p xml:id="p-9">sp1: nie bierze..</p>
+        <p xml:id="p-10">sp0: zaleczony jednym słowem..</p>
+        <p xml:id="p-11">sp1: znaczy no tak..</p>
+        <p xml:id="p-12">sp2: on nie ma takiej on nie wygląda na na narkomana..</p>
+        <p xml:id="p-13">sp1: Asia żebyś ty go widziała bo on był pi po takim już wiesz. bo mówię ci on się to to też cud był nie bo ta Agnieszka jak byliśmy w Medżugorie to ta Agnieszka tak się strasznie modliła tam w tej. u tych narkomanów za niego głośno</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

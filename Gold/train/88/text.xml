@@ -1,0 +1,18 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">– A co z moją miłością do ciebie? – Uśmiechnął się.</p>
+        <p xml:id="p-2">Spojrzała na niego z udawanym namysłem.</p>
+        <p xml:id="p-3">– Twoja miłość jest frywolna... Kiedyś dopasujesz ją wreszcie do osoby.</p>
+        <p xml:id="p-4">Samotny podrzucił ich do domu i wykręcił na wąskiej drodze, przez chwilę w ciemności migały czerwone tylne światła. Nayana poszła otworzyć drzwi, Przystupa ruszyła za nią z Pirkką, a Pani Słaba zeszła na pomost i zapatrzyła się w poszatkowaną krą wodę. Było zimno, wiatr skrzypiał w deskach pomostu, lód łamał się, postękując. Objęła ramiona dłońmi, zawsze szybko marzła, od kiedy pamiętała, miała chłodne ręce i stopy.</p>
+        <p xml:id="p-5">Samotny zapytał ją raz niby żartem, czy umie sobie pomóc, skoro jest psychologiem. Roześmiała się – nikt z jej wydziału tego nie potrafił, chociaż głównie po to tam zdawali. Nie była gierojem z rosyjskich czytanek, nie mogłaby sama sobie wyciąć wyrostka robaczkowego. Ale mogła lizać rany. I tak zrobiła.</p>
+        <p xml:id="p-6">Nagle gdzieś nad sobą usłyszała krzyk. Jeszcze przez chwilę nie rozumiała, co się dzieje, naszła ją absurdalna myśl, że to głos lecącej kaczki, dopiero gdy wołanie o pomoc przebiło ścianę domu i rozniosło się po wodzie, zerwała się i ślizgając się po pokrytym łachami lodu zboczu, dopadła domu.</p>
+        <p xml:id="p-7">Pirkka stał w przedpokoju z rączką wyciągniętą przed siebie – miał otwarte usta, ale to nie on krzyczał – dźwięk dochodził z dużego pokoju, zza ściany. Pani Słaba wpadła do środka Ø i zobaczyła Fina. Przystupa biła go po plecach, ale nie zwracał na nią uwagi, pochylał się nad Nayaną, w ręku ściskał nóż.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

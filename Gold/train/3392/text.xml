@@ -1,0 +1,14 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Prof. Jacek Przybylski, kierujący Zakładem Biofizyki i Fizjologii Człowieka Akademii Medycznej w Warszawie, gratuluje osiągniętego wyniku, ale nigdy nie słyszał o wieku tlenowym. - To jakiś humbug - oświadcza. - Pomiar prężności tlenu we krwi pomaga w warunkach szpitalnych określić funkcję płuc, ale badanie to wykonuje się w dłuższym czasie, by móc monitorować zmiany. Parametr ten nic nie mówi o zawartości tlenu w organizmie, bo jedynym jego nośnikiem jest hemoglobina zawarta w erytrocytach, a nie osocze, w którym nadmiar gazu się rozpuszcza.</p>
+        <p xml:id="p-2">Klienci barów tlenowych dowiadują się po ustaleniu ich wieku tlenowego, że ciśnienie parcjalne mają stanowczo zbyt niskie. Tymczasem według fizjologów nawet spadek poniżej 70 mm Hg nie spowoduje zmniejszenia wysycenia hemoglobiny tlenem, a więc - niezależnie od wyniku pomiaru w barze tlenowym - wystarczająca ilość pierwiastka dociera do wszystkich komórek i tkanek. Oczywiście, zdarzają się zaburzenia w przyswajaniu tlenu, wywołane uszkodzoną wentylacją płuc (kiedy na skutek połamanej klatki piersiowej i odmy prężność tlenu w naczyniach spada poniżej 60 mm Hg), ale jest to ostra niewydolność oddechowa kwalifikująca się do leczenia na oddziale intensywnej terapii. - Przez wykwalifikowanych lekarzy, a nie domorosłych cudotwórców, którzy obiecują ludziom niezwykłe korzyści, dając im do wdychania skoncentrowany gaz - oburza się prof. Przybylski.</p>
+        <p xml:id="p-3">Prof. Wojciech Gaszyński, kierownik Katedry Anestezjologii i Intensywnej Terapii Uniwersytetu Medycznego w Łodzi, dodaje: - Tlen może być trucizną i w rękach laików może wyrządzić wiele szkód. Podawany w sposób niekontrolowany u wcześniaków umieszczanych w inkubatorach wywoływał ślepotę, u dorosłych może prowadzić do zwłóknienia płuc. Inhalowanie tlenu powoduje obniżenie sprawności wentylacji o 10-20 proc., gdyż ośrodek oddechowy zlokalizowany w pniu mózgu traci swój naturalny napęd.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

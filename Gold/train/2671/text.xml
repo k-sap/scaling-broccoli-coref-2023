@@ -1,0 +1,14 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">W formie represji wojewódzkie władze oświatowe dokonały więc likwidacji czteroklasowej szkoły. Uczniów klas I-IV skierowano do Szkoły Podstawowej w Turzy (dokąd dojeżdżały starsze roczniki), na miejscu pozostawiono jedynie "zerówkę". Taka złośliwość nie zdała się na nic; jakby w odpowiedzi na tę ewidentną szykanę mieszkańcy wsi rozpoczęli 8 września - bez pozwolenia na budowę - wznoszenie murów kościoła pod wezwaniem Miłosierdzia Bożego.</p>
+        <p xml:id="p-2">Młodzi ludzie z Markowizny odzyskali swoją szkołę po dwóch latach: w 1989 r. reaktywowano ją w wymiarze trzech, a rok później poszerzono do sześciu klas. Niestety, nie jest to happy end dziejów szkoły (której tradycje, tak nawiasem, sięgają czasów przedwojennych) - w III Rzeczpospolitej placówka ta została ponownie zamknięta. Podczas wprowadzania zasad reformy systemu oświatowego, istotnym elementem której była tzw. racjonalizacja sieci placówek szkolnych, radni gminy Sokołów Małopolski uznali, że we wsi, wchodzącej w poważny niż demograficzny, szkoły utrzymać się nie da. Majątek - ławki, meble, sprzęty oraz 2,5-tysięczny księgozbiór - przekazano na własność Miejsko-Gminnego Ośrodka Kultury, któremu zlecono uruchomienie w budynku wiejskiej świetlicy.</p>
+        <p xml:id="p-3">Wszystko jest więc niby oczywiste, zrozumiałe - ale czy nie ma w tej historii swoistej ironii? Pierwszy raz szkołę zamknęli niemieccy okupanci, przekształcający Markowiznę w część olbrzymiego poligonu wojskowego, drugi raz - komuniści, którzy ją zresztą odtworzyli, a potem potraktowali jak "kij" na niepokornych, trzeci raz - wolna i demokratyczna Rzeczpospolita...</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

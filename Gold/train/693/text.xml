@@ -1,0 +1,17 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">NBA</p>
+        <p xml:id="p-2">Koszykarze Dallas Mavericks (bilans 27-8) pojechali do Los Angeles z zamiarem przedłużenia do 14 passy kolejnych zwycięstw. Przeszkodził im w tym rezerwowy gracz Lakers, Sasha Vujacić. Jeszcze 42 sekundy przed końcową syreną po koszu lidera Mavs Dirka Nowitzkiego (29 pkt. i 13 zb.) goście prowadzili 98: 97. Ale wówczas pewnie trafił za trzy punkty Vujacić przesądzając losy meczu. Dla 22-letniego Słoweńca był to najlepszy występ w trzyletniej karierze w NBA. Zdobył 16 punktów, trafiając 6 z 7 rzutów z gry (w tym 4 na 5 za trzy). Wśród „Jeziorowców” wyróżnili się też Kobe Bryant (26 pkt., 8 zb. i 6 ass.) i Luke Walton (21 pkt.). Tym triumfem koszykarze z LA sprawili prezent swojemu trenerowi, Philowi Jacksonowi. Był to bowiem 900. triumf tego coacha w NBA.</p>
+        <p xml:id="p-3">Szóste, kolejne zwycięstwo odniósł drugi obecnie zespół ligi Phoenix Suns (25-8). Słońca pewnie rozbiły we własnej hali Wojowników z Oakland, mając najlepszych graczy w osobach rezerwowych: Leandro Barbosie (26 pkt.) i Jamesie Jonesie (25 pkt.). Po czterech meczach przerwy z powodu kontuzji do składu Miami Heat wrócił Dwyane Wade (33 pkt.) i od razu poprowadził florydczyków do sukcesu w starciu z Blazers.</p>
+        <p xml:id="p-4">Wyniki:</p>
+        <p xml:id="p-5">Toronto – Washington 116:111</p>
+        <p xml:id="p-6">Minnesota – Houston 103:99 (D)</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

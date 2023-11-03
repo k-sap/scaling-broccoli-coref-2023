@@ -1,0 +1,17 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Uczniowie dodają, że był czas, gdy pod wejściem do szkoły parkowały samochody, w których najprawdopodobniej siedzieli dealerzy narkotyków i wypatrywali potencjalnych klientów. Nie jest także tajemnicą, że marihuanę lub amfetaminę można kupić - i to nie tylko w sezonie - na Długim Targu czy nad Motławą. Ze szkoły przy ulicy Lastadia jest tam niedaleko.</p>
+        <p xml:id="p-2">- Staramy się uchronić naszych uczniów przed tym zagrożeniem - mówi Elżbieta Pawłowska, wicedyrektor placówki. - Organizowane są antynarkotykowe prelekcje, nauczyciele mówią o tym także na godzinach wychowawczych. Sami poprosiliśmy Straż Miejską, aby całą akcję rozpoczęła właśnie od naszej szkoły. Nikt oprócz mnie nie wiedział o jej terminie. Cieszymy się, że nasi uczniowie są czyści i nie znaleziono u nich żadnych narkotyków.</p>
+        <p xml:id="p-3">Fiord przeszukał kilka klas i szatnię. Odpoczywał co jakiś czas, ale i tak po jej zakończeniu był kompletnie zmęczony, a tymczasem jutro czeka go wizyta w następnej szkole.</p>
+        <p xml:id="p-4">To dopiero początek - zapowiada Zbigniew Sodol, szef gdańskiej Straży Miejskiej. - Takie prewencyjne działania zamierzamy przeprowadzić w jak największej liczbie szkół. Liczymy, że dzięki temu staną się one bezpieczniejsze.</p>
+        <p xml:id="p-5">Taką samą nadzieję mają w Łodzi, gdzie od dzisiaj akcja po kilkutygodniowej przerwie znów będzie kontynuowana. W innych miastach podchodzi się jednak do niej dość ostrożnie.</p>
+        <p xml:id="p-6">- Nie chcemy udowadniać na siłę, że uczniowie mogą mieć narkotyki - usłyszeliśmy od Janusza Witka, zastępcy szefa Straży Miejskiej w Gdyni. - Nasze działania idą w innym kierunku. Funkcjonariusze kontrolują szkoły i ich okolice. Mają zwalczać dealerów. Jednak nie wykluczamy takich akcji jak w Gdańsku. To sprawa otwarta, ale najpierw zobaczymy, czy taka metoda się sprawdzi.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

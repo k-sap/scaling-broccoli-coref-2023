@@ -1,0 +1,16 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Po raz ósmy w historii poznańskiej opery na afiszu pojawi się premiera „Strasznego dworu” Stanisława Moniuszki. Tym razem reżyseruje Emil Wesołowski, który debiutuje w tej roli. Za każdym razem premiera opery narodowej budzi wielkie emocje wśród melomanów.</p>
+        <p xml:id="p-2">„Straszny dwór” nie jest wcale taki straszny, chociaż realizatorzy mają z nim kłopoty. Wszyscy bowiem wiedzą, jak powinno się grać tę operę narodową. Jedni traktują dzieło Moniuszki niczym obiekt muzealny, inni – materiał do eksperymentu. I jak to ze skrajnościami bywa, obie przegrywają.</p>
+        <p xml:id="p-3">Dla mnie „Straszny dwór” łączy w sobie klimat „Pana Tadeusza” Adama Mickiewicza i „Zemsty” Aleksandra Fredry. Powinien być patriotyczny, zabawny, kojący duszę i serce, trochę nostalgiczny...</p>
+        <p xml:id="p-4">Kiedy pytałem Emila Wesołowskiego, jaki będzie jego „Straszny dwór”, przywołał najpierw tradycję sienkiewiczowską, w którą – jego zdaniem – opera Moniuszki również się wpisuje i dodał: – W operze tej są dwie postaci komiczne: Cześnikowa i Damazy. Miecznik reprezentuje prawdziwych patriotów. A Maciej – jak cały nasz naród – jest uosobieniem zabobonu, a zarazem buty i odwagi. Wypadkowa ich zachowań wyznacza kierunek interpretacyjny.</p>
+        <p xml:id="p-5">Wesołowski nie zamierza uwspółcześniać na siłę ojca opery narodowej. Ale widzi pewne powinowactwa ze współczesnością. – Podpowiedziałem śpiewakom kilka znanych im postaci, które w jakiś sposób noszą w sobie cechy bohaterów naszej opery narodowej. Ale nie dopuszczę, aby na scenie czynić jakieś tanie aluzje.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

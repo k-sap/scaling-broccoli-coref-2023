@@ -1,0 +1,26 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Powiedziałem, że mam w dupie ich składki i że do jasnej cholery nie życzę sobie...</p>
+        <p xml:id="p-2">Pani X nie życzyła sobie z kolei, bym się wydzierał, klął i uderzał dłonią w biurko.</p>
+        <p xml:id="p-3">Przeprosiłem.</p>
+        <p xml:id="p-4">Pani X powiedziała, że nic nie szkodzi, każdemu się zdarza unieść.</p>
+        <p xml:id="p-5">Poza tym, żebym zrozumiał, że ona niewiele może.</p>
+        <p xml:id="p-6">Zapytałem się kto może.</p>
+        <p xml:id="p-7">Prezes.</p>
+        <p xml:id="p-8">A gdzie on jest?</p>
+        <p xml:id="p-9">Pan jest prezesem. Co prawda Ø honorowym, ale zawsze.</p>
+        <p xml:id="p-10">Znaczy, że mogę się sam wykreślić z listy członków?</p>
+        <p xml:id="p-11">Dopiero gdy znajdę prezesa na swoje miejsce i zarząd się na to zgodzi.</p>
+        <p xml:id="p-12">Poddałem się.</p>
+        <p xml:id="p-13">Zapłaciłem składki i wróciłem do domu.</p>
+        <p xml:id="p-14">Położyłem się na kanapie i przyszedł mi do głowy pewien pomysł. Wziąłem książkę teleadresową i podrzuciłem do góry. Otworzyła się. Rzuciłem w nią długopisem. Pojawiła się kropka. Józef Opyszczacki. Nie wiem kto zacz, ale ciekawe, co zrobi, zostawszy prezesem...</p>
+        <p xml:id="p-15">Nadciągnął najdłuższy weekend nowożytnej Europy. Bez końca poświęciliśmy się wybijaniu własnych ciał z codziennego rytmu, w jaki wpadliśmy przez ostatnie miesiące. Badania nad bezsennością, działaniem uderzeniowej dawki THC, podawanej zaraz po otwarciu oczu, kresem wytrzymałości drgających mięśni i tysiącami innych objawów psychosomatycznych, pochłonęły nas na tyle, że nie wiadomo kiedy przeskoczyliśmy półmetek. Wieczory spędzane na ciepłym bruku niewielkiego placu zaczęły zlewać się w jedno wielkie, kuliste nieróbstwo, które dusiło nieco każdego następnego poranka. Przynajmniej do podania pierwszej, delikatnej dawki któregoś z ogólnie dostępnych znieczulaczy.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

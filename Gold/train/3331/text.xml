@@ -1,0 +1,19 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Człowiek myśli tak: nadszedł okres tradycyjnych noworocznych postanowień, jeśli nie potrafię swojego życia wyprzeć z pamięci, to może chociaż powinienem je zmienić.</p>
+        <p xml:id="p-2">Natychmiast zabiera się za przeglądanie kobiecych magazynów, aby w oparciu o nie sporządzić długą listę rzeczy, które absolutnie powinien zmienić, aby jego życie zyskało nową, lepszą jakość (a przynajmniej było długie i szczęśliwe). Następnie bezkompromisowo wykreśla z listy rzeczy, których chwilowo z różnych powodów zmienić nie da rady.</p>
+        <p xml:id="p-3">Człowiek ze zdziwieniem zauważa, że na liście zostaje tylko jeden fundamentalny postulat zdrowego odżywiania się połączonego z leczniczą głodówką i siedzącą medytacją.</p>
+        <p xml:id="p-4">- Łatwo nie będzie - wzdycha, starając się ze wszystkich sił wyprzeć postulat z umysłu.</p>
+        <p xml:id="p-5">Próba okazuje się nieudana, a włożony w nią wysiłek rodzi głód. Człowiek niezwłocznie podchodzi do lodówki, żeby się zdrowo odżywić, ale zaraz przypomina sobie, że w domu nie ma ani kawałka tofu, sushi czy choćby ogórka na sałatkę. Jednym słowem, nie ma niczego zdrowego, a prawdę mówiąc - nie ma w ogóle niczego.</p>
+        <p xml:id="p-6">Na szczęście w tym momencie człowiek przypomina sobie o leczącej miażdżycę aspirazie - niezwykłym enzymie zawartym w ziemniakach, o którym niedawno czytał w "Super Expressie".</p>
+        <p xml:id="p-7">- Bingo! - krzyczy człowiek radośnie. Z ulgą otwiera lodówkę i z chłodnej butelki nalewa do kieliszka odrobinę preparatu z ziemniaka.</p>
+        <p xml:id="p-8">Zdrowo uspokojony tym faktem podejmuje zobowiązanie, że głodówkę odłoży do czasu, gdy się trochę lepiej poczuje, a pomedytuje wieczorem, oglądając program "A dobro Polski?".</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

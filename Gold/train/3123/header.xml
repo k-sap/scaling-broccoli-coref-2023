@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<teiHeader xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xml:lang="en">
+  <fileDesc>
+    <titleStmt>
+      <title>Paragraphs: p-1810,p-1811,p-1812,p-1813,p-1814,p-1815,p-1816,p-1817,p-1818,p-1819,p-1820,p-1821,p-1822,p-1823,p-1824,p-1825,p-1826,p-1827,p-1828,p-1829,p-1830,p-1831,p-1832,p-1833,p-1834,p-1835,p-1836,p-1837,p-1838,p-1839,p-1840,p-1841,p-1842 from NKJP text with id: PWN_2002000000074</title>
+    </titleStmt>
+  </fileDesc>
+  <profileDesc>
+    <textClass>
+      <catRef scheme="#nkjp" target="Literatura piękna"/>
+    </textClass>
+  </profileDesc>
+  <revisionDesc/>
+</teiHeader>

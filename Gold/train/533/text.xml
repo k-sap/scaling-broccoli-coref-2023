@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">SenatorKrzysztofPiesiewicz: Dyskutowaliśmy na posiedzeniu komisji o sytuacji, kiedy, załóżmy, dyrektor jakiegoś przedsiębiorstwa składa wizytę pracownikom i prosi ich o składanie podpisów. Chodzi nam o to, żeby wykluczyć jakiekolwiek naciski, wszelkie sytuacje tego typu, podstęp - żeby to wszystko było z punktu widzenia zapisu ustawowego jasne, oczywiste, żeby wykluczyć jakąkolwiek możliwość, by ludzie byli zmuszeni podejmować decyzję wbrew swojej woli. Wprowadzamy przepis, którego nie było, a który zabrania dawania wynagrodzenia pieniężnego w zamian za złożenie podpisu popierającego kandydata na prezydenta Rzeczypospolitej Polskiej. Oczywiście można się zastanawiać, czy przypadkiem nie powinno się tego rozszerzyć i zabronić jakiegokolwiek wynagradzania, czy też jakiejkolwiek gratyfikacji za złożenie podpisu. Może to występować w różnej formie, nie tylko pieniężnej, ale również w formie podarunków. Myślę jednak, że zostało to sprecyzowane i nie wolno dokonywać tego rodzaju czynności, z jakimi podobno mieliśmy do czynienia w jednej z kampanii prezydenckich w Polsce - tak przynajmniej donosiły media. Jest konkretny przepis, który zabrania takich czynności.</p>
+        <p xml:id="p-2">SenatorKrzysztofPiesiewicz: Jesteśmy zgodni w tej sprawie z Komisją Ustawodawczą i proponujemy w art. 1 w pkcie 74 lit. c, aby wprowadzić po ust. 3 nowy ust. 4, który mówi - w kontekście tych napojów alkoholowych - że "zabrania się podawania oraz dostarczania w ramach kampanii wyborczej na rzecz kandydata na Prezydenta Rzeczypospolitej napojów alkoholowych nieodpłatnie lub po cenach sprzedaży netto możliwych do uzyskania, nie wyższych od cen Ø nabycia lub kosztów Ø wytworzenia". Proponujemy taki zapis. Wydaje nam się, że z punktu widzenia doświadczenia w kampaniach wyborczych i parlamentarnych jest to przepis, który jest potrzebny.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

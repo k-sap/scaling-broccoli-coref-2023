@@ -1,0 +1,16 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">I prosze dobra rade - jesli takowa istnieje....</p>
+        <p xml:id="p-2">Jak pokonać nieśmiałość</p>
+        <p xml:id="p-3">Niesmiałość jest okropna! wiem bo sama to przechodze. czlowiekowi ciężko gdziekolwiek iść coś załatwć. umiera gdy ma wypowiadać się na forum klasy czy szkoły!! NA egzaminach ściska mu gardło podwójnie nie tylko ze strachu że zapomni materiał ale też w obawie przed mówieniem ze środka do ludzi patrzących wprost na niego. niemożna z nikim pogadać, do nikogo ciekawego podejść, niczego załatwić. peszy każda rozmowa. TO KALECTWO!!!</p>
+        <p xml:id="p-4">Jak pokonać nieśmiałość</p>
+        <p xml:id="p-5">Siemka:)Mam na imie Paulina. W klasie jestem strasznie nieśmiała(na klasowej ankiecie moja klasa mówiła o mnie:Cicha, sztywna, nie nawiązuje kontaktu ze spoołecznością klasowa). Ale poza szkołą jestem całkiem inna np: Na scenie poprostu nie da mnie się poznać to całkiem inne ja szkolne, na scenie czuje się jak w domu i tu się otwieram. Mam 4 koleżanki do kórych umniem mówić to co nie umiem mówić do innych pokazuje prawdziwa siebie, nie jestem już cicha, sztywna.Na koloniach też zachowuje się innaczej niż w szkole, wszyscy mnie lubią, nikt nie wierzxy że jestem cicha i sztywna w szkole, yu też pokazuje moim zdanie prawdziwe dnia. Zdaje mi się że w szkole poprostu nie dają mi pokazać mojego prawdziweo ja!!Czy to prawda??Ale jedno mnie zastanawia, jedynym czego nie mogę to przezwyciężyć nieśmiałość do chłopców, boje się wygupić, nie umiem im się odgryć jak dziewczynom, nie umiem ich szturchnąć, krzyknąć do nich poprostu się Czerwienie!Czemu tak jest??? i Jak temu zaradzić!!??????????????????Prosze o odpowiedź</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

@@ -1,0 +1,18 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">- Ma na pewno sporo walorów, jest szybki, dobrze gra głową. To taki łowca goli i trzeba będzie na niego uważać, lecz bez wielkiej przesady.</p>
+        <p xml:id="p-2">Podobnie jak kilku piłkarzy Wisły: Mirosław Szymkowiak, Mariusz Jop, Jacek Paszulewicz, Adam Piekutowski, Daniel Dubicki występy w Widzewie ma także obrońca Maciej Stolarczyk. - W tym meczu będziemy grać o zwycięstwo - zapewnia. - I temu podporządkujemy nasze poczynania. Mniej istotny będzie sposób, w jaki to postaramy się osiągnąć.</p>
+        <p xml:id="p-3">- Jaką rolę widzi Pan dla siebie, czy zobaczymy Pana również pod bramką łodzian?</p>
+        <p xml:id="p-4">- Sytuacja na boisku w każdym meczu jest inna, ale zgodnie z zaleceniami trenera nasze zadania mają być wymienne, czyli powinienem też brać udział w akcjach ofensywnych, a koledzy w razie potrzeby zastępować mnie w obronie.</p>
+        <p xml:id="p-5">- Z którym pomocnikiem lepiej się Panu współpracuje - z Brasilią czy Piotrem Brożkiem?</p>
+        <p xml:id="p-6">- Uważam, że obaj są dobrymi zawodnikami, akurat z Groclinem Piotrek zagrał bardzo dobrze. Najważniejsza jednak dla drużyny jest zdrowa konkurencja.</p>
+        <p xml:id="p-7">W 8. kolejce: sobota - Widzew Łódź - Wisła Kraków (godz. 16), Dospel/GKS Katowice - Górnik Polkowice (18.15), Górnik Łęczna - Polonia Warszawa (18.15), Lukullus Świt Nowy Dwór Maz. - Wisła Płock (18.15), Odra Wodzisław Śl. - Lech Poznań (18.15); niedziela - Groclin Dyskobolia Grodzisk Wlkp. - Górnik Zabrze (17.15); wczoraj odbył się mecz Legia Warszawa - Amica Wronki.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

@@ -1,0 +1,26 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Otworzyła krokodylową torebkę i wyjęła z niej paczkę papierosów Dunhill oraz złotą zapalniczkę. Bardzo nerwowo zapalała papierosa. Gdy się uśmiechała, pod makijażem mogłem zauważyć drobniutką sieć zmarszczek dokoła oczu. Była piękną, pachnącą drogimi perfumami kobietą. Mimowolnie zerkałem co chwila na jej odsłonięte dość wysoko nogi. Te nogi powinny jej były zapewnić dostatek.</p>
+        <p xml:id="p-2">- A ty... jesteś zakochany w tej młodej osobie? - zapytała.</p>
+        <p xml:id="p-3">- Zadajemy sobie nawzajem pytania, na które nie mamy ochoty odpowiadać - stwierdziłem. - Nie możemy mówić o czym innym?</p>
+        <p xml:id="p-4">- A o czym moglibyśmy mówić, Jasiu?</p>
+        <p xml:id="p-5">- No, choćby o naszych marzeniach.</p>
+        <p xml:id="p-6">- Chyba się spełniły twoje marzenia. Nie zostałeś profesorem?</p>
+        <p xml:id="p-7">- Zostałem mędrcem. Chcę dobrze spędzić resztę życia.</p>
+        <p xml:id="p-8">- Ja dążę do tego samego.</p>
+        <p xml:id="p-9">Spojrzałem jej w oczy, choć poprzednio unikaliśmy swego wzroku. Wytrzymałem jej badawcze spojrzenie. Oczy obficie podmalowała na sino, co zapewne wymagało wiele pracy.</p>
+        <p xml:id="p-10">- Ty się ożeniłeś, Jasiu?</p>
+        <p xml:id="p-11">- Z Tereską? Nie, to niemożliwe.</p>
+        <p xml:id="p-12">- Dlaczego niemożliwe? Jeżeli się ma forsę?</p>
+        <p xml:id="p-13">Przybrałem tajemniczą minę.</p>
+        <p xml:id="p-14">- Tereska jest moją córką - szepnąłem. - Ale to ścisła tajemnica. Tobie jednej ją wyznaję. Nie pytaj o nic więcej.</p>
+        <p xml:id="p-15">Alicja dopiła swój koniak. Nie mogłem wypaść z roli.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

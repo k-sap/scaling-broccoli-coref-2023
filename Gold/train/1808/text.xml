@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Fot. Jacek Łęski</p>
+        <p xml:id="p-2">Wydawać by się mogło, że skoro niezależne pisma lokalne pełnią tak pożyteczne funkcje w swych społecznościach, to ich relacje z samorządowymi władzami powinny układać się idealnie. Niestety, należy to do rzadkości, bowiem pisma te, tak jak wszystkie wolne media w demokratycznych systemach, są czwartą władzą i za jedno z podstawowych swoich zadań uważają sprawowanie funkcji kontrolnej. Tymczasem żadna władza, nawet ta wybrana wedle najbardziej demokratycznych procedur, nie lubi, kiedy jej się patrzy na ręce, i woli mieć kontrolę nad mediami. Kontrolę wprowadza się więc na różne sposoby. Najczęściej stosowaną metodą Ø jest utrudnianie dostępu do informacji dziennikarzom z miejscowego niezależnego pisma (czasem sprzeczne z wszelkimi przepisami prawnymi). Inną formą utrudniania życia lokalnej gazecie jest powoływanie przez władze własnego tytułu prasowego, nie będącego biuletynem informacyjnym, ale pismem, zawierającym materiały dziennikarskie, pozyskującym reklamy (często po dumpingowych cenach), co podcina korzenie ekonomicznej egzystencji niepokornego prywatnego pisma. A jednak, mimo oczywistego napięcia, jakie zawsze będzie istnieć między przedstawicielami władz a wolnymi mediami, niezależne gazety lokalne mogą być partnerem władz samorządowych, są bowiem najlepszym źródłem informacji o nastrojach społecznych, oczekiwaniach, potrzebach mieszkańców - wyborców.</p>
+        <p xml:id="p-3">Jaka przyszłość?</p>
+        <p xml:id="p-4">Warto zauważyć, że w żadnym z krajów Europy Środkowej i Wschodniej prasa lokalna nie jest tak silnie rozwinięta i różnorodna jak w Polsce. W Europie Zachodniej i w USA istnieją samodzielne, niezależne pisma lokalne, ale ich liczba w okresie powojennym systematycznie malała, ponieważ były pochłaniane przez wielkie koncerny prasowe. Procesowi monopolizacji uległa niemal cała prasa lokalna w Niemczech, gdzie zamiast samodzielnych pism istnieją liczne, niekiedy schodzące bardzo głęboko lokalnie, mutacje ogólnokrajowych i regionalnych dzienników.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

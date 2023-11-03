@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Andrzej Mazurek, 40-letni żeglarz, należy do tych, którzy wbrew rozsądkowi nadal pływają po Bałtyku pod polską banderą. Inni z powodu biurokratycznej obstrukcji i rosnących kosztów już dawno zarejestrowali jachty w Szwecji lub w krajach Adriatyku.</p>
+        <p xml:id="p-2">Nie chce się wierzyć, ale w Polsce morski jacht jest traktowany tak samo jak kontenerowiec. - Wożę ze sobą stos świadectw, klasyfikacji, certyfikatów, za które co roku muszę słono płacić. Podobnie jest ze specjalistycznym sprzętem, którego nie muszą mieć jachty rejestrowane w Szwecji. Tam ich wyposażenie pozostawiono rozsądkowi, umiejętnościom i zasobności żeglarza - mówi Mazurek, który od lat wraz z kolegami walczy o liberalizację restrykcyjnych przepisów.</p>
+        <p xml:id="p-3">Dziś na pokładzie musi trzymać ratunkową tratwę, taką samą, jaka jest na wyposażeniu pasażerskich promów. Co pięć lat jacht jest atestowany. Koszt - 6 tys. zł, za kurs zakończony egzaminem na kapitana trzeba zapłacić 3 tys. zł. - Taki sam egzamin w Chorwacji kosztuje 100 euro. Cena obejmuje uprawnienia operatora stacji UKF. W Polsce, żeby zdobyć radiową licencję, trzeba przejść kilkudniowe szkolenie i zapłacić ok. 300 zł - mówi Mazurek, który nie chce się jednak poddać biurokratom i opuścić polskiej bandery.</p>
+        <p xml:id="p-4">Nieżyciowe przepisy gnębią też żeglarzy śródlądowych. Właśnie wszedł w życie kolejny, który nakazuje rejestrować wszystkie jachty dłuższe niż 5 m. Kosztuje to niby tylko 60 zł, ale jak policzyć te tysiące łódek, to wychodzi całkiem niezła suma.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

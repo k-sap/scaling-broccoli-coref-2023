@@ -1,0 +1,18 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Moja metoda opiera się na wielu znanych i jednocześnie często ignorowanych prawdach, a jest genialna ze względu na prostotę, łatwość stosowania, skuteczność, ekologię i fizjologię, wpływ na psychikę i jeszcze inne czynniki. Często tłumy ludzi przechodzą obok jakichś zjawisk i nie dostrzegają sedna sprawy, a dopiero gdy ktoś zbierze i opracuje rządzące nimi prawa, wszyscy dziwią się, że to jest takie proste i oczywiste, że nawet dziecko to zrozumie, a przez tyle lat nikt na to nie wpadł. W pierwszej części książki podałem parę tego typu przykładów spośród bardzo wielu.</p>
+        <p xml:id="p-2">10.1. Uczciwość</p>
+        <p xml:id="p-3">Aby osiągnąć zamierzony efekt, musisz być względem siebie uczciwy, bo jest to Twoje zamierzenie i działanie, i nikt nie będzie Ciebie pilnować ani rozliczać. Jeśli będziesz się oszukiwać - szkoda Twego działania.</p>
+        <p xml:id="p-4">Mam dla Ciebie świetną wiadomość: moja metoda jest naprawdę przyjemna.</p>
+        <p xml:id="p-5">10.2. Świadomość</p>
+        <p xml:id="p-6">Jest konieczna, bo musisz zdawać sobie sprawę, że objadając się nadmiernie nie tylko psujesz swoją sylwetkę, lecz przyczyniasz się do swej przedwczesnej śmierci, a zanim umrzesz, wiele wycierpisz z powodu bezsensownego łakomstwa. Cierpienia związane z chorobami mającymi związek z otyłością są naprawdę poważne, więc w imię czego tak się narażać? Poza tym leczenie tych wszystkich chorób jest długoletnie i kosztowne.</p>
+        <p xml:id="p-7">Nie myśl sobie, że Twoja otyłość jest tylko Twoją prywatną sprawą. Otyłość z reguły prowadzi do inwalidztwa i ponoszenia dużych kosztów społecznych. Poza tym, jedząc nadmiernie, pozbawiasz swą rodzinę środków finansowych, które mogłyby być z korzyścią przeznaczone na pożyteczne cele, np. na naukę, wypoczynek, podróże itd.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

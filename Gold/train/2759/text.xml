@@ -1,0 +1,14 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Na początku ubiegłego roku do powiatu warszawskiego zaliczone zostały dwie gminy: Sulejówek i Wesoła. Był to wynik działania lokalnych środowisk, zmierzających do włączenia tych miejscowości do stolicy. Sejm zaproponował tymczasem w art. 16 przekazanie tych gmin do powiatu mińskiego. Natomiast w opinii Senatu sprawa administracyjnej przynależności Wesołej i Sulejówka nie powinna być rozstrzygana arbitralnie. Grupa poprawek do art. 13 i następnych zmierza więc do przekazania decyzji w sprawie ich przyszłości Rządowi z zastrzeżeniem wcześniejszych, poprzedzających rozstrzygnięcie konsultacji środowiskowych.</p>
+        <p xml:id="p-2">Odnosząc się do przepisów dotyczących spraw pracowniczych w okresie przeobrażeń ustroju miasta w poprawkach do art. 18), Senat zaproponował ograniczenie mechanicznego, ustawowego wygaszenia stosunków pracy do osób zatrudnionych w urzędach. Ta propozycja opiera się na założeniu, że nie ma potrzeby masowego zwalniania pracowników innych samorządowych jednostek organizacyjnych i co więcej, że takie rozwiązanie mogłoby zdezorganizować zaspokajanie potrzeb zbiorowych publicznych w stolicy.</p>
+        <p xml:id="p-3">Zmiany proponowane przez Izbę w treści art. 21 uwzględniają natomiast fakt, iż pierwotne, przyjęte przez Sejm rozwiązanie było wzorowane na przepisie art. 14 ustawy o gospodarce komunalnej, krytykowanym w piśmiennictwie prawniczym. Senat podzielił więc tu pogląd, że nakaz utworzenia spółki z mocy prawa z określoną datą jest wymaganiem niewykonalnym i brzmienie art. 21 skorygował. Propozycja Izby zmierza do tego, aby na organ zarządzający miasta nałożyć obowiązek przekształcenia wskazanych jednostek w jednoosobowe spółki handlowe we wskazanym w ustawie terminie – do 31 marca 2003 r. – z odpowiednim zastosowaniem przepisów innych ustaw, to jest: ustawy o komercjalizacji i prywatyzacji przedsiębiorstw państwowych – w odniesieniu do przedsiębiorstw, działających – na zasadzie analogii – z wykorzystaniem regulacji ustawy z 1981 r. o przedsiębiorstwach państwowych, ustawy o gospodarce komunalnej – zastosowanych do zakładów budżetowych nie będzie więc stosowany art. 14 tej ustawy, kwestionowany – jak wspomniano w piśmiennictwie).</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

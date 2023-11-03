@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">u ciebie siedziała. wiesz co a ja naprawdę mam robotę uciec do babki. muszę iść na cmentarz.</p>
+        <p xml:id="p-2">no to piętnaście minut na wypicie kawy.</p>
+        <p xml:id="p-3">to. ale taką malutką.</p>
+        <p xml:id="p-4">no.</p>
+        <p xml:id="p-5">taka malutką.. no i. wiesz co. ale coście jeszcze kupiły. który ci sklep Jadzia lepiej odpowiada..</p>
+        <p xml:id="p-6">żaden.</p>
+        <p xml:id="p-7">e. nie przesadzaj.. ja po prostu tam jadę to ja umiem. ja umiem w tych sklepach kupować. ja jestem bardzo zadowolona.</p>
+        <p xml:id="p-8">Ola ja też umiem. ja wczoraj wzięłam sześć milionów.</p>
+        <p xml:id="p-9">no. no to co ci się nie podoba. za jedne za pół godziny wydasz tyle pieniędzy słuchaj.</p>
+        <p xml:id="p-10">za jedne pół godziny wydałam pięć.</p>
+        <p xml:id="p-11">tak wydasz tyle pieniędzy i masz ile rzeczy w domu. potrzebnych niepotrzebnych ale masz.</p>
+        <p xml:id="p-12">no. no.</p>
+        <p xml:id="p-13">no.</p>
+        <p xml:id="p-14">Kasia ci miała zanieść morele. ja mówię powiesz pani Sokołowskiej że w dalszym ciągu nie lubię. nie lubię.</p>
+        <p xml:id="p-15">a nie denerwuj mnie. z tym wiesz.</p>
+        <p xml:id="p-16">tych sklepów.</p>
+        <p xml:id="p-17">słuchaj. i ile one kosztują ?</p>
+        <p xml:id="p-18">trzy.</p>
+        <p xml:id="p-19">trzydzieści.</p>
+        <p xml:id="p-20">trzydzieści.</p>
+        <p xml:id="p-21">właśnie chciałam.</p>
+        <p xml:id="p-22">czyli droższe. dwa siedemdziesiąt czy dziewięćdziesiąt to wiesz co było. mandarynki.</p>
+        <p xml:id="p-23">aa. mandarynki !</p>
+        <p xml:id="p-24">mandarynki. trochę mniejsza puszka. no ale stwierdziłyśmy no po co kupować mandarynki jak są świeże w sklepach.</p>
+        <p xml:id="p-25">tak.</p>
+        <p xml:id="p-26">chociaż teraz są niedobre.</p>
+        <p xml:id="p-27">nie nie. ale wiesz co ja ci coś powiem dlatego że to. dobrze Jadziu. trzy dwadzieścia. ja przyszłam bez pieniędzy.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Należy pamiętać, że pracodawca nie może narzucić pracownikom obowiązku dzielenia lub sposobu dzielenia urlopu. Odmawiając pracownikowi dania go w całości, musi to uzasadnić. Nie może także przymusowo wysłać kogoś na wypoczynek. Decyzja zawsze pozostawiona jest pracownikowi</p>
+        <p xml:id="p-2">Plan kompromisu W tym roku zmieniły się zasady tworzenia planu urlopów. Firma może ich w ogóle nie robić. Jeżeli jednak taki plan jest ustalany, a następnie zatwierdzony, wówczas szef i pracownik muszą go przestrzegać. Zmiana kalendarza urlopowego może dotyczyć tylko wyjątkowych, niemożliwych do przewidzenia sytuacji</p>
+        <p xml:id="p-3">Z planem urlopów w praktyce może być pewien kłopot. Większość pracowników najchętniej wybrałaby wypoczynek w lipcu i sierpniu. Takie rozwiązanie może spowodować, że w firmie nie ma połowy załogi. To sparaliżowałoby zakład. Dlatego pracodawca może miarkować nasze apetyty. Tam, gdzie działy są niewielkie, ma prawo zaproponować, by pracownicy między sobą ustalili, kto kogo będzie zastępował. Jeżeli się nie dogadają, wówczas przyjmuje wnioski do planu i albo je akceptuje, albo przeprowadza weryfikację ustalając ostateczny harmonogram</p>
+        <p xml:id="p-4">Bez planu Jeżeli w firmie nie tworzy się ogólnych planów urlopów, pracodawca uzgadnia je indywidualnie z każdym zatrudnionym. Dobrze, żeby zostało to w jakiejś formie spisane, by uniknąć ewentualnych sporów. Leży to w interesie pracowników, gdyż jeżeli ktoś wcześniej zaplanuje wakacyjny wyjazd, wykupi np. wczasy lub wycieczkę, a szef odmówi udzielenia uzgodnionego wcześniej urlopu, będzie musiał pokryć wynikłe z tego straty</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

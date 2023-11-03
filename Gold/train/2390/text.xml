@@ -1,0 +1,18 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Pozostali mieszkańcy także zachowali przytomność umysłu. Część z nich samodzielnie wyszła przed budynek. Pozostali pootwierali okna lub balkony i czekali na ratunek. - Ewakuowaliśmy 10 osób przy pomocy drabiny - relacjonuje przebieg akcji ratowniczej Jarosław Umiński, rzecznik Komendy Miejskiej Państwowej Straży Pożarnej w Bydgoszczy. - Osiem osób trafiło do szpitala na obserwację z powodu możliwego zatrucia dymem. Wśród nich jest pięcioro dzieci. Najmłodsze z nich ma tylko siedem dni - podkreśla.</p>
+        <p xml:id="p-2">W budynku odłączono natychmiast prąd i gaz. Na czas akcji ratunkowej zablokowano ulicę, przy której stoi kamienica - przedłużenie ulicy Sowińskiego. Lokatorzy nie zdążyli zabrać żadnych rzeczy. Dlatego, by nie zmarzli, służby ratownicze podstawiły autobus, w którym mogli się schronić.</p>
+        <p xml:id="p-3">Szczęście w nieszczęściu</p>
+        <p xml:id="p-4">Nikt nie odniósł poważnych obrażeń. - A właśnie mieliśmy wychodzić z mieszkania - opowiada w wypiekami na twarzy Katarzyna Grzonkowska. - Miałam tylko skończyć robić kotlety i wyjść. Gdybyśmy tak zrobili, pożar mógł skończyć się o wiele gorzej.</p>
+        <p xml:id="p-5">- Dziękuję Bogu, że nie ma ofiar śmiertelnych - cieszy się Bogusława Bajgot z Miejskiego Ośrodka Pomocy Społecznej. - Przedwczoraj mieszkańcy ulicy Pomorskiej nie mieli tyle szczęścia: zginęły dwie osoby - przypomina.</p>
+        <p xml:id="p-6">Zniszczenia jednak są znaczne: - Dwa mieszkania nie nadają się do użytku. Jedno, w którym wybuchł pożar i drugie, położone bezpośrednio pod nim - informował Jarosław Umiński ze straży.</p>
+        <p xml:id="p-7">Dowiedzieliśmy się, że kobieta, w której mieszkaniu doszło do pożaru niedawno się tam przeprowadziła. Zostawiła dzieci pod opieką babci i sama udała się do Urzędu Pracy. Ogień w trakcie zabawy mogli zaprószyć właśnie malcy.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

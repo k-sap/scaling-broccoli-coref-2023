@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Nie inaczej rzecz się ma z performansem technologicznym. McKenzie zestawia długą listę produktów, w nazwach których użyto słowa "performance". Są na niej kasety wideo, mikrofony, dywany, rowery, oprogramowanie komputerowe, nasiona. Koncept performatywności (wydajności, niezawodności) jest w świecie współczesnych technologii absolutnie nadrzędny - argumentuje Amerykanin. Początek historii performansu technologicznego to dla niego lata zimnej wojny. Za czynnik kluczowy uznaje wyścig zbrojeń, zwłaszcza rozwój techniki rakietowej. Istotę performansu technologicznego widzi w "rzucaniu wyzwań" (challenging forth). Jak w ramach performansu organizacyjnego, powstaje tu napięcie między dążeniem do normalizacji a potrzebą eksperymentu. Z jednej strony - by badania nowych technologii miały sens, należy je przeprowadzać w warunkach ustandaryzowanych, spełniających wytyczone zawczasu założenia. Z drugiej - sam akt wskazania kierunku doświadczenia wynika w głównej mierze z intuicji. Ktoś, kto opracowuje nową technologię, rzuca wyzwanie: stawia tezę, którą chce sprawdzić. Porusza się raczej wśród niewiadomych niż wiadomych. Performans jest w tej grze testem skuteczności teorii, sprawdzianem, który może się nie powieść. Jednak mimo że ryzyko porażki jest wpisane w reguły performansu technologicznego, jego horyzont to z zasady system o sztywnych normach i odniesieniach.</p>
+        <p xml:id="p-2">Postulując poszerzenie pola refleksji performatyki o namysł nad performansem organizacyjnym i technologicznym, McKenzie ma jasny zamiar: chce zniuansować przeświadczenie o antysystemowej funkcji performansu, ujawnić jego uwikłanie we wznoszenie oficjalnych struktur wiedzy i władzy. O ile zastanawiając się nad dziełem Grotowskiego, mówiliśmy o autorze oraz jego ograniczającej, reakcyjnej roli w przebiegu zdarzenia performatywnego, o tyle u McKenzie'ego odnajdujemy tę samą myśl, lecz w bardziej rozbudowanej postaci: autor przeobraża się w Perform or else w autorytet, instancję wobec performansu zewnętrzną, a zarazem definiującą go w najgłębszej warstwie. Tutaj to autorytet mocno osadzonych konstrukcji intelektualnych i społecznych scenariuszy jest zagrożeniem dla obecności, elementem, który powoduje, że nie możemy obecności uznać za jakość samodzielną i czystą.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

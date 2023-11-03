@@ -1,0 +1,14 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Bezpieczny Aleksandrów? Statystyki i życie Policjanci z aleksandrowskiego komisariatu mają powód do zadowolenia. Statystyki mówią, że przestępczość w mieście spadła w ubiegłym roku o prawie 12 procent. Więcej czynów karalnych udało się także wykryć - nieco ponad połowa sprawców przestępstw trafiła pod sąd. Czy te optymistyczne dane potwierdzają także mieszkańcy? - Zupełnie nie odczułam poprawy bezpieczeństwa - mówi Zofia Panasik, mieszkanka ulicy Warszawskiej. - Coraz częściej słyszy się o włamaniach do komórek, do garaży. Mojego sąsiada w styczniu napadnięto, kiedy wracał wieczorem do domu. Stracił portfel, dokumenty, na szczęście nie został pobity</p>
+        <p xml:id="p-2">- Statystyki policyjne to jedno, a sytuacja na ulicach to drugie - uważa pan Stanisław Wojcieszek. - Obserwuję młodych ludzi, którzy każdego niemal wieczora wywracają kosze na śmieci na przystanku PKS, czasem wyrzucają je na sam środek jezdni. Nikt nie interweniuje. Potłuczono szyby w wiacie, rozbito betonowe stoły w parku, w drobny mak poszła reklama podświetlana przy barze na placu Kościuszki. I co? Sprawców nie wykryto, może w ogóle nie odnotowano takich zdarzeń</p>
+        <p xml:id="p-3">- Nie zgadzam się z tymi opiniami - mówi komendant policji Grzegorz Tomczak. - Sprawców potłuczenia stołów wykryliśmy i stanęli przed sądem. Co do innych chuligańskich wybryków, rzeczywiście nie zawsze jesteśmy w stanie na czas zareagować. Nie ma takiej możliwości, żeby w każdym punkcie miasta był w każdej chwili patrol, szczególnie w nocy z soboty na niedziele, kiedy rozbawiona, często nietrzeźwa młodzież wraca z zabaw i dyskotek. Patrole non stop krążą po mieście, ale nie wszystko są w stanie zobaczyć. Mieszkańcy nie czują się bezpiecznie, ale te odczucia dotyczą głównie spraw błahych - chuligańskich rozrób, aktów wandalizmu. Mało kto natomiast obawia się kradzieży czy napadu, bo te zdarzają się sporadycznie.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

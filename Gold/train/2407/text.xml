@@ -1,0 +1,19 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">8 grudnia 2005 - 0:01</p>
+        <p xml:id="p-2">W nocy z wtorku na środę policyjni antyterroryści rozbili drzwi do jednego z mieszkań przy ulicy Wolanowskiej w Radomiu. W środku znaleziono dwie kilkunastoletnie dziewczyny. Zaginięcie jednej z nich zgłosiła wcześniej Ø matka. Zatrzymano też dwóch mężczyzn o kryminalnej przeszłości.</p>
+        <p xml:id="p-3">Tydzień temu policja otrzymała zgłoszenie o zaginięciu czternastoletniej dziewczyny. "Zguba" odnalazła się po kilku dniach, jednak w ostatni wtorek znowu nie pojawiła się w domu. Na policję zgłosiła się także matka o rok starszej koleżanki zaginionej czternastolatki. Kobieta była zaniepokojona, gdyż jej córka wyszła ze szkoły w towarzystwie starszego mężczyzny i od tej pory ślad po niej zaginął.</p>
+        <p xml:id="p-4">- Udało się ustalić, że obie dziewczynki mogą przebywać w mieszkaniu przy ulicy Wolanowskiej w towarzystwie dwóch mężczyzn w wieku 26 i 38 lat. Obaj są mieszkańcami Radomia, wcześniej byli notowani wcześniej za przestępstwa kryminalne. Obawialiśmy się, że jeden z nich może mieć broń - informował Rafał Jeżak, rzecznik Komendy Miejskiej Policji w Radomiu.</p>
+        <p xml:id="p-5">Policjanci próbowali wejść do mieszkania, ale nie zostali wpuszczeni do środka. Wtedy zdecydowano się wezwać na miejsce jednostkę antyterrorystyczną. Funkcjonariusze sforsowali drzwi za pomocą piły.</p>
+        <p xml:id="p-6">- W mieszkaniu było dwóch mężczyzn, syn jednego z nich oraz zaginione nastolatki - dodaje rzecznik.</p>
+        <p xml:id="p-7">Obaj mężczyźni trafili do aresztu. Policjanci znaleźli w mieszkaniu narzędzia używane przez złodziei do dokonywania włamań. Broni jednak nie było.</p>
+        <p xml:id="p-8">Wczoraj trwały przesłuchania zatrzymanych, a także samych dziewcząt. Śledczy starają się dowiedzieć, w jaki sposób znalazły się w mieszkaniu przy ulicy Wolanowskiej i co tam robiły. Sprawą zajmuje się sekcja dochodzeniowo-śledcza radomskiej Komendy Policji.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

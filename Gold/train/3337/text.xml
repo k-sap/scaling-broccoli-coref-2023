@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Na dobre nerwy puściły Mugabe po lutowym referendum. Zapytał o poszerzenie swej władzy i konfiskatę farm białych bez odszkodowań. Po raz pierwszy przegrał. A to za sprawą niewiele wcześniej powstałego opozycyjnego Ruchu na rzecz Demokratycznej Zmiany (MDC). Prezydent nagle zdał sobie sprawę, że jego rządząca partia ZANU-PF (147 posłów na 150 miejsc) może przegrać zapowiedziane na późną wiosnę wybory. Tak więc kilka dni po referendum zaczęły się najazdy i okupacje farm. W czasie opozycyjnych demonstracji bojówkarze rządzącej partii wyciągali z tłumu białych i bili ich do nieprzytomności. Prezydent, który zarzekał się, że nie ma nic wspólnego z atakami na farmy, jednocześnie grzmiał, że zimbabwańscy biali (dzisiaj 70 tys.) to wrogowie publiczni, winni wszystkich nieszczęść kraju, że MDC to marionetka w rękach białych kolonialisto-rasistów. Faktem jest, że po 20 latach cichej apolityczności biali przyłączyli się znacznymi grupami do opozycji. Faktem jest też, że problem ziemi jest w dwunastomilionowym Zimbabwe wyjątkowo nabrzmiały. 4,5 tys. białych farmerów posiada 11 mln hektarów, stanowiących 70 proc. najlepszej ziemi w kraju. Setki tysięcy bezrolnych gnieżdżą się w lepiankach na obrzeżach wysoce zmechanizowanych farm białych. Jednak przez 20 lat rząd nie zrobił prawie niczego, by przeprowadzić reformę rolną. Ponad sto milionów dolarów otrzymanych od Anglików na ten cel poszło na zakup farm dla przyjaciół Mugabe.</p>
+        <p xml:id="p-2">Farmy okupują Weterani Wojny o Niepodległość. Przynajmniej tak się określają, gdyż większość z nich w najlepszym wypadku dopiero uczyła się mówić w momencie odzyskania niepodległości; to młodzi bezrobotni. A i sam szef Weteranów Chenjerai Hunzvi porównujący się do Che Guevary, Jezusa Chrystusa i noszący ciepły przydomek "Hitler" prawdopodobnie w żadnej wojnie udziału nie brał, studiował za to w warszawskiej Akademii Medycznej.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

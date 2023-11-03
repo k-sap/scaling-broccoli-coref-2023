@@ -1,0 +1,28 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Organami okręgowej izby lekarskiej są:</p>
+        <p xml:id="p-2">1)okręgowy zjazd lekarzy, 2)okręgowa rada lekarska, 3)okręgowa komisja rewizyjna, 4)okręgowy sąd lekarski, 5)okręgowy rzecznik odpowiedzialności zawodowej.</p>
+        <p xml:id="p-3">1. Najwyższą władzą okręgowej izby lekarskiej jest okręgowy zjazd lekarzy. W zjeździe uczestniczą członkowie okręgowych izb lekarskich poprzez swoich delegatów, a także z głosem doradczym - nie będący delegatami członkowie ustępujących organów okręgowej izby lekarskiej.</p>
+        <p xml:id="p-4">2. Delegatów wybiera się na zebraniach zwołanych w poszczególnych rejonach, obejmujących części obszaru działania izby. Zasady podziału izby na rejony ustala okręgowa rada lekarska.</p>
+        <p xml:id="p-5">3. Mandat delegata trwa 4 lata.</p>
+        <p xml:id="p-6">1. Okręgowa rada lekarska zwołuje co roku okręgowy zjazd lekarzy, a co cztery lata - zjazd sprawozdawczo-wyborczy.</p>
+        <p xml:id="p-7">2. Nadzwyczajny okręgowy zjazd lekarzy zwołuje okręgowa rada lekarska:</p>
+        <p xml:id="p-8">1) z własnej inicjatywy,</p>
+        <p xml:id="p-9">2) na wniosek Naczelnej Rady Lekarskiej,</p>
+        <p xml:id="p-10">3) na wniosek okręgowej komisji rewizyjnej,</p>
+        <p xml:id="p-11">4) na wniosek co najmniej 1/3 członków okręgowej izby lekarskiej.</p>
+        <p xml:id="p-12">3. Nadzwyczajny okręgowy zjazd lekarzy powinien być zwołany w ciągu miesiąca od dnia wpływu wniosku w sprawie jego zwołania.</p>
+        <p xml:id="p-13">4. Nadzwyczajny okręgowy zjazd lekarzy obraduje nad sprawami, dla których został zwołany.</p>
+        <p xml:id="p-14">Okręgowy zjazd lekarzy w szczególności:</p>
+        <p xml:id="p-15">1) podejmuje uchwały w sprawach objętych zakresem działania izby,</p>
+        <p xml:id="p-16">2) ustala zasady gospodarki finansowej izby oraz uchwala budżet izby,</p>
+        <p xml:id="p-17">3) rozpatruje i zatwierdza roczne i kadencyjne sprawozdania okręgowej rady lekarskiej, okręgowej komisji rewizyjnej, okręgowego sądu lekarskiego i okręgowego rzecznika odpowiedzialności zawodowej,</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

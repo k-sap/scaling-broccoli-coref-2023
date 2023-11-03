@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">- Rada Reklamy już w niedługim czasie będzie wydawać opinie - mówi dyrektor Małecki - czy dana reklama jest zgodna z zasadami etyki, ale tylko wówczas, gdy jakaś firma zwróci się do niej z zapytaniem. Będzie to rodzaj doradztwa, a w żadnym wypadku nie cenzura. Taka forma wcześniejszego monitorowania reklam istnieje na Zachodzie pod nazwą copy advice.</p>
+        <p xml:id="p-2">Nudy na pudy</p>
+        <p xml:id="p-3">Zdumiewająco obojętni wobec reklam są ich bezpośredni adresaci, czyli potencjalni klienci. Na początku lat 90., gdy pojawiły się one gremialnie, reagowali częściej i żywiej. Bulwersowały ich np. spoty promujące podpaski, irytowały proszki do prania. Teraz podczas emisji reklam Polacy opuszczają pokój, w którym jest telewizor (19 proc.) lub przełączają kanał (28 proc.), a tylko 6 proc. z nich przyznaje, że ogląda spoty tak samo jak inne programy.</p>
+        <p xml:id="p-4">"Apelujemy do sumień, jesteśmy obrazem brutalnej rzeczywistości. Reklama powinna szokować" - twierdził legendarny twórca reklam Benettona, Oliviero Toscani. Nasza krajowa reklama nie tylko nie szokuje, ale wręcz nudzi, do czego przyznaje się aż 75 proc. rodaków, zniechęca albo drażni. Tylko 20 proc. badanych wskazuje, że bywa ona atrakcyjna lub zabawna. Ponieważ reklamy wywołują w telewidzach raczej apatię niż reakcję, skargi na reklamy od obywateli wpływają niezmiernie rzadko. - W tym roku nie odnotowaliśmy ani jednego zażalenia od obywateli dotyczącego treści którejś z reklam - mówi rzeczniczka prasowa KRRiTV Joanna Stempień. - Jedyne, na co się skarżą, to zbyt duża liczba nadawanych spotów w telewizji publicznej.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

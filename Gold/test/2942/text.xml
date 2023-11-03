@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Potrafiłbym pomóc im wszystkim, nie ruszając się ze swojej ławeczki na szczycie wzgórza. Wystarczyło jedno moje słowo. Mniejsza o incognito , może nie zorientowaliby się, że to ja. Ale jesienią park jest tak piękny, te liście w czerwieniach i żółciach, te kunsztowne kreski ogołoconych gałęzi, że choć kochałem ich wszystkich oczywiście, chciałem w tym momencie tylko jednego: żeby znikli, żeby zostawili mnie samego, sam na sam z urodą moich drzew.</p>
+        <p xml:id="p-2">I oto znajduję się jesienią 1983 roku na przystanku autobusu nocnego 601, obok pomnika Czterech Śpiących na warszawskiej Pradze. Jest koniec października, późny wieczór. Wracam. Od zawieszenia stanu wojennego lubiłem tak jeździć, to była może reakcja na odwołanie godziny milicyjnej, a może przeczucie, że po zmroku stanę się kimś innym niż za dnia i spotkam innych ludzi niż ci spotykani zazwyczaj. W autobusie linii nocnej panowała atmosfera rodzinnej bliskości, jakbyśmy znaleźli się w taksówce (nieco tańszej niż rzeczywista): nic z rutyny powrotów do pracy, kołowrotu wciąż tych samych zdarzeń. Dla każdego pasażera to przygoda, chwilowe zniesienie obowiązków, bo przecież w Polsce o tej porze zazwyczaj się śpi. Jest nas mało i nikt nie może być pewien przebiegu trasy, a i miasto prezentuje za oknami nieznane oblicze, ospałe, ciemne, opuchnięte od mroku. Nikt nie wie, gdzie wypadnie następny przystanek. Łatwo nawiązuje się rozmowy, oczywiste sojusze banitów z normalnego życia. Nawet pijacy są odświętni, też należą do tej małej resztki wspólnoty, bo po tamtej, wielkiej, nic nie zostało poza porcjami ciemnych sylwetek, które rozwożą po tajemniczym mieście chrypiące ciężko wozy, dziwnie rozpędzone wśród opustoszałych ulic.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

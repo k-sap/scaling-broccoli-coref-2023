@@ -1,0 +1,18 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">EWA: Ja miałam kiedyś praktykę w szkole specjalnej. Chodzą tam dzieci upośledzone w stopniu lekkim, a poza tym "normalne" Ø. Często kończą szkoły zawodowe, pracują, zakładają rodziny. One sobie radzą w społeczeństwie. A nasze dzieci są inne.</p>
+        <p xml:id="p-2">A.S.: Tak, one są inne. Nawet jeśli się dobrze rozwijają.</p>
+        <p xml:id="p-3">EWA: One zupełnie inaczej funkcjonują. Są inne poprzez emocje.</p>
+        <p xml:id="p-4">A.S.: Nie da się zrobić z dziecka upośledzonego - dziecka "normalnego". Bo zawsze mu czegoś brak albo coś "wystaje" i nie pasuje.</p>
+        <p xml:id="p-5">ANDRZEJ: Największy problem to samotność naszych dzieci.</p>
+        <p xml:id="p-6">A.S.: Zastanawiam się, czy da się kiedykolwiek ją przekroczyć. Samodzielność ludzi z zespołem Downa jest niepełna, co bardzo ogranicza możliwość kontaktów towarzyskich. To żadna przyjemność iść do koleżanki z mamą. Cały urok życia towarzyskiego polega na wolności - urok przyjaźni, pierwszych flirtów, sympatii.</p>
+        <p xml:id="p-7">EWA: Czy my sami nie ograniczamy wolności naszych dzieci, niepotrzebnie ingerując w ich kontakty? Obserwowałam rodziców na naszym ostatnim wspólnym turnusie, jak non stop pilnowali swoich dzieci na zamkniętym, bezpiecznym terenie. Wkraczali ostro, gdy dzieci zaczynały się bawić w "małżeństwo" czy w "doktora". A nas, gdy miałyśmy po dziesięć lat, nikt już nie pilnował. Czy kiedykolwiek rodzice chodzili z nami na podwórko?</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

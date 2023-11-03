@@ -1,0 +1,19 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">W tym sezonie żużlowcy Unii specjalizują się w bardzo wysokich zwycięstwach na własnym torze. Po rozgromieniu Wybrzeża, teraz leszczynianie nie dali szans Stali Pergo.</p>
+        <p xml:id="p-2">Sam mecz nie był jednak porywającym widowiskiem, bo też rywale wyraźnie ustępowali zawodnikom Unii.</p>
+        <p xml:id="p-3">Komplet Ułamka</p>
+        <p xml:id="p-4">W zespole Stali w zasadzie tylko Piotr Świst oraz Jesper Jensen starali się walczyć jak równy z równym. Pozostali byli tylko tłem dla gospodarzy.</p>
+        <p xml:id="p-5">W ekipie ,,Byków’’ natomiast kapitalnie jeździli Sebastian Ułamek i Rafał Okoniewski, którzy przed tym sezonem zostali pozyskani przez leszczyński klub. Ułamek nie tylko zdobył komplet punktów, ale także znakomicie jeździł w parze z Łukaszem Jankowskim. Gospodarze wygrywali zresztą zdecydowaną większość startów i już w pierwszym łuku mieli sporą przewagę nad rywalami.Wczorajszy mecz rozpoczął się jednak sensacyjnie, bo od zwycięstwa gorzowian 4:2. Jak się jednak szybko okazało, było to wszystko na co stać było gości. W tym wyścigu jechał zresztą Niklas Klingberg, który był najsłabszym punktem leszczyńskiej drużyny. O ile w pierwszym spotkaniu z Wybrzeżem Szwed zaprezentował się nieźle, o tyle wczoraj zawiódł.</p>
+        <p xml:id="p-6">Taśma Hliba</p>
+        <p xml:id="p-7">Do dziwnej sytuacji doszło w 6 biegu, kiedy to sędzia Ryszard Głód wykluczył za dotknięcie taśmy Pawła Hliba. Nie byłoby w tym nic dziwnego, gdyby nie fakt, że zawodnik Stali przejechał cztery okrążenia, a wykluczony został już po minięciu mety.</p>
+        <p xml:id="p-8">Do niebezpiecznej sytuacji doszło z kolei w wyścigu 8, gdy w pierwszym łuku zabrakło miejsca dla jadącego z czwartego toru Jacka Rempały. Zawodnikowi Unii nic się jednak nie stało i mógł wystartować w powtórce. Upadek zaliczył wczoraj również Ułamek, tyle tylko, że już po... zakończeniu meczu. Leszczynianin w trakcie rundy honorowej popisywał się przed kibicami różnego rodzaju ,,jaskółkami’’ i w pewnym momencie nie opanował motocykla.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

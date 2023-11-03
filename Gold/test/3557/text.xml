@@ -1,0 +1,14 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">#MarszalekBogdanBorusewicz: Proszę bardzo, Pani Minister.</p>
+        <p xml:id="p-2">#SekretarzStanuwMinisterstwieFinansowElzbietaSuchockaRoguska: Panie Marszałku! Panie Senatorze! W poprawce nie było wskazane konkretne przeznaczenie, środki miały być przeznaczone na ratownictwo. W tej grupie wydatków finansowany jest GOPR, TOPR, ratownictwo wodne, umowy z poszczególnymi stowarzyszeniami i podział środków dokonywany jest przez ministra spraw wewnętrznych i administracji. Tak że nigdzie się nie pojawiała sugestia, że te środki miały być przeznaczone tylko dla TOPR i na jakiś określony cel.</p>
+        <p xml:id="p-3">#MarszalekBogdanBorusewicz: Dziękuję, Pani Minister. Chciałbym teraz krótko powiedzieć, jakie są nasze wspólne plany. O 18.00 zaplanowana jest godzinna przerwa na opłatek, do godziny 19.00, i po niej powracamy do dyskusji na temat budżetu. Do głosu zapisało się trzydzieści pięć osób. W związku z tym trzeba przyjąć, że dyskusja będzie trwała około sześciu godzin. Tyle tytułem informacji. Panie Senatorze, jeżeli mamy dyskutować, jeżeli państwo będą w stanie dyskutować po godzinie 24.00, no to dzisiaj nie skończymy, ale chciałbym żebyśmy zakończyli tę debatę dzisiaj, bo jutro mamy jeszcze dodatkowe prace. Głosowania będą w piątek, tak że proszę zaplanować swój porządek dnia. Ponieważ pytania się zakończyły, otwieram dyskusję. Przypominam o konieczności zapisywania się do głosu u senatora prowadzącego listę mówców. Przemówienie senatora w dyskusji nie może trwać dłużej niż dziesięć minut. Podpisane wnioski o charakterze legislacyjnym senatorowie składają do marszałka Senatu do momentu zamknięcia dyskusji. Przypominam, że w dyskusji nad ustawą budżetową senatorowie nie mogą zgłaszać wniosków o odrzucenie ustawy. Proszę o zabranie głosu pana senatora Misiaka.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

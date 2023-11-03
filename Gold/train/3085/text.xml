@@ -1,0 +1,41 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Cieszę się, że nie tylko ja zachowuję się jak kiedyś... Wrócił też dawny Łukasz...</p>
+        <p xml:id="p-2">Łukasz patrzy na Agnieszkę.</p>
+        <p xml:id="p-3">ŁUKASZ</p>
+        <p xml:id="p-4">Powiedz mi... Co to znaczy "dawny Łukasz"?</p>
+        <p xml:id="p-5">Agnieszka zastanawia się.</p>
+        <p xml:id="p-6">AGNIESZKA</p>
+        <p xml:id="p-7">Dawny Łukasz to ktoś na kim można polegać... Ktoś kto cię nigdy nie zawiedzie...</p>
+        <p xml:id="p-8">ŁUKASZ</p>
+        <p xml:id="p-9">Raczej stary krętacz... Z tym bym się zgodził...</p>
+        <p xml:id="p-10">AGNIESZKA</p>
+        <p xml:id="p-11">Nie zwracając na niego uwagi</p>
+        <p xml:id="p-12">Ktoś, przy kim można się czuć bezpiecznie...</p>
+        <p xml:id="p-13">PAUZA</p>
+        <p xml:id="p-14">Ktoś z kim przeżyłam wielką tragedię ... I... dzięki niemu zrozumiałam, że... jednak warto dalej żyć...</p>
+        <p xml:id="p-15">ŁUKASZ</p>
+        <p xml:id="p-16">PORUSZONY</p>
+        <p xml:id="p-17">Przestań, bo się rozpłaczę, a przecież wiesz, że twardziele nie płaczą...</p>
+        <p xml:id="p-18">AGNIESZKA</p>
+        <p xml:id="p-19">POWAŻNIE</p>
+        <p xml:id="p-20">Powiedziałeś, że czułeś się tu samotnie...</p>
+        <p xml:id="p-21">PAUZA</p>
+        <p xml:id="p-22">Byłeś sam... Miałeś prawo się tak czuć...</p>
+        <p xml:id="p-23">PAUZA</p>
+        <p xml:id="p-24">Dookoła mnie było pełno ludzi... A mimo wszystko... była jakaś pustka... Ja też byłam bardzo samotna, Łukasz...</p>
+        <p xml:id="p-25">PAUZA</p>
+        <p xml:id="p-26">Dopiero teraz widzę jak bardzo brakowało mi ciebie... Twojej pogody... Twojego ciepła...</p>
+        <p xml:id="p-27">ŁUKASZ</p>
+        <p xml:id="p-28">Daj spokój...</p>
+        <p xml:id="p-29">AGNIESZKA</p>
+        <p xml:id="p-30">Mówię teraz to, co myślę i bardzo cię proszę nie przerywaj mi. Nie wiem czy jeszcze kiedyś się odważę.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

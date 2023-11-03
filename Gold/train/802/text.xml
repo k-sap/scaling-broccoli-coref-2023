@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">tewie CYTAT(Lobo2007 @ 15.11.2007, 18:09) "Danielr9 ma racje. Chcielibyście, aby księża udzielali ślubów, pogrzebów i.t.p. i nie brali pieniędzy. Przecież to ich praca i nie każdy może sobie dorobić. Zanim będziecie powtarzać takie opinie w stylu "fakty i mity", to zastanówcie się czy w porządku by było, aby nawet za czas poświęcony na odprawienie mszy nie otrzymali pieniędzy. Jeżeli ksiądz odmówi mszy za zmarłego, lub pogrzebu z powodu zbyt niskiej zapłaty wiedząc, że proszący jest bardzo biedny to żeczywiście nie jest w porządku, ale to inna sprawa. Podobnie jest z resztą z lekarzami. Też nie mogą odmówić pomocy, ale czy to powód aby pracowali za darmo? A w to że św. Piotr rozlicza za pieniądze na ziemi to chyba nikt nikomu nie wmawia." Ksiądz - to zawód. Pytanie tylko - czy potrzebny ?</p>
+        <p xml:id="p-2">Twisted_Sister Kościół to instytucja i nic więcej. Ja tak samo wielu rzeczy nie rozumiem. Jeśli to ich praca to już nie służą ani ludziom ani Bogu, tylko zwyczajnie zarabiają Kościół mógłby dostawać pieniądze od państwa a nie zarabiać w taki sposób ale niech se pobierają opłaty za co tam chcą - ja i tak mam to gdzieś, nie nabiorę się na to i tak więc niech robią co chcą. Ale niech potem nie uważają że są święci</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">- Czy możemy określić skutki tych działań?</p>
+        <p xml:id="p-2">- Tak. Dzisiaj, w wyniku polityki prowadzonej przez Akcję Wyborczą Solidarność i Unię Wolności na rynku pracy pojawiło się ponad 800 tys. nowych bezrobotnych, a stopa bezrobocia przekroczyła 15 proc. Proszę zauważyć do czego doszło - rządzący planują w ustawie budżetowej bezrobocie. To jest paradoks naszych czasów. A można było tego uniknąć... Pamiętamy, bezrobotni również (zwłaszcza młodzi, którzy niejednokrotnie mają ukończone studia wyższe), że pomimo narastającego z roku na rok zjawiska bezrobocia ministrowie wywodzący się z AWS-u i UW byli zwolennikami radykalnego obniżania dotacji państwa do Funduszu Pracy, a tym samym zmniejszenia nakładów na aktywne walki z bezrobociem. Przykładem jest nasz Powiatowy Urząd Pracy, który od wielu miesięcy nie wypłaca firmom należnych im środków finansowych z powodu ich braku. Wobec tych argumentów dzisiejsza "troska" premiera Buzka i rządu jest - według mnie - czystą hipokryzją. Trudno jest posłom SLD uwierzyć w tę nagłą zmianę poglądów.</p>
+        <p xml:id="p-3">- Problem bezrobocia "wchodzi" pod obrady radnych powiatowych. Czy jest sens zajmować się nim, gdy nie ma pieniędzy?</p>
+        <p xml:id="p-4">- Rada Powiatu Kłodzkiego kierowana przez koalicję AWS-u, UW i PSL-u podejmuje już po raz drugi na swojej sesji problem bezrobocia, lecz będą to pozorne ruchy. Dopóty, dopóki nie ruszy z miejsca nasza gospodarka, przedsiębiorcy nie będą tworzyć nowych miejsc pracy, a uchwały rady powiatu nic tu nie będą znaczyć, pozostaną tylko na papierze, jako bezwartościowe.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

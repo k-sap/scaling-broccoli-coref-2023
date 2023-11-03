@@ -1,0 +1,21 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">taka Witam wszystkich. Jestem tu po raz pierwszy i w sumie nigdy nie miałam ochotę należeć do jakiegoś forum....ale w sumie czemu by nie? W sumie nie wiem, co moge jeszcze napisać, tzn. jak Was powitać, więc to chyba tyle chcę powiedzieć Pozdrawiem</p>
+        <p xml:id="p-2">nika hejka taka witaj serdecznie na forumowisku i mam nadzieje ze spedzisz z nami milo czas</p>
+        <p xml:id="p-3">czarnaaa witaj mam nadzieję, że ci się tutaj spodoba i będziesz często a nawet bardzo często odwiedzać te forum. pozdrawiam.</p>
+        <p xml:id="p-4">sierij witam i......pozdrawiam</p>
+        <p xml:id="p-5">papillon Witaj Taka</p>
+        <p xml:id="p-6">irpe1809 taka witam także serdecznie i w sumie baw się dobrze Pozdrowionka serdeczne</p>
+        <p xml:id="p-7">maku Witam Ciebie i do postowania zapraszam Pozdrowienia</p>
+        <p xml:id="p-8">vito corleone taka witaj i baw się dobrze na forumowisku</p>
+        <p xml:id="p-9">Afeni Siemka życze miłego pisania Co do Twojego tematu o różnicy wieku, którego zamkneła Nika (miała racje) To zależy, większość mężczyzn w tym wieku myśli już o rodzinie, dzieciach itp. Każdy człowiek jest inny, mój chłopak np. jest 4 lata starszy ale ja wogóle nie dostrzegam różnicy A znam też facetów nawet młodszych z którymi nie mogłabym być bo są poprostu za poważni, zbyt drętwi itp. Musiałabyś go bliżej poznać, dowiedzieć się czego np. w związku z Tobą by oczekiwał. Podobno w miłości wiek nie gra roli Nie zdazylam tam tego wkleić</p>
+        <p xml:id="p-10">rutr witaj, milego dnia</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

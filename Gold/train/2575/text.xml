@@ -1,0 +1,22 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Kiedy będzie lek na AIDS?</p>
+        <p xml:id="p-2">W roku 1995, będąc w transie, Wanga przewidziała jeszcze groźniejszą niż AIDS chorobę. Powiedziała wówczas:</p>
+        <p xml:id="p-3">- Lekarstwo na AIDS pojawi się. Będzie ono z... żelaza, bowiem ten pierwiastek gwałtownie maleje w ludzkim organizmie. Ale przyjdzie inna, nowa choroba, jeszcze groźniejsza od raka i AIDS.</p>
+        <p xml:id="p-4">Według ekspertów do roku 2000 AIDS zabierze co najmniej 40 milionów ofiar. A jakie żniwo będzie zbierać ta „nowa“ choroba?</p>
+        <p xml:id="p-5">Chyba naprawdę trzeba się zastanowić, co może się stać z naszym życiem, zwłaszcza że proroctwa Wangi potwierdzają także inni jasnowidze na świecie.</p>
+        <p xml:id="p-6">Czy będzie wojna wojen?</p>
+        <p xml:id="p-7">Apokalipsa - jedna z biblijnych tajemnic - od zarania dziejów budziła lęk ludzi. Większość wyobrażała sobie apokalipsę jako wojnę ogólnoświatową. Czy rzeczywiście nastąpi taka wojna wojen? A jeśli tak - to kiedy? I kto ocaleje?</p>
+        <p xml:id="p-8">Wanga - podobnie jak inni prorocy - przewiduje, że koniec naszej cywilizacji będzie jednocześnie początkiem nowej, złotej ery.</p>
+        <p xml:id="p-9">- Nie będzie już katastrof ani potopu. Nadejdą tysiące lat spokoju i dobrobytu. Zwykli ludzie będą podróżować do innych światów z prędkością dziesięciokrotnie szybszą od światła, tak jakby podróżowali autobusem. Ale stanie się to nie wcześniej niż w roku 2050...</p>
+        <p xml:id="p-10">Jeśli dajesz życie</p>
+        <p xml:id="p-11">- Kiedy urodzisz dziecko, pamiętaj, już nie należysz do siebie! - twierdzi Wanga. - Należysz do dziecka. I nie zapominaj nigdy, że dając życie, odpowiadasz za nie. Jeśli nie dane ci być matką, zaadoptuj dziecko. Natura sprawiedliwie wynagradza kobiety, które urodziły i te które tylko wychowały. Ich wielkość jest taka sama. I nie zapomnijcie ochrzcić swoje dziecko! W ten sposób uchronicie je przed wszelkim złem.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

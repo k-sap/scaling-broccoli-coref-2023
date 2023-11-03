@@ -1,0 +1,14 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">(Wiem też, że nie mogę tu liczyć na pomoc krytyki, która prześlepi wszystko i już raz odczytała go zupełnie błędnie, sytuując na marginesie rzeczywistości. Jego, który stał w centrum, a rzeczywistość zmieściłaby się w kulce od długopisu, gdyby wtedy już istniał długopis.)</p>
+        <p xml:id="p-2">Najwięcej kłopotów przysparzała mi dramaturgia. Nie współczesna Ø, bo tej prawie nie ma, na szczęście - dramaturgia klasyczna. Najpierw dostawałem scenopis, który spowodowałby trzęsienie nekropolii w Atenach i Rzymie, obracając w ruinę to, co cudem się uchowało. Z mozołem przywracałem mu oryginalną postać, rekonstruując trzy jedności. Nie ma plagi gorszej od reżyserii o twórczych ambicjach. Byłem zmuszony dodawać didaskalia dorównujące długością tekstom, a i to nie wystarczało. Trzeba by właściwie pisać inny dramat, dramat z przedrostkiem anty-, zawierający inwentarz odstępstw morderczych dla pierwowzoru.</p>
+        <p xml:id="p-3">To naprowadziło mnie na koncept prowadzący do nowej definicji literatury, według której tekst jest tylko wyrwą, miejscem pustym w tym, co jeszcze-nie-powiedziane. Rym stanowi jedynie wyłom w dyskursie, gdzie rymów jest nieskończona liczba. Fabuła to zaledwie jedna sekwencja wyłuskana z wielowątkowej rzeczywistości. Postać pozostawia za sobą kontur w galerii osób z krwi i kości, niczym czarny karton pod uzbrojonymi w nożyczki palcami karykaturzysty, sprzedającego wycinanki na bulwarze. W tym rozumieniu moje ingerencje nie są niczym innym niż przywracaniem utraconego bogactwa, boskiej inwariantności, która zdążyła już zastygnąć w tekst, dotkliwie ograniczony, niepodatny na zmianę. Rozumiał to Gombrowicz, kiedy pisał o Dantem.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

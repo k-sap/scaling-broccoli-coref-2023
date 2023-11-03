@@ -1,0 +1,20 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">SenatorSylwesterGajewski: Tylko w przypadku importu z Unii Europejskiej mięsa wieprzowego, wołowego, czekolady i oleju rzepakowego zaniżenie to odpowiadało około 120 milionom dolarów. Oznacza to zmniejszenie wpływów z opłat celnych, podatku granicznego i VAT o co najmniej 50 milionów dolarów.</p>
+        <p xml:id="p-2">SenatorSylwesterGajewski: Unia Europejska poradziła sobie z problemem zaniżania przez importerów deklarowanej wartości importu, opierając naliczanie należności celnych na notowaniach cen na głównych rynkach hurtowych w krajach, z których pochodzi import. Jest to system zgodny z zasadami GATT.</p>
+        <p xml:id="p-3">SenatorSylwesterGajewski: Dlaczego u nas musi być zawsze inaczej? Te moje parę zdań daję pod rozwagę panu wicepremierowi do spraw gospodarczych, któremu wielokrotnie zwracałem uwagę na to wciąż pogłębiające się zjawisko. Jednak ciągle otrzymywałem odpowiedź, iż nie jest on w stanie zapanować nad sytuacją. Dziękuję za uwagę.</p>
+        <p xml:id="p-4">WicemarszalekGrzegorzKurczuk: Dziękuję bardzo senatorowi Gajewskiemu.</p>
+        <p xml:id="p-5">WicemarszalekGrzegorzKurczuk: Proszę senatora Stępnia o zabranie głosu. Kolejnym mówcą będzie senator Ryszard Ochwat.</p>
+        <p xml:id="p-6">SenatorPiotrStepien: Panie Marszałku! Wysoka Izbo!</p>
+        <p xml:id="p-7">SenatorPiotrStepien: Na wstępie chciałem przeprosić wszystkich państwa, że się powtórzę, że odniosę się do paru kwestii, które już były poruszane z tej mównicy, ale są one ogromnie ważne. Zrobię to tylko bardzo sygnalizacyjnie.</p>
+        <p xml:id="p-8">SenatorPiotrStepien: Na początku chcę powiedzieć o pewnych sprawach, które już, jak słyszę, od wielu lat toczą się w państwie. Szkoda, że nie ma ich w budżecie, można by wreszcie rozstrzygnąć pewne rzeczy.</p>
+        <p xml:id="p-9">SenatorPiotrStepien: Mam na myśli sprawy, które dotyczą milionów ludzi w naszym kraju. Od wielu, wielu lat płyną wnioski o rozwiązanie tych problemów. Zacznę może od pierwszej sprawy, od sposobu naliczania dochodów budżetu państwa z tytułu podatku od paliwa.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

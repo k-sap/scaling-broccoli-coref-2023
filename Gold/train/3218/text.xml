@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">sp4: mówimy generalnie o tym co się działo w Europie ale ja mówię o o tym że to była cecha wspólna w Polsce w Niemczech we Francji W Hiszpanii. protestowali pracownicy robotnicy właśnie przeciwko temu. że na ich barki zrzuca się koszty tych reform koszty. złego rządzenia. to samo przecież jest w Polsce i to sobie trzeba wyraźnie powiedzieć</p>
+        <p xml:id="p-2">sp0: u nas zamrożono. płace budżetówki. w Czechach obcięto o dziesięć procent</p>
+        <p xml:id="p-3">sp3: łatwo jest zdefiniować to jest wasz kryzys. ale gorzej kiedy ten kryzys nie dotknie poprzez politykę ale realnie ludzi</p>
+        <p xml:id="p-4">sp2: ale ale bądźmy no dobrze tylko chciałbym to urealnić otóż w Polsce odbyła się ta fala strajków może protestów na trochę mniejszą skalę niż w Europie. ale protestujący ostrzegają rząd. że jeżeli jeszcze kilka miesięcy temu były podpisywane porozumienia społeczne między rządem a związkami zawodowymi. i rząd obiecywał jeszcze przed wyborami prezydenckimi. że będą waloryzowane pensje w budżetówce i teraz w budżecie widzimy że tego nie ma. no to ludzie mają prawo zapytać. dlaczego wprowadzono ich w błąd dlaczego ich okłamano. o wskaźnikach makroekonomicznych w roku dwa tysiące jedenastym było wiadomo już wcześniej że ten kryzys rzeczywiście do Polski się zbliża i że mamy coraz większe zadłużenie. tak że nie można obwiniać związkowców mówiąc że. protestują przeciwko braku waloryzacji braku reform również w tymw obszarze płacowym. nauczyciele no przecież przed wyborami usłyszeli. z ust premiera z ust prezydenta. tak będzie rewaloryzacja będzie podwyżka</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

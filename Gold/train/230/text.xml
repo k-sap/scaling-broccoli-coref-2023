@@ -1,0 +1,22 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">W Chałupach co roku w połowie lipca odbywa się impreza Kaszubskie Łodzie pod Żaglami - w czasie której rybacy wypływają na odświętnie ozdobionych łodziach.</p>
+        <p xml:id="p-2">Kuźnica</p>
+        <p xml:id="p-3">To podobna do Chałup wioska. Tu także na każdym kroku wyczuwa się atmosferę osady rybackiej. Zwiedzać można neogotycki kościół z wyposażeniem, które najprawdopodobniej zostało przywiezione ze Śląska.</p>
+        <p xml:id="p-4">W połowie lipca w Kuźnicy odbywa się Festiwal Rybny.</p>
+        <p xml:id="p-5">Jastarnia</p>
+        <p xml:id="p-6">Popularne letnisko. W porcie cumują malownicze, kolorowe łodzie rybackie, a w niewielkiej portowej smażalni można zjeść świeżą i niedrogą rybkę, popijając ją zimnym piwem.</p>
+        <p xml:id="p-7">Muzeum Rybackie</p>
+        <p xml:id="p-8">Są tu prywatne zbiory ciekawych przedmiotów i narzędzi rybackich. Barwne historie o ich przeznaczeniu i o życiu miejscowych rybaków opowiada oprowadzając po muzeum sympatyczny właściciel.</p>
+        <p xml:id="p-9">Muzeum mieści się przy ul. Mickiewicza 115 i jest czynne w godz. 10.00 - 18.00, tel. 058 675-22-45.</p>
+        <p xml:id="p-10">Centrum Jastarni</p>
+        <p xml:id="p-11">Rozciąga się wokół kościoła Nawiedzenia NMP. Wyposażenie i wystrój świątyni oddają charakter i atmosferę tego miasteczka. Na szczególną uwagę zasługuje ambona w kształcie łodzi. Na każdym kroku, spacerując uliczkami Jastarni, spotyka się stare chatki rybackie. W jednej z nich, położonej przy ul. Rynkowej 10, mieści się nawet muzeum. Można zobaczyć jak wyglądało wnętrze typowej chaty rybackiej przed stu laty. Dla zwiedzających otwarte jest w godz. 13.00 - 18.00 lub po telefonicznym uzgodnieniu (tel. 058 675-23-94).</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

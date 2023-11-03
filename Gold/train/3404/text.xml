@@ -1,0 +1,16 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Srebrny medal zdobył także Artur Stopyra. W kategorii juniorów młodszych w biegu na 300 metrów przegrał jedynie z Arkadiuszem Wojno (Prefbet Śniadowo – 35,61). Wychowanek trenera Anioła, podobnie jak jego koleżanka klubowa Monika Flis, dał się wyprzedzić rywalowi na ostatnich kilku metrach, uzyskując czas 35,70.</p>
+        <p xml:id="p-2">– Pognał jak szalony – relacjonuje start swojego zawodnika Stanisław Anioł. – Podobał mi się jego start. Od razu zaatakował – ile miał sił, a że zabrakło mu ich nieco w końcówce, nie zmienia faktu, że to był bardzo dobrze rozegrany bieg.</p>
+        <p xml:id="p-3">Kolejnym medalistą ze Stalowej Woli jest Mariusz Mierzwa, który startował w biegu juniorów młodszych na dystansie 1 km. O ponad półtorej sekundy przegrał z Maksymilianem Wroniszewskim z MKS Tomaszów Mazowiecki i niecałą sekundę z Kamilem Gurdakiem ze Stali Nowa Dęba. Zwycięzca osiągnął czas 2:36,61, Mierzwa – 2:37,90.</p>
+        <p xml:id="p-4">– Miał nasz zawodnik trochę szczęścia, ale pomógł mu i dlatego w nagrodę ma brązowy medal. Ci, którzy biegali w pierwszej, najmocniejszej grupie, byli tak pewni swoich sił, że zlekceważyli pozostałych, a tamci włożyli maksimum swych sił oraz ambicji, i opłaciło im się.</p>
+        <p xml:id="p-5">Blisko podium była Paulina Skakuj, która zajęła czwarte miejsce w chodzie na 3 km, oraz Joanna Jóźwik, która uzyskała czwarty czas w biegu juniorek młodszych na 600 m. A trzeba zaznaczyć, że zawodniczka Victorii pojechała do Spały z niewyleczoną do końca kontuzją kolana i pobiegła najpierw w eliminacjach, a następnie w finałach na własną prośbę. Warto również w tym miejscu wspomnieć, że nasza utytułowana biegaczka Monika Wiśniowska, gdy zdobywała medale na 600 metrów w hali, biegała wolniej od Joanny Jóźwik. Dwie pierwsze zawodniczki finałowego biegu na 600 m pobiegły szybciej od rekordu Polski...</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

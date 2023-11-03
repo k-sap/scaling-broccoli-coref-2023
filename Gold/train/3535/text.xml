@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Jeśli chodzi o premiera, to trzeba znaleźć dojście do Lecha Nikolskiego, który decyduje o ostatecznym kształcie listy delegacji. Sam Nikolski twierdzi wprawdzie, że typują izby gospodarcze i organizacje biznesowe, ale innych dróg nie wyklucza.</p>
+        <p xml:id="p-2">Można nawet odnieść wrażenie, że te inne są skuteczniejsze. Lech Pilawski z Polskiej Konfederacji Pracodawców Prywatnych wolałby, żeby kryteria doboru przedsiębiorców były bardziej przejrzyste, a organizacje biznesowe dowiadywały się o wyjazdach nieco wcześniej, nie zaś - jak to jest w praktyce - w ostatniej chwili. Program wizyty często bowiem zależy od samych przedsiębiorców. Jeśli więc mają z niej wynikać jakieś pożytki, lepiej mieć czas na przygotowanie. Niestety PKPP nie została jeszcze poinformowana, dokąd w najbliższym czasie wybierają się głowy państwa. Ale na przykład minister Włodzimierz Cimoszewicz zapowiedział, że wybiera się do Danii i Finlandii i nawet zaprosił biznes na spotkanie, żeby się dowiedzieć, czego się po wizycie spodziewa.</p>
+        <p xml:id="p-3">Zdarza się, że przedsiębiorcy jadą w charakterze figurantów. Jak wtedy, gdy premier Buzek składał wizytę w Maroku. Na kilka dni przed wyjazdem służby dyplomatyczne poinformowały przedsiębiorców, że podpiszą umowę o współpracy z tamtejszą organizacją pracodawców. Więc podpisali, chociaż nic z tego nie wynika.</p>
+        <p xml:id="p-4">Sito przy naborze nie gwarantuje, że nie będzie wpadek. Janusz Steinhoff, wicepremier w rządzie Jerzego Buzka, uważa, że uczestników delegacji na najwyższych szczeblach należałoby prześwietlać dokładniej. Żeby nikomu więcej nie zdarzyło się to co jemu - w grupie biznesowej miał Piotra Bykowskiego, którym wkrótce poważnie zainteresował się prokurator.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

@@ -1,0 +1,18 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Iffona Złote gwiazdki już na niebie, ale obok nie ma Ciebie. Ciemna noc, zimne łóżko, komu szepnąć mam na uszko ,że kocham mojego Misia, aż dostaję w głowie fisia? Kolorowych,słodkich snów i brakuje mi już słów, więc mówię DOBRANOC kochanie moje, już jutro będziemy we dwoje!</p>
+        <p xml:id="p-2">gfiazdeczka no ja wam te dam kilka: owce, konie oraz slonie, ryby w stawie, pchly na trawie, stado mlecznych krow wszyscy zycza: MILYCH SNOW!!! Patrze na ciebie i wciaz to przezywan znow beznadziejnie z innym przegrywam. Staram sie odkochac lecz to sie nie udaje. tylko we snie jestes dla mnie rajem. Spojrz chociaz raz prosto w moja strone, zobacz jak we lzach milosci tone, pomysl przez chwile jestem nie daleko za Twej obojetnosci rzeka. Tak bardzo pragne ja szybko przeplynac. Prosz nie pzwol mi bez siebie...</p>
+        <p xml:id="p-3">Kaczusiaaa emmmmmmmmmm link juz ktos podał ktory chciałam dac:D</p>
+        <p xml:id="p-4">nns Ten sms jest dla Ciebie, niech przytuli Cię w potrzebie, niech on broni Cię o złego, da buziaka też słodkiego, niech zastąpi Tobie mnie, kiedy nie widzimy się. Może nie na dobranoc, ale jest</p>
+        <p xml:id="p-5">Oleńka :) Na dobranoc dla Misia buziaczek w pysia =* Śpij słodko Ty moja maskotko, tysiąc pieszczotek przeszyła Twój Kotek</p>
+        <p xml:id="p-6">papillon Niektóre naprawdę są śmieszne</p>
+        <p xml:id="p-7">Kaczusiaaa "nns" uzyczyłam sobie eska fajniusi jest</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

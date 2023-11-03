@@ -1,0 +1,22 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Plan badania powinien być przygotowany na każdą ewentualność, musi być elastyczny i przewidywać różne sytuacje. Musi również zawierać wskazówki dotyczące działania awaryjnego.</p>
+        <p xml:id="p-2">Przeprowadzenie badania</p>
+        <p xml:id="p-3">Przed rozpoczęciem badania uczestnicy powinni dostać do wypełnienia kwestionariusz, który dostarczy danych o testowanej próbie osób. W kwestionariuszu tym należy zawrzeć pytania dotyczące płci, wieku, wykształcenia, ilości czasu spędzanego w Internecie i innych zagadnień związanych z tematyką testowanego prototypu. W momencie rozpoczęcia badania moderator czyta uczestnikom swobodnym tonem wprowadzenie. Każdy uczestnik powinien usłyszeć takie samo wprowadzenie. We wstępie należy:</p>
+        <p xml:id="p-4">- Przedstawić się.</p>
+        <p xml:id="p-5">- Wyjaśnić, co jest przedmiotem badania (koniecznie podkreślić, że badana jest witryna, a nie uczestnik sesji testowej).</p>
+        <p xml:id="p-6">- Zaznaczyć, że nie ma złych ani dobrych odpowiedzi.</p>
+        <p xml:id="p-7">Przedstawić w skrócie badanemu zadania, które będzie wykonywał.</p>
+        <p xml:id="p-8">- Poprosić, by w trakcie badania uczestnik wyrażał swoje myśli na głos. Wyjaśnić, że w czasie trwania badania można zadawać pytania, na które Ty odpowiesz po zakończeniu sesji (udzielanie odpowiedzi w trakcie badania może doprowadzić do zafałszowania wyników, gdyż udzielający odpowiedzi nieświadomie może przekazać wskazówki co do sposobów rozwiązania zadania).</p>
+        <p xml:id="p-9">- Przypomnieć, że uczestnik może w każdej chwili zrezygnować z testu.</p>
+        <p xml:id="p-10">- Upewnić się, że badany nie ma żadnych pytań i wątpliwości.</p>
+        <p xml:id="p-11">- Określić formę wynagrodzenia za udział w badaniu oraz formę jej wypłaty. Ważne, by stwierdzić, że wynagrodzenie zostanie wypłacone po ukończeniu całego badania oraz że nie zostanie, jeśli w trakcie testu badany zrezygnuje ze współpracy.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

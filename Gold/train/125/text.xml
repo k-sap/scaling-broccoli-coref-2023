@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Konkurs ma zatem z jednej strony być sprzeciwem wobec zaniku sztuki opowiadania, z drugiej strony ma wzmóc i przyspieszyć rychłe odrodzenie tej sztuki. Ma dać interesujące świadectwo tego, o czym i jak Polacy dziś opowiadają. Choć nie stawiam żadnych ograniczeń, zawodowym literatom raczej udział odradzam, a specjalnie do udziału zachęcam tych, którzy jak dotąd nigdy niczego na piśmie nie opowiadali. Intencja konkursu nie jest literacka, ale socjologiczna. Jeśli w wyniku Ø wyłonią się jakieś talenty, będzie bardzo dobrze, ucieszymy się i poprzemy - ale nie ogłaszamy tego konkursu po to, by wyłowić talenty. Ogłaszamy go po to, by usłyszeć, jak na początku trzeciego tysiąclecia Polska opowiada. Jestem przekonany, że rezultaty i ilościowo, i jakościowo będą doniosłe. Każdy ma w pamięci jakieś godne opowieści wydarzenie ze swojego życia lub z życia najbliższych, niepojęty zbieg okoliczności, niesłychane spotkanie, tragiczne urodziny ciotki, komiczny pogrzeb dziadka, fatalną zgubę, cudowne znalezisko, że o licznych perypetiach zawodowych, losowych, politycznych i zwłaszcza miłosnych nie wspomnę.</p>
+        <p xml:id="p-2">Proszę taką (a też każdą inną) historię opisać na góra trzech stronach maszynopisu. Powiedzmy, że 7 tys. znaków (ze spacją) to jest absolutna górna granica, teksty obszerniejsze będą odrzucane z automatu. Odrzucana też będzie z definicji wszelka science fiction, fantasy i nadrealizm. Nie sugeruję, że jest to konkurs na opowiadanie realistyczne, ale podstawą ma być rzeczywiste wydarzenie. Albo tak dobrze wymyślone, żeby w nie uwierzyć. Nadchodzące materiały będę omawiał na łamach "Polityki"; mam nadzieję, że najciekawsze Ø w "Polityce" wydrukujemy, a być może uda się z nich złożyć interesującą książkę. Konkurs zamknięty zostanie na Wielkanoc.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

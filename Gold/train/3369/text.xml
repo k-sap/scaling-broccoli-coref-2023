@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Kryptonim "Pieczątka"</p>
+        <p xml:id="p-2">Dziwna jest ta zmowa, w której poza świadkami (są nimi nie tylko osoby karane) biorą udział policjanci, prokuratorzy i funkcjonariusze UOP. - To nie jest tak, że szukaliśmy na Józefa Z. jakiegoś haka - mówi prokurator. - Ta sprawa sama do nas przyszła.</p>
+        <p xml:id="p-3">W 1997 r. policjanci z wydziału przestępczości gospodarczej Komendy Wojewódzkiej w Wałbrzychu wpadli na trop grupy trudniącej się wyłudzaniem towarów w systemie sprzedaży ratalnej. Założono tzw. teczkę rozpoznania, potem uruchomiono inwigilację, wreszcie wszczęto rozpoznanie operacyjne. Sprawie nie bez powodu nadano kryptonim "Pieczątka" - sprawcy posługiwali się bowiem pieczątkami kilku instytucji, m.in. stemplem sądowym. Śledztwo ujawniło 14-osobową grupę wyłudzającą na sfałszowane dokumenty towary ze sklepów. Najciekawsze były jednak informacje, że z grupą luźno związany jest miejscowy sędzia Józef Z. Ustalono, że łączą go z niektórymi członkami grupy bliskie stosunki towarzyskie i że osoby te kontaktują sędziego z wałbrzyskimi przestępcami. Za korzyści majątkowe sędzia obiecuje protekcję ludziom zagrożonym przez wymiar sprawiedliwości.</p>
+        <p xml:id="p-4">Sprawę sędziego wyłączono do osobnego postępowania. Materiały przekazano do prokuratury w Wałbrzychu, która już po trzech dniach przekazała śledztwo do Wrocławia, bo, jak napisano w dokumentacji "figurant jest sędzią Sądu Wojewódzkiego, natomiast jego córka zatrudniona jest w Prokuraturze Rejonowej w Wałbrzychu". Uznano, że tylko Wrocław może bezstronnie i prawidłowo przeprowadzić dalsze czynności. Wtedy do sprawy włączył się UOP. W sprawie sędziego zebrano 5 tomów akt, kilkaset dokumentów. Co było dalej, już wiemy. Sąd Dyscyplinarny nie uwierzył - sędzia nadal pełni swoje obowiązki, chociaż teraz już nie orzeka wyroków. - Przesunąłem go do drugiej instancji, sprawdza wyroki innych sędziów - wyjaśnia prezes Gul z wałbrzyskiego sądu.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

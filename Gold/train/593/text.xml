@@ -1,0 +1,18 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Rudy uranu zostały tam odkryte. Mówiąc o przyszłości tych zasobów, trzeba być bardzo ostrożnym. Wiele zależy od uwarunkowań środowiskowych.</p>
+        <p xml:id="p-2">Czy Państwowy Instytut Geologiczny zamierza wznowić badania na tym terenie, by dokładniej udokumentować te ilości?</p>
+        <p xml:id="p-3">Uważam, że badania powinny być prowadzone. Przygotowaliśmy już program poszukiwania uranu; złożymy wniosek do Narodowego Funduszu Ochrony Środowiska i Gospodarki Wodnej o dofinansowanie naszego projektu. Mam nadzieję, że te prace będziemy mogli rozpocząć, w związku z planami zbudowania do 2020 roku elektrowni atomowej. Na bieżąco utrzymujemy kontakt z panią minister Hanną Trojanowską, pełnomocnikiem rządu ds. budowy elektrowni jądrowej w Polsce. Panią minister interesują składowiska uranu, ich rodzaje - w związku z przygotowaniami do wyboru miejsca budowy elektrowni atomowej.</p>
+        <p xml:id="p-4">Czy takie poszukiwania, badania geologiczne związane z ustalaniem wielkości zasobów uranu mogą być uciążliwe dla przyrody, ludzi?</p>
+        <p xml:id="p-5">Zwykle zaczyna się od spojrzenia z góry na teren przyszłych eksploracji, od analiz zgromadzonych dotychczas materiałów, korzystania z modeli komputerowych. Jeżeli wyniki tych dociekań wskazują na sens dalszych poszukiwań, decydujemy się na wiercenia, a te przedsięwzięcia są niezmiernie kosztowne. Ingerencja w środowisko w zasadzie jest żadna. Sprawa zaczyna się wikłać, gdy zaczynamy mówić o stawianiu obiektu górniczego.</p>
+        <p xml:id="p-6">Czy budowa kopalni na Mierzei Wiślanej wiązałaby się z wykopaniem głębokiego szybu?</p>
+        <p xml:id="p-7">Chyba bez tego by się nie obeszło. Trzeba by budować szyby do eksploatacji wgłębnych. Mierzeja to nie Bełchatów, tu kopalni odkrywkowej nie da się otworzyć. Nie wyobrażam sobie jednak, by na Mierzei Wiślanej kopalnia powstała. Może gdzieś w rejonie Białegostoku.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

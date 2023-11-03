@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Senat uznał za zbyt niską maksymalną kwotę pomocy na jedno nowoutworzone miejsce pracy, którą może otrzymać przedsiębiorca poprawka nr 7. Zdaniem Senatu podstawowym celem ustawy jest ułatwianie tworzenia nowych miejsc pracy.</p>
+        <p xml:id="p-2">Senat skreślił przepis wyłączający całkowicie stosowanie Kodeksu postępowania administracyjnego do postępowania w sprawie finansowego wspierania inwestycji poprawka nr 10. Zdaniem Senatu brak jest przyczyn uzasadniających odejście od przepisów tego Kodeksu.</p>
+        <p xml:id="p-3">Senat dostosował jeden z elementów wniosku o udzielenie wsparcia finansowego do terminologii Polskiej Klasyfikacji Działalności poprawka nr 11 oraz określenie opisujące dołączane do wniosku dokumenty do przepisów innych ustaw poprawka nr 12.</p>
+        <p xml:id="p-4">Senat stwierdził, iż delegacje zawarte w art. 11 w ust. 2 oraz art. 14 w ust. 3 i 4 nasuwają wątpliwości związane z ustawowym charakterem materii przekazanej do uregulowania w rozporządzeniu oraz ogólnością wytycznych dotyczących treści rozporządzenia, która powoduje, że wytyczne nie stanowią minimum kierunku unormowań co do treści aktu wykonawczego. Oznacza to, iż w praktyce to rozporządzenie będzie decydować o kwestiach zasadniczych, które powinny być uregulowane w ustawie np. terminy rozpatrywania wniosków, kryteria udzielania wsparcia finansowego. Poprawki nr 13, 14, 15 i 18 zmierzają do oznaczenia w ustawie, a nie w rozporządzeniu, terminów rozpatrywania przez ministra wniosków o udzielenie wsparcia finansowego oraz wszystkich kryteriów udzielania tego wsparcia. Poprawki te oprócz tego nakładają na ministra właściwego do spraw gospodarki obowiązek poinformowania przedsiębiorcy lub gminy o udzieleniu bądź odmowie udzielenia wsparcia finansowego, ponieważ to minister a nie Zespół do Spraw Udzielania Wsparcia Finansowego Przedsiębiorcom, zgodnie z przepisem art. 14 ust. 1, ma dokonywać ostatecznej oceny spełniania przez nową inwestycję kryteriów udzielania wsparcia.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

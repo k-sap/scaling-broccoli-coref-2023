@@ -1,0 +1,16 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Anna Maria Jopek uważa, że gdyby nie muzyka, pewnie nigdy nie spotkałaby Marcina i być może nigdy nie byliby razem. Jeszcze w czasie studiów słuchała jazzowych audycji Marcina Kydryńskiego. Już wtedy myślała o śpiewaniu. Pewnego dnia postanowiła nagrać swój głos, przesłać taśmę do radia, do pana Marcina. Ten odesłał taśmę z opinią, że pani Anna nie powinna jednak śpiewać.</p>
+        <p xml:id="p-2">— Ostatnio znalazłam tę taśmę — śmieje się Anna Maria Jopek. — Nie wiem, jak mogłam to kiedykolwiek do kogokolwiek wysłać!</p>
+        <p xml:id="p-3">Teraz płyty, które Marcin Kydryński puszczał w swoich audycjach, stoją na wspólnej półce w ich domu.</p>
+        <p xml:id="p-4">Anna Maria Jopek miała być pianistką. Uczyła się w szkole muzycznej, ćwiczyła palcówki i wprawki. Nauka gry na fortepianie wymaga żmudnej pracy, ogromnego samozaparcia, siły woli, wyrzeczeń, zrezygnowania z zabaw.</p>
+        <p xml:id="p-5">— Tata gonił za mną po podwórku, przerywał najlepsze zabawy i zmuszał do ćwiczeń. Podejrzewam, że gdyby wtedy mnie nie przypilnował, pewnie dzisiaj zajmowałabym się czymś innym — mówi pani Anna.— Ale były i dobre strony tej sytuacji. Kiedyś, pamiętam, w popłochu wkuwałam biologię na jakąś strasznie ważną klasówkę. Wtedy wszedł mój tata i powiedział: „Fantastycznie! Idziemy na »Carmen«, mam dwa bilety”. Ja na to, że mam klasówkę, że zawalę biologię i nie zdam do następnej klasy. Wtedy tata odpowiedział mi, że biologię za tydzień zapomnę, a „Carmen” będę pamiętać do końca życia. Nawet nie wiem, co dostałam z tej klasówki (najwyraźniej przeszłam, skoro jestem magistrem), a „Carmen” pamiętam do dziś.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

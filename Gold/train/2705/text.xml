@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Anna Kisicka</p>
+        <p xml:id="p-2">a.kisicka@prasa.gda.pl</p>
+        <p xml:id="p-3">Dziś między godz. 5 a 8 rano w każdej z 500 szkół ponadgimnazjalnych w Pomorskiem zjawi się kurier z zalakowaną przesyłką. Będzie mógł ją odebrać tylko dyrektor szkoły albo upoważniona przez niego na piśmie osoba. Wewnątrz paczki znajdą się testy maturalne z języka polskiego: dokładnie tyle Ø, ilu uczniów w danej szkole zdaje egzamin. Przed godz. 9, prosto z gabinetu dyrektora testy zostaną przekazane do sal, w których już czekać na nie będą tegoroczni maturzyści. Będą mieć 170 minut na rozwiązanie zadań testowych. Będzie to egzamin z języka polskiego, który rozpoczyna maturalny maraton. Scenariusz ten powtarzać się będzie codziennie, aż do 23 maja. Jedyną różnicą będzie zawartość kopert – każdego dnia trafią do szkół testy z innego przedmiotu.</p>
+        <p xml:id="p-4">Egzamin z polskiego musi zdać każdy maturzysta. W Pomorskiem jest ich w tym roku niemal 28 tysięcy. Oprócz tego testu abiturienci obowiązkowo muszą przystąpić jeszcze do dwóch pisemnych egzaminów: z języka obcego oraz wybranego przedmiotu. Jeśli chodzi o język obcy, to tradycyjnie maturzyści wybierali najchętniej angielski – zmierzy się z nim 29 tysięcy abiturientów. Wśród przedmiotów do wyboru najpopularniejszą okazała się geografia, na którą zdecydowało się niemal 9 tysięcy zdających. Na kolejnym miejscu – z 8,3 tysiąca chętnych, znalazła się wiedza o społeczeństwie. Bardzo popularna była też biologia, z której pisać będzie 6,8 tysiąca maturzystów.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

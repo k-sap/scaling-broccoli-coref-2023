@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">agapeace Zdolności poetyckie - ograniczam się do zeszytu, choć ostatnio pokazałam pare moich wierszy specjaliście i ponoć całkiem, całkiem Śpiew i gra na instrumentach - jedyny dar i cel w życiu... No cóż, będąc skromną przetocze tylko jedną opinie "Aga masz :cenzura: głos i jak za pare lat nie usłysze Cie na żywo w TV to osobiście Cię ukatrupie" Nie ma to jak motywacja No i ponoć mam smykałke też do instrumentów(flet, gitara, harmonijka, nerwy)... Ale narazie leń przewyższa Taniec - kiedyś owszem, teraz raczej zaniedbałam, a w dodatku ciągle choruje Rysunek i malarstwo - ponoć talent jest, a wyobraźnia to istny skarbiec, tylko jakoś tu też leń przewyższa (i czasu brak) Aktorstwo - tylko musicale A tak to zero, nie umiem udawać... Coś innego - sport, ponoć też, kiedyś jakieś tam nagrody na podium w jaździe na nartach i pływaniu, a teraz leń i brak czasu...</p>
+        <p xml:id="p-2">Zombianka Zdolności Poetyckie - możliwe, że jakieś zdolności mam, w końcu napisałam ponad 700 wierszy (kilka ujrzało światło dzienne) i mnóstwo tekstów piosenek, za które dostałam sporo pochwał; Śpiew i Gra na instrumentach - śpiewałam w zesple rockowym, graliśmy wiele koncertów - ludzie nie ogłuchli, więc może nie jest najgorzej hehe. Instrumenty - gitara akustyczna (skończona szkoła muzyczna), gitara basowa, viola, fortepian, flet; Taniec - chyba jakoś podskakiwać umiem, cieszę się, że przetrwałam własne wesele; Rysunek i Malarstwo - kiedyś malowałam, rysowałam, ale większość czasu zabierała gitara; Aktorstwo - nie kręci mnie, nie lubię udawać i grać, woilę być sobą; coś innego - czytam książki, od 4 miesięcy zajmuję się haftem krzyżykowym, jest jeszcze wiele rzeczy, których chciałabym spróbować;</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

@@ -1,0 +1,20 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Sekret drugi: Atrakcyjność przyciąga sukces</p>
+        <p xml:id="p-2">Aby odnosić sukcesy, należy działać i postępować jak człowiek sukcesu. Jest to jedna z najtrudniejszych zasad filozofii sukcesu Napoleona Hilla, gdyż zakłada, słusznie zresztą, iż sukces mentalny poprzedza faktyczny sukces osiągnięty w życiu rzeczywistym. Wiąże się ona oczywiście z przekonaniem, iż jedyną rzeczą, którą tak naprawdę jesteśmy w stanie sterować i kontrolować, jest nasz sposób myślenia i zachowania. Sukces zaczyna się w głowie, a jego bezpośrednim źródłem jest odpowiednie nastawienie mentalne (psychiczne, umysłowe).</p>
+        <p xml:id="p-3">Jeżeli jesteśmy zrozpaczeni, sfrustrowani i negatywnie nastawieni, nie ukryjemy tego przed otaczającym nas światem, a nasza pesymistyczna postawa zniszczy naszą atrakcyjność i zniweczy wszelkie szanse na osiągnięcie sukcesu. Atrakcyjność osobowa jest bowiem siłą, która przyciąga, a nie odpycha sukces. Kluczem do sukcesu jest zatem "właściwa postawa umysłowa w dowolnej sytuacji" (s. 39), nawet w czasach najgorszego kryzysu życiowego.</p>
+        <p xml:id="p-4">Człowiek z pozytywnym nastawieniem to człowiek uśmiechnięty, z odpowiednią postawą i tonem głosu, to człowiek pewny swojego sukcesu, a więc człowiek atrakcyjny dla innych i samego sukcesu. Człowiek negatywny i nieatrakcyjny to jego przeciwieństwo.</p>
+        <p xml:id="p-5">Jak można kształtować atrakcyjną osobowość?</p>
+        <p xml:id="p-6">• ćwiczyć uprzejmość i takt w stosunku do innych ludzi</p>
+        <p xml:id="p-7">• świadomie kontrolować ton głosu i mówić tonem spokojnym i pewnym siebie</p>
+        <p xml:id="p-8">• wyrobić w sobie nawyk uśmiechania się (jako przeciwwaga gniewu i smutku)</p>
+        <p xml:id="p-9">• świadomie kształtować wyraz twarzy, aby emanować spokój i pewność</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

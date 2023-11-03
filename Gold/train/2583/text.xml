@@ -1,0 +1,18 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Ze strony miasta inwestor spotkał się z odmową. — Wystąpiła niezgodność w przedstawionej nam dokumentacji: o ile wniosek dotyczył wyrażenia zgody na wyburzenie hal w celu stworzenia składowiska na złom i odpady, o tyle raport poszerzony został o nowe, bardzo istotne elementy, tzn. stację demontażu pojazdów. Ta działalność byłaby uciążliwa dla mieszkańców — podkreśla Marek Borowik, wiceprezydent miasta. Władze miasta starają się zachęcać przedsiębiorców do otwierania zakładów uciążliwych dla ludzi, na obrzeżach miasta. Miasto ma wolne tereny na Wartach, Marciszowie oraz od strony Poręby.</p>
+        <p xml:id="p-2">— Przecież przez 100 lat przy tej ulicy działały zakłady przemysłowe i nikomu to nie przeszkadzało — mówił Adam Kufel. — Firma może zatrudnić tu około 20 osób. A zapewniam, że hałasu nie będzie, bo ściana hali skutecznie go zagłuszy. Gdyby było inaczej mieszkańcy mogą wtedy wystąpić o zamknięcie zakładu.</p>
+        <p xml:id="p-3">— Od tylu lat były problemy ze złomowiskiem przy ul. Spacerowej i tam urzędnicy byli bezsilni — stwierdził jeden z mieszkańców.</p>
+        <p xml:id="p-4">— Chcemy mieć w mieście przemysł, ale nie za wszelką cenę — podkreśla Roman Flak, radny miejski.</p>
+        <p xml:id="p-5">iwona kuźniak</p>
+        <p xml:id="p-6">co mówi prawo</p>
+        <p xml:id="p-7">Zgodnie z ustawą demontaż wszystkich pojazdów wycofanych z eksploatacji odbywać się będzie musiał w stacjach demontażu. Tu z pojazdów mają być usuwane substancje niebezpieczne, natomiast elementy nadające się do ponownego użycia, będą wymontowywane. Ponieważ podczas demontażu powstawać będą odpady niebezpieczne, stacja musi spełnić wszelkie wymagania z zakresu ochrony środowiska. Teren powinien być ogrodzony płotem i pasem zieleni.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

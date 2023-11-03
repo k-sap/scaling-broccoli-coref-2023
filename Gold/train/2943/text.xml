@@ -1,0 +1,17 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Ująłem księgę w obie dłonie i - nie wiedzieć czemu drżąc - patrzyłem na nią. I oto raptem, skądś z najdalszych pokładów umysłu, z mrocznych głębin niepamięci, wypełzł do wierzchu znajomy mi syczący głos koszmarnego mnicha w kapturze nasuniętym na wężową głowę:</p>
+        <p xml:id="p-2">"- Złam pieczęcie... Złam pieczęcie..."</p>
+        <p xml:id="p-3">Nie, nie słyszałem żadnego realnego głosu, to była tylko myśl, nic nadto. A jednak... jednak podziałała na mnie hipnotycznie. Bezwolnie poddałem się wewnętrznemu przymusowi.</p>
+        <p xml:id="p-4">Spoglądałem na własne palce jakby z pewnego oddalenia, z jakiegoś dystansu, tak jakbym tkwiąc w ciele, jednocześnie nie miał nad nim żadnej władzy. Szeroko otwartymi oczyma śledziłem ruch kciuka i palca wskazującego. Nacisnęły na wosk, a ów pękł. Rozkruszyły go i odrzuciły na bok.</p>
+        <p xml:id="p-5">A potem, potem pieczęcie jedna po drugiej pękały, aż złamana została ostatnia. Dostęp do wnętrza księgi był wolny...</p>
+        <p xml:id="p-6">Serce łomotało mi w szalonym rytmie, omal nie rozsadzając klatki piersiowej. W ustach poczułem suchość i dłonie mi drżały. Powoli, bardzo powoli, odchylałem na bok okładkę, pełen lęku iż może ujrzę coś groźnego, coś przerażającego, a jednocześnie ciekawość przymuszała mnie, bym zajrzał do wnętrza. Zerknąłem na pierwszą stronę otwartej już księgi i ogarnęło mnie ogromne rozczarowanie. Oto bowiem patrzyłem na pożółkły ze starości pergamin, szeleszczący i szorstki, na którym nie wypisano ani jednej litery, nie skreślono ni jednego znaku. Przerzucałem kartkę za kartką, lecz wszystkie były jednakie - przeraźliwie puste.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

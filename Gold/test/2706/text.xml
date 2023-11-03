@@ -1,0 +1,16 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Dwudziestoprocentowa podwyżka za wodę i ścieki, która zacznie obowiązywać od przyszłego roku, to – jak tłumaczy prezes MPWiK w Sieradzu – konieczność. Po raz pierwszy wysokość taryf ustala ta miejska spółka, a nie jak było do tej pory władze miasta.</p>
+        <p xml:id="p-2">Taką zmianę wprowadza ustawa z 2001 roku o zbiorowym zaopatrywaniu w wodę i zbiorowym odprowadzaniu ścieków. Na jej podstawie to właśnie MPWiK ustala wysokość taryfy, a władze miasta jedynie sprawdzają, czy zostały one opracowane zgodnie z przepisami. Mogą jedynie weryfikować koszty.</p>
+        <p xml:id="p-3">– Dla pięcioosobowej rodziny taka podwyżka oznacza, że w miesiącu zapłaci ona o osiem złotych więcej za rachunek za wodę i ścieki niż dotychczas. Sądzę, że nie jest to duża kwota, a zwiększenie cen jest konieczne. W tej chwili spółka dokłada do każdego metra sześciennego – wyjaśnia Andrzej Grabowski, prezes MPWiK w Sieradzu. – Przyczyna zmian stawek tkwi w malejącym zużyciu wody przy jednoczesnym wzroście kosztów. Ta konieczność to także przeprowadzenie niezbędnych remontów oraz tworzenie rezerw na należności, których nie pokrywają na przykład sieradzki szpital czy hospicjum.</p>
+        <p xml:id="p-4">MPWiK zaproponował nowe taryfy zarówno dla pierwszej grupy odbiorców, którą stanowią gospodarstwa domowe, jednostki oświaty, ochrony zdrowia czy opieki społecznej, jak i drugiej – odbiorców przemysłowych.</p>
+        <p xml:id="p-5">Pierwsza grupa za metr sześcienny wody miałaby zapłacić o 50 groszy więcej niż obecnie, czyli 2,53 zł. Druga o 3 grosze więcej – 2,58 zł. Po korekcie, którą wprowadziło miasto, ceny ukształtowały się kolejno na poziomie 2,28 zł oraz 2,58 zł.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

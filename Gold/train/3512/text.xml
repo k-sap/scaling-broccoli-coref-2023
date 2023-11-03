@@ -1,0 +1,14 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Przedstawiciele środowisk naukowych i akademickich uważają za swój obowiązek kolejny raz ostrzec swoich współobywateli, w szczególności zaś - przedstawicieli świata politycznego, przed narastającym kryzysem Rzeczypospolitej. Upadek norm życia publicznego widoczny jest na każdym kroku, nie będziemy go zatem tutaj opisywać. Uważamy, iż należy podjąć wspólny wysiłek w celu zapobieżenia erozji organów państwa. Jeśli tego nie uczynimy, wszyscy poniesiemy odpowiedzialność za zanik podstawowych wartości w życiu publicznym, za degradację kulturową społeczeństwa i jego struktur państwowych. Nie wolno rzeczowej dyskusji programowej zastępować kłótniami i kampanią pomówień. Nie wolno tracić z oczu celu nadrzędnego, jakim jest wzmocnienie i ulepszenie struktur państwowych. Żyjemy w wolnej, suwerennej Polsce, która znalazła godne miejsce we wspólnocie europejskiej. Nie pozwólmy, aby to dobro najwyższe, jakim jest nasza Wolna Ojczyzna, stało się przedmiotem gry politycznej koterii i nieformalnych grup. Czas wyciągnąć wnioski z lat, kiedy tak ciężko przychodziło walczyć nam o wolność. Brak takich działań pogłębia kryzys naszej państwowości.</p>
+        <p xml:id="p-2">Zwracamy się więc do wszystkich środowisk w kraju o przeciwdziałanie narastającym patologiom w życiu społecznym. Apelujemy o aktywne zaangażowanie się obywateli w życie publiczne. Zwracamy się do naszych kolegów - do ludzi nauki, nauczycieli akademickich, pedagogów i wychowawców - o wdrażanie norm moralnych w praktykę życia codziennego. Zwracamy się do światłych Polaków z apelem, aby włączyli się w życie publiczne kraju. Nadajmy naszej rzeczywistości nowe oblicze.</p>
+        <p xml:id="p-3">Andrzej B. Legocki, prezes PAN, Andrzej Białas, prezes PAU, Franciszek Ziejka, przewodniczący Konferencji Akademickich Szkół Polskich, Jerzy Błażejowski, przewodniczący Rady Głównej Szkolnictwa Wyższego, Zbigniew Śmieszek, przewodniczący Rady Głównej Jednostek Badawczo-Rozwojowych</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

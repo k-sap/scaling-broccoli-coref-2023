@@ -1,0 +1,14 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">- Po wejściu do gabinetu przeżyła szok - relacjonuje Elżbieta Świszczorowska. - Lekarz mimo usilnych próśb odmówił przyjęcia krwawiącego ojca. Poprosiłam o pisemne poświadczenie tejże odmowy, aby przedstawić je w Narodowym Funduszu Zdrowia. Lekarz oskarżając mnie o szantaż wybiegł do poczekalni i uniesionym głosem zarzucił pacjentom, że wpuszczają nie zarejestrowane osoby, więc on nie może przyjmować chorych z listy. Czułam się jak śmieć, roztrzęsiona i zapłakana wyszłam z przychodni. Ogarnęła nas wielka niemoc i przygnębienie. Ponownie zadzwoniłam do NFZ, a tam zaproponowano, abyśmy udali się do dyrektora Wojewódzkiego Szpitala Zespolonego Jana Gierady, któremu podlega Poradnia Ortopedyczna. Dyrektora nie zastałam, ale jego przemiła asystentka sprawiła, że w Izbie Przyjęć Szpitala Wojewódzkiego w pokoju ortopedy zdjęto ojcu szynę gipsową. Okazało się, że na złamanej kostce powstał pęcherz ropny, który pękł. Mogło się to bardzo źle skończyć - opowiada Elżbieta Świszczorowska, która skierowała skargę do Narodowego Funduszu Zdrowia.</p>
+        <p xml:id="p-2">- Skarga na pewno będzie rozpatrywana. Wiem, że kilka dni temu przydzielono dodatkowe pieniądze na porady chirurgiczne. To nie zmienia faktu, że pacjent powinien był zostać przyjęty w poradni specjalistycznej. Ze swej strony w każdym alarmującym przypadku radzę jechać do Oddziału Ratunkowego Wojewódzkiego Szpitala Zespolonego - wyjaśnia Dariusz Ryń, rzecznik prasowy NFZ.</p>
+        <p xml:id="p-3">Gdy zapytaliśmy prezydenta Kielc Wojciecha Lubawskiego jak można by zaradzić takim sytuacjom ocenił, że to skutki rozmytej odpowiedzialności. Gdyby jeden organ nadzorował leczenie w mieście, to można by stworzyć system sprawnej pomocy. Pierwszym krokiem powinno być skupienie wszystkich kieleckich szpitali, by podlegały albo władzom miasta, albo województwa.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

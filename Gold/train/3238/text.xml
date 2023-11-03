@@ -1,0 +1,14 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Podobne nastroje urabiane pod hasłem ideału wolności i człowieczeństwa, a obejmujące szereg aktualnych spraw świata, stanowiły w Anglii objaw o częstym i silnym nawrocie. Nie zawsze jednak miały możność przyoblec się w kształty konkretnych czynów; trwały w swym charakterze platonicznym, i z wolna przemijały. Idealizm angielski na terenie międzynarodowym w tych tylko razach przedstawiał siłę moralną, gdy miał sposobność iść w parze z konkretną rachubą polityczną lub gospodarczą. Tego rodzaju podwójny aspekt wykazała sprawa zbiegów polskich w Turcji. W innych wypadkach wszakże, mimo że w grę wchodziły ważniejsze, czy to w stosunku do Polski, czy też innych krajów, rządowi angielskiemu decyzja zazwyczaj przychodziła z wielkim trudem; zmalało bowiem dostrzegał on bezpośredniego związku między daną kwestią a własną racją stanu.</p>
+        <p xml:id="p-2">Incydent ten ze zbiegami polskim i Turcji był jednym z najciekawszych, jakkolwiek pod względem politycznego zdarzenia drugorzędnych w historii stosunku Anglii do Polaków i sprawy polskiej. Z upływem lat pamięć o nim z konieczności uległa znacznemu zatarciu. W swoim czasie była nań zwrócona uwaga całej kulturalnej części społeczeństwa angielskiego. Toteż nie było najmniejszej przesady w spostrzeżeniu, które z tego powodu uczynił jeden z historyków angielskich i biografów Palmerstona "Incydent ów pozostawił trwałe wrażenie w umysłach tysięcy Anglików".</p>
+        <p xml:id="p-3">Dyplomatyczny epizod, który rozwinął się w związku z kwestią zbiegłych do Turcji Polaków, po nieudanym powstaniu węgierskim, po latach blisko stu zasługuje na odświeżenie w pamięci ludzkiej, jako jeden symptomatycznych objawów angielskiego stosunku do spraw obcych.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

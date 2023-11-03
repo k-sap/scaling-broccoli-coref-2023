@@ -1,0 +1,18 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Zarząd DFB obradował cztery godziny, a Vogts długo rozmawiał przez telefon z prezydentem związku Egidiusem Braunem, który odwołał swój urlop w Meksyku.</p>
+        <p xml:id="p-2">- Doświadczony piłkarz nigdy nie powinien dać się sprowokować publiczności - stwierdził Vogts. - Po trwającej całą noc medytacji postanowiłem pokazać Stefanowi czerwoną kartkę.</p>
+        <p xml:id="p-3">Effenberg rozegrał dotychczas 33 mecze w drużynie narodowej. Ze względu na swoją arogancję nigdy nie był w Niemczech lubianym piłkarzem. Jeszcze jako zawodnika Bayernu Monachium nazywano go "enfant terrible" niemieckiej piłki nożnej, z powodu ciągłych konfliktów z działaczami, piłkarzami i kibicami Bundesligi.</p>
+        <p xml:id="p-4">Berti Vogts zwołał w sprawie Effenberga specjalną konferencję prasową w Chicago. Powiedział, że specjalnie zamówił dla wszystkich 22 zawodników otwarte bilety lotnicze. - Sto razy ważniejsze od obrony tytułu mistrzów świata jest dla całej naszej ekipy i kibiców w kraju nienaganne zachowanie zawodników. Przyjechali tu przecież jako ambasadorowie Niemiec - powiedział Vogts.</p>
+        <p xml:id="p-5">Effenberg chciał opuścić hotel reprezentacji już we wtorek wieczorem i odlecieć wraz z żoną Ø i dwójką Ø dzieci do Włoch, nie dostał jednak biletów na samolot. W Turynie ma on podpisać kontrakt z Juventusem. Effenberg zastąpi w drużynie swego rodaka Andreasa Moellera, który wraca do Bundesligi.</p>
+        <p xml:id="p-6">Podczas MŚ w Meksyku w 1986 do Niemiec został odesłany bramkarz Ulli Stein. Była to kara za nazwanie trenera Franza Beckenbauera "nic niewartą marionetką" .</p>
+        <p xml:id="p-7">Beckenbauer jednak ostro skrytykował decyzję DFB i Vogtsa. - Nie wierzę, żeby ten gest był wystarczającym powodem, by wyrzucić Stefana do domu. Musiały być jeszcze jakieś inne powody, o których nie wiemy. Na miejscu Vogtsa nie wyrzuciłbym zawodnika z zespołu walczącego o mistrzostwo świata.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

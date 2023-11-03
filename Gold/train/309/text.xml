@@ -1,0 +1,16 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Joanna Podgórska: - To nie będzie muzeum Holocaustu?</p>
+        <p xml:id="p-2">Jerzy Halbersztadt: - Nie, to będzie muzeum całego tysiąclecia żydowskiej obecności w Polsce. Ale w dzisiejszej Polsce tematy żydowskie kojarzą się głównie z Zagładą. I to jest zrozumiałe. Dla tych, którzy przyjadą ze świata zwiedzać nasze muzeum, to także będzie najważniejsza kwestia. Szczególnie interesujące będzie dla nich, jak zostanie ona przedstawiona w polskim muzeum, a będzie to ujęcie odmienne niż w innych muzeach na świecie. Inny rodzaj narracji.</p>
+        <p xml:id="p-3">W tej narracji Holocaust jest zakończeniem historii, która trwała tysiąc lat?</p>
+        <p xml:id="p-4">Nie, nie zakończeniem. Okres powojenny i nasza współczesność to też bardzo ważne dla nas problemy. Ale cała tysiącletnia historia jest dla nas punktem odniesienia dla opowieści o Holocauście, choć jest to tylko jedna z ośmiu galerii wystawy. Zwłaszcza historia poprzedzająca Zagładę bezpośrednio, czyli dwudziestolecie międzywojenne. Chcemy pokazać obraz żydowskiego społeczeństwa i jego kultury, które rozwijały się we wzajemnym oddziaływaniu z kulturą polską. To bardzo ciekawy czas, gdy oba społeczeństwa modernizowały się i w pewnym sensie po raz pierwszy doświadczały życia w warunkach demokratycznych. Nastąpiła eksplozja aktywności żydowskich organizacji oświatowych, kulturalnych, gospodarczych.</p>
+        <p xml:id="p-5">II Rzeczpospolita była specyficznym laboratorium, w którym rozwijało się nowoczesne żydowskie życie i miało to ogromny wpływ na późniejszy kształt Państwa Izrael. Będziemy pokazywali naszym zwiedzającym, że Zagłada to nie tylko potworna maszyneria wymyślona przez zbrodniarzy, ale zamordowanie niemal całego tego świata: języka, filmu, teatru, obyczajowości. Z istniejących materiałów chcemy odtworzyć żydowską ulicę, na której toczyło się życie.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

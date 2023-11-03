@@ -1,0 +1,24 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">- Jak się zwał, tak się zwał, byle rząd się dobrze miał. Wuju, a Warszawa nie mogłaby mieć dwóch prezydentów?</p>
+        <p xml:id="p-2">- Po co? Żeby się żarli jak pies z kotem?</p>
+        <p xml:id="p-3">- Wuj jest czarnowidz. Może by się polubili? To byłby świetny duet! Pan Olechowski jest bardzo przystojny, pan Kaczyński bardzo mądry. Wuju, byłoby wspaniale! Warszawa miałaby wtedy właściwie aż trzech prezydentów, bo Lech czasem by się wymieniał z Jarosławem i nikt by się nie zorientował.</p>
+        <p xml:id="p-4">- No faktycznie. Może to niezły pomysł? Kaczyńscy by tępili korupcję, bo takie mają hobby, a Olechowski byłby od reprezentacji, bo jest przystojny jak Apollo Belwederski.</p>
+        <p xml:id="p-5">- Coś się wujowi pokręciło. Belwederski to jest prezydent Kwaśniewski.</p>
+        <p xml:id="p-6">- Mylisz się. On jest raczej "Namiestnikowski", bo tak się nazywa pałac, w którym ma swą siedzibę.</p>
+        <p xml:id="p-7">- Aha. A czy to prawda, wuju, że pan Aleksander nie będzie mógł być prezydentem na trzecią kadencję?</p>
+        <p xml:id="p-8">- Prawda. Tego zabrania konstytucja.</p>
+        <p xml:id="p-9">- A pal licho konstytucję! Czy ktoś ją zna? Się nią przejmuje? Sejm z Senatem mogą zresztą konstytucję zreformować i zrobić z pana Aleksandra prezydenta dożywotniego.</p>
+        <p xml:id="p-10">- Dożywotni są tylko królowie.</p>
+        <p xml:id="p-11">- No i świetnie. Polska mogłaby być królestwem na nowo. Jak Hiszpania.</p>
+        <p xml:id="p-12">- Ale po co?</p>
+        <p xml:id="p-13">- Byłoby ładniej. Jak u Angoli. Wszyscy by się popłakali, gdyby Olek z Jolą jechali złotą karocą z Zamku do Wilanowa i z powrotem. Wuju, ale coś mi się obiło o uszy, że ród Giełżyńskich zwał się kiedyś "Giejżyńskimi", bo pochodził od węgierskiego króla Giejzy?</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

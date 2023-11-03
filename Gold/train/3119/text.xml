@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Dał koniom po siarczystym bacie, ściągnął lejce, zawrócił prawie na miejscu i zaczął uciekać. Nie chciał, a raczej nie mógł odwrócić głowy, ażeby się obejrzeć poza siebie i zbadać, co się tam dzieje. Zdawało mu się, że umknie na bok nie postrzeżony. Nieszczęście chciało, że miejsce było gołe i puste w promieniu wiorst kilku.</p>
+        <p xml:id="p-2">Uciekający wóz spostrzeżono. Z szeregów postępującego wojska odłamała się grupa jeźdźców, wysunęła przed front i pomknęła co koń skoczy. Winrych, patrząc już na to zjawisko, nie mógł zrozumieć, czy ci ludzie sadzą ku niemu, czy się oddalają w kierunku przeciwległym. Dopiero zobaczywszy chorągiewki przy schylonych lancach i łby końskie, zorientował, się dobrze. Wtedy krew szarpiąca się w jego pulsach - jakby stężała i stanęła w biegu... Zatrzymał konie, omotał dokoła luśni parciane lejce i namyślał się, co wywlec z wozu do obrony: pałasz czy sztucer nie nabity?</p>
+        <p xml:id="p-3">Zanim wszakże cokolwiek przedsięwziąć zdołał, machinalnie zbliżył się do zmordowanych koni swoich i zaczął jednemu z nich zdejmować kantar ze łba i ściągać chomąto, jakby z zamiarem puszczenia na wolność tych towarzyszów niewoli. Czyniąc to, na chwilę przytulił się do szyi końskiej i westchnął.</p>
+        <p xml:id="p-4">Ośmiu ułanów rosyjskich na pięknych gniadych koniach dopadło wozu i w mgnieniu oka ze wszystkich stron go otoczyło. Jeden z nich, nie mówiąc ani słowa, począł zrzucać lancą suche gałęzie oraz snopki kłoci i sondować głąb wozu.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

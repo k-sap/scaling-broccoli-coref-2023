@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Raport dla Międzynarodowego Funduszu Walutowego, którego fragment opublikował rosyjski dziennik "Kommiersant", potwierdza, że Rosja wykorzystała część pożyczek MFW, złożonych w "podatkowym raju" na wyspie Jersey, do celów spekulacyjnych. Taką informację przyniósł wczoraj niezależny dziennik francuski "Le Monde".</p>
+        <p xml:id="p-2">Raport potwierdza niektóre oskarżenia prokuratora generalnego Rosji Jurija Skuratowa. Część rezerw Centralnego Banku Rosji (CBR) i nisko oprocentowanych kredytów MFW była przekazywana filii CBR - Fimaco, zarejestrowanej na brytyjskiej wyspie Jersey, na kanale La Manche. Fimaco natomiast używało tych pieniędzy - w sumie 1,2 mld dolarów - do kupowania rosyjskich bonów skarbowych, których rentowność wynosiła ponad 200 procent.</p>
+        <p xml:id="p-3">Paryska filia Fimaco - Ewrobank, która odgrywała poważną rolę w tych operacjach, prowadziła podwójną księgowość. Według "Le Monde", drugi w hierarchii MFW urzędnik - Stanley Fischer przyznał, iż z raportu wynika, że Fundusz "został okłamany".</p>
+        <p xml:id="p-4">- Jeden z wielkich krajów globu, jeden z wpływowych członków Rady Bezpieczeństwa ONZ, defrauduje jak pospolity oszust, za pośrednictwem firm założonych w dalekich rajach podatkowych, pieniądze wspólnoty międzynarodowej, w celu wzbogacenia kilku oligarchów - napisał w komentarzu "Le Monde".</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

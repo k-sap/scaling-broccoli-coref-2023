@@ -1,0 +1,16 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Dlatego w umowie znaleźć można zapisy dotyczące gruntownej przebudowy układu drogowego w mieście. Modernizowany będzie odcinek Wrocławskiej od Popiełuszki do Zielonogórskiej wraz z oświetleniem, parkingiem i chodnikiem. Drugi etap to budowa dwóch nitek ulicy Popiełuszki, od skrzyżowania z Sikorskiego do ul. Boboli - część pieniędzy pochodzić będzie ze środków unijnych. Wreszcie przebudowana zostanie ulica Zielonogórska od Wrocławskiej do al. Niepodległości i ul. Słonecznikowej. Metra AG wybuduje w tym miejscu parking podziemny.</p>
+        <p xml:id="p-2">A do końca 2005 roku, jak podaje "Gazeta Współczesna", na osiedlu Zielone Wzgórza... powstaną jeszcze trzy inne hipermarkety...</p>
+        <p xml:id="p-3">Gorzów przyjął pięcioletnią strategię dla oświaty, która zakłada likwidację od przyszłego roku trzech podstawówek. O zamiarach ratusza dyrektorzy likwidowanych placówek dowiedzieli się z gazety. Tymczasem miejski wydział edukacji zaznacza, że strategia to jedynie plany i prowadzone będą rozmowy z dyrektorami szkół na temat jej ostatecznego kształtu - donosi "Gazeta Lubuska".</p>
+        <p xml:id="p-4">Strategia mówi o "modelowaniu" sieci szkół ze względu na niż demograficzny i wysokie koszty utrzymania placówek. Dzieci z likwidowanych podstawówek przeniesione zostaną do innych, oddalonych od ich miejsca zamieszkania. - "Miasta nie stać na utrzymywanie budynków, w których uczy się na przykład tylko 80 dzieci " - powiedziała "Gazecie Lubuskiej" Halina Antczak z wydziału edukacji Gorzowa. Nauczyciele są oburzeni, że opracowując strategię niczego z nimi nie konsultowano.</p>
+        <p xml:id="p-5">Strategia ma wejść w życie w 2006 roku. Najpierw jednak musi uzyskać aprobatę kuratora oświaty, ale ten nie jest przychylny idei zamykania podstawówek. Rodzice dzieci ze szkół przeznaczonych do zamknięcia zapowiadają protesty. - "Nie może być tak, że miasto dla oszczędności skupi się na likwidacji, nie proponując nic w zamian" - powiedziała Beata Skrzypek z rady rodziców SP 12, zapowiadając walkę do upadłego.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

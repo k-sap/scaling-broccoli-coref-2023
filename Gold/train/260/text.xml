@@ -1,0 +1,16 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">W "Życiu Warszawy" z 1948 roku, w notatce o aktualnym zaopatrzeniu sklepów znalazłam optymistyczne zdanie: "Octu nigdzie nie brakuje". W czterdzieści lat później można było je wiernie powtórzyć. Na sklepowych, ogołoconych z wszelkich towarów półkach w tak zwanej ciągłej (i niereglamentowanej) sprzedaży był jedynie ocet.</p>
+        <p xml:id="p-2">W dziesięcioleciu (a raczej kilkunastoleciu) schyłkowego PRL-u branża sklepu nie miała koniecznie i bezwarunkowo związku z tym, czym w nim handlowano. Kiedyś pewien cudzoziemiec, pragnąc nabyć samochodowy akumulator, zagadnął mego syna, gdzie też mogą znajdować się tego rodzaju dobra. "Ostatnio były na Koszykowej, róg Marszałkowskiej - odparł zapytany - w sklepie z butami, w stoisku z meblami". Pytający, nieobyty z polską rzeczywistością, potraktował to jako żart. Ale to była prawda. Cudaczna, surrealistyczna prawda tamtego cudacznego i surrealistycznego czasu i ustroju.</p>
+        <p xml:id="p-3">Kilka słów na temat alkoholu.</p>
+        <p xml:id="p-4">Przed jego "zakartkowaniem" w celu walki z alkoholizmem wprowadzono specjalne godziny jego sprzedaży. Do godziny 13.00 alkoholu nie wolno było nabywać. Założenie było - teoretycznie - słuszne. Chodziło o to, by obywatele nie upijali się przed rozpoczęciem pracy i przynajmniej do zakończenia pierwszej zmiany. W praktyce obywatele albo popijali w tych godzinach wódkę (wino) z własnych zapasów, albo - mniej zapobiegliwi - wyczekiwali przed sklepem na "szczęśliwą trzynastkę".</p>
+        <p xml:id="p-5">Na zawsze utrwalił się w mojej pamięci obrazek z jednej z wiosek, gdzie w okresie żniw zabrakło wódki, wina, a nawet piwa. Jedynym alkoholem w miejscowym sklepiku był szampan. Żniwiarze, ułożywszy się w cieniu przysklepowego drzewa, cierpliwie czekali na właściwą porę, a doczekawszy - kupowali szampana i wypijali duszkiem, niby lemoniadę.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

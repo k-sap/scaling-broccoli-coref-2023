@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Kopiować mechanicznie postaw z przeszłości nie można i nie warto. Inteligencja w Polsce nie będzie już kształtowała wzorów życia społecznego, ale zachowa wpływ na opinię publiczną. U progu wejścia Polski do Unii Europejskiej jej rola ponownie rośnie. Tak jak ponownie rośnie znaczenie wytrawnych polityków starszej daty w rodzaju Tadeusza Mazowieckiego, co dziś przyznają nawet jego dawni oponenci.</p>
+        <p xml:id="p-2">Inteligencja - a ściślej ta jej część, która nie ulegnie całkowitej profesjonalizacji typowej dla demokracji rynkowej - jest w Polsce potrzebna w roli dotąd rzadko u nas praktykowanej, a doskonale sprawdzającej się w społeczeństwach typu zachodniego. Jest to rola inicjatorów poważnej debaty publicznej na ważne dla społeczeństwa tematy. Ważkich kwestii nie brakuje: przyszłość państwa narodowego, współczesne rozumienie tożsamości narodowej (zobacz artykuł Adama Krzemińskiego s. 46 ), miejsce religii w obliczu nieuchronnych postępów laicyzacji, sens sprawiedliwości społecznej w realiach gospodarki rynkowej, znaczenie pojęć prawica-lewica.</p>
+        <p xml:id="p-3">To złudzenie, że demokracja sama to załatwi. Publiczny spór na przemyślane i merytoryczne argumenty jest niezbędny w ustroju wolności. Dla wytworzenia się społeczeństwa obywatelskiego jest on tak samo potrzebny jak samorządność, decentralizacja, wyższa stopa życiowa i klasa średnia z prawdziwego zdarzenia. Ale żeby występować skutecznie w tej nowej roli, środowiska intelektualne muszą się uwolnić od zależności dyktowanych bieżącymi interesami politycznymi i materialnymi, bo to odbiera im wiarygodność.</p>
+        <p xml:id="p-4">Nie oznacza to jednak schowania się do intelektualnej wieży z kości słoniowej. Przeciwnie, w nowej Europie odradza się postawa zaangażowanego ale niezależnego świadka historii. Jeśli zakorzeni się ona w Polsce, podatność na polityczne gry lustracyjne będzie malała.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

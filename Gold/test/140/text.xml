@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Lustracja i demilitaryzacja</p>
+        <p xml:id="p-2">W listopadzie 2002 r. tak zwana oficjalna iracka opozycja w Londynie, korzystająca z milionowych zastrzyków amerykańskiego ministerstwa skarbu, po niekończących się sporach zdołała wyprodukować stustronicowy dokument prezentujący zmiany polityczne, które prowadzić mają do powstania demokratycznego Iraku. Warto wspomnieć, że tylko sześć powaśnionych ze sobą frakcji zgodziło się podpisać ten dokument. Szesnaście frakcji działających poza granicami Iraku nie brało udziału w dyskusjach nad jego treścią.</p>
+        <p xml:id="p-3">Dokument opozycji zakłada powstanie państwa federalnego, kierowanego przez tymczasowy rząd, w którym reprezentowana będzie większość grup etnicznych i partii politycznych. Rządząca partia BAAS, czyli Partia Socjalistycznego Odrodzenia Arabskiego, Saddama Husajna zostanie zdelegalizowana, ale dokument nie odnosi się do losu 2 mln jej aktywnych członków. Opozycja proponuje przywrócenie (po powszechnym referendum na ten temat) konstytucji z 1925 r., jedynej uchwalonej po szerokiej debacie społecznej. Równocześnie powstać ma tymczasowa izba ustawodawcza, w której opozycja zastrzega sobie z góry połowę mandatów poselskich. Powszechne, wolne wybory zostaną rozpisane najpóźniej dwanaście miesięcy po obaleniu dyktatury. Powstanie niezależne sądownictwo, aczkolwiek zdania autorów dokumentu są podzielone w kwestii grubej kreski: kogo należy ukarać, a komu dać szansę. W propozycji pojawia się tak dobrze nam znane słowo "lustracja".</p>
+        <p xml:id="p-4">Następnym krokiem ma być demilitaryzacja kraju. Armia iracka jest, po egipskiej, największą w świecie arabskim. Nie ma na razie odpowiedzi na pytanie, z czego będą się utrzymywać setki tysięcy zdemobilizowanych żołnierzy i czy nowy porządek nie pchnie ich na drogę przestępczości. Londyńska opozycja półgębkiem wspomina konieczność przekwalifikowania tych ludzi, oczywiście za amerykańskie pieniądze. To samo dotyczy irackich sił policyjnych, podporządkowanych dotychczas różnym służbom bezpieczeństwa wewnętrznego.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

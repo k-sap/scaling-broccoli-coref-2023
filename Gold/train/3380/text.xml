@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">O nowym wizerunku myśli także lewica, której Tomasz Nałęcz radzi w "Dzienniku": "Nadawanie lewicy twarzy Joanny Senyszyn uczyni z tej formacji elitarny klub zdeklarowanych antyklerykałów, bardzo z siebie zadowolony, ale niezdolny do sforsowania pięcioprocentowego progu wyborczego".</p>
+        <p xml:id="p-2">Dorota Gardian, szefowa związku zawodowego pielęgniarek, która mówiąc w telewizji o głodowych zarobkach koleżanek, pokazała się w gustownym futerku, nie zamierza zmieniać swego wizerunku. "Następnym razem będę miała na sobie futro z norek" - obiecała "Faktowi".</p>
+        <p xml:id="p-3">To chyba pierwszy taki przypadek na świecie - pisze "Życie Warszawy" o sprawie wiceprzewodniczącego Ogólnopolskiego Związku Zawodowego Lekarzy Tomaszu Undermanie, który przyznał, że w październikowych wyborach nie głosował na Lewicę i Demokratów, choć z tej właśnie listy ubiegał się o mandat poselski. Poparł za to Unię Polityki Realnej, w której barwach startował jego związkowy przyjaciel Krzysztof Bukiel. Obaj polegli. Teraz Underman myśli o stworzeniu własnej partii "lekarsko-inteligenckiej".</p>
+        <p xml:id="p-4">W warszawskiej siedzibie SLD na ulicy Rozbrat odbyła się w ostatnią sobotę konferencja naukowa poświęcona tradycjom polskiej lewicy pod hasłem "Przeszłość dla przyszłości". Hasło jak hasło, ale już nazwiska referentów, pośród których znalazł się np. Andrzej Werblan, w latach 70. członek Biura Politycznego PZPR, mogły robić duże wrażenie. Wojciech Olejniczak, lider SLD, nie widzi problemu. "Po prostu udostępniliśmy salę ludziom, którzy chcą podyskutować o tradycjach lewicy" - powiedział "Rzeczpospolitej".</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

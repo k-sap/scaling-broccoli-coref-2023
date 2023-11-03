@@ -1,0 +1,17 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Panie Senatorze, będą pytania i... Pan się nie zgłosił do głosu.</p>
+        <p xml:id="p-2">Przepraszam, ale ja mówiłem o tym, o czym była mowa na posiedzeniu komisji, tak że ja myślę, że...</p>
+        <p xml:id="p-3">Niech pan kontynuuje, Panie Senatorze.</p>
+        <p xml:id="p-4">..pan senator cierpi na jakieś zaniki pamięci.</p>
+        <p xml:id="p-5">No nie, proszę kontynuować, ale niech to będzie sprawozdanie, a nie własne dywagacje.</p>
+        <p xml:id="p-6">Tak rzeczywiście. Przechodźmy do wniosków. Wnioski, proszę państwa, są takie, że takie rozwiązania są potrzebne, że ta ustawa nie mówi: dość. Problemem, który został poważnie przedyskutowany, był problem uczestnictwa Senatu. Generalnie chodziło o to, czy wnosimy poprawki, czy nie. I podstawową sprawą, która przesądziła o tym, że komisja zdecydowała się wnieść poprawki, było pominięcie Senatu w ustawie. Proszę państwa, jest to problem wykraczający poza ustawę o CBA, a w gruncie rzeczy jest to problem ustrojowy, problem sytuujący uprawnienia Senatu jako takiego. Mamy do czynienia z jednym z najważniejszych na najbliższe lata problemów, którym jest zainteresowane całe społeczeństwo i którym jest zainteresowana zarówno władza wykonawcza, jak i parlament w sferze legislacyjnej. W związku z tym zdecydowaliśmy, że jednak będziemy się domagać, ażeby szef CBA składał odpowiednie sprawozdania i przekazywał odpowiednie informacje również Senatowi. Myślę, że jesteśmy tym bardzo zainteresowani i wpłynie to na nasze funkcjonowanie, również w sferze legislacyjnej. Spowodowało to również to, że zdecydowaliśmy się także na wprowadzenie pozostałych poprawek, które nie mają już takiego znaczenia. Były to często poprawki stylistyczne, niekiedy wyjaśniające, usuwające pewne sprzeczności czy niejasności, występujące w ustawie. Kończę moją wypowiedź wnioskiem o przyjęcie przedłożonych przez komisję poprawek. Dziękuję bardzo.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

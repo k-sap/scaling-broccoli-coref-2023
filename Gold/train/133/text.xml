@@ -1,0 +1,17 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Pierwszy z nich hm. W. Mucha-Kruczyński wspomniał harcerską drogę dh. "Sowy", jego 18-letnie komenderowanie hufcowi Szarych Szeregów i wiele harcerskich inicjatyw.</p>
+        <p xml:id="p-2">Chyba jeszcze więcej dokonań pozostawił po sobie Jerzy Makles na niwie sportowej. "Właśnie praca z młodzieżą była Twoją życiową pasją - mówił M. Zaremba. - Przez kilkadziesiąt lat wychowałeś pokolenia sportowców, reprezentantów i mistrzów Polski. Byłeś inspiratorem, a następnie współorganizatorem crossów ostrzeszowskich rozgrywanych nieprzerwanie przez 40 lat. Dzięki Tobie Ostrzeszów zaistniał na mapie Polski. Niech teraz na tę wieczną wartę przyjmie Cię wspaniała, ukochana ostrzeszowska ziemia."</p>
+        <p xml:id="p-3">W dowód uznania sportowej pasji zmarłego i pracy włożonej w wychowanie młodzieży w duchu szlachetnej rywalizacji, prezes PZLA - Irena Szewińska nadała J. Maklesowi tytuł "Honorowego Członka Polskiego Związku Lekkiej Atletyki". Łzy w oczach młodych zawodników "Orkana" najlepiej świadczą, jakim uznaniem cieszył się ich trener.</p>
+        <p xml:id="p-4">Jerzy Makles to także autentyczny działacz samorządowy i społeczny. To głównie dzięki jego staraniom wypiękniał ostrzeszowski stadion, a wciąż niezrealizowane marzenie jego życia - kryty basen kąpielowy - znalazł się wreszcie w wieloletnim planie inwestycyjnym. O tych i innych dokonaniach samorządowych wspominał przew. Rady Miejskiej - E. Skrzypek.</p>
+        <p xml:id="p-5">Jako ostatni żegnał ostrzeszowianina i przyjaciela - B. Grobelny:</p>
+        <p xml:id="p-6">"Dziękujemy Ci, Jurku, za gorącą głowę pełną pomysłów... Zderzenie ideałów z rzeczywistością bywa radosne, ale najczęściej bolesne. Wiemy, Jurku, że kochałeś, jak umiałeś najlepiej. Wybaczamy Tobie niedoskonałości, wybacz i nasze Ø. Kiedy Cross Ostrzeszowski albo ulicę nazwą kiedyś Twoim imieniem - bądź z nami, zawsze spokojny, że nie umarłeś do końca."</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

@@ -1,0 +1,36 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Tak...</p>
+        <p xml:id="p-2">LAURA</p>
+        <p xml:id="p-3">Gdzie zgubiłaś Leszka? Chyba się nie pokłóciliście?</p>
+        <p xml:id="p-4">MARIA</p>
+        <p xml:id="p-5">Nie, no skąd... miał jakąś sprawę do załatwienia... no i...</p>
+        <p xml:id="p-6">LAURA</p>
+        <p xml:id="p-7">Zostawił cię samą? Ale tak być nie może. Muszę z nim pogadać.</p>
+        <p xml:id="p-8">MARIA</p>
+        <p xml:id="p-9">Lubię spacerować sama. W Warszawie... kiedy jeszcze pracowałam na uniwersytecie... często chodziłam sobie spacerować. Czasami człowiek potrzebuje samotności...</p>
+        <p xml:id="p-10">LAURA</p>
+        <p xml:id="p-11">Dziwna z was para.</p>
+        <p xml:id="p-12">Zbliżenie Laury. Zbliżenie Marii.</p>
+        <p xml:id="p-13">Scena</p>
+        <p xml:id="p-14">PLENER. DZIEŃ. PRZED DOMEM POWAŁKI. LESZEK, POWAŁA, ŻONA POWAŁKI.</p>
+        <p xml:id="p-15">Leszek stoi obok płotu jakiegoś gospodarstwa. Po drugiej stronie płotu Powałka, mężczyzna około pięćdziesiątki. Za nim, koło domu Żona Powałki niby sprząta przy wejściu - a tak naprawdę próbuje podsłuchiwać</p>
+        <p xml:id="p-16">POWAŁKA</p>
+        <p xml:id="p-17">Tak głupio za nic pieniądze brać...</p>
+        <p xml:id="p-18">Leszek podaje Powałce sto złotych.</p>
+        <p xml:id="p-19">LESZEK</p>
+        <p xml:id="p-20">To nie jest za nic. Robi pan dla mnie bardzo ważną rzecz, panie Powałka.</p>
+        <p xml:id="p-21">POWAŁKA</p>
+        <p xml:id="p-22">Ty to zawsze niezły numer byłeś! Pamiętasz... jak to z moim Kaziem żeście się w remizie do alarmu dorwali i całą okolicę na nogi postawiliście? Wszyscy myśleli, że gdzieś się pali! A to mały Lesio i Kazio dawali czadu!</p>
+        <p xml:id="p-23">Powałka śmieje się. Leszek wolałby o tym zapomnieć.</p>
+        <p xml:id="p-24">LESZEK</p>
+        <p xml:id="p-25">Tak... No to co, jesteśmy umówieni, panie Powałka?</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

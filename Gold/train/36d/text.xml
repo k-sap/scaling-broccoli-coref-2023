@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">JAPONIA: Zabici i ranni w pożarze</p>
+        <p xml:id="p-2">Strażacy próbują ugasić pożar, jaki wybuchł w fabryce chemicznej w miejscowości Ojima, około 120 kilometrów na północ od Tokio. W ogniu zginęły cztery osoby, a 27 Ø zostało rannych. Fabryka w Ojimie, należąca do firmy Nisshin Chemical Co., produkowała farmaceutyki i środki chemiczne dla rolnictwa.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

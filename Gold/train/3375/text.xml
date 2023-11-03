@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Nowym szefem rady nadzorczej PKN Orlen został Jan Waga (l. 50), zastępując na tym stanowisku b. prezesa Nafty Polskiej Macieja Giereja. To pierwszy w historii Orlenu przypadek, że na czele rady nadzorczej staje człowiek nie reprezentujący największego akcjonariusza, czyli Skarbu Państwa. Jak to się stało, że Kulczyk, do którego należy 6,2 proc. akcji Orlenu, zdobył tak wielki wpływ na spółkę? Uzyskał przecież poparcie nie tylko Skarbu Państwa, ale także dużych inwestorów finansowych. Możliwości są dwie. Pierwsza: Kulczyk prowadzi grę nie tyle w swoim imieniu, ale innych wielkich inwestorów, którzy nie chcą się ujawnić. Być może któryś z funduszy operuje tzw. akcjami zaparkowanymi, należącymi do gracza zainteresowanego przejęciem Orlenu. Może to być np. któryś z rosyjskich gigantów - Łukoil albo Jukos. Korzystają więc z pomocy Kulczyka, mającego dobre kontakty z politykami i biegłego w tego typu rozgrywkach. Wersja druga: inwestorzy postawili na Kulczyka, bo jest to jedyny stabilny i przewidywalny prywatny akcjonariusz Orlenu. Skarb Państwa, miotany politycznymi rozgrywkami, nie jest wiarygodny. Wiadomo, że Kulczyk gra na wzrost wartości swoich akcji, więc i oni mogą przy nim skorzystać.</p>
+        <p xml:id="p-2">Nominacja Wagi to nie jedyna zmiana w radzie nadzorczej Orlenu. Poza M. Gierejem dokonano wymiany trzech innych członków. Te zmiany uważane są za sukces Jana Kulczyka i prezesa spółki Zbigniewa Wróbla. Zdymisjonowani członkowie należeli do zwolenników zmiany zarządu spółki, ze względu na skandale (m.in. podejrzenie o manipulowanie kursem akcji czy niejasne transakcje). Nowy szef rady nadzorczej zapowiedział wolę ochrony zarządu.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

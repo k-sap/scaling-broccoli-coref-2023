@@ -1,0 +1,20 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">- Przepraszam, źle spałem. Nie zdążyłem się jeszcze umyć i przebrać - wymamrotał, kończąc posiłek.</p>
+        <p xml:id="p-2">- Przebiera się pan? - głos lekarza wyrażał szczere zdumienie.</p>
+        <p xml:id="p-3">Doktor rozejrzał się po idealnie uporządkowanym mieszkaniu.</p>
+        <p xml:id="p-4">- Gdyby tak wszyscy moi pacjenci mogli żyć w takich warunkach - pomyślał lekarz. Całe wnętrze Ø było przystosowane dla osoby niepełnosprawnej. Sprzęty, urządzenia, meble. Wszędzie panował idealny porządek. Elektryczny wózek inwalidzki w przedpokoju świadczył, że chory nie jest więźniem czterech ścian.</p>
+        <p xml:id="p-5">- Kolega mówił, że choruje pan od siedmiu lat. Ale widzę, że pana sprawność jest całkiem, całkiem - zagaił rozmowę.</p>
+        <p xml:id="p-6">- Mam zestaw do ćwiczeń, tam w rogu za kotarą - odpowiedział. - Pracuję na nim prawie od początku choroby. To prezent od dzieci. Bez niego byłbym przykuty do łóżka na amen.</p>
+        <p xml:id="p-7">Zły, że dał się zaskoczyć gościowi, starał się jak najszybciej przejść do salonu. O tym, że był to jeden ze środków, który pomagał mu wrócić psychicznie między żywych po wypadku, w którym zginęła żona, a jego prawie sparaliżowało - już nie wspomniał. Wcisnął się w specjalny fotel i ściągnął górę od piżamy. Lekarz osłuchał płuca i serce. Zmierzył ciśnienie.</p>
+        <p xml:id="p-8">- Pan ćwiczy. Jestem pod wrażeniem - pokiwał ze zdumieniem głową. - Gdyby wszyscy chorzy mieli takie możliwości...</p>
+        <p xml:id="p-9">- Taaak - mruknął tylko w odpowiedzi - poza tym zagląda do mnie masażysta - cztery razy w tygodniu.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

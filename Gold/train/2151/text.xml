@@ -1,0 +1,18 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Wycieraczki reflektorów</p>
+        <p xml:id="p-2">Prawdą jest, że wycieraczki reflektorów to element, który w Maluchu wzbudza niemałe zainteresowanie. Dlatego też wielu posiadaczy tego samochodu decyduje się na takie usprawnienie. Sercem urządzenia napędzającego wycieraczki jest silnik (wraz z mechanizmem zwrotnym) napędzający wycieraczkę tylnej szyby w polonezie. Osie ramion wycierka wraz z tulejkami, a także wycieraczki (odpowiednio zmniejszone) pochodzą z syreny (to taki naprawdę polski stary samochód z dwusuwowym silnikiem, ale umieszczonym z przodu), zakończone są dodatkowymi radełkowanymi końcówkami, przystosowanymi do współpracy z ramionami skróconymi i wygiętymi wycieraczek z Fiata 126p.</p>
+        <p xml:id="p-3">Wszystkie te elementy łączy blaszany wspornik o grubości 3 mm z przyspawanymi ramionami do mocowania silnika oraz gwintowanymi tulejami do przykręcenia osłony. Popychacze, przekazujące ruch obrotowo-zwrotny z silnika na ramiona wycieraków, wykonane są z blachy o grubości 2 mm. Stosunek promieni wykorbienia na osi silnika i osi ramienia należy tak dobrać, aby przy pełnym kącie pracy silnika (około 86 stopni) ramię wycieraka wykonało 30 stopni. Osłonę mechanizmu wykonujemy z duralowej blachy.</p>
+        <p xml:id="p-4">Przebieg montażu jest następujący:</p>
+        <p xml:id="p-5">1. odcinamy wsporniki podnośnika (narzędzie to musimy wozić odtąd luzem w bagażniku, co jest pewną wadą rozwiązania),</p>
+        <p xml:id="p-6">2. wykonujemy dwa otwory w pasie przednim nadwozia (na wysokości dolnej krawędzi reflektorów) na osie ramion wycieraka i zakładamy gumowe tzw. przelotki,</p>
+        <p xml:id="p-7">3. wiercimy dwa otwory we wspornikach pasa przedniego - na przykręcenie wspornika mechanizmu napędu wycieraczki.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

@@ -1,0 +1,14 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Przełom, jaki nastąpił w Niemczech na początku lat trzydziestych za sprawą Hitlera, znalazł także odbicie w naszej satyrze rysunkowej. Liczba karykatur, jakie poświęcano Hitlerowi i jego ugrupowaniu, rosła systematycznie z sukcesami NSDAP. Stąd rozmaite przedstawienia kanclerza III Rzeszy: a to jako Frankensteina, a to zakochanego amanta z bukietem fiołków zionących siarką, a to Don Kichota, malarza, dzieciaka z wybuchowymi zabawkami czy demagogicznego, prehistorycznego wodza przemawiającego do swych współplemieńców.</p>
+        <p xml:id="p-2">Polsko-niemiecki konflikt gospodarczy z lat 1925-1930 (tzw. wojna celna polegająca na wprowadzaniu wysokich ceł na eksportowane towary) był częstym motywem pojawiającym się w satyrze rysunkowej w Polsce. Michałek traci zęby na "polskich orzechach", czyli na produktach eksportowych, starając się je "rozgryźć" za pomocą leżącego u jego stóp dziadka do orzechów, tj. ceł zaporowych ("Mucha" 1930)</p>
+        <p xml:id="p-3">Karykatury takie pojawiały się dość często, mimo że po 1934 roku, po podpisaniu polsko-niemieckiej deklaracji o nieagresji, cenzura, stosując się do wytycznych linii polskiej polityki zagranicznej - tzw. polityki równych odległości, robiła, co mogła, by wyeliminować antyniemieckie elementy w publikacjach satyrycznych. Jak wykazują powyższe przykłady, nie do końca się jej to udawało. Analogicznie było i w samej Rzeszy. "Mucha" z 1938 roku pokazuje wnętrze restauracji, w której hitlerowiec zjada na obiad Czechosłowację i Austrię, a Anglik kelner podaje mu półmisek z Togo i Kongiem, czemu Francja przygląda się zza szyby w niemej asystencji. Jest to jedna wielka aluzja do polityki "niedrażnienia" Niemiec.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

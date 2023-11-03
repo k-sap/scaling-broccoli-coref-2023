@@ -1,0 +1,14 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Ciekawą usługą dodatkową dla klienta są fachowe porady dotyczące posiadanych już przez klienta innych ubezpieczeń. Oprócz tych stricte ubezpieczeniowych fachowców finansowych niemiecki rynek wymaga na pośrednikach finansowych dostosowywania się do ciężkich warunków konkurencji i rozszerzania wachlarza usług i produktów. Można nawet zauważyć określony trend w zachowaniach. Pośrednik musi mieć w ofercie pakiet tanich produktów dla każdego oraz drogich – ekskluzywnych, dla zamożnych klientów, aby móc dotrzymać kroku konkurencji.</p>
+        <p xml:id="p-2">Coraz więcej jest osób na świecie posiadających status Certyfikowanego Doradcy Finansowego</p>
+        <p xml:id="p-3">Certified Financial Planner to światowa organizacja, która postawiła sobie za cel wprowadzić i rozwijać określone standardy jako oznakę najwyższej jakości w planowaniu finansowym. Organizacja chce rozwijać etykę, kompetencje, standardy praktycznego działania dla doradców finansowych i informować opinię publiczną o korzyściach płynących z planowania finansowego. Certyfikowany Doradca Finansowy jest osobą świadczącą usługi najwyższej jakości. Wybór właściwego Doradcy to dla klienta jedna z najważniejszych decyzji życiowych. Zawód doradcy trwa tak długo jak życie jego klienta. Ludzie będą potrzebowali porady finansowej tak długo, jak długo obracają finansami. Niezależnie od tego, czy doradca finansowy pracuje jako osoba wolnego zawodu, czy też jest zatrudniona – zawsze pozwala skoncentrować się na osiągnięciu zakładanych celów finansowych klienta. Jest w stanie doprowadzić do pomnożenia majątku i podnieść poziom materialny. CFP publikuje informacje dla klientów. Aby byli oni pewni, że są dobrze obsługiwani, doradcy CFP stworzyli nawet katalog praw klienta. Ma on zatem prawo do ścisłej współpracy z Doradcą Finansowym.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

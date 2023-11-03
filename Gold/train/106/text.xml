@@ -1,0 +1,28 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">- Wyjeżdżam za granicę na stypendium naukowe. Myślę, że sobie poradzę i nie dam się zjeść w kaszy. Świat, nasz świat - Boki poprawia frazę i pierwszy raz uśmiecha się sympatycznie - chyba o mnie jeszcze posłyszy.</p>
+        <p xml:id="p-2">Okrągłe schody wijące się gdzieś głęboko na dół. Ziutek wychyla się przez poręcz. Nasłuchuje. Słychać coś jak daleki odgłos czyichś kroków.</p>
+        <p xml:id="p-3">- Cukier! - woła. - Cukier!</p>
+        <p xml:id="p-4">Te kroki jakby zatrzymały się gdzieś niespodzianie. Jest zupełnie cicho.</p>
+        <p xml:id="p-5">- Panie Cukier!</p>
+        <p xml:id="p-6">- Cukier!</p>
+        <p xml:id="p-7">- Cukier!</p>
+        <p xml:id="p-8">Ale odpowiada tylko echo. Więc biegnie w dół, przeskakując po kilka stopni. Na niższym piętrze jak zwykle kilkanaście drzwi. Ale jedne otwarte na oścież. Ciągnie od nich mocny strumień wilgotnego powietrza.</p>
+        <p xml:id="p-9">Ziutek wchodzi ostrożnie do tej wielkiej pływalni, którą widział przedtem wypełnioną zawodniczkami. Jest tu mroczno i cicho. Tylko woda mieni się matowo; słychać metaliczne tykanie z brezentowego chlebaka. Ziutek unosi głowę. Tak, tam na szczycie wieży do skoków ktoś stoi nieruchomo.</p>
+        <p xml:id="p-10">- To ja, Ziutek.</p>
+        <p xml:id="p-11">Nieruchoma sylwetka odzywa się po chwili:</p>
+        <p xml:id="p-12">- Widzę, pieszczochu.</p>
+        <p xml:id="p-13">- Szukałem pana wszędzie. Nie słyszał pan mojego krzyku?</p>
+        <p xml:id="p-14">Ciemna postać zachwiała się odrobinę.</p>
+        <p xml:id="p-15">- Po co ty mnie szukasz, młody człowieku?</p>
+        <p xml:id="p-16">- No jak to? - peszy się trochę Ziutek. - Sam pan wie.</p>
+        <p xml:id="p-17">Ten ociężały posąg na szczycie wieży zaczyna szamotać się, jakby coś chciał wyszarpać spod serca. Za moment leci spod wysokiego stropu nieprzeliczone stado motyli albo ulewa białych liści. To jakieś kartki. Opadają wolno na spokojną wodę. Jeden z tych białych skrawków przelatuje tuż koło nosa Ziutka. Chłopiec łapie go, prostuje, podnosi do oczu. Widzi kupon totolotka z przekreślonymi sześcioma numerami.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

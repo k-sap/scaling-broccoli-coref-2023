@@ -1,0 +1,42 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Czas na wyrok?</p>
+        <p xml:id="p-2">AGNIESZKA</p>
+        <p xml:id="p-3">Wyrok?</p>
+        <p xml:id="p-4">ŁUKASZ</p>
+        <p xml:id="p-5">Na Łukaszu, zwanym również tchórzem... kłamcą...</p>
+        <p xml:id="p-6">AGNIESZKA</p>
+        <p xml:id="p-7">Przestań. Łukasz... Co się z tobą dzieje?</p>
+        <p xml:id="p-8">Łukasz nie odpowiada.</p>
+        <p xml:id="p-9">Tyle razy rozmawialiśmy... Obiecaliśmy, że będziemy sobie wszystko mówić.</p>
+        <p xml:id="p-10">ŁUKASZ</p>
+        <p xml:id="p-11">Pamiętam... Przepraszam. Nie mam nic na swoje usprawiedliwienie.</p>
+        <p xml:id="p-12">AGNIESZKA</p>
+        <p xml:id="p-13">Ale ja nie chcę, żebyś się usprawiedliwiał. Powiedziałeś mi, że idziesz do Kacpra... A wcale u niego nie byłeś... Powiedz mi dlaczego? Co się stało?</p>
+        <p xml:id="p-14">ŁUKASZ</p>
+        <p xml:id="p-15">Nie mogę cię oszukiwać.</p>
+        <p xml:id="p-16">PAUZA</p>
+        <p xml:id="p-17">Ale nie mogę ci też powiedzieć gdzie byłem. Po prostu nie mogę.</p>
+        <p xml:id="p-18">AGNIESZKA</p>
+        <p xml:id="p-19">Ale dlaczego?</p>
+        <p xml:id="p-20">ŁUKASZ</p>
+        <p xml:id="p-21">Tego... tego też ci nie mogę powiedzieć...</p>
+        <p xml:id="p-22">Po chwili, łamiącym się głosem.</p>
+        <p xml:id="p-23">Tak naprawdę... niewiele ci mogę powiedzieć... Wybacz mi...</p>
+        <p xml:id="p-24">Łukasz wyjeżdża, zostawiając zaskoczoną Agnieszkę. Po chwili wychodzi za nim.</p>
+        <p xml:id="p-25">Scena</p>
+        <p xml:id="p-26">WNĘTRZE. DZIEŃ. MIESZKANIE DUNINÓW. SALON. ŁUKASZ, AGNIESZKA</p>
+        <p xml:id="p-27">Łukasz w salonie. Za nim wychodzi Agnieszka.</p>
+        <p xml:id="p-28">AGNIESZKA</p>
+        <p xml:id="p-29">Łukasz... ja cię nie wypytuję bo koniecznie chcę wszystko wiedzieć... Tylko... widzę, że się z czymś męczysz... może mogłabym ci pomóc...</p>
+        <p xml:id="p-30">ŁUKASZ</p>
+        <p xml:id="p-31">Gdybym myślał, że możesz mi pomóc... Poprosiłbym cię bez wahania.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

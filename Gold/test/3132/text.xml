@@ -1,0 +1,45 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">ŁUKASZ</p>
+        <p xml:id="p-2">Właśnie... Co ja takiego mówię? Nie ważne! Do widzenia!</p>
+        <p xml:id="p-3">Łukasz wyjeżdża z budynku. Lucjan idzie za nim. Po drodze zwraca się do Mariusza.</p>
+        <p xml:id="p-4">LUCJAN</p>
+        <p xml:id="p-5">Mariusz, popilnujesz mi kiosku przez chwilę?</p>
+        <p xml:id="p-6">MARIUSZ</p>
+        <p xml:id="p-7">Dobra.</p>
+        <p xml:id="p-8">Lucjan wychodzi. Mariusz zaciekawiony, wychyla się i patrzy na zewnątrz.</p>
+        <p xml:id="p-9">Scena kont.</p>
+        <p xml:id="p-10">WNĘTRZE. DZIEŃ. REDAKCJA, NEWSROOM. SZAFRAŃSKI, ELŻBIETA, TERESA, EDYTA, MAJKA, GOŚKA, KRZYSIEK, JACEK, ANDRZEJ I INNI.</p>
+        <p xml:id="p-11">Nikt nie pracuje. Dziennikarze stoją, siedzą, ale wszyscy zajęci rozmową.</p>
+        <p xml:id="p-12">SZAFRAŃSKI</p>
+        <p xml:id="p-13">Przecież nawet nie wiemy, o co chodzi. Czy ktoś z was zrozumiał coś z tego?</p>
+        <p xml:id="p-14">TERESA</p>
+        <p xml:id="p-15">Chwileczkę. Chodzi o żonę Pawła i jego dzieci! Twoim zdaniem to nie jest nasza sprawa?</p>
+        <p xml:id="p-16">ELŻBIETA</p>
+        <p xml:id="p-17">Marek, co ty wygadujesz?!</p>
+        <p xml:id="p-18">EDYTA</p>
+        <p xml:id="p-19">zdecydowanie</p>
+        <p xml:id="p-20">Ja myślę, że trzeba iść do Majewskiej i zażądać wyjaśnień. Jak uważasz, Andrzej?</p>
+        <p xml:id="p-21">ANDRZEJ</p>
+        <p xml:id="p-22">spłoszony</p>
+        <p xml:id="p-23">No, nie wiem. Tak się zastanawiam, o co ją zapytamy...</p>
+        <p xml:id="p-24">GOŚKA</p>
+        <p xml:id="p-25">Ale nad czym tu się zastanawiać? Wywala ich z mieszkania! Słyszeliście! No, to niech ktoś do niej idzie!</p>
+        <p xml:id="p-26">KRZYSIEK</p>
+        <p xml:id="p-27">Gośka, to może ty?</p>
+        <p xml:id="p-28">GOŚKA</p>
+        <p xml:id="p-29">Co ja? A co ja mam jej powiedzieć? Oleje mnie i wyrzuci za drzwi.</p>
+        <p xml:id="p-30">JACEK</p>
+        <p xml:id="p-31">Albo z gazety.</p>
+        <p xml:id="p-32">TERESA</p>
+        <p xml:id="p-33">prowokacyjnie</p>
+        <p xml:id="p-34">Zaraz. Czy ja jestem w redakcji Samego Życia?</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

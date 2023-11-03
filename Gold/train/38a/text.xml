@@ -1,0 +1,12 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Legendarna piosenkarka, bielszczanka Maria Koterbska, przekazała w bielskim Urzędzie Miejskim pieniądze na budowę domu stałego pobytu dla osób niepełnosprawnych w Bestwinie. 18 tysięcy złotych zebrano podczas jubileuszowego koncertu artystki, który odbył się w październiku w Teatrze Polskim. Pieniądze otrzymało Stowarzyszenie na Rzecz Osób z Upośledzeniem Umysłowym "Razem", które buduje ośrodek dla osób niepełnosprawnych.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

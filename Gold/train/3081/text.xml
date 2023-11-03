@@ -1,0 +1,14 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">- I'm serious! Out! - wrzeszczy zaskoczony własną reakcją Anglik, robiąc zamach zapasowym statywem od kamery, pożyczonym na wieczne przechowanie od Finkelsteina. W jego stronę szybuje przez pokój brunatna, mocno nadgryziona gęś, która jak piłka odbija się od ściany i ginie w plątaninie nóg. W miejscu gdzie plasnęła, ściekają po ścianie długie strużki ciemnego sosu.</p>
+        <p xml:id="p-2">Popłoch i zamieszanie trwają dłuższą chwilę, trzaska ostatni cały talerz z koreańskiego kompletu z Woolwortha na Sto Dziesiątej Ulicy, a kiedy wlokąc za sobą torby i kurtki nocni goście zaczynają schodzić po stopniach, Anglik z rozmachem zatrzaskuje drzwi mieszkania, aż huk roznosi się po całej ciemnej klatce schodowej.</p>
+        <p xml:id="p-3">- Druga Jałta, panowie - słychać zduszony okrzyk, a potem rumor, przekleństwo i niekończący się hurgot spadającego po stopniach bezwładnego ciała. Po paru minutach, kiedy zapada cisza, Anglik wymyka się na schody, odchyla plastikową firankę i przez wąskie okienko zerka na ulicę, gdzie Gipson i Dyzio mocują się z ciałem Carlosa. Wreszcie udaje im się oprzeć Carlosa o żelazną poręcz zejścia do piwnicy, spleść dłonie w koszyczek i jak w lektyce podnieść go do góry. Carlos chwieje się i posłuszny wezwaniu grawitacji, znów się obsuwa na ziemię. Gipson i Dyzio biorą go pod ramiona i wloką w ciemność, w stronę parku, ale zaraz się reflektują, zawracają i wloką pod górę, w kierunku Broadwayu. Anglik wraca do mieszkania, gdzie zastaje Zoe przed lustrem, przebraną w srebrny kombinezon.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

@@ -1,0 +1,20 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">§ 1. Jeżeli dobowy wymiar czasu pracy wynosi co najmniej 6 godzin, pracodawca jest obowiązany wprowadzić przerwę w pracy trwającą 15 minut, którą wlicza się do czasu pracy.</p>
+        <p xml:id="p-2">§ 2. Pracodawca może wprowadzić jedną przerwę niewliczaną do czasu pracy, w wymiarze nieprzekraczającym 60 minut, przeznaczoną na spożycie posiłku lub załatwienie spraw osobistych.</p>
+        <p xml:id="p-3">§ 3. Przerwę, o której mowa w § 2, wprowadza się w układzie zbiorowym pracy lub regulaminie pracy albo w umowie o pracę, jeżeli pracodawca nie jest objęty układem zbiorowym pracy lub nie jest obowiązany do ustalenia regulaminu pracy.</p>
+        <p xml:id="p-4">§ 1. Pracodawca jest obowiązany prowadzić ewidencję czasu pracy pracownika do celów prawidłowego ustalenia jego wynagrodzenia i innych świadczeń związanych z pracą. Pracodawca udostępnia tę ewidencję pracownikowi, na jego żądanie.</p>
+        <p xml:id="p-5">§ 2. W stosunku do pracowników objętych zadaniowym czasem pracy, pracowników zarządzających w imieniu pracodawcy zakładem pracy oraz pracowników otrzymujących ryczałt za godziny nadliczbowe lub za pracę w porze nocnej nie ewidencjonuje się godzin pracy.</p>
+        <p xml:id="p-6">§ 1. Obowiązujący pracownika wymiar czasu pracy w przyjętym okresie rozliczeniowym, ustalany zgodnie z art. 129 § 1, oblicza się:</p>
+        <p xml:id="p-7">1) mnożąc 40 godzin przez liczbę tygodni przypadających w okresie rozliczeniowym, a następnie</p>
+        <p xml:id="p-8">2) dodając do otrzymanej liczby godzin iloczyn 8 godzin i liczby dni pozostałych do końca okresu rozliczeniowego, przypadających od poniedziałku do piątku.</p>
+        <p xml:id="p-9">§ 2. Każde święto występujące w okresie rozliczeniowym i przypadające w innym dniu niż niedziela obniża wymiar czasu pracy o 8 godzin. Jeżeli jednak w tygodniu obejmującym siedem dni od poniedziałku do niedzieli, wystąpią dwa święta w inne dni niż niedziela, obniżenie wymiaru czasu pracy o 8 godzin następuje tylko z tytułu jednego z tych świąt.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

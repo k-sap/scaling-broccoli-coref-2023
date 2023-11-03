@@ -1,0 +1,35 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Wyprawy krzyżowe do Ziemi Świętej w XI-XIII w. nie osiągnęły zamierzonego celu, ale wywołały w Europie Zachodniej i Bizancjum różne następstwa.</p>
+        <p xml:id="p-2">Podaj po jednym następstwie tych wypraw dla Europy Zachodniej i dla Bizancjum.</p>
+        <p xml:id="p-3">A. Dla Europy Zachodniej ...</p>
+        <p xml:id="p-4">B. Dla Bizancjum ...</p>
+        <p xml:id="p-5">Zadanie 9. (1 pkt)</p>
+        <p xml:id="p-6">Poniżej zamieszczono trzy plany miast lokowanych w XIII wieku oraz jeden plan wczesnośredniowiecznego ośrodka osadniczego z XII wieku, podpisz plan tego ośrodka osadniczego z XII w.: XII wiek.</p>
+        <p xml:id="p-7">125, 376</p>
+        <p xml:id="p-8">Zadanie 10. (2 pkt)</p>
+        <p xml:id="p-9">Na podstawie drzewa genealogicznego rodziny Rozdrażewskich podaj imiona i urzędy dwóch przedstawicieli tego rodu, którzy byli senatorami za panowania Zygmunta III Wazy (1587-1632).</p>
+        <p xml:id="p-10">rodzinie Rozdrażewskich senatorami za panowania Zygmunta III Wazy byli:</p>
+        <p xml:id="p-11">Imię Sprawowany urząd</p>
+        <p xml:id="p-12">A.</p>
+        <p xml:id="p-13">B.</p>
+        <p xml:id="p-14">Zadanie 11. (2 pkt)</p>
+        <p xml:id="p-15">Wśród wymienionych sześciu wydarzeń wskaż to, które chronologicznie jest pierwsze i to, które jest ostatnie.</p>
+        <p xml:id="p-16">Obok wydarzenia pierwszego umieść liczbę 1, obok ostatniego – liczbę 6.</p>
+        <p xml:id="p-17">A. Ostatnia wojna Polski z zakonem krzyżackim</p>
+        <p xml:id="p-18">B. Pierwszy hołd lenny księcia pruskiego złożony królowi Polski</p>
+        <p xml:id="p-19">C. Początek wojny trzynastoletniej Polski z zakonem krzyżackim</p>
+        <p xml:id="p-20">D. Odzyskanie przez Polskę jagiellońską Pomorza Gdańskiego</p>
+        <p xml:id="p-21">E. Sekularyzacja zakonu kawalerów mieczowych w Inflantach</p>
+        <p xml:id="p-22">F. Przeniesienie stolicy zakonu krzyżackiego z Malborka do Królewca</p>
+        <p xml:id="p-23">danie 12. (3 pkt)</p>
+        <p xml:id="p-24">Rozstrzygnij, czy podane informacje są prawdziwe, czy fałszywe.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

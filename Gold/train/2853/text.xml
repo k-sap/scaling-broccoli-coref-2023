@@ -1,0 +1,19 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">4) Wyjaśniać masom "konieczność przejścia całej władzy państwowej w ręce Rad Delegatów Robotniczych".</p>
+        <p xml:id="p-2">5) "Nie republika parlamentarna – powrót do niej od Rad Delegatów Robotniczych byłby krokiem wstecz – lecz republika Rad Delegatów Robotniczych, Parobczańskich i Chłopskich w całym kraju od dołu do góry".</p>
+        <p xml:id="p-3">6) "Konfiskata wszystkich gruntów obszarniczych, nacjonalizacja wszystkich gruntów w kraju".</p>
+        <p xml:id="p-4">7) Utworzenie jednego banku ogólnonarodowego pod kontrolą Rad.</p>
+        <p xml:id="p-5">8) Zmiana programu partyjnego i nazwy partii z socjaldemokratycznej na komunistyczną.</p>
+        <p xml:id="p-6">9) Utworzenie Międzynarodówki Rewolucyjnej.</p>
+        <p xml:id="p-7">Program ten znaczna większość współczesnych uważała za nieżyciowy i fantastyczny. Lecz już w pół roku później wszedł on w stadium realizacji.</p>
+        <p xml:id="p-8">Tak postawionemu programowi bolszewików Rząd Tymczasowy nic nie miał i nic nie mógł przeciwstawić. Rozdźwięk pomiędzy rządem a społeczeństwem był poważny, a pogłębiało go jeszcze hasło kontynuowania wojny. Milukow pod naciskiem Rady Delegatów Robotników i Żołnierzy złożył deklarację, iż Rosja wyrzeka się aneksji obcych terytoriów, ale zarazem do rządów państw koalicji skierował "notę wyjaśniającą", iż "cały naród pragnie prowadzić wojnę światową aż do stanowczego zwycięstwa, i że Rząd Tymczasowy zamierza ściśle przestrzegać zobowiązań przyjętych wobec naszych sprzemierzeńców". Na wezwanie bolszewików masy robotnicze odpowiedziały wielkimi demonstracjami w dniach 3 i 4 maja 1917 r., wymierzonymi przeciwko wojnie imperialistycznej. Był to protest przeciwko imperializmowi burżuazji. Czynniki rządowe zareagowały na to manewrem, który miał uspokoić i rozbroić klasę robotniczą. Z rządu usunięto dwóch najbardziej skompromitowanych imperialistów – ministra spraw zagranicznych Milukowa i wojny – Guczkowa. 5 maja 1917 r. powstał w dalszym ciągu pod prezesurą księcia Lwowa nowy rząd, w którego skład weszli także eserowcy i mienszewicy. Na czoło wysunął się Kiereński, objął on w nowym gabinecie stanowisko ministra wojny i marynarki.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

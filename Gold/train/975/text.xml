@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">W miarę rozwoju szkoły orkiestra smyczkowa przekształciła się w symfoniczną podnosząc systematycznie swój poziom wykonawczy, dając coraz więcej koncertów w Rybniku i w regionie. Dokonała nagrań dla Polskiego Radia w Katowicach. Kolejni dyrygenci to: Juliusz Malik, Krystyna Lubos, Tadeusz Hanik. W roku 1990 dyrygentem zespołu został dyrektor Eugeniusz Stawarski. Ostatnie 17 lat to okres świetności zespołu, który po rozwiązaniu Filharmonii Rybnickiego Okręgu Węglowego przejął jej funkcje kulturotwórcze. W mieście orkiestra koncertowała na wszystkich najważniejszych uroczystościach, akompaniowała najzdolniejszym uczniom – solistom, uświetniała Dni Cecyliańskie, Dni Muzyki Organowej, Rybnickie Dni Literatury, grała wspólnie z europejskimi młodzieżowymi orkiestrami, zespołami i solistami goszczącymi w Rybniku.</p>
+        <p xml:id="p-2">Z koncertami odwiedziła większość miast naszego regionu. Występowała również poza granicami kraju: Niemcy - Gladbeck 1992, 1994, 1996; Strauberg, Beurberg, Wolhfratshausen 1993; Eurasburg 1994, 2003; Dorsten 1995, 2001; Holandia – Deventer 1992; Francja – Mazamet 1994; La Valette du Var 2003; Grecja – Larisa 2005 i Czechy – Opava 2006.</p>
+        <p xml:id="p-3">Od 2002 r. Orkiestrę Symfoniczną Szkoły Szafranków (nazwa przyjęta w 2006 r.) prowadzi obecny dyrektor szkoły Romana Kuczera. Koncerty odbywające się kilka razy w roku cieszą się ogromną popularnością wśród rybnickich melomanów, również za sprawą idei odrodzenia orkiestry na wzór tej prowadzonej przez Antoniego Szafranka.</p>
+        <p xml:id="p-4">Wysoki poziom orkiestry doceniony został przez znakomitych solistów i dyrygentów, którzy przyjęli zaproszenie do wspólnych koncertów.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

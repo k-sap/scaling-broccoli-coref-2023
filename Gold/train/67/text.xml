@@ -1,0 +1,14 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Doprowadziły również do ukształtowania się w wielu państwach, zwłaszcza Ø najbardziej rozwiniętych, takiego modelu politycznego, w którym dominantą jest szerokie CENTRUM, kierujące się bardziej pragmatyzmem i nagromadzonym doświadczeniem niż jakąkolwiek konkretną doktryną społeczną.</p>
+        <p xml:id="p-2">Zjawisko to należy, zaznaczam, do innego porządku niż mniej lub bardziej fantazyjne idee i pierwociny "ustroju alternatywnego". To nie jest żadna wizja przyszłościowa - to główna reguła porządku politycznego w nowoczesnych państwach kapitalistycznych. Trzeba ją choćby pobieżnie zasygnalizować. Postąpić inaczej - to tak, jakby przy obserwacji przyrody przeoczyć słonia, skoro interesują nas akurat motyle, łątki jednodniówki, pyłki kwiatów tudzież pochowane gdzieś krasnoludki.</p>
+        <p xml:id="p-3">Prawie we wszystkich państwach, które się wzbogaciły i utrwaliły demokrację, społeczeństwa nie dążą do radykalnych Ø, a już w żadnym wypadku do rewolucyjnych zmian, choć na ich marginesach - vide terroryzm - skłonność taka nie wygasła. Dominuje ostrożność, zaufanie do struktur, które się nieźle sprawdziły, wiara w sens i właściwy kierunek ewolucji, równowaga między interesem poszczególnych obywateli a pożytkiem zbiorowości zorganizowanej w państwo. Sytuacji tej odpowiada taki układ polityczny, że rządzą partie centrowe o niewyraźnych ideologiach, chociaż w nazwach tych partii zachowały się zazwyczaj ślady dawnych burz ideowych (radykałowie, liberałowie, konserwatyści, demokraci, republikanie, socjaliści) jako relikty historii pozwalające wyborcom także na sentymentalną z nimi identyfikację. Ale mogły owe nazwy porzucić, nazywając się po nowemu, na przykład "Prawo Obywatelskie" lub "Platforma Sprawiedliwości".</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

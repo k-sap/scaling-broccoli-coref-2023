@@ -1,0 +1,16 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Zachował się w papierach stryja bardzo ciekawy kalendarzyk na rok 1918, w którym prowadził on zapiski prawie każdego dnia. Niemalże całość tych notatek dołączamy w Aneksie. Tam to, pod datą 30 stycznia, czytelnik znajdzie rzadkiej determinacji zdania:</p>
+        <p xml:id="p-2">Mam jechać do Paryża, ale nim pojadę, to narobię porządnego burdelu Anglikom. Nie ruszę się, o ile nie dadzą mi innego paszportu i nie uznają, że jestem Polakiem - za moskiewskim nie pojadę!!!</p>
+        <p xml:id="p-3">I drugi zapisek, z 1 maja: Wielkie zwycięstwo dla Polski odniosłem. Jestem pierwszym Polakiem, którego rząd angielski uznał oficjalnie za Polaka, a nie jakiegoś tam "subjecta". A to ci pójdzie w nos Sobańskiemu. Śmiali się w nos, gdym wszczął gwałt i upierałem się w Home Office, że jeżeli chcą być logicznymi, muszą mnie uważać za Niemca.</p>
+        <p xml:id="p-4">Dla wyjaśnienia: zarówno Warszawa jak i Lublin, gdzie autor powyższych słów miał swoje posiadłości, znajdowały się w tym czasie pod okupacją niemiecką. Władysław Sobański był szefem londyńskiego oddziału K.N.P., czyli Komitetu Narodowego Polskiego o orientacji narodowo-demokratycznej.</p>
+        <p xml:id="p-5">Byłem pierwszym Polakiem na terytorium Wielkiej Brytanii, któremu takie zaświadczenie wydano. - podkreśla autor na początku rozdziału "Moja praca w Postal Cenzor". - Dotąd w książeczkach tożsamości Polacy czy to rosyjskiego, czy austriackiego lub niemieckiego państwowego pochodzenia, tak jak i ja mieli zawsze zaznaczone, że są np. Rosjanami. Gdym okazał ten mój nowy dowód tożsamości w Komitecie Narodowym, a specjalnie panu Garszyńskiemu, był wielce zdziwiony i zaskoczony, że to u rządu angielskiego uzyskałem. K.N.P., powołując się na przyznane mi prawa, zaczął czynić kroki, by te prawa rozciągnięto i na resztę kolonii polskiej na terenie Wielkiej Brytanii.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

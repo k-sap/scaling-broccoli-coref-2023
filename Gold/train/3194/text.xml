@@ -1,0 +1,49 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">sp2: wzięła te po Pameli..</p>
+        <p xml:id="p-2">sp3: z muzeum..</p>
+        <p xml:id="p-3">sp2: z muzeum..</p>
+        <p xml:id="p-4">sp3: a te..</p>
+        <p xml:id="p-5">sp1: zobaczmy co tutaj jest ?</p>
+        <p xml:id="p-6">sp3: o..</p>
+        <p xml:id="p-7">sp1: a to co o czym to jest ?</p>
+        <p xml:id="p-8">sp3: zimno mi tu..</p>
+        <p xml:id="p-9">sp2: następne czterdzieści osiem godzin..</p>
+        <p xml:id="p-10">sp3: ..</p>
+        <p xml:id="p-11">sp2: Edi Merfi..</p>
+        <p xml:id="p-12">sp3: o właśnie. o jak niunia daje..</p>
+        <p xml:id="p-13">sp1: no i dalej jeden jeden..</p>
+        <p xml:id="p-14">sp2: czterdziesta piąta minuta ?</p>
+        <p xml:id="p-15">sp1: no..</p>
+        <p xml:id="p-16">sp3: ..</p>
+        <p xml:id="p-17">sp1: swojego Ø ukarał. ale to jest w ogóle Polak czy nie ?</p>
+        <p xml:id="p-18">sp2: kto ?</p>
+        <p xml:id="p-19">sp1: no sędzia. sędzia kalosz krótko mówiąc..</p>
+        <p xml:id="p-20">sp2: coś murzyna nie widać..</p>
+        <p xml:id="p-21">sp3: może go zdjęli..</p>
+        <p xml:id="p-22">sp1: no i tak się musiało skończyć..</p>
+        <p xml:id="p-23">sp3: ma jakiś taki słab słabszy rozruch..</p>
+        <p xml:id="p-24">sp1: m. e tam coś popsułaś..</p>
+        <p xml:id="p-25">sp3: wcale nie popsułam tylko ci lata. Mariusz zrobiłbyś takiego ptaszka ?</p>
+        <p xml:id="p-26">sp1: to cóż to za świetny film ? jakaś stara. no i nic nie ma no. czyli nie pozostaje nic innego jak..</p>
+        <p xml:id="p-27">sp3: mogę dostać pilota ?</p>
+        <p xml:id="p-28">sp1: nie..</p>
+        <p xml:id="p-29">sp3: na pewno mogę..</p>
+        <p xml:id="p-30">sp1: nie..</p>
+        <p xml:id="p-31">sp3: tylko że nie wiesz że mogę. no daj..</p>
+        <p xml:id="p-32">sp1: e..</p>
+        <p xml:id="p-33">sp3: to zrób mi kanapeczkę..</p>
+        <p xml:id="p-34">sp1: byś sobie zrobiła z pięć godzin temu tą kanapkę..</p>
+        <p xml:id="p-35">sp3: no to ty mi zrób a ja wezmę pilota..</p>
+        <p xml:id="p-36">sp1: dobrze to sobie zrób..</p>
+        <p xml:id="p-37">sp3: o..</p>
+        <p xml:id="p-38">sp1: już drugą stronę się tak obraca czy ?</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

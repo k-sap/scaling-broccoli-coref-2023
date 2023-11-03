@@ -1,0 +1,17 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">- To nie jest dobry moment do śpiewania. Kuba przechodzi mutację. I może sobie zniszczyć głos - przerywa mu mama. - Nie na wszystko mu z mężem pozwalamy. On ma wiele szalonych pomysłów. Ale też ma dar przekonywania - mówi o jedynaku.</p>
+        <p xml:id="p-2">Czy ta popularność nie zmanierowała Kuby?</p>
+        <p xml:id="p-3">- Dbamy o to, żeby tak nie było. Kuba nie chodzi na dyskoteki. Nie pali. Nie pije alkoholu. Uczy się nieźle. I jest dobrze zorganizowany - wylicza zalety chłopca Krystyna Stępniak. - Nie możemy mu więc odbierać tego młodzieńczego zapału. To młodzieniec XXI wieku - przekonuje.</p>
+        <p xml:id="p-4">- Ma piękną ideę - opowiada dalej. - Próbuje zrobić coś dobrego. I ma czyste ręce. Te tabliczki do bud przybija z premedytacją. Nie dla własnej popularności. Tylko, żeby każdy wiedział, gdzie są ulokowane pieniądze z charytatywnego koncertu. Przyznaje, że nie udało się Kubie uratować jeszcze żadnego konia. Ale to dlatego, że kazaliśmy mu się uczyć. Dopiero podczas ferii może jechać na targowisko, gdzie się handluje zwierzętami.</p>
+        <p xml:id="p-5">Szymon Kobyliński z zespołu Blenders: Tak, nagrywamy piosenkę z Kubą Stępniakiem. On tam raczej dośpiewuje, niż gwiazduje. Ta piosenka ma być na singlu Kuby, z którego dochód w całości powinien być przeznaczony dla dzieci w Bieszczadach.</p>
+        <p xml:id="p-6">Na pytanie - jak sobie Kuba radzi ze śpiewem, Szymon Kobyliński odpowiada: Powiedzmy, że coś się dało z tego zrobić. Nie można wymagać cudów od kogoś, kto wchodzi do studia pierwszy raz...</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

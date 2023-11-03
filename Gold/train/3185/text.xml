@@ -1,0 +1,23 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">sp0: nie Dzidka nie widziałem dawno Azy też nie. teraz to miałem taki dosyć ciężki okres tych spotkań teatralnych więc dużo pracowałem. nie było za ciekawie..</p>
+        <p xml:id="p-2">sp1: my jak byliśmy na spotkaniach to to pojechaliśmy..</p>
+        <p xml:id="p-3">sp0: byliście u Azy ?</p>
+        <p xml:id="p-4">sp1: nie u Dzidka na działce tak chwilę z nim pogadałem bo też ma taki zapieprz ale zawiózł mnie do swojego domu..</p>
+        <p xml:id="p-5">sp0: u..</p>
+        <p xml:id="p-6">sp1: ale klimat jest kurde wiesz no przedni wiesz z kumplem z ławki rozmawiasz właśnie buduje swój dom pokazuje ci w środku jak to wygląda wiesz ?</p>
+        <p xml:id="p-7">sp0: ładny ?</p>
+        <p xml:id="p-8">sp1: tam jeszcze mówi że po prostu nie ma pieniędzy nie ukrywa dlatego jakby nie kończy natomiast sam budynek jest taki fajny wiesz parterowy z podpiwniczeniem na garaż taki jakby nie ?</p>
+        <p xml:id="p-9">sp0: yhm..</p>
+        <p xml:id="p-10">sp1: tak że jest z takim uskokiem jakby. nad garażem jest taka wiesz góra. y no chce coś tam zmieniać dach chciał taki. przepraszam dwuspadowy. bo teraz ma taki płaski no ale mówi że jeszcze jakiś miliard potrzebuje żeby to skończyć w tej chwili stoją mury. zadaszone już jest y..</p>
+        <p xml:id="p-11">sp0: okna ?</p>
+        <p xml:id="p-12">sp1: nie okna są jakieś takie stare ale to one nie zostaną. no i właściwie nic więcej i jakiś tam kawałek instalacji widziałem wiesz miejsce na kominek wiesz pod komin podciągnięte to wszystko. piwnica w tej chwili ma chyba salon taki ładny duży z tarasem. i trzy pokoje dodatkowo z tym że i łazienka ale Ania chce zrobić zamiast łazienki. znaczy łazienkę chce zrobić w pokoju bo żeby było okno w łazience..</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

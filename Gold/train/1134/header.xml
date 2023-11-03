@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<teiHeader xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xml:lang="en">
+  <fileDesc>
+    <titleStmt>
+      <title>Paragraphs: p-728,p-729,p-730,p-731,p-732,p-733,p-734,p-735,p-736 from NKJP text with id: IJPPAN_k70A0086</title>
+    </titleStmt>
+  </fileDesc>
+  <profileDesc>
+    <textClass>
+      <catRef scheme="#nkjp" target="Książki publicystyczne"/>
+    </textClass>
+  </profileDesc>
+  <revisionDesc/>
+</teiHeader>

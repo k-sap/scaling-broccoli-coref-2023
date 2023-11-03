@@ -1,0 +1,22 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">- Tak wygląda oznaka władzy szeryfa! - powiedział ze znawstwem, jak gdyby całe życie spędził w Teksasie.</p>
+        <p xml:id="p-2">- Myślałem, że kupimy za te pieniądze cukierków i kwasu - wtrącił płaczliwie Boria.</p>
+        <p xml:id="p-3">- Głupi! To była jałmużna! Żarłbyś cukierki kupione za jałmużnę? - Bo ja - nie!</p>
+        <p xml:id="p-4">Splunął przez zęby na odległość trzech kroków, po mistrzowsku.</p>
+        <p xml:id="p-5">- Możecie wracać do domu. Ja idę się kąpać. Ale sam.</p>
+        <p xml:id="p-6">- Po ciemku?</p>
+        <p xml:id="p-7">- Po ciemku, bo tak mi się podoba!</p>
+        <p xml:id="p-8">Gdy po paru godzinach wróciłem chyłkiem do domu i chciałem niepostrzeżenie położyć się do łóżka, ojciec zatrzymał mnie:</p>
+        <p xml:id="p-9">- Słuchaj, Adasiu, postanowiliśmy dawać ci tygodniówkę... Dwadzieścia kopiejek na tydzień... Dzisiaj sam sobie wziąłeś, a w przyszły wtorek dostaniesz znowu... Tak będzie lepiej, prawda?</p>
+        <p xml:id="p-10">Spojrzałem w dobre, łagodne oczy ojca, miałem chęć rzucić mu się na szyję, dziękować, przepraszać, ale nogi jak gdyby wrosły mi w ziemię. Potem poczułem chłód w sercu i bez słowa poszedłem do siebie. Nie zapalając świecy rozebrałem się i schowałem się z głową pod kołdrę, aby w ten sposób ukryć kompromitację, gorycz, upokorzenie...</p>
+        <p xml:id="p-11">Nazajutrz wczesnym rankiem wymknąłem się z domu, żeby uniknąć spotkania z matką. Pałałem nienawiścią do Paszy. Błąkałem się wśród drzew smagając kijem rozpiete tu i ówdzie pajęczyny, depcząc żółte lwie pyszczki i puszyste mlecze, zły na siebie i na cały świat.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

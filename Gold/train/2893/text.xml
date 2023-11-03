@@ -1,0 +1,16 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Jednak ekspresi nie tylko nosili listy, zakupy i fortepiany. Czasami - jak twierdził Zbigniew Nowakowski - otrzymywali osobliwe zlecenia:</p>
+        <p xml:id="p-2">Ekspresi stali w Rynku, właściwie na linii C-D. Byli to, oczywiście, zwyczajni posłańcy, ale w Krakowie nie mówiło się nigdy inaczej, tylko "ekspres". Używani do przeprowadzek, do dyskretnego zastawiania zegarków w lombardach, czy w założonym jeszcze przez ks. Skargę "Banku Pobożnym", do listów, do kwiatów itp. Czasem do nabicia kogoś po mordzie. To się także zdarzało.</p>
+        <p xml:id="p-3">Bywali ostatnią deską ratunku. Zdarzyło się kiedyś, że pewnemu aktorowi ukradziono ubranie w oleandrach... Nie na ulicy Oleandry, bo jeszcze nie było, ale w nadbrzeżnych zaroślach zwanych oleandrami, od których zresztą - ale za pośrednictwem teatrzyku "Oleandry" - ulica wzięła nazwę. Stracił aktor wszystko - od skarpetek po kapelusz. Co miał zrobić? Udało mu się ubłagać przypadkowego przychodnia, aby poprosił kolegów z teatru o przysłanie mu kompletnego stroju. Oczywiście przez ekspresa, który został upoważniony do wynajęcia fiakra - bo jakże inaczej... Tym razem ekspres spisał się - znalazł nieszczęśnika w oleandrach i dostarczył mu odzież - ale jaką? Nowakowski sumiennie wymienia całą garderobę:</p>
+        <p xml:id="p-4">...pancerz kowany, hełm z pióropuszem, nagolenniki, rękawice, miecz krzyżacki, dodatkowo jakąś misiurkę damasceńską itp.</p>
+        <p xml:id="p-5">Jak widać, aktorzy zawsze lubili robić sobie kawały...</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

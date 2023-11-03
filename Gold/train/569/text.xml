@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Według Langów konwersja jest formą dynamiki kolektywnej czy kolektywnego zachowania, a więc odnosi się do tych wzorów działań społecznych, które są spontaniczne, nieustrukturowane, niezorganizowane, nie mogą być zredukowane do struktury społecznej i, w związku z tym, nie mogą być wyjaśnione na podstawie statusów i ról uczestników, jakie mają oni w pewnym układzie społecznym. Chodzi tu o takie zachowania zbiorowe, które nie zachodzą w zorganizowanym już systemie, lecz są charakterystyczne dla zbiorowości podlegających zmianom. Dla Langów relatywny brak struktury wyznacza domenę kolektywnej dynamiki (Lang 1961, s. 3 i nast.). Innymi słowy, mówią oni o konwersji jako o zjawisku masowym. Masowa konwersja jest kolektywną transformacją, która z punktu widzenia konwencjonalnych grup społecznych przedstawia rozległą i fundamentalną zmianę w zakresie norm społecznych czy to części członków społeczeństwa, czy całych grup społecznych (ibidem, s. 157).</p>
+        <p xml:id="p-2">Langowie nie rozwinęli jednak szczegółowej analizy konwersji jako formy dynamiki kolektywnej. Ograniczyli się do podsumowania psychospołecznych stadiów doświadczenia uczestników zachowań zbiorowych oraz przedstawienia społecznych czynników, warunkujących te doświadczenia. Chodzi tu o wywoływanie - przez stworzenie odpowiednich warunków społecznych - poczucia winy i samokrytyki oraz charyzmatyczne przywództwo. Jakkolwiek tylko ogólnie zarysowana, ta idea konwersji jako zjawiska kolektywnego zasługuje na uwagę, ponieważ autorzy związali nawrócenie z ruchem religijnym bardziej integralnie, a nie tylko jako jeden jego aspekt - rekrutacja, zaangażowanie czy jedynie subiektywny odpowiednik procesów związanych z ruchem społecznym, jak zmiana tożsamości. Langowie wyprowadzili analizę konwersji poza jej indywidualistyczne rozumienie, łącząc to zjawisko z procesem zmiany społecznej. Masowa konwersja wiąże się według nich z:</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

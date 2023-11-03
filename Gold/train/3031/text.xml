@@ -1,0 +1,17 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Zygmunt chciał się wycofać, lecz pulsujący tłum pchał go do przodu. Syreny karetek, białe kitle lekarzy biegających jak zwierzęta po okręgu ognia. Zgroza. Parę metrów po lewej mężczyzna pochylał się nisko nad zwłokami, przyciskał do ust spaloną dłoń, płakał, coś szeptał. Bocian! To Bocian. Zygmunt podbiegł do niego i chwycił za ramię.</p>
+        <p xml:id="p-2">- Bocian, Bocian... - wycharczał.</p>
+        <p xml:id="p-3">Ten nawet się nie obejrzał. Tulił zwęglone ciało i szeptał nachylony nad wyżartymi aż do policzków ustami, spod których wylazła na wierzch szczęka. Czarne zęby szczerzyły się w upiornym śmiechu.</p>
+        <p xml:id="p-4">- Zobacz, przyszedł Zygi, on ciebie zna, rozmawiałem z nim o tobie. Zazdrości, wiesz...</p>
+        <p xml:id="p-5">- Bocian, to nie ma sensu, to nic nie pomoże. Chodź, no wstawaj! Bocian, ona nie żyje. Nie żyje, słyszysz? - Zygmunt próbował go odciągnąć.</p>
+        <p xml:id="p-6">- ...strasznie, zazdrości tego, że jesteśmy razem, i nawet pytał, czy się z tobą ożenię, spryciarz. Pewnie chciałby, żeby nie. Też by się w tobie zakochał. Ale nie potrafi, bo jest chujkiem, śmiesznym chujkiem. Ja potrafię. Kocham cię, wierzysz mi? - Bocian przywarł ustami do łysej czaszki. - Zrobię wszystko, żebyś wierzyła do końca życia... Teraz zabiorę cię do domu, opatrzymy rękę i będziemy oglądać filmy, te, które lubisz. Właśnie pożyczyłem Bessona. Wiem, że oglądałaś wiele razy, wiem... - otwartą dłonią zaczął delikatnie wycierać szczękę z sadzy.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Najbardziej odważnej odpowiedzi na nurtujące nas pytanie dostarcza eksperymentalna psychologia egzystencjalna. Jej twórcy Jeff Greenberg, Tom Pyszczynski i Sheldon Solomon skupili się na odczuciu trwogi, którego doświadczamy zawsze, gdy tylko myślimy o śmierci. Myśli te są dość częste - może je wyzwolić widok cmentarza, wspomnienie zmarłej osoby czy wyobrażenie martwego zwierzęcia. Lęk przed śmiercią nie pozwalałby nam cieszyć się życiem, gdyby nie dwa mechanizmy psychologiczne ograniczające go: światopogląd, czyli kodeks moralny, wartości i przekonania, oraz samoocena, czyli nasze dorastanie do światopoglądu. Światopogląd powoduje, że non omnis moriar - zawsze w końcu pozostanie moja kultura, czyli symboliczne przedłużenie mojej egzystencji.</p>
+        <p xml:id="p-2">Greenberg i współpracownicy w licznych eksperymentach dowiedli, że myśli o własnej śmierci czynią ludzi bardziej rygorystycznymi moralnie i przywiązanymi do własnego światopoglądu, a jednocześnie mniej tolerancyjnymi wobec ludzi o innym światopoglądzie. Czy chodzi tu jednak o własny światopogląd, czy może światopogląd całej grupy? Badania Emanuele Castano i Marka Dechesne dowiodły, że uświadomienie ludziom, że są śmiertelni, zespala ich z grupą. Osoby, które poproszono o wyobrażenie sobie swojej śmierci i opisanie pośmiertnego losu, stawały się silniej przywiązane do grupy, oceniały ją bardziej pozytywnie oraz zaczynały traktować swoją grupę jako jednorodną całość. Światopogląd jest więc tylko jednym z przejawów potrzeby należenia do grupy, która pojawia się w sytuacji zagrożenia śmiercią. To grupa czyni nas nieśmiertelnymi, a przynajmniej symbolicznie nieśmiertelnymi. Trudno chyba o ważniejszy powód należenia do grup. Słuchacze i słuchaczki Radia Maryja, którzy tworzą grupę niezwykle spoistą i niechętną wobec innych światopoglądów, wydają się być mocnym potwierdzeniem słuszności tej teorii.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

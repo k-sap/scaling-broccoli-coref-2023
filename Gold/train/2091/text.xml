@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Przyjrzyjmy się ponownie naszemu programikowi-kalkulatorowi. Jego zasadnicza wada polega na tym, że aby uzyskać jakikolwiek wynik, należy za każdym razem wpisywać liczby do nawiasów procedury writeln i kompilować program. Istnieje oczywiście sposób, by tego nie robić. Jak w każdym przyzwoitym języku programowania, w Pascalu istnieje pojęcie zmiennej, która jest identyfikowanym przez nazwę pojemnikiem na wartość wykorzystywaną w trakcie działania programu. Pewną wadą zmiennych jest konieczność ich deklarowania, tj. informowania kompilatora, że dana zmienna jest określonego typu. W Pascalu deklaracja zmiennych ma postać: lista-nazw : typ</p>
+        <p xml:id="p-2">Nazwy na liście oddziela się przecinkami, zaś grupa deklaracji musi rozpoczynać się słowem kluczowym var (ang. variables - zmienne). Nietrudno się domyślić, że deklaracje zmiennych powinny poprzedzać ich użycie, a zatem należy je umieszczać po nagłówku programu, a przed otwierającym słowem begin. Składnia języka zabrania deklarowania zmiennych w treści programu, tak więc próba umieszczenia takiej deklaracji pomiędzy słowami begin i end zakończy się błędem kompilacji.</p>
+        <p xml:id="p-3">Po słowie begin pojawiła się kolejna nowość: wywołanie standardowej procedury wejścia readln. Procedura ta jest "odwrotnością" poznanej poprzednio writeln, służy zaś do wprowadzenia wartości zmiennych Liczbal i Liczba2 z klawiatury.</p>
+        <p xml:id="p-4">Po uruchomieniu programu możemy wpisać z klawiatury dwie kolejne liczby, naciskając po każdej klawisz Enter. Program obliczy i wyświetli ich iloczyn; zauważmy, że wynik jest wyświetlany właśnie we wspomnianej przed chwilą postaci naukowej, tj. liczbaEwykładnik. Jest ona bardziej pojemna, tj. łatwiej reprezentuje się w niej bardzo małe i bardzo duże liczby - ale mniej czytelna. Na szczęście już wkrótce poznamy metodę pozwalającą na wyprowadzanie liczb w bardziej zrozumiałej postaci.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

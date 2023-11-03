@@ -1,0 +1,17 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Podczas zawodów, które rozegrane zostały w sali sportowej Wojewódzkiego Ośrodka Kultury, pary rywalizowały o punkty potrzebne im do uzyskania wyższej klasy tanecznej. Po raz pierwszy w Elblągu o najwyższe laury walczyli też tancerze niepełnosprawni. W specjalnym, wieczornym pokazie wystąpili Kamil Szpindowski i Małgorzata Grządka z Elbląskiego Klubu Tańca Jantar.</p>
+        <p xml:id="p-2">Walczyli o punkty</p>
+        <p xml:id="p-3">W poszczególnych kategoriach i klasach tanecznych na podium stawały również pary z Elbląga. W kategorii do 9 lat (klasa E), w kombinacji 6 tańców, drugie miejsce wytańczyli Michał Wilczak i Arleta Wyżlic. W kategorii 14-15 lat (klasa D), w stylu standard, trzecie miejsce zajęli Marcin Kowalski i Katarzyna Czyżyk. W tej samej kategorii wiekowej, ale w gronie tancerzy z klasą C, w stylu standard drugie miejsce wywalczyła para Michał Białkowski i Dorota Jedynak. Ta sama para zajęła też trzecie miejsce w stylu latynoamerykańskim. Najlepsi w swojej kategorii (amatorzy z klasą E), w kombinacji 8 tańców, okazali się Jakub Sajko i Milena Sikorska. Z kolei wśród amatorów z klasą D, w stylu standardowym, zwyciężyli Michał Jedynak i Sylwia Kozłowska.</p>
+        <p xml:id="p-4">Rywalizacja i pokazy</p>
+        <p xml:id="p-5">Sporo emocji dostarczyła elblążanom pierwsza w Elblągau rywalizacja tancerzy niepełnosprawnych. W turnieju wystąpiło sześć par. Organizatorzy Pomostów mają nadzieję, że już wkrótce takie pary będą trenowały również w EKT Jantar.</p>
+        <p xml:id="p-6">Jedną z atrakcji sobotnich zawodów był pokaz tańca w wykonaniu Kamila Szpindowskiego i Małgorzaty Grządki. Para ta, która od kilkunastu miesięcy trenuje w Jantarze, w ubiegłym roku zdobyła Puchar Polski Amatorów w standardzie, a w tym roku znalazła się w finale Mistrzostw Polski Amatorów w tym samym stylu.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

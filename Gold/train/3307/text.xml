@@ -1,0 +1,19 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Eternit leżał pod blokiem</p>
+        <p xml:id="p-2">Po tygodniu od rozpoczęcia usuwania azbestu na miejsce robót przybył Andrzej Spałek, inspektor nadzoru wysłany przez dyrekcję katowickiego PKP. Nie stwierdził on jednak żadnych uchybień przy przenoszeniu toksycznych materiałów. – Eternit był zabezpieczany w białych workach, więc zostały spełnione wszelkie normy bezpieczeństwa – twierdzi inspektor. Innego zdania jest Władysław Gontkowski. – W przeddzień kontroli inspektora odbyło się tutaj wielkie sprzątanie, zatarto większość śladów, jednak część dalej jest widoczna – mówi, wskazując na swój balkon. Dyrektor firmy Basta odmówił nam komentarza w tej sprawie.</p>
+        <p xml:id="p-3">Z tym nie ma żartów</p>
+        <p xml:id="p-4">Przy robotach towarzyszących zrzucaniu płyt eternitowych nie liczono się chyba ze stanem, w jakim znajdzie się prywatne mieszkanie państwa Gontkowskich. Sam inspektor Spałek dobitnie stwierdził, że została wykonana fuszerka i zlecił powtórne wykonanie prac. Po upomnieniu nowa ekipa wywiązała się ze swoich zadań o wiele lepiej, ku zadowoleniu lokatorów 10 piętra. Przypomnijmy: azbest będący składnikiem płyt eternitowych jest bardzo szkodliwą substancją. Może być przyczyną pylicy azbestowej, raka płuc i nowotworów międzybłonnika opłucnej. Obecnie stosowanie eternitu jest zabronione w Polsce i trwa proces sukcesywnego usuwania go z budynków.</p>
+        <p xml:id="p-5">Zasady bezpiecznego obchodzenia się z azbestem</p>
+        <p xml:id="p-6">– Należy zabezpieczyć teren, na którym znajdują się wyroby zawierające azbest za pomocą szczelnej zabudowy, ewentualnie pokryć substancją wiążącą azbest posiadającą odpowiednią aprobatę techniczną</p>
+        <p xml:id="p-7">– Wyeliminować jakąkolwiek obróbkę mechaniczną przy pracach związanych z usuwaniem azbestu</p>
+        <p xml:id="p-8">– Prace mogą być wykonywane wyłącznie przez wykonawców posiadających odpowiednie wyposażenie techniczne oraz zatrudniających pracowników z odpowiednim przeszkoleniem</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

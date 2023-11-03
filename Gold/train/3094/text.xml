@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Myślenie pani Ignacowej nie przekraczało progu jej mieszkania: - nie umiała mówić o niczym, co nie tyczyło się bezpośrednio jej dzieci. Jaś miał ospę tej zimy, Józia przechodziła tyfus, Wacio szkarlatynę, tamten z wyłażącymi z dziur w barchanowych niezapominajkach kolanami - krup, to maleńkie chore na żołądek, zapalenie płuc, febrę, kaszel, malarię, jakieś "ognipióry", angielskie choroby, winka, emetyki, oleje, proszki, kataplazmy, bańki... - o, la Boga!</p>
+        <p xml:id="p-2">W wąskiej, wilgotnej i podobnej do paki izbie leżały wszędzie mniejsze lub większe sienniki, na poobdzieranej brutalnie sofce, na zsuniętych kuferkach i krzesełkach kołdry z wytarganą watą, poduszki i poduszeczki, wisiały i leżały ubrania dziecięce najdziwaczniejszych fasonów, suszyła się na sznurku mokra bielizna - i panował szpitalno-familijny zapach domowego ogniska.</p>
+        <p xml:id="p-3">Wchodziłem tam czasami, siadałem na kuferku i słuchałem opowiadań pani Ignacowej, licząc po swojemu minuty i sekundy. Opowiadała mi, że najstarszy, dziewięcioletni Staś jest bardzo dobrze przez miejscowego profesora przygotowany do egzaminu, że zda na pewno do klasy pierwszej, że nawet Boruch Kwiat podjął się po wielkich targach przerobić ufarbowany już na granatowo. stary surdut syberynowy na mundur, że już pewien poczciwy mieszczanin, stolarz, robi łóżko malowane na wyprawę Stasia za darmo - tylko... stancja...</p>
+        <p xml:id="p-4">Jakże straszliwie dźwięczał w jej ustach ten wyraz, jak boleśnie mdlały te szklane, tępo myślące oczy!...</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

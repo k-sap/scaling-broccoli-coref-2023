@@ -1,0 +1,21 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">TYMOWA/LEGNICA</p>
+        <p xml:id="p-2">Dania z dziczyzny, we wszelkiej wpostaci - to atrakcje obchodów 80-lecia powstania Polskiego Związku Łowieckiego myśliwych z okręgu legnickiego. W Tymowej, po przemówieniach i wręczeniu odznaczeń, był czas na degustację.</p>
+        <p xml:id="p-3">Każde z kół łowieckich okręgu legnickiego prezentowało własne danie, według własnych przepisów. Zaproszono wszystkich, także mieszkańców Tymowej i gości uroczystości. Myśliwi częstowali za darmo, co - przy cenach dziczyzny - było nie lada gratką.</p>
+        <p xml:id="p-4">Ryszard Osiński z żoną Krystyną i kolegami z koła “Dzik” z Lubina przywieźli na uroczystość prawdziwy, myśliwski bigos, który podgrzewali w specjalnej kwadratowej patelni, na palenisku.</p>
+        <p xml:id="p-5">Młoda kapusta, podsmażona cebula, podsmażone pieczarki i kawałki mięsa, także żeberka - to podstawowe składniki bigosu. Mięso najpierw trzeba ugotować, później podsmażyć. I jeszcze szczypta myśliwskiej, kulinarnej tajemnicy. Pachniało znakomicie. Myśliwi przywieźli także pasztet, boczek, szynkę i kiełbasę z dzika. Trzy dziki, biedaczyska, zostały - jak mówią myśliwi - “pozyskane” w lasach koło Rudnej.</p>
+        <p xml:id="p-6">- Całe koło na to pracowało - mówi Ryszard Osiński, mistrz ceremonii przy podgrzewaniu bigosu. Myśliwi upolowali 50 kilogramowe zwierzę i dwa dziki po 30 kilogramów.</p>
+        <p xml:id="p-7">Marlena Mokrzanowska</p>
+        <p xml:id="p-8">tel. 86 609 92</p>
+        <p xml:id="p-9">mmokrzanowska@gazeta.wroc.pl Politycy obecni</p>
+        <p xml:id="p-10">Na oficjalnych uroczystościach rocznicowych nie zabrakło polityków. Brać łowiecka w okręgu liczy ponad 1400 myśliwych, co (razem z rodzinami) oznacza niemały, ewentualny elektorat. Poseł Bronisława Kowalska (SLD) otrzymała medal za zasługi dla łowiectwa. Obecni byli także posłowie: Ryszard Maraszek (SLD) i Tadeusz Samborski (PSL) oraz starostowie: Marcin Sutkowski (lubiński), Mieczysław Kasprzak (legnicki), Ryszard Raszkiewicz (złotoryjski), także myśliwy. Była też Stanisława Lewandowska, burmistrz Ścinawy. Przy wręczaniu medali Ryszard Bryliński, łowczy okręgowy aż się popłakał ze wzruszenia.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

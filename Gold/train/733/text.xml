@@ -1,0 +1,20 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">§ 4. Aresztem śledczym kieruje dyrektor; wyodrębnionym oddziałem może kierować podlegający dyrektorowi kierownik.</p>
+        <p xml:id="p-2">§ 5. Minister Sprawiedliwości, w drodze zarządzenia, tworzy i znosi areszty śledcze, mając na względzie istniejące potrzeby w tym zakresie.</p>
+        <p xml:id="p-3">§ 6. Dyrektor Generalny Służby Więziennej określa, w drodze zarządzenia, przeznaczenie aresztów śledczych, uwzględniając w szczególności potrzebę zapewnienia oraz racjonalnego wykorzystania miejsc zakwaterowania dla wszystkich tymczasowo aresztowanych.</p>
+        <p xml:id="p-4">Do wykonywania tymczasowego aresztowania stosuje się odpowiednio przepisy odnoszące się do wykonywania kary pozbawienia wolności, ze zmianami wynikającymi z przepisów niniejszego rozdziału.</p>
+        <p xml:id="p-5">Przyjmując tymczasowo aresztowanego do aresztu śledczego należy go bezzwłocznie poinformować o przysługujących mu prawach i ciążących na nim obowiązkach, a zwłaszcza umożliwić mu zapoznanie się z przepisami niniejszego kodeksu i regulaminu organizacyjno-porządkowego wykonywania tymczasowego aresztowania, oraz poddać odpowiednim badaniom lekarskim i zabiegom sanitarnym.</p>
+        <p xml:id="p-6">§ 1. Po przyjęciu tymczasowo aresztowanego do aresztu śledczego bezzwłocznie zawiadamia się o tym organ, do którego dyspozycji tymczasowo aresztowany pozostaje.</p>
+        <p xml:id="p-7">§ 2. Tymczasowo aresztowany ma prawo, bezzwłocznie po osadzeniu go w areszcie śledczym, zawiadomić o miejscu swojego pobytu osobę najbliższą albo inną osobę, stowarzyszenie, organizację lub instytucję, a także swojego obrońcę. Tymczasowo aresztowany cudzoziemiec ma ponadto prawo powiadomić właściwy urząd konsularny, a w razie braku takiego urzędu - właściwe przedstawicielstwo dyplomatyczne.</p>
+        <p xml:id="p-8">§ 3. Tymczasowo aresztowanego zwalnia się w dniu, w którym upływa termin zastosowania tymczasowego aresztowania.</p>
+        <p xml:id="p-9">§ 4. Bezpośrednio przed zwolnieniem z aresztu śledczego tymczasowo aresztowanemu udziela się stosownych informacji mających na celu przygotowanie go do życia po zwolnieniu, w tym także Ø o zakresie pomocy postpenitencjarnej oraz Ø o instytucjach i organach udzielających tej pomocy.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

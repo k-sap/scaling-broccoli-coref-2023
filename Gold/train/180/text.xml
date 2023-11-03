@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Wcześnie rano pobudka, kawa, jajecznica z kurzem pustynnym i chleb. Małe, żółte ptaszki wiją olbrzymie, zbiorowe gniazdo na suchym, pochylonym drzewie. Stary słoń przechodzi za płotem. Idzie wsiąść poranny prysznic, jego skóra sucha i przyprószona. Dzisiaj wyruszamy do następnego obozu na terenie parku. Bramy otwierają o szóstej rano. Pakujemy namiot, tankujemy i w drogę. Po obu stronach drogi stada antylop, żyrafy, słonie. Rodzina strusi przechodzi przez drogę: mama, tata i jedenaście miniaturek! Wybielone słońcem poroże antylopy gnu, porzucone przy drodze. Małe wiewiórki ziemne chowają się w swoich domkach. Jest gorąco. Woda to bezcenny skarb. Dojeżdżamy do następnego obozu: Halali. Zatrzymujemy się tu na noc. Suche drewno pali się leniwie, jesteśmy spoceni, ale szczęśliwi, pełni wrażeń. Odświeżająca kąpiel w basenie zmywa cały dzień, gwiazdy migocą przyjaźnie na czarnej płachcie nieba. Cisza. Wszystko śpi. Ćmy i małe tłuste chrabąszcze latają wokół światła. Tak przyjemnie wyciągnąć nogi. Jutro do Gobabis.</p>
+        <p xml:id="p-2">Rankiem ciepło, a raczej gorąco! 33°C. Ruszamy na wschód, poznać tamte strony. Antylopy tuż przy samej drodze. Ostrzegano nas, aby być uważnym, bo często wyskakują na drogę. Widzieliśmy auto rozbite przez jednotonową antylopę kudu, przód to miazga. Dzikie świnie też przebiegają, a są tak zdezorientowane, że nie wiedzą, w którą stronę biec. Na noc zatrzymujemy się w obozie safari. Rozbijamy namiot, rozpalamy ogień, trzeba coś zjeść. Słońce zachodzi, cisza w powietrzu. Ptaki rozpoczynają swój wieczorny koncert. Kończymy upieczonego kurczaka i ruszamy na przejażdżkę po buszu. Stado antylop springbok gania się w zaroślach. Kudu - majestatyczne antylopy z kręconymi rogami powoli idą do wodopoju. Duże, afrykańskie strusie przyglądają się nam uważnie, szare samiczki i jeden biało czarny, kontrastowo ubarwiony "pan".</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Niewątpliwie Polska ma rację upominając się o lepsze traktowanie przez Rosję i o poparcie Unii w tej sprawie. Pytanie tylko, czy stosuje skuteczną taktykę i czy należycie dba o stosunki z unijnymi partnerami, którzy będą jej potrzebni jutro i w przyszłości. Czy wetowanie nie samego porozumienia, a tylko mandatu negocjacyjnego do porozumienia było słuszne? Zobaczymy.</p>
+        <p xml:id="p-2">Przewodniczący Barroso publicznie Polskę poparł - zachwalając polskie mięso w Helsinkach w obecności prezydenta Putina i wszystkich mediów. Putin jednak powiedział, także publicznie, że przeciw polskiej żywności nic nie ma, a chodzi o problemy przemytu przez granicę i Polska "nie powinna popierać szwindlu i interesów oszustów zajmujących się przemytem". Co wówczas mieli o tym sądzić dziennikarze albo dyplomaci z dajmy na to Luksemburga albo Cypru? Co na to odpowiedzieć? Zapewne inna byłaby rozmowa, gdyby polska dyplomacja już pół roku temu opublikowała w Brukseli swoje stanowisko w jasnej i przystępnej formie, w dobrej angielszczyźnie i podała wyniki inspekcji żywności, z datami kontroli, wynikami postępowania prokuratorskiego, nazwami firm, nazwiskami podejrzanych i działaniami, które wszczęto. Nie wystarczy bowiem mieć rację, lecz trzeba umieć to udowodnić wszem i wobec. Podpowiadamy zresztą, że ta sprawa nadaje się jak najbardziej na forum Światowej Organizacji Handlu, o członkostwo której Rosja się stara i niedawno osiągnęła w tej sprawie porozumienie z USA, które już nie widzą przeszkód, by Rosję przyjąć. Czekając na zdjęcie rosyjskiego embarga na eksport żywności (na czym straty mają wynosić podobno 300 mln dol. rocznie) można się pocieszyć, że polski eksport do Rosji się zwiększył z 2,8 mld dol. w 2004 r. do prawie 4 mld rok później. Wypada mieć nadzieję, że prezydenta Putina na kolejnym szczycie UE-Rosja, w Niemczech w maju 2007 r., podejmą polskim schabowym. Ale i o to polska dyplomacja powinna się postarać.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

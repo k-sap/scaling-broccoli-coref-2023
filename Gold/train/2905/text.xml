@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Jako student Instytutu Cywilnych Inżynierów działał w kółkach samokształceniowych w Petersburgu. Zakładał tam “Bratnią Pomoc” i przez pewien czas był prezesem polskiej kasy wszystkich studentów Polaków w Petersburgu. Gdy już gospodarował w Kalużycach, założył tam i utrzymywał tajną polską szkołę, do której chodziły też dzieci prawosławne. Przewoził przez granicę transporty zakazanej literatury polskiej. Działał w samorządzie powiatu ihumeńskiego, gdy tylko otworzyły się takie możliwości. Był prezesem “Sokoła” w Mińsku, posiadającego w tym mieście dom i stały teatr, prowadzony przez warszawskiego reżysera . Witold nie miał tak szerokiego spojrzenia społecznego i politycznego jak jego brat, zaważyło na tym dziesięć lat przyspieszonego biegu historii, które ich dzieliły. Posiadał jednak dobrą znajomość ludzi i był bardziej zrównoważony życiowo.</p>
+        <p xml:id="p-2">Ludwika Życka, Michalina Łęska, Działalność popowstaniowa Polaków na ziemi Mińskiej, Warszawa 1939, s. 284 - 285.</p>
+        <p xml:id="p-3">Domenę państwową Jerka objął Witold 1 lipca 1921 r. Dobra jerkowskie, stanowiące od XI wieku własność klasztoru w Lubiniu, zostały skonfiskowane w 1797 r. przez rząd pruski. W 1918 r. należały do księcia weimarskiego i jako majątek niemiecki przeszły na własność państwa polskiego.</p>
+        <p xml:id="p-4">Kontrakt dzierżawy miał trwać do 30 czerwca 1939 r. Majątek obejmował 367 ha, kaucja za dzierżawę wynosiła 74 mln marek polskich, płatnych w czterech rocznych ratach. Wańkowicz uruchomił zniszczoną gorzelnię. Musiał zaciągnąć kredyt, by kupić jej urządzenia (pochodzące z 1878 roku i szacowane jako zniszczone w 80 %), wycenione w 1923 roku na 131,5 mln marek polskich . Inwentarz żywy zakupiono za pieniądze uzyskane ze sprzedaży biżuterii, którą Marieta odziedziczyła po zmarłej babce Karolinie Horwattowej z Gorzyczek.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

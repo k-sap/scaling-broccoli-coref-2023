@@ -1,0 +1,19 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Sekret szósty: Podstawą jest kontrola</p>
+        <p xml:id="p-2">Jeśli kontrolujemy nasz umysł i nasze emocje, kontrolujemy siebie i nasze życie. Droga do sukcesu jest drogą ciągłej walki z własnymi uprzedzeniami i słabościami, drogą pełną wyrzeczeń i zmagań. Aby odnieść rzeczywisty sukces, istotne jest, jak dobrze radzimy sobie ze światem naszych emocji i myśli, a nie ze światem zewnętrznym.</p>
+        <p xml:id="p-3">Kluczem do sukcesu jest samodyscyplina, przez którą rozumie się zdolność kontrolowania samego siebie, w tym przede wszystkich swoich emocji i myśli. Samodyscyplina jest konieczna, aby wykształcić i utrzymać w sobie pozytywną postawę umysłową oraz zmierzać w kierunku obranego celu. Brak samodyscypliny oznacza klęskę w walce z siedmioma głównymi emocjami negatywnymi: strachem, nienawiścią, gniewem, chciwością, zazdrością, mściwością i podejrzliwością. Samodyscyplina oznacza natomiast zdolność koncentracji na emocjach pozytywnych, do których zalicza się miłość, seks, nadzieję, wiarę, entuzjazm, lojalność i pragnienie.</p>
+        <p xml:id="p-4">Człowiek sukcesu to człowiek kontrolujący samego siebie, który przede wszystkim jest w stanie podejmować decyzję w oparciu o rozsądek, a nie tylko emocje. Kontrola emocji przez rozsądek jest zaś pewną drogą do sukcesu.</p>
+        <p xml:id="p-5">Co daje samodyscyplina?</p>
+        <p xml:id="p-6">• możliwość kontroli pragnień, szczególnie tych negatywnych • możliwość sterowania nastawieniem umysłu • efektywne zarządzanie czasem • kontrolowanie działań w kierunku osiągnięcia obranego celu</p>
+        <p xml:id="p-7">Sekret siódmy: Potęgą jest nauka</p>
+        <p xml:id="p-8">Uczymy się przez całe życie, a ten, kto się nie uczy, stoi w miejscu i nigdy nie spełni swoich marzeń. Człowiek sukcesu wie i rozumie, że droga do sukcesu jest pełna przeciwności i niepowodzeń. Kto czasem nie przegrywa, ten nigdy nie wygrywa. Kluczem do sukcesu nie jest bowiem unikanie porażek, lecz umiejętne obchodzenie się z nimi. "Porażka nigdy nie oznacza tego samego co klęska, chyba że i tylko wtedy, gdy przyjmiesz ją jako taką". (s. 188)</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

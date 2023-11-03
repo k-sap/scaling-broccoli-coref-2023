@@ -1,0 +1,20 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">- D0 - D7 - dwukierunkowa, 8-bitowa magistrala danych z wyjściami trójstanowymi;</p>
+        <p xml:id="p-2">- A0 - Aj - wejścia adresowe układu, służące do wyboru jego rejestrów wewnętrznych;</p>
+        <p xml:id="p-3">- CS - wejście uaktywnienia układu, aktywne w stanie niskim;</p>
+        <p xml:id="p-4">- RD - wejście żądania odczytu informacji z układu, aktywne w stanie niskim;</p>
+        <p xml:id="p-5">- WR - wejście żądania zapisu informacji do układu, aktywne w stanie niskim;</p>
+        <p xml:id="p-6">- RES - wejście zerowania układu, aktywne w stanie wysokim.</p>
+        <p xml:id="p-7">Interfejs urządzeń zewnętrznych zawiera trzy dwukierunkowe, 8-bitowe porty wejścia-wyjścia: A, B i C. Porty mogą pracować w kilku trybach, przy czym pewne tryby jednych portów wymuszają użycie pozostałych portów w określonych trybach.</p>
+        <p xml:id="p-8">W trybie "0" - prostego wejścia-wyjścia (bez potwierdzenia) - może pracować dowolny port. Podczas programowania trybu pracy należy ustalić m.in. kierunek transmisji obowiązujący dla całego portu, przy czym port C może być podzielony na dwie połowy, dla których kierunek ten można ustalić indywidualnie. Układ zapamiętuje dane wyjściowe, natomiast dane wejściowe - nie. Odczyt informacji polega zatem na odczytaniu aktualnego stanu wyprowadzeń portu.</p>
+        <p xml:id="p-9">W trybie "1" - jednokierunkowym z potwierdzeniem - mogą pracować porty A i B. Sygnały sterujące dla portów w tym trybie zapewnia port C, tak więc niektórych jego bitów nie można wówczas swobodnie wykorzystać. Tryb i kierunek transmisji (wejście lub wyjście) można ustalić indywidualnie dla obu portów. Dane wejściowe i wyjściowe są zapamiętywane w rejestrach układu.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

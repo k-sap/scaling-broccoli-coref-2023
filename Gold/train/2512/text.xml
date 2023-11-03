@@ -1,0 +1,17 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">SOPOT. Pomnik Jana Jerzego Haffnera, założyciela sopockiego uzdrowiska, stanie w parku Północnym, obok Grand Hotelu. Taką lokalizację zaproponował Komitet Honorowy Budowy Pomnika. O tym, czy Ø zostanie zaakceptowana, dowiemy się jutro po sesji Rady Miasta. Lokalizację pomnika sopocianina stulecia mogli wskazać wszyscy.</p>
+        <p xml:id="p-2">- Propozycje Ø przychodziły do magistratu głównie drogą pocztową, ale były też e-maile - mówi Tomasz Michalski, pełnomocnik prezydenta ds. uzdrowiska. - Jeden przyszedł z Kanady. Sugerowano ul. Boh. Monte Cassino, Haffnera i park Północny, którego założycielem jest Haffner.</p>
+        <p xml:id="p-3">Jutro radni zadecydują, czy przychylić się do wniosku komitetu. Jeżeli miejsce spodoba się większości, jeszcze w tym roku Zarząd Miasta wspólnie ze Związkiem Artystów Rzeźbiarzy Okręgu Gdańskiego ogłosi dla artystów konkurs na projekt monumentu. Zwycięzcę Ø poznamy w maju 2002 r.</p>
+        <p xml:id="p-4">- Potem zorganizujemy zbiórkę pieniędzy na realizację projektu - dodaje Tomasz Michalski. - Musi on się podobać przede wszystkim ludziom, bo na coś, co do nich nie przemawia, nie dadzą nawet złotówki.</p>
+        <p xml:id="p-5">Jan Jerzy Haffner</p>
+        <p xml:id="p-6">Lekarz, założyciel kąpieliska w Sopocie. Legenda głosi, że w drodze do Gdańska w 1808 r. poprosił o nocleg w zagrodzie Friedricha Polenza, sołtysa rybackiej wsi Sopot, a rozejrzawszy się po niej stwierdził, że miejsce to nadaje się na uzdrowisko. W 1823 r. kupił dwie morgi wydmowego terenu i położył kamień węgielny pod budynek zakładu kąpielowego. Po 40 dniach zaczął przyjmować kuracjuszy. Zmarł w 1830 r.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

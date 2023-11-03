@@ -1,0 +1,19 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Kilka lat temu obrońcy środowiska straszyli nas dziurą ozonową. Teraz – globalnym ociepleniem</p>
+        <p xml:id="p-2">Ziemi grozi zagłada – ostrzegają ekolodzy. I przekonują, że wszystkiemu winne coraz wyższe temperatury. Globalne ocieplenie to termin, który robi na świecie zawrotną karierę. Ale wielu naukowców twierdzi, że to jedynie chwyt marketingowy. I świetny sposób, by zarobić wielkie pieniądze</p>
+        <p xml:id="p-3">Michał Gigołła</p>
+        <p xml:id="p-4">Jeśli tak dalej pójdzie, do końca wieku temperatura na świecie może wzrosnąć nawet o ponad sześć stopni – martwi się Wojciech Stępniewski z ekologicznej organizacji WWF Polska. Obrońcy przyrody nie mają wątpliwości. Świat czeka katastrofa ekologiczna. Wyginą tysiące gatunków zwierząt i roślin, a człowiek będzie walczył z klęskami żywiołowymi.</p>
+        <p xml:id="p-5">Wszystko przez to, że za naszymi oknami jest coraz cieplej. Już teraz w Polsce nawet wiosną termometry pokazują ponad trzydzieści stopni, a co kilka dni nawiedzają nas burze, ulewne deszcze i wichury.</p>
+        <p xml:id="p-6">A według obrońców środowiska, z roku na rok będzie coraz gorzej. Dlaczego? Przez wielkie fabryki, które emitują ogromne ilości dwutlenku węgla, metanu, freonu. Atmosfera staje się przez nie tak gęsta, że ciepło nie może się przez nią wydostać.</p>
+        <p xml:id="p-7">Ciepło, jak 125 tysięcy lat temu</p>
+        <p xml:id="p-8">– Globalne ocieplenie to nie marketingowe hasło – przekonuje Stępniewski. I wyjaśnia, że przez wiele miesięcy nad tym zjawiskiem pracował specjalny zespół ponad dwóch tysięcy specjalistów ze 120 krajów świata. Przygotowali nawet specjalny raport. Twierdzą, że ocieplenie będzie przyspieszało.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

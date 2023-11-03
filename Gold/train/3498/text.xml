@@ -1,0 +1,14 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Robert Thalheim, 33-letni filmowiec niemiecki, w dość kameralnie zrobionym filmie "W końcu przychodzą turyści" pokazał pułapki polsko-niemieckiego dialogu na temat przeszłości. Zaczyna i kończy się głosem Czesława Niemena. Z krzykiem "dziwny jest ten świat" za uszami młody Niemiec przyjeżdża dziś do Oświęcimia, by odbyć roczną cywilną służbę zastępczą dla poborowych odmawiających służby w Bundeswehrze. Chciał do Amsterdamu, skierowano go do Auschwitz, którego dotychczas z niczym specjalnie nie kojarzył. Ma tu pomagać starym ludziom. Ale szybko się przekonuje, że dla Niemca w tym miejscu każdy gest jest fałszywy.</p>
+        <p xml:id="p-2">Zaczyna się od tego, że w pustym pokoju, ziejącym peerelowską jeszcze beznadzieją, sięga po mleko z lodówki. Błąd. Należy ono do Stanisława Krzemińskiego, opryskliwego byłego więźnia KZ, emeryta, który restauruje walizki zagazowanych Żydów znajdujące się w zbiorach muzeum. To nim Sven ma się teraz opiekować, wozić na rehabilitację, czekać godzinami przed knajpą, w której koledzy oświęcimiaka naigrawają się z Niemca, że pewnie jego dziadek kiedyś tu rozkazywał, a on teraz jest kierowcą Polaka. Również na dyskotece jest niemiło, gdy rówieśnicy Svena rechoczą, że oto armia niemiecka znowu wkroczyła do Oświęcimia.</p>
+        <p xml:id="p-3">Sven musi sobie dać radę ze sobą, z polskim otoczeniem, z niemiecką przeszłością. I wszystko jest jakoś nie tak. Niby pomaga mu Ania, germanistka oprowadzająca grupy niemieckie po muzeum w Oświęcimiu i Brzezince, ale jest zaprzątnięta swoimi sprawami. Pomaga swemu bratu-nieudacznikowi, który jest leniwy i arogancki, tak że zawala pracę w zakładach chemicznych kupionych przez Niemców. Pozostawiony sam sobie Sven zakochuje się w Ani. Ona go nawet trochę podpuszcza, proponuje mieszkanie u siebie - zawsze to dobre dla ćwiczeń z konwersacji, ale myśli tylko o jednym: jak by tu się wyrwać z tej zapyziałej dziury, najlepiej jako tłumaczka w Brukseli...</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

@@ -1,0 +1,19 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Detaliści działający na rozwiniętych rynkach Europy Zachodniej (a zwłaszcza sieci brytyjskie) zaczęli w ostatnich kilku latach wprowadzać innowacje produktowe, które wymuszają większe zaangażowanie w specyfikację produktu oraz dokładną kontrolę jakości. Ich sukcesom w tej dziedzinie sprzyja mniejsze ryzyko we wprowadzaniu nowych produktów. Kody kreskowe i skanery, programy lojalnościowe oraz własne półki stwarzają możliwość przetestowania nowości i szybkiego rozpoznania reakcji konsumenta. W konsekwencji Ø większość innowacji na brytyjskim rynku dań mrożonych, snacków i zdrowej żywności wprowadzana jest obecnie właśnie pod markami detalistów.</p>
+        <p xml:id="p-2">Pod koniec 2004 r. do sieci Sainsbury's trafiły specjalne opakowania owoców, sygnalizujące kupującym dojrzałość awokado, kiwi, melonów czy mango. Opracowany przez nowozelandzką firmę sensor wykrywa stopień dojrzałości owoców na bazie analizy wydzielanych przez nie aromatów - zmiany jego koloru z czerwonego na pomarańczowy, a później na żółty sygnalizują, że owoc dojrzał.</p>
+        <p xml:id="p-3">Trzeba dojrzeć do poważnego traktowania marek handlowych.</p>
+        <p xml:id="p-4">Kilka pytań, na które powinieneś sobie odpowiedzieć, zanim zaczniesz czytać kolejny rozdział:</p>
+        <p xml:id="p-5">1. Czy w Twojej branży funkcjonują silne sieci detaliczne? Jaka jest ich pozycja przetargowa w negocjacjach z dostawcami?</p>
+        <p xml:id="p-6">2. Czy w Twojej branży obecne są już marki handlowe? Jaką część rynku opanowały?</p>
+        <p xml:id="p-7">3. A czy na innych rynkach geograficznych sieci detaliczne przy pomocy własnych marek opanowały już znaczącą część rynku Twojego produktu?</p>
+        <p xml:id="p-8">4. Czym przede wszystkim zdobywają sobie klientów marki handlowe w Twojej branży? Czy oprócz ofert tanich pod markami handlowymi pojawiły się też produkty dobrej jakości, innowacyjne?</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

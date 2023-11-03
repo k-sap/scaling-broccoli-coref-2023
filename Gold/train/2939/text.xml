@@ -1,0 +1,19 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">- A tą pierwszą osobą jest ten pan - domyśliła się Zenobia wskazując na mnie, po czym zaprezentowała moją osobę. - Oto jest pan Tomasz, który przybył do Jasienia, aby wzmocnić swoje siły. Przepraszam, jaki jest pana zawód? - zapytała.</p>
+        <p xml:id="p-2">- Pracuję w muzeum.</p>
+        <p xml:id="p-3">- O tak - skinęła głową Zenobia. - Od razu się tego powinnam była domyślić. Czy moglibyśmy wiedzieć również, jaką epokę historyczną pan reprezentuje? Teraz dopiero rozumiem, jak bardzo niewłaściwie postąpiłam przewracając pana trzykrotnie na trawę. Przecież nie wolno tak robić z muzealnymi eksponatami. Powinien pan siebie, a także swój samochód zaopatrzyć w tabliczkę: "Ostrożnie, szkło!", jak na przesyłkach.</p>
+        <p xml:id="p-4">Hilda stanęła w mojej obronie.</p>
+        <p xml:id="p-5">- Pan Tomasz ma wspaniały samochód - powiedziała. Spojrzałem na nią ostrzegawczo, dając jej do zrozumienia, aby nie zdradziła tajemnicy mojego wehikułu. Pojęła to, bo na tym stwierdzeniu skończyła swoje zachwyty nad samochodem.</p>
+        <p xml:id="p-6">Szwajcar okazał się dżentelmenem.</p>
+        <p xml:id="p-7">- Takie dziwne i staroświecko wyglądające samochody - rzekł spojrzawszy na wehikuł - są teraz bardzo modne na Zachodzie. Chciałem również mieć podobny wóz, lecz, wyznaję, ich cena przewyższa koszt najbardziej luksusowej limuzyny.</p>
+        <p xml:id="p-8">Zenobię rozgniewała ta obrona mojej osoby, a najbardziej chyba dotknął ją fakt, że w sukurs Hildzie przyszedł Szwajcar. Więc w równie złośliwy sposób przedstawiła nam Szwajcara.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

@@ -1,0 +1,14 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Czy spoza tej "rewolucji kadrowej" wyziera jakaś wielka reforma gospodarcza, która zapewni krajowi dobrobyt? Trudno powiedzieć. Na razie prezydent miał szczęście. Krach finansowy i załamanie rubla (w sierpniu 1998 r.), kiedy wielu Rosjan potraciło oszczędności, poszły na konto Jelcyna. Niski kurs rubla podrożył import, ożywił produkcję krajową, co poszło na konto Putina. Ponadto prezydent skorzystał ze znacznej zwyżki cen ropy naftowej na świecie, zdołał więc wyraźnie podnieść głodowe emerytury, a równocześnie trzymał dość twardą ręką inne wydatki budżetu.</p>
+        <p xml:id="p-2">Doraźnie sytuacja jest więc lepsza i Rosja ma w ciągu najbliższych dni zawrzeć nowe porozumienie o współpracy z Międzynarodowym Funduszem Walutowym (poprzedni program załamał się), które być może pozwoli jej na starania o lepsze warunki spłaty 40 mld dolarów zadłużenia w bankach państwowych (Klub Paryski).</p>
+        <p xml:id="p-3">Ale ogólna kondycja Rosji jest bardzo zła, wręcz tragiczna. Pod koniec 2000 r. tygodnik "Komiersant" opublikował wyniki poważnych trzyletnich badań medycznych: dwie trzecie mężczyzn Rosjan umiera z powodu pijaństwa, średnia spodziewana długość życia spadła poniżej 60 lat. Gwałtownie spadła też liczba nowo zawieranych małżeństw i wskaźnik urodzeń. Lista nieszczęść, spisana z rosyjskiej prasy, obejmuje tanią heroinę z Afganistanu, szerzącą się gruźlicę, rosnącą przestępczość. Według prognoz demograficznych ludność Rosji, licząca dziś 146 mln, ma za 15 lat spaść do 128 mln. Duma rozważała nawet przywrócenie podatku za bezdzietność. Wkrótce prezydent wygłosi swoje orędzie o stanie federacji. Obejmując funkcję nie krył, że w Rosji jest bardzo źle. Ciągle nie wiadomo, na czym ma się opierać plan poprawy.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

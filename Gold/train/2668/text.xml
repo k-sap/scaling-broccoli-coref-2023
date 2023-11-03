@@ -1,0 +1,12 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Taniec regionalny, rzut podkową do celu, siłowanie na rękę - to tylko niektóre konkurencje, w których będą musieli się zmierzyć kandydaci walczący o tytuł Chłopa Roku. Te wybory już 25 kwietnia, w drugą niedzielę po Wielkanocy, na racławickich polach. Znane są już nazwiska kandydatów. W tym roku będą oni reprezentować siedem województw. Z kujawsko-pomorskiego przyjedzie Sławomir Kowalewski, radny gminy Dobrzyń, z łódzkiego Czesław Dzierżawski, przewodniczący Powiatowej Izby Rolniczej w Pabianicach. Mazowiecką Izbę Rolniczą Powiatu Ciechanowskiego będzie reprezentował Janusz Kowalski, a małopolskę jej wiceprezes Ryszard Czaicki. O zaszczytny tytuł Chłopa Roku będzie się też ubiegał Wacław Pyrkosz, delgegat do Walnego Zgromadzenia Podkarpackiej Izby Rolniczej. Z województwa świętokrzyskiego przybędzie Alfred Skura, wicewójt gminy Tarłów, a ze śląskiego - Czesław Jarosz, członek tamtejszej izby rolniczej. Kandydaci będą musieli także zaprezentować swój region oraz przedstawić scenkę "Polski chłop w Unii Europejskiej". Święto chłopskie w Racławicach odbędzie się na kilka dni przed przystąpieniem Polski do UE, dlatego będą w nim uczestniczyć przedstawiciele samorządów rolniczych krajów europejskich. Patronat honorowy sprawują: Wojciech Olejniczak, minister rolnictwa i rozwoju wsi, Jan K. Ardanowski, prezes Krajowej Rady Izb Rolniczych oraz Władysław Serafin, prezes Krajowego Związku Rolników, Kółek i Organizacji Rolniczych. Patronat medialny nad imprezą objęła "Krakowska", Radio Kraków oraz Telewizja Kraków. Już dziś wraz z organizatorami zapraszamy na pola racławickie. Oj, będzie się działo!</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

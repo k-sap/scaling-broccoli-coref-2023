@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Polacy polubili plastikowe pieniądze. To niemal standard, że otwierając rachunek oszczędnościowo-rozliczeniowy jednocześnie dostajemy kolorowy kawałek tworzywa sztucznego ze znaczkiem Visa czy MasterCard. Ale są to głównie karty debetowe i obciążeniowe. Za pomocą karty debetowej możemy wypłacać pieniądze z bankomatów oraz dokonywać zakupów bezgotówkowych korzystając z pieniędzy zgromadzonych na koncie, a gdy ich zabraknie, zadłużyć się do wysokości przyznanego nam przez bank limitu. W przypadku karty obciążeniowej (zwanej też kartą "charge") korzystamy z odroczonej płatności - bank dokonane przez nas płatności odpisuje nam z konta po pewnym czasie (zwykle po miesiącu) doliczając sobie jedynie prowizję.</p>
+        <p xml:id="p-2">Rodak w potrzebie</p>
+        <p xml:id="p-3">Kart płatniczych wydano dotąd w Polsce ponad 17 mln. Są one związane z rachunkami osobistymi. Dają nieco większe bezpieczeństwo niż gotówka, pozwalają na bieżąco kontrolować stan własnych finansów. Stają się jednak bezużyteczne, gdy opróżnimy konto i dojdziemy do dna debetu. W dobie recesji to częsty przypadek. Ratunkiem może być wówczas doraźna pożyczka.</p>
+        <p xml:id="p-4">Czasami finansowe koło ratunkowe rzuci rodzina. Z tym jednak jest coraz trudniej, bo i u rodziny z pieniędzmi bywa krucho. Z badań CBOS wynika, że ponad 60 proc. polskich rodzin musi zaciskać pasa, bo nie starcza pieniędzy na wszystkie potrzeby, zaś co czwarta ma nawet kłopoty z kupnem żywności. Ten sam instytut w październiku 2001 r. zapytał respondentów, czy pożyczają pieniądze i od kogo? Do zaciągania pożyczek przyznało się 36 proc. badanych. Rodzina i przyjaciele okazali się wsparciem dla zaledwie 6 proc. Pozostali korzystali z zakupów ratalnych, pożyczek zakładów pracy i kredytów bankowych.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

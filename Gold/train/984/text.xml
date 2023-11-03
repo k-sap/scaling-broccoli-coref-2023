@@ -1,0 +1,16 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Najnowszy album Wilków zatytułowany "Watra", pojawił się w sklepach już 6 listopada.</p>
+        <p xml:id="p-2">Poprzedni album zatytułowany "4" osiągnął status Platynowej Płyty trafiając do ponad 100 tysięcy nabywców, których zauroczyły przeboje pochodzące z tego albumu - Urke, eurowizyjny "Here I Am" czy "Baśka", która stała się już polskim evergreenem.</p>
+        <p xml:id="p-3">Singiel "Bohema" zapowiadający najnowszy album potwierdza niekwestionowaną pozycję Wilków w czołówce polskiej muzyki oraz ich doskonałą formę twórczą i wykonawczą. W Bohemie pobrzmiewa ulubiona przez fanów nuta tęsknoty za wolnością, klimat cyganerii i romantyzmu. Te obrazy w połączeniu z bardzo nośną melodią i chwytliwym tekstem refrenu sprawiają, że Bohema spełnia wszystkie warunki przeboju.</p>
+        <p xml:id="p-4">Ciekawostką jest fakt, że na nowej płycie oprócz Roberta Gawlińskiego po jednym utworze śpiewają także dwaj członkowie zespołu - perkusista Marcin Szyszko oraz basista Marcin Ciempiel.</p>
+        <p xml:id="p-5">Wraz z premierą nowego singla został uruchomiony odświeżony serwis internetowy zespołu Wilki (www.wilki.com.pl). Nowa strona jest wynikiem pracy firmy EPOX | Interactive Media House znanej z obsługi takich klientów jak m.in. Natalia Kukulska, Alicja Janosz, Tomasz Kamel czy Martyna Wojciechowska. Autorzy postawili sobie za zadanie stworzenie serwisu atrakcyjnego graficznie, przy zachowaniu przejrzystości informacji i łatwości nawigowania pomiędzy stronami. Fani Wilków znajdą tam przede wszystkim najnowsze informacje dotyczące ich ulubionej grupy, galerię zdjęć, zawsze aktualne informacje o koncertach oraz fragmenty utworów do odsłuchania w wirtualnym adapterze.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

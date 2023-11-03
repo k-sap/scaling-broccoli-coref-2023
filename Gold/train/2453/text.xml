@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Górnik: Kwedyczenko - Mrowiec, Burmer, Kleczyński, Leszczyk - Stokłosa (58 Błaś), Marion (70 Wojtyga), Wrześniak (87 Wróbel), Poskrobko - Szczygieł, Kolański (87 Dotoń).</p>
+        <p xml:id="p-2">Szydłowianka: Sanecki - Kowalski (52 Szcześniak), Jackowski, Łyżwa, Krzosek - Sasal, Biernat (60 A. Jakubczyk), Mosiołek, Kowalczyk (76 S. Jakubczyk) - Krakowiak, Dariusz Nowak.</p>
+        <p xml:id="p-3">Kibice sportowi w Wieliczce mieli w sobotę swoje święto. Po południu czekały ich emocje kolarskie związane z zakończeniem przedostatniego etapu Tour de Pologne, a tuż przed tym wydarzeniem mecz piłkarski Górnika, który na pewno zaspokoił nawet najwybredniejsze gusta. Podopieczni trenera Lucjana Franczaka pokazali w tym meczu grę, która musi się podobać: szybką, ofensywną, obfitującą w groźne sytuacje pod bramką gości. Kibice ujrzeli na boisku także udanie debiutującego w barwach Górnika Leszczyka z Piotrcovii-Ptak. Przy tych wszystkich pochwałach dla Górnika ważne jest też, że Szydłowianka w tym spotkaniu wcale nie była chłopcem do bicia.</p>
+        <p xml:id="p-4">Zaczęło się od strzału Kowalczyka w 8 min, piłka przeszła tuż nad bramką Kwedyczenki, a minutę później bramkarz Górnika ryzykownym wybiegiem rzucił się pod nogi Kowalczyka, będącego z nim sam na sam i wybił mu piłkę. Po tych szarżach Szydłowianki do ofensywy przeszedł Górnik. W 19 min lewą stroną boiska szarżował Poskrobko, dośrodkował na pole karne, a tam Kolański, pomimo asysty obrońcy, skierował piłkę do siatki z 3 m. W 23 min groźnie tuż nad poprzeczką rywali po indywidualnej akcji strzelał Szczygieł. Siedem minut później po dośrodkowaniu Szczygła Sanecki ściągnął piłkę z głowy Kolańskiego. Znakomitą okazję do wyrównania mieli goście w 37 min. Za złapanie podania od współpartnera przez Kwedyczenkę Szydłowianka wykonywała rzut wolny pośredni z 5,5 m: Jackowski mocno uderzył, ale piłka odbita od zawodników stojących w murze wyszła na rzut rożny.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

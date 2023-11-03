@@ -1,0 +1,20 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Ona może działać nadal</p>
+        <p xml:id="p-2">Opracowywanie portretu pamięciowego trwało bardzo długo. To dlatego, że zeznania poszkodowanych na temat wyglądu właścicielki znacznie się różniły.</p>
+        <p xml:id="p-3">– Publikowany dziś wizerunek jest – zdaniem naszym i prokuratorów – najbardziej zbliżony do wyglądu kobiety – wyjaśnia Jerzy Rzymek z wałbrzyskiej policji.</p>
+        <p xml:id="p-4">Poszukiwana ma około 30 lat, 175 cm wzrostu, brązowe włosy z czerwonymi pasemkami i piwne oczy. Nosi okulary korekcyjne w brązowych oprawach. Na prawym policzku ma pieprzyk. Mogła być w zaawansowanej ciąży.</p>
+        <p xml:id="p-5">Niewykluczone, że kobieta dokonywała podobnych oszustw na terenie całego kraju. Dlatego wszystkich poszkodowanych prosimy o kontakt z policją – mówi Jerzy Rzymek.</p>
+        <p xml:id="p-6">Policja podejrzewa, że kobieta w podobny sposób może działać nadal. Wałbrzyska prokuratura rejonowa zarzuca jej oszustwo znacznej wartości, za co grozi do 10 lat więzienia. Informacje na temat oszustki można przekazywać osobiście, w najbliższym komisariacie policji lub telefonicznie pod nr. 997.</p>
+        <p xml:id="p-7">Jak nie dać się oszukać?</p>
+        <p xml:id="p-8">Teresa Nahumowicz specjalista z Inspekcji Handlowej</p>
+        <p xml:id="p-9">Trudno zweryfikować daną agencję opłat w sposób formalny i dający stuprocentową gwarancję uczciwości. Takie usługi w Polsce może prowadzić każdy. Wystarczy, że zarejestruje działalność gospodarczą i wpisze się do ewidencji. Nie ma dodatkowych obostrzeń ani kontroli. Dlatego przy wyborze punktu opłat pozostaje nam liczyć na opinie znajomych i na czas jej istnienia. Istotne jest także to, jak często zmieniają się jej pracownicy, i – oczywiście – to, czy firma jest wpisana do ewidencji działalności gospodarczej. Warto też sprawdzić, czy posiada fundusz gwarancyjny, który zapewnia w chwili jej bankructwa wypłacalność i czy działalność gospodarcza jest ubezpieczona od odpowiedzialności cywilnej. Jakąś gwarancję daje także fakt, że z usług danej agencji korzystają nie tylko osoby fizyczne, ale i firmy.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

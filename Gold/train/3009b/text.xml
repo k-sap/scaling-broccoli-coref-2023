@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">DO KOŁTUNA</p>
+        <p xml:id="p-2">Jak tylko mąż niewiarołomny Potrafi kochać wierną żonę, Tak lud warszawski, lud niezłomny, Pokochał miasto swe zburzone. I cóż, kołtunie? Nic nie wskórasz Robotą krecią i przebiegłą, Warszawa jest! Warszawski murarz Pokonał cię czerwoną cegłą.</p>
+        <p xml:id="p-3">Wsłuchaj się rankiem w zgiełk ulicy, Przejdź Nowym Światem aż do Trasy, Spójrz, jak wesoło przodownicy Młotami kują nowe czasy. Co tydzień nowe kamienice, Co dzień bieleją nowe tynki - Lud miłujący swą Stolicę, Stolicy składa upominki.</p>
+        <p xml:id="p-4">Przed sześciu laty - czy pamiętasz? - Niosłeś Warszawie swe requiem, Do miasta szedłeś, jak na cmentarz, A dzisiaj - patrz: to miasto żyje! To miasto huczy, tętni, śpiewa, A śpiew surowy to i prosty: Na Mariensztacie kwitną drzewa, Przez Wisłę biegną nowe mosty.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

@@ -1,0 +1,14 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Poszła w służbę do miasta Pakulanka i co?...Mówił wójt, jaki papier przyszedł do kancelarii , że dzieciaka udusiła i w kryminale siedzi... albo i ten Wojtek, Borynów krewniak po siostrze, dorobił się w mieście sielnie, że teraz po wsiach po proszonym chlebie chodzi... a przódzi na Wólce gospodarstwo miał, konie miał i chleba po grdykę... zachciało mu się bułek, a ma kij i torbę na starość...</p>
+        <p xml:id="p-2">Ale Jagna mądrych przykładów nie słuchała, a o obcięciu i gadać sobie nie dała. Namawiała ją Ewka, a ta znająca była, niejedną wieś znała i rok w rok do Częstochowy z kompaniami chodziła, przekładała i Jagustynka , ale jak to ona, zawżdy z przekpinami i naśmieszliwie, bo w końcu rzekła: - Ostaw warkocz, ostaw, zda się Borynie, okręci se nim rękę, ostrzej przytrzyma i mocniej cię kijem zleje...sama go obetniesz potem... Znałam taką niejedną ... - nie mówiła więcej, bo Witek ją wołał, gdyż od wypędzenia Antków przeniesła się do Boryny, bo Józia poradzić sobie nie mogła z gospodarstwem. Pomagała warzyć Ewce, a co trochę zaglądała do dom, stary dzisiaj do niczego głowy nie miał, Józia już od rana przystrajała się u kowalów, a Kuba leżał wciąż chory.</p>
+        <p xml:id="p-3">- Chodźcie prędzej, bo Kuba was pilno potrzebuje - przynaglał chłopak.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

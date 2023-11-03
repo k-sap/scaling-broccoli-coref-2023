@@ -1,0 +1,22 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">– Ale w jakiś tydzień albo dwa potem zadzwoniła do mnie i mówi, żebym do niej przyjechał, jeśli chcę. Wtedy, bo pojechałem do niej, choć najpierw nie chciałem, powiedziała mi, że możemy być razem, tylko że ona nie chce ślubu.</p>
+        <p xml:id="p-2">– Dlatego, że byłeś, byliśmy...</p>
+        <p xml:id="p-3">– Nie, ona o niczym nie wie, zresztą – znów pociągnął łyk piwa – naprawdę do niczego nie doszło, możesz wierzyć albo nie. Choćby ze względu na to niebieskie świństwo. Byłem do niczego. Ale w ogóle...</p>
+        <p xml:id="p-4">– U was też tak śmierdziało? – nie dałem mu dokończyć.</p>
+        <p xml:id="p-5">– Gdzie?</p>
+        <p xml:id="p-6">– Na górze...</p>
+        <p xml:id="p-7">– Strasznie! Jakby lakierem do włosów i pastą do podłogi, do tego lawenda... Wciąż kursowałem do kibla i z powrotem, tak mi było niedobrze. Ta moja śmiała się ze mnie, że trzeba było jechać do domu spać, zamiast na dziewczyny... Zamówiłem jej drinka, żeby przestała dziamdziać, potem Ø następnego – szybko zjechała. Rano, kiedy ją zobaczyłem, kiedy wszedłeś...</p>
+        <p xml:id="p-8">– Dupa pawiana!</p>
+        <p xml:id="p-9">– Dokładnie.</p>
+        <p xml:id="p-10">Wyjąłem dwa żywce z lodówki.</p>
+        <p xml:id="p-11">– A twoja? – przejął pałeczkę. – Twoje... – śmiał się. – Było dwie w jednym?</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

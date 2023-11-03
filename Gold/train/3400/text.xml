@@ -1,0 +1,14 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">A zdarzyło się wam w fantastycznie za oknem się prezentujący, olśniewający słońcem, złudnie upalny dzień majowy wyjść na dwór, gdzie, jak się okazało, było koło zera? (Na pewno się wam to zdarzyło, choć nie powinno, kto należy do plemienia wrogów zimna, ma naturalny kult termometru zaokiennego, termometr zaokienny jest dla nas podstawowym domowym sprzętem, bez którego żyć niepodobna, do okna, przy którym jest przytwierdzony, leci się rano jeszcze przed łazienką, prawdziwie przezorni mają termometry przynajmniej przy dwu, a najlepiej wszystkich oknach, w końcu ile jest w cieniu, a ile w słońcu, trzeba wiedzieć, a nie zgadywać).</p>
+        <p xml:id="p-2">A nauczyliście się już nosić zapasowy pulowerek albo wdzianko w reklamówce, żeby być gotowym jak w samo południe, kiedy jest na całym świecie najcieplej, w Polsce temperatura nagle spadnie? Jeśli się nie nauczyliście, to się nauczycie - Polska to jest zimny kraj o zimnych porach roku i zimnym kalendarzu. Przed chwilą byli zimni święci Pankracy, Serwacy i Bonifacy, wczoraj było zimnej Zośki, za chwilę będzie świętej Hanki, po której zimne wieczory i ranki, żaden tropikalny Piotr i Paweł w polskim kalendarzu nie wypada, co najwyżej jest świętego Jana - padają wtedy - jak powszechnie wiadomo - wyjątkowo obfite świętojańskie deszcze.</p>
+        <p xml:id="p-3">Czy istnieje jakaś praca analizująca wpływ zimnego klimatu na życie duchowe Polaków, nie wiem. Wiem, że zimno degraduje umysł i wiedzie go do ospałości. Człowieka w maju (w maju! gdy w pełnej krasie królewna wiochna, k... jej mać, już nadeszła!) przeszywają trupie jak zorza polarna błyskawice zimna i myśli o jednym - jak tu się ogrzać. W taki sposób się rodzi mentalność kanalarska. Znaleźć się jak najbliżej rury ciepłowniczej i usnąć.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

@@ -1,0 +1,14 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Historia Judyty jest niemal zwierciadlanym odbiciem wcześniejszej historii Jael. Bohaterski czyn Jael został rozsławiony przez prorokinię Deborę: “A siedziała pod palmą, którą imieniem jej zwano, między Ramą a Betel, na górze Efraim; i chodzili do niej synowie Izraelowi na każdy “sąd”. Działalność Debory na scenie publicznej, podobnie jak godność prorokini Miriam, siostry Mojżesza (Księga Wyjścia), wskazują na szczególną rolę wybitnych kobiet w Izraelu. Prorokini stawała się kobietą wyzwoloną.</p>
+        <p xml:id="p-2">Debora opowiada w swoich pieśniach, jak Pan poddał wielkiego wodza Siserę niewieściej ręce. Wódz nieprzyjacielski znalazł schronienie w namiocie Jael, żony Habera. Jael tak oto zaprasza wroga do swojego namiotu: “Wnijdź do mnie, panie mój, wnijdź, nie bój się”. Potem podaje mu kubek mleka macierzyńskim gestem, by w stosownym momencie, gdy strudzony gość usnął, sięgnąć po przygotowany wcześniej “gwóźdź namiotowy” (czyli śledź!) i młot kowalski. To wyjątkowo mało szlachetna broń! Jael przyłożyła długi gwóźdź do skroni śpiącego wodza i uderzyła młotkiem. A on “spanie ze śmiercią łącząc, wstał i umarł” – jak pisze kronikarz. A trup Sisery “walał się pod jej nogami i leżał bez duszy i nędzny”.</p>
+        <p xml:id="p-3">Prorokini Debora układa pieśń dziękczynną, w której oddaje cześć dzielnej Jael, nie zapominając o sobie: “Słuchajcie królowie, bierzcie w uszy książęta: Jam jest, jam jest, która Panu zaśpiewam, śpiewać będę Panu, Bogu Izraelowemu. […] Ustali mocni w Izraelu i ucichnęli, aż powstała.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

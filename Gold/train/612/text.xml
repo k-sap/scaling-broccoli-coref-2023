@@ -1,0 +1,17 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Na spotkanie z wszystkimi uczniami „jedynki” przybyli asp. szt. Józef Trojnar, zastępca naczelnika Wydziału Prewencji i Ruchu Drogowego KPP w Sławnie i nadkom. Lucjan Dankowski, oficer prasowy KPP.</p>
+        <p xml:id="p-2">Prawie wszystkie dzieci jeszcze przed wizytą policjantów doskonale wiedziały, pod jaki numer należy dzwonić, gdy wydarzy się nieszczęście. Te, które nie były pewne swoich informacji, zadeklarowały, że numery telefonów sobie zapiszą. Ola, uczennica pierwszej klasy, wiedziała już bardzo dobrze, jak prawidłowo należy przechodzić przez drogę. Karolina natomiast była świadkiem fałszywego alarmu, kiedy to do rzekomego pożaru lasu przyjechało kilka wozów strażackich.</p>
+        <p xml:id="p-3">Policjanci przestrzegali, aby nie dzwonić w żartach pod alarmowy numer pogotowia, policji czy straży pożarnej. Pierwszaki obejrzały film o prawidłowym poruszaniu się po mieście.</p>
+        <p xml:id="p-4">- Wasze bezpieczeństwo zależy od was samych - przypominał J. Trojnar.</p>
+        <p xml:id="p-5">Policjanci apelowali do dzieci, by zapoznały się z trasą między domem a szkołą i wybrały najbezpieczniejsze, najmniej ruchliwe przejścia. Tłumaczyli, że przechodzić przez ulicę bądź drogę można tylko w miejscach wyznaczonych, upewniając się wcześniej, czy nie nadjeżdża samochód. Przypominali, że utrwalenie sobie zasady „przed przejściem przez jezdnię spójrz w lewo, potem w prawo i jeszcze raz w lewo” może uratować życie.</p>
+        <p xml:id="p-6">Bezpieczny tydzień to program, jaki nauczyciele Szkoły Podstawowej nr 1 w Sławnie przygotowali dla pierwszoklasistów. W ramach zajęć z zasadami bezpiecznego poruszania się po drogach najmłodszych uczniów zapoznawali policjanci.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

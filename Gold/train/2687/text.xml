@@ -1,0 +1,17 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">- Jak wytłumaczyć fakt, że jedni chrapią aż trzęsą się ściany, a inni nie?</p>
+        <p xml:id="p-2">- Chrapanie zawsze ma swoją przyczynę. Najczęściej jest to przeszkoda umiejscowiona w różnych odcinkach górnych dróg oddechowych, wynikająca z nieprawidłowej budowy anatomicznej, np. skrzywienia przegrody nosowej. Powodem może być także alergia, wady zgryzu, obrzęki błony śluzowej nosa, polipy, zapalenie zatok, a u dzieci przerost trzeciego migdałka i migdałków podniebiennych. Przyczyną chrapania może być także nadmierna waga ciała. .</p>
+        <p xml:id="p-3">- Czy chrapaczy powinno się leczyć, czy zostawić samym sobie?</p>
+        <p xml:id="p-4">- Przede wszystkim ważne jest ustalenie przyczyny chrapania. Jeśli jest błaha i nie zagraża zdrowiu, można odstąpić od leczenia. Jeśli jednak jest to na przykład przerost migdałków u dziecka, który może wywołać zespół bezdechów sennych, należy podjąć leczenie. Najczęściej jest to zabieg operacyjny udrażniający drogi oddechowe. Jestem zdania, że każde chrapanie, szczególnie u dziecka, powinno być skonsultowane z laryngologiem.</p>
+        <p xml:id="p-5">- Chrapanie to również problem estetyczny. Czy spotkała się pani ze skargami żon na chrapiących mężów i odwrotnie?</p>
+        <p xml:id="p-6">- W Stanach Zjednoczonych jest to jedna z częstszych przyczyn rozwodów. Chrapanie współmałżonka potrafi więc doprowadzić do rozpadu związku. Podłącza się już nawet na noc chrapaczy do specjalnego aparatu ułatwiającego oddychanie. Jednak to bardzo uciążliwe i kosztowne. Nie sądzę aby przyjęło się na szerszą skalę. Taki mąż czy żona z maską na twarzy musi wyglądać okropnie.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

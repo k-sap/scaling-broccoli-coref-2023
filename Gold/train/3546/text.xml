@@ -1,0 +1,19 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">#WicemarszalekZbigniewRomaszewski: Dziękuję bardzo. Czy ktoś... Pani senator Fetlińska. Proszę bardzo.</p>
+        <p xml:id="p-2">#SenatorJaninaFetlinska: Dziękuję bardzo. Ja zadam sprawozdawcy może takie niezupełnie fachowe pytanie, ale... Chciałabym zapytać, czy w związku z przekazywaniem danych osobowych on-line, drogą elektroniczną, istnieje niebezpieczeństwo przechwycenia tych danych przez osoby niepowołane. Czy dyskutowano o tym, czy jest pewne zabezpieczenie przed hakerami, innymi instytucjami czy osobami, które byłyby zainteresowane tym, żeby te dane jakoś sobie użyczyć w celach, powiedziałabym, może niezupełnie dobrych? Dziękuję.</p>
+        <p xml:id="p-3">#WicemarszalekZbigniewRomaszewski: Proszę bardzo.</p>
+        <p xml:id="p-4">#SenatorMarekKonopka: Myślę, że takie zabezpieczenia na pewno są i przedstawiciel rządu potwierdzi takie stanowisko. Ale nie może tak być, że każdy obywatel, który posiada dostęp do komputera, może przechwycić takie dane. No, ale myślę, że pan minister to uzupełni. Dziękuję.</p>
+        <p xml:id="p-5">#WicemarszalekZbigniewRomaszewski: Dziękuję bardzo. Projekt tej ustawy został wniesiony jako projekt rządowy. Do reprezentowania stanowiska rządu w toku prac parlamentarnych został upoważniony minister spraw wewnętrznych i administracji. Czy przedstawiciel rządu pragnie zabrać głos w sprawie rozpatrywanej ustawy i przedstawić stanowisko rządu? Proszę, Panie Ministrze.</p>
+        <p xml:id="p-6">#PodsekretarzStanuwMinisterstwieSprawWewnetrznychiAdministracjiPiotrStachanczyk: Panie Marszałku, po tak szczegółowym przedstawieniu przez senatorów sprawozdawców projektu ustawy i prac w komisji chciałbym tylko odpowiedzieć na pytania. Nie widzę potrzeby...</p>
+        <p xml:id="p-7">#WicemarszalekZbigniewRomaszewski: Proszę bardzo, proszę bardzo.</p>
+        <p xml:id="p-8">#PodsekretarzStanuwMinisterstwieSprawWewnetrznychiAdministracjiPiotrStachanczyk: Pytanie pierwsze... Czy mogę mówić z miejsca, czy mam mówić stamtąd, z mównicy?</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

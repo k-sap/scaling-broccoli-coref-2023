@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Chciałabym się skupić na sytuacji nauki i szkolnictwa wyższego, jako że ten problem szczególnie mnie niepokoi. Faktem jest, że podejmuje się próbę łatania dziur i wspomaga tę sferę życia. Jak widzimy, jest to jednak stanowczo za mało. Komitet Badań Naukowych konsekwentnie domaga się, by budżet nauki osiągnął poziom 1% produktu krajowego brutto. W 1996 r. na naukę powinniśmy więc przeznaczyć o około 1 miliard złotych więcej, niż przewiduje budżet.</p>
+        <p xml:id="p-2">To prawda, że nakłady na naukę wzrosły o 29% w porównaniu do 1995 r., to wzrosły po raz pierwszy od 1991 r., ale ciągle daleko nam do sytuacji, w której nauka byłaby priorytetem. Na to, niestety, potrzeba pieniędzy. Ponieważ możliwości budżetu państwa są małe, wyjście widzę tylko w przebudowie struktury samego budżetu. Będąc realistką, wiem, że teraz może się to odnieść tylko do przyszłego roku.</p>
+        <p xml:id="p-3">Już w Sejmie, w trakcie debaty nad budżetem, o 45 milionów złotych uszczuplono kwotę rezerwy ogólnej i rozdysponowano ją między innymi na dożywianie uczniów w szkołach oraz wydatki związane z programem przeciwdziałania bezrobociu wśród młodzieży, a także o 80 milionów złotych zwiększono subwencję ogólną dla gmin, przeznaczając tę kwotę na utrzymanie szkół, które od 1 stycznia, jak wiadomo, znalazły się w gestii gmin. Pieniądze te zabrano Funduszowi Ubezpieczeń Społecznych.</p>
+        <p xml:id="p-4">Bez wątpienia walka o pieniądze dla oświaty i służby zdrowia jest na tyle pasjonująca, że porusza całe społeczeństwo. Protesty gmin, deklaracje czy apele łatwiej przemawiają do świadomości społeczeństwa i parlamentarzystów niż wołanie naukowców o doposażanie i dowartościowanie nauki i szkolnictwa wyższego. Powtarzam, jest to sytuacja bardzo niepokojąca.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

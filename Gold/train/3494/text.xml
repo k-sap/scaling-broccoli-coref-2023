@@ -1,0 +1,12 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Wnioskując z najnowszych zapowiedzi repertuarowych, najbliższe miesiące będą w polskim teatrze barwne, bogate i pełne niespodzianek. Kierownicy literaccy, dramaturdzy i reżyserzy zakasali rękawy. Zobaczymy sporo od dawna nie oglądanej klasyki: polskiej - mamy w końcu Rok Stanisława Wyspiańskiego (co na razie odnotowały głównie sceny krakowskie) - i światowej, sceniczne adaptacje prozy oraz oryginalne scenariusze teatralne. Najbliższa przyszłość przyniesie sygnowaną przez TR Warszawa inscenizację "Aniołów w Ameryce". Monumentalne dzieło Tony’ego Kushnera w reżyserii Krzysztofa Warlikowskiego oglądać będzie można w budynku SGGW przy ul. Rakowieckiej, w wersji rozbitej na dwa wieczory lub jako jeden sześciogodzinny seans. Pokazy przedpremierowe Ø 15 i 16 lutego, premiera 17. Kilka dni później, 24 lutego, w Starym Teatrze w Krakowie odbędzie się premiera "Orestei" Ajschylosa w reż. Jana Klaty. Na marzec planowane są premiery "Zbombardowanych" Sarah Kane (reż. Maja Kleczewska, w Starym Teatrze) i "Baala" Bertolda Brechta (reż. Redbad Klijnstra, we wrocławskim Teatrze Współczesnym). Jeszcze wiosną Teatr Narodowy pokaże dramat Tadeusza Różewicza "Stara kobieta wysiaduje" w reżyserii brata autora, Stanisława, w gdańskim Teatrze Wybrzeże młody reżyser Wiktor Rubin weźmie się za bary z Juliuszem Słowackim, inscenizując "Lillę Wenedę", zaś spektaklem "Fabryka", o nowojorskiej bohemie skupionej wokół Andy’ego Warhola, do Starego Teatru powróci Krystian Lupa. Także krakowski Teatr im. Słowackiego pokaże "Kroniki królewskie" Stanisława Wyspiańskiego w reż. Krzysztofa Orzechowskiego, a pobliska nowohucka Łaźnia Nowa zainicjuje ogólnokulturalny projekt "Wyspiański Underground". Wydarzeniem lata może być pierwsza polska premiera (TR Warszawa) świetnego niemieckiego reżysera René Pollescha, a także sceniczna adaptacja (warszawski Teatr Mały) "Chłopców z Placu Broni" Ferenca Molnara w reż. Michała Zadary.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

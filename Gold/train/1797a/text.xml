@@ -1,0 +1,12 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">W podwarszawskim Miedzeszynie odbyło się spotkanie klubu parlamentarnego SLD z premierem Markiem Belką. Jak podpatrzyli reporterzy "Super Expressu", po wyjeździe premiera klub bawił się nadal. Posłowie raczyli się piwem i wódką, jedli szaszłyki, kaszankę i karkówkę, śpiewali stare harcerskie piosenki. Tymczasem posłanki Katarzyna Piekarska i Joanna Senyszyn, trzymające się z dala od kompanii, odpoczywały na huśtawce. "Ku zdziwieniu naszych reporterów - relacjonuje "Express" - posłanki zaczynają się przytulać, trzymają się za ręce". Czy to jest przyjaźń - pyta gazeta.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

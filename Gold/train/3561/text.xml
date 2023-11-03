@@ -1,0 +1,20 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">- . operatora kropki umożliwiającego uzyskiwanie bezpośredniego dostępu do pół struktur i klas,</p>
+        <p xml:id="p-2">- .* operatora wskazującego wybrany element klasy,</p>
+        <p xml:id="p-3">- :: operatora rozróżniania zakresu,</p>
+        <p xml:id="p-4">- ?: operatora warunkowego.</p>
+        <p xml:id="p-5">Przeładowywanie jednoargumentowych operatorów ++ oraz - Jako przykład praktycznego wykorzystania przeładowanego operatora postinkrementacji ++ posłuży nam sytuacja zliczania elementów ciągu znaków wprowadzonych z klawiatury. W celu przeładowania jednoargumentowego operatora ++ w pierwszej kolejności musimy zaprojektować odpowiednią funkcję operatorową. Każda funkcja operatorowa powinna mieć możliwość wykonywania odpowiednich operacji na właściwych egzemplarzach klasy (lub obiektu), inaczej mówiąc, powinna w stosunku do odpowiedniej klasy posiadać status funkcji zaprzyjaźnionej lub być normalną metodą w klasie. Zaprojektujemy prostą klasę o nazwie counter (licznik):</p>
+        <p xml:id="p-6">Ponieważ celem naszym będzie zwiększanie w odpowiedni sposób (postinkrementowanie) wartości pola number egzemplarza add klasy counter, funkcja operatorowa przybierze nieskomplikowaną postać:</p>
+        <p xml:id="p-7">Zauważmy, iż funkcja ta, będąc normalną metodą w klasie, nie posiada jawnych argumentów i w momencie wywołania otrzymuje niejawny wskaźnik this do własnego egzemplarza klasy. Dzięki posiadaniu niejawnego wskaźnika this funkcja ma możliwość postinkrementowania wartości pola number własnego egzemplarza klasy.</p>
+        <p xml:id="p-8">Ćwiczenie 3.1.</p>
+        <p xml:id="p-9">Każda funkcja składowa klasy otrzymuje niejawnie argument w postaci wskaźnika do obiektu, który ją wywołał, i do którego uzyskuje się dostęp, wykorzystując słowo kluczowe (wskaźnik) this. Funkcje składowe przeładowywanych operatorów jednoargumentowych nie potrzebują żadnych jawnie zadeklarowanych parametrów formalnych. Jedynym argumentem, którego należy użyć, jest wskaźnik this, będący w rzeczywistości wskaźnikiem do egzemplarza klasy, a nie jego kopią. Konsekwencją tego jest fakt, iż wszystkie modyfikacje wykonane za jego pośrednictwem przez funkcję operatora modyfikują zawartość wywoływanego egzemplarza klasy. Przykład wykorzystania funkcji operator++() przeładowanego operatora ++ w celu zliczania znaków wprowadzanych z klawiatury zamieszczono na listingu 3.1. Koniec ciągu wprowadzanych znaków oznaczamy klawiszem Esc.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

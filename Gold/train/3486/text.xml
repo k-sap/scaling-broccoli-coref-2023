@@ -1,0 +1,14 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Rafał Wieczyński nie próbuje w ogóle dociekać, jakimi motywami kierowali się mordercy księdza Popiełuszki. W tzw. presskicie wymienia się 23 nazwiska odtwórców głównych ról, wśród których zabrakło aktorów wcielających się w postaci funkcjonariuszy MSW, przeprowadzających zbrodniczą akcję pod Toruniem. Na ekranie są oni niemalże anonimowi. Jedynie Jacek Rozenek odtwarzający Piotrowskiego (również świetny wybór aktora) parę razy pokazany jest w bliższych planach. Ale jego twarz nie wyraża żadnych emocji: on po prostu wykonuje służbowe zadanie. Jest sprawnym narzędziem, którym posługuje się niewidzialna siła.</p>
+        <p xml:id="p-2">Podobnie bezosobowi byli kaprale znęcający się nad klerykami w czasie odbywania służby wojskowej. To tylko funkcjonariusze systemu. Nawet pani prokurator, która w stanie wojennym oskarża strajkujących robotników, nie może mieć najmniejszych ludzkich skrupułów. (Czy rzeczywiście w latach 80. w gabinetach prokuratorskich wisiały portrety Dzierżyńskiego?). Wprawdzie padają z ekranu nazwiska ówcześnie rządzących, ale film nie ma intencji rozrachunkowych, nie jest wymierzony w konkretne osoby. Dramat rozgrywa się na płaszczyźnie moralnej.</p>
+        <p xml:id="p-3">Od pewnego czasu pojawiają się nowe sensacyjne wersje zabójstwa księdza Jerzego, podważające fakty ustalone podczas śledztwa i rozprawy sądowej w połowie lat 80. (Chodzi m.in. o trop radziecki i rolę kierowcy wiozącego księdza na jego ostatnią mszę). Autor filmu nie wziął tych rewelacji pod uwagę. Zabójstwo księdza pokazane jest naturalistycznie i wstrząsająco. Gdyby szukać do tej sceny inspiracji w filmach religijnych, byłaby to pewnie "Pasja" Gibsona.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

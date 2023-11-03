@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Samorząd Zielonej Góry zaciągnął kredyt na podwyżki (5,6 mln zł). Podobne plany ma samorząd Wrocławia (chodzi o 22 mln zł); gromadzenie środków na podwyżki rozpoczęto tu przed wakacjami od skreślania planowanych remontów szkół. W Szczecinie także nie obejdzie się bez kredytu; aby rozpocząć wypłacanie podwyżek od 1 września, miasto sprzedaje część udziałów w przedsiębiorstwach. Nikt w kraju nie ma zbiorczych, aktualnych informacji o tym, jak przebiega ta gigantyczna improwizacja, złożona na barki samorządów. Rzecznik MEN Marta Chrostowska-Walenta pytana o dotychczasową realizację wypłat, odpowiada dyplomatycznie: - W tych jednostkach samorządu terytorialnego, w których zostały przyjęte i zatwierdzone regulaminy płacowe, nowe wynagrodzenia nauczycieli, wynikające z Karty Nauczyciela, zostały wypłacone.</p>
+        <p xml:id="p-2">Jest na mapie Polski takie miejsce, gdzie nauczycielom nie tylko wypłacono, ale i kazano natychmiast oddać. W Opatówku (woj. wielkopolskie) wicewójt pod nieobecność szefa zdecydował o wypłacie podwyżek, a wójt kilka dni później wystosował do nauczycieli listy polecone z żądaniem zwrotu otrzymanych kwot (było to od 50 do 300 zł) w ciągu siedmiu dni. Dwie osoby oddały, ponad sto zdążyło już pozbyć się gotówki... Aura upokorzenia i skandalu wyszła daleko poza opatowskie opłotki. To na szczęście przykład odosobniony. Samorządy w większości dbają o swoje szkoły i szanują nauczycieli. Linia zaostrzającego się konfliktu w sprawie podwyżek przebiega między Ministerstwem Edukacji (reprezentującym rząd) z jednej strony a połączonym frontem środowisk samorządowych i nauczycielskich z drugiej. Po tej drugiej stronie panuje zgodne przekonanie, że rząd podjął reformę edukacji bez przygotowania, bez rozeznania jej skutków finansowych i bez gwarancji budżetowych.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

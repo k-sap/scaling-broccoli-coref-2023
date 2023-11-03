@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">"Jak się pan dziś miewa?" – Epiphany, jamajska pielęgniarka Pyta Johna Lesniaka, osiemdziesięcioletniego Sklerotyka Z przetrąconym kręgosłupem, cukrzycą, rakiem Pęcherza i setką Pomniejszych chorób. "Jak się miewam? Wprost wspaniale… Gdybyś mogła, dziecinko, zerknąć</p>
+        <p xml:id="p-2">Co to za okropna plama wyskoczyła mi wczoraj Na kolanie…" "Lama? Niemożliwe!" "Plama, plama Kochanie…" "Ach tutaj – nic takiego super, zwykłe podtarcie. Torbiel Na mocz, którą pan nosi, podciera skórę. Jak wysmarujemy kremem, Zaraz zacznie się golić." Biedny John Lesniak siorbie</p>
+        <p xml:id="p-3">Nosem, duma i mówi skrzeczącym sopranem: "Co ja to chciałem… W każdym razie, dobrze, że moje kolano Jest całe…" Zostawiam ich w pokoju i wychodzę na werandę w objęcia Ciepłego listopada. Pracuję tu miesiąc, a nie znam nazwy tego drzewa, które rośnie Przed domem. Zresztą, nic by nie pomogło, nawet gdybym mu ją nadał.</p>
+        <p xml:id="p-4">Zaczarowani melodią słów, raz usłyszaną w ogrodzie dzieciństwa, [brniemy Przez nieludzki labirynt świata… Jeszcze chwilę tak marudzę, Po czym, usłyszawszy wołanie staruszka, biegnę do pokoju. [Muszę go ubrać I podsadzić na wózek. "Wie pan," – zwraca się do mnie, "Ta pielęgniarka, aż mi skoczyło ciśnienie, bo w sumie…" Kładę mu dłoń na ramieniu i jak rozpaczliwą modlitwę powtarzam: "Rozumiem… rozumiem…"</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

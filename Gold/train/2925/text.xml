@@ -1,0 +1,43 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Euzebia bierze Samo Życie i zaczyna czytać. Uśmiecha się przy tym pod nosem. Janina odwraca głowę w jej stronę. Patrzy na nią uważnie.</p>
+        <p xml:id="p-2">JANINA</p>
+        <p xml:id="p-3">A co tobie tak wesoło?</p>
+        <p xml:id="p-4">EUZEBIA</p>
+        <p xml:id="p-5">Bo bez brudzia przeszłyśmy na "ty" Janeczko.</p>
+        <p xml:id="p-6">Zbliżenie Janiny, która łapie się za głowę.</p>
+        <p xml:id="p-7">Scena</p>
+        <p xml:id="p-8">WNĘTRZE. DZIEŃ. DĘBLIN. POCZEKALNIA PRZED GABINETEM KUCZYŃSKIEGO. ŁUKASZ, JERZY, DZIEWCZYNA - EWA, STARSZA PANI.</p>
+        <p xml:id="p-9">Łukasz trzyma na kolanach niewielką torbę podróżną. (Najlepiej tę, z którą był u Augustynków sam. Odcinek 229 sc. 10 / 10 A)</p>
+        <p xml:id="p-10">Obok na krześle siedzi bardzo ładna młoda dziewczyna. Obok niej stoją kule. Widać, że siedzą już tak dłuższą chwilę. Dziewczyna patrzy na Łukasza. Łukasz czuje jej wzrok na sobie. Odwraca głowę. Patrzą na siebie przez chwilę w milczeniu.</p>
+        <p xml:id="p-11">DZIEWCZYNA</p>
+        <p xml:id="p-12">WESOŁO</p>
+        <p xml:id="p-13">Fajny wózek.</p>
+        <p xml:id="p-14">ŁUKASZ</p>
+        <p xml:id="p-15">ZASKOCZONY</p>
+        <p xml:id="p-16">Tak uważasz?</p>
+        <p xml:id="p-17">DZIEWCZYNA</p>
+        <p xml:id="p-18">Tak. Mój Ø był koszmarny. Wolałam się czołgać niż na nim jeździć. Jesteś z Dęblina ?</p>
+        <p xml:id="p-19">ŁUKASZ</p>
+        <p xml:id="p-20">Z Warszawy.</p>
+        <p xml:id="p-21">DZIEWCZYNA</p>
+        <p xml:id="p-22">No co ty?</p>
+        <p xml:id="p-23">ŁUKASZ</p>
+        <p xml:id="p-24">Ale nie zrobiłem całej trasy na wózku. Kilka kilometrów przejechałem autobusem.</p>
+        <p xml:id="p-25">DZIEWCZYNA</p>
+        <p xml:id="p-26">Śmieje się</p>
+        <p xml:id="p-27">Mam na imię Ewa... A ty?</p>
+        <p xml:id="p-28">Łukasz podjeżdża do Ewy. Wyciąga do niej rękę.</p>
+        <p xml:id="p-29">ŁUKASZ</p>
+        <p xml:id="p-30">Łukasz. Bardzo mi miło. Naprawdę jeździłaś na wózku?</p>
+        <p xml:id="p-31">EWA</p>
+        <p xml:id="p-32">Cztery lata. Cztery pieprzone lata.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

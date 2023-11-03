@@ -1,0 +1,14 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">W pewnym miejscu tej płaskiej drogi zatrzymujemy się przy jakiejś karczmie na lekki posiłek. Bardzo romantycznie to wygląda - w dalszym ciągu przeżywam Mayne Reida czy inne książki z przygodami. Cała owa traktiernia pokryta jest wstążkami i modnymi tutaj trójkątnymi proporczykami klubów sportowych; na każdy mecz piłki nożnej wydają tutaj takie drukowane chorągiewki, są one potem pamiątką tych imprez. Właściciel widać jest sportowcem.</p>
+        <p xml:id="p-2">Dalej przejeżdżamy obok dużego kościoła. Jest to kościół w Lo Vasco, słynny z cudownej figurki Matki Boskiej. Figurka ta nie znajduje się w owym dużym kościele, tylko w malutkiej kapliczce, położonej tuż przy drodze i jak gdyby nawet nad drogą czuwającej. Istnieje podanie (zapewne usilnie podtrzymywane przez mnichów tego kościoła), że podróżny, jadący z Santiago do Valparaiso albo odwrotnie, który nie opłaci się tej czuwającej nad drogą Madonnie, będzie miał nieprzyjemną przygodę w drodze. Moi "szoferzy", chociaż zapewne nie zaliczają się bynajmniej do wierzących, zatrzymują samochód i idą do kapliczki, by złożyć ową daninę do specjalnej puszki, umieszczonej u stóp niewielkiego posążku, ustrojonego w koronki. Idę i ja z nimi.</p>
+        <p xml:id="p-3">Madonna stoi jak gdyby w wielkiej szklanej klatce, a u jej stóp otwiera się obszerna szpara do wrzucania pieniędzy. Oparta o figurę Madonny, oprawna w ramki, stoi jakaś kartka z wypisanymi na niej słowami. Myśląc, że jest to modlitwa, nachylam się z ciekawością nad kartką i zaczynam czytać. Niestety, to tylko wskazówki dla wkładających pieniądze do puszki: "Osoby składające pieniądze papierowe winny się starać umieszczać je jak najgłębiej w puszce, aby nikt nie mógł wyciągnąć banknotu przy pomocy drutu, patyka czy też zwyczajnie rękami... itd... itd.". "Osoby, które zauważą kogoś wyciągającego pieniądze, winny dać znać o tym niezwłocznie do klasztoru..."</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

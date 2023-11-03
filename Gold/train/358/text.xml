@@ -1,0 +1,25 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">5. Uruchom kwerendę - chociaż lista filmów została ograniczona do tych, za które zapłaciliśmy więcej niż 5 i mniej niż 50 złotych, to oprócz tytułów filmów zwracana jest ich cena. Ponownie wyświetl kwerendę w widoku projektu.</p>
+        <p xml:id="p-2">6. Odznacz pole wyboru Pokaż: w kolumnie Cena i raz jeszcze uruchom kwerendę (rysunek 4.9).</p>
+        <p xml:id="p-3">7. Wyświetl kwerendę w Widoku SQL. Jej definicja powinna wyglądać następująco:</p>
+        <p xml:id="p-4">8. Zamknij okno kwerendy i zapisz ją pod nazwą Filmy_5do50.</p>
+        <p xml:id="p-5">ćwiczenie</p>
+        <p xml:id="p-6">4.10</p>
+        <p xml:id="p-7">Wybieranie filmów na podstawie przynoszonego przez nie zysku</p>
+        <p xml:id="p-8">SZBD umożliwia wybieranie danych nie tylko na podstawie złożonych warunków logicznych (warunków logicznych, które składają się z kilku połączonych operatorami AND lub OR warunków), ale również na podstawie warunków, które odwołują się do wartości przechowywanych w tabelach.</p>
+        <p xml:id="p-9">Aby wyświetlić tytuły tych filmów, których cena zakupu przekracza zyski uzyskane z tytułu ich wypożyczenia:</p>
+        <p xml:id="p-10">1. Utwórz nową kwerendę w widoku projektu.</p>
+        <p xml:id="p-11">2. Na tabelę źródłową wybierz tabelę Film.</p>
+        <p xml:id="p-12">3. Jako pierwszą kolumnę kwerendy wybierz Tytul, jako drugą - Cena.</p>
+        <p xml:id="p-13">4. W polu Kryteria: kolumny Cena wpisz warunek logiczny: )[zysk] (nawias klamrowy informuje SZBD Access, że ciąg znaków zysk ma być traktowany jako nazwa kolumny, a nie jako wyraz języka polskiego).</p>
+        <p xml:id="p-14">5. Uruchom kwerendę, a następnie wyświetl ją w Widoku SQL. Jej definicja powinna wyglądać następująco:</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

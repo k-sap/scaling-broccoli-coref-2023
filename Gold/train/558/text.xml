@@ -1,0 +1,16 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Chęć jest cechą pierwotną... albo się chce, albo nie. Dzieciom, które nie są hamowane (nie wolno, nie rusz, zostaw), będzie się chciało, bo będą ciekawe. Dzięki temu nabiorą umiejętności i (ostatecznie) uwierzą w swoje możliwości oraz stworzą sobie możliwość osiągania.</p>
+        <p xml:id="p-2">Chęć + Umiejętność + Możliwość = Sukces</p>
+        <p xml:id="p-3">W wielu firmach współpraca obu tych działów układa się znakomicie. Dobrze przygotowane, innowacyjne i jednocześnie realistyczne pomysły pracowników marketingu stają się wówczas kluczowym czynnikiem sukcesu. To dzięki nim handlowcy mają szansę skutecznie uporać się z kolejnymi zadaniami.</p>
+        <p xml:id="p-4">Szef sprzedaży pełni też rolę filtra. Musi pamiętać o tym, że nie wolno mu obarczać swoich podwładnych złymi nastrojami zwierzchników (a także swoimi humorami). Jego rolą jest przekazywanie poleceń, rozmowa o faktach, a nie plotkowanie na temat nastawienia pracodawców. Jeżeli o tym zapomni, narazi handlowców na utratę poczucia bezpieczeństwa i zaufania do przełożonych. Sprzedawcy mają do zrealizowania swoje cele. Potrzebują doradcy i osoby, która im pomoże, zmotywuje, wesprze. Wolą nie wiedzieć o rozgrywkach na najwyższym szczeblu organizacji, o rodzących się wewnątrz organizacji koteriach i sojuszach, o walce o wpływy.</p>
+        <p xml:id="p-5">Dobry dyrektor handlowy powinien nie tylko wspomagać handlowców w ich dążeniach do realizacji planów sprzedaży. Musi też pociągnąć ich za sobą w trudnych momentach i przekonać do ciekawych wizji, które mają szanse powodzenia. Takie umiejętności odróżniają sprawnego menedżera od charyzmatycznego lidera. Jeśli szef sprzedaży ma ten dar, przestaje być sierżantem, szefem kompanii. Staje się prawdziwym przywódcą, wysokiej klasy oficerem.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

@@ -1,0 +1,17 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Właściciele małych przedsiębiorstw, które na rynku działają od trzech lat, spotkali się na szkoleniu zorganizowanym przez urząd miejski. Dwadzieścia pięć osób chciało poznać zasady pozyskiwania środków unijnych. Ale przyszli nie tylko przedsiębiorcy, lecz także osoby, które dopiero planują pracować na własny rachunek.</p>
+        <p xml:id="p-2">– Jestem bezrobotna. Marzy mi się własna kawiarenka lub restauracja. Mam odpowiednie kwalifikacje, bo przez pięć lat pracowałam w gastronomii – mówi Małgorzata Miśkowska. – Jednak nie mam pieniędzy na takie przedsięwzięcie. Jeżeli uda mi się pozyskać z różnych źródeł dotacje, to nie tylko zrealizuję swoje marzenie, ale i będę miała miejsce pracy.</p>
+        <p xml:id="p-3">Przedsiębiorcy, którzy przyszli na szkolenie, dotąd nie korzystali z unijnej pomocy.</p>
+        <p xml:id="p-4">– Nie pozyskiwałem jeszcze tych pieniędzy. Mam zamiar poszerzyć swoją działalność, więc potrzebne będzie dodatkowe wsparcie – mówi handlowiec Waldemar Galeja.</p>
+        <p xml:id="p-5">Jacek Sobiechowski od roku prowadzi siłownię. – Nie wiem, czy mi się uda pozyskać pieniądze. Jest trochę dokumentów do wypełnienia, ale będę się starał. Planuję poszerzenie swojej działalności i zakup sprzętu – mówi głogowianin.</p>
+        <p xml:id="p-6">Pracownik Agencji Arleg tłumaczył, jak ubiegać się o środki ze Zintegrowanego Programu Operacyjnego Rozwoju Regionalnego 2004–2006, w którym wydzielono pieniądze dla małych przedsiębiorstw. – W specjalistycznych usługach doradczych istnieje możliwość dofinansowania do 20 tys. zł, natomiast dotacje inwestycyjne mogą wynieść do 200 tys. zł – mówi Marlena Lewczuk-Lis z Arlegu.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

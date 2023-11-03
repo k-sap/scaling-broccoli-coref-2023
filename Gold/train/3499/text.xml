@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Choć "Polskie Requiem" wykonywano już w bardzo różnych wersjach, wciąż nie dawałem partytury do druku, ponieważ czułem, że utwór jest nieukończony. Pierwszy fragment, "Lacrimosa", powstał równo ćwierć wieku temu na prośbę Lecha Wałęsy; stopniowo dodawałem części, a każda z nich związana jest z ważnym wydarzeniem w historii Polski, np. "Agnus Dei" napisałem spontanicznie po śmierci prymasa Wyszyńskiego. Odejście więc tak wielkiego człowieka jak Jan Paweł II również winno znaleźć ślad w tym utworze. Nie będzie to jednak zakończenie, lecz część instrumentalna pomiędzy "Lacrimosa" a "Agnus Dei". Chciałbym zdążyć z nią na wykonanie 17 września na festiwalu Wratislavia Cantans. To pierwsza muzyka od czasu "Agnus Dei", którą piszę bez zamówienia.</p>
+        <p xml:id="p-2">Przedtem jednak muszę ukończyć VIII Symfonię, ponieważ ma ona zostać wykonana 26 czerwca w Luksemburgu na otwarcie nowej sali koncertowej. Dalsze plany - to Pasja wg św. Jana na zamówienie Helmutha Rillinga, której prawykonanie powinno się odbyć w 2007 r. w odbudowanym kościele Frauenkirche w Dreźnie ( miałem ją zresztą napisać na jego otwarcie w listopadzie, ale poprosiłem o przesunięcie terminu). Chcę po czterdziestu latach znów zmierzyć się z tematem pasyjnym. Nie jest to łatwe zadanie. Trzydziestolatkowi ręka się nie waha. Z wiekiem przychodzi pewność formy, ale coraz trudniej jest postawić na papierze kolejną nutę. Myślę, że to będzie już moje ostatnie dzieło oratoryjne - większość ważnych tematów z tej dziedziny już opracowałem. Pozostanę jednak przy wielkich formach: lubię wracać do jednego utworu przez dłuższy czas.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

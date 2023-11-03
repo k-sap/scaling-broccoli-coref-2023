@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Radni z Komisji Mieszkalnictwa i Inicjatyw Lokalnych pozytywnie zaopiniowali złożony przez Zarząd Miasta projekt zmian w podjętej przed dwoma laty uchwale w sprawie rozwoju budownictwa mieszkaniowego w ramach Towarzystw Budownictwa Społecznego. Najpoważniejszą zmianą ma być wprowadzenie procedury przetargu nieograniczonego przy wyborze podmiotów, z którymi miasto podpisywać będzie umowy. - Zastosowanie tej procedury umożliwi wybór najkorzystniejszej oferty, zapewniającej w pełni interesy miasta pod względem ceny, terminu oraz zapotrzebowania na konkretne rodzaje mieszkań - wyjaśniała radnym Małgorzata Nord-Suwada, zastępca dyrektora Wydziału Architektury, Geodezji i Budownictwa. - Poza tym procedura ta w pełni będzie odpowiadać wymogom określonym rozporządzeniem Rady Ministrów w sprawie warunków i trybu udzielana kredytów i pożyczek ze środków Krajowego Funduszu Mieszkaniowego oraz niektórych wymagań dotyczących lokali i budynków finansowanych przy udziale tych środków.</p>
+        <p xml:id="p-2">Kryteria, na postawie których rozstrzygany będzie przetarg, określone zostaną przez Zarząd Miasta. Przygotowany projekt kryteriów trafić ma wkrótce pod obrady ZMK. - Propozycje są takie, by w 85 proc. decydowała cena wynajmu, w 13 proc. - termin oddania mieszkań, a w 2 proc. - kaucja, którą wpłacić ma najemca - ujawniła Małgorzata Nord-Suwada. - Towarzystwa mogą co prawda ustalać kaucję do 10 proc. wartości lokalu, ale naszym zamierzeniem jest skłaniać je do zmniejszania tej kwoty. Przecież osoby, które kwalifikują się do tego, by zajmować te mieszkania, nie należą do najzamożniejszych. Kolejna zmiana proponowana przez ZMK to wykreślenie sformułowania o "zasadach preferencyjnych" w punkcie mówiących o oddawaniu TBS-om nieruchomości gruntowych w wieczyste użytkowanie.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

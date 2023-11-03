@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Wczesne lata życia Ø i początki Ø kariery politycznej</p>
+        <p xml:id="p-2">Był synem Thomasa Robinsona, 2. barona Grantham, i lady Mary Yorke, córki 2. hrabiego Hardwicke. Wykształcenie odebrał w Harrow School oraz w St John's College na Uniwersytecie Cambridge. W 1806 r. został wybrany do Izby Gmin jako reprezentant okręgu Carlow Borough. Od 1807 r. reprezentował okręg wyborczy Ripon. W 1812 r. został członkiem Tajnej Rady. W 1812 r. został wiceprzewodniczącym Zarządu Handlu. W latach 1813-1817 był ponadto płacmistrzem armii, wspólnie z Charlesem Longiem. Jako wiceprzewodniczący Zarządu Handlu odpowiadał za przyjęcie w 1815 r. ustaw zbożowych. W 1818 r. został członkiem gabinetu jako przewodniczący Zarządu Handlu. W 1823 r. został Kanclerzem Skarbu. Okres jego urzędowania charakteryzował się trudnościami ekonomicznymi. Dziennikarz William Cobbett nadał Kanclerzowi ironiczny przydomek "Prosperity Robinson".</p>
+        <p xml:id="p-3">Na czele rządu</p>
+        <p xml:id="p-4">Kiedy w 1827 r. premierem został George Canning, Robinson, kreowany 1. wicehrabią Goderich, został ministrem wojny i kolonii, oraz przewodniczącym Izby Lordów. Po rychłej śmierci Canninga stanął na czele rządu złożonego z postępowych torysów (tzw. "Canningites" ) oraz wigów. Rząd Godericha przetrwał od sierpnia 1827 do stycznia 1828 r. i nie zebrał się nigdy na sesji parlamentu. Goderich nie był także w stanie efektywnie pokierować pracą skłóconego gabinetu. W styczniu 1828 r. podał się do dymisji. Nowym premierem został książę Wellington.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

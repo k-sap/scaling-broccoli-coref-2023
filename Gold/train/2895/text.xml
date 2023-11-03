@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Odnalezienie w XIX wieku rękopisu Pieśni o Wilhelmie Marszalku, ułożonej na zamówienie Wilhelma II Marszałka i służącej ugruntowaniu jego pozycji jako głowy rodu, królewskiego dostojnika i prowincjonalnego magnata, przywróciło pamięć o bohaterze a zarazem utrwaliło jego wizerunek przede wszystkim jako turniejowego czempiona. Był nim, ale tylko na jednym i nie decydującym etapie kariery. Znacznie większe i trwalsze sukcesy odnosił jako żołnierz, doradca oraz polityk i występując w tych rolach często daleki był od ideału prawego, uczciwego i brzydzącego się podstępem rycerza. Wojna w jego wykonaniu składała się głównie z serii łupieskich najazdów zastraszających wroga i niszczących jego zasoby, dworska służba łączyła się z zawieraniem niekiedy zaskakujących aliansów i z bezwzględnym zwalczaniem konkurentów do władzy a wielka polityka stanowiła też wyborną okazję do pomnażania własnego majątku kosztem wrogów, rywali, a nawet zubożałych krewnych. Awans majątkowy i polityczną karierę Marszałek zawdzięczał mniej odwadze, skłonności do ryzyka i awanturnictwu, które jako anegdoty tak wdzięcznie prezentowały się na kartach poematu a bardziej rozsądkowi, konsekwencji i wytrwałości. Nie raz okazywana inteligencja i bystrość pozwalała mu zaskakiwać przeciwników a samemu unikać zastawianych przez nich pułapek.</p>
+        <p xml:id="p-2">Złożoność biografii Wilhelma bez wątpienia nie stanowiła tajemnicy dla jego współczesnych. Benedyktyn Mateusz Paris (ok. 1200-1259) wspomniał, że po otwarciu grobu hrabiego Pembroke w 1240 roku okazało się, że jego zwłoki znajdują się w stanie daleko posuniętego rozkładu i obrzydliwie śmierdzą, i uznał to za dowód jego wielkiej grzeszności za życia. Zacytował też i opatrzył komentarzem wierszowane epitafium Marszałka ułożone przez słynnego astronoma, poetę i uczonego Gerwazego de Melkley.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

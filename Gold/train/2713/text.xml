@@ -1,0 +1,17 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Gdy żółw matamata poluje, słychać tylko trzask i spora ryba znika, jakby się zdematerializowała. Nic dziwnego, że dorosłe osobniki, osiągające blisko metr długości, są w swej ojczyźnie uznawane za niebezpieczne dla człowieka. Podobno zdarzało się, że wyrywały brodzącym w wodzie ludziom spore kawałki ciała... Piękno matamata może docenić tylko prawdziwy miłośnik. Wielka, trójkątna głowa pokryta dziwacznymi, krzaczastymi wyrostkami, długa rurka zamiast nosa i maleńkie, głęboko schowane oczy.</p>
+        <p xml:id="p-2">W mieszkaniu pana Aleksandra Wysoczańskiego mieszkają trzy takie zwierzęta. W swym naturalnym środowisku polują na ryby i - mimo powolności - są bardzo skutecznymi drapieżnikami.</p>
+        <p xml:id="p-3">- Matamata porusza się bardzo wolno, ale jeśli tylko w jego pobliżu pojawi się ryba, błyskawicznie wyrzuca spod pancerza długą szyję, rozwiera paszczę i wciąga ofiarę wraz ze strumieniem wody. Siła i prędkość ataku są imponujące - opowiada hodowca.</p>
+        <p xml:id="p-4">- Poza matamata w swojej hodowli mam około 30 żółwi z 10 gatunków, specjalizuję się w żółwiach wodnych. Od jak dawna? Urodziłem się z tym! - mówi pan Aleksander.</p>
+        <p xml:id="p-5">W Polsce jest niewielu hodowców o dużym doświadczeniu. Pan Aleksander skromnie wymienia dwa nazwiska znanych "żółwiarzy" - jednego z Wrocławia i jednego ze Śląska. Jednak biorąc pod uwagę jego wiedzę fachową, zamiłowanie do zwierząt i doskonałą kondycję podopiecznych, trzeba by tę listę poszerzyć o nazwisko legniczanina.</p>
+        <p xml:id="p-6">- Żona znosi moje hobby po męsku, zwłaszcza, gdy zapewniam ją, że to już na pewno ostatni nabytek do hodowli - uśmiecha się pan Aleksander.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Można to zilustrować jednym przykładem: rozbudowa przemysłu samochodowego pociąga za sobą rozbudowę dróg, dalej różnych gałęzi przemysłu kooperującego, od produkcji benzyny po farby na znaki drogowe, urzędów ubezpieczeniowych, nowych specjalizacji naukowych, nowego planowania urbanistycznego, przemiany sięgające zarówno w politykę, jak psychikę ludzką. Sieć zazębia się z siecią. Żyjąc w świecie zagęszczonych sieci, nie dotykamy już natury w stanie czystym, ale też nie możemy się od niej zupełnie odciąć. Stajemy się sami elementem sieci. Prawem podstawowym, które tutaj rządzi, jest prawo charakterystyczne dla maszyny dialektycznej, mianowicie prawo sprzężenia zwrotnego. Maszyna działa i sama kontroluje swe działanie. Podobnie sieć. Można stymulować zapotrzebowanie na nowy samochód i zależnie od tego normować produkcję i na odwrót. "Rzeczywistość pośrednia" jest dialektyczna. W niej ustala się nie tylko nowy typ stosunku człowieka do człowieka, lecz także nowy typ stosunku człowieka do natury: typ dialektyczny, synergiczny. Człowiek działa na naturę, by ona mogła na niego działać i natura działa na człowieka, pozwalając mu działać na siebie. "Sieć dialektyczna rozciąga się horyzontalnie. Posiada liczne pętle i ogniska. Jej ład nie jest już hierarchiczny, lecz funkcjonalny, i przypomina wewnętrzny ład organów ciała ludzkiego, z których każdy zależy od pozostałych, a zarazem nimi rządzi w ramach autoregulacji całego systemu" (s. 67). Maszyna dialektyczna naśladuje naturę, a świat na niej zbudowany przypomina strukturę żywego organizmu, w którym sprzężenie zwrotne odgrywa kluczową rolę.</p>
+        <p xml:id="p-2">Jakie tendencje wywołuje powstanie "rzeczywistości pośredniej" w naszych społeczeństwach? Zwróćmy uwagę na niektóre.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

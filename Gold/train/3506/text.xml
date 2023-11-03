@@ -1,0 +1,14 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Sugestywna sprzedaż serdelków</p>
+        <p xml:id="p-2">Amerykański "Podręcznik dla kelnerów" podaje ogólnie przyjęte zasady dawania napiwków: • 10 proc. za mierną obsługę, • 15 proc. za obsługę średniej jakości, • 18-20 proc. za dobrą obsługę, • ponad 20 proc. za obsługę nadzwyczajną. Amerykanie stosują się do tej bądź co bądź niepisanej umowy. Badania wskazują, że średnia wysokość napiwku w restauracjach wynosi 14 proc.</p>
+        <p xml:id="p-3">Cytowany podręcznik dla kelnerów - jego polskie wydanie dostępne jest w księgarniach - podaje kilka sposobów, by uzyskać większy napiwek. "Dbaj o schludny wygląd, serwuj dania możliwie jak najszybciej, upewniaj się, czy gość czegoś nie potrzebuje, wreszcie uśmiechaj się jak najczęściej". Jednak najlepsze wyniki daje to, co autorzy nazywają "sprzedażą sugestywną". Chodzi o to, by przez używanie odpowiednich zwrotów zachęcić klienta do zamówienia kolejnej potrawy. Trzeba zapytać: "Czy zechciałby Pan rozpocząć posiłek od pikantnej przystawki ze świeżych krewetek" lub: "Wołowinę po burgundzku przyrządzamy z polędwicy wołowej pokrojonej w kostkę i duszonej na wolnym ogniu w pysznym sosie z cebuli i burgundzkiego wina". Na koniec zaś: "Mogę zaproponować nasz krem z wiśniami". Takim propozycjom trudno się oprzeć; rachunek, a tym samym napiwek, idzie w górę. Na końcu tej drogi - przynajmniej na amerykańskich kelnerów - czeka niestety urząd podatkowy. Jeśli suma napiwków przekroczy miesięcznie 20 dol., kelner musi wypełniać specjalny formularz. Jak powszechnie wiadomo, z amerykańskim fiskusem nie ma żartów i nawet najlepiej podana wołowina po burgundzku nic nie pomoże.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

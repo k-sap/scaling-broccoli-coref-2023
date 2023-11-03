@@ -1,0 +1,21 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">– Ani szkoła ani nauczyciele nie są szkoleni do tego, by przygotowywać dzieci do zetknięcia się z rynkiem pracy – uważa Andrzej Kamela, dyrektor Gimnazjum nr 6 w Mysłowicach. – Tymczasem wystarczy otworzyć książkę do nauki angielskiego, by zobaczyć scenki rodzajowe typu „spotkanie z pracodawcą”. Zresztą u nas i tak jest lepiej niż kilka lat temu. Gdy wtedy były w szkole jeszcze etaty i przychodzili kandydaci na rozmowy kwalifikacyjne, to byli kompletnie do nich nieprzygotowani. Dzisiaj jest już zupełnie inaczej – podkreśla.</p>
+        <p xml:id="p-2">monika krężel</p>
+        <p xml:id="p-3">Odwiedził już...</p>
+        <p xml:id="p-4">Do tej pory żółty bus odwiedził już Rudziniec, Radlin, Jejkowice, Toszek, Mysłowice – Kosztowy, Wojkowice, Piece, Wierbkę, Żarnowiec i Pilicę.</p>
+        <p xml:id="p-5">Warto przyjeżdżać</p>
+        <p xml:id="p-6">Małgorzata Głąb</p>
+        <p xml:id="p-7">doradca zawodowy w Mobilnym Centrum Informacji Zawodowej w Dąbrowie Górniczej</p>
+        <p xml:id="p-8">Wielu gimnazjalistów nie ma sprecyzowanych planów jeśli chodzi o swoją przyszłość. Są zagubieni, nie wiedzą, jaką szkołę wybrać, kim chcieliby zostać. Dlatego warto im pomóc w podjęciu pierwszej ważnej decyzji, pokazać, które zawody mają przyszłość, bo niestety nawet ukończenie prestiżowych studiów nie gwarantuje dzisiaj pracy.</p>
+        <p xml:id="p-9">Zdarzają się niestety i takie szkoły, które nie są zainteresowane spotkaniami uczniów z doradcami zawodowymi. Tłumaczą, że koliduje im to z zajęciami, że dzieci straciłyby lekcje. Szkoda, bo czasami warto podpowiedzieć młodym, czym się mają kierować w wyborze zawodu.</p>
+        <p xml:id="p-10">Poza tym w dużych miastach są inne możliwości, więcej jest poradni psychologiczno-pedagogicznych, są urzędy pracy. Z małych miejscowości czasami trudno się wyrwać, lepiej więc, gdy doradca przyjedzie do nich. Takie jest zresztą założenie Mobilnego Centrum Informacji Zawodowej.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

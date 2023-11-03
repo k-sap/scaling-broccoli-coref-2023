@@ -1,0 +1,21 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Dla ŁKS dużo</p>
+        <p xml:id="p-2">Siatkarki ŁKS nie zostaną wycofane z rozgrywek pierwszej ligi.</p>
+        <p xml:id="p-3">Polski Związek Piłki Siatkowej zgodził się wczoraj rozłożyć na raty dług łódzkiego klubu wobec związku.</p>
+        <p xml:id="p-4">ŁKS do wczoraj miał wpłacić do PZPS 12,5 tysiąca za licencje zawodniczek pierwszoligowego zespołu. Łódzkim działaczom udało się zebrać około połowy tej kwoty. Resztę klub z al. Unii będzie musiał zapłacić w styczniu 2002 roku.</p>
+        <p xml:id="p-5">Siatkarska centrala trzykrotnie przesuwała termin uregulowania zaległości, lecz ŁKS żadnego z nich nie dotrzymał. Ostateczną datę wyznaczono na wczoraj. Łódzcy działacze próbowali w minionym tygodniu rozłożyć dług na raty, lecz PZPS nie wyraził na to zgody.</p>
+        <p xml:id="p-6">Na szczęście takie same kłopoty co ŁKS ma zespół ekstraklasy Nike Węgrów. Działacze tego klubu bezpośrednio zwrócili się do Janusza Biesiady, prezes PZPS, o kolejne przesunięcie terminu wpłaty. Szef związku przystał na takie rozwiązanie, nie wypadało mu więc potraktować prośby ŁKS inaczej.</p>
+        <p xml:id="p-7">Łodzianie są więc winni PZPS około 6 tysięcy złotych. Jak to możliwe, że klubu takiego jak ŁKS nie stać na wyłożenie takiej małej kwoty?</p>
+        <p xml:id="p-8">- Z Urzędu Miasta otrzymujemy środki celowe, to znaczy, że jeżeli są na szkolenie młodzieży, czy utrzymanie obiektu nie wolno nam ich przeznaczyć na przykład na drugoligowy zespół piłkarzy - wyjaśnił Roman Stępień, prezes ŁKS.</p>
+        <p xml:id="p-9">Właśnie drugoligowa drużyna jest największą pozycją w budżecie ŁKS. Kosztuje około 200 tysięcy złotych miesięcznie.</p>
+        <p xml:id="p-10">- Na koszykówkę potrzeba 60 tysięcy, a na siatkówkę 30 tysięcy - dodał prezes Stępień. - Mówimy oczywiście o pieniądzach na pensje dla zawodniczek i trenerów ligowych oraz na sprzęt, organizację treningów, obozów i meczów.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

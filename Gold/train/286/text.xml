@@ -1,0 +1,14 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Tomek usadowił się wygodnie na krześle i wyjął Wahadło Foucaulta. Położył książkę przed sobą, ale nie miał jeszcze ochoty zabrać się do Ø lektury. Przyglądał się uczniom.</p>
+        <p xml:id="p-2">Każdy z nich był inny. Każdy zabierał się do pracy w inny sposób. Niektórzy wiercili się nerwowo, najwyraźniej jeszcze nie wiedząc, który temat wybrać. Inni notowali coś na brudno, zapewne układając sobie plan rozprawki. Jeszcze inni siedzieli odchyleni głęboko w krzesłach, rozmyślając.</p>
+        <p xml:id="p-3">Tomek ustanowił taki system, że owszem, każdy mógł sobie coś notować na brudno, na oficjalnie przydzielonej kartce, każdy miał przed sobą kartkę zasadniczą, mógł też prosić o ich dowolną ilość, ale poza tym nikt nie miał prawa mieć na ławce czegokolwiek innego. A już w szczególności innych kartek czy notatek, potencjalnych ściąg. Oczywiście nikt też nie miał prawa zaglądać pod ławkę, do torby czy gdziekolwiek indziej. Mieli siedzieć i pisać. Z głowy. (Istny koszmar). Już jakiś czas temu, jako jedno z tych swoich rzekomo charakterystycznych przyzwyczajeń, Tomek wprowadził specyficzny zwyczaj przyłapywania śmiałków, którzy odważyli się jednak ściągać. Udawał mianowicie, że pochłonięty jest lekturą, ale znad książki, zgodnie z wcześniejszymi oficjalnymi ostrzeżeniami, uważnie obserwował całą klasę. W pełnej konspiracji. Wyczulony był na każdy ruch. Kiedy zauważał kogoś zerkającego w zakazane rejony, koncentrował na nim całą swoją uwagę. I gdy w końcu nie miał już żadnych wątpliwości, przyłapywał go na gorącym uczynku. Precyzyjnie wybierał moment, w którym uczeń był kompletnie nieświadom, iż jest akurat obserwowany. Zrywał się wtedy znienacka na równe nogi z krzykiem: "Stać! Nie ruszać się! Niczego nie dotykać!". Puszczał się pędem do przerażonego osobnika i z perfidnym uśmiechem na ustach wyciągał mu spod ławki otwartą książkę albo spod kartki - zapisaną maczkiem ściągę.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

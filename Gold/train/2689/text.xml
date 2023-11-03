@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">SOKÓŁ Żary - GOŚCIBIA Meble Ryś Sułkowice 21-20 (13-9). Bramki dla Gościbi: Piątkowska-Łakomy 5, Gawłowicz, Moskal i Norek po 4, K. Bartkiewicz, Kowalcze i Podoba po 1 - najwięcej dla Sokoła: Rymarz 8, Bilman 4, Zienkiewicz 3.</p>
+        <p xml:id="p-2">Lider tabeli i główny kandydat do awansu do ekstraklasy w ostatniej kolejce I rundy stracił pierwsze punkty w tym sezonie. Choć rozegrał dobry mecz, musiał uznać wyższość świetnie grającego rywala.</p>
+        <p xml:id="p-3">W pierwszej połowie spotkania gra była bardzo wyrównana do 23 min, do stanu 8-9 (zwykle był remis lub 1 bramką prowadziła Gościbia). - Gospodynie w tym czasie sześć goli uzyskały z dobitek, a myśmy tyle samo razy nie wykorzystali stuprocentowych sytuacji - powiedział trener przyjezdnych Władysław Piątkowski . Od 23 do 30 min jego podopieczne straciły 5 bramek pod rząd, nie strzelając ani jednej!</p>
+        <p xml:id="p-4">W 33 min Sokół prowadził 15-11. Następny kwadrans należał jednak do Gościbi, która zdobyła 5 goli, a straciła zaledwie 1. W 48 min było więc 16-16. Potem gra przebiegała według schematu gol za gol. - Myśmy w tym czasie zmarnowali trzy sytuacje sam na sam z bramkarką rywalek - podkreślił Piątkowski. W 56 min było 19-19. Po chwili prowadzenie dla Sokoła zapewniła strzałem z rzutu... wolnego Rymarz. W 57 do remisu 20-20 doprowadziła Piątkowska-Łakomy, ale w 58 min Zienkiewicz ze skrzydła uzyskała zwycięską - jak się okazało - bramkę dla Sokoła. - Posiadaliśmy potem piłkę, ale nie potrafiliśmy skutecznie rzucić. Z porażki nie robimy jednak tragedii. Przez nią walka o awans będzie ciekawsza - przekonywał Piątkowski.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

@@ -1,0 +1,20 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Po 19.00 krzesła w sali widowiskowej Starogardzkiego Centrum Kultury były pełne, bo „Kuźniacy” mają wielu przyjaciół.</p>
+        <p xml:id="p-2">Warto wyjaśnić skąd ta nazwa. Po „naszamu” (czyli kociewsku) Teatr Kuźnia Bracka to: Kuźnia - bo talentów i Bracka - bo wychwyconych i przygarniętych przez braci Irka i Radka. Pierwszy brat, Irek, to od lat wielu animator kultury,drugi, to nie tylko zawodowy aktor, ale muzyk, bard, laureat przeglądów piosenki aktorskiej i poezji śpiewanej. Takie to na Kociewiu mamy perełki.</p>
+        <p xml:id="p-3">- Pośmiejemy się, pobawimy się, pośpiewamy... wręczymy prezenty, przyjmiemy kwiaty i prezenty – tak brat Radka, reklamował piątkowy program. Ma to być Teatr w teatrze.</p>
+        <p xml:id="p-4">I tak było.</p>
+        <p xml:id="p-5">Starogardzcy aktorzy, jak zwykle spontanicznie i profesjonalnie wykonali swoją pracę. Połowę sukcesu ich występu zapewniła znakomita „ptasia” grupa muzyczna złożona z dwóch Radków i Darka.</p>
+        <p xml:id="p-6">- Czajka i Sikorka – żartował Irek.</p>
+        <p xml:id="p-7">Solówki Darka czy improwizacje Radka mogłyby spokojnie ozdobić jazzowe koncerty w „Ogródku”. Gdyby jeszcze do tego duetu dołączył trzeci ptaszek (Pliszka) to mielibyśmy muzyczny starogardzki full-wypas. Szkoda, że nie zabębniło z zespole Michałowe „drzewko” (Olszynka) przez co może Martusi było na scenie smutniej. Ale swoją piosenkę wyśpiewała pięknie.</p>
+        <p xml:id="p-8">Całemu zespołowi należą się duże brawa.</p>
+        <p xml:id="p-9">Trochę szkoda, że zabrakło tego symbolicznego kwiatka od wszelkiej maści oficjeli powiatowych czy miejskich lub mecenasów od kultury. Wszak Dzień Teatru jest raz w roku.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

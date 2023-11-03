@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Jak się okazuje, takie rozwiązanie przynosi różne niespodzianki, a zakosztowali tego mieszkańcy z ul. Małej 17. Czy za brak właściwego zarządzania przez administratora mają odpowiadać uczciwi lokatorzy? – Pomni wcześniejszych doświadczeń, gdy nie wpływa należność, odcinamy dopływ wody. Ten kierunek nadał nam sam sąd, do którego skierowaliśmy pozew przeciwko Zrzeszeniu, ponieważ nie poczuwało się ono do nadzorowania spłat za zużycie wody. Sąd sprawę oddalił, argumentując, że zamiast czekać na łaskawość odbiorców powinniśmy po prostu wodę odciąć – wyjaśnia prezes.</p>
+        <p xml:id="p-2">Po alarmie mieszkańców Ryszard Gliński odwiedził Wodociągi i zobowiązał się, że zawrze umowę dotyczącą ul. Małej 17. Nastąpiło to 5. lutego. Problem kamienicy został zażegnany. – Do końca marca przedłużamy czas na spłatę należności – obiecuje prezes Babczyński.</p>
+        <p xml:id="p-3">Czy jednak sprawa jest do końca uregulowana? Zdaniem lokatorów problem ma głębsze podłoże. – W kamienicach jest jeden wodomierz dla wszystkich, ale z obowiązku zapłaty ryczałtu nie każdy się wywiązuje i co miesiąc ci uczciwi, by nie zadłużyć kamienicy, muszą dopłacać z własnej kieszeni – mówi oburzona pani Anna.</p>
+        <p xml:id="p-4">Rozwiązanie tej kwestii, zdaniem prezesa Babczyńskiego, leży w gestii administratora budynku. – Przedsiębiorstwo, zgodnie z ustawą, rozlicza się z właścicielem lub zarządcą budynku według wskazań głównego wodomierza (jest on własnością przedsiębiorstwa – przyp. red.). Na wniosek zarządcy lub właściciela możemy podpisać umowę z indywidualnym odbiorcą, ale dopiero po spełnieniu określonych ustawowo warunków. Jednym z nich jest posiadanie osobnego licznika. Takie rozwiązanie mamy w kilku prywatnych kamienicach – wyjaśnia prezes Babczyński.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

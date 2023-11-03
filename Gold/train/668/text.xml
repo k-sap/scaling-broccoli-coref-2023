@@ -1,0 +1,18 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Bogna Kisiel</p>
+        <p xml:id="p-2">Od dwóch miesięcy Centrum Informacji Turystycznej, znajdujące się na Starym Rynku, funkcjonuje w odnowionej siedzibie. Dostosowane zostało do potrzeb osób niepełnosprawnych. Remont przeprowadzono w planowanym terminie, a pieniędzy wystarczyło także na odnowienie elewacji kamienicy.</p>
+        <p xml:id="p-3">– Wnętrza są przestronne, nowocześnie urządzone – mówi Danuta Kosińska, dyrektor Wydawnictwa Miejskiego, które w styczniu tego roku przejęło CIT. – Klienci mają zapewnioną fachową obsługę. Uzyskają tutaj pełną informację na temat Poznania oraz Wielkopolski i to w kilku językach obcych. Pracownicy CIT bowiem władają angielskim, niemieckim, francuskim, hiszpańskim, włoskim i portugalskim.</p>
+        <p xml:id="p-4">W CIT dostępne są bezpłatne materiały promocyjne dotyczące stolicy Wielkopolski i regionu, mapy, przewodniki. Można tutaj kupić pamiątki, albumy.</p>
+        <p xml:id="p-5">– Podstawą rozwoju turystki jest dobra informacja, rzetelna i wiarygodna – uważa Tomasza Kayser, zastępca prezydenta Poznania i dodaje: – CIT jest przykładem wzorcowej współpracy samorządu miasta i województwa.</p>
+        <p xml:id="p-6">Urząd Marszałkowski bowiem ponosi jedną czwartą kosztów funkcjonowania placówki. W ciągu wakacji odwiedzało ją dziennie 200-250 turystów, z tego połowa to obcokrajowcy.</p>
+        <p xml:id="p-7">– Przychodzą do nas nie tylko po foldery czy mapy – twierdzi Adam Orlicz, pracownik CIT. – Niektórzy odbywają podróże sentymentalne, pytają o dawne nazwy ulic, czy szukają grobu akuszerki, która była przy ich narodzinach. Pomagamy im przy aktywacji kart telefonicznych, przygotowaniu wyprawy na przykład za Jarocin, gdzie przed wojną mieszkali. Rodzina z Francji przyjechała z psem (z rodowodem), szukając dla niego partnerki. Innym razem trafił do nas polski turysta i z marsową miną spytał: „Gdzie jest ten motocyklista?”. Okazało się, że szuka Starego Marycha.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

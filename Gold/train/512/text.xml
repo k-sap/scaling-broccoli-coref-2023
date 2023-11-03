@@ -1,0 +1,19 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">sp2: pan yy uważam że te sprawy zawsze były znakomicie regulowane przez yyy dobry obyczaj</p>
+        <p xml:id="p-2">sp0: ychy</p>
+        <p xml:id="p-3">sp2: przez kulturę przez tradycję Polska jest krajem jednak tolerancyjnym i ja przeżyłem pięćdziesiąt pięć lat i obserwuję świat rozmawiam obserwuję również co się dzieje w życiu publicznym prywatnym zawodowym i i nie jest tajemnicą że tacy ludzie istnieją funkcjonują osiągają również sukcesy yyy w każdej dziedzinie więc mówienie o czymś takim że u nas jest homofobia to jest po prostu niesprawiedliwe to również uderza w dobre imię o nas samych</p>
+        <p xml:id="p-4">sp0: rozumiem</p>
+        <p xml:id="p-5">sp2: nie wiedzę powodów yy yy żeby te sprawy które dotyczą sfery osobistej intymnej moje seksualne upodobania czy pańskie Ø czy pana posła czy słuchaczy yy każdy je ma i yy u uważam że naprawdę wychodzenie z tym na zewnątrz w sposób taki manifestacyjny spektakularny yy yy z różnego rodzaju jeszcze podtekstami zwłaszcza antyreligijnymi yy no wywołuje też reakcje yy kto sieje wiatr zbiera burze i mi się wydaje że to jest ze szkodą nawet</p>
+        <p xml:id="p-6">sp0: ychy</p>
+        <p xml:id="p-7">sp2: yy takie poglądy myślę są też u udziałem części przynajmniej ludzi yy którzy mają inną orientację</p>
+        <p xml:id="p-8">sp0: rozumiem a tak chciałem tylko jeszcze zanim oddam głos panu profesorowi chciałem tylko się zapytać tak hipotetycznie załóżmy że przyszedłbym ze swoim chłopakiem na na jakiś tam wiec yy yy na wiec no nie wiem no na jakaś tam konferencję i załóżmy że pan by był na tej konferencji no i podchodzę ze swoim chłopakiem trzymam się z nim za rękę czy pan podałby mi rękę ? czy uważałby pan że po yy yy czy za za za daleko się posuwam ? yyy</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

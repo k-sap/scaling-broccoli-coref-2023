@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Nie wiem, jak on przyjechał, bo spałem. Dla mnie zjawił się niespodziewanie. Nie widziałem ojca od roku 39. Nie pamiętałem go prawie, wiedziałem, że taki wysoki i smukły i że ma ręce bardzo wysmukłe i piękne. Ze wszystkiego najlepiej zapamiętałem te dłonie. Ale, niestety, kiedy teraz spojrzałem, na pół przytomny, zbudzony ze snu, na te dłonie, wydały mi się jakieś takie przybrudzone.</p>
+        <p xml:id="p-2">Może sobie pan wyobrazić, co czuje dziecko dziesięcioletnie, chłopak, który się przez cały jesienny dzień nauganiał, kiedy go zbudzą o pierwszej w nocy, ubiorą i każą siedzieć przy stole, gdzie starsi jedzą i piją. Ojciec popijał raźno i sam nie wiedział, co mi powiedzieć. Opowiadał ciotce i wujowi jakieś okropne przygody leśne i o tej drodze do Bryjowa, a potem zaczęli wspominać jakieś czasy przedwojenne, które były dla mnie jak z bajki o królu Ćwieczku. Co ja mogłem wiedzieć o tamtych czasach, kiedy cukier kosztował 12 groszy, a bilet na kolejkę złoty osiemdziesiąt? I kiedy ojciec był administratorem w jakimś wielkim majątku, i kiedy wszyscy bracia byliśmy razem. Ja już tego nie pamiętałem. Słuchałem, na pół zasypiałem i przypatrywałem się ojcu. Miał wielkie niebieskie oczy i taki strzęp włosów, co spadał mu na czoło. Co? Że niby tak jak u mnie teraz? Może, nie wiem. Nikt nigdy nie powiadał, żebym był podobny do ojca. Ojciec był bardzo piękny, słynny z urody. No, i o mnie baby powiadają... dają mi za to forsę, wożą taksówkami i chcą na mnie patrzeć, a ja zawsze: zgaś światło, cholero, patrzeć na twoje cielsko nie mogę! Zgaś, babo, światło!</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

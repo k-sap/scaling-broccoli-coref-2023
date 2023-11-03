@@ -1,0 +1,20 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Podobno, kiedy zespół ratowniczy przyjeżdża na miejsce wypadku i widzi, że poszkodowanej osobie spadł but, to wtedy ratownicy są praktycznie pewni, że ta osoba nie żyje. Skąd się w ogóle wziął taki przesąd?</p>
+        <p xml:id="p-2">W_Miciński: To nie jest przesąd. Po prostu podczas potrącenia pieszego siła urazu może być tak duża, że w miejscu zdarzenia pozostają buty, a ciało pacjenta przemieszcza się o kilkanaście metrów. Przy oględzinach miejsca wypadku i ustalaniu tzw. mechanizmu urazu ratownik wie, że obrażenia mogą być bardzo poważne lub też wypadek okazał się śmiertelny.</p>
+        <p xml:id="p-3">Najbardziej absurdalne wezwanie karetki, z jakim miał pan do czynienia?</p>
+        <p xml:id="p-4">W_Miciński: Bóle za mostkiem. Chodziło o mostek w Maciejkowicach.</p>
+        <p xml:id="p-5">Jakie są najczęstsze wezwania karetki w sezonie zimowym?</p>
+        <p xml:id="p-6">W_Miciński: Urazy na drogach publicznych, chodnikach, placach. Częściej też do pacjentów pozbawionych opieki bądź o niskim statusie społeczno-materialnym - z powodu większego zainteresowania sąsiadów.</p>
+        <p xml:id="p-7">Co z pijakami leżącymi na ulicy - wzywać do nich pogotowie czy policję?</p>
+        <p xml:id="p-8">W_Miciński: Każda osoba leżąca na ulicy, nawet nietrzeźwa, wymaga pomocy. Jeśli jest to osoba obca i nie jesteśmy w stanie jej pomóc z powodu zbyt dużego spożycia alkoholu, należy wezwać straż miejską albo policję. Jeżeli uznajemy, że jest to osoba wymagająca pomocy medycznej, to pogotowie.</p>
+        <p xml:id="p-9">Przedstawiamy aktualnie obowiązujący schemat postępowania z osobą dorosłą, który daje największe szanse na przeżycie:</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

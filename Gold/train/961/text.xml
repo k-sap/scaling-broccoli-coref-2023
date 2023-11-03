@@ -1,0 +1,19 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">8. Miłość: Oczywiście do mojej żony.</p>
+        <p xml:id="p-2">9. Przyjaźń: Mam nadzieję, że oprócz mojego największego przyjaciela, czyli żony, mam jeszcze kilku innych.</p>
+        <p xml:id="p-3">10. Muzyka, książka, film: Przede wszystkim interesuje mnie film. Bardzo lubię polską kinematografię, zarówno teraźniejszą jak i z lat poprzednich. Muzyki słucham w zależności od nastroju: od Kenny’ego G., poprzez Marca Anthony’ego, skończywszy nawet na Liroyu. Kiedyś czytałem wszystkie książki Alistaira MacLeana, a trochę za namową żony sięgnąłem po literaturę Williama Whartona.</p>
+        <p xml:id="p-4">11. Inne zainteresowania: Przede wszystkim sport. Podczas studiów grałem w koszykówkę. Niestety, doznałem kontuzji i tak skończyło się moje „marzenie o NBA”. Teraz, aby chociaż trochę „poruszać się”, gram w tenisa. Oprócz sportu oczywiście lubię podróżować. Z racji mojej pracy musiałem nauczyć się wykonywać tzw. wizualizacje komputerowe, co stało się moim hobby.</p>
+        <p xml:id="p-5">12. Ulubione zajęcie: Mam ich wiele. Bardzo lubię np. jeździć nocą samochodem po dużych, nieznanych mi dobrze miastach. Nocą nawet Warszawa jest piękna.</p>
+        <p xml:id="p-6">13. Kuchnia: Stanowczo polska tradycyjna kuchnia. Obiad bez ziemniaków, kawałka mięsa i oczywiście zsiadłego mleka jest przystawką, a nie daniem głównym.</p>
+        <p xml:id="p-7">14. Marzenia: Aby całą moją teraźniejszą i przyszłą rodzinę omijały wszelkie nieszczęścia i choroby.</p>
+        <p xml:id="p-8">15. Wzór, autorytet: Mam ogromny szacunek do moich rodziców. W ciężkich czasach potrafili (myślę, że dobrze) wychować i wykształcić dwóch synów. Wszystko, co dziś mam zawdzięczam właściwie Im. Do końca życia będę spłacał ten dług. Podziwiam również moją żonę. Jest bardzo ambitna i pracowita, co dopinguje mnie do równie ambitnego życia.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

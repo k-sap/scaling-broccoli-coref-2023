@@ -1,0 +1,17 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">- Bruder , życzę glücku ! tobie dziewko! Bóg wam dopomóż.</p>
+        <p xml:id="p-2">- Panie Boże zapłać! - odrzekli oboje, ale nie było czasu na dłuższe pożegnanie. Ciżba popchnęła ich po pochyłym mostku i za chwilę znaleźli się w obszernym celniczym budynku.</p>
+        <p xml:id="p-3">Celnik, ubrany w szary surdut ze srebrną gwiazdą, poszczypał ich pakunki, potem krzyknął: " All right ", i ukazał na wyjście. Wyszli i znaleźli się na ulicy.</p>
+        <p xml:id="p-4">- Tatulu! a co będziewa robić? - spytała Marysia.</p>
+        <p xml:id="p-5">- Musiwa czekać. Niemiec powiedział, że zara tu nadejdzie od rządu komisarz i będzie się o nas pytał.</p>
+        <p xml:id="p-6">Stanęli więc pod ścianą czekając na komisarza, a tymczasem otoczył ich gwar nieznanego, ogromnego miasta. Nie widzieli nigdy nic podobnego. Ulice biegły proste, szerokie, a po ulicach tłumy ludu jakby w czasie jarmarku; środkiem karety, omnibusy, wozy ładowne. Naokół brzmiała dziwna, nieznana mowa, rozlegały się krzyki robotników i przekupniów. Co chwila przesuwali się ludzie zupełnie czarni o wielkich kędzierzawych głowach. Na ich widok Wawrzon z Marysią żegnali się pobożnie. Dziwne jakieś wydawało się im to miasto, takie gwarne, hałaśliwe, pełne świstu lokomotyw, hurkotu wozów i nawoływań ludzkich. Wszyscy tam biegli tak prędko, jakby gonili kogoś lub przed kimś uciekali, a jakie przy tym mrowie narodu, jakie dziwne twarze; to czarne, to oliwkowe, to czerwonawe. Właśnie tam, gdzie stali, koło portu panował ruch największy; z jednych okrętów zdejmowano paki i na drugie je wkładano, wozy zajeżdżały co chwila, taczki dudniły po mostkach, rwetes i rozgardiasz panował jak w tartaku.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

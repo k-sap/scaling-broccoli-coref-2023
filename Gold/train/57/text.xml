@@ -1,0 +1,17 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Ajkiorka Już to gdzieś słyszałam, widziałam. I myślę, że całkiem możliwe, że chodzi o fizykę. Jakby nie było to wszytko przestaje funkcjonować: serce przestaje bić, nerwy przewodzić, ale włosy i paznokcie jeszcze po śmierci rosną...</p>
+        <p xml:id="p-2">Caleb To jedna z bardzo popularnych miejskich legend(na tyle, żeby nakręcić o niej film). Badania wykonał Duncan MacDougall, szukał on dowodu na istnienie duszy. To musiał być zryty gość - przeprowadzał badania na umierających ludziach i zwierzętach w stanie agonii. Jak jednak stwierdził wyniki eksperymentu wykazywały różne spadki ciężaru ciała, a sam jego przebieg był nieprecyzyjny. Dziś nikt z naukowców nie potraktuje tej teorii poważnie.</p>
+        <p xml:id="p-3">BoniOlek ja mysle ze to nie jest dusza ... to energia ktora wraz ze smiercia "gaśnie"</p>
+        <p xml:id="p-4">omickal Jakby to była energia, to gasnąc by błyskała - fizyka.</p>
+        <p xml:id="p-5">Przemax niewyobrazalne ilosci energii spala sie w agonii...... widzieliscie cokolwiek w agonii? nie na filmie . Sam fakt ze ktos moze nawet powiedziec przed smiercia swiadczy o tym ze niesamowicie duzo energii istota zywa spala w agonii - stad jakies tam gramy atp poprostu sie ulatniaja.... Ot mi filozofia</p>
+        <p xml:id="p-6">Caleb Taki niesmaczny fakt teraz. Istnieje duże prawdopodobieństwo, że to wynik usuwania gazów z organizmu, które są trochę cięższe od powietrza. Co jak co, ale trup ładnie nie pachnie. Ale zawsze można doszukiwać się astralnych energii, jasne, jasne-powodzenia.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

@@ -1,0 +1,14 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Syn Sebastian będzie pełnił funkcję mistrza ceremonii, a zarazem kasjera, który za to wszystko zapłaci. Między innymi także za fatygę studentów, którzy przyjdą do szpitala powiedzieć profesorowi, jak bardzo odczuwają jego brak. To mistyfikacja, natomiast byli przyjaciele przybywają z autentycznej potrzeby. Odchodzi przyjaciel, umiera też kawałek każdego z nich.</p>
+        <p xml:id="p-2">Już z pierwszych dialogów możemy się domyślać, że wcześniej relacje ojca z synem nie wyglądały najlepiej, czemu nie można się dziwić: to przypadek klasycznego konfliktu pokoleń, kiedy ojciec jest przegranym idealistą, syn zaś tryumfującym przedstawicielem generacji zdobywców. - Siostro, proszę zrozumieć, mój syn jest kapitalistą, pełnym ambicji i determinacji - mówi Remy pielęgniarce. - Jest doskonale zorganizowany i zdyscyplinowany, kiedy ja przez całe życie byłem hedonistą i rozpustnikiem...</p>
+        <p xml:id="p-3">Podobne dialogi toczą się pewnie dzisiaj w wielu domach, ale ojciec nawet nie wie dokładnie, na czym polega praca jego syna, oprócz tego, że ma styczność z wielkimi pieniędzmi, zresztą wirtualnymi, zapisywanymi w kolumnach na ekranie podręcznego komputera. Opisowo mówiąc, syn zajmuje się doradztwem w zakresie ograniczania ryzyka finansowego przy wielkich transakcjach, co przynosi mu znaczące dochody. Posiadając mocne finansowe atuty, postanawia zapewnić ojcu znośniejszą śmierć. Profesor leżał dotychczas w zbiorowej sali, traktowany byle jak. Lekarz nie zadał sobie nawet trudu, by zapamiętać jego nazwisko. Mamy podstawy, aby podejrzewać, iż poziom publicznej opieki zdrowotnej w Kanadzie jest zbliżony do polskiego, ale tam większą rolę odgrywają związki zawodowe i jest to na ogół rola destrukcyjna. Jednak wszystko da się załatwić. Jak się okazuje, jest w tym okropnym szpitalu całe piętro wyłączone z eksploatacji z jakichś ważnych powodów, które nie są jednak tak ważne, by nie dało się ich usunąć.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

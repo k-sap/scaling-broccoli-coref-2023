@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<teiHeader xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xml:lang="en">
+  <fileDesc>
+    <titleStmt>
+      <title>Paragraphs: p-1536,p-1537,p-1538,p-1539,p-1540,p-1541,p-1542 from NKJP text with id: IJPPAN_k123348</title>
+    </titleStmt>
+  </fileDesc>
+  <profileDesc>
+    <textClass>
+      <catRef scheme="#nkjp" target="Literatura faktu"/>
+    </textClass>
+  </profileDesc>
+  <revisionDesc/>
+</teiHeader>

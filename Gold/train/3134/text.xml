@@ -1,0 +1,24 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">sp0: no..</p>
+        <p xml:id="p-2">sp1: pewno tak bo on tam..</p>
+        <p xml:id="p-3">sp0: ale będzie miał jakiś urlop ?</p>
+        <p xml:id="p-4">sp1: nie. on ma cały czas nadzieję że pojedzie na tą. Korsykę. zobaczymy. no ja bym bardzo chciała..</p>
+        <p xml:id="p-5">sp0: ale na wakacje tak ?</p>
+        <p xml:id="p-6">sp1: no na tak. no we wrześniu. będzie sezon zakończony. prawie..</p>
+        <p xml:id="p-7">sp0: do znajomych jakiś ?</p>
+        <p xml:id="p-8">sp1: nie wiesz on tam zna. trochę ten wiesz już wie jak się tam. dostać wie ile mniej więcej kosztuje prom. wie skąd wie jak. tam dojechać a tam już jest. tam też mniej więcej się orientuje gdzie się mie gdzie mieś gdzie można mieszkać mieszka się przecież w takich tych za drobne pieniądze takie chaty się wynajmuje. z otwartymi drzwiami do spania..</p>
+        <p xml:id="p-9">sp0: jak to z otwartymi drzwiami ?</p>
+        <p xml:id="p-10">sp1: no takie z przewiewem takim no bez okien bez. takie po prostu namioty no jakby to kreślić rzeczy wartościowe się wszystkie zostawia w samochodzie a tu się tylko śpi no trzeba mieć własne tam kołdry czy śpiwory. no to to bardzo tanio kosztuje..</p>
+        <p xml:id="p-11">sp0: ale nie ma wody i tak dalej..</p>
+        <p xml:id="p-12">sp1: nie no jest no wszystko takie jest właśnie to są takie kempingi no. i masz tam prysznic kibel wszystko. tylko że do do mieszkania masz taki. jakby tylko no osłonę przed słońcem czy przed deszczem no nie wiem..</p>
+        <p xml:id="p-13">sp0: no to fajnie tylko że ta Korsyka jest taka mała że co tam robić przez dłuższy okres czasu ?</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

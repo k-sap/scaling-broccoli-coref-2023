@@ -1,0 +1,31 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">- Z tego wszystkiego zapomniałabym ci powiedzieć, a to prawie najważniejsze. Wiesz, co się dzisiaj w nocy stało? Moja mama włożyła mi palec do ust. Przez sen. Ona chyba nic o tym nie wie. Możesz to sobie wyobrazić?</p>
+        <p xml:id="p-2">- To co, wywołujemy dzisiaj?</p>
+        <p xml:id="p-3">- A masz jakiś pomysł?</p>
+        <p xml:id="p-4">- Właśnie sobie przypomniałem, że mój kumpel zginął w wypadku. Chciałbym sobie z nim pogadać.</p>
+        <p xml:id="p-5">- No to pewnie.</p>
+        <p xml:id="p-6">Wieczór. Wyciągamy planszę, już bez żadnej żenady. Wołamy Jacka. Jest. Ja pytam, on odpowiada.</p>
+        <p xml:id="p-7">- Gdzie teraz jesteś?</p>
+        <p xml:id="p-8">- W PIEKLE.</p>
+        <p xml:id="p-9">- Nie żartuj sobie.</p>
+        <p xml:id="p-10">- WCALE NIE ŻARTUJĘ. PAMIĘTASZ, ŻEBYM JA SOBIE KIEDYKOLWIEK Z CZEGOŚ ŻARTOWAŁ?</p>
+        <p xml:id="p-11">- Nie pamiętam, istotnie - tu zwracam się do Baaty - zawsze sobie tylko wszyscy z niego żartowali. No i jak ci tam jest?</p>
+        <p xml:id="p-12">- NORMALNIE. WSZĘDZIE SIĘ ROBI NORMALNIE, SKORO JUŻ SIĘ TAM ZNAJDZIESZ.</p>
+        <p xml:id="p-13">- I co, masz jakąś szansę na obcowanie z Bogiem?</p>
+        <p xml:id="p-14">- RACZEJ NIE. PRZYNAJMNIEJ MOGĘ BYĆ NADAL RELIGIOZNAWCĄ.</p>
+        <p xml:id="p-15">- To znaczy?</p>
+        <p xml:id="p-16">- MOGĘ SIĘ DOMYŚLAĆ.</p>
+        <p xml:id="p-17">- Więc nie wiesz, jak to jest naprawdę?</p>
+        <p xml:id="p-18">- A CO TO ZNACZY NAPRAWDĘ?</p>
+        <p xml:id="p-19">- No, nie jesteś wszechwiedzący?</p>
+        <p xml:id="p-20">- MÓGŁBYM, GDYBYM CHCIAŁ, ALE KIEDY MOŻESZ WIEDZIEĆ WSZYSTKO, CO TYLKO ZECHCESZ, TO PRZESTAJE CI SIĘ CHCIEĆ.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

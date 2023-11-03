@@ -1,0 +1,14 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Light-r Witam Nie wiem co jest.Lepiej wam to napiszę żeby sie z wami się tym podzielić.......Od ponad kilku lat mam taką dziwną sytuację.Otóż jak idę z mamą to dużo mężczyzn ją wita i mówi jej cześć nawet Ci których nie zna.Nie przeszkoadzałoby to gdyby nie fakt że jak mama pójdzie gdzieś lub oddali sie ode mnie to ktoś do mnie podchodzi i mi mówi "Twoja mama jest ładna i ty też" i zaczyna się ta osoba dziwnie zachowywać uśmiecha śię tak złowieszczo , wyciaga rece i podchodzi do mnnie ja uciekam jak najszybciej. Z każdym wiekiem mam tych sytuacji coraz więcej.Fakt jestem fajny(nie przechwalam się)bo urodę odziedziczyłęm po mamie.Raz na imprezie taka grupka wkoło mnei sie zebrała i zaczęła mnie prowadzić i dotykać ale uciekłem albo ktoś mi chciał dać picie(dobrze że nie wziąłem) Teraz mam epilepsję i jestem skończony.Weźmie napad i co wtedy ??? Co mam robić teraz? Doradzcie mi co to ma być co to oznacza ale naprawdę szybko odpowiedzcie Pozdrawiam was szanowny Light-r</p>
+        <p xml:id="p-2">KOSMITEK Pomimo tych wagrow ,zoltych zebow, wąsów i duzego brzucha jestes taki piekny? Oh zazdroszcze ci,nie wiem w czym masz problem. Moze twoja mama jest jakas tajna agenta i ratuje wszystkich w miescie, moze to dlatego?</p>
+        <p xml:id="p-3">Stassy Ale o co chodzi? I co do tej sytuacji ma Twoja choroba?</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

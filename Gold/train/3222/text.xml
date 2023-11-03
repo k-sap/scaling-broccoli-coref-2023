@@ -1,0 +1,19 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">sp0: nie wie nie wie nie wiedziałem że będziemy. y będziemy brać udział dziś w świąteczny dzień kampanii parlamentarnej do europarlamentu</p>
+        <p xml:id="p-2">sp5: próby zabrania nam tego. olbrzymiego kapitału. tych problemów jest dużo więcej a jak nam ktoś pomaga. to się okazuje że to jest międzynarodowy fundusz walutowy. a nie unia europejska. myślę że unia wchodzi w okres olbrzymich trudności. oby znalazł się rząd. który będzie umiał walczyć.</p>
+        <p xml:id="p-3">sp0: z całą pewnością unia musi się zmieniać. oddajmy przepraszam. oddajmy głos marszałkowi Kalinowskiemu</p>
+        <p xml:id="p-4">sp2: pan poseł widzi. już jak pan poseł widzi w unii szansę. to znaczy że jednak nie jest tak najgorzej</p>
+        <p xml:id="p-5">sp0: nie jest tak źle. marszałek Kalinowski. bardzo proszę</p>
+        <p xml:id="p-6">sp4: pięć lat temu Polska dla mnie w sposób oczywisty. pięć lat temu Polska dla mnie w sposób oczywisty wpisała się w europejską strefę bezpieczeństwa i rozwoju. od nas w dużej mierze zależy. czy te szanse które to członkostwo w tej strefie nam stwarza czy my je potrafimy skutecznie. wykorzystać. kłótnia o miejsce w samolocie czy. miejsce o krzesło. czy walka o krzesło przy</p>
+        <p xml:id="p-7">sp0: na szczycie</p>
+        <p xml:id="p-8">sp4: brukselskim na szczycie oczywiście. taka walka nam nic nie przynosi tylko szkodzi i obniża nasze. szanse i wywołuje tylko irytacje wśród naszych partnerów. ja mam wrażenie że pan. poseł Maciarewicz chce nie tyle walczyć o interesy. nasze w unii europejskiej bo unia jest z jednej strony walką o interesy a z drugiej strony. miejscem osiągania kompromisu. ale ja mam wrażenie że tu chodzi bardziej o walkę z unią europejską niż w unii o to żeby. rozwiązywać nasze polskie problemu i nasze wspólne europejskie</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

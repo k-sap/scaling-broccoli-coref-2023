@@ -1,0 +1,20 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Socjologowie widzą przyczynę takiego stanu rzeczy w stopniowym bogaceniu się społeczeństwa. Ludzie, przynajmniej w miastach, coraz większą wagę przywiązują do swojego zdrowia, inwestują w nie.</p>
+        <p xml:id="p-2">Nic zatem dziwnego, że bloki reklamowe w telewizji przepełnione są spotami promującymi lekarstwa. Pod względem ilości mogą one rywalizować chyba tylko ze środkami czystości.</p>
+        <p xml:id="p-3">- Ludzie kupują wszystko, co jest reklamowane - mówi lekarz medycyny Alicja Kulczyńska - coraz częściej leczą się sami. Bardzo często, zamiast słuchać rad lekarza, sugerują się tym co zobaczyli w reklamie - dodaje pani doktor.</p>
+        <p xml:id="p-4">Dlatego wprowadzono zakaz promowania lekarstw przez aktorów przebranych za lekarzy. Okazuje się, że siła autorytetu osoby ubranej w biały kitel i występującej w telewizji jest większa niż prawdziwego lekarza.</p>
+        <p xml:id="p-5">- Fakt, że ludzie chcą leczyć się sami i w ten sposób sami sobie pomagać, nie jest do końca zły - mówi doktor Kulczyńska.</p>
+        <p xml:id="p-6">W przeciwieństwie do okresu PRL, oferta lekarstw jest obecnie bardzo szeroka. Propozycje firm farmaceutycznych często się dublują, czego nie zauważają klienci.</p>
+        <p xml:id="p-7">Lek to towar jak każdy inny. Producenci, walcząc o klienta zachwalają swój specyfik jako najlepszy, jedyny i niepowtarzalny. Ludzie są zewsząd atakowani agresywnymi reklamami nowych specyfików.</p>
+        <p xml:id="p-8">Skutek jest taki, że pacjenci nie poprzestają na jednym specyfiku, tylko próbują ciągle nowych.</p>
+        <p xml:id="p-9">- Skaczą z kwiatka na kwiatek - uważa doktor Kulczyńska. - Ludzie biorą leki o tym samym działaniu, tylko pod innymi nazwami. Nie kończą brać jednej partii danego leku, lecz zaczynają nowy, ich zdaniem lepszy. To bez sensu.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

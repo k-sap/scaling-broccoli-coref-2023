@@ -1,0 +1,20 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">na Zaspie trotyl.</p>
+        <p xml:id="p-2">Mieszkańcy bloku przy alei Jana Pawła II na gdańskiej Zaspie przeżyli wczoraj chwile grozy. Nieznani sprawcy podłożyli pod ich domem bombę. O leżącym na przyblokowym parkingu ładunku policję powiadomił anonimowy taksówkarz. 18 grudnia także anonimowy informator powiadomił policję o bombie na Zaspie. Okazało się, że są to dwa kilogramy nieuzbrojonego trotylu.</p>
+        <p xml:id="p-3">- Wczoraj o godzinie 9 rano otrzymaliśmy sygnał, że na ulicy leży jakaś paczka, z której wystają druty - informuje Marta Grzegorowska, rzecznik prasowy policji w Gdańsku. - Na miejsce natychmiast pojechali policjanci i saperzy.</p>
+        <p xml:id="p-4">Kiedy na Zaspie zjawiły się służby ratownicze, zaciekawieni mieszkańcy bloku natychmiast zaczęli wyglądać przez okna.</p>
+        <p xml:id="p-5">- To była reakcja najgorsza z możliwych. Gdyby ładunek eksplodował, fala uderzeniowa przede wszystkim rozbiłaby szyby w oknach. Musieliśmy poprosić wszystkich mieszkańców, aby odeszli od okien i wyszli na klatkę schodową - mówi Marta Grzegorowska.</p>
+        <p xml:id="p-6">Prośba policji nie wszystkim mieszkańcom przypadła do gustu. Dochodziło do utarczek słownych z policjantami.</p>
+        <p xml:id="p-7">- Mieszkam w tym bloku i żądam pełnej informacji o tym, co mi grozi - krzyczała starsza pani. - Nie wyjdę z mieszkania, dopóki mi nikt nie wyjaśni, co się tu dzieje.</p>
+        <p xml:id="p-8">Kiedy policjanci wypraszali ludzi z mieszkań, sami jeszcze dokładnie nie wiedzieli, co tak naprawdę leży na ulicy.</p>
+        <p xml:id="p-9">- Z mojego okna wyglądało to jak stary radiomagnetofon - mówi Marcin z klatki „D”. - Było go dobrze widać, bo leżał w miejscu, gdzie w nocy stał jakiś samochód i jezdnia nie była tam przykryta śniegiem. Widać ktoś podłożył bombę pod auto, a gdy samochód odjechał, można było dostrzec podejrzany pakunek.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

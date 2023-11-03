@@ -1,0 +1,50 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">sp2: ale włosy kręcone ?</p>
+        <p xml:id="p-2">sp1: nie wiem no przecież nie proste jak coś</p>
+        <p xml:id="p-3">sp2: ale taka fryzura to taka skromna no to sukienka też musi być skromna</p>
+        <p xml:id="p-4">sp1: nie ja sukienkę będę miała bardzo taką</p>
+        <p xml:id="p-5">sp2: to taka fryzura nie pasuje ale na poprawiny tak</p>
+        <p xml:id="p-6">sp1: no tak sobie narysowałam Boże</p>
+        <p xml:id="p-7">sp2: nie nie podoba mi się</p>
+        <p xml:id="p-8">sp1: Basia</p>
+        <p xml:id="p-9">sp0: ja obiad mówiłam żeby zobaczył jaki tam obiad mają nie</p>
+        <p xml:id="p-10">sp1: yhm</p>
+        <p xml:id="p-11">sp2: on jest w Wieluniu ?</p>
+        <p xml:id="p-12">sp1: nic ci nie załatwi</p>
+        <p xml:id="p-13">sp2: ale ja nic nie chcę Boże ! się pytam tylko</p>
+        <p xml:id="p-14">sp0: Kasia uprzedza fakty</p>
+        <p xml:id="p-15">sp2: ale ja nic nie chcę no może tylko fleki</p>
+        <p xml:id="p-16">sp1: no widzisz bezinteresownie by się nie pytała</p>
+        <p xml:id="p-17">sp0: pojedziemy do Górskiej do przychodni to sobie weźmiesz</p>
+        <p xml:id="p-18">sp2: o kiedy ?</p>
+        <p xml:id="p-19">sp0: no nie wiem czy w czwartek przyjmuje. teraz to nie wiem</p>
+        <p xml:id="p-20">sp2: to ja chcę to ty sobie pojedziesz trochę później</p>
+        <p xml:id="p-21">sp1: my się z mamą umówiłyśmy razem a ty się teraz wcinasz że</p>
+        <p xml:id="p-22">sp0: to po niedzieli</p>
+        <p xml:id="p-23">sp2: ja też chcę !</p>
+        <p xml:id="p-24">sp0: to po niedzieli pasuje ci ?</p>
+        <p xml:id="p-25">sp1: to po niedzieli możesz jechać jak ci pasuje</p>
+        <p xml:id="p-26">sp0: no no to pojedziemy poi niedzieli</p>
+        <p xml:id="p-27">sp2: ale ja będę na Majorce żartuję no dobrze w poniedziałek</p>
+        <p xml:id="p-28">sp0: nie wiem kiedy przyjmuje zadzwonię zapytam</p>
+        <p xml:id="p-29">sp2: dobrze</p>
+        <p xml:id="p-30">sp1: ale właśnie czy ja muszę składać deklarację od nowa ? bo ja składałam w Łodzi</p>
+        <p xml:id="p-31">sp0: po co ?</p>
+        <p xml:id="p-32">sp2: ale przecież możesz chodzić gdzie chcesz</p>
+        <p xml:id="p-33">sp0: przecież kartę masz</p>
+        <p xml:id="p-34">sp1: tak ?</p>
+        <p xml:id="p-35">sp0: a ubezpieczenie jakie masz ?</p>
+        <p xml:id="p-36">sp1: no u ciebie przecież jeszcze studiuję mam rok</p>
+        <p xml:id="p-37">sp0: to masz ubezpieczenie u mnie ?</p>
+        <p xml:id="p-38">sp1: no do dwudziestego szóstego roku życia</p>
+        <p xml:id="p-39">sp0: no to mi naszykuj książeczkę do podbicia</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

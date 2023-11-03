@@ -1,0 +1,22 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Skarżyłam mu się na to, bo myślałam, że nie wie.</p>
+        <p xml:id="p-2">– Płacze, bo malutki – mówię zgodnie, żeby dać znać, że rozumiem.</p>
+        <p xml:id="p-3">– O, a nosek taki śliczny, brązowy. Pierwszy raz taki widzę u pieska. I rośnie! Bawi się, obgryza. Cały czas trzeba by się nim zajmować. Nawet w nocy, jak śpi, to się chce przytulić. A najlepiej, jak dotyka głową.</p>
+        <p xml:id="p-4">– A, to zupełnie tak jak moja córeczka.</p>
+        <p xml:id="p-5">Brązowymi oczyma patrzy na mnie. Ufnie. Ogonek zakręcony, jak to u kundelka. Nie da się ukryć: pies, syn psa, a nawet więcej: sukinsyn (czyli zrodzony przez sukę). A jednak – to dziecko.</p>
+        <p xml:id="p-6">Koty</p>
+        <p xml:id="p-7">Ta kobieta rozpromienia się na mój widok i wyciąga z torebki album ze zdjęciami:</p>
+        <p xml:id="p-8">– Chce pani zobaczyć moje koty?</p>
+        <p xml:id="p-9">Nie czeka na odpowiedź, rozkłada. To kot. A tu oto kot w kwiatach. Kot łaciaty. Kot na trawie. I kot do niej przytulony. Dwie mordki: kocia i ludzka, podobne. Dalej – razem oba koty. Kot czarny. Jeszcze raz łaciaty. Kot, kot niewątpliwie.</p>
+        <p xml:id="p-10">Kiwam głową: no, tak, tak, ano, widzę. To koty.</p>
+        <p xml:id="p-11">Wiem, że jest zawiedziona. Ale cóż mogę poradzić. Kot to nie wygląd, kot ma dotyk. Trudno mi wykrzesać więcej entuzjazmu, bo jest tu pewien dysonans. Nie wyjmę przecież z torby fotografii moich dzieci i nie każę się nimi zachwycać. Owszem, noszę zdjęcia, ale jakoś nie podtykam.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

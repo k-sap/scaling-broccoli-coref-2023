@@ -1,0 +1,16 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Rozważnie i odważnie</p>
+        <p xml:id="p-2">- Legia jest faworytem, ale nie przekreślałbym z góry Arki. Jej atutem może być fatalny stan murawy przy Łazienkowskiej. Łatwiej się na niej bronić, niż atakować - mówi były trener gdynian Czesław Michniewicz.</p>
+        <p xml:id="p-3">- Kto mówi, że będziemy się bronić - ripostuje obecny szkoleniowiec Arki Dariusz Pasieka, który jednak nie ukrywa, że ma spory ból głowy przy zestawieniu składu.</p>
+        <p xml:id="p-4">Największy z napastnikami. Marcin Wachowicz poddał się zabiegowi artroskopii kolana, a u Przemysława Trytki stwierdzono naderwanie więzadła pobocznego w stawie kolanowym. Obu piłkarzy czeka teraz kilka tygodni rehabilitacji, a tej jesieni zdobyli siedem bramek, czyli dokładnie połowę z całego dorobku Arki. Kim więc straszyć w niedzielę najlepszego bramkarza polskiej ligi Jana Muchę?</p>
+        <p xml:id="p-5">- Nie ukrywam, że to jest problem - przyznał w czwartek Pasieka. - W kadrze mam jeszcze dwóch napastników Wadasa Labukasa i Stojko Sakaliewa. Obaj nie zdobyli jednak jeszcze dla nas gola w lidze. To może być dla nich szansa, aby pokazać, że ich transfery nie są pomyłką. Słyszę z boku różne opinie, że powinniśmy w tej sytuacji zagrać przeciwko Legii bardziej defensywnym wariantem niż ten stosowany przez nas 4-4-2, z dwoma napastnikami. Tyle tylko że ja nie mam zamiaru postawić autobusu w naszym polu karnym. Nie mam zamiaru dać zamknąć się na naszej połowie, bo to nic innego niż prośba o jak najniższy wymiar kary. My, doceniając klasę Legii, chcemy zagrać rozważnie i odważnie. Mocna defensywa tak, ale taka, która będzie umożliwiała wyjście do skutecznych kontrataków. Skoro na boisku Legii mogła zremisować Cracovia i Polonia Warszawa, to czemu my nie mielibyśmy pokusić się w niedzielę o podział punktów. Remis w stolicy na pewno by nas ucieszył - tłumaczył szkoleniowiec Arki.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

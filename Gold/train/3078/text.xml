@@ -1,0 +1,16 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">"Życie bywa piękne!" - pomyślała.</p>
+        <p xml:id="p-2">Miała jeszcze moment niepewności, kiedy pojawili się jej pasażerowie: pan Jeffrey i Alek. Nie była przy ich przywitaniu, ale wystarczyło rzucić okiem, aby stwierdzić, że nie wypadło ono najlepiej. Alek miał spiętą twarz, nawet na nią nie spojrzał. Może miał żal, że pozostawiła go samemu sobie, chociaż wcześniej obiecywała, iż tego nie zrobi. Ale nie ona o tym decydowała, jak ma wypaść spotkanie ojca z synem, pan mecenas zarządził, że najlepiej, żeby byli sami. I tyle.</p>
+        <p xml:id="p-3">Pan Jeffrey siedział obok niej, a Alek z tyłu. Jechali ze trzy godziny i nikt się nie odezwał jednym słowem. Dopiero ona zaproponowała, żeby zrobić postój i coś zjeść albo się napić. Zatrzymali się w przydrożnym barze, w ładnym miejscu. Pod rozłożystymi dębami stały proste, zbite z desek stoły i ławy. Do wyboru były pierogi z kapustą i kiełbasa na gorąco. Oni z Alekiem zamówili pierogi, a pan Jeffrey tylko herbatę bez cukru, ale kelnerka przyniosła mu posłodzoną, więc jej wcale nie wypił.</p>
+        <p xml:id="p-4">Ruszyli dalej, a ona modliła się w duchu, żeby ta milcząca podróż już się wreszcie skończyła.</p>
+        <p xml:id="p-5">Domek stał na polance, zewsząd otoczony świerkowym lasem. Był drewniany i miał piękną rzeźbioną werandę, przez którą wchodziło się do środka. Wewnątrz Ø była wolna przestrzeń, tylko niewielki barek oddzielał kuchnię. Po schodach wchodziło się na antresolę, która zamiast ścianki miała ażurowe szczeble.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

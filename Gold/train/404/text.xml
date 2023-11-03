@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">aga-byczek CYTAT(Lobo2007 @ 18.11.2007, 10:51) "Nie ale poświęcenie 1 h też kosztuje." msza w wykonaniu tego księdza nie trwa dłużej niż 20 minut. CYTAT(Lobo2007 @ 18.11.2007, 10:51) "A jak by powiedział, że musi mieć na jedzenie, to byś napisała, że jedzenie nie jest potrzebne do odprawienia mszy?" nie. ale 'cena' mszy powinna być w granicach rozsądku.</p>
+        <p xml:id="p-2">Lobo2007 CYTAT(aga-byczek @ 18.11.2007, 18:57) "nie. ale 'cena' mszy powinna być w granicach rozsądku." Zarobki osoby z wyższym wykształceniem, powinny też być w granicach rozsądku. (obecnie często są śmiesznie niskie) Jeśli uważa, że to za dużo niech idzie do innego parafii. Zdażają się księża, którzy wykorzystują to że ludziom się wydaje, że wszystko można załatwiać tylko u swojego proboszcza i windują opłaty. To są tylko ludzie i jak wszyscy chcą mieć więcej pieniędzy. Przyznam jednak, że księża nie mają rodzin na utrzymaniu dlatego im tych pieniędzy czsem zbywa. Co do powołania, to nie wiem co za problem czy to zawód cy powołanie. To zawód z powołaniem. Zresztą nie jeden. Czy lekarz, adwokat czy nauczyciel mają zarabiać mniej bo to zawody z powołaniem. Po za tym granica jest płynna. Moim zdaniem sprzątaczka też może się czuć powołana do tego aby było czysto. Do każdej pracy powinno się tak podchodzić, a potem rządać sprawiedliwej zapłaty. W poprzednim poście napisałem coś co może być opacznie odebrane. Mianowicie, że każdemu się należy samochód. Oczywiście nie jestem komunistą, a chodziło mi o to, że każdy powinien być w stanie sobie na niego zapracować jeśli chce tzn. chce się uczyć, ciężko pracować i być wartościowy dla społeczeństwa.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

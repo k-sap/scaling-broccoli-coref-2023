@@ -1,0 +1,16 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Większość siatkarzy mierzy ponad dwa metry. W Lidze Światowej istnieje przepis, który mówi, że ekipy zagraniczne muszą być zakwaterowane w hotelu co najmniej czterogwiazdkowym, gdzie nie ma problemów z wygodnymi łóżkami.</p>
+        <p xml:id="p-2">– Minęły chyba te czasy, że na wyjazd zabierało się śrubokręt. Zresztą ja już tego nie pamiętam, ale znam to z opowieści starszych kolegów. W niektórych hotelach trzeba było odkręcać wystające progi, by można spokojnie się położyć. Ten sam problem mamy również w samolotach. Dla nas jest tam za mało miejsca i trudno zmieścić się z nogami. Podczas ostatniej podróży z Ameryki Południowej Andrzej Stelmach spał na przejściu między siedzeniami.</p>
+        <p xml:id="p-3">Siatkarze cieszą się, że finał Ligi Światowej grają w Polsce i nie muszą nigdzie podróżować. Również w eliminacjach mistrzostw świata będziemy gospodarzami turnieju, a mistrzostwa Europy są u sąsiadów zza miedzy – w Ostrawie.</p>
+        <p xml:id="p-4">Innym problemem – i nie tylko – w dalekich podróżach jest jedzenie. Generalnie siatkarze mają zakaz spożywania orientalnych posiłków i miejscowych smakołyków. Nie mówiąc już o wodzie, choć zdarzają się wyjątki.</p>
+        <p xml:id="p-5">– W Wenezueli Michał Bąkiewicz prawdopodobnie coś zjadł i miał duże problemy z żołądkiem – tłumaczy atakujący polskiej reprezentacji. – Na szczęście w hotelach, gdzie byliśmy, dominowała kuchnia europejska i nie mamy za bardzo okazji by próbować tych regionalnych potraw. Zresztą nie palimy się do tego. Nie jesteśmy normalnymi turystami, którzy jadą sobie zwiedzać Brazylię, Wenezuelę czy Stany Zjednoczone. Jedziemy tam do ciężkiej pracy.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

@@ -1,0 +1,19 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Twarda męska decyzja dyspozytorki pogotowia okazała się słuszna. Poszkodowany rzeczywiście był w stanie na własnych nogach dotrzeć do stacji pomocy doraźnej. Tam nawet zgodzono się przewieźć go karetką do szpitala w sąsiedniej miejscowości. Te policzki faktycznie dobrze będzie pozszywać i sprawdzić, czy ciosy braci N. nie zmasakrowały poszkodowanemu jakiegoś wewnętrznego organu. Takie fakty zwykle wychodzą na jaw wtedy, gdy pacjent zaczyna umierać. Tyle że karetka będzie do dyspozycji za jakąś godzinę. Może rodzeństwo potrafiłoby we własnym zakresie załatwić sprawę transportu poszkodowanego.</p>
+        <p xml:id="p-2">- Nie mam kasy - od razu powiedziała siostra.</p>
+        <p xml:id="p-3">- A ja mam pieniądze, które ojciec dał mi na zapłacenie raty za meble - ucieszył się brat i włożył rękę do kieszeni kurtki. Po chwili ją wyjął:</p>
+        <p xml:id="p-4">- Nie, jednak nie mam - rzekł ze smutkiem.</p>
+        <p xml:id="p-5">Wychodziło na to, że bracia N. pobili go, aby ukraść mu 350 zł. Tylko skąd wiedzieli, że je ma? Przecież przez kurtkę nie przeświecały.</p>
+        <p xml:id="p-6">Poza tym dziwiła ich zaciekłość. Nie potrzeba było przecinać policzków ofierze, aby sięgnąć jej do kieszeni. Elementem optymistycznym tej historii jest to, że pacjent do szpitala trafił w porę, a jego obrażenia były zewnętrzne.</p>
+        <p xml:id="p-7">Nieporozumienie</p>
+        <p xml:id="p-8">Podczas śledztwa policja i prokuratura zarzucały uporczywie Pawłowi N., że dokonał pobicia Arkadiusza S. w celach rabunkowych. On stanowczo temu zaprzeczał. Dzień wcześniej wrócił z Niemiec z portfelem wypchanym markami.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

@@ -1,0 +1,19 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Kiedy przygotowywał się Pan do tej roli, przypatrywał się Pan innym kreacjom Ø? Nie mówię o wzorowaniu się, raczej z ciekawości, jak inni sobie poradzili z tym tekstem.</p>
+        <p xml:id="p-2">Widziałem film Wernera Herzoga, natomiast nie udało mi się zobaczyć polskich realizacji "Woyzecka". Nawet tej w teatrze Wybrzeże w 1995 roku.</p>
+        <p xml:id="p-3">A gdy oglądał Pan film Herzoga i Klausa Kinskiego jako Woyzecka, myślał Pan: tak, tę postać chciałbym zagrać, to jest świetna rola?</p>
+        <p xml:id="p-4">Pierwszy raz zobaczyłem to dzieło dawno temu, byłem jeszcze uczniem liceum. Film zrobił na mnie ogromne wrażenie, ale wtedy nawet nie wyobrażałem sobie, że chciałbym zagrać Woyzecka, marzyły mi się inne role...</p>
+        <p xml:id="p-5">Bo to kreacja dla dojrzałego aktora...</p>
+        <p xml:id="p-6">Do tego piekielnie trudna, taka żonglerka emocjami. Gra się przez cały czas antybohatera, nie ma w nim nic, co można byłoby podziwiać...</p>
+        <p xml:id="p-7">Ponoć do tej roli nawet zgolił Pan włosy...</p>
+        <p xml:id="p-8">Jako były żołnierz wojska, jeszcze wtedy ludowego, zacnej bardzo formacji, bo Niebieskich Beretów, nie wyobrażam sobie żołnierza z długimi włosami. Po drugie, moja naturalna okrywa włosowa tu i ówdzie posiada już pewne luki i przetarcia. Po trzecie, w dzisiejszym świecie fryzura męska typu "ogolona pała" jest bardzo akceptowana. Po czwarte jeszcze, co zauważył mój znakomity, starszy kolega, mam bardzo ładny kształt czaszki...</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

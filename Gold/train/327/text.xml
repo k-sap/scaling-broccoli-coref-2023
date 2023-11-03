@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Świetna powieść. Narratorką Ø jest córka znanego pisarza, która w dorosłym wieku próbuje odzyskać stracone dzieciństwo. Dotychczas nie zajmowała się literaturą, w ogóle niewiele dowiadujemy się o jej zajęciach zawodowych, jakby przez całe fatalnie rozpoczęte życie nie miała zamiaru robić kariery, pamiętając, ile to kosztowało jej rodziców. Aż w końcu postanawia dokonać autoterapii, spisać żale i pretensje, opowiedzieć o urazach z wieku dorastania, których nigdy nie umiała zapomnieć. Teraz sama jest dorosła i z tej perspektywy próbuje zrozumieć rodziców, którzy kiedyś nie mieli dla niej zrozumienia. Stać ją na wspaniałomyślność, wiele grzechów im wybacza, ale przecież nie wszystkie. Ale czy można na przykład zapomnieć takie drobne zdarzenie, kiedy rodzice bawiąc w restauracji, zostawiają dziecko w szatni, a potem jeszcze gubią numerek i nie mogą odebrać "garderoby"? Wielu nieudanych imienin i urodzin też nie da się zapomnieć. Przede wszystkim jednak autorka nie może wybaczyć ojcu, że mając do wyboru: nowa żona albo córka, wybrał żonę. A jednak wbrew temu, co się o tej książce pisze, nie jest to tylko wielkie oskarżenie sławnego pisarza. Matka, niezrealizowana aktorka, nie wypada wcale lepiej. Córka sprawiedliwie rozdaje oceny.</p>
+        <p xml:id="p-2">W tle mamy barwnie przedstawiony obraz życia literackiego PRL, tuż po wojnie i w latach późniejszych: mnóstwo anegdot, wspomnień, ciekawostek biograficznych. Autorka cytuje listy, fragmenty prozy ojca, dołącza stare fotografie. Tak się dzisiaj pisze nowoczesne powieści. Tylko że to nie jest powieść, lecz samo życie - ciekawsze od zmyśleń. Magda Dygat, chcąc nie chcąc, udowodniła, że ma talent literacki. Coś jednak zawdzięcza ojcu.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

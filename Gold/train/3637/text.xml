@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Być ojcem i matką</p>
+        <p xml:id="p-2">Właściwe ustawienie relacji ojca duchownego do kleryka wiąże się ze znajdowaniem odpowiedniej równowagi pomiędzy stawianymi wymaganiami a ofiarowanym ciepłem i wsparciem. Nie mogą to być nadmierne wymagania, które zbytnio obciążą penitenta i zniechęcą go do podejmowania pracy duchowej. Ale też nie jest dobrze, gdy wymagania są zbyt małe, gdyż nie daje to wówczas możliwości podejmowania wysiłku, przekraczania siebie i osobistego wzrostu. Znajduje to swój konkretny wyraz w wewnętrznej postawie spowiednika, w pouczeniu, jakie daje i pokucie, jaką nakłada. Z doświadczeń różnych spowiedników wynika, że dobrze, jeśli nawet stanowcze stwierdzenia ojca duchownego są udzielane w życzliwy, ciepły sposób, a pokuta ma charakter leczący, profilaktyczny lub pedagogiczny i osobiście absorbuje penitenta. Może to być odpowiedni fragment Pisma Św. do rozważenia, jakieś drobne czyny pokutne pomocne do umartwienia zmysłów lub czyny miłości pomocne w rozwijaniu dobrych predyspozycji penitenta.</p>
+        <p xml:id="p-3">Poziom tej równowagi wymagań oraz wsparcia będzie się zmieniał w miarę dojrzewania osobowego i duchowego penitenta. Potrzeba sporo czujności, by dobrze rozeznać optymalny stan wymagań oraz wsparcia na danym etapie rozwoju kleryka. Zwłaszcza czas kryzysów jest szczególnie ważny, gdyż weryfikuje się jego powołanie, a on sam staje wobec szansy stawienia czoła trudnościom i postępu w wewnętrznym, w tym osobowościowym, dojrzewaniu.</p>
+        <p xml:id="p-4">Pamiętajmy o ogólnych zasadach, by nie podejmować pośpiesznych decyzji w kryzysie i nie zmieniać już wcześniej podjętych, ale zmieniać się, nawracać. Oddramatyzowanie sytuacji kryzysowych, życzliwe towarzyszenie i modlitwa ze strony spowiednika mogą być znaczącym wsparciem dla seminarzysty, by mógł zyskać właściwy dystans do siebie i do sytuacji w której się znajduje, aby dobrze ją przeżyć.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

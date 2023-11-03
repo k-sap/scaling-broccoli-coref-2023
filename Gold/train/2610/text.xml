@@ -1,0 +1,21 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">ROMAN Malinowski</p>
+        <p xml:id="p-2">Roman Malinowski (1935), prawdopodobnie największy wzrostem i najcięższy polityk PRL (ksywa: Grossmarschall). Doktor ekonomii. W latach 1973-75 wojewoda łódzki. Od 1981 do 1989 roku prezes ZSL; od 1985 do czerwca 1989 roku marszałek Sejmu. Od 1987 do 1991 roku przewodniczący Krajowej Rady Towarzystwa Przyjaźni Polsko-Radzieckiej. Poseł w Sejmie PRL.</p>
+        <p xml:id="p-3">Mimo wieloletniej kariery politycznej jego czas przyszedł w sierpniu 1989 roku.</p>
+        <p xml:id="p-4">7 sierpnia - Lech Wałęsa sprzeciwia się powołaniu generała Kiszczaka na premiera i zaprasza przybudówki PZPR - Zjednoczone Stronnictwo Ludowe i Stronnictwo Demokratyczne do "wielkiej koalicji" .</p>
+        <p xml:id="p-5">10 sierpnia - ZSL jest gotowe do podjęcia rozmów z Wałęsą na "wszystkie tematy" .</p>
+        <p xml:id="p-6">14 sierpnia - generał Kiszczak proponuje, żeby premierem został Roman Malinowski.</p>
+        <p xml:id="p-7">15 sierpnia - spotkanie solidarnościowego Obywatelskiego Klubu Parlamentarnego z delegacjami ZSL i SD.</p>
+        <p xml:id="p-8">17 sierpnia - w prasie ukazuje się historyczne zdjęcie: Wałęsa, Malinowski, Jerzy Jóźwiak (prezes Stronnictwa Demokratycznego) trzymają się za ręce. Koalicja OKP, ZSL, SD jest przypieczętowana. Efekt: pierwszy od wojny niekomunistyczny rząd w naszej części Europy.</p>
+        <p xml:id="p-9">Dzisiaj Malinowski jest prywatnym człowiekiem oddanym rodzinie i przyrodzie (domek pod Warszawą). Ma pięć milionów emerytury. Żona, stomatolog na rencie, dwa razy w tygodniu przyjmuje pacjentów. Być może mieszkanie przy ul. Fabrycznej na Powiślu państwo Malinowscy będą musieli zamienić na tańsze.</p>
+        <p xml:id="p-10">Roman Malinowski należy do PSL, ale nie udziela się. - Czas na nowe pokolenia. Na jeszcze młodsze niż teraz rządzi.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

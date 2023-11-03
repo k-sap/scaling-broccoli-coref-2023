@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Misja Venus Express nabrała kształtu zaledwie w cztery lata. Było to możliwe dzięki wykorzystaniu pomysłów z europejskich programów Rosetta (w 2014 r. próbnik ma wylądować na jądrze komety Czuriumow-Gerasimienko) oraz Mars Express (POLITYKA 21/03). Od grudnia 2003 r. wokół Czerwonej Planety krąży sonda, która m.in. wykonuje - najbardziej szczegółowe jak dotąd - kolorowe zdjęcia jej powierzchni w trzech wymiarach oraz poszukuje śladów wody. Nad budową Venus Express pracował ten sam zespół inżynierów, który stworzył ekspres na Marsa. Twórcy misji uznali, że już sprawdzona w kosmosie aparatura z powodzeniem może posłużyć do badania Wenus. W ten sposób zapasowy zestaw urządzeń przeznaczonych na Marsa trafił na Wenus Express lecący w przeciwnym kierunku.</p>
+        <p xml:id="p-2">Obie planety dzieli nie tylko odległość od Ziemi, ale przede wszystkim szalone różnice w ich przyrodzie. Jak więc wykorzystać tę samą aparaturę do badania tak odmiennych światów? Oczywiście wymagała ona modyfikacji głównie pod kątem większej odporności na wysokie temperatury. Jeżeli wyobrazić sobie materiał, który w okolicy Marsa światło słoneczne rozgrzeje do 20 st. C, a niedaleko Ziemi do 90, to w pobliżu Wenus nagrzeje się już do 150 st. C! Im bliżej Słońca, tym silniejszy także strumień wiatru słonecznego, co wymaga skuteczniejszej osłony antyradiacyjnej. Z kolei nawigatorzy misji musieli wziąć pod uwagę silniejszą grawitację Wenus i wyposażyć statek w większe zapasy paliwa dla silników manewrowych, niezbędnych do prawidłowego wejścia na orbitę wokół planety. Czy się uda? Przekonamy się w kwietniu przyszłego roku. Najważniejszą rolę na pokładzie Venus Express będzie pełnić nie klasyczna szerokokątna kamera, lecz urządzenie zdolne przeniknąć gęste chmury w bliskiej podczerwieni. Na podstawie takich obserwacji w 500 dni ma powstać najdokładniejsza mapa Wenus. Sonda zostanie wprowadzona na biegunową orbitę, dzięki czemu zasięgiem obserwacji obejmie całą planetę. Jej urządzenia będą się przyglądać Wenus z minimalnej wysokości 250 km; a w maksymalnym oddaleniu z 66 tys. km.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

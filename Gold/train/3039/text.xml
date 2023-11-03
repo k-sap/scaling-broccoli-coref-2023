@@ -1,0 +1,20 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Pukam, "wejść!", uśmiechy, przeglądanie papierów, rozmowa o Belaynehu Dinsamo, słynnym etiopskim maratończyku, decyzja.</p>
+        <p xml:id="p-2">- Dwa miesiące - zrobił w tym momencie pauzę na odkaszlnięcie pestką dyni - dwa miesiące. To moje pierwsze i ostatnie słowo - pauza na refleksję - a właściwie dwa słowa. To jest: miesiące.</p>
+        <p xml:id="p-3">Powinienem się ucieszyć (wewnętrznie) oraz pogrymasić (zewnętrznie). Tyle że grymaszeniem mógłbym urazić bardzo - przecież - życzliwego, bardzo pomarszczonego człowieka. Wybrałem i przybrałem, na kilkanaście sekund, najneutralniejszy wyraz twarzy, aby stopniowo zmierzać w stronę powściągliwego zadowolenia z nutą wdzięczności.</p>
+        <p xml:id="p-4">- Trudno - mówię. - Będzie musiało wystarczyć - teraz przerwa na głośny wdech. - Dziękuję.</p>
+        <p xml:id="p-5">Z papierkami wracam do pierwszego pomieszczenia.</p>
+        <p xml:id="p-6">Dwumiesięczna wiza do odebrania jutro.</p>
+        <p xml:id="p-7">Na podwórku dopadła mnie fala mdłości. Nogi lekko drżały, dłonie stukały w niewidzialny bębenek, szyja trzęsła głową, jakaś niewidzialna łapa ciągnęła za sznurki wnętrzności, co momentalnie zgarbiło moje plecy.</p>
+        <p xml:id="p-8">Posiedziałem kilka minut na murku. Objawy zanikały. Być może drżenie nie ustąpiło, a jedynie doszło do perfekcyjnej synchronizacji drgań głowicy obserwacyjnej o spoconym czole z drganiami wypustek kroczących i manipulacyjnych. Zerknąłem na zegarek: nieporuszona czternasta trzydzieści. Dwa kwadranse do spotkania z dzielnym Izraelczykiem w ajencji Ethiopian Airlines.</p>
+        <p xml:id="p-9">Tym razem Itai nieznacznie się spóźnił. I nie przeprosił. Dysponując dwoma przykładami, trudno było ustalić, czy Itai zawsze przepraszał, kiedy się nie spóźniał, i nigdy nie przepraszał, kiedy się nieznacznie spóźniał. Zresztą cóż za pożytek wyniknie z rozwiązania tej mini łamigłówki?</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

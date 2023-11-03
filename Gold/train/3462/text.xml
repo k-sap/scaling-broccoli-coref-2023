@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Obok Wysokiej Władzy szybko wyrosły zalążki nowych instytucji europejskich: Trybunału Sprawiedliwości, Trybunału Obrachunkowego, Europejskiego Banku Inwestycyjnego, Centrum Tłumaczeń, Eurostatu i Biura Publikacji Urzędowych Wspólnot Europejskich. I choć w latach 60. stolicę Unii przeniesiono ostatecznie do Brukseli, umieszczając tam Komisję Europejską, Luksemburg zachował drugoplanowe instytucje. Na pocieszenie dodano mu sekretariat generalny Parlamentu Europejskiego, niektóre wydziały Komisji i prawo organizacji spotkań Rady Unii przez trzy miesiące w roku.</p>
+        <p xml:id="p-2">- Pod budynkiem, gdzie ulokowano sekretariat generalny Parlamentu Europejskiego, chodziły krowy w drodze na pastwisko - wspomina rzecznik PE Jaume Duch. - A rdzenni Luksemburczycy zamykali okiennice w obawie przed nieznajomymi - dodaje Alberto Kozlik, od 25 lat pracujący dla Komisji Europejskiej, obecnie w dyrekcji ds. personelu i administracji. Dziś obcokrajowcy stanowią ponad 60 proc. mieszkańców miasta Luksemburg i 40 proc. populacji całego księstwa. Z Niemiec, Francji i Belgii dojeżdża tu do pracy ok. 150 tys. osób dziennie. Ale goszczenie 9 unijnych instytucji to dla Luksemburga nie tylko prestiż, ale także ogromna korzyść finansowa. Na wydatki administracyjne w księstwie Unia przeznacza co roku aż 1,1 mld euro, m.in. na wynajem budynków, pensje dla pracowników i zasiłki rodzinne. Zważywszy, że unijna składka Luksemburga wynosi niespełna 296 mln euro rocznie, można śmiało powiedzieć, że najbogatszy kraj UE jest beneficjentem netto unijnej kasy - jak Polska, Rumunia czy Bułgaria. Komisja Europejska starannie ten fakt ukrywa i w rozliczeniach budżetu UE pomija wydatki na wewnętrzną administrację.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

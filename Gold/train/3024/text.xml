@@ -1,0 +1,45 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Wężyk się już rozpadł. Goście zaczęli tańczyć parami. Anita siedzi przy stoliku, blisko "parkietu" i obserwuje Mirka przytulonego do Jolki w tańcu. Podchodzi do niej wyraźnie wstawiony Grzesiek.</p>
+        <p xml:id="p-2">GRZESIEK</p>
+        <p xml:id="p-3">Bratowa, zatańczysz z Grzegorzem Kubiakiem?</p>
+        <p xml:id="p-4">ANITA</p>
+        <p xml:id="p-5">Nie...</p>
+        <p xml:id="p-6">GRZESIEK</p>
+        <p xml:id="p-7">Nie z byle kim... Ze świadkiem. A świadek jest bardzo ważny...</p>
+        <p xml:id="p-8">ANITA</p>
+        <p xml:id="p-9">Dziękuję, ale nie tańczę...</p>
+        <p xml:id="p-10">GRZESIEK</p>
+        <p xml:id="p-11">Dlaczego?</p>
+        <p xml:id="p-12">ANITA</p>
+        <p xml:id="p-13">Po prostu...</p>
+        <p xml:id="p-14">Jarek podchodzi do Grześka z Kamilem.</p>
+        <p xml:id="p-15">KAMIL</p>
+        <p xml:id="p-16">Grzesiu, daj pani spokój... Chodź... Odpoczniesz sobie...</p>
+        <p xml:id="p-17">GRZESIEK</p>
+        <p xml:id="p-18">Jestem świadkiem... A świadek jest najważniejszy...</p>
+        <p xml:id="p-19">Odchodzą. Kończy się wolny taniec. Anita widzi jak do Jolki i Mirka podchodzi Karol.</p>
+        <p xml:id="p-20">KAROL</p>
+        <p xml:id="p-21">Odbijany...</p>
+        <p xml:id="p-22">Karol zaczyna tańczyć z Jolką. Mirek idzie do stolika. Anita wstaje i idzie za nim.</p>
+        <p xml:id="p-23">Widzimy, że Jolka, tańcząc z Karolem widzi, że Anita poszła za Mirkiem.</p>
+        <p xml:id="p-24">Mirek nakłada sobie sałatki. Anita staje koło niego.</p>
+        <p xml:id="p-25">ANITA</p>
+        <p xml:id="p-26">Mirek... Musimy porozmawiać...</p>
+        <p xml:id="p-27">MIREK</p>
+        <p xml:id="p-28">Nie mamy o czym.</p>
+        <p xml:id="p-29">ANITA</p>
+        <p xml:id="p-30">Myślę, że jednak mamy...</p>
+        <p xml:id="p-31">MIREK</p>
+        <p xml:id="p-32">Słucham cię.</p>
+        <p xml:id="p-33">ANITA</p>
+        <p xml:id="p-34">Nie zrozum mnie źle... Ja... niczego od ciebie nie chcę... Ale... Nie mogę ci tego nie powiedzieć...</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

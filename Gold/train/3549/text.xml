@@ -1,0 +1,16 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">#SekretarzStanuwMinisterstwieFinansowWieslawCiesielski: Są dwie drogi - penalizacja... próbujemy w ten sposób, pan będzie miał możliwość kiedyś zrobić to skuteczniej. My próbujemy robić to w ten sposób.</p>
+        <p xml:id="p-2">#SekretarzStanuwMinisterstwieFinansowWieslawCiesielski: Nawiasem mówiąc, w czasie prac podkomisji i komisji nie było propozycji penalizacji, nie było tego typu rozwiązań. Dziwne, że dzisiaj się to pojawia, no, ale trudno.</p>
+        <p xml:id="p-3">#SekretarzStanuwMinisterstwieFinansowWieslawCiesielski: Chcę też zwrócić uwagę, że - ja tu całkowicie podzielam opinię pana posła Gruszki - dobrze jest trzymać się realiów życia codziennego i również podzielam opinię, że te rozwiązania idą w dobrym kierunku.</p>
+        <p xml:id="p-4">#SekretarzStanuwMinisterstwieFinansowWieslawCiesielski: Pan poseł Hatka mówił, że środki pochodzące z hazardu służą działalności przestępczej. No, bałbym się tak ostrych stwierdzeń, bo jednak 10 mln Polaków regularnie gra w totka, to jest bardzo niesprawiedliwa i nieuczciwa opinia o tych 10 mln, więc wydaje się, że trzeba jednak trochę głębiej i wnikliwiej analizować procesy, które tutaj zachodzą, bo można popełnić duże błędy. Wbrew temu, co powiedział pan poseł Hatka, nie obniżamy stawki podatku od gier w Totalizatorze, jest 20%, było 20% - art. 45 ustawy, odsyłam do niego.</p>
+        <p xml:id="p-5">#SekretarzStanuwMinisterstwieFinansowWieslawCiesielski: No i znowu możemy dyskutować, czy 100 m to dużo, czy mało. Jeśli 100 m to mało, to ile ma być? Innej propozycji nie było w czasie prac komisji. Naszym zdaniem 100 m to jest tyle, ile być powinno. Będzie inna propozycja, proszę złożyć poprawkę, rozważymy, zastanowimy się.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

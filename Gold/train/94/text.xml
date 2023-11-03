@@ -1,0 +1,14 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Był dość niskim i krępym mężczyzną, którego z największym trudem dało się skłonić do mówienia inaczej niż szeptem. Statek to oczywiście jeden wielki wrzask, głównie dlatego, że morze stara się zabić wszystkie odgłosy nie pochodzące od niego samego. W momentach, gdy trzeba było krzyczeć, Juan krzyczał. Przez pozostały czas mówił szeptem. Nawet wtedy.</p>
+        <p xml:id="p-2">Wiem, że opłynęliśmy dookoła prawie całą ziemię. Mówili o tym. Pisali nawet i gdybym lepiej umiał czytać, może potrafiłbym w to uwierzyć. Ale po powrocie nie było na ziemi siły, potrafiącej zmusić mnie do powiedzenia czegokolwiek. Gdy zniesiono mnie na ląd, byłem już w stanie uwierzyć we wszystko, również w to, że nazywam się Juan de Chinchilla, zaś Diego Carmena, mój przyjaciel został pożarty przez ocean 16 czerwca.</p>
+        <p xml:id="p-3">W sewilskim porcie mogłem już uwierzyć we wszystko, każde zdarzenie, przeszłe i teraźniejsze stało się równie prawdopodobne. Skąd się bierze prawda, skoro oczy nie pracują jak powinny, skoro węch podsuwa aromaty, których nie ma, skoro można dotknąć nieistniejącego. Każda rzecz i każde zdarzenie niesie ze sobą swoją własną prawdę, którą odkrywamy dopiero i opisujemy, posługując się słowami i obrazami, najlepiej jak potrafimy, ale mówili nam przecież, że każda prawda pochodzi od Boga, on ją ostatecznie odnajduje i szepcze co nią jest, a co tylko udaje. Co się dzieje z prawdą po jego śmierci? Gdzie się podziewa, gdzie się chowa, kto ją w ostateczności opisuje, przyznaje rację i rozsądza? Każdy człowiek jest jak dziecko, potrzebuje opieki i podpory, kogoś, kto mu powie, że wszystko jest w porządku lub nakrzyczy, że wcale nie jest. Komu miałbym, gdy, otoczony opieką lekarzy, leżałem w sewilskim porcie, zawierzyć, gdyby mi powiedziano, że mam na imię Juan? Moje oczy oślepły od słońca w mojej głowie szaleje sztorm.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

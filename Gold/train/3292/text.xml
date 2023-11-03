@@ -1,0 +1,16 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Kongresowej strasznie się boję, to jest dla mnie otchłań. Czarna dziura. Trudno tam mieć nad czymkolwiek kontrolę, trudno nawet o odpowiednie nagłośnienie - w każdej nawie jest kompletnie inna proporcja brzmień. Ale co zrobić, innej wielkiej sali w kraju nie mamy. W katowickim Spodku na przykład praktycznie nie istnieje zaplecze. Są jakieś obskurne nory, które robią za garderoby. Kiedy miałam tam spotkanie ze Stingiem, było mi wstyd, chociaż wiedziałam, że Sting wychowany w mieście portowym niejedno w życiu widział.</p>
+        <p xml:id="p-2">Pani twórczość jest wielonurtowa, ale do czego pani najbliżej?</p>
+        <p xml:id="p-3">Jednak do jazzu. Chociaż nie mogłabym grać jazzowego mainstreamu, do tego się nie nadaję. Poza tym mam zawsze takie wrażenie, że tyle genialnych płyt w tym akurat gatunku zostało nagranych, że Ameryki nie odkryję, a tym bardziej nie podbiję. Poza tym, powiem wprost, bez wielkich aspiracji - lubię śpiewać piosenki. Wychowałam się w kręgu muzyki ludowej, co też nie pozostało bez wpływu...</p>
+        <p xml:id="p-4">Słychać to na pani pierwszej płycie.</p>
+        <p xml:id="p-5">Owszem. Ale chyba przede wszystkim na "Bosej" i "Barefoot". To nie znaczy, że uciekam na przykład od popu. Tyle że ten mój ulubiony pop też jest gdzieś na pograniczu stylów. Uwielbiam Joni Mitchell, Petera Gabriela, wspomnianego Stinga, a w sumie to, co oni robią, bardzo trudno zaklasyfikować. Muzyka, nazwijmy to, autorska. Myślę, że dla muzyka fascynujące jest dotykanie różnych stylów, przenikanie kultur, sprawdzanie się w różnych nurtach i gatunkach. Wiem, że ja sama jeszcze się długo nie ustatkuję, tyle jeszcze rzeczy chciałabym spróbować. Dlatego pracuję z bardzo różnymi ludźmi - z jazzmanami jak Tomek Stańko, a nawet z rockmanami jak zespół Sweet Noise.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

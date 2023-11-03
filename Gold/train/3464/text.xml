@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Ten niepokój podzielają wszyscy fundatorzy stypendiów, którzy zdeklarowali w ostatnich tygodniach współudział w naszej akcji (w rezultacie nazbieraliśmy już pieniędzy na co najmniej dziesięć stypendiów, a do rozdysponowania mamy także rozmaite inne dobra, jak na przykład dwie bezpłatne roczne karty członkowskie w klubie CLIC Culture, Language, International Communication, oferującym bardzo nowoczesne metody nauki języka angielskiego). Ale też fundatorzy wcale nie chcą, by traktować ich akces do naszej akcji jako jakiś akt nadzwyczajny. Przeciwnie, są rzecznikami poglądu, że jest to coraz bardziej naturalny, zdrowy element finansowania nauki, a także edukacji, kultury, ochrony zdrowia, środowiska i kilku innych dziedzin. Jako obywatele - powiadają - zgodziliśmy się kilka lat temu na państwo, które nie ingeruje we wszystko, a więc w jakimś sensie musi być słabe. To nie jest wcale cyniczne, że firmy handlowe i produkcyjne starają się je zastąpić, wyręczyć, podeprzeć, szukając przy tym rozgłosu. Liczy się dobry, szlachetny skutek społeczny. Jeżeli jakiś bank promuje się przez sponsorowanie chóru lub produkcję filmu zamiast inwestować w billboardy na ulicach, to czy jest w tym coś złego? - pytają retorycznie. (Z banku PKO BP otrzymaliśmy właśnie zawiadomienie: "postanowiliśmy przeznaczyć na rzecz funduszu stypendialnego darowiznę w kwocie 50 tys. zł")</p>
+        <p xml:id="p-2">- Żadna poważna firma nie może dziś nie dostrzegać konieczności angażowania się w przedsięwzięcia, które nie mają czysto komercyjnego charakteru - mówi Andrzej Wojtyński, prezes zarządu Gerling Polska Towarzystwo Ubezpieczeń na Życie SA (wsparcie w wysokości 12 tys. zł). - Przyłączając się do akcji "Polityki" dostrzegamy cel społeczny, ale też interes. Docieramy w ten sposób do środowisk opiniotwórczych. To wyraz charakteru naszej firmy, jej kultury. Jest dla nas bardzo ważne, jak będziemy postrzegani w tych środowiskach, na których nam najbardziej zależy.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

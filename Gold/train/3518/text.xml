@@ -1,0 +1,14 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Amerykańscy zwolennicy penalizacji narkotyków ignorują opinie naukowców, lekarzy i ekspertów od rozwiązywania problemów społecznych, którzy opowiadają się za pragmatycznym podejściem i reformą prawa w tym zakresie. Zamiast edukacji proponują hasło "po prostu powiedz nie". Zamiast podjąć wysiłek zrozumienia uwarunkowań społecznych i kulturowych sprzyjających popularności narkotyków w różnych grupach wiekowych i środowiskach, ograniczają się do wojowniczej retoryki, dzięki której nikt nie posądzi ich o "miękkie podejście do prawa".</p>
+        <p xml:id="p-2">Teraz polski parlament zaostrzył wasze prawo antynarkotykowe. Najwyraźniej polscy politycy biorą przykład z amerykańskich liderów antynarkotykowej krucjaty optujących za karną represją i strategią zakazów. Nie wiem, dlaczego amerykańskie doświadczenia w tej dziedzinie miałyby być lepsze do zastosowania w Polsce niż europejskie. Wiele krajów Europy liberalizuje swoje prawodawstwo w dziedzinie narkotyków. Już nie tylko Holandia, z której przez lata kpili sobie nasi rygoryści, czy Szwajcaria, ale także Niemcy, Portugalia, a nawet Francja wybierają drogę pragmatyczną, więcej uwagi przywiązują do edukacji, profilaktyki i leczenia niż do karania. Politycy w tych krajach zrozumieli, że z kryminalizacji narkotyków o wiele więcej jest szkód niż korzyści. Polscy parlamentarzyści zdają się tego nie dostrzegać. Bez wielkiej przesady można powiedzieć, że zachowują się w tym względzie jak lemingi, dziwne zwierzątka, które biegną w stadach przez wiele mil, by na końcu wędrówki rzucać się gremialnie w przepaść.</p>
+        <p xml:id="p-3">Centrum Lindesmith - powstała w 1994 r. dzięki pomocy George’a Sorosa amerykańska organizacja pozarządowa zajmująca się doradztwem, edukacją i organizacją badań w zakresie narkotyków.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

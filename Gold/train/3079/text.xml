@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Julek zmęczył się, miał ochotę na solidnego drina, bolało go wszystko od tego grzebania, Zofia nie dawała już całe tygodnie znaku życia, tęsknił za nią strasznie, choć przecież wiedział, że tak musi być. – Cierpienie uszlachetnia. Wolisz być kochanym i nie kochać czy kochać i nie być kochanym? – mówił mu Bogdan na pocieszenie. Miał ochotę najebać się albo popracować, ale był środek nocy i nic do roboty teraz nie miał.</p>
+        <p xml:id="p-2">Skończył pisać, ale nadal tępo wpatrywał się w ekran, swojego najbliższego przyjaciela, bardzo chciał, żeby z tej kupy złomu wydobyło się jakieś promieniowanie, które by coś zmieniło, bo on sam nie był w stanie nic zrobić. Wstał i zaczął chodzić po mieszkaniu, nie miał do kogo zadzwonić, Bogdan był ze swoją żoną i dzieckiem na parodniowym urlopie, nie miał nic do roboty. Nic go nie interesowało, odechciało mu się wszystkiego, otworzył lodówkę, była tam jeszcze ta flaszka, którą wczoraj kupił, ale w końcu obronił się przed wypiciem. Oglądał za to telewizję, więc trudno to było nazwać pełnym zwycięstwem. Zamulenie alkoholowe czy telewizyjne, wszystko jedno. Po wpatrywaniu się w telewizor kac mniejszy. Może mniej się rozwalał, może mniej to było destrukcyjne, ale gdyby Sofia teraz zadzwoniła, naprawdę nie byłoby się czym pochwalić. Nadzieja, że ona zadzwoni, umożliwiła mu wczoraj niewypicie tej flaszki. Nadzieja albo raczej strach, że zadzwoni, a on będzie bełkotał coś niewyraźnie albo, o zgrozo, zacznie się jej wyżalać tak jak sobie w samotności. Bał się alkoholu, bo wiedział doskonale, jak go rozmiękcza, jak pozwala na rozczulenie nad sobą, roztkliwienie, od którego przechodził go wstręt. A gdyby jeszcze ona się dowiedziała, z jakim trudem plecie swoje dni, z jakim wysiłkiem żyje aż do wieczora, a wtedy zazwyczaj wszystko pęka i nie jest już w stanie myśleć o niczym oprócz niej.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

@@ -1,0 +1,20 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">g) 1.7 or 13.0</p>
+        <p xml:id="p-2">h) 15 xor 7</p>
+        <p xml:id="p-3">Aneks (dla amatorów typów)</p>
+        <p xml:id="p-4">- Pozostałe typy całkowitoliczbowe... - i rzeczywiste</p>
+        <p xml:id="p-5">- Zastosowanie koprocesora arytmetycznego</p>
+        <p xml:id="p-6">Przedstawione przed chwilą cztery typy stanowią jedynie niewielką część wachlarza dostępnego w Turbo Pascalu. I tak w zakresie typów całkowitoliczbowych (pokrewnych integer) mamy do wyboru następujące typy proste:</p>
+        <p xml:id="p-7">Każdy z nich może być stosowany do określonych celów, np. typ byte nadaje się do reprezentacji zawartości pamięci (w bajtach), a longint - do prowadzenia statystyk astronomicznych. Rozważny dobór typów pozwala na zaoszczędzenie pamięci przeznaczonej na dane bez utraty jakości obliczeń (chociaż objawia się to dopiero przy stosowaniu większych struktur danych).</p>
+        <p xml:id="p-8">Wszystkie typy całkowitoliczbowe, typ char (przyjmujący de facto wartości od 0 do \( 255, tyle że reprezentowane w postaci znakowej) i Boolean, a także nie omawiane tutaj typy wyliczeniowe, stanowią grupę tzw. typów porządkowych (ang. ordinal types). Nazwa ta bierze się stąd, iż w reprezentowanych przez nie zbiorach wartości zachowana jest tzw. relacja porządku, określająca kolejność poszczególnych elementów w zbiorze wartości.</p>
+        <p xml:id="p-9">Jeśli idzie o liczby typu rzeczywistego, to wszystkie typy proste poza real są związane z zastosowaniem tzw. koprocesora arytmetycznego (układu współpracującego z mikroprocesorem, wyspecjalizowanego w wykonywaniu obliczeń na liczbach rzeczywistych, a przez to znacznie je przyspieszającym). Typy te przestawiają się następująco:</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

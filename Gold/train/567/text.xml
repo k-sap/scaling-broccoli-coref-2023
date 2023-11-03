@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Elba należy do włoskiego regionu Toskania, gdzie znajduje się kilka cennych rezerwatów przyrody morskiej. Samą wyspę charakteryzuje duże zróżnicowanie krajobrazowe. Brzeg morski jest miejscami stromy, poszarpany z zatokami i skalistymi cyplami, a gdzie indziej łagodny z piaszczystymi plażami. Są na Elbie malownicze góry, wysokości nieco powyżej 1000 m n.p.m., które stanowią ostoję kolorowych kwiatów i motyli, niekiedy bardzo rzadkich gatunków, a także są ciekawe pod względem budowy geologicznej. Barwna jest też sztuka, budownictwo i układ architektoniczny miasteczek portowych, z białymi budynkami "przyklejonymi" na różnej wysokości do stromych zboczy skalnych. Elba uchroniła się przed rozwojem wielkiego przemysłu turystycznego i zachowała typową "śródziemnomorską" atmosferę, krajobraz i spokój.</p>
+        <p xml:id="p-2">Mieszkańcy wyspy w porę spostrzegli, że walory przyrodniczo-kulturowe Elby stanowią niepowtarzalną bazę do rozwoju zielonej turystyki i zrównoważonej turystyki wypoczynkowej, a jednocześnie taka forma turystyki może pomóc w zachowaniu prawdziwej tożsamości wyspy, jej spokoju i naturalności. Zamiast samochodów i motorówek, turyści i mieszkańcy korzystają głównie z rowerów i łodzi. Jedną z podstawowych form ekoturystyki są wędrówki piesze wzdłuż i wszerz wyspy (trekking all Elba). Przygotowano kilka szczególnie interesujących i urozmaiconych pieszych tras przyrodniczych; opracowano do nich mapy i przewodniki ze zdjęciami, rysunkami i ciekawymi komentarzami. W każdym wydawniczym materiale informacyjnym jest drukowany etyczny regulamin postępowania "prawdziwego miłośnika przyrody" oraz spis niezbędnych elementów jego ekwipunku, w którym pierwsze pozycje zajmują: lornetka do obserwacji zwierząt i aparat fotograficzny.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

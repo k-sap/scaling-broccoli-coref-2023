@@ -1,0 +1,21 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">sp0: yyy myślę że część podróżuje rzeczywiście dlatego że znaczy się nie tyle w oszukiwaniu co po prostu jeżdżą uczyć ale faktem jest że yyy liczba nauczycieli akademickich nie wzrosła tak szybka jak yyy</p>
+        <p xml:id="p-2">sp1: liczba studentów</p>
+        <p xml:id="p-3">sp0: liczba studentów stąd podróże profesorów yyy ale z mojego punktu widzenia czy z mojej opinii jest to pożyteczne jeśli są ludzie którzy chcą się uczyć a jest ich yyy no dwa miliony to z tego wynika że naszym yyy to znaczy nauczycieli akademickich obowiązkiem jest dać im tę możliwość</p>
+        <p xml:id="p-4">sp1: senat będzie dziś głosował nad sprawozdaniem Krajowej Rady Radiofonii i Telewizji yy mówię że prawdopodobnie zostanie ono odrzucone</p>
+        <p xml:id="p-5">sp0: yyy taką rekomendację dała Senacka Komisja Kultury i myślę że taki będzie w w werdykt całego senatu</p>
+        <p xml:id="p-6">sp1: to co dalej yyy z yyy yyy z mediami publicznymi ?</p>
+        <p xml:id="p-7">sp0: po pierwsze yyy to sprawozdanie będzie rozpatrywane jeszcze przez</p>
+        <p xml:id="p-8">sp1: przez sejm po wakacjach</p>
+        <p xml:id="p-9">sp0: sejm i potem ocenianie przez prezydenta wobec tego yyy mamy jeszcze sporo czasu do ostatecznych decyzji yyy opinia senatu oczywiście jest istotna ale yyy pamiętamy że w senacie mamy tylko dwa ugrupowania yyy polityczne yyy w którym głosowania są praktycznie yyy jeśli są kontrowersyjne to sześć do czterech yyy dla Platformy wobec tego yyy tutaj sytuacja będzie jasna yyy nieco yyy bardziej skomplikowana sytuacja w sejmie i myślę że prezydent będzie patrzył jakie były wyniki głosowań czy były jednoznaczne czy nie i wtedy podejmie decyzję swoją</p>
+        <p xml:id="p-10">sp1: no przewodniczący Senackiej Komisji Kultury i Środków Przekazów Piotr Andrzejewski z Prawa i Sprawiedliwości zamierza zgłosić wniosek o przyjęcie jednak sprawozdania Krajowej Rady Radiofonii i Telewizji</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

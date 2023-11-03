@@ -1,0 +1,12 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Wiosną 1994 roku przeprowadziłem z Nalepą krótki wywiad dla "Teraz Rocka" w związku z ukazaniem się jego płyty Jesteś w piekle, też sygnowanej Nalepa-Breakout. Ale oczywiście rozmawialiśmy również na inne rockowe tematy. Były to jeszcze czasy ogromnej popularności grunge'u - stylu, który uświadomił, że zwykły rock znów może być czymś niezwykłym dla milionowych audytoriów. Jednak Tadeusz wyjaśnił mi ze śmiechem, że takie nazwy jak Alice In Chains czy Pearl Jam nic mu nie mówią. Że tyle jest nagrań do słuchania, że pewnie nigdy nie dotrze do muzyki tych grup... Nie wiem, czy żartował, czy mówił serio. Natomiast przyznał się, że zna nagrania zespołu Hey i powiedział mi parę słów na jego temat. "Zaskoczyło mnie, że dopiero co wystartowali, a już mają swój styl. I te kompozycje są naprawdę dojrzałe - na tym to ja się znam... Są prawdopodobnie bardzo szczere. Dlatego to kapela inna od pozostałych. A u nas, niestety, dużo jest zespołów, które trudno rozróżnić". Porozmawialiśmy też wtedy o wersjach Oni zaraz przyjdą tu nagranych przez IRĘ i IMTM. O wersji z Live IRY powiedział mi: "Trochę podporządkowali numer swojemu stylowi. Podoba mi się wykonanie. W ogóle IRA to jest kapela, która mi się podoba...". A Oni zaraz przyjdą tu z Enjoy! IMTM tak ocenił: "Ogólnie - bardzo fajny pomysł. Jest to dalej od oryginału. I wcale nie musi być blisko - może być jeszcze dalej... Nie wiedziałem, że taka fajna kapela jest w Gdańsku".</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

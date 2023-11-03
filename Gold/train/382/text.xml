@@ -1,0 +1,16 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Prokurator będzie się musiał zająć także sprawą specjalnych “bonusów” towarzyszących inwestycji. Uzyskane przez nas dokumenty świadczą bowiem, że inwestor zapłacił więcej, niż wynika to z umownej ceny sprzedaży gruntów (ustalonej na 8.200.000 zł). Pieniędzmi na tzw. cele społeczne (udokumentowaliśmy, że było tego nie mniej niż 350 tys. zł) dysponował (poza budżetem miasta i wiedzą radnych) jednoosobowo prezydent Lubina, który prezesowi GBS Polska wskazywał adresatów gotówki.</p>
+        <p xml:id="p-2">Wielokrotnie nagabywany o te pieniądze, zarówno przez dziennikarzy, jak i radnych, prezydent zawsze zasłaniał się tajemnicą handlową.</p>
+        <p xml:id="p-3">- Zobowiązując się do przeznaczenia pewnych pieniędzy na cele społeczne inwestor nie życzył sobie, aby podawać kwoty i cel ich przeznaczenia. Dotrzymywałem tego zobowiązania, bo przecież chodziło o środki prywatne, nie publiczne - tłumaczy dziś poseł Tadeusz Maćkała.</p>
+        <p xml:id="p-4">Poseł Maćkała ma kłopot. Po naszym wczorajszym artykule, prokuratura zajęła się podejrzanymi okolicznościami, towarzyszącymi budowie lubińskiego hipermarketu Real, w czasie gdy poseł był prezydentem tego miasta.</p>
+        <p xml:id="p-5">W powyżej opisany sposób dofinansowywano lubińskie parafie (najwięcej otrzymała parafia św. Jana Bosko, nie mniej niż 78 tys. zł) i doroczne Dni Lubina (115 tys. zł). W tym drugim przypadku 90 tys. inwestor przeznaczył na dofinansowanie koncertów pod hasłem “Prezydent Lubina zaprasza”, które towarzyszyły (przypadkiem?) jesiennej kampanii wyborczej 1997 roku. To wówczas Tadeusz Maćkała uzyskał mandat poselski AWS.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

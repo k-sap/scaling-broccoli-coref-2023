@@ -1,0 +1,21 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">1.4.1 Spread</p>
+        <p xml:id="p-2">Nazwa pochodzi z języka angielskiego - w dosłownym tłumaczeniu oznacza "rozstaw". Oznacza różnicę między cenami kupna i sprzedaży danej pary walutowej.</p>
+        <p xml:id="p-3">Przykład:</p>
+        <p xml:id="p-4">Patrząc na tablice w kantorze widzimy ceny kupna i sprzedaży. Różnią się one od siebie o pewną ilość groszy, które są marżą właściciela kantoru. Te parę groszy to właśnie spread czyli rozstaw między ceną kupna i sprzedaży.</p>
+        <p xml:id="p-5">Podobnie jest na forexie, tylko w dużo mniejszej skali, owa marża, liczona w pipsach, jest obecna na każdej platformie brokerskiej. Im marża niższa tym platforma tańsza. Każdy broker czerpie zyski właśnie ze spreadu.</p>
+        <p xml:id="p-6">1.4.2 Dźwignia</p>
+        <p xml:id="p-7">Ang: Leverage. Dźwignia to narzędzie, dzięki któremu małą sumą pieniędzy można kontrolować pozycję o znacznie większej wartości. Jest to relacja pomiędzy kapitałem o stałym oprocentowaniu pożyczonym przez firmę brokerską (kredyt), a wartością zainwestowanego kapitału (depozyt).</p>
+        <p xml:id="p-8">Przykład:</p>
+        <p xml:id="p-9">Dźwignia 200:1 jest standardem dla kont mini. Oznacza ona, że wpłacając w formie kaucji $50 możemy zakupić np.: 10.000 euro w ten sposób za np.: $300 możemy otworzyć pozycję na 60.000 euro. Wszystko rzecz jasna dzieje się automatycznie - otwieramy pozycję, a z naszego depozytu automatycznie jest odliczana odpowiednia kaucja.</p>
+        <p xml:id="p-10">Bez dźwigni potrzebowałbyś bardzo dużego kapitału ażeby móc cokolwiek zarobić na forexie. Właśnie dzięki niej tak wiele ludzi decyduje się na przygodę właśnie z tym rynkiem kapitałowym. W końcu każdy może zaryzykować $100, podczas gdy tylko wybrani mogą ryzykować sumy rzędu $10.000</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

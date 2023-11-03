@@ -1,0 +1,17 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">— Wspólnie ze Stowarzyszeniem Tanecznym Jantar przygotowujecie Międzynarodowe Spotkania Taneczne POMOSTY. Co kryje się za tą nazwą?</p>
+        <p xml:id="p-2">— Historia naszych spotkań ma już kilkanaście lat. Początkowo uczestniczyli w nich wyłącznie tancerze i trenerzy z zaprzyjaźnionych z nami klubów, m.in. z Niemiec, Holandii i Włoch. Impreza, która odbywała się tuż przed wakacjami, była nie tylko okazją do sportowej rywalizacji, ale przede wszystkim do spotkań poza parkietem, rozmów i wymiany doświadczeń. Pięć lat temu zafunkcjonowała nazwa POMOSTY, gdyż organizowana przez nas impreza łączy ludzi z różnych państw, którzy mają podobne zainteresowania.</p>
+        <p xml:id="p-3">— Jednak w ubiegłym roku POMOSTY się nie odbyły. Dlaczego?</p>
+        <p xml:id="p-4">— Zrezygnowaliśmy z tej imprezy na rzecz Festiwalu Tańca Baltic Cup, który odbył się w listopadzie. Zorganizowanie dwóch tak kosztownych imprez byłoby bowiem trudne. Okazało się jednak, że Baltic Cup to przede wszystkim turniej dla najlepszych. A przecież wśród tancerzy są nie tylko sami mistrzowie. Postanowiliśmy więc powrócić w tym roku do POMOSTÓW. Tym bardziej że udało nam się uzyskać dofinansowanie m.in. z funduszy Euroregionu Bałtyk, Ministerstwa Kultury i Sztuki, Urzędu Miasta w Elblągu oraz z Fundacji Elbląg.</p>
+        <p xml:id="p-5">— Jakich atrakcji możemy się spodziewać podczas tegorocznych POMOSTÓW?</p>
+        <p xml:id="p-6">— Spotkania rozpoczną się 29 czerwca i potrwają do 2 lipca. Weźmie w nich udział ok 300 tancerzy, trenerów i dziennikarzy z Polski, Rosji, Litwy, Niemiec, Belgii i Holandii. Przewidujemy turnieje i warsztaty taneczne, seminaria dla trenerów i dziennikarzy. Będzie też spotkanie tanecznych rodzin i wiele innych atrakcji poza parkietem.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

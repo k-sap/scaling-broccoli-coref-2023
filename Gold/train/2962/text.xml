@@ -1,0 +1,20 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">I pewnego dnia stałaś się kobietą</p>
+        <p xml:id="p-2">Tak często chodziłaś ze spuszczoną głową niczym Bogini po przegranej bitwie. Obserwowałem Cię. Nie wiedziałem, dlaczego próbujesz mnie uświadomić, że jesteś Kobietą. Czyż nie wiedziałaś, Czarodziejko, że tajemnica Twej boskiej natury mogła cały czas na mnie spadać siecią Twego niekończącego się uroku ?</p>
+        <p xml:id="p-3">Dlaczego przy próbie otworzenia wrót niebieskich musimy zrozumieć, że jesteśmy tylko ludźmi?</p>
+        <p xml:id="p-4">Artyści pragną idei, którą bogowie podarują im na ziemi. Rozczarowani, zamieniają się w emocjonalnych tułaczy. Błądzą po depresjach i uniesieniach.</p>
+        <p xml:id="p-5">Nienawidzimy kompromisów, które los chce zawierać z indywidualistycznym podejściem do życia. Badamy kres ludzkiej wytrzymałości. Trawią nas: nieustanny ból i niepokój, które można uśmierzyć tylko alkoholem. Przeprowadzamy wiwisekcję swego sumienia. Żyjemy, by kochać bez opamiętania i cierpieć. Wszelkie instynkty zamierają. Żyjemy również po to, by w swej jedynej miłości – sztuce odmalować raj wykradziony bogom, przepełniony ich mrocznymi sekretami i zupełną czystością.</p>
+        <p xml:id="p-6">Ciała dwóch odwiecznych symboli świata są świętością, ołtarzami, mogącymi kreować najświętszą tajemnicę życia. Mogę jedynie śmiać się z istot, które poszukują, swymi pustymi oczodołami, taniej rozkoszy.</p>
+        <p xml:id="p-7">Jest też inna świętość. Niedostrzegalna.</p>
+        <p xml:id="p-8">Poczułem, jak staczam się z wierzchołka. Widziałem po drodze miłe, przytulne chatki, ostatnie oazy ratunku. Zaryzykowałem i skoczyłem.</p>
+        <p xml:id="p-9">„Czym jest wyzwanie miłości, jeśli nie jedną z największych obietnic, które daje się drugiemu człowiekowi?” – pytałaś.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

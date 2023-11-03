@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">sp0: takie jest prawo. takie jest prawo opozycji</p>
+        <p xml:id="p-2">sp2: natomiast. natomiast tutaj mówię bardzo. bardzo otwarcie. że te obchody. w związku z ta rocznicą. i sposób dialogu szalenie trudnego. z Rosją z naszym największym partnerem. wschodnim był właściwy. dlaczego tak wysoko został oceniony Putin ? no między innymi dlatego że. jego nie było. tutaj z wizytą oficjalną od. prawie ośmiu lat. gdy był tu jako prezydent. a są ludzie którzy na bliższym poznaniu zyskują są też tacy</p>
+        <p xml:id="p-3">sp0: tak to prawda</p>
+        <p xml:id="p-4">sp2: są też tacy. są też. są też tacy którzy tracą oczywiście taktycznie to zostało świetnie. dyplomacja rosyjska obok watykańskiej francuskiej i kilku innych jest. jest bardzo dobra. natomiast. y powiedzmy sobie jasno że ja jestem bardziej zaniepokojony pewnymi sygnałami i mówię to też jako poseł z Warmii i Mazur bo cała granica Polski z Rosją. dzisiaj. to jest granica dwieście dziesięć kilometrów Warmii i Mazur z obwodem kaliningradzkim jestem zaniepokojony pewnymi sygnałami. które. y. głównie płynącymi z obozu prezydenckiego i z Prawa i Sprawiedliwości. starają się tą wizytę i całe te uroczystości zdeprecjonować. jest takie stare rosyjskie powiedzenie w Polsce mało znane. co bardziej bardziej dokuczy tym bardziej nauczy. otóż. odnoszę wrażenie że ta. ten obóz polityczny szeroko rozumiany stara się. y trochę dokuczyć tym naszym partnerom rosyjskim. my się nigdy nie zgodzimy z Rosją i to było powiedziane jasno w tych różnych wystąpieniach. z zarzutami że my jesteśmy współodpowiedzialni za wybuch drugiej wojny światowej my się nie zgodzimy nigdy z porównaniem. zbrodni katyńskiej. ze śmiercią szesnastu tysięcy. y jeńców radzieckich w tysiąc dziewięćset dwudziestym roku bo oni bo oni</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

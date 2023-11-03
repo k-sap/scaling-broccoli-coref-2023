@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Biały dwór, kryty kłutym gontem modrzewiowym, stał na polanie jak na scenie, otoczony soczystozielonym "horyzontem" i kulisami lasu. Przy dworze stały zabudowania gospodarskie, ogród warzywny i sad, a przed gankiem leżał trawnik z biało-czerwonym klombem. W ogrodzie rosły kartofle, marchew, fasola, kapusta, w sadzie jabłka, śliwki, brzoskwinie (nigdy przedtem nie jadłam brzoskwiń) i zatrzęsienie wisien. W chlewie chowało się stadko świń, w oborze dwie mleczne krowy, kurnik dostarczał jaj, w sadzawce moczyły się kaczki i gęsi, z lasu przynosiło się kosze jagód, jeżyn, poziomek i grzybów, nie mówiąc o odstrzelanych zającach, sarnach czy dzikach. W spiżarni wisiały szynki i suszone myśliwskie kiełbasy, półki uginały się od konfitur i weków, w piwnicy trzymano kwas chlebowy, słodowe piwo własnej roboty, beczki kiszonych ogórków, w ulach dzień i noc wzbierał miód. Można było zasiać trochę żyta lub prosa i starodawnym zwyczajem ucierać je sobie na żarnach, żeby wcale nie wychylać się z lasu i nie pokazywać się nikomu. Wcale nie tak dużo pracy przy żarnach, kiedy potrzeba chleba tylko dla jednej rodziny.</p>
+        <p xml:id="p-2">Nadleśniczy nie nosił żadnego munduru, a bryczesy i buty z cholewami wkładał tylko, gdy musiał jechać na jakąś inspekcję, a nieczęsto musiał, bo miał adiunkta i dwóch leśniczych, którzy się co pewien czas do niego zgłaszali. Był pogodnym, zadowolonym z życia starszym panem o pokaźnej, ale nie nadmiernej tuszy i najchętniej chodził w rannych pantoflach albo sandałach. Prowadził rozmowy telefoniczne, naradzał się w gabinecie z adiunktem i leśniczymi, rano czytał gazety, a wieczorem słuchał zagranicznego radia, lecz najwięcej czasu spędzał z rodziną - na werandzie albo przy stole.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Jednak znaczenie postrzyżyn Siemowita jest inne, mniej złowieszcze. Same postrzyżyny były pogańskim obrzędem przejścia dziecka do świata dorosłych i nadania mu prawdziwego imienia. Zachował on zresztą swoje znaczenie jeszcze po przyjęciu chrześcijaństwa, bo wiemy, że dziecięce włosy Bolesława Chrobrego zostały jako szczególny dar przesłane do Rzymu. W Gallowej wersji legendy o początkach dynastii - rytu tego zamiast ojca dopełniają tajemniczy goście, co być może w prasłowiańskim systemie odniesień było pewną formą adopcji syna Piasta. Kronikarz wyraźnie schrystianizował tę ceremonię, aby pokazać, że dynastia w osobie pierwszego władcy Siemowita została wybrana i usynowiona przez Boga za pośrednictwem jego wysłanników. Motyw cudu podczas postrzyżyn pojawia się u Galla Anonima ponownie podczas biesiady, urządzonej w siódme urodziny Mieszka I. Wedle kronikarza jako dziecko Mieszko był ślepy, a wzrok odzyskał dopiero podczas uroczystości, którą można identyfikować właśnie jako postrzyżyny. Dziejopis ponownie wykorzystuje pogański obrzęd, aby zapowiedzieć przyjęcie chrześcijaństwa - bo jak Mieszko odzyskał wzrok, tak za jego sprawą wkrótce Polska przejrzy na oczy.</p>
+        <p xml:id="p-2">Inaczej potoczyły się losy rodu Popiela. Skończył nędznie, choć spektakularnie, wygnany i zagryziony przez myszy w drewnianej wieży pośrodku jeziora, które u Galla nie zostało jeszcze identyfikowane jako Gopło. Ale jest znamienne, że w kronice Anonima władca nie jest właściwie osobą całkowicie złą. Nie popełnia osobiście występku, bo bożych posłańców w gruncie rzeczy odpędzają mieszkańcy jego grodu. Trudno więc ocenić, za co spadają na niego kary - najpierw wygnanie, potem hańbiąca śmierć w paszczach myszy. Być może jakimś tropem dla interpretacji tej legendy są XII i XIII-wieczne niemieckie przekazy o pożarciu przez myszy okrutników. Ale u Galla Anonima władca nie jest jeszcze zbrodniarzem, możemy dopatrzyć się jedynie słabo zaznaczonego wątku pychy. Motyw okrucieństwa i zbrodni Popiela rozwija dopiero późniejsza tradycja. U Mistrza Wincentego, zwanego Kadłubkiem, jest on władcą słabym, gnuśnym i ulegającym podszeptom morderczej małżonki. Śmierć Popiela nabiera więc wymiaru moralnego, jest karą za jego występek.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

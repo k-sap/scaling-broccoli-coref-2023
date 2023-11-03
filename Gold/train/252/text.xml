@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Interes diabli wzięli!</p>
+        <p xml:id="p-2">Quos vult perdere – dementat! – co w przekładzie znaczy: Kogo chce zgubić, temu rozum odbiera!</p>
+        <p xml:id="p-3">Umarł Gustaw Herling-Grudziński. We śnie – on, który swe dzieło wywodził z bezsennego czuwania. Odszedł w nocy – on, który uważał, że prawda ludzkich doznań, namiętności i nadziei objawia się w czas walki światła z cieniem, „drżącego, konwulsyjnego niemal splotu tego, co widzialne i niewidzialne”; powtarzał za Pascalem: „Gdyby nie było ciemności, człowiek nie odczuwałby swego skażenia, a gdyby nie było światła, człowiek nie miałby nadziei uleczenia. Jest nie tylko słuszne, lecz użyteczne dla nas, że Bóg jest po części ukryty, a po części odsłonięty, gdyż dla człowieka równie jest niebezpieczne znać Boga, nie znając własnej nędzy, jak znać własną nędzę, nie znając Boga”. Widziałem go pod koniec maja: miał oczy podkrążone bardziej niż kiedykolwiek, po przejściu paru kroków opierał się ciężko na lasce i pochylając głowę, wsłuchiwał się – zniecierpliwiony – w swe ciało. Odszedł, bo się zmęczył.</p>
+        <p xml:id="p-4">Dziś w nocy przeczytałem w dziale opinii i komentarzy www.onet.pl, że Książę Niezłomny , że znów – po księdzu Józefie Tischnerze – „zabrakło kogoś wielkiego” i że„manicheizm Herlinga ocierał się o herezję, jednak jej uniknął, podobnie jak filozofia księdza Tischnera (...) Wielki człowiek, pozostanie wzorem honoru i godności, człowiek o wielkiej wierze w Boga, nie negujący istnienia Szatana. Wzór”. Jutro rano nie kupię gazet, bo nie ma nic gorszego niż płaczki z pretensjami.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

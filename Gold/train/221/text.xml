@@ -1,0 +1,21 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Kilkanaście dni temu, po interwencjach mieszkańców, strażnicy miejscy ogrodzili skarpę taśmą zabezpieczającą. Na wszelki wpadek ustawiono tablicę informującą o zakazie wchodzenia na teren wyrobiska. Strażnicy zdają sobie sprawę, że fizyczne zabezpieczenie tego terenu jest niemożliwe.</p>
+        <p xml:id="p-2">- Przecież nie będziemy tam stali 24 godziny na dobę i patrzyli, czy ktoś wchodzi - mówią.</p>
+        <p xml:id="p-3">Strażnicy bardzo często obserwują teren wykopów.</p>
+        <p xml:id="p-4">- Nie chcielibyśmy, aby powtórzyła się sytuacja sprzed 12 lat - mówi Osiowy. - Bardzo dużo zależy jednak też od samych rodziców, którzy powinni bardziej pilnować swoich pociech i przede wszystkim mówić im o niebezpieczeństwie.</p>
+        <p xml:id="p-5">Nie wszyscy jednak są zadowoleni z zabezpieczenia. Już dwa dni po ogrodzeniu terenu ktoś zerwał taśmy. Zniknął również znak informujący o zakazie wchodzenia. Teraz są już nowe taśmy i tablica.</p>
+        <p xml:id="p-6">- Jest to swoisty wandalizm - mówi Narcyz Osiowy. - Będziemy się starali sprawdzić komu przeszkadzały zabezpieczenia.</p>
+        <p xml:id="p-7">Nie dość, że jest to niebezpieczny teren i grozi przysypaniem to na dodatek ktoś zabrał znak - mówi Krzysztof Kuc, miastecki strażnik miejski.</p>
+        <p xml:id="p-8">Wyrównamy teren</p>
+        <p xml:id="p-9">Jan Ponulak burmistrz Miastka</p>
+        <p xml:id="p-10">- Z tego co mi wiadomo jest to niebezpieczny teren po byłej cegielni i dlatego ze względów bezpieczeństwa postaramy się o wygładzenie i wyrównanie skarpy oraz o odpowiednie ogrodzenie terenu wyrobiska. Ustawiono tam również znak informujący, z tego co mi wiadomo został o już stamtąd zabrany. Z pewnością wyjaśnimy to zajście.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

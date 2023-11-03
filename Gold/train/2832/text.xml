@@ -1,0 +1,19 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Kształcił się pod kierunkiem tak wybitnych pedagogów i muzyków jak Paola Girardi, Franco Gallini, Antonio Eros Negri, Piero Bellugi, Donato Renzetti, Ilya Musin, Myung-Whun Chung, Yurij Temirkanov i Ervin Acél.</p>
+        <p xml:id="p-2">Od 1993 roku jest I dyrygentem Orkiestry Kameralnej Milano Classica, a od 1999 roku jest dyrektorem artystycznym Musica in Valle (Festiwal w Tregnago, Werona). Kierownik artystyczny i dyrygent Śląskiej Orkiestry Kameralnej.</p>
+        <p xml:id="p-3">W roku 1993 zwyciężył w III Międzynarodowym Konkursie im. Dino Niculescu w Brasov (Rumunia) a w 1999 roku zdobył I nagrodę na VI Międzynarodowym Konkursie Dyrygentów im. Grzegorza Fitelberga w Katowicach (Polska).</p>
+        <p xml:id="p-4">Występował w salach koncertowych Wiednia, Linzu, St. Petersburga, Amsterdamu, Warszawy, Krakowa, Katowic, Białegostoku i Badajoz.</p>
+        <p xml:id="p-5">W 2001 roku wziął udział w IX edycji koncertu Boże Narodzenie w Watykanie (audytorium Pawła VI) a w 2002 roku rozpoczął współpracę z kanadyjską artystką Natalie Choquette (sopran), która rozpoczęła się jej recitalem.</p>
+        <p xml:id="p-6">W ostatnim czasie Massimiliano Caldi nagrał płytę CD Concertos - Symphonies</p>
+        <p xml:id="p-7">Alessandro Rolla z Orkiestrą Kameralną Milano Classica (wytwórnia Dynamic).</p>
+        <p xml:id="p-8">W listopadzie 2006 r. poprowadził w Rybniku niezapomniany koncert poświęcony pamięci tragicznie zmarłym górnikom z kopalni Halemba. Wówczas to, pod jego batutą Orkiestra Symfoniczna Szkoły Szafranków wykonała m.in. IX Symfonię z Nowego Świata A. Dworaka. Poruszające wykonanie tego pięknego ale niezwykle wymagającego arcydzieła na długo pozostało w pamięci rybnickich melomanów.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

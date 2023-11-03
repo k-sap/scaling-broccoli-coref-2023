@@ -1,0 +1,14 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Regulacje prawne</p>
+        <p xml:id="p-2">Rynek kredytów hipotecznych w Danii jest nadzorowany poprzez podległą Ministerstwu Finansów Duńską Agencję Nadzoru Finansowego (duń. Finanstilsynet , ang. Danish Financial Supervisory Authority , DFSA ). Banki hipoteczne w Danii mogą według prawa zajmować się tylko udzielaniem pożyczek hipotecznych. Wszystkie inne formy działalności, takie jak: bankowość, ubezpieczenia, zarządzanie aktywami muszą być wykonywane przez spółki zależne (ang. subsidiaries ). Prawo zobowiązuje banki do finansowania pożyczek hipotecznych tylko poprzez emisję papierów dłużnych (i na odwrót: papiery mogą być emitowane tylko w celu finansowania pożyczek). Regulacje nakładają na banki obowiązek przestrzegania reguły "bilansu" , która to, praktycznie nie zmieniona od 1850 roku, stanowi kręgosłup duńskiego systemu kredytów hipotecznych eliminując ryzyka płynności, stopy procentowej, walutowe, dojrzałości oraz wcześniejszej spłaty a pozostawiając jedynie ograniczone ryzyko kredytowe.</p>
+        <p xml:id="p-3">Ryzyko stóp procentowych może wynosić najwyżej 1% bazy kapitałowej i jest wyliczane jako najgorszy z sześciu określonych scenariuszy. Ryzyko walutowe może wynosić najwyżej 0, 1% bazy kapitałowej licząc metodą wartości zagrożonej (ang. Va. R , Value-at-risk ). Drugą fundamentalną zasadą jest zasada pierwszeństwa w ściąganiu wierzytelności dla posiadaczy hipotecznych listów (inwestorów), w przypadku utraty płynności banku hipotecznego. Prawo duńskie daje wierzycielom duże możliwości w zakresie ściągania wierzytelności w przypadku bankructwa osoby prywatnej zarówno pod względem mniejszych ograniczeń prawnych jak i czasu na dochodzenie praw. Proces zmiany właściciela zadłużonej nieruchomości wynosi mniej niż sześć miesięcy; dla porównania we Francji trwa on kilka lat.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

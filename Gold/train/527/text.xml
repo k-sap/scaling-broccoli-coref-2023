@@ -1,0 +1,14 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Przyszłość tego, co zostało z aktywów Funduszu św. Jerzego, na razie nie jest jasna. Takiego zdania jest przynajmniej część jego udziałowców. Jarosław Włosek oddał 300 zebranych przez siebie świadectw funduszowi. - Ja jako zwykły akcjonariusz nie mam nic do powiedzenia. Straciłem kontrolę nad pieniędzmi, które tam włożyłem - ocenia. Kontroli nad finansami spółki nie ma również Maria Książek. - Jeżdżę na te walne zgromadzenia, ale bilansu jeszcze nie widziałam. Obiecali, że wyślą, no więc czekam. Prezes Suszek dziwi się temu bardzo: - Przecież każdy dostał uproszczoną informację bilansową. O, proszę - wskazuje na rubryczkę w dokumencie. - W ostatnim roku mieliśmy 99 tys. zł zysku. W informacji bilansowej prezes przeoczył jednak zastrzeżenie, że wynik finansowy podlega korekcie in minus o 551 tys. zł oraz że zmiana środków pieniężnych netto wynosi niemal 30 tys. zł.</p>
+        <p xml:id="p-2">W sumie prof. Biela jest jednak zadowolony, bo jego zdaniem fundusz zaczyna spełniać swoją misję. - Coraz bardziej przechodzi z gospodarowania kapitałem na zasadzie spekulacji giełdowej do inwestowania w prawdziwe życie gospodarcze. Sęk w tym, że mało kto pojmuje taką mowę. - Oni udzielają jakichś kredytów, założyli jakieś sklepy, ja za bardzo się nie orientuję, co tam się dzieje - rozkłada ręce udziałowiec funduszu Halina Szustak.</p>
+        <p xml:id="p-3">Częściową odpowiedź na to pytanie odnajdujemy w informacji dodatkowej do sprawozdania finansowego za zeszły rok. Od czerwca zarząd Funduszu św. Jerzego rozpoczął udzielanie "pożyczek dla drobnych przedsiębiorców". Do grudnia poszło na ten cel niemal pół miliona złotych, czyli prawie 20 proc. kapitału własnego spółki. Kto otrzymał te pożyczki - tego prezes Suszek zdradzić nie chciał. Bardziej rozmowny był prof. Biela.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

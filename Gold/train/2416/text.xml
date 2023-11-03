@@ -1,0 +1,17 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Marian Grochowski z Jaworzna od roku usiłuje wyjaśnić, skąd wzięło się jego zadłużenie wobec UPC Telewizji Kablowej. Biuro Obsługi Klienta w Katowicach nie ma jego nazwiska w ewidencji, a jednocześnie firma windykacyjna straszy Mariana Grochowskiego sądem.</p>
+        <p xml:id="p-2">Swoją pierwszą umowę z telewizją kablową Marian Grochowski podpisał w 1994 roku. Potem wyjechał i zawiesił umowę. – Po powrocie w 1997 r. chciałem ponownie skorzystać z usług firmy, ale powiedzieli mi, że będę musiał za to zapłacić 98 zł, jak za nowe przyłączenie. Nie rozumiałem, dlaczego, skoro wszystkie przewody i kable miałem już zamontowane? Nie zdecydowałem się więc na taką propozycję – opowiada nasz Czytelnik.</p>
+        <p xml:id="p-3">Dopiero w 1998 roku, gdy była promocja i zwolnienie z opłat, nową umowę podpisała żona pana Mariana. Przy okazji znaleziono 16,80 zł zaległych należności i podłączenie uzależniono od ich zapłacenia.</p>
+        <p xml:id="p-4">– Żona to uregulowała i od końca sierpnia 1998 r. mieliśmy sygnał z sieci kablowej. Abonament płaciłem regularnie co miesiąc bez października, w którym zgodnie z promocją usługa dostarczana była bezpłatnie – mówi Marian Grochowski.</p>
+        <p xml:id="p-5">– Rezygnację złożyłem pod koniec lutego. Od początku roku poszedł w górę abonament – tłumaczy przyczyny rezygnacji nasz Czytelnik. – Wolałem kupić antenę satelitarną – dodaje.</p>
+        <p xml:id="p-6">W październiku 2001 r., kilka miesięcy po rozwiązaniu umowy, przyszło z działu windykacji w Katowicach wezwanie do zapłaty zaległości. – Odpowiedziałem im po raz kolejny, że nie mam żadnego zadłużenia i na potwierdzenie mam dowody wpłaty – skarży się nasz Czytelnik.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

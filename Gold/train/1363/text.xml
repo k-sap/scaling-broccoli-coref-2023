@@ -1,0 +1,14 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Na spotkanie fal mroku wstają z bagien inne, białawe, przejrzyste, ledwo-ledwo widzialne, czołgają się smugami, kłębami okręcają się dokoła zarośli, dygocą i miętoszą ponad wód powierzchnią. Zimny powiew wilgoci mięsi je, tłucze po dnie doliny, rozciąga na płask jak postaw zgrzebnego płótna.</p>
+        <p xml:id="p-2">- Mgła idzie... - szepce Walkowa.</p>
+        <p xml:id="p-3">Jest to ta chwila zmierzchu, kiedy wszystkie kształty widoczne zdają się rozsypywać w proch i nicość, kiedy rozlewa się nad powierzchnią gruntu szara próżnia, zagląda w oczy i uciska serce jakąś nieznaną zgryzotą. Walkową strach ogarnia. Włosy jeżą jej się na głowie i mrowie przechodzi po skórze. Mgły idą jak żywe ciała, podpełzają do niej chyłkiem, zabiegają z tyłu, cofają się, czają i znowu ławą suną coraz natarczywiej. Kładą na niej wreszcie wilgotne swe ręce, wsiąkają w ciało aż do kości, drapią w gardzieli i łechcą w piersiach. Wtedy przypomina jej się jej dziecko. Od południa go nie widziała: śpi samo jedno w zamkniętej izbie, w kolebce lipowej zawieszonej u stragarza na brzozowych wiciach. Płacze tam pewno, zachłysta się, łka... Matka słyszy ten płacz przedziwny, żałosny jak pisk kani na pustkowiu. Rozlega on się w jej uszach, nęka jakieś jedno miejsce w mózgu i drażni w sercu. Przez cały dzień nie myślała o nim, bo twarda robota rozprasza wszelkie myśli, unicestwia je prawie i mąci, ale teraz strach wieczorny zniewala ją do skupienia się, zaczepiania myślami o tę kruszynę...</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

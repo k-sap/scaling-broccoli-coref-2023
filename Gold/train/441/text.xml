@@ -1,0 +1,19 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">GOŚKA: Mogę posłuchać o czymś innym niż praca, tak? Bo od dziesięciu lat pracuję non stop. I wolna chwila to dla mnie luksus.</p>
+        <p xml:id="p-2">KASIA: To korzystaj, misiu. Korzystaj!</p>
+        <p xml:id="p-3">GOŚKA: Korzystam, tak? To moje pierwsze prawdziwe wakacje od wielu lat. Robiłam sobie jakieś przerwy, krótkie wyjazdy, ale nawet do urlopów podchodziłam zadaniowo. Zrobić, wykonać, na nartach pojeździć, tak? Nauczyć się nurkowania. Nie pamiętam momentu, żebym poczuła luz, żebym się rozleniwiła, nacieszyła chwilą. Zawsze byłam krok do przodu, planując, co będzie dalej.</p>
+        <p xml:id="p-4">KASIA: Żyłaś ciągle w planach.</p>
+        <p xml:id="p-5">GOŚKA: Tak. Aż do pewnego momentu. Kilka miesięcy temu wylądowałam w szpitalu. Wtedy powiedziałam sobie: "Stop". Poszłam do psychologa i zaczęłam pracę nad sobą, bardzo intensywną, tak?</p>
+        <p xml:id="p-6">KASIA: Skorzystałaś z doświadczenia. Usłyszałaś to "Stop". Możesz powiedzieć swojemu mądremu organizmowi i swojej główce: "Dziękuję ci". Powiedziałaś?</p>
+        <p xml:id="p-7">GOŚKA: Nie, nie czułam tego. Byłam zła na siebie.</p>
+        <p xml:id="p-8">KASIA: Nie dość, że byłaś w złym stanie, to jeszcze dokładałaś sobie. Często tak robimy. Znacie to? Nie lubimy siebie, więc sobie dowalamy. A dlaczego? Pamiętam, kiedyś wywróciłam się przy Ø mamie na spacerze i bolała mnie noga. Co usłyszałam?</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

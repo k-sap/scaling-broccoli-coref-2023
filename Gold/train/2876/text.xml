@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Od Nuakszott do Luandy</p>
+        <p xml:id="p-2">Tygodnie, miesiące, lata — codzienne, a raczej conocne napaści piratów zdarzały się już nie tylko w środkowej strefie zachodniego wybrzeża Czarnego Lądu, notowane były również na północy i południu tego wielkiego kontynetu. Na redzie mauretańskiej stolicy Nuakszott dochodziło, nawet do mordowania załóg statków; taki los spotkał między innymi rybaków portugalskich z kutra "Portosenta". U brzegów Liberii z kolei aż trzysta czarnych piratów dokonało ze swych piróg abordażu włoskiego statku "Luisita Croce", który następnie splądrowano, pozostawiając goły niemal kadłub i związaną załogę. Na szczęście dryfującą jednostkę napotkał statek brytyjski, którego marynarze uwolnili słaniających się z głodu i wycieńczenia swych kolegów. Przypadki redowego piractwa odnotowano także w senegalskim Dakarze, gwinejskiej Conakry i kameruńskiej Duali, a na południu Afryki również na redzie zairskiego portu Matadi i angolskiej stolicy — Luandy. Coraz uciążliwsze i brutalniejsze wobec marynarzy napaści były jednocześnie coraz kosztowniejsze dla amatorów i towarzystw ubezpieczeniowych. Budziło to w świecie biznesu i morskiego handlu zrozumiałe oburzenie, odrazę i… rosnące zniecierpliwienie. Gazety i czasopisma, a także radiowe i telewizyjne stacje — zwłaszcza europejskie — coraz częściej zamieszczały cierpkie artykuły i komentarze podające w wątpliwość lojalność krajów, na których wodach dochodziło do rozbojów wobec handlowych partnerów oraz podkreślające indolencję władz, nieumiejętność przeciwdziałania pirackim akcjom. "Jak długo jeszcze przyjdzie nam tolerować strzelaninę i conocne bijatyki na statkach oraz krwawe łaźnie urządzane marynarzom handlowej floty przez pozbawionych wszelkich skrupułów kryminalistów" — pisał we wrześniu 1979 roku poważny i zazwyczaj powściągliwy w słowach londyński Financial Times.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

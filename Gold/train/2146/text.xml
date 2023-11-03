@@ -1,0 +1,16 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Komentarze zgodne z bieżącą tendencją pisane są zgodnie z założeniem, że na rynku występuje trend. Taki komentarz ma więc największe prawdopodobieństwo sprawdzenia się. Po uzyskaniu wiarygodności wśród inwestorów można realizować własne ukryte cele, namawiając ich do kupna lub sprzedaży określonych lub dowolnych walorów.</p>
+        <p xml:id="p-2">Wystarczy, że rynek zacznie tylko trochę iść do góry, a zaraz słychać komentarze: "Duzi inwestorzy zagraniczni kupują" czy "Napłynęły pieniądze z zagranicy". Oczywiście to przeważnie nieprawda, ale polscy inwestorzy lubią, gdy na naszej giełdzie pojawia się kapitał zagraniczny, i jest to wykorzystywane w komentarzach.</p>
+        <p xml:id="p-3">Prognozy wyników</p>
+        <p xml:id="p-4">Od jakiegoś czasu media próbują manipulować danymi makroekonomicznymi. Ponieważ podawanych liczb nie mogą zmienić, próbują zmienić wzorzec, do którego wartości te są porównywane. Przedtem porównywało się dane bieżące z danymi sprzed miesiąca i danymi sprzed roku. I można było wyciągnąć prawidłowe wnioski na temat tego, czy dany współczynnik rośnie, czy maleje. Porównywanie do danych sprzed roku eliminuje sezonowość, która może wystąpić w ciągu roku.</p>
+        <p xml:id="p-5">Teraz pojawiła się nowa moda: porównywanie bieżących danych do oczekiwań analityków. Oczywiście nie wiemy, jakich analityków; nie wiemy też, dlaczego oni akurat tyle oczekują. Cóż za wspaniałe narzędzie do manipulacji! Wystarczy tylko ustalić odpowiednie oczekiwana analityków i mamy pożądany skutek. Jeśli bieżąca wartość wskaźnika jest gorsza niż przed rokiem, a chcemy, by zostało to odebrane pozytywnie, to obniżamy oczekiwania analityków. I teraz możemy powiedzieć, że, owszem, jest trochę gorzej, ale spodziewaliśmy się, że będzie znacznie gorzej. Inwestorzy oddychają z ulgą i pomimo złych danych giełdy rosną.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

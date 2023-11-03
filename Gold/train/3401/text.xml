@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Kontrolerka</p>
+        <p xml:id="p-2">Agata Kalińska-Moc siedziała przed telewizorem jak prawie 3 mln innych Polaków, gdy Aneta Krawczyk, była działaczka Samoobrony, w programie "Teraz my!" pokazywała twarz i nazwisko. Oglądalność była rekordowa. Główna bohaterka sprawiała wrażenie konkretnej, chłodnej i pewnej siebie. Ale opowiadała, że ojcem jej najmłodszego dziecka jest poseł, a inny działacz próbował usunąć jej ciążę za pomocą zastrzyku. Kalińska-Moc myślała wówczas tak: oto jakaś kobieta publicznie popełnia cywilne samobójstwo. Zadzwoniła do niej.</p>
+        <p xml:id="p-3">Ta kobieta, która następnego dnia stanęła w drzwiach jej łódzkiej kancelarii, była już całkiem inną osobą. Przerażoną, wyklętą przez rodzinę, bez pracy. Było jasne, że adwokatka poprowadzi ten proces bez wynagrodzenia.Szybko okazało się, że zamiast jednej sprawy sądowej jest osiem. Główna - o molestowanie i kilka pobocznych. - Wzięłam się za to ze współczucia - opowiada. - Ale i z poczucia misji zawodowej. Niezmiernie rzadko zdarza się bowiem, by ktoś miał odwagę zeznawać w podobnym przypadku. Odwagę straceńczą, ale być może zaraźliwą. Bo może ośmielić inne kobiety. A i jakoś pomóc zmienić krzywdzące dla ofiar poczucie społecznej normy.</p>
+        <p xml:id="p-4">W prowadzeniu tak pomyślanej misji media były niezbędne. Rolą adwokatki, mówi, było rozegrać z nimi rzecz tak, by oszczędziły klientkę. Tłumaczy: zdawała sobie sprawę, że media będą polować na emocje, zwierzenia, konfrontacje na wizji. A nade wszystko - na seks, bo to przecież sprzedaje się najlepiej. Postawiła warunek: odtąd była działaczka Samoobrony nie udziela wywiadów. Pod rygorem zerwania współpracy. Jej adwokacka strategia: godzi się komentować dla mediów kwestie prawne, odnosić się do zarzutów przeciwników, ale żadnych spotkań z drugą stroną na wizji. Żadnych emocji.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

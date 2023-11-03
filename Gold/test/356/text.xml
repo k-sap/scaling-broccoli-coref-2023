@@ -1,0 +1,25 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">3. Sekret trzeci: Sukces jest wiarą</p>
+        <p xml:id="p-2">4. Sekret czwarty: Trzeba robić więcej</p>
+        <p xml:id="p-3">5. Sekret piąty: Trzeba żyć optymizmem</p>
+        <p xml:id="p-4">6. Sekret szósty: Podstawą jest kontrola</p>
+        <p xml:id="p-5">7. Sekret siódmy: Potęgą jest nauka</p>
+        <p xml:id="p-6">8. Sekret ósmy: Trzeba korzystać z nawyku</p>
+        <p xml:id="p-7">Sekret pierwszy: Trzeba mieć cel</p>
+        <p xml:id="p-8">Jeśli chcesz siać na dni, siej kwiaty. Jeśli chcesz siać na lata, sadź drzewa. Jeśli chcesz siać na wieczność, zasiewaj idee!</p>
+        <p xml:id="p-9">(Klucze do Sukcesu, 1998, s. 12)</p>
+        <p xml:id="p-10">Wszystko zaczyna się od idei, myśli czy celu. W filozofii sukcesu stworzonej przez Napoleona Hilla pojęcie "precyzji celu" zajmuje czołowe miejsce. Precyzja celu to spisana i odpowiednio sformułowana myśl czy idea, to "punkt wyjściowy każdego dokonania" (s. 11), to początek każdego działania, to zdolność precyzyjnego myślenia wąskiej grupy wizjonerów, to pierwszy i najważniejszy krok do sukcesu.</p>
+        <p xml:id="p-11">Zgodnie z teorią 2/98 jedynie 2% ludzi obdarzonych jest umiejętnością dokładnego i precyzyjnego określania swoich celów życiowych. Oznacza to, iż jedynie 2% wie tak naprawdę, dokąd zmierza. Aby móc zacząć działać i odnosić sukcesy, trzeba mieć cel - to podstawowa koncepcja sukcesu - i pragnąć go osiągnąć (a nie tylko chcieć) - to podstawowy sposób osiągania sukcesu.</p>
+        <p xml:id="p-12">Co da Ci precyzja celu?</p>
+        <p xml:id="p-13">• dokładną informację o tym, co chcesz osiągnąć</p>
+        <p xml:id="p-14">• możliwość specjalizacji w tym, do czego zmierzasz</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

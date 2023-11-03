@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">W 1965 r. ożenił się po raz drugi. Znacznie młodsza od niego żona Elżbieta, krakowianka, studiowała fizykę na Uniwersytecie Jagiellońskim. Jak mówi, ich pierwsze wspólne mieszkanie na trzecim piętrze domu w Dębicy zmieściłoby się w salonie dworku, w którym mieszkają dzisiaj.</p>
+        <p xml:id="p-2">Elżbieta Penderecka jako dziewczynka uczyła się gry na fortepianie, a na lekcje chodziła do pierwszej żony swojego przyszłego męża. Krzysztof Penderecki czasem otwierał jej drzwi. Był duży, brodaty, wydawał się jej groźny i niezbyt sympatyczny. Potem, kiedy wydoroślała, spotkała go na wakacjach nad morzem. Unikała spotkań z nim, ale fascynacja w końcu zwyciężyła. Pobrali się i wyjechali razem do Essen (Penderecki miał tam wykładać). Pani Elżbieta marzyła o fizyce jądrowej i ciszy laboratorium, ale poświęciła się karierze męża. Mają dwójkę dzieci. Syn Łukasz skończył polonistykę i medycynę, a córka Dominika mimo dużego talentu muzycznego zrezygnowała z muzyki i skończyła italianistykę. Beata, córka kompozytora z pierwszego małżeństwa, absolwentka Akademii Muzycznej w klasie fortepianu i teorii, jest redaktorem w Radiu Kraków.</p>
+        <p xml:id="p-3">Elżbieta Penderecka niemal od początku małżeństwa prowadziła mężowi biuro, organizowała koncerty, negocjowała kontrakty, pomagała w rozpisywaniu partytur, dbała o kontakty z mediami, śledziła opinie krytyków. Do dziś kupuje mu koszule i garnitury, a także pakuje i przepakowuje go między wyjazdami. Podróże zajmują im dziesięć miesięcy w roku.</p>
+        <p xml:id="p-4">Jak twierdzi, stanie w cieniu tak wielkiego człowieka jak jej mąż nigdy nie było dla niej problemem. Będąc żoną Pendereckiego miała szczęście i zaszczyt poznać wielkich artystów takich jak Dymitr Szostakowicz, Artur Rubinstein, Salvador Dali czy Marc Chagall.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

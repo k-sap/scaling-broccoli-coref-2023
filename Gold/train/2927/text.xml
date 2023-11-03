@@ -1,0 +1,19 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Anka zatrzymuje się i mówi głosem na jednym tonie, pozbawionym jakichkolwiek emocji: - Boże mój, twój sługa wziął mnie siłą, począł ze mną syna, zabrał mi go, a teraz powiada, żem czarownica, a mój syn z diabłem. Chce mnie spalić. Nie dopuść, Panie, do śmierci niewinnej, bo wyrzeknę się Ciebie! Płonę. Nie czuję ognia, bo we mnie są płomienie. Nie wszystka umrę, w waszych córkach żyć będę, oprawcy moi.</p>
+        <p xml:id="p-2">Sanitariusze chichoczą. Anka podnosi głowę, patrzy - wszystkie okna otwarte. W jednym z nich stoi Jan Boloński w białym fartuchu.</p>
+        <p xml:id="p-3">Anka znów odzywa się beznamiętnym głosem: - Jasiu, synku...</p>
+        <p xml:id="p-4">Teraz sanitariusze również spoglądają w górę. Wszystkie okna w bloku są zamknięte, nikogo nie widać. Patrzą na siebie porozumiewawczo i wchodzą do budynku.</p>
+        <p xml:id="p-5">W mieszkaniu do wynajęcia poważna, skromna dziewczyna z początku filmu. Jan usiłuje ją rozbawić, ale ona tylko uśmiecha się krzywo. Gospodarz jeszcze upewnia się, czy nowa lokatorka nie pali. Powtarza te same kwestie o mamuśce uczulonej na dym. W końcu wynajmuje mieszkanie na rok, płatne z góry; mały pokój na pozostać zamknięty, bo gospodarz trzyma tam pamiątki rodzinne. Nagle słychać jakiś łoskot.</p>
+        <p xml:id="p-6">- Wierzy pani w duchy?</p>
+        <p xml:id="p-7">- Oczywiście!</p>
+        <p xml:id="p-8">Jan rozkłada umowę. Dziewczyna wyjmuje małe radio i "Nasz Dziennik". Jan patrzy na gazetę, uśmiecha się. Przygląda się też dziewczynie, która podpisuje umowę. Wstaje i na wierzchu otwartej torebki dziewczyny zauważa zapalniczkę i papierosy. Poważnieje, jest wyraźnie smutny i zawiedziony. Wychodzi przed blok, gdzie rozmawia z inną kobietą.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

@@ -1,0 +1,12 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Tracimy zainteresowanie reklamą telewizyjną - wynika z najnowszego sondażu Ipsos-ASI (dawniej Demoskop). Ipsos od 10 lat pyta Polaków, co robią w czasie emisji telewizyjnych bloków reklamowych. Jeśli w 1995 r. 17 proc. osób odpowiadało, że uważnie je ogląda, to w bieżącym taką deklarację złożyło już tylko 7 proc. Ø, z czego zaledwie 4 proc. przyznało, że robi to z zainteresowaniem. Rośnie za to gwałtownie odsetek osób, które w tym czasie szukają czegoś ciekawszego w innych programach. Skakanie po kanałach, zwane zappingiem, uprawia już prawie połowa telewidzów. Przed reklamami bronią się tak najczęściej mężczyźni (55 proc.), osoby z wyższym wykształceniem (63 proc.) oraz ludzie młodzi (63 proc.). Sprzyja temu powszechne korzystanie z telewizorów sterowanych pilotem, a także powiększająca się liczba kanałów. Nie bez znaczenia jest też marny poziom reklam, które u starszych telewidzów budzą najczęściej znudzenie (42 proc.), a u młodych irytację (36 proc.). Co gorsza, reklam jest coraz więcej. W ciągu ostatnich trzech lat liczba firm korzystających z tej formy reklamy wzrosła o ok. 30 proc. Na dodatek niektóre stacje (np. Polsat) stosują metodę sprzedawania nie czasu antenowego, ale publiczności. Obiecują optymistycznie, że reklamę obejrzy duża liczba osób, co wobec rosnącego oporu widowni staje się trudne do zrealizowania. Żeby wywiązać się ze zobowiązania, muszą więc powtarzać reklamy wielokrotnie powiększając grono skłonnych do ucieczki widzów.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

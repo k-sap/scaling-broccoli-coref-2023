@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">4.2.6. Ekoturystyka w Krainie Czyngis-chana</p>
+        <p xml:id="p-2">Podczas Szczytu Ziemi w Rio de Janeiro przedstawiciele władz Mongolii zaproponowali, aby całemu terytorium tego państwa nadać statut rezerwatu biosfery. Zobowiązali się również do sukcesywnego poszerzania sieci obszarów chronionych. W ten sposób mieszkańcy "Krainy Czyngis-chana" postanowili zademonstrować swój czynny udział w realizacji Programu WWF "Global 200" oraz towarzyszącej mu kampanii międzynarodowej pn. "Żyjąca Planeta". Wykazali się przy okazji żywym zaangażowaniem w sprawy ochrony środowiska oraz dumą ze swojego bogactwa przyrodniczego.</p>
+        <p xml:id="p-3">Mongolia jest jednym z najbardziej pustych, dziewiczych, w najmniejszym stopniu tkniętych ludzką ręką zakątków świata. Dodatkową charakterystyczną cechą środowiska naturalnego jest wysoka różnorodność biologiczna i krajobrazowa. Kraj leży "na rozdrożach" czterech bardzo odmiennych stref naturalnych Azji Centralnej. Na mongolskim terytorium zbiegają się granice syberyjskiej tajgi, stepu wschodnioazjatyckiego, gór Ałtaju i pustyni Gobi. Niewielkie uprzemysłowienie kraju i niska gęstość zaludnienia (1,3 osoby na km2) nie są jedynymi czynnikami decydującymi o doskonałej "kondycji" mongolskiej przyrody. Przyczynił się do tego również w znacznym stopniu tradycyjny, przyjazny dla środowiska styl życia koczowników - głęboki szacunek i cześć oddawane Ziemi, zwierzętom, wszystkiemu co żyje, a także przekazywana z pokolenia na pokolenia wiara we wzajemne życiodajne zależności pomiędzy człowiekiem a przyrodą.</p>
+        <p xml:id="p-4">W Mongolii istnieją doskonałe warunki do realizacji zintegrowanego modelu ekorozwoju, opartego zarówno na tradycyjnej wiedzy mongolskich koczowników, jak i na osiągnięciach współczesnej nauki i techniki.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

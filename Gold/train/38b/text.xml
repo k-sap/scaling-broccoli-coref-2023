@@ -1,0 +1,14 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Szkocki matematyk John Napier, wynalazca logarytmów, stwierdził kiedyś: "Życie jest za krótkie, żeby grać w szachy, ale to wina życia, a nie Ø szachów". Grywali w nie królowie, książęta i wodzowie, a już wkrótce szachy mogą stać się obowiązkowym przedmiotem w szkołach (str. 3). Dr Robert Ferguson, psycholog dziecięcy, zbadał zależność między grą w szachy a wynikami osiąganymi w szkołach. W jednej z podstawówek w Bradford (Pensylwania) podzielił dzieci na trzy grupy: Ø uczące się gry w szachy, Ø rozwiązujące zagadnienia przy użyciu komputera i Ø bawiące się w gry fantasy. Każda z grup miała tyle samo zajęć, dzieci spotykały się raz w tygodniu przez 8 miesięcy.</p>
+        <p xml:id="p-2">U tych Ø, które brały udział w zajęciach szachowych, umiejętność logicznego myślenia poprawiła się o ponad 17 proc. Wśród uczestników zajęć z informatyki umiejętności te poprawiły się o 5 proc. Wyniki gier fantasy znalazły się poniżej błędu statystycznego.</p>
+        <p xml:id="p-3">Nie mieliśmy nigdy arcymistrzów tej klasy, co Michaił Botwinnik, Tigran Petrosjan, Borys Spasski, Bobby Fischer, Anatolij Karpow i Garri Kasparow. Mała 3-milionowa Armenia, w której w szachy grają wszyscy, od dziecka w przedszkolu po prezydenta kraju, daje wystarczające świadectwo korzyści płynących z wprowadzenia szachów do programów szkolnych. Ormianie wygrywają nie tylko olimpiady szachowe, ale i Ø matematyczne. Boję się, że gdy już obywatelski komitet zbierze 100 tys. podpisów, resort edukacji uczyni z szachów "zajęcia programowe".</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

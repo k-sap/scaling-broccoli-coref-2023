@@ -1,0 +1,12 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Komisja kontrolna powołana przez Radę Gminy w Brzeźnicy sprawdzi, czy strażacy z Ochotniczej Straży Pożarnej „nie podbierali z gminnej cukierniczki” – poinformował nas wczoraj Józef Momot, wójt Brzeźnicy. Chodzi o wykorzystanie pieniędzy na tak zwaną gotowość bojową, które gmina przeznacza w formie dotacji dla ochotniczych straży. – Mamy podejrzenie, że zarządzający OSP w Sosnowicach zamiast wykorzystywać te pieniądze na utrzymanie gotowości bojowej do pożarów, wykorzystali na działalność orkiestry dętej. Za pieniądze przeznaczone na walkę z żywiołami, pożarami, jeździli sobie na śluby, pogrzeby i inne imprezy. Tak nie może być. W ten sposób zrobili dziesięć tysięcy kilometrów – oskarża wójt, na którego wniosek komisja rewizyjna rady sprawdzi wydatki w straży ochotniczej w Sosnowicach. – Jeśli podbierali lukry z gminnej cukierniczki, muszą pieniądze zwrócić. To jest około 20 tysięcy złotych – mówił nam stanowczo wójt. W skład komisji rewizyjnej wchodzą radni Bartłomiej Woźniczka, Kazimierz Pacut i Janusz Bobula. Z jej prac wyłączono Bogusława Antosa, przewodniczącego komisji, który jest jednocześnie prezesem OSP w Sosnowicach. Wczoraj nie udało nam się z nimi porozmawiać. Tymczasem Włodzimierz Waga, prezes zarządu gminnego OSP w Brzeźnicy, skomentował wczoraj słowa wójta Momota jako bardzo nieeleganckie. – To dobrze, że komisja zajmie się wydatkami gminnymi na utrzymanie OSP. Jak rozumiem, zajmie się celowością wydatków we wszystkich 11 jednostkach OSP w naszej gminie. My też chcemy wiedzieć, na jakich zasadach wójt przekazywał te pieniądze poszczególnym jednostkom. Od dwóch lat w sprawie dotacji dla OSP jest dużo niejasności. Jeśli w Sosnowicach orkiestra wyjeżdżała na strażackie święta i imprezy, reprezentowała naszą gminę na zewnątrz, to uważam, że nie powinno się jej za to ganić – stwierdził Włodzimierz Waga. (cin)</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

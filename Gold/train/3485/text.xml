@@ -1,0 +1,12 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Dwie nieodległe w czasie inscenizacje współczesnych dramatów podjęte przez Agnieszkę Lipiec-Wróblewską - "Fantom" Ingmara Villqista w krakowskim Starym i "Dublińską kolędę" Conora McPhersona w warszawskim Studio - trudno uznać za satysfakcjonujące. W pierwszym przypadku wina (jeśli podobna rozdzielić z zewnątrz winy i zasługi) zda się leżeć po stronie teatru. Jednym z wyróżników dramatów Villqista jest operowanie niedopowiedzeniami; w tej wyjętej z cyklu "Beztlenowce" jednoaktowej psychodramie o "czymś", co objawiło się między dwojgiem ludzi - może to niewidzialne dziecko, może upostaciowane poczucie winy albo projekcja marzeń - wieloznaczność jest konieczna. Tymczasem inscenizacja krakowska usilnie wszystko dopowiada, tak w aktorstwie (Aldona Grochal nieomal szkicuje pantomimicznie dziecko-fantom), jak w środkach inscenizacyjnych (muzyka Janusza Grzywacza punktuje sytuacje niby w śp. Kobrach), miast napięcia ewokując na widowni jedynie irytację. W drugim przypadku słabsze zda się tworzywo literackie. "Dublińska kolęda" miała dyskontować sukces "Tamy" tegoż McPhersona, nie dorównuje jednak tamtej sztuce choćby misternością atmosfery stworzonej nieomal z niczego, z pogaduch przy whisky z piwem. Prezentowany tym razem autorozliczeniowy monolog grabarza-pijaka nie wykracza poza ramki rodzajowego obrazka - przy całej oryginalności gry Krzysztofa Majchrzaka. Trudno pozbyć się uczucia niedosytu i po jednym, i po drugim spektaklu. Taki niedosyt musi być jednak wkalkulowany w ryzyko wystawiania niesprawdzonych współczesnych utworów. I w sumie jest to niezadowolenie całkiem innego kalibru niż złość po konwencjonalnych, bezpiecznych i całkowicie pustych emocjonalnie premierach, jakich wokół niemało.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

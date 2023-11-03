@@ -1,0 +1,18 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">- Hyclówki! - powtórzył z uporem chory. - Poznał nas pan! - zadźwięczał metalicznie głos Zofii. - Jak to dobrze!... Właśnie pan Paweł mówił, że pan leży chory... Przyszłyśmy odwiedzić... zapytać o zdrowie... Ale pan się nie gniewa na... nas!... Nie?</p>
+        <p xml:id="p-2">- Gniewać?!... Ja!... Pamiętałyście...</p>
+        <p xml:id="p-3">- Ja zawsze! - wtrąciła żywo druga hyclówka. - Choć nie pokazywałyśmy się w aptece...</p>
+        <p xml:id="p-4">bo...</p>
+        <p xml:id="p-5">- Miciu! - upomniała siostrę Zofia, - Zawsze trzepałkowska! Jakże pan się czuje?.. Może czego potrzeba?... Pan pozwoli się odwiedzać?... Prawda?...</p>
+        <p xml:id="p-6">- Odwiedzać?!... Tak!... Proszę... bardzo... często mnie odwiedzajcie... tam!... dobrze mi było z wami... stało się... Hela... ciągle Hela!... Tylko... panno Zofio... cicho, cicho... bo ja bym chciał spać!... Lubicie spacerować... ale... cicho!...</p>
+        <p xml:id="p-7">- Turek! - ozwał się nagle Pracki - Przynieść wam pomarańczy?... To was orzeźwi!... Chory przecząco kiwnął głową i, chwyciwszy zbolałą piersią powietrza, rzekł tonem błagalnej prośby:</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

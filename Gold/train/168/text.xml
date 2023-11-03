@@ -1,0 +1,17 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Dziękuję, Panie Marszałku.</p>
+        <p xml:id="p-2">Wśród kilku spraw, które, jak sądzę, będą musiały być wyjaśnione w toku dyskusji i pracy komisji nad tą ustawą, mam do pana senatora pytanie związane z jedną z nich, bardzo ważną, która dotyczy sytuacji pracowniczej osób zatrudnionych w Polskim Centrum Badań i Certyfikacji. Aby nie było wątpliwości i podejrzeń, nie mam w tym żadnego interesu, nie jestem związany z kimkolwiek tam zatrudnionym, w ogóle nikogo nie znam z tego centrum.</p>
+        <p xml:id="p-3">Jeśli chodzi o uregulowania zawarte w art. 46, a dotyczące problematyki podziału Polskiego Centrum Badań i Certyfikacji, to w odniesieniu do sytuacji pracowniczej tej likwidowanej jednostki organizacyjnej mogą powstać problemy związane z przejmowaniem pracowników przez Polskie Centrum Akredytacji i przez Polskie Centrum Badań i Certyfikacji, bo te dwie jednostki powstały. Czy państwo rozważaliście - już nie wnikam w szczegóły, bo o tym będę mówił podczas dyskusji - problem statusu pracowniczego, sposobu przekazywania czy przejmowania tych pracowników, ich uprawnień, praw? Jest bardzo dużo problemów.</p>
+        <p xml:id="p-4">Proszę o odpowiedź.</p>
+        <p xml:id="p-5">Proszę bardzo.</p>
+        <p xml:id="p-6">Ten problem jest bardzo ważny, ale w trakcie tych dwóch spotkań, mimo że mówiliśmy o podziale i sposobie, w jaki będzie przebiegał, problemy spraw pracowniczych nie były poruszane w takim stopniu, jak by to pana senatora interesowało. Myślę, że w dalszym toku dyskusji odpowie na to pytanie pan dyrektor Henrykowski, ewentualnie pan minister.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

@@ -1,0 +1,19 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">W kuchni i łazience, gdzie z reguły ściany i podłogi pokrywają płytki ceramiczne, w ramach wiosennego liftingu można odnowić spoiny (fugi). W tym celu wystarczy zastosować specjalny preparat - renowator do fug. Jest to gotowy do użycia produkt, który nanosi się pędzelkiem na umyte i odtłuszczone spoiny. Efektem prac jest czysta i kolorowa fuga pomiędzy płytkami, uzyskana bez konieczności pracochłonnego usuwania starej fugi.</p>
+        <p xml:id="p-2">Uszczelniamy</p>
+        <p xml:id="p-3">Połączenia i krawędzie szczególnie narażone na pękanie - np. Ø między ścianą a wanną - wypełniamy masami trwale elastycznymi, np. silikonem. Silikon wyciskamy z kartusza i wprowadzamy (z niewielkim nadmiarem) w spoinę. Następnie, przy użyciu np. spryskiwacza do kwiatów, zraszamy masę wodą z dodatkiem mydła lub płynu do mycia naczyń i usuwamy nadmiar silikonu odpowiednio ukształtowanym zbierakiem, nadając spoinie właściwy kształt.</p>
+        <p xml:id="p-4">Chaos i harmonia</p>
+        <p xml:id="p-5">Przedświąteczny remont</p>
+        <p xml:id="p-6">Zostało jeszcze tyle czasu, że zdążymy przygotować mieszkanie na przywitanie wiosny i Wielkanoc</p>
+        <p xml:id="p-7">Zanim brudną i popękaną ścianę ubierzemy w nową farbę lub tapetę - usuwamy nierówności podłoża. Po oczyszczeniu ściany i zagruntowaniu - wypełniamy szczeliny. Możemy wystartować z tym etapem prac dopiero wówczas, gdy emulsja gruntująca wyschnie (czyli po ok. 2 godzinach od pomalowania nią ściany).</p>
+        <p xml:id="p-8">Do wypełniania szczelin można użyć np. gipsowej masy szpachlowej o przedłużonym czasie wiązania. Żeby wypełnienie było trwałe, wybraną masę nakłada się dwuetapowo. Najpierw dokładnie wypełnia się poszerzone pęknięcie, potem nakłada się warstwę, w której zatopiona zostanie siateczka zbrojąca o szerokości minimum 10 cm, zapobiegająca ponownemu pękaniu. Siateczkę tę wciska się szpachelką w świeży pas masy gipsowej, tak by pozostawała całkowicie niewidoczna.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

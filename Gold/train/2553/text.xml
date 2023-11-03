@@ -1,0 +1,20 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">7:30</p>
+        <p xml:id="p-2">"Zatroszcz się o swoje bezpieczeństwo” - to nazwa kampanii, którą za kilka dni w Radomiu rozpocznie policja.</p>
+        <p xml:id="p-3">Ulotki i plakaty przypomną co zrobić, by nie paść ofiarą złodzieja w okresie Wszystkich Świętych.</p>
+        <p xml:id="p-4">Od dawna wiadomo, że 1 listopada, a także towarzyszące mu dni wiążą się z większą niż zwykle aktywnością złodziei, w tym również kieszonkowców.</p>
+        <p xml:id="p-5">Przestępcy doskonale wiedzą, że zabiegani ludzie, jadąc autobusami ze zniczami i kwiatami, stają się łatwymi ofiarami kradzieży. W tym roku, jak zwykle w okolicach cmentarzy, pojawi się więcej policyjnych patroli. Policjanci postanowili też wcześniej przeprowadzić kampanię informacyjną.</p>
+        <p xml:id="p-6">- W autobusach komunikacji miejskiej i na dworcach pojawią się plakaty i ulotki przypominające podstawowe zasady bezpieczeństwa - mówi Rafał Jeżak, rzecznik Komendy Miejskiej Policji w Radomiu. - Ulotki, w których będzie można między innymi przeczytać porady, jak zabezpieczyć się przed kradzieżą czy zachować się w kontaktach z obcymi, znajdą się we wszystkich jednostkach radomskiej policji oraz urzędach.</p>
+        <p xml:id="p-7">W ulotce zamieszczono także tabelkę, gdzie można wpisać numery fabryczne i cechy charakterystyczne posiadanego sprzętu elektronicznego, co w razie kradzieży pozwoli policji na jego łatwiejsze odnalezienie. Jest tam także informacja o telefonach i adresach do wszystkich jednostek policji na terenie miasta.</p>
+        <p xml:id="p-8">Wiesz o czymś ważnym, interesującym? Daj nam o tym znać! Czekamy na Twoja informację.</p>
+        <p xml:id="p-9">tel.: 041 36 36 263, 041 36 36 257</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Pojęcie dobrze wykonywanej pracy używane jest w listach nie tylko wobec Żydów. Starszy szeregowy Heinz Mekler donosił na początku października: "Jestem jednym z tych, którzy przyczyniają się do zmniejszania liczby partyzantów. Ustawiam ich pod mur i każdemu w łeb, bardzo wesoła i ciekawa robota". Natomiast starszy szeregowy Born chwalił się w maju szwagrowi: "Polujemy na partyzantów, a do tego potrzeba chłopaków bez litości i współczucia. Tak, kochany szwagrze, co wpadnie nam w łapy, nie pożyje i pół godziny, bo na żadną łaskę nie zasługują".</p>
+        <p xml:id="p-2">Nie należały do rzadkości listy - także do ukochanych żon - podkreślające konieczność "ostatecznego rozwiązania" i przyjmujące jego techniczną stronę jako coś absolutnie naturalnego. Szeregowy Lehr zwierzał się na początku października: "O urlopie w tym roku nie ma co marzyć - w maju, czerwcu, przyszłym roku, to może... wszystkiemu winni żydzi. Tu unikają nas jak tylko mogą, gdy słyszą nasze kroki, to schodzą na jezdnię, ściągając czapki. Z czasem to wszyscy tutaj znikną z horyzontu. Najwyższy czas skończyć z tymi wyrzutkami społeczeństwa. W odległości 30 km od Pińska zastrzeliliśmy 5000 takich typów. Musieli się rozebrać doszczętnie, obojętnie, czy kobiety, czy mężczyźni, po tym nastąpił ich koniec. Tak będzie z każdym. Nie będę ci więcej pisał i zatrzymaj to proszę dla siebie, ażeby nie rozniosło się, bo wiesz, co to może spowodować. (...) Obecnie właśnie nasz batalion jest w akcji, polują na partyzantów, tkwiąc po kolana w błocie. Gdyby nas tu nie było, spłonęłoby niejedno gospodarstwo. Chłopi wiedzą o tym i chcąc okazać wdzięczność, oddają nam do jedzenia wszystko, co mają".</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

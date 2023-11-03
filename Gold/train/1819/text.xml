@@ -1,0 +1,18 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Fachowcy twierdzą, że i owszem, auto z włączonymi światłami jest bardziej widoczne, ale wiąże się to z droższą eksploatacją auta. Większy pobór prądu to większe obciążenie alternatora. Z prostego rachunku fizycznego wynika, że aby wyprodukować większą ilość energii, silnik musi spalić więcej benzyny.</p>
+        <p xml:id="p-2">Druga sprawa to żywotność żarówek. Te ostatnie nie są zaprojektowane do jazdy w upały. Normalnie żarówki, wokół których temperatura wynosi ponad 300 stopni Celsjusza, były naturalnie chłodzone. Teraz stojąc w korku żarówka nie będzie chłodzona, co z kolei może przyczynić się do deformacji całego reflektora. Dobrym rozwiązaniem są światła dzienne, montowane w nowszych autach. Pobierają minimalną ilość prądu, a widać je z daleka.</p>
+        <p xml:id="p-3">Sonda - Czy nowe przepisy poprawią bezpieczeństwo na drogach?</p>
+        <p xml:id="p-4">Marian Kieszyk</p>
+        <p xml:id="p-5">Nowe przepisy powinny poprawić bezpieczeństwo na drodze. Sam także włączam światła za dnia, szczególnie poza miastem czy w lasach. Mam szary samochód i może być słabiej widoczny na drodze. Możliwe, że teraz mój samochód będzie spalał więcej paliwa, ale nie można patrzeć na to przez pryzmat oszczędności. To tak jakby lekarz przepisał mi lekarstwa a ja bym ich nie wykupił, bo żal pieniędzy. Tu idzie o życie.</p>
+        <p xml:id="p-6">Sylwia Janicka</p>
+        <p xml:id="p-7">Ja zawsze jeżdżę na światłach. Przepisy, które właśnie weszły zbliżą nas do krajów Unii Europejskiej, gdzie w wielu krajach już się jeździ na światłach cały rok. Wiem, że już pojawiają się przeciwnicy tych zmian, ale z tego co wiem na zużycie żarówek i paliwa nie ma to większego wpływu.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

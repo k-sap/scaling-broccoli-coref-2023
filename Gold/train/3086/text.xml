@@ -1,0 +1,17 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Mieszkanie było lustrzanym odbiciem naszego Ø. Mój przewodnik na wózku poprowadził mnie krótkim, ciemnym korytarzykiem do największego z trzech pokoi. Domyśliłem się, że w tym domu służył za salon, ponieważ nie zauważyłem w nim łóżka. U nas w największym pokoju mieszkała matka, ojciec zajmował średnie pomieszczenie z balkonem i telewizorem, a ja miałem najmniejszy, środkowy pokoik. Piastowi widocznie postawili na inny podział funkcji pokoi – ten z balkonem był małżeńską sypialnią, największy przeznaczony został do oglądania telewizji i spożywania wspólnych posiłków, a mały, zamknięty przed obcymi, należał do córki, która wyjechała przed rokiem na studia na Wybrzeże i z tego, co się mówiło, nie odwiedzała ich za często.</p>
+        <p xml:id="p-2">– Wejdź, siadaj – powiedział Piastowy, wjeżdżając do pomieszczenia. Przy przekraczaniu progu wózek utknął i nauczyciel zaczął nerwowo naciskać na obręcze kół, próbując nabrać rozpędu. Kiedy chciałem zawrócić, by mu pomóc, machnął ręką, zatrzymując mnie.</p>
+        <p xml:id="p-3">– Dam sobie radę, codziennie daję sobie radę.</p>
+        <p xml:id="p-4">Po kilku próbach przejechał przez deskę i odetchnął po przeciwnej stronie granicy.</p>
+        <p xml:id="p-5">– Może łatwiej byłoby panu, gdyby zdjąć próg? – zapytałem, usadowiony już na fotelu przy stojącym pod ścianą stole.</p>
+        <p xml:id="p-6">– A po co? – odparł Piastowy, podjeżdżając do wolnego miejsca po drugiej stronie stolika. Zauważyłem, że drugi fotel od kompletu znajduje się pod meblościanką, nieużywany i zakurzony. Domyśliłem się, że należał kiedyś do Piastowego, ale po tym, jak zmuszony był przesiąść się na wózek, odstawiono go na bocznicę, by nauczyciel mógł bez przeszkód zajmować miejsce naprzeciwko telewizora.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

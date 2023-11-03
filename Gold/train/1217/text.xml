@@ -1,0 +1,12 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Można uznać za pewnik, że mieszkańcom interesującego nas terenu o świętej królowej nie pozwolił zapomnieć biskup krakowski, potem arcybiskup gnieźnieński, a niegdyś kanclerz Jadwigi Wojciech Jastrzębiec, który pierwszy podjął oficjalne starania o jej kanonizację. Urodzony w Łubnicy, dzisiejszych Łubnicach, jako syn drobnego szlachcica, mimo imponującej kariery, jaka stała się jego udziałem, nie zerwał kontaktu ze swą małą ojczyzną i był wielkim dobrodziejem kościoła w Beszowej, gdzie był ochrzczony, a potem edukowany. Beszowa i Łubnice znajdowały się już na terenie kasztelanii połanieckiej, stosunkowo daleko od Nowego Miasta Korczyna, jednakże przepływ informacji między mieszkańcami sąsiadujących wiosek obu kasztelanii był z pewnością duży, czemu służyły chociażby swoiste spotkania towarzyskie na tygodniowych targach, m.in. w Pacanowie, który znajdował się na granicy kasztelanii wiślickiej i połanieckiej. Jastrzębiec był osobą bardzo aktywną zarówno w tworzeniu wielkiej polityki, jak i w sprawach o charakterze lokalnym, ale też postacią bardzo kontrowersyjną, różnie ocenianą przez współczesnych sobie ludzi i historyków. Zarzucano mu bezwzględne dążenie do kariery i nepotyzm, którego wynikiem była krótka, ale istotna świetność rodziny Rytwiańskich. Jednakże jego zasługą było między innymi to, że beszowski kościół stał się celem pielgrzymek do kopii częstochowskiej ikony, której kult szerzyli sprowadzeni do Beszowej paulini. Protegowany przez biskupa Wojciecha proboszcz tego kościoła Łukasz z Wielkiego Koźmiana, profesor uniwersytetu krakowskiego, przyciągał tłumy prostych wiernych głoszonymi po polsku kazaniami, w których mówił o ich ciężkiej doli. Nie można zatem wątpić, że również w tym kościele wśród prostych ludzi szerzony był kult królowej Jadwigi.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

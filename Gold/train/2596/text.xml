@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">- A kiedy i komu mieliśmy je napisać - tłumaczyli chłopi. - Nikt nam nic nie mówił. Po tym, jak w czerwcu, tuż po tragedii, sporządziliśmy listy poszkodowanych, kazali nam czekać. No to czekaliśmy... I wyszła z tego zupełnie inna lista. Prosiliśmy wójta o rozliczenie się z rządowych pieniędzy. Bez odpowiedzi!- Wójt nie przyszedł na to spotkanie, bo dobrze wiedział co go tu czeka, jak zacząłby kręcić - stwierdził jeden z rolników Wielkiego Klińcza. - Na taczce byśmy go powieźli (kilku rolników wyrażało się dosadniej - dop. red.). Myśli, że pan wielki. Ludzie nie w ciemię bici i wiedzą, co się święci! Prawda jest taka, że potrzebują nas tylko na wybory. Wtedy potrafią dotrzeć wszędzie, żeby pozyskać głosy. Jak już się znaleźli na stołkach, to tylko o swoje pensje potrafią się zatroszczyć. Co się u nas dzieje, to zgroza. Nasz wójt dostaje co miesiąc ponad dziewięć tysięcy, sekretarz - pięć! Cały zarząd przyznał sobie na ten rok trzy i pół miliarda starych złotych!- O zbyt wysokich pensjach samorządowców bardzo negatywnie mówił już pan premier - wyjaśniała Ewa Sikorska-Trela. - Tę sprawę trzeba będzie chyba załatwić jakąś ustawą.</p>
+        <p xml:id="p-2">W Wielkim Klińczu do protestu dołączyła miejscowa „Solidarność” Rolników Indywidualnych. - Z niezrozumiałych dla nas przyczyn, mimo że zgłoszono do sołtysa wsi szkody, żadna komisja nie była w wielu gospodarstwach (w załączniku jest podana ich lista).</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

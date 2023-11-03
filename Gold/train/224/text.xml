@@ -1,0 +1,23 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Zaświeciło nam słońce</p>
+        <p xml:id="p-2">Wczoraj w Elblągu było ciepło i słonecznie. Po raz pierwszy od kilku dni!</p>
+        <p xml:id="p-3">- To wyraz sympatii elblążan dla dziennikarzy „Wieczoru” i Radia Gdańsk - stwierdziła pani Eleonora, która pochwaliła się, że naszą gazetę czyta od... 30 lat!</p>
+        <p xml:id="p-4">W Elblągu, zdaniem mieszkańców, czas płynie leniwie. Niektórzy narzekają na</p>
+        <p xml:id="p-5">brak w nim rozrywek dla młodych, inni - na złą opiekę stróżów prawa. Wszyscy są jednak dumni z odnawianej Starówki. Budowana od podstaw przybiera coraz wyraźniejsze kształty. W planach jest wzniesienie kilkuset kamienic, w tym kilkudziesięciu o identycznym wyglądzie, jak ich poprzedniczki sprzed przynajmniej stu lat! Teren budowy stał się teraz kopalnią wiedzy o mieście.</p>
+        <p xml:id="p-6">Archeolodzy badają działki położone między ulicami Rzeźnicką i Wigilijną.</p>
+        <p xml:id="p-7">Gapie długo nie wytrzymują</p>
+        <p xml:id="p-8">zapachu, który unosi się wokół nich.</p>
+        <p xml:id="p-9">- Sporo czasu pochłania nam odkopywanie siedemnastowiecznej latryny - wyjaśnia Mirosław Marcinkowski, archeolog. - Mnóstwo skarbów już tam znaleźliśmy, między innymi chińskie i holenderskie wyroby ceramiczne, noże i nożyczki do przycinania świec. Są dobrze zakonserwowane.</p>
+        <p xml:id="p-10">- Ówczesny system pozbywania się śmieci różni się od współczesnego - dodaje Grzegorz Stasiełowicz, pracownik muzeum w Elblągu. - Za śmietniki służyły latryny. Lądowała w nich spora ilość skorup porcelany.</p>
+        <p xml:id="p-11">Zachowały się do obecnych czasów</p>
+        <p xml:id="p-12">w doskonałym stanie, zakonserwowane przez odchody. Wyjęto stamtąd nawet misy drewniane, a także męski skórzany pas nabijany mosiężnymi blaszkami. Właściciel musiał zgubić go podczas załatwiania naturalnych potrzeb fizjologicznych.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

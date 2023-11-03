@@ -1,0 +1,18 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">55-letnia Janina Bobczyńska z Rybnika otrzymała pismo w poniedziałek.</p>
+        <p xml:id="p-2">– Od razu wiedziałam, że coś jest nie tak. Ale starsze osoby mogą się na to nabrać. Musicie ich ostrzec – mówi kobieta, przebywająca obecnie na zasiłku przedemerytalnym. – Każą zapłacić 13 zł. To niby nie jest dużo pieniędzy, ale jak zapłaci kilka tysięcy osób, zrobi się pokaźna kwota.</p>
+        <p xml:id="p-3">Wczoraj w naszej redakcji rozdzwoniły się telefony od naszych Czytelników. Takie pismo otrzymał w poniedziałek pan Jan, mieszkający przy ul. Boguszowickiej w Rybniku i matka pana Zdzisława Bartkowiaka z osiedla Maroko.</p>
+        <p xml:id="p-4">– Wielu sąsiadów też otrzymało przesyłkę. Widać oszuści brali nasze adresy z książki telefonicznej – mówi pan Zdzisław.</p>
+        <p xml:id="p-5">Wczoraj pismo dotarło także m.in. do Longina Bednorza, rybnickiego radnego. – Myślałem, że to tylko do radnych przyszło i chciałem iść na skargę do prezydenta – zastanawiał się radny, który przyniósł nam podejrzaną przesyłkę. – Dobrze, że się tym zajęliście.</p>
+        <p xml:id="p-6">Wysyłane pisma są profesjonalnie przygotowane. Przesyłka zawiera oficjalne pismo, w którym koordynator obsługi woj. śląskiego – który niewyraźnie podpisał się pod wstępem – informuje o utworzeniu EIOA w związku z przystąpieniem „Rzeczpospolitej Polski do Wspólnoty Europejskiej, które nastąpi dnia 1 maja 2004 roku. Jej zadaniem jest pobieranie opłat z tytułu wykonywanych działań administracyjnych oraz informacyjnych na rzecz mieszkańców tego województwa”.</p>
+        <p xml:id="p-7">Oszuści zaznaczają, że 13 zł to opłata jednorazowa. Termin wpłaty: do 21 sierpnia – z wykorzystaniem już wypełnionego, dołączonego do druku przekazu pieniężnego.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

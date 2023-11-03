@@ -1,0 +1,16 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">sp0: no co w tego malucha włożysz..</p>
+        <p xml:id="p-2">sp1: przyczepkę by musieli mieć z tyłu..</p>
+        <p xml:id="p-3">sp0: no. no i słuchaj i tego i ja mówię. Maciek jaki ty jesteś pochopny a tak se wyliczyli tam na te ceny ponanosili że mówi. że on mówi że przynajmniej trzydzieści procent muszą mieć na czys to dla siebie nie ? no to z tych co sprzedał no to mówi za sto sześćdziesiąt sprzedał no to jak trzydzieści to by było czterdzieści osiem dla siebie. no to mówię no poszedłeś trzy godziny czterdzieści osiem złotych zarobiłeś i może dalej ci się tak poszczęści i tak. no już się trochę uspokoił. w sobotę pojechali. do południa gdzieś koło dwunastej wyjechali. przed dwunastą a ja tam zajechałam do południa bo jak zakupy porobiłam zajechałam. no to pojechali może wpół do dwunastej po jedenastej wyjechali. o drugi taka ulewa tako czarna chmura była taki zakry zi się zimno zrobiło. przy ale pojechali ci nad ty na Wolice tam na te w stronę tam za wiesz za Szałe tam i sprzedali tylko za sto złotych. już mu się odechciało wisz on jest raptus i nerwy już tego..</p>
+        <p xml:id="p-4">sp1: yhm yhm..</p>
+        <p xml:id="p-5">sp0: ulewa się zrobiła przyjechali na kawę. ja mówię Jezu jaki ty człowieku jesteś no przecież na no przecież dopiero rozpoznajesz drugi raz jesteś no przecież jeszcze ile dni do wszystkich świętych. znowu się trochę uspokoił wypili kawę. to co mama zostaniesz jeszcze jechać no no co dopiero jest po drugiej przed trzecią jedźta jeszcze jeszcze jest jasno. słońce wyszło taki ładny dzień się wtedy po tym deszczu zrobił pojechali..</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

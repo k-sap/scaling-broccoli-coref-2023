@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Na ród Atrydów została rzucona klątwa, przed którą nie ma ucieczki. Długo zastanawialiśmy się wszyscy z Jankiem Klatą, czy takie klątwy dzisiaj też nas dotykają. Przyszły mi z pomocą doświadczenia z programu "Spotkajmy się", w którym rozmawiam z osobami chorymi i niepełnosprawnymi. Właśnie gdy zaczęły się próby, przygotowywałam do programu rozmowę z Mirkiem Żochowskim, który jest chory od urodzenia na zespół Tourette’a. Dotknięci tą chorobą ludzie robią rzeczy, których wcale nie chcą: klną, krzyczą, wykonują dziwne ruchy. Zachowują się tak, jakby ich ktoś spętał klątwą, uwięził we własnym ciele, z którego nie ma ucieczki. Mimo to Mirek szuka sensu życia, próbuje przekroczyć sam siebie. Zrozumiałam, że Klitajmestra też jest uwięziona we własnym losie. Kocha swojego męża, ale musi go zabić. Próbuje przynajmniej uratować Ø syna. Chce go wyrwać z koła przeznaczenia i dlatego każe mu odejść z domu, przeczuwając jednocześnie, że on ją za to znienawidzi. Dla matki odrzucić własne dziecko jest niewyobrażalnie trudne, właściwie niemożliwe. Szukałam w sobie emocji, które pozwoliłyby mi to zagrać. Wtedy przypomniałam sobie fragment wiersza księdza Twardowskiego: "zapomnij że jesteś, kiedy mówisz, że kochasz". Klitajmestra z miłości do syna przekreśla siebie.</p>
+        <p xml:id="p-2">Czy reżyserzy młodego pokolenia wymagają od aktora sięgania w głąb siebie, obnażania, ekshibicjonizmu?</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

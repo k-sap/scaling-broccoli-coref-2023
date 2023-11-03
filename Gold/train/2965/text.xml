@@ -1,0 +1,22 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Powiedz mu, że wygląda lepiej niż na zdjęciach.</p>
+        <p xml:id="p-2">Pani Sabina jest o tym przekonana, bo na znanych jej fotografiach Jason był poważniejszy i przypominał raczej wysokiego rangą urzędnika.</p>
+        <p xml:id="p-3">Marek tłumaczy jej słowa na angielski. Jason sprawia wrażenie speszonego, ale też zadowolonego.</p>
+        <p xml:id="p-4">Chodźmy już, wyobrażam sobie, jacy jesteście głodni. Tu jest postój taksówek.</p>
+        <p xml:id="p-5">Wynajęliśmy samochód. Jason chce jutro pojeździć po cmentarzach i zobaczyć nasze święto.</p>
+        <p xml:id="p-6">Marek tak pokieruje wszystkim, że to Jason idzie po samochód, a on trzyma ją w tym czasie za rękę. Zupełnie jak jego babcia myśli pani Sabina. Potem patrzy zaaferowana, jak obaj eleganccy mężczyźni ładują bagaże do samochodu. Marek otwiera przed nią drzwi.</p>
+        <p xml:id="p-7">Z przodu niech siądzie Jason, więcej zobaczy z Warszawy. Pani Sabina chce dla nich najlepiej.</p>
+        <p xml:id="p-8">Nie ma mowy, mamo. Muszę cię cały czas mieć przy sobie. Jason mówi, że jesteś naszym największym skarbem.</p>
+        <p xml:id="p-9">To miło z jego strony. Podziękuj mu, synku.</p>
+        <p xml:id="p-10">Patrzy na prowadzącego Marka z wyraźną dumą, lecz kiedy tylko wyjadą z lotniska, budzi się w niej warszawianka. Co chwila zwraca uwagę syna a to na dom wysoki, którego nie było jeszcze w zeszłym roku, a to na lepsze oświetlenie ulicy. W windzie już tylko zamyślona, jakby w ciasnej klatce coś jej się przypomniało.</p>
+        <p xml:id="p-11">Mieszkanie pani Sabiny niewiele się zmieniło od czasu, kiedy była Sabiną. Inne radio, narzuta na kanapę, na ścianie powiększone zdjęcie Ø mamy. Najwięcej przybyło książek.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

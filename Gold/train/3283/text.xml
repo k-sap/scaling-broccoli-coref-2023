@@ -1,0 +1,14 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">- Princessa jest dziś w Polsce czekoladowym waflem numer jeden. Zapewnia 40 proc. sprzedaży naszych słodyczy - mówi Paweł Patyra, dyrektor działu słodyczy Nestlé Polska. Dyrektor nie kryje dumy, bo Princessa zmaga się od lat ze swym wielkim rywalem, batonikiem Prince Polo z cieszyńskiej Olzy. To też jest stara gwiazda polskiego rynku słodyczy (niegdyś nasza eksportowa duma). Dziś pielęgnuje ją nowy właściciel, koncern Kraft Jacobs Suchard. Konkurencja nie jest łatwa, bo obaj rywale muszą się zmagać nie tylko ze sobą, ale i przyzwyczajeniami konsumentów wyniesionymi z czasów PRL.</p>
+        <p xml:id="p-2">Princessa była wówczas łatwiej dostępna w zachodniej Polsce, zaś Prince Polo na Śląsku i w centrum kraju. To utrwaliło regionalne przywiązanie do obu marek, które trwa do dziś. Co obaj wielcy konkurenci starają się przełamać, bo czekoladowe wafle to poważny oręż w walce o rynek słodyczy. Należą do kategorii, które handlowcy nazywają produktami impulsowymi. Kupujemy je bowiem ot tak, pod wpływem chwilowej emocji, wcześniej tego nie planując. Stanowią już ponad 8 proc. polskiego rynku słodyczy, którego ogólna wartość osiągnęła 5 mld zł. Jest o co walczyć.</p>
+        <p xml:id="p-3">Nic więc dziwnego, że apetyt na impulsowy rynek mają także inni, a książęcej parze Princessie i Prince Polo skutecznie psują szyki Grześki. To wafle produkowane przez zakłady Jutrzenka, wchodzące w skład grupy firm krajowego biznesmena Jana Kolańskiego. Kolański zaczynał od handlowania pieprzem i innymi przyprawami, ale później sprawnie wtargnął na słodki rynek i rozpycha się na nim do dzisiaj.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

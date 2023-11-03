@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Piłkarze Prokomu Arki Gdynia do dzisiejszego meczu z Lechia przystąpią po wyczerpującej serii spotkań rozgrywanych w systemie sobota-środa. Przystąpią po ostatniej porażce z GKS Jastrzębie, która chwały żółto-niebieskim nie przynosi. Derby więc będą okazją do sportowej rehabilitacji. Ostatnią bramkę w historii drugoligowych spotkań obu drużyn zdobył w 1994 roku Grzegorz Niciński. Czy chciałby teraz otworzyć golem nowy ich rozdział?</p>
+        <p xml:id="p-2">- Niech wygra Arka. To jest najważniejsze, chociaż nie ukrywam, że jeżeli zagram to gol zdobyty na Traugutta byłby dla mnie pięknym akcentem tego meczu - mówi „Nitek“.</p>
+        <p xml:id="p-3">Krzysztof Przytuła ma już za sobą udział w krakowskich derbach Wisła - Cracovia, jako piłkarz tej ostatniej drużyny.</p>
+        <p xml:id="p-4">- Skoro grałem w krakowskich derbach, to w każdych innych nic nie powinno mnie już zaskoczyć - twierdzi Przytuła. - Zresztą te trójmiejskie mają też podwawelskie odniesienie. Przecież Cracovia trzyma z Arką, a Wisła z Lechią. Zapowiada się więc ciekawe spotkanie. Jeszcze niedawno wydawało się, że mogę co najwyżej kibicować kolegom w tym spotkaniu. Zapowiadało się, że cała jesienną rundę spotkań będę miał z powody kontuzji, z głowy. Tymczasem mam za sobą 45 minut meczu w Jastrzębiu i mimo, że graliśmy tam słabo, przegraliśmy, to ten mój boiskowy test, po wielu miesiącach przerwy, wypadł nawet obiecująco. Jestem zdrowy i do dyspozycji trenera na dzisiejsze spotkanie - zapewnił Przytuła.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

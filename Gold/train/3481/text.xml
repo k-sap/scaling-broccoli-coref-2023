@@ -1,0 +1,16 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">PIĆ!</p>
+        <p xml:id="p-2">W czasie upałów nasz organizm potrzebuje więcej płynów niż kiedy indziej. Bardziej się pocimy. Razem z potem wydalana jest z organizmu woda, potrzebna do właściwego funkcjonowania ustroju oraz związki mineralne i chlor. Niektórzy, aby mniej się pocić, w czasie upałów ograniczają picie. Nie wolno tego robić, bo można doprowadzić do groźnego w skutkach odwodnienia organizmu. Pragnienie ostrzega, że brakuje nam wody. Lepiej jednak nie czekać, aż zachce nam się pić, tylko wcześniej uzupełnić brakującą ilość płynów.</p>
+        <p xml:id="p-3">Zapotrzebowanie na płyny zależy od wieku, masy ciała i aktywności fizycznej człowieka, a także od temperatury i wilgotności powietrza. Przyjmuje się, że osoba dorosła powinna wypijać dziennie około 2 l napojów. Na odwodnienie są narażone zwłaszcza osoby starsze, ponieważ w ich organizmie jest mało wody (z wiekiem wody ubywa). Więcej powinny pić osoby ze skłonnością do kamicy nerkowej i pracujące fizycznie.</p>
+        <p xml:id="p-4">Jeśli kopiemy ogródek, wspinamy się po górach albo smażymy na plaży (uwaga, narażamy się na szkodliwe działanie promieni słonecznych!), musimy dostarczyć organizmowi do 5 l płynów dziennie.</p>
+        <p xml:id="p-5">W czasie upałów pijmy dużo, jeśli przebywamy w suchych pomieszczeniach i w podróży. Stale nawilżajmy skórę, dostarczając jej wody i od wewnątrz, i z zewnątrz - za pomocą prysznica, toniku, wody mineralnej i kremów nawilżających. Pamiętajmy o podawaniu napojów niemowlętom i dzieciom, które nie zawsze sygnalizują, że chce im się pić.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

@@ -1,0 +1,37 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Który to tydzień ciąży?</p>
+        <p xml:id="p-2">EDYTA</p>
+        <p xml:id="p-3">Mam zamiar urodzić to dziecko, nie przyszłam tu załatwić sobie pokątnej aborcji.</p>
+        <p xml:id="p-4">BARBARA</p>
+        <p xml:id="p-5">Nie o tym myślałam, źle mnie pani zrozumiała...</p>
+        <p xml:id="p-6">EDYTA</p>
+        <p xml:id="p-7">To o czym? Po co pani ta informacja? Zamierza pani mężowi spreparować alibi? Że przechodził w tym czasie świnkę albo cierpiał na inną przykrą dolegliwość?</p>
+        <p xml:id="p-8">BARBARA</p>
+        <p xml:id="p-9">Nie muszę. Istnieją dużo prostsze sposoby na podstawie których można wykluczyć ojcostwo...</p>
+        <p xml:id="p-10">EDYTA</p>
+        <p xml:id="p-11">Żal mi pani... Ciągle mu pani ufa i zbyt wiele wybacza. A on nie zasłużył na wybaczenie...</p>
+        <p xml:id="p-12">BARBARA</p>
+        <p xml:id="p-13">PO PAUZIE</p>
+        <p xml:id="p-14">Po co pani do mnie przyszła?</p>
+        <p xml:id="p-15">EDYTA</p>
+        <p xml:id="p-16">Jestem w ciąży z pani mężem. Chciałam, żeby pani o tym wiedziała...</p>
+        <p xml:id="p-17">BARBARA</p>
+        <p xml:id="p-18">Dlaczego?</p>
+        <p xml:id="p-19">EDYTA</p>
+        <p xml:id="p-20">Sama nie wiem... Może dlatego, że wrócił do pani... Pomyślałam, że powinna pani wiedzieć z czego zrezygnował, albo od czego uciekł... A może wydawało mi się, że tak będzie uczciwie...</p>
+        <p xml:id="p-21">Przez chwilę mierzą się wzrokiem.</p>
+        <p xml:id="p-22">Scena</p>
+        <p xml:id="p-23">WNĘTRZE. DZIEŃ. REDAKCJA. NEWSROOM. ANDRZEJ, KRZYSZTOF, GOŚKA, JACEK, MAJKA, MAREK, STUDENCI-WITEK, WERA, KAMILA. DZIENNIKARZE.</p>
+        <p xml:id="p-24">W newsroomie panuje dość zwarzona atmosfera. Dziennikarze pracują w milczeniu. Andrzej cicho rozmawia z Krzysztofem;</p>
+        <p xml:id="p-25">ANDRZEJ</p>
+        <p xml:id="p-26">Jeżeli się wyrobisz, to dobrze, a jak nie: mówi się trudno...</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

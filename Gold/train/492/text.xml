@@ -1,0 +1,23 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">sp2: świadków weźmiesz Krzysiu i autobusem zawieziesz pod prokuraturę..</p>
+        <p xml:id="p-2">sp4: a. prokuratora znamy no bo już ja z nim rozmawiałem kilka razy tak że tak zapraszał do siebie tak..</p>
+        <p xml:id="p-3">sp3: no to chętnie skorzystamy z tego zaproszenia ile nas tam było..</p>
+        <p xml:id="p-4">sp4: mówi tam na tym na głównym placu. tu w Kłodzku..</p>
+        <p xml:id="p-5">sp3: Boguś ile nas tam wtedy było tych świadków. dziewięć czy dziesięć ?</p>
+        <p xml:id="p-6">sp4: więcej chyba więcej..</p>
+        <p xml:id="p-7">sp0: ci co ci co nie pojechali na wycieczkę tak ?</p>
+        <p xml:id="p-8">sp4: tak. Ewelina się na mnie obraziła że jej nie podąłem jako świadka..</p>
+        <p xml:id="p-9">sp0: ale Ola zadowolona jesteś z auta rodzice też ? zszokowani byli ? zszokowani byli ?</p>
+        <p xml:id="p-10">sp3: och słuchaj ten tata. tak. tata zszedł na dół zszedł i ten no co chcesz mi pokazać taki zdenerwowany no nie ? a ja mówię no to jest właśnie prezent dla ciebie mówię bo miałam na imieniny ale nie zdążyłam. co to jest ?</p>
+        <p xml:id="p-11">sp0: fura. fura..</p>
+        <p xml:id="p-12">sp3: a ja mówię że samochodzik. niemożliwe mówi. a mój brat podjechał za mną a ja podjechałam a on za mną podjechał z kolegą. wysiadł z tego samochodu i tak ogląda i ogląda i mówi tak. ty z kim ty przyjechałaś. ja mówię sama. a co to za samochód ? ja mówię no mój i tak się patrzy słuchaj ta sirotka. mówi. jak to mówi twój samochód ja mówię no mój samochód no..</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

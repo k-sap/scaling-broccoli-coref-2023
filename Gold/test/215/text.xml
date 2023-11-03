@@ -1,0 +1,19 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">— Żal mi tych, którzy zbierają makulaturę zarobkowo - przyznaje W. Kalisz. - Kiedyś w ten sposób można było dorobić do emerytury, teraz takie zbieranie nie ma sensu. Ceny są bardzo niskie. Za kilogram kartonu płaci się 5 groszy, za resztę 3 grosze.</p>
+        <p xml:id="p-2">Właściciele skupu wiele robią dla środowiska, ale to jest ich praca. Muszą też zarobić, a to opłaca się coraz mniej</p>
+        <p xml:id="p-3">— Na całym świecie dopłaca się do takiej działalności, a ludzie segregują śmieci u siebie na posesjach. U nas tego nie ma. Nikt nie rozumie problemu zanieczyszczenia środowiska i skali jego degradacji - wyznaje Piotr Lubrant, współwłaściciel skupu.</p>
+        <p xml:id="p-4">— Jesteśmy otwarci na współpracę z Urzędem Miasta, mamy wiele pomysłów, moglibyśmy zająć się wprowadzeniem eksperymentalnie do Nowego Dworu specjalnych pojemników do sortowania śmieci, jak to się odbywa w dużych miastach. Moglibyśmy też zorganizować sortowanie śmieci na wysypisku - dodaje W. Kalisz - ale nie zrobimy tego sami. Urząd Miasta musi wykazać więcej zrozumienia i zainteresowanie tym problemem.</p>
+        <p xml:id="p-5">Problemu nie rozwiążą sezonowe akcje, takie jak zbliżające się „Sprzątanie świata“, które odbędzie się jutro.</p>
+        <p xml:id="p-6">Jeden dzień nie uzdrowi środowiska</p>
+        <p xml:id="p-7">Mogliby to zrobić mądrzy włodarze. Ważne są też działania edukacyjne w tym kierunku. Bardzo aktywna jest Szkoła Podstawowa w Sztutowie.</p>
+        <p xml:id="p-8">Często organizuje zbiórki makulatury i akcje porządkowe. W Nowym Dworze Gdańskim przoduje Szkoła Podstawowa nr. 1.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

@@ -1,0 +1,17 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Tonacja poufałości, z jaką zwraca się autor do adresata, świadczy o żartobliwej autoironii tym istotniejszej, że dalsze słowa mówią wręcz o "pogaństwie", czyli że są zamierzoną prowokacją wobec Kościołą:</p>
+        <p xml:id="p-2">Tobie to pogaństwo w moc oddaję, Acz po nich nic, boć wszystkiego sstaje.</p>
+        <p xml:id="p-3">(w. 5 - 6)</p>
+        <p xml:id="p-4">Kpiarskie sprzeniewierzanie się zastanym autorytetom - to stałe atrybuty plebejskiego postrzegania świata. Rodzajem swoistej ironii - antytezy jest też uwaga wypowiedziana w pierwszej z omawianych dedykacji o kolędzie świeżo przeszłej, która z racji szybkości jej powstania nie należy do doskonałych. Każda z tych wypowiedzi spełnia dwojakie funkcje, gdyż jest komunikatem i aktem działania16. Między nadawcą a odbiorcą nawiązuje się rodzaj wzajemnej zależności - bez drugiej ta pierwsza nie ma racji istnienia. W tekstach deklaratywnych obowiązuje stały zwyczaj stosowania chwytów personifikacyjnych, dzięki którym obie sfery utworu: wizualna i audytywna całkowicie się ze sobą pokrywają i są elementami jednej struktury wypowiedzi.</p>
+        <p xml:id="p-5">Relacja "ja - ty" sprzyja różnego rodzaju manifestacjom literackim. Według Jerzego Ziomka kultura dysputacyjna w Polsce znalazła zachętę w sprzyjających okolicznościach życiowych17. Bowiem dedykacje w komediach plebejskich XVII w. są w stałej łączności ze sztuką mówienia. Czynniki te decydują, że w zdaniach widzimy obecność pytań retorycznych, wykrzyknień, czy dialogów pozorowanych sytuacją narracyjną, wyrażanych przy pomocy wtrąceń:</p>
+        <p xml:id="p-6">Wesoła myśl, wziąć przed się jakie takie żarty? Których (ale mi odpuść) są pełne te karty.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

@@ -1,0 +1,46 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">sp3: Renata ma..</p>
+        <p xml:id="p-2">sp0: to po co ci ta ?</p>
+        <p xml:id="p-3">sp1: ale taka mam ogólną tak ?</p>
+        <p xml:id="p-4">sp3: ogólną masz ? a ty jaką masz ?</p>
+        <p xml:id="p-5">sp1: no ogólną..</p>
+        <p xml:id="p-6">sp3: no..</p>
+        <p xml:id="p-7">sp1: taką z atlasu. takiego wiesz do siódmej czy do ósmej klasy..</p>
+        <p xml:id="p-8">sp0: kartkę po prostu wyrwałaś ?</p>
+        <p xml:id="p-9">sp1: nie..</p>
+        <p xml:id="p-10">sp0: wyrwali ci ?</p>
+        <p xml:id="p-11">sp1: no..</p>
+        <p xml:id="p-12">sp0: no. może być..</p>
+        <p xml:id="p-13">sp3: to mówisz Ela że wyzdrowiałaś ?</p>
+        <p xml:id="p-14">sp2: yhm..</p>
+        <p xml:id="p-15">sp3: wiecie że mi się po drugiej kawie zaczyna chcieć spać jak wypiję drugą kawę ?</p>
+        <p xml:id="p-16">sp2: zrobię ci trzecią chcesz ?</p>
+        <p xml:id="p-17">sp0: po trzeciej się przestaje chcieć..</p>
+        <p xml:id="p-18">sp1: a po trzeciej już..</p>
+        <p xml:id="p-19">sp3: wypiłaś piwo ?</p>
+        <p xml:id="p-20">sp1: no..</p>
+        <p xml:id="p-21">sp3: a kto będzie prowadził ?</p>
+        <p xml:id="p-22">sp1: ja się dobrze prowadzę..</p>
+        <p xml:id="p-23">sp3: kto będzie prowadził auto ?</p>
+        <p xml:id="p-24">sp1: a auto to ty..</p>
+        <p xml:id="p-25">sp3: auto mi się psuje..</p>
+        <p xml:id="p-26">sp0: mówiłeś że ci się psuje..</p>
+        <p xml:id="p-27">sp3: nie dwieście pięćdziesiąt to był pojechał spoko tylko że wiesz co nie nie w tym momencie..</p>
+        <p xml:id="p-28">sp0: znaczy dwieście pięćdziesiąt na godzinę ?</p>
+        <p xml:id="p-29">sp3: kilometrów. przecież to jest w moim kierunku to ja się i tak wracam do a później odbijam. to jest na wysokości przecież Warszawy no nie ?</p>
+        <p xml:id="p-30">sp2: ale co Kazimierz ?</p>
+        <p xml:id="p-31">sp0: no mniej więcej..</p>
+        <p xml:id="p-32">sp3: na wysokości Warszawy jeżeli chodzi o..</p>
+        <p xml:id="p-33">sp0: znaczy niżej troszkę..</p>
+        <p xml:id="p-34">sp3: no troszkę niżej ale generalnie w kierunku Warszawy jedziesz my dzisiaj spisaliśmy pociągi..</p>
+        <p xml:id="p-35">sp2: tak ? to jest nadal o trzeciej ?</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

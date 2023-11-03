@@ -1,0 +1,23 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Bożena Ostromęcka-Frączak:</p>
+        <p xml:id="p-2">Oczywiście, i to coraz częściej, bo Polska postrzegana jest jako kraj rozwojowy. Od czterech lat z języka polskiego zdaje się podobne egzaminy jak z angielskiego czy niemieckiego. W listopadzie w Japonii będzie taki egzamin będzie zdawać 30 osób.</p>
+        <p xml:id="p-3">– Kim są ci, którzy podejmują takie wyzwanie?</p>
+        <p xml:id="p-4">– Osoby, które chcą u nas podjąć studia to głównie biznesmeni i studenci filologii słowiańskich. Dzieci Polonii w Stanach dostają za taki certyfikat dodatkowe punkty podczas rekrutacji na studia. Powody więc są różne.</p>
+        <p xml:id="p-5">– Z czym kursanci mają największe problemy?</p>
+        <p xml:id="p-6">– Z fonetyką, zwłaszcza ze spółgłoskami. Ale wbrew pozorom polski chrząszcz nie brzmi wcale tak groźnie. Duże kłopotów sprawiają cudzoziemcom czasowniki dokonane i niedokonane. Mają też problemy z ortografią i odmianą wyrazów, dokładnie takie same jak Polacy.</p>
+        <p xml:id="p-7">– Ile lat trzeba się uczyć, by poznać nasz język?</p>
+        <p xml:id="p-8">– Zależy, co się przez to rozumie. By kupić chleb, powiedzieć lekarzowi co boli, wystarczy pół roku...</p>
+        <p xml:id="p-9">– A żeby przeczytać „Pana Tadeusza”?</p>
+        <p xml:id="p-10">– Czytanie nie jest problemem, ale by go zrozumieć, trzeba znać polską kulturę i historię, wiedzieć, że Polska była pod zaborami i kim byli Moskale. Dlatego podczas zajęć sporo miejsca poświęcamy kulturze, obyczajom i polskim realiom.</p>
+        <p xml:id="p-11">– A jak Łódź prezentuje się na mapie nauczania języka polskiego?</p>
+        <p xml:id="p-12">– Łódź ma długą tradycję. Studium Języka Polskiego dla Cudzoziemców będzie w przyszłym roku obchodzić pięćdziesięciolecie działalności. Nasz zakład pracuje nad podręcznikiem do nauki języka, który opowiadałby o Łodzi. Dzięki niemu cudzoziemcy od razu będą poznawać walory turystyczne miasta.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

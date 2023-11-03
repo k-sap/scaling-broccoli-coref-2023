@@ -1,0 +1,16 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">SenatorStefanSniezko: Dlatego powiadam, że jeżeli wprowadza się vacatio legis, rozciągając w czasie obowiązek przestrzegania prawa, to niechcący, na pewno nieświadomie zachęci się tych, który mają wątpliwości czy wejść w eter bez zezwolenia, bez koncesji, do łamania prawa. Bo tak się może stać, jeżeli uchwalimy ten przepis przewidujący karalność za pół roku, za 7 miesięcy czy za rok.</p>
+        <p xml:id="p-2">SenatorStefanSniezko: A więc póki można korzystajmy, postawmy państwo wobec faktów dokonanych. A potem niech już państwo się tym martwi. Proszę o zwrócenie uwagi na niebezpieczeństwo luki, która się w ten sposób wytwarza.</p>
+        <p xml:id="p-3">SenatorStefanSniezko: Nie wiem, jak to może funkcjonować, ale przez chwilę zastanówmy się. Jeżeli powiadamy, że przepis karny wchodzi w życie za siedem miesięcy, za pół roku, to przecież można sobie łatwo wyobrazić, że natychmiast rozpoczną działalność różne pirackie radiostacje i stacje telewizyjne, a skończą nadawanie w ostatnim dniu okresu poprzedzającego wejście w życie ustawy po to, żeby w międzyczasie pod innym nazwiskiem uzyskać formalną koncesję, a tymczasem skorzystać z luki w prawie.</p>
+        <p xml:id="p-4">SenatorStefanSniezko: Prosiłbym o to, żeby widzieć potrzebę odpowiedzialnego tworzenia skutecznego prawa.</p>
+        <p xml:id="p-5">SenatorStefanSniezko: Propozycja moja zmierza do tego, aby przyspieszyć okres wejścia w życie przepisów prawa art. 52 mianowicie w taki sposób, że art. 71 brzmiałby:„ Ustawa wchodzi w życie po upływie miesiąca od dnia ogłoszenia, z wyjątkiem przepisu art. 52, który wchodzi w życie od dnia ogłoszenia”. Od momentu ogłoszenia tej ustawy wiadomo, co jest niedozwolone i co jest zagrożone prawem karnym.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Każda działalność człowieka odbywa się w określonej przestrzeni i czasie niezależnie od formy organizacji i rodzaju tej działalności. Pomiędzy różnymi działalnościami powstają wzajemne powiązania funkcjonalne, organizacyjne, informacyjne, gospodarcze itp. Tworzą się także zależności wynikające z bliskiego położenia poszczególnych jednostek. Oznacza to w praktyce, iż każdy z podmiotów w mniejszym lub większym stopniu odczuwa sąsiedztwo swojego sąsiada. "Dobrze jest, gdy odczucia te są dodatnie /.../. Gdy poszczególne podmioty w przestrzeni są od siebie dość odległe, skutki działania są wzajemnie mniej odczuwalne. W miarę wzrostu liczby ludności i intensywności gospodarowania, a także w skutek złożoności procesów technicznych, wzajemne oddziaływania w przestrzeni przybierają na sile i znaczeniu niezależnie od przynależności organizacyjnej poszczególnych podmiotów"197.</p>
+        <p xml:id="p-2">Jednym z pierwszych ekonomistów, który opisał tego typu zjawiska był A. Marshall. Interesowały go głównie dodatnie efekty sąsiedztwa, które nazwał mianem korzyści zewnętrznych 198. Przedmiotem jego rozważań były głównie te korzyści zewnętrzne, które podmiot gospodarujący uzyskuje w wyniku funkcjonowania w tym samym miejscu wielu podmiotów produkujących ten sam wyrób. Są to więc korzyści zewnętrzne lokalizacyjne związane głównie z rozwojem jakiejś gałęzi przemysłu, określane są często jako korzyści aglomeracji. Prace A.Marshalla zapoczątkowały rozważania na temat korzyści zewnętrznych 199.</p>
+        <p xml:id="p-3">Obok pojęcia korzyści zewnętrznych, funkcjonuje również kategoria niekorzyści zewnętrznych jako podstawowe odniesienie przy rozpatrywaniu ujemnego wpływu działalności gospodarczej na otoczenie np. środowisko naturalne.</p>
+        <p xml:id="p-4">Pojęcie efektów zewnętrznych wprowadzone przez A. Marshalla uległo istotnym przeobrażeniom i rozwinięciu. Autorem współczesnej definicji tego pojęcia jest J. Meade 200. "Zgodnie z jego określeniem efekty zewnętrzne występują wówczas, gdy efektywność produkcji w jednym przedsiębiorstwie /A/ jest uzależniona, między innymi, od rozmiarów produkcji i /lub/ nakładów innego przedsiębiorstwa /B/, przy czym zgodnie z przyjętym milcząco założeniem:</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

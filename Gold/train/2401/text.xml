@@ -1,0 +1,16 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Teraz pani Janina inaczej na to patrzy. Dwudziesty pierwszy wiek, a z wygód ma tylko umywalkę z bieżącą wodą. Do ubikacji musi chodzić na podwórko. Zimą co kilka dni wnosi reklamówkami węgiel na pierwsze piętro. Choć od Manufaktury dzieli ją kilkadziesiąt metrów, to jeszcze w niej nie była. Nie ciągnie tam jej. – Pewnie bym zabłądziła – boi się takiej wyprawy. Na zakupy woli chodzić gdzie indziej. Ma „swoje” sklepy na placu Wolności i przy Pomorskiej.</p>
+        <p xml:id="p-2">Manufaktura jej nie przeszkadza, choć są czasem krzyki, hałasy, głośna muzyka. Pani Janina wiele lat pracowała jako woźna na Politechnice Łódzkiej, więc do harmidru przywykła. Ale i wcześniej też tu było głośno. – Przecież mieszkałam koło „Marchlewskiego” – mówi.</p>
+        <p xml:id="p-3">Rano, w południe i wieczorem koło jej okien przechodziły tysiące robotników, którzy spieszyli na swoją zmianę. Przeszkadza jej najbardziej to, że w kamienicy są teraz straszne brudy. I nikt nie robi remontów.</p>
+        <p xml:id="p-4">13-letnia Samanta i 14-letnia Patrycja, dziewczynki mieszkające na drugim piętrze, zamiast na podwórko i na trzepak, biegają do Manufaktury. Są tam po kilka razy dziennie. Chodzą po sklepach, przyglądają się okazałym wystawom.</p>
+        <p xml:id="p-5">Ewa Skrobiranda, kobieta po pięćdziesiątce, stoi na podwórku przed rzędem pochylonych komórek. Układa w nich drewno. Gdy wyprostuje plecy, widzi cień murów Manufaktury. Ale zaraz jej wzrok pada na niewielki budynek z zawalonym częściowo dachem. – To nasza toaleta! – macha ręką z rezygnacją.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

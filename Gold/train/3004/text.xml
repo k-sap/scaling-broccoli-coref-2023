@@ -1,0 +1,17 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Znowu tylko przeczący ruch głową, jakby chodziło o jakieś posądzenie.</p>
+        <p xml:id="p-2">- Antysemitą?</p>
+        <p xml:id="p-3">- Nie sądzę... jeszcze tego nie wypróbowałem".</p>
+        <p xml:id="p-4">Hermann Broch, Niewinni dożerca, matka antysemitka, ciotka antysemitka, dziadek żydożerca, babka antysemitka i nawet pradziadek gotów - pomimo bolesnych hemoroidów - gnać żydków do gazu. Pomimo, a raczej tym bardziej, bo przecież i hemoroidom Żydzi winni. Gadać nie szło, bo trzeba by odpór przez dwadzieścia cztery godziny dawać. A i tak daremnie. Co robić? Potakiwaliśmy. Kończyło się na słynnym polskim potakiwaniu. Tak, tak. No tak. Nie da się ukryć. Tak. Tak. Tak. No tak. Wychodzi, że tak.</p>
+        <p xml:id="p-5">- Polski brak asertywności.</p>
+        <p xml:id="p-6">- Nie w tym rzecz. Nie o asertywność idzie! Panie! Wiadomo, że Żydzi nie wszystkiemu winni, ale obiad zjeść trzeba! Inna sprawa: wyjątkowego uwrażliwienia dziecka na kwestie rasowe nie wzięliśmy pod uwagę. Zanim połapaliśmy się, co i jak, było za późno. "Żyd" w neutralnej rozmowie pada, a młody blednie i spazmów dostaje. Za późno ksenofobiczne szydło z antysemickiego worka wyszło. Nawet zabraniać zabaw z tamtymi nie było już sensu. Oni zresztą wyprowadzili się. Do Warszawy. Dzieci od Damiana nieco starsze do odpowiedniego wieku doszły i w Warszawie do specjalnych gimnazjów o profilu antysemickim chodzić mają... Nie wiem... Damian! - ryknął kolejny raz. - Damian! Trzy minuty przeszły! Damian złaź, bo jak nie zleziesz, wiesz, kto po ciebie...</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

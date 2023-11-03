@@ -1,0 +1,14 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Jedną z osób, które uczestniczyły w zastosowaniu nowej metody pobudzania naturalnego oddychania, jest dr Krzysztof Kowalski z Case Western Reserve University w Cleveland w stanie Ohio, poprzednio pracownik Zakładu Neurobiologii Akademii Wychowania Fizycznego w Poznaniu. Należał w Polsce do grupy kilku zapaleńców, którzy starali się poznać zasady działania generatorów neuronalnych odpowiedzialnych za automatyczne wytwarzanie rytmów lokomocji i oddychania. Było to w latach osiemdziesiątych w ramach współpracy Zespołów Neurofizjologii Instytutów Centrum Medycyny Doświadczalnej i Klinicznej oraz Instytutu Biologii Doświadczalnej PAN.</p>
+        <p xml:id="p-2">Innym centrum naukowym poświęconym badaniom ruchu były pracownie w Szwecji. Tam właśnie większość członków grupy wędrowała po dalszą naukę. W 1979 r. w Królewskim Instytucie Nobla, w pracowni dr. Curta von Eulera, poznali dr. DiMarco z Case Western Reserve University. Od tej chwili datuje się jego współpraca z neurofizjologami z Polski, głównie z Centrum Medycyny Doświadczalnej i Klinicznej PAN.</p>
+        <p xml:id="p-3">Główne kierunki badań mające na celu naprawę uszkodzeń rdzenia skupiają się na próbach regeneracji uszkodzonych oraz aktywacji istniejących połączeń nerwowych i nerwowo-mięśniowych. Wszystkie te badania zmierzają do odbudowy własności generacyjnych sieci neuronalnej lub odtworzenia rytmicznej pracy mięśniowej. Generatory neuronalne wytwarzają podstawowy rytm naprzemiennej pracy mięśni wdechowych i wydechowych w przypadku oddychania lub lewej i prawej kończyny w przypadku ruchu. Zasadniczy generator ruchu znajduje się w rdzeniu, natomiast generator oddychania w rdzeniu przedłużonym. Ich właściwe funkcjonowanie zależy od sprawności całego ośrodkowego układu nerwowego. Uszkodzenie rdzenia, w zależności od poziomu, na którym nastąpiło, może całkowicie uniemożliwić działanie obu generatorów.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

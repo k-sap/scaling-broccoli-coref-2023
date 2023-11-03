@@ -1,0 +1,14 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Nadal nie wiadomo, który z polityków pierwszy opowiedział dowcip o polskich korzeniach prezydenta-elekta Baracka Obamy. (Jego przodek miał zjeść polskiego misjonarza). Eurodeputowany Ryszard Czarnecki zapewnia, że to Radosław Sikorski, czemu minister zdecydowanie zaprzecza. Wojciech Olejniczak (SLD) twierdzi, że dowcip opowiadał Jarosław Kaczyński. Polityk SLD pochwalił się przy okazji, że słyszał już kolejny żart: "Czy Barack ma jaja? Oba ma". I tym razem autor Ø nie został zidentyfikowany.</p>
+        <p xml:id="p-2">Nie tylko z Obamy żartują politycy. W "Dzienniku" można było znaleźć ulubione kawały różnych partii, m.in. próbkę czarnego humoru w wydaniu PSL: "Wykoleił się pociąg wiozący polskich posłów. Na miejsce pędzą ekipy ratownicze, karetki i śmigłowce. Gdy przybyli, okazało się, że nie ma żadnych ciał. Szef ratowników pyta okolicznych mieszkańców: - Gdzie się podziali wszyscy z pociągu? - Pochowaliśmy ich. - Wszyscy zginęli, co do jednego? - No niektórzy mówili, że jeszcze żyją, ale kto by tam, panie, politykom wierzył...".</p>
+        <p xml:id="p-3">Posłowie PO spędzili weekend na wyjazdowym posiedzeniu klubu w hotelu spa w Rawie Mazowieckiej. Niektórzy politycy jeszcze przed wyjazdem martwili się, że jednak nie wszystkie przyjemności będą dozwolone. "Jakieś jacuzzi wieczorem to nie jest zły pomysł" - przyznał w rozmowie z "Dziennikiem" jeden z posłów PO. Po chwili jednak dodał zmartwiony: "Przez wyskoki posłanki Kruk to pewnie piwa nam nawet nie dadzą".</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

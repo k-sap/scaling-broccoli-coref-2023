@@ -1,0 +1,14 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">W ostatnią sobotę po raz piętnasty wręczono statuetki Wiktorów dla najpopularniejszych postaci telewizji. Zawsze osobliwością gali owych nagród było to, że nikt z telewidzów obserwujących relację z imprezy w TVP nie wiedział dokładnie, czym kieruje się szacowne jury mianowane Akademią Telewizyjną honorując tę a nie inną osobę. Teraz konferansjerzy, Iwona Schymalla i Maciej Orłoś, sami nie mogli dojść, jak nazywać laureatów: najpopularniejszymi czy najlepszymi?</p>
+        <p xml:id="p-2">Nie było wątpliwości w przypadku Super-Wiktorów (nagroda w uznaniu zasług) dla Andrzeja Wajdy, Jerzego Hoffmana i Czesława Niemena. Każdy z tych twórców po wielekroć udowadniał swoją wartość dla polskiej kultury. Nikt nie wątpił w słuszność werdyktu czytelników "Anteny", czyli Wiktora Publiczności dla Jurka Owsiaka. Podobnie z nagrodą w kategorii "najpopularniejszego twórcy programu" dla Elżbiety Skrętkowskiej za "Szansę na sukces" czy z Wiktorem dla Waldemara Milewicza jako "najwyżej cenionego dziennikarza". Ale już dalej mnożą się znaki zapytania. Ciągle nie wiem, czemu ma służyć Wiktor dla polityka (otrzymał go tym razem Leszek Balcerowicz) - uwzniośleniu sceny politycznej czy może wyprostowaniu pokrętnej logiki eksprezesa TVP Ryszarda Miazka, wedle którego telewizja ma być dla polityków przyjazna.</p>
+        <p xml:id="p-3">Największym jednak zaskoczeniem okazał się Wiktor przyznany aktorowi kina akcji Jean-Claude’owi van Damme’owi. Zaskoczeniem dla wszystkich, dla aktora, a także dla jury, które jak się okazało w tej akurat sprawie nie było pytane o opinię. Organizator Wiktorów Józef Węgrzyn tłumaczył, że van Damme to dziś w skali światowej aktor najpopularniejszy, więc nagroda mu się należała.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

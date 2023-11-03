@@ -1,0 +1,21 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">2. Minister Spraw Wewnętrznych może w zezwoleniu określić dla cudzoziemca zamierzającego nabyć nieruchomość specjalne warunki, od których spełnienia będzie uzależniona możliwość jej nabycia.</p>
+        <p xml:id="p-2">Minister właściwy do spraw wewnętrznych może zwracać się do innych niż określone w art. 2 ust. 1 pkt 2 organów administracji publicznej, organizacji zawodowych i instytucji państwowych o wyrażenie opinii oraz przekazanie dokumentów i informacji, w szczególności Ø zawartych w ewidencji gruntów i budynków, niezbędnych do realizacji zadań, o których mowa w art. 1 ust. 1, art. 3e oraz w art. 8 ust. 4.</p>
+        <p xml:id="p-3">1. Zezwolenie powinno określać w szczególności:</p>
+        <p xml:id="p-4">1) osobę nabywcy i zbywcy,</p>
+        <p xml:id="p-5">2) przedmiot nabycia,</p>
+        <p xml:id="p-6">3) specjalne warunki, w sytuacji określonej w art. 2 ust. 2.</p>
+        <p xml:id="p-7">2. Zezwolenie jest ważne dwa lata od dnia wydania.</p>
+        <p xml:id="p-8">Decyzję w sprawie zezwolenia na nabycie nieruchomości położonej na terenie specjalnej strefy ekonomicznej, ustanowionej na podstawie odrębnych przepisów, wydaje się w terminie miesiąca od dnia złożenia wniosku przez stronę.</p>
+        <p xml:id="p-9">Postępowanie w sprawie wydania zezwolenia umarza się, gdy wystąpi o to cudzoziemiec, na którego wniosek je wszczęto, a także gdy właściciel lub wieczysty użytkownik nieruchomości oświadczy, że nie zamierza jej zbyć na rzecz cudzoziemca ubiegającego się o zezwolenie.</p>
+        <p xml:id="p-10">Organ wydający decyzję lub postanowienie w postępowaniu toczącym się na podstawie przepisów ustawy może odstąpić od uzasadnienia faktycznego, jeżeli wymaga tego obronność lub bezpieczeństwo państwa.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

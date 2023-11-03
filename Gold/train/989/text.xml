@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Jarzyna, absolwent wydziału reżyserii krakowskiej PWST, zadebiutował Bzikiem tropikalnym wg S.I. Witkiewicza (1997) - spektakl ten został uznany przez krytykę za wydarzenie i najważniejszą w ostatnich latach realizację dramatów Witkacego.</p>
+        <p xml:id="p-2">Następne realizacje także zdobyły uznanie widzów i krytyki: Niezidentyfikowane szczątki ludzkie i prawdziwa natura miłości Brada Frazera w Teatrze Dramatycznym w Warszawie, oraz Iwona, księżniczka Burgunda Gombrowicza w Starym Teatrze w Krakowie. Kolejnym sukcesem, był Magnetyzm serca wg Ślubów panieńskich Aleksandra Fredry w Teatrze Rozmaitości w Warszawie oraz Doktor Faustus Tomasza Manna w Teatrze Polskim we Wrocławiu (przy współudziale berlińskiego Hebbel Theater).</p>
+        <p xml:id="p-3">W Teatrze Telewizji zadebiutował Historią Witolda Gombrowicza. Kolejna realizacja - Książę Myszkin wg Idioty Dostojewskiego - powstała w ramach programu THEOREM. Prezentowany na Festival d’Avignon Książę Myszkin zachwycił francuską publiczność i krytykę. Prasa pisała: „Jarzyna, utalentowany uczeń Lupy” (Liberation), „Reżyser o subtelnej inteligencji” (L’Humanite). Kolejną realizacją Grzegorza Jarzyny jest Uroczystość (teatralna adaptacja fabuły filmu Festen) Thomasa Vinterberga i Mogensa Rukova. Spektakl ten okazał się jednym z najważniejszych wydarzeń sezonu. Otrzymał zaproszenia do Hebbel Theater w Berlinie, na Wiener Festwochen oraz Festival d’Avignon (2002), Festiwal LIFT w Londynie (2002).</p>
+        <p xml:id="p-4">Najnowszymi realizacjami Grzegorza Jarzyny są dwie inscenizacje dramatu Sarah Kane 4.48 Psychosis: koprodukcja Teatru Rozmaitości i Teatru Polskiego z Poznania (luty 2002) oraz premiera w Düsseldorfer Schauspiel Haus (czerwiec 2002).</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

@@ -1,0 +1,19 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">JEZUS - ZAŁOŻYCIELEM NOWEJ RELIGII?</p>
+        <p xml:id="p-2">(MATEUSZ 5, 17-19)</p>
+        <p xml:id="p-3">Nie należy uważać nauki o miłości Boga ku wszystkim ludziom za wynalazek Jezusa. On po prostu odczytał tę prawdę w Piśmie Świętym. Można tylko stwierdzić, że jest ona jakimś nurtem głęboko ukrytym, rzadko pojawia się w wyraźnych sformułowaniach, niemniej jest.</p>
+        <p xml:id="p-4">A więc nie było łatwo, aby odczytać Pismo Święte jako księgę mówiącą o miłości Boga ku ludziom. Pismo Święte jest pełne najrozmaitszych historii i niehistorii, opowieści "ku pokrzepieniu serc", życiorysów i niby życiorysów, a naprawdę legend, lepiej czy gorzej umoralniających. Jest pełne bitew, rzezi dokonywanych również przez Izraelitów, którzy, aby się usprawiedliwić powołują się na rzekome polecenia Boga samego.</p>
+        <p xml:id="p-5">Poza tym w Piśmie Świętym są i przepisy dotyczące czystości i nieczystości rytualnej, sposoby świętowania wielkich świąt rocznicowych, jak również szabatu, przepisy higieniczne, choćby takie - jak należy się zachować, gdy się ktoś zarazi trądem.</p>
+        <p xml:id="p-6">Jest to wszystko zrozumiałe, gdy weźmiemy pod uwagę, że są w Piśmie Świętym przepisy, które Mojżesz wyznaczał narodowi izraelskiemu w czasie niezwykłym, jakim była wędrówka do Ziemi Obiecanej.</p>
+        <p xml:id="p-7">W tym gąszczu można się było zakopać, zagubić, zatracić orientację, na koniec już nic nie rozumieć, tylko najlepiej słuchać rabina, który komentuje na sposób faryzejski czytane teksty.</p>
+        <p xml:id="p-8">Jezus potrafił swoim geniuszem odróżnić ziarna od plew. Szedł przez Pismo Święte jak pszczoła, która potrafi zbierać z kwiatów to, co najwartościowsze dla niej. Szedł przez te teksty tym jednym tropem - jedynym - który się nazywa: miłość Boga ku swojemu stworzeniu, zwłaszcza ku ludziom. Ale ku wszystkim ludziom, nie tak jak tego uczyli faryzeusze, że wyłącznie ku Żydom a nie ku poganom, którymi Bóg gardzi i ich nienawidzi i potępia, tak jak również wszystkich grzeszników.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

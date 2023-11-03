@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Przyjechali „po nauki“ do Łosia</p>
+        <p xml:id="p-2">Z czeskiego ośrodka uzdrowiskowo-wczasowego przyjechali czescy leśnicy, aby zobaczyć jak wygląda struktura nadleśnictwa Łosie. Z nimi był doradca sekretarza Generalnej Dyrekcji Lasów Czeskich. Widać, że leśnicy czescy z powagą podchodzą do kultury leśnej, u nich coraz uboższej. Lasy to głównie świerczyny i ubogie jest runo leśne. Byli zachwyceni bogactwem naturalnym flory u fauny w nadleśnictwie Łosie, różnorodnością drzewostanów zdrowych i gospodarką leśną. U nich jak i na Słowacji i w Niemczech następuje przebudowa lasów liściastych, sadzą dęby, buki. Mogą zazdrościć nam lasów jodłowych i bukowych, terenów leśnych zagospodarowanych różnymi gatunkami drzew liściastych i iglastych. Byli także na terenach Ośrodka Hodowlanego. Ośrodek liczy 5500 ha znajdujących się w obrębie miejscowości Śnietnica, Czarna, Łosie. Jest to naturalna hodowla zwierzyny, szczególnie jeleniowatej. W ośrodku zwierzyna jest codziennie dokarmiana w okresie zimowym, chmary jeleni przebywają wtedy przy paśnikach. Obecnie zwierzyna rozbiegła się po całym nadleśnictwie, ale z końcem roku powróci do stołówki ośrodka. Pojawiły się dziki, na terenie ośrodka są cztery lochy z 20 warchlakami, są drapieżniki – wilki, rysie i żbiki, pojawiły się borsuki i niesamowicie wzrosła populacja lisów. Z lisami zaczyna być już problem, nie boją się ludzi, podchodzą do zabudowań, są mocne, odporne, bo systematyczna profilaktyka przeciw wściekliźnie daje efekty. Myśliwi do lisów nie chcą strzelać, szkoda nabojów, a skóry nie są w modzie i w cenie. Czescy sąsiedzi mogą jedynie zazdrościć takich problemów. Zwierzyny leśnej u nich jak na lekarstwo, spotykana bywa śladowo i nawet rudzielec jak rak na bezrybiu jest u nich rybą. (e)</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

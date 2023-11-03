@@ -1,0 +1,25 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">- zworka powinna zostać zwarta na stałe na czas jednego uruchomienia komputera, a następnie zdjęta po wyłączeniu komputera.</p>
+        <p xml:id="p-2">Niezastosowanie się do zaleceń instrukcji obsługi płyty głównej w tym względzie może skończyć się uszkodzeniem płyty głównej!</p>
+        <p xml:id="p-3">Czasem rolę zworki pełni mikroprzełącznik.</p>
+        <p xml:id="p-4">6. Wykonaj czynność opisaną w instrukcji, a więc zewrzyj na chwilę zworkę Clear CMOS lub zewrzyj ją trwale i uruchom komputer (nie pozwalając mu jednak rozpocząć ładowania systemu operacyjnego), po czym wyłącz go i zdejmij zworkę.</p>
+        <p xml:id="p-5">6. Uruchom komputer normalnie. Na ekranie powinien pojawić się ekran powitalny programu BIOS.</p>
+        <p xml:id="p-6">7. Skonfiguruj na nowo płytę główną za pomocą jej programu konfiguracyjnego.</p>
+        <p xml:id="p-7">Regulacja parametrów pracy pamięci operacyjnej</p>
+        <p xml:id="p-8">Regulacja parametrów pracy pamięci operacyjnej jest najprostszą formą podnoszenia wydajności komputera. Ponieważ procesor bardzo dużo czasu poświęca oczekiwaniu na nowe dane, optymalizacja pracy pamięci może nie tylko przyspieszyć komputer, którego procesor nie został podkręcony, ale też zwiększyć skuteczność podkręcania.</p>
+        <p xml:id="p-9">Większość płyt głównych umożliwia regulację trzech grup parametrów pracy pamięci operacyjnej SDRAM:</p>
+        <p xml:id="p-10">- skracanie cykli pracy pamięci operacyjnej jest całkowicie bezpieczne, jednak nie zawsze przynosi zauważalne zwiększenie wydajności,</p>
+        <p xml:id="p-11">- zwiększanie częstotliwości pracy pamięci operacyjnej może zwiększyć jej przepustowość, może jednak spowodować konieczność wydłużenia cykli pracy, by komputer nadal pracował stabilnie,</p>
+        <p xml:id="p-12">- zwiększenie napięcia zasilającego moduły pamięci ułatwi ich podkręcanie, może jednak skończyć się ich uszkodzeniem lub zniszczeniem.</p>
+        <p xml:id="p-13">Skracanie cykli pracy pamięci operacyjnej</p>
+        <p xml:id="p-14">Skracanie cykli pracy pamięci operacyjnej nie jest może najskuteczniejszą metodą zwiększania wydajności komputera, jednak jest znacznie bezpieczniejsze niż typowe podkręcanie procesora. Zmiana parametrów pracy pamięci nie narusza też w żaden sposób gwarancji i nie może doprowadzić do jej uszkodzenia.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

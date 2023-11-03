@@ -1,0 +1,16 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">25 maja 2004 - 0:01</p>
+        <p xml:id="p-2">Tak w największym skrócie można opisać zasadę, na której opierają swoje działanie tak zwane systemy argentyńskie. Na ich przykładzie widać jak na dłoni, że Polska to raj dla oszustów, którzy w majestacie prawa wykorzystują najczęściej dwie kategorie ludzi - tych bardzo naiwnych albo tych bardzo zdesperowanych, tak bardzo, że nie patrzą od kogo właściwie chcą pożyczać pieniądze.</p>
+        <p xml:id="p-3">- To zasada działania. Firmy, które stosują "systemy argentyńskie" bazują na niewiedzy ludzi. Tolerują albo nawet zachęcają swoich agentów, aby świadomie dezinformowali klientów i zapewniali ich, że otrzymają upragnione pieniądze - mówi pracownica warszawskiej Rady Krajowej Federacji Konsumentów.</p>
+        <p xml:id="p-4">Daję słowo...</p>
+        <p xml:id="p-5">Na słowo właśnie uwierzył Andrzej, mieszkaniec jednej z podkieleckich miejscowości. - Potrzebowałem pieniędzy na dokończenie budowy domu. Wstyd się przyznać, ale zrobiłem z siebie "jelenia". Zostałem oszukany, a potem jeszcze zastraszany. I wiem, że takich ludzi jak ja jest mnóstwo - opowiada. - Skusiły mnie niskie raty na reklamie. Kiedy poszedłem do firmy to tam pan się zarzekał, że to nie jest "system argentyński". Przeczytałem umowę, starałem się zrozumieć tak jak potrafię i coś mi się nie zgadzało między tym co usłyszałem a tym, co przeczytałem. Ale przedstawiciel powiedział, że ta umowa jest nieadekwatna, że była tworzona dawno, a teraz firma działa inaczej.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

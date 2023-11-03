@@ -1,0 +1,21 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">– Co, mokre?!</p>
+        <p xml:id="p-2">Przystupa pokręciła przecząco głową, Gospodyni zawsze powtarzała, żeby nie siadać na stołkach bez ostrzeżenia w wieczór wigilijny, bo można przygnieść duszę.</p>
+        <p xml:id="p-3">– Duszę? – upewniła się Matka Gwiazdy.</p>
+        <p xml:id="p-4">Gospodyni mówiła też, że dlatego robi się postne rzeczy i stawia dodatkowe nakrycie, żeby było dla gości z zaświatów.</p>
+        <p xml:id="p-5">– A nie pomyliło jej się z Zaduszkami?</p>
+        <p xml:id="p-6">Przystupa pokręciła przecząco głową. Nie wiedziała, czy sama Gospodyni w to wszystko wierzyła, nie wiedziała nawet, czy ona sama w to wierzy, ale tak jak na progu kościoła żegnała się odruchowo, tak na stołku w Wigilię siadała powoli, najpierw machnąwszy nad nim ręką.</p>
+        <p xml:id="p-7">Matka Gwiazdy ze sceptycznym wyrazem twarzy klapnęła w końcu na tapczanie.</p>
+        <p xml:id="p-8">– Do jego rodziców pojechali. Tamci tu nie chcieli, bo im daleko, a zięć aż się tam rwał, bo mówi, że u nich zapach ciasta przynajmniej prawdziwy.</p>
+        <p xml:id="p-9">Przeciągnęła ręką po czole, nad którym piętrzyła się staranna grzywka.</p>
+        <p xml:id="p-10">– Tyle roboty i na nic! Nanosili się ci kateringowcy, a tu godzina i po wszystkim. I mnie córka Ø nic przygotować nie pozwoliła... Ja się do takiego nicnierobienia nie nadaję, tyle lat pracowałam, do nich zjechałam, bo myślałam, że do dzieciaka czy przy domu się przydam, ale tu ogrodnicy, specjaliści i na co ja komu? A córka mi mówi: „Idź mama na lancz”. To ja jej mówię: „Dziecko, jaki lancz, to dobre dla obiboków, ja całe życie harowałam, nie umiem tak na tyłku usiąść i czekać, aż pod nos mi podstawią”. Co poradzę, że nie umiem? To ona mi każe do kosmetyczki i na siłownię. A mało ja się w życiu nasiłowałam? Ciężko bywało, ale co to za życie bez obowiązku? Żadne!</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

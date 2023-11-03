@@ -1,0 +1,18 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Ze szpitala Maszkiewicz pod opieką polskiego konsula udał się do ambasady. Wczoraj załatwiał jeszcze formalności związane z wyjazdem.</p>
+        <p xml:id="p-2">Oczekujących przed szpitalem dziennikarzy zapewnił, że czuje się dobrze. - Opieka medyczna była bardzo dobra. Można powiedzieć, że białoruscy lekarze wyrwali mnie z rąk milicji - powiedział.</p>
+        <p xml:id="p-3">- Poczułem się źle w więzieniu na piąty dzień, gdy przyszli do mnie konsul i pani adwokat. Popatrzyli na moją twarz, zobaczyli mój stan i postanowili zawołać lekarza. Przyszedł lekarz, przyjechało pogotowie i już mnie zabrało. Odbywało się to już poza moimi decyzjami. To nie był mój pomysł, żeby iść do szpitala, lecz decyzja lekarzy. Sprawdzili stan mojego serca, wszystkie wyniki badań i stwierdzili, że muszę swoje odleżeć - opowiadał.</p>
+        <p xml:id="p-4">Na pytanie o doniesienia, że przeszedł mikrozawał , odparł, że "takie były teoretycznie wskazania EKG". Zastrzegł jednak, że chce jeszcze ocenić stan swego zdrowia i wyniki badań z polskimi lekarzami.</p>
+        <p xml:id="p-5">Na temat okoliczności zatrzymania i pobytu w areszcie Maszkiewicz nie chciał się wypowiadać, dopóki znajduje się na terytorium Białorusi.</p>
+        <p xml:id="p-6">Maszkiewicz wiąże swoje uwolnienie z dzisiejszą inauguracją prezydenta Alaksandra Łukaszenki na trzecią kadencję. Według niego, władze białoruskie wolały uniknąć poważnych zadrażnień w tym dniu.</p>
+        <p xml:id="p-7">Zastępczyni rzecznika polskiego MSZ Justyna Lewańska powiedziała, że były ambasador został uwolniony dzięki działaniom polskiego Ministerstwa Spraw Zagranicznych. Podkreśliła, że polskie MSZ wyraża zadowolenie z uwolnienia Maszkiewicza przez białoruskie władze.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

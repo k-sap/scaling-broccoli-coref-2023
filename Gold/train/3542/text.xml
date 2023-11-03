@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">SenatorLeonKieres: Zwracam się do Biura Legislacyjnego z prośbą, żeby odnotowało tę problematykę, bo biuro notuje to, co mówię. To są moje oficjalne poprawki, które będę zgłaszał, Panie Marszałku, a teraz robię to ustnie.</p>
+        <p xml:id="p-2">SenatorLeonKieres: Problem następny dotyczy art. 21, może jest redakcyjny, ale bardzo istotny. Mówi się tutaj, że można ograniczyć zakres akredytacji, zawiesić akredytację lub dokonać jej cofnięcia. Rozumiem, że można ograniczyć zakres akredytacji, natomiast zawieszanie akredytacji... Bo chodzi tutaj nie o stwierdzenie możliwości, ale o stwierdzenie pewnego imperatywu. Zresztą o tym jest mowa dokładnie w ust. 3 i 4. A więc Centrum Akredytacji - tak powinno być napisane - może albo ograniczyć zakres akredytacji, albo zawiesić akredytację lub dokonać jej cofnięcia. Nie ma tutaj żadnej swobody, zresztą wynika to z ustawy.</p>
+        <p xml:id="p-3">SenatorLeonKieres: Kolejna sprawa to art. 25 ust. 7. Minister może odmówić udzielenia notyfikacji ze względu na zagrożenie bezpieczeństwa i obronności państwa. To oznacza, proszę państwa, jeśli jest tu koniunkcja zaznaczona spójnikiem "i", że minister może odmówić udzielenia akredytacji tylko wówczas, kiedy jednocześnie nastąpi zagrożenie bezpieczeństwa i obronności państwa. A jeżeli nastąpi zagrożenie bezpieczeństwa, ale nie obronności państwa? Albo odwrotnie, jeśli nastąpi zagrożenie obronności państwa, ale nie bezpieczeństwa? Moim zdaniem, powinna tutaj być zwykła alternatywa, czyli na przykład spójnik "lub".</p>
+        <p xml:id="p-4">SenatorLeonKieres: I w dalszym ciągu podtrzymuję jednak pogląd, choć być może nie podzieli go komisja, że powinien być w art. 36 ogólny przepis mówiący o odpowiednim stosowaniu w sprawach tu nieuregulowanych kodeksu postępowania administracyjnego. Dziękuję.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

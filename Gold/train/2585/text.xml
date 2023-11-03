@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Już w zeszłym roku wywalczyli oni mistrzostwo świata po tym, jak po igrzyskach olimpijskich z rywalizacji wycofały się dwie inne czołowe pary - Francuzi Marina Anissina i Gwendal Peizerat oraz Włosi Barbara Fusar-Poli i Maurizio Margaglio . Pierwsza z nich była zamieszana w olimpijski skandal sędziowski, natomiast Włosi czuli się już zbyt zmęczeni niesprawiedliwymi, ich zdaniem, werdyktami arbitrów w zawodach różnej rangi .</p>
+        <p xml:id="p-2">Na 9. miejscu rywalizację ukończyli Sylwia Nowak i Sebastian Kolasiński. Łodzianie chcieli uplasować się w pierwszej dziesiątce i ten cel zrealizowali. - Jeśli chodzi o ogólny poziom tańców na lodzie, to nie był tak wysoki jak dotychczas - powiedziała trenerka łódzkich zawodników Maria Olszewska-Lelonkiewicz. - Zwyciężyła zasłużenie para rosyjska, a po niej była długa przerwa, bo pozostali uczestnicy tej konkurencji znacznie im ustępowali. Później rzeczywiście umiejscowiłabym pary medalistów. Nad dalszym układem par można wiele dyskutować. W plejadzie par do siódmego miejsca to najwyżej oceniam reprezentantów Niemiec. Uważam, że my również powinniśmy w tej grupie walczyć. Niestety tak się nie stało choć, wysoko sklasyfikowane pary z Izraela i Ukrainy swoim poziomem nie zasłużyły na tak wysokie lokaty. Jeżeli chodzi o drugą naszą parą Agnieszkę Dulej i Sławka Janickiego, to zostali wyraźnie skrzywdzeni przez arbitrów. Dopiero w tańcu dowolnym sędziowie docenili naszych reprezentantów, którzy wyprzedzili parę z Estonii i zajęli w końcu 21 miejsce. - Czy jest pani zadowolona z występu naszych par? - Uważam, że nie zawiedli, choć nie pokazali wszystkiego na co ich stać. Przygotowywali się do mistrzostw w bardzo trudnych warunkach, w minusowych temperaturach, panujących na lodowisku. Nie wpłynęło to oczywiście pozytywnie na ich formę. Na zgrupowanie PZŁ nie miał pieniędzy, a więc musieliśmy trenować na lodzie, który mieliśmy do dyspozycji. Straciliśmy przez to nieco dynamiki i ślizgu. Wiem, że na pewno stać nas na więcej.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

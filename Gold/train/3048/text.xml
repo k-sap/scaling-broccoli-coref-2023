@@ -1,0 +1,45 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">DO AGNIESZKI</p>
+        <p xml:id="p-2">Słyszałem, że z Kasią wszystko w porządku.</p>
+        <p xml:id="p-3">AGNIESZKA</p>
+        <p xml:id="p-4">W poniedziałek wypisują ją ze szpitala.</p>
+        <p xml:id="p-5">Tymczasem Kinga staje obok Jolki, która jeszcze nie usiadła i mówi do niej konfidencjonalnie (tak, że Mirek i Agnieszka nie słyszą)</p>
+        <p xml:id="p-6">KINGA</p>
+        <p xml:id="p-7">To znaczy, że ty z Mirkiem...</p>
+        <p xml:id="p-8">JOLKA</p>
+        <p xml:id="p-9">Z UŚMIECHEM, TEŻ SZEPTEM</p>
+        <p xml:id="p-10">To znaczy, że go poznałam i wydaje mi się, że to bardzo fajny facet...</p>
+        <p xml:id="p-11">AGNIESZKA</p>
+        <p xml:id="p-12">Co to za spiskowanie?</p>
+        <p xml:id="p-13">KINGA</p>
+        <p xml:id="p-14">Jakie spiskowanie?</p>
+        <p xml:id="p-15">JOLKA</p>
+        <p xml:id="p-16">Ja tylko powiedziałam Kindze, że Mirek to bardzo fajny facet.</p>
+        <p xml:id="p-17">Mirek spogląda na Jolkę. Jest bardzo speszony tym, że trzy dziewczyny patrzą na niego rozbawione jego nieporadnością. Uśmiecha się niepewnie i rozluźnia krawat.</p>
+        <p xml:id="p-18">Scena</p>
+        <p xml:id="p-19">WNĘTRZE. NOC. DOM MARII. POKÓJ URSZULI. MARIA, URSZULA</p>
+        <p xml:id="p-20">Marysia siedzi w pokoju Urszuli, która podenerwowana wstaje.</p>
+        <p xml:id="p-21">URSZULA</p>
+        <p xml:id="p-22">Zawsze uważałam, że mężczyźnie nie wolno dawać za wiele swobody, ale to co ty robisz, to już jest zwykła przesada.</p>
+        <p xml:id="p-23">MARIA</p>
+        <p xml:id="p-24">Ryszard ci się poskarżył?</p>
+        <p xml:id="p-25">URSZULA</p>
+        <p xml:id="p-26">Myślisz, że jestem idiotką? Wystarczy wejść do tego domu i wszystko widać jak na dłoni.</p>
+        <p xml:id="p-27">MARIA</p>
+        <p xml:id="p-28">Masz rację. Tylko nie rozumiem dlaczego ja mam być temu winna.</p>
+        <p xml:id="p-29">URSZULA</p>
+        <p xml:id="p-30">KPIĄCO</p>
+        <p xml:id="p-31">Ona się mnie pyta dlaczego...</p>
+        <p xml:id="p-32">POWAŻNIE</p>
+        <p xml:id="p-33">Twój mąż cierpi. I to cierpi przez ciebie.</p>
+        <p xml:id="p-34">Marysia przez chwilę nie może wymówić słowa z oburzenia.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

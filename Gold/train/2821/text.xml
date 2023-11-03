@@ -1,0 +1,16 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Jest to średniej wielkości lis o szaro cętkowanym futrze, z jaśniejszą spodnią częścią ciała, z głową w kolorze rdzawym z białymi plamkami; podszerstek ma barwę rdzawoczerwoną. dużymi uszami, wąskim pyskiem, długim i Ma gęsto owłosiony, puszysty ogon z czarną pręgą na wierzchu. Charakteryzuje sie długością ciała 42-68 cm, ogona ponad 30 cm, wysokością w kłębie ponad 40 cm, a ciężarem ponad 4 kg. Nogi krótkie i mocne. Posiada pazury ostrzejsze i bardziej zakrzywione od innych psowatych. Często wspina się na drzewa, których korony są dla niego doskonałą kryjówką. Jest on jedynym gatunkiem psowatych, który potrafi tego dokonywać.</p>
+        <p xml:id="p-2">Pożywienie</p>
+        <p xml:id="p-3">Jest zwierzęciem wszystkożernym, jednak przeważnie żywi się pokarmem zwierzęcym. Umiejętność wspinaczki po drzewach przydaje mu się podczas zdobywania jagód i innych owoców. Ze zwierząt poluje (zazwyczaj w nocy) na niewielkie ptaki, myszy i inne gryzonie. Z nadmiaru zdobytego pożywienia robi zapasy w postaci podziemnego schowka, który potrafi wyczuć już z odległości 3 metrów. Dzięki wspaniałemu zmysłowi powonienia wyczuje niekiedy zagrzebane w ziemi na kilka centymetrów jaja, które także stanowią część jego diety.</p>
+        <p xml:id="p-4">Rozmnażanie</p>
+        <p xml:id="p-5">Na kilka dni przed porodem samica wypędza samca z legowiska, jednak powraca on kilka dni po porodzie i dostarcza pożywienia potomstwu i samicy. Okres rozrodu Ø od sierpnia do września, ciąża Ø trwa 53-58 dni, samica rodzi zwykle 3-6 szczeniąt. Młode ważą około 80g i rodzą się z czarną sierścią. Przez pierwsze dni życia potomstwo jest ślepe i zdane na opiekę osobników dorosłych. Po około sześciu tygodniach młode lisy są już zostawiane same na czas polowania. Opieka nad potomstwem trwa około 5 miesięcy.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

@@ -1,0 +1,20 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Kochankowie na różne sposoby zapewniają siebie o miłości. Gdy jesteśmy zakochani, wymyślamy swój własny język, gdzie jest miejsce dla ukochanej myszki, rybki, kotka, żabci, serduszka, słoneczka, promyczka, kwiatuszka, tygryska, misia czy po prostu mówimy do siebie "kochanie". To swoista miara bliskości i czułości.</p>
+        <p xml:id="p-2">Kobieta - kwiat...</p>
+        <p xml:id="p-3">Najczęściej kobiety porównuje się do kwiatów, szczególnie do czerwonych róż, gdyż są one oznaką miłości. Dlatego panienki są jak pączki róż, a dojrzałe panie - jak kwitnące róże.</p>
+        <p xml:id="p-4">Cera kobiet jest jak płatki róż, usta są jak różyczki, skóra ich pachnie różami. Jednak oprócz róż mężczyźni często sięgają po inne kwiaty: kobiety są jak piwonie, pachną bzem, jaśminem, konwalią czy liliami, mają oczy jak chabry, usta jak maki.</p>
+        <p xml:id="p-5">...lub owoc</p>
+        <p xml:id="p-6">Często panie porównuje się do owoców - kobiety mają cerę brzoskwiniową, usta jak maliny, pocałunki słodkie jak winogrona czy owoce mango. Dziewczyna gotowa do miłości jest jak dojrzały owoc. A ponadto dwie połówki jabłka - to przecież idealnie dobrana para!</p>
+        <p xml:id="p-7">Mężczyzna...</p>
+        <p xml:id="p-8">...to zazwyczaj miś, misiaczek, tygrysek, koteczek, a czasami też ptyś z kremem. Określeń na partnera jest znacznie mniej niż kobietę, gdyż panie nie wstydzą się być cukiereczkiem nawet w gronie przyjaciół, a panowie wręcz przeciwnie.</p>
+        <p xml:id="p-9">A czym jest miłość?</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

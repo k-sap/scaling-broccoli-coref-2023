@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Uniwersytety polskie od stuleci stanowią integralną część europejskiej myśli naukowej i edukacyjnej oraz z powodzeniem uczestniczą w wymianie osiągnięć badawczych i kształceniu studentów. Dlatego też Rada Główna zwraca uwagę na konieczność objęcia wspólnym systemem edukacyjnym wszystkich uczelni europejskich we wszystkich krajach UE. Odnosząc się generalnie do głównego celu dokumentu, jakim jest wzmocnienie konkurencji nauki europejskiej wobec osiągnięć amerykańskich szkół wyższych, Rada Główna pragnie zauważyć, iż rozbieżność historycznych i społecznych uwarunkowań badań naukowych, działalności artystycznej i edukacji w Europie i USA jest tak znaczna, iż stawia pod znakiem zapytania sensowność " konkurowania " dwóch systemów. Rozbieżności owe widoczne choćby w tak istotnych kwestiach, jak tradycja bezpłatnego dostępu do edukacji, państwowego mecenatu nad nauką, sztuką i edukacją, rozdziału przemysłu od nauki każą się zastanowić, czy w istocie nie lepiej mówić jest o innym, europejskim systemie uprawiania nauki i edukowania oraz dążyć do jego maksymalnej efektywności i sprawności. Zważywszy na olbrzymie koszty badań być może należało by dążyć do wyłonienia grupy uczelni europejskich, które istotnie mogłyby współzawodniczyć z najlepszymi uczelniami amerykańskimi, podczas gdy pozostałe kształcąc studentów prowadziłyby badania jedynie w wybranych kierunkach nauki. Nawet i wtedy jednak pozostanie odmienność otoczenia społecznego, fiskalnego i legislacyjnego, która utrudni funkcjonowanie szkół wyższych w Europie według wzorców amerykańskich. Sądzimy zatem, iż system europejski winien funkcjonować przede wszystkim według zasady dobrej współpracy z uczelniami amerykańskimi.</p>
+        <p xml:id="p-2">Znaczenia dokumentu Komisji upatrujemy w poruszeniu kilku kwestii niezwykle istotnych dla Polski, zwłaszcza w chwili wstępowania naszego kraju do struktur UE. Szczególnie pragniemy zaakcentować następujące kwestie:</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

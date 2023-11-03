@@ -1,0 +1,14 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">olszyna_nad_rowem taki temat juz istnieje , pozatym to zły dział , co Ci przyszlo do głowy zeby w modzie męskiej zakladac ??</p>
+        <p xml:id="p-2">Orlandoo CYTAT(olszyna_nad_rowem @ 14.01.2008, 21:54) "taki temat juz istnieje , pozatym to zły dział , co Ci przyszlo do głowy zeby w modzie męskiej zakladac ??" Olszyno_nad_rowem! : Po pierwsze, temat podany przez Ciebie absolutnie nie wiąże się z moim Ø, gdyż tam autor/autorka prosi o propozycje książek na prezent i w dodatku dla przyjaciela (o ile dobrze przeczytałeś tekst ze zrozumieniem ) natomiast ja szukam ogólnie prezentu na urodziny dla DZIEWCZYNY. Tak więc Twoja dociekliwość nie zdała tu egzaminu... Przykro mi. Po drugie temat założyłem w tym dziale tak z przyzwyczajenia Przyznaję, że nie ma on zbyt wiele wspólnego z Modą Męską Ale jak sam widzisz, temat cieszy się jakimś zainteresowaniem, co mnie niezmiernie cieszy. Przepraszam za tych kilka dosadnych słów i dziękuję za troskę o Forumowisko Miło Duży plus dla Ciebie, ale dodatkowej gwiazdki raczej kolego/koleżanko nie dostaniesz PS Dzięki za Wasze propozycje i proszę o więcej Ø</p>
+        <p xml:id="p-3">greys_kelly Tylko nie biżuterie i nie perfumy! Proponuje książkę z pozycjami na każdy dzień tygodnia, albo jakoś inną o seksie. Jak ma być śmiechowo to to się w sam raz nadaje.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

@@ -1,0 +1,18 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Nie takie to proste. Lewa ręka wczepiona w skałę, prawa ściska koniec kijka, pod nogami obsuwający się śnieg. Ruda zdobywa się jednak na wysiłek. Odbija się lewą nogą i skacze z nieoczekiwaną zręcznością. Jesz cze dwa skoki i ląduje obok Oppenheima.</p>
+        <p xml:id="p-2">- Zosia miała rację. Ty nas wszystkich przyprawisz kiedyś o cholerny atak serca... - powiada Józio i rozwiązuje kije.</p>
+        <p xml:id="p-3">Była to delikatna aluzja do zjazdu Rudej holwegiem z Doliny Olczyskiej. Ruda, rozpuściwszy narty, wpadła na bale zerwanego mostu i zawisła dosłownie tuż nad wodą. Zanim towarzysze wyratowali ją z opresji, musiała wysłuchać wielu cierpkich uwag.</p>
+        <p xml:id="p-4">Spotkanie z niedźwiedziem to też jedna z dawnych emocji wiosennych. Solidny niedźwiedź śpi zazwyczaj do marca. W marcu miś opuszcza legowisko i wyrusza na poszukiwanie strawy. Obwąchuje starannie lawiniska i patroluje polany, gdzie łatwo o spotkanie z sarną i o wiosenne, roślinne przysmaki.</p>
+        <p xml:id="p-5">W dolinach: Jaworowej, Niewcyrki, Cichej i Kamienistej ślady niedźwiedzie widywało się najczęściej.</p>
+        <p xml:id="p-6">W Niewcyrce, w parę lat po wojnie, był to rok chyba 1922, natknął się Oppenheim z kompanią na misia w pełni słonecznego blasku. Narciarze zjeżdżali z Furkotnej Przełęczy. Zatrzymali się na górnym progu do liny, żeby wyszukać najdogodniejszy zjazd przez stare lawinisko.</p>
+        <p xml:id="p-7">Miś stał na kopcu lawiny blisko ścian Krywania. Wiatr wiał w stronę ludzi, więc niedźwiedź spokojnie rozgrzebywał śnieg. Narciarze patrzyli w milczeniu. Domyślali się, że miś zwietrzył kozią padlinę.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

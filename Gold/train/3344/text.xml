@@ -1,0 +1,14 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Jarosław Kaczyński bierze mohery, jak sam nazywa tę grupę obywateli, pod swoje skrzydła. Już bez niedomówień czyni z nich swój główny, najważniejszy elektorat, stwierdzając wprost, że z prawej strony ma już ścianę i żadnej konkurencji. Taki obraz wynika z wywiadu, jakiego udzielił "Rzeczpospolitej". Do wyborców zamierza dotrzeć przez parafie. Nie powiedział, czy do kościelnej struktury terytorialnej dostosuje partyjną, co byłoby logiczne. Swoją drogą ciekawe, jak do podpięcia się pod parafie ustosunkują się biskupi. Jednocześnie chce Kaczyński zrekonstruować wizerunek swojej partii, mówi o "nowym froncie medialnym z nowymi twarzami PiS". Logicznie rzecz biorąc, powinny to być twarze z okolic znanej toruńskiej rozgłośni, ze wszystkimi występującymi tam poglądami.</p>
+        <p xml:id="p-2">Ale zapewne prezes PiS nie będzie tu konsekwentny i zacznie lansować "modernizację" przy taktycznym poparciu moherów na zasadzie cichego kontraktu: trzeba trochę popracować nad PR, zrobić lepsze wrażenie, poudawać nowoczesność, a nawet jakąś proeuropejskość w granicach rozsądku, ale tylko po to, aby wrócić do władzy i zrealizować wtedy prawdziwe ideały. Dlatego na pierwsze miejsca na listach wyborczych do europarlamentu będzie brał osoby wskazane przez o. Rydzyka, o czym już w PiS się mówi, ale do telewizji będzie wysyłał tych umiarkowanych, "merytorycznych". Czy ktoś się da nabrać na tę maskaradę?</p>
+        <p xml:id="p-3">Na prosty rozum nie, ale w polskiej polityce nie ma stałych granic absurdu, są one wyznaczane na bieżąco. Popierając PiS, można stać się moherem, nic o tym nie wiedząc.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

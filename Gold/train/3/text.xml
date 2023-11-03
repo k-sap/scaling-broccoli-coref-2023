@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Paweł Kryszałowicz (Eintracht Frankfurt): - Ukraińcy postawili nam wysokie wymagania. Remis jest sprawiedliwy, choć przy odrobinie szczęścia mogliśmy wygrać. Mam do siebie pretensję, bo przy lepszej koncentracji mogłem zdobyć bramkę.</p>
+        <p xml:id="p-2">Jacek Krzynówek (1. FC Nuernberg): - Cieszę się, że mogłem wystąpić w meczu kończącym eliminacje. Ze swej strony zrobię wszystko, aby nie wypaść z kadry, mimo że nie mam ugruntowanej pozycji w swoim klubie. Zasłużyliśmy na awans, bo byliśmy zespołem, który grał najrówniej i w głupi sposób nie tracił punktów.</p>
+        <p xml:id="p-3">Marek Koźmiński: Mecze z Ukrainą spinają klamrą eliminacje, które będziemy pamiętać do końca życia. Uważam, że kibice oglądali dzisiaj dobry mecz dwóch równych zespołów. Moim zdaniem Ukraińcy zasłużenie zajęli drugie miejsce , jednak nie chciałbym spotkać się z nimi na mundialu. To bardzo niewygodny przeciwnik. Może wygrać z każdym.</p>
+        <p xml:id="p-4">Zbigniew Boniek (wiceprezes PZPN): - Najważniejsze, że eliminacje zakończyły się sukcesem. Jestem usatysfakcjonowany. Chcę podkreślić, że kibice i dziennikarze dostrzegają tylko to, co dzieje się na boisku i rzadko kiedy zwracają uwagę na kulisy sukcesów piłkarzy, a oznaczają one ogromny wysiłek organizacyjny, wiele pracy rzeszy ludzi, którzy nie stoją w pierwszym szeregu, ale wykonują nieraz ciężkie i niewdzięczne zadania. Moim zdaniem między innymi dlatego, że sprawy organizacyjne zostały ułożone na odpowiednim poziomie, wszyscy możemy się dzisiaj cieszyć z awansu do mistrzostw świata.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

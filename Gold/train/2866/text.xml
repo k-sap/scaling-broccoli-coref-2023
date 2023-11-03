@@ -1,0 +1,17 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Jutro zaczynam bardzo ważną część rozdziału o Zwierkowskim: rzekomy "spisek'' Lelewela. Boże, jak bym już chciał skończyć ten rozdział. Okropnie mnie znudził.</p>
+        <p xml:id="p-2">Wczoraj byli u mnie Mariola z Giannim. Bardzo przyjemny wieczór. Dziś byłem u Stasiów Kowalewskich. Też było bardzo przyjemnie.</p>
+        <p xml:id="p-3">Warszawa, niedziela 10 grudnia</p>
+        <p xml:id="p-4">Wspaniały dzień. Po wyprowadzeniu się Grażyny poczułem się po raz pierwszy od kilkunastu lat całkowicie na własnych śmieciach. Pierwszy dzień bez nieporządku, hałasu i nieżyczliwości - którymi z przedziwnym talentem wypełniała cały dzień. Dopiero teraz zdałem sobie sprawę z tego, jak bardzo ciążyła mi jej obecność. Po południu młodzi państwo Maciejewscy przyszli się wykąpać, bo tam nie mają ciepłej wody. Grażyna po raz pierwszy jako gość. Odmieniona nie do poznania. Spokojna, dystyngowana, uprzejma. Nie ma to jak twarda szkoła życia. Teraz zacznie doceniać dom. Po Basi też widać, że odetchnęła. Będzie mogła podgonić swój kryminał.</p>
+        <p xml:id="p-5">Na Marszałkowskiej przy alei Gwardii Ludowej kończą tunel Trasy Łazienkowskiej. Zawsze mnie wzrusza, kiedy to, co powstało na naszych oczach, zastyga w stały kształt i staje się elementem życia miasta. Za dwa lata trudno będzie sobie przypomnieć, że tego tunelu kiedyś nie było.</p>
+        <p xml:id="p-6">Zbliżam się już do końcowych partii rozdziału o Zwierkowskim. Będzie tego najmarniej osiemdziesiąt stron. Nie mogę tylko nigdzie wepchnąć tego wspaniałego artykułu o Żydach z "Kuriera Polskiego'' z 11 stycznia 1831 roku.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

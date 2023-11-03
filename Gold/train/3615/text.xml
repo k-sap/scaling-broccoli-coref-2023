@@ -1,0 +1,24 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">"Wędrowcze powiedz skąd przychodzisz, dokąd zmierzasz i jakie są Twoje zamiary?"</p>
+        <p xml:id="p-2">Nasza Firma nazywa się Diorama, co dosłownie oznacza: obrazek, wizerunek. Tworzymy pewien wizerunek, styl życia i uczymy go.</p>
+        <p xml:id="p-3">Głosimy idee bezpiecznego, pięknego, dającego zadowolenie seksu i stylu życia kochanków.</p>
+        <p xml:id="p-4">Dysponujemy wiedzą naukową, którą w naszym życiu zastosowaliśmy w praktyce z powodzeniem.</p>
+        <p xml:id="p-5">Dziękujemy serdecznie naszym Przyjaciołom, którzy nas wspierali emocjonalnie i pomagali nam przejść od słów do czynów i wprowadzić w życie nasze śmiałe przedsięwzięcie.</p>
+        <p xml:id="p-6">Dziękujemy też wszystkim osobom, które były łaskawe udostępnić nam swoje prywatne obserwacje związane z zastosowaniem zasad bezpiecznego seksu.</p>
+        <p xml:id="p-7">Geneza przedsięwzięcia</p>
+        <p xml:id="p-8">Zagadnienie bezpiecznego seksu interesuje chyba każdego. W pewnym momencie, dawno temu, zainteresowało także i nas. Zrodziły się pytania popychające nas do poszukiwania odpowiedzi. Przyznać trzeba, że nie było łatwo. Gazety, lekarze, podręczniki, księgarnie, studiowanie książek, weryfikacja metod, wyjaśnianie wątpliwości, pukanie do różnych drzwi...</p>
+        <p xml:id="p-9">Wiele par chciałoby stosować zasady bezpiecznego seksu, ale nie wiedzą jak. Jesteśmy tu, aby poprowadzić ich utorowaną przez nas ścieżką. Dlatego stworzyliśmy Szkołę Uniesień.</p>
+        <p xml:id="p-10">Kilka słów o początkach mojej przygody z NPR</p>
+        <p xml:id="p-11">Wybrałam NPR świadomie. Długo zanim rozpoczęłam aktywność seksualną zdecydowałam się na taki rodzaj planowania rodziny.</p>
+        <p xml:id="p-12">Dlaczego?</p>
+        <p xml:id="p-13">Aby mieć pewność, że moje dziecko przyjdzie do mnie wtedy, kiedy je zaproszę, kiedy będę na to gotowa.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

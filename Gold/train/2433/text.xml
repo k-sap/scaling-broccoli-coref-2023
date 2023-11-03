@@ -1,0 +1,21 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">W przychodni na Tuwima przyjmuje dorosłych pacjentów dwóch stomatologów, przy 11 Listopada również dwóch. Gabinety w przychodni przy ul. Banacha są zamknięte.</p>
+        <p xml:id="p-2">- I tak zostanie do końca roku - wyjaśnia Karbowiak. - W styczniu, kiedy będziemy mieli nowe limity, gabinety znowu będą czynne.</p>
+        <p xml:id="p-3">Przyszły rok zapowiada się jeszcze gorzej, ponieważ znikną stomatolodzy ze szkół.</p>
+        <p xml:id="p-4">- To wszystko przez brak pieniędzy - nie ukrywa Karbowiak. - Mamy jeszcze nadzieję, że tą sprawą zainteresuje się samorząd lokalny i on utrzyma gabinety stomatologiczne w szkołach. Profilaktyka przecież tańsza jest niż późniejsze leczenie.</p>
+        <p xml:id="p-5">Jeden na trzy tysiące</p>
+        <p xml:id="p-6">Mariola Rynkiewicz rzecznik prasowy słupskiego oddziału Pomorskiej Kasy Chorych</p>
+        <p xml:id="p-7">- Ustawa nakłada na kasy chorych obowiązek zapewnienia jednego stomatologa na 3-4 tys. pacjentów. I tego się trzymamy. W Słupsku jeden dentysta obsługuje 3182 osoby, więc mieścimy się w wyznaczonych ramach. Kasa podpisała kontrakty z wieloma kontrahentami, nie tylko z Miejskim ZOZ. Pacjenci PKCh przyjmowani są przez indywidualnych stomatologów, przez przychodnię Medicus, przy ul. Piłsudskiego, Spółdzielnię Lekarską przy placu Dąbrowskiego, POLO, Niepubliczny ZOZ przy ul. Wiejskiej</p>
+        <p xml:id="p-8">Będą płacić</p>
+        <p xml:id="p-9">Jerzy Iwaszko dyrektor Miejskiego ZOZ</p>
+        <p xml:id="p-10">- Kasa Chorych zmniejszyła nam finansowanie, jeśli chodzi o stomatologię o 23 proc. Będziemy zmuszeni do redukcji etatów od nowego roku. Myślę też o tym, żeby wykorzystać gabinety, jakimi dysponujemy i pozwolić stomatologom przyjmować prywatnie pacjentów. Nie chcieliśmy tego robić do tej pory, bo usługi stomatologiczne powinny być ogólnodostępne i bezpłatne dla wszystkich ubezpieczonych pacjentów. Do przychodni przy ul. Tuwima przychodzi wielu pacjentów, bo istnieje ona w tym miejscu już od kilkudziesięciu lat. Ludzie się po prostu przyzwyczaili.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

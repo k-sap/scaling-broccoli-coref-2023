@@ -1,0 +1,21 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">sp0: ale wie pan tam może być. niektóre zapisy są nieczytelne. wielu rzeczy nie słychać dobrze. znowu będą spekulacje</p>
+        <p xml:id="p-2">sp5: ale. właśnie o tym chcę powiedzieć. ale. ale tutaj ale tutaj dochodzimy do wątku tego jak państwo polskie w ogóle sobie z tą całą sytuacją poradziło. państwo polskie czyli przede wszystkim rząd. no my mamy dostać zapisy. nie mamy dostać. źródłowego materiału czyli samych czarnych skrzynek w dodatku</p>
+        <p xml:id="p-3">sp0: jeszcze</p>
+        <p xml:id="p-4">sp5: w dodatku. no nie wiadomo kiedy to nastąpi. musimy o to Rosjan prosić a Rosjanie jak będą mieli będą mieli dobry humor to nam te skrzynki oddadzą a może nie to jest</p>
+        <p xml:id="p-5">sp0: no na razie są bardzo mili</p>
+        <p xml:id="p-6">sp5: to jest sytuacja to jest sytuacja zadziwiająca. ja jednak jestem bardzo sceptyczny jeśli chodzi o dobrą wolę państwa rosyjskiego znaczy oddzielam wyraźnie gesty które nic nie kosztują od tego jakim krajem jest Rosja i sytuacja w której te czarne skrzynki od dawna są w rękach rosyjskich. no skłania mnie do powiedzmy bardzo daleko posuniętego sceptycyzmu jeśli chodzi o wiarygodność jakichkolwiek materiałów które od strony rosyjskiej dostajemy</p>
+        <p xml:id="p-7">sp0: ale zaraz no były przesłuchiwane były zaplombowane. rozplombowane w obecności polskich ekspertów i przesłuchiwane w obecności polskich ekspertów</p>
+        <p xml:id="p-8">sp5: panie redaktorze ani mnie ani pana ani żadnego z nas tutaj tam przy tym nie było. ja uważam Rosję za kraj powiedzmy</p>
+        <p xml:id="p-9">sp0: no przy wielu wydarzeniach nas nie było. a jednak mamy</p>
+        <p xml:id="p-10">sp5: uważam uważam Rosję za kraj powiedzmy średnio demokratyczny sytuacja w której szefowa międzypaństwowej komisji lotniczej pani Anodina deklaruje na konferencji prasowej że jej komisja jest niezależna niezawisła i obiektywna doprowadza mnie do śmiechu. no bo. w Rosji mówić coś takiego o jakimkolwiek organie państwowym to jest po prostu śmiech</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

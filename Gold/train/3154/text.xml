@@ -1,0 +1,32 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">sp0: że tak dużo ?</p>
+        <p xml:id="p-2">sp4: mama to jak nam robiła. to nie wiem. jakieś. dwadzieścia.</p>
+        <p xml:id="p-3">sp0: dwadzieścia.</p>
+        <p xml:id="p-4">sp4: jak tak dla nas. nie ?</p>
+        <p xml:id="p-5">sp0: no. to jak już lepić. to. ale to faktycznie.</p>
+        <p xml:id="p-6">sp1: ojej. to Marcin zjadł piętnaście. to dzisiaj mało zjadł. bo się źle czuł. Leszek. mówi. ile. tu. na tym talerzu było. też pewno. z piętnaście. już nie chciał więcej. zjadł. ja już zjadłam. piętnaście. ale to tak.</p>
+        <p xml:id="p-7">sp2: ja też wydaję mi się. że tyle zjadłam.</p>
+        <p xml:id="p-8">sp1: jak żeśmy robiły. to ugotowała Maryla. zjadłyśmy. ona zjadła dziesięć. ja pięć. potem po jakimś czasie. znowu sobie włożyłam pięć. i teraz zjadłam.</p>
+        <p xml:id="p-9">sp2: ja też. bez przerwy pojadam.</p>
+        <p xml:id="p-10">sp1: bo leżałam. i wstałam i.</p>
+        <p xml:id="p-11">sp0: no. jak się lubi. jak ty lubisz też. myśmy tak w butach wleźli.</p>
+        <p xml:id="p-12">sp2: nie. to przecież.</p>
+        <p xml:id="p-13">sp0: powycierali. ale to.</p>
+        <p xml:id="p-14">sp2: u nas pies. u nas pies chodzi. ojejku. to.</p>
+        <p xml:id="p-15">sp0: a oni jutro będą wracać. wczoraj raniutko przyjechali.</p>
+        <p xml:id="p-16">sp2: aha. i ciebie zawiozą.</p>
+        <p xml:id="p-17">sp0: ja dzisiaj. ja dzisiaj dopiero przyjechałam. też rano.</p>
+        <p xml:id="p-18">sp1: zostaną.</p>
+        <p xml:id="p-19">sp0: i oni będą jutro wracać i zabiorą mnie do okazji.</p>
+        <p xml:id="p-20">sp2: a. może Paweł. się skusi. na. położę talerzyk.</p>
+        <p xml:id="p-21">sp0: spróbujesz. Pawełek ?</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

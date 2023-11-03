@@ -1,0 +1,18 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">sp2: nie żyjący</p>
+        <p xml:id="p-2">sp3: nie żyjący. też taki enfant terrible Krakowa właściwie muzyk. performer. wielki malarz. założyciel słynnego zespołu dupą. z którego powstali bardziej popularni pudelsi. postać bardzo. bardzo. bardzo kontrowersyjna. odważna. on skończył też niestety śmiercią samobójczą. znaczy nie w sensie samobójstwa społecznego ale</p>
+        <p xml:id="p-3">sp2: dosłownego</p>
+        <p xml:id="p-4">sp3: dosłownego. druga postacią był wieloletni przyjaciel no i. możemy też dzisiaj powiedzieć kochanek Krzysztofa Jacek Gula. który. który też kontynuował działalność performancką i malarską Krzysia. może nie był tak utalentowany jak. jak Krzysztof. ale został zarażony tą energią. i następną osobą. która działała bardzo mocno w Warszawie w podobnym duchowo klimacie jak Krzysztof Niemczyk był Andrzej Zuzak. on prowadził w Warszawie na ulicy esperanto taką komunę artystyczno-hipisowską i też przejął od Krzysztofa to że w przestrzeni publicznej robił różne działania w PRL-owskich autobusach w barach mlecznych robił bardzo dziwne śmieszne rzeczy a naprawdę w ówczesnych czasach to czasami ocierało się o. wręcz o jakieś możliwość pobicia czy. czy. czy coś jeszcze gorszego. więc te działania były no apriorycznie w pewien sposób one były niemożliwe a jednak się dokonywały</p>
+        <p xml:id="p-5">sp2: tak</p>
+        <p xml:id="p-6">sp3: i patronem tych działań. działań w przestrzeni publicznej był Niemczyk. tak jak Anka Ptaszkowska pisze. że on jakąś taką szczelinę w tym totalitarnym systemie wyłamywał. no to za nim poszli ci ludzie. których ja między innymi wymieniłem</p>
+        <p xml:id="p-7">sp0: yhm. yhm. znaczy bo to pokazuje że nie. że nie mamy do czynienia z postacią jednak całkowicie osobną tylko pomimo swojego indywidualizmu część pewnego. pewnego zjawiska i może też jeszcze wróćmy do tego odniesienia światowego. do Deborda i sytuacjonizmu co. co was. ciebie Piotra Mareckiego sprowokowało do wpisania Niemczyka w ten kontekst ?</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

@@ -1,0 +1,16 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Tak wiele dzieci widzi awantury między ojcem i matką, a nawet bijatykę, słyszy słowa ohydne, którymi obrzucają się jego rodzice. Dziecko, zszokowane, rzuca się w stronę matki z płaczem: "Co ty mówisz do taty?!", rzuca się w stronę ojca: "Nie bij mamy!" Ta rozpacz jest czymś najgorszym, co może stać się w życiu dziecka. Refleksja, która przychodzi potem, jest jeszcze bardziej tragiczna: "Jak ich mam szanować, jeżeli tak się zachowują". Konsekwencje mogą być straszliwe. Łącznie z samobójstwem. A nawet gdy do tego nie dojdzie, to dzieci są tak głęboko zranione, ten proces jest tak nieodwracalny, że one nigdy się z tego nie wyleczą. Z tych ran wyrastają kompleksy, zahamowania, odchylenia od normy, zaburzenia psychiczne.</p>
+        <p xml:id="p-2">10 ODPUSZCZANIE GRZECHÓW</p>
+        <p xml:id="p-3">(MATEUSZ 9, 2-6)</p>
+        <p xml:id="p-4">Ewangelia święta opisuje dramatyczne wydarzenie: paralityk na noszach, spuszczony przez dach przed Jezusa, z prośbą o uzdrowienie. I szokujące oświadczenie Jezusa: "Odpuszczają się grzechy twoje". Przecież paralityk został przyniesiony z prośbą o uwolnienie go z paraliżu, a słyszy słowa odpuszczenia grzechów. I natychmiast przesuwa się punkt ciężkości, a nawet coś więcej - wyłania się nowa sprawa: Co to znaczy "odpuszczają się grzechy twoje"? Kto może takie oświadczenie powiedzieć? Jezus?</p>
+        <p xml:id="p-5">Faryzeusze i uczeni w Piśmie reagują jednoznacznie: "On bluźni. Któż może odpuszczać grzechy prócz jednego Boga". Ale tu nasuwa się kolejne pytanie: Czy Bóg może odpuszczać grzechy, gdy człowiek nie żałuje? Jezus - tak jak Bóg - byłby bezradny wobec ludzkiej złej woli.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

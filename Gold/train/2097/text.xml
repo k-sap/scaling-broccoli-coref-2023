@@ -1,0 +1,24 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Tak, nie mylisz się - to fryzura.</p>
+        <p xml:id="p-2">Ileż to razy siedziałaś u fryzjera, wpatrując się w lustro i myślałaś - jak się ostrzyc? Jaki kolor wybrać? Przerażał Cię brak koncepcji.</p>
+        <p xml:id="p-3">Takie obawy łatwo przełamać, mając świadomość, jaka fryzura jest najkorzystniejsza dla danego rodzaju włosów. Wiadomo, że jeśli masz cienkie, przesuszone włosy nie powinnaś zapuszczać ich nawet do ramion, ale o tym dowiesz się z rozdziału poświęconego fryzurze i włosom.</p>
+        <p xml:id="p-4">Przeczytaj ten poradnik i wykorzystaj choćby kilka, wybranych porad. Poprawisz w ten sposób swój wygląd i samopoczucie, co niewątpliwie zaowocuje najwspanialszym i najcenniejszym kosmetykiem na świecie, którym jest uśmiech na Twojej twarzy.</p>
+        <p xml:id="p-5">Gwarantuję Ci to - wypróbowałam i działa!</p>
+        <p xml:id="p-6">Fryzura</p>
+        <p xml:id="p-7">Która kobieta nie marzy o włosach, jakie prezentują modelki w licznych reklamach? Nie dla każdej Ø natura była tak hojna, obdarowując pięknymi włosami, ale każda Ø może tak dobrać rodzaj uczesania, aby maksymalnie ukryć mankamenty natury.</p>
+        <p xml:id="p-8">Oto kilka ciekawostek dotyczących włosów:</p>
+        <p xml:id="p-9">- Włos ludzki rośnie przeciętnie 0,3 mm na dobę.</p>
+        <p xml:id="p-10">- Włosy rosną szybciej latem niż zimą.</p>
+        <p xml:id="p-11">- Człowiek ma na głowie około 100 tysięcy włosów, przy czym najwięcej włosów mają blondyni.</p>
+        <p xml:id="p-12">- Każdemu z nas wypada średnio około 40-70 włosów dziennie.</p>
+        <p xml:id="p-13">Przetłuszczone, suche, łamliwe, matowe, posklejane, takie włosy są zmora każdej, dbającej o wygląd kobiety. Możesz temu zapobiec. Jak? Dzięki właściwej pielęgnacji. Oczywiście, ogromny wpływ na ich wygląd i stan mają również nasze samopoczucie, zdrowie i sposób odżywiania. Często jednak nawet osoby używające najlepszych kosmetyków i dbające o zdrowy tryb życia, mają matowe i słabe włosy. Przyczyną tego może być źle dobrany szampon i odżywka, co bardzo szybko niszczy strukturę włosa. Pierwszym krokiem do właściwej pielęgnacji włosów jest określenie rodzaju włosów, a wówczas dobór odpowiednich kosmetyków nie będzie stanowił problemu.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

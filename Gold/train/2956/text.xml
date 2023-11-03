@@ -1,0 +1,23 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">- Są już tylko trzy łabędziątka - powiedziała Nela. - Jedno zginęło...</p>
+        <p xml:id="p-2">- Naprawdę? - zmartwił się Heniek. - Nie przebiło się... Ten świat nie jest łaskawy dla marchewek, kalarepy i łabędzi - mówił powoli, drapiąc się z zadumą po łysinie, co stanowiło widoczny sygnał nadciągającej filozoficzno-melancholijnej depresji.</p>
+        <p xml:id="p-3">- Gdzie jest Stryjek? - zapytał Roman Kowalik.</p>
+        <p xml:id="p-4">- Spaceruje - wyjaśnił Heniek i powoli wycofał się do swojego pokoju.</p>
+        <p xml:id="p-5">- Odwiedzimy Tola Kamińskiego - powiedział Roman do Neli.</p>
+        <p xml:id="p-6">- Dobrze - zgodziła się.</p>
+        <p xml:id="p-7">- Idziesz z nami? - zawołał Roman Kowalik, nie otwierając drzwi do pokoju podporucznika Ziemby.</p>
+        <p xml:id="p-8">Nie odpowiedział, może nie słyszał pytania. Wyszli przed blok, Roman zniósł rower Neli, w piaskownicy bawiły się dzieci, z nadzieją spojrzały na Romana, ale on nie chciał im opowiedzieć bajki. Przebiegli zmęczeni bliźniacy, solidnie trenujący według niezbyt jasnych wskazówek podporucznika Ziemby, zbliżała się przecież olimpiada w Meksyku. Nela wsiadła na rower, jechała powoli, wspierając się ręką na ramieniu Romana.</p>
+        <p xml:id="p-9">- Co się z wami dzieje? - zapytała.</p>
+        <p xml:id="p-10">- Heniek postanowił zmienić swoje życie, zaraz po opuszczeniu wojska chce się ożenić...</p>
+        <p xml:id="p-11">- Naprawdę? - zdziwiła się Nela. - Ale w tym nie ma nic nadzwyczajnego.</p>
+        <p xml:id="p-12">- On jeszcze nie jest pewien, z kim się ożeni - wyjaśnił Roman. - Ma nawet listę kandydatek...</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

@@ -1,0 +1,16 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">A.B.: No i te pieśni patriotyczne religijne, to było też wzruszające. I człowiekowi w uszach dotąd to dzwoni.</p>
+        <p xml:id="p-2">J.G.: Przyznam, że do dzisiaj mi to dźwięczy w uszach.</p>
+        <p xml:id="p-3">O.T.R.: Ja się zasłuchałem i to jest wzruszające.</p>
+        <p xml:id="p-4">A.B.: To jest wzruszające, ale jednak musimy o tym pamiętać, bo jeżeli my nie będziemy pamiętali - to historia ta zaginie. Jest to też smutne, że np. na lekcjach historii nie ma w ogóle tematu Poznański Czerwiec. Mamy nasz rząd teraz i mamy naszych pedagogów, ale nie wiem kiedy oni o tym pomyślą, żeby jednak włączyć takie wydarzenia do nauki historii. Chcę jeszcze powiedzieć, że będziemy obchodzili rocznicę w najbliższym czasie i bardzo się cieszymy, ponieważ obiecywał, że przyjedzie do nas pan premier Buzek. Bardzo się cieszymy, ponieważ zawsze nasze rocznice były obchodzone bez władz państwowych. Nie zapraszaliśmy tamtej ekipy, tak samo nie zapraszamy pana Prezydenta z uwagi na jego pochodzenie partyjne, ale cieszymy się, że z AWS-u będzie nasz premier.</p>
+        <p xml:id="p-5">F.B.: Komuniści oczywiście starali się zdeprecjonować całe to wydarzenie, czego dowodem jest nazwa Poznańskiego Czerwca krążąca do dzisiaj, że to były jakieś wypadki poznańskie. Jak silna była ta propaganda komunistyczna, że do dzisiaj wielu ludzi używa wydarzenia "wypadki poznańskie" . Ja chciałbym skorzystać z tej okazji i zaapelować do wszystkich, żeby nie używali tego komunistycznego określenia. Jeżeli już wam przez gardło nie przechodzą jakieś takie słowa jak powstanie, mówcie Poznański Czerwiec. To był bunt klasy robotniczej i mieszkańców Poznania.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">#WicemarszalekMaciejPlazynski: Senat, przepraszam, przepraszam państwa. Poprawka druga zmienia definicję działalności godzącej w interesy ekonomiczne państwa poprzez podniesienie wartości szkody, jaka mogłaby powstać w mieniu podmiotów, do szkody w wielkich rozmiarach w rozumieniu kodeksu karnego, to jest tysiąckrotności minimalnego wynagrodzenia. Proszę o naciśnięcie przycisku obecności. Kto jest za? Proszę nacisnąć przycisk "za" i podnieść rękę. Kto jest przeciw? Proszę nacisnąć przycisk "przeciw" i podnieść rękę. Kto się wstrzymał? Proszę nacisnąć przycisk "wstrzymuję się" i podnieść rękę. Dziękuję. Na 85 obecnych senatorów 30 Ø głosowało za, 54 Ø - przeciw, 1 Ø nie głosował. (Głosowanie nr 4) Stwierdzam, że Senat poprawkę odrzucił. Poprawki trzecią i dwudziestą czwartą przegłosujemy łącznie. Poprawki trzecia i dwudziesta czwarta zmieniają definicję działalności godzącej w interesy ekonomiczne państwa poprzez podniesienie wartości szkody, jaka mogłaby powstać w mieniu podmiotów, do szkody w wysokości pięćsetkrotności minimalnego wynagrodzenia za pracę. Proszę o naciśnięcie przycisku obecności. Kto jest za? Proszę nacisnąć przycisk "za" i podnieść rękę. Kro jest przeciw? Proszę nacisnąć przycisk "przeciw" i podnieść rękę. Kto się wstrzymał? Proszę nacisnąć przycisk "wstrzymuję się" i podnieść rękę. Na 85 obecnych senatorów 33 Ø głosowało za, 52 Ø - przeciw. (Głosowanie nr 5) Stwierdzam, że Senat poprawkę odrzucił. Poprawki czwartą i czterdziestą siódmą z literą "a" przegłosujemy łącznie. Poprawki czwarta i czterdziesta siódma z literą "a" rozszerzają właściwości Centralnego Biura Antykorupcyjnego na dokumentowanie podstaw i inicjowanie realizacji przepisów ustawy o zwrocie korzyści uzyskanych niesłusznie kosztem Skarbu Państwa lub innych państwowych osób prawnych oraz rozszerzają katalog podmiotów, które mogą wystąpić do sądu z żądaniami przewidzianymi w tej ustawie, o szefa Centralnego Biura Antykorupcyjnego. Proszę nacisnąć przycisk obecności.</p>
+        <p xml:id="p-2">#Gloszsali: Wolniej.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

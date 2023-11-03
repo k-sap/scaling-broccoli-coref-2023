@@ -1,0 +1,19 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Cmentarze zakłada się i rozszerza na terenach określonych w miejscowych planach zagospodarowania przestrzennego.</p>
+        <p xml:id="p-2">Cmentarze komunalne zakłada się w zasadzie na terenie każdej gminy lub miasta, jednakże w uzasadnionych przypadkach można założyć cmentarz dla kilku gmin.</p>
+        <p xml:id="p-3">1. Cmentarze powinny znajdować się na ogrodzonym terenie, odpowiednim pod względem sanitarnym.</p>
+        <p xml:id="p-4">2. Na każdym cmentarzu powinien być dom przedpogrzebowy lub kostnica, które służą: 1) do składania ciał osób zmarłych do czasu ich pochowania, 2) do wykonywania oględzin zwłok ludzkich dla celów sądowo-lekarskich, sanitarnych oraz policyjnych, 3) do wykonywania innych czynności związanych z chowaniem zwłok.</p>
+        <p xml:id="p-5">3. Minister właściwy do spraw zdrowia, w porozumieniu z ministrem właściwym do spraw środowiska, określi, w drodze rozporządzenia, jakie tereny uznaje się za odpowiednie pod względem sanitarnym na cmentarze; rozporządzenie w szczególności powinno określać:</p>
+        <p xml:id="p-6">1) szerokość pasów izolujących teren cmentarny od innych terenów, a w szczególności terenów mieszkaniowych, 2) odległość cmentarza od źródeł ujęcia wody, 3) wymagania co do poziomu wód gruntowych na terenach przeznaczonych pod cmentarze.</p>
+        <p xml:id="p-7">1. Użycie terenu cmentarnego po zamknięciu cmentarza na inny cel nie może nastąpić przed upływem 40 lat od dnia ostatniego pochowania zwłok na cmentarzu. Po upływie powyższego terminu wójt (burmistrz, prezydent miasta) może wydać decyzję o użyciu terenu cmentarnego na inny cel zgodny z planem zagospodarowania przestrzennego, z zastrzeżeniem ust. 2.</p>
+        <p xml:id="p-8">2. Jeżeli teren cmentarny stanowi lub stanowił uprzednio własność Kościoła Katolickiego lub innego kościoła albo związku wyznaniowego, wydanie decyzji o użyciu terenu cmentarnego na inny cel wymaga zgody właściwej władzy tego kościoła lub związku wyznaniowego.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

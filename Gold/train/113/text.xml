@@ -1,0 +1,30 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">wyruchał tą laskę czy nie</p>
+        <p xml:id="p-2">chujowo ej chujowo nie ej stary</p>
+        <p xml:id="p-3">nie nie nie. naczy później. bardzo mi się podobała ta opcja że on miał to alternatywne imię swoje żeby zamawiać to coś czym usypiał tych ludzi i miał to imię swoje w tej bazie danych patrik bejtman jak ten koleś z american psajko tego filmu</p>
+        <p xml:id="p-4">baga</p>
+        <p xml:id="p-5">on też się tak nazywał</p>
+        <p xml:id="p-6">baga a w tym deksterze nie w tym deksterze</p>
+        <p xml:id="p-7">dlaczego kurwa on zabija tych ludzi skąd mu się to wzięło na bani ?</p>
+        <p xml:id="p-8">zobaczysz jak obejrzysz film</p>
+        <p xml:id="p-9">zobaczysz</p>
+        <p xml:id="p-10">no widziałem w pierwszym odcinku</p>
+        <p xml:id="p-11">no zobaczysz</p>
+        <p xml:id="p-12">on był taki biedny no</p>
+        <p xml:id="p-13">jak zabijał zwierzęta i ojciec mu mówił że</p>
+        <p xml:id="p-14">nie zobaczysz</p>
+        <p xml:id="p-15">a wiecie za co on dostał nagrodę ? nie wiem co on dostał ale jakąś tam nagrodę dostał za y umiejętność grania udawanych uczuć bo nie wiem czy zauważyliście jak on idealnie gra uczucia i widać że on je udaje. wiesz o co mi chodzi ?</p>
+        <p xml:id="p-16">tak tak tak tak że jest taki jak się uśmiecha to tak sztucznie ale że tak wiesz w fajny sposób. czaję to</p>
+        <p xml:id="p-17">albo na przykład nie wiem jak tą laskę chciał przeruchać i bardzo sobie jak najlepiej jak mówił o tej lasce bardzo sobie ją cenię bo ona ma ten sam problem co ja nie i pierwsza scena na pewno tego chcesz ? nie w chuj. i mi to bardzo pasuje</p>
+        <p xml:id="p-18">czemu on się nie chce ruchać ?</p>
+        <p xml:id="p-19">no bo to go nie kręciło kręci go zabijanie</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

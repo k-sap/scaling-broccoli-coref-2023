@@ -1,0 +1,12 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Przybądź piękny, zdolny i zdesperowany! Płonne są nadzieje mistrzów. W aktorski światek pchają się brzydkie kaczątka. A powinny łabędzie! Kilkadziesiąt zagubionych, ale i z tupetem osób odwiedziło krakowską kuźnię aktorów i reżyserów. Pytano o to jak uniknąć egzaminu, jak zwiększyć szansę ile trzeba ważyć i jaką mieć cerę. Rady były poważne. - Nie ulegajcie nastrojom chwili. W tekstach, które recytujecie - szukajcie różnorodności. Nie łudźcie się jednak, że aparat korygujący wadę zgryzu ukryje złą dykcję! - przekonywał Krzysztof Jędrysek, dziekan Wydziału Aktorskiego. Na PWST nie ma selekcji. Gdy o wiek (rzecz jasna) chodzi. - Młoda osoba ma jednak większą szansę "zbudowania siebie" w tym zawodzie, aniżeli starsza - dodał dziekan. Nie trzeba być także idealnie pięknym. - Ręce jednak opadają, gdy na egzaminie zjawia się dziewczyna z zaawansowanym cellulitisem. Albo nieproporcjonalnie zbudowana. Istnieją lustra na świecie! - rozwiewano wątpliwości. A więc? Trzeba być zdesperowanym. Koniecznie! - W tym roku przyjmiemy 10 osób na Wydział Wokalno-Estradowy i około 20 na Wydział Aktorski. W ubiegłym roku było gorzej. 600 chętnych na 18 miejsc - podsumował dziekan. Dla rozluźnienia opowiadano anegdoty o utalentowanym Murzynie, który po zdaniu egzaminu zrezygnował ze studiów i zdesperowanym Wojtku Pszoniaku, który ponoć na uczelnię dostał się za 7. razem. A na poważnie? - Zmierzamy do przeciętności. Od kilku lat obserwuję, iż na wstępnych pojawiają się ludzie, którzy traktują egzamin jako formę dowartościowania siebie. Niewielu jest takich, których zawód aktora i reżysera naprawdę interesuje. Coraz mniej jest ludzi wrażliwych i świadomych, że istnienie w tym zawodzie to wielka sztuka. W sobotnich spotkaniach, które odbywają się na naszej uczelni, najczęściej rozwiewamy marzenia - kończy Krzysztof Jędrysek.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

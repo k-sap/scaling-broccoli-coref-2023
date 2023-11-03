@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<teiHeader xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xml:lang="en">
+  <fileDesc>
+    <titleStmt>
+      <title>Paragraphs: p-9905,p-9906,p-9907,p-9908,p-9909,p-9910,p-9911,p-9912,p-9913,p-9914 from NKJP text with id: IPIPAN_610191001991</title>
+    </titleStmt>
+  </fileDesc>
+  <profileDesc>
+    <textClass>
+      <catRef scheme="#nkjp" target="Inne teksty pisane"/>
+    </textClass>
+  </profileDesc>
+  <revisionDesc/>
+</teiHeader>

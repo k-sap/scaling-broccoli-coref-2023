@@ -1,0 +1,14 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Kot na billboardach z Ceresitem to zwierzę szarobure, w prążki, czyli zwykły burasek. Kot na krzyżackiej zbroi jest czarny jak smoła. Czy - powstaje pytanie - mamy do czynienia istotnie z tym samym obrazem udomowionego ssaka? Komisja Etyki Reklamy będzie miała trudne zadanie rozpatrując tę kwestię. Dyrektor public relations firmy Henkel Krzysztof Jakubiak nie ma żadnych wątpliwości. - Kot ist kot - mówi.</p>
+        <p xml:id="p-2">Prawda jest taka, że firma Henkel straciła cierpliwość do firmy Atlas i dlatego zwróciła się w końcu do Komisji Etyki Reklamy. - Ciągle otrzymujemy od Atlasa jakieś prztyczki - stwierdza dyrektor marketingu Henkla Piotr Ciborowski. Kiedy w jednej z gazet ukazała się krytyka (- Niesłuszna - dodaje dyrektor - bo klient uprał rzeczy w niewłaściwym proszku) dotycząca jednego z proszków do prania firmy Henkel, Atlas rozesłał kopie tego tekstu do różnych firm z komentarzem: "Proszek nie pierze. Czy klej nie klei?". Inny przykład: Henkel w ramach promocji dodaje do 5 kupionych worków kleju szósty za darmo. Na stronie internetowej Atlasa ukazuje się taki dowcip: Rozmawiają dwa bociany (bocian - wizerunek firmy Atlas). Jeden mówi: Lećmy szybko, bo szóstą żabę dają za darmo. A drugi na to: Skoro za darmo, to na pewno jest kiepskiej jakości.</p>
+        <p xml:id="p-3">Henkel cierpiał dotąd w milczeniu, ale teraz ma dość. - Polskie firmy - stwierdza dyrektor Jakubiak - mają tendencję do przekraczania granic dobrego smaku.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

@@ -1,0 +1,14 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Końcówka minionego sezonu nie była może w wykonaniu piłkarzy szczucińskiej Wisły zbyt udana. Zespół prowadzony przez grającego szkoleniowca Jerzego Smasia już znacznie wcześniej zapewnił sobie awans do czwartej ligi, stąd też może w jego szeregi wkradło się pewne rozluźnienie.</p>
+        <p xml:id="p-2">Spodziewać można się jednak, że do pierwszego w historii klubu sezonu w gronie czwartoligowców szczucinianie przystąpią maksymalnie skoncentrowani i zrobią wszystko, aby nie podzielić losów ubiegłorocznych beniaminków: Metalu-Gawro Tarnów i KRIS-Szreniawy Nowy Wiśnicz. Przygotowania do rozgrywek rozpoczną piłkarze Wisły już w najbliższy poniedziałek. - Nie jesteśmy zbyt bogatym klubem, stąd też trenować będziemy jedynie na własnych obiektach, choć nie ukrywam, że przydałby się nam wyjazd na obóz - mówi Jerzy Smaś. - Jeśli idzie o sprawy personalne, do drużyny powrócą grający ostatnio w Tempie Pacanów Arkadiusz Kozaczka i Rafał Oleksy. Jesteśmy również zainteresowani pozyskaniem Witolda Szczurka z Tarnovii oraz grającego ostatnio również w Pacanowie Lutogniewa Gawlika z Dąbrovii Dąbrowa Tarnowska. W tej kwestii dużo zależało będzie jednak od nowego zarządu, na czele którego stoi teraz Wiesław Nowakowski. Na dzień dzisiejszy nikt nie zgłosił natomiast chęci odejścia z zespołu. Pewne straty są jednak nieuniknione, gdyż dążyć będziemy do pewnego okrojenia kadry, tak aby liczyła ona 18-19 wyrównanych zawodników.</p>
+        <p xml:id="p-3">Plany trenera Smasia przewidują rozegranie przed sezonem pięciu lub sześciu pojedynków sparingowych (zależne będzie od tego, kiedy ruszą ligowe rozgrywki). Przygotowania rozpoczną szczucinianie od mocnego uderzenia, gdyż w niedzielę, 13 lipca zagrają z Widzewem Łódź. Kolejnymi rywalami beniaminka ze Szczucina będą natomiast: Wisła II Kraków, Okocimski Brzesko, Czarni Połaniec oraz Dąbrovia Dąbrowa Tarnowska. (STM)</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

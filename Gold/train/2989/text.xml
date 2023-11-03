@@ -1,0 +1,53 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">JULITA</p>
+        <p xml:id="p-2">To może od razu mi powiesz?</p>
+        <p xml:id="p-3">ŁUKASZ</p>
+        <p xml:id="p-4">Bo... po prostu... okropny z ciebie babsztyl. Do widzenia.</p>
+        <p xml:id="p-5">JULITA</p>
+        <p xml:id="p-6">EUREKA</p>
+        <p xml:id="p-7">Aaa...! To o to chodzi? Królewicz się wstydzi.</p>
+        <p xml:id="p-8">ŁUKASZ</p>
+        <p xml:id="p-9">Że co?</p>
+        <p xml:id="p-10">JULITA</p>
+        <p xml:id="p-11">Chodzi o to, że królewicz wstydzi się rozebrać przed kobietą.</p>
+        <p xml:id="p-12">Drogi Łukaszu, nie pochlebiaj sobie. Nie będę patrzeć na ciebie jak na obiekt seksualny. Jesteś dla mnie tylko pacjentem.</p>
+        <p xml:id="p-13">ŁUKASZ</p>
+        <p xml:id="p-14">PARSKA ŚMIECHEM</p>
+        <p xml:id="p-15">Że ja niby się wstydzę rozebrać przed tobą? Nie bądź śmieszna.</p>
+        <p xml:id="p-16">JULITA</p>
+        <p xml:id="p-17">Tak? No to proszę. Pacjent Dunin. Proszę się rozebrać i położyć na...</p>
+        <p xml:id="p-18">Rozgląda się</p>
+        <p xml:id="p-19">...na podłodze.</p>
+        <p xml:id="p-20">Julita się odwraca i rusza ostro do pokoju Łukasza</p>
+        <p xml:id="p-21">ŁUKASZ</p>
+        <p xml:id="p-22">Gdzie idziesz?</p>
+        <p xml:id="p-23">JULITA</p>
+        <p xml:id="p-24">Otwierając drzwi od pokoju Łukasza</p>
+        <p xml:id="p-25">Do łazienki. Muszę umyć ręce.</p>
+        <p xml:id="p-26">Julita otwiera szeroko drzwi.</p>
+        <p xml:id="p-27">Subiektyw Julity: patrzy na stertę ubrań i wszystkiego, co Łukasz zebrał i wrzucił do pokoju.</p>
+        <p xml:id="p-28">Zbliżenie Łukasza</p>
+        <p xml:id="p-29">Julita odwraca się do Łukasza i uśmiecha się rozbrajająco.</p>
+        <p xml:id="p-30">JULITA</p>
+        <p xml:id="p-31">Pokazując na drzwi od łazienki.</p>
+        <p xml:id="p-32">Tam jest łazienka?</p>
+        <p xml:id="p-33">Zbliżenie wściekłego Łukasza</p>
+        <p xml:id="p-34">Scena</p>
+        <p xml:id="p-35">PLENER. DZIEŃ. ULICA. JANINA, JAREK, PRZECHODNIE - STATYŚCI.</p>
+        <p xml:id="p-36">Janina z Jarkiem idą przez park.</p>
+        <p xml:id="p-37">JANINA</p>
+        <p xml:id="p-38">A jak tam odkurzacz, działa? Bo mnie to ostatnio przerywał zupełnie bez powodu.</p>
+        <p xml:id="p-39">JAREK</p>
+        <p xml:id="p-40">Naprawiłem. To tylko kabel.</p>
+        <p xml:id="p-41">JANINA</p>
+        <p xml:id="p-42">Tak? To bardzo dobrze. Strasznie mnie to denerwowało, jak on tak nagle się wyłączał.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

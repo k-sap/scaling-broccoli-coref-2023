@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Wiadomo, że zarówno urzędy jak i sądy powinny brać pod uwagę dobro dziecka. Jak je jednak zdefiniować, by nie naruszać wolności obywatelskiej rodziców? Poza wypadkami oczywistymi, jak znęcanie się, brak opieki, demoralizujący wpływ na dzieci, pozostaje spory margines wątpliwości.</p>
+        <p xml:id="p-2">Czy istnieje obiektywna ocena rodzicielskich kwalifikacji, podawanych w wątpliwość w imię zagrożonego dobra dziecka? Jaki na przykład trzeba mieć iloraz inteligencji, żeby nie podpaść urzędnikom?</p>
+        <p xml:id="p-3">Wielu psychologów podaje w wątpliwość sens przeprowadzania testów na inteligencję u osób ociężałych umysłowo. Nie można wyrokować na ich podstawie o prawie do zajmowania się potomstwem. Trzeba raczej uwzględnić stopień społecznego przystosowania do życia delikwentów i ich sytuację rodzinną. Niemiecki Instytut ds. Pomocy Młodzieży i Prawa Rodzinnego, który służy fachową pomocą swoim członkom - prawie 600 Jugendamtom w kraju - też wydaje się bezradny. - Nie wszystkie zagmatwane problemy rodzinne uznane przez urzędników za rozwiązane w sposób profesjonalny spotykają się z podobną oceną zainteresowanych i opinii publicznej. Powściągliwe działanie urzędników pociąga za sobą zarzut bierności, zbyt szybkie uznawane bywa za biurokratyczną bezduszność - żalił się dziennikarzom szef Instytutu Thomas Meysen.</p>
+        <p xml:id="p-4">Czy dla małego Jana i Anny-Marii byłoby lepiej, gdyby pozostali przy poczciwej acz ograniczonej umysłowo matce? Czy może rodzina zastępcza dałaby im więcej życiowych szans, dbając o rozwój ich osobowości, pomagając w zdobyciu wykształcenia? I tu nie ma zgodności. Pogląd, że wystarczy kochać dziecko, by je odpowiednio wychować, uważany jest przez niektórych psychologów za wręcz niebezpieczny, bo miłość okazywana dziecku jest co prawda warunkiem koniecznym, ale niewystarczającym do jego prawidłowego rozwoju.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

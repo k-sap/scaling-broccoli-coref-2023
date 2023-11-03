@@ -1,0 +1,24 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">– No to pa, zobaczymy się wieczorem na kolacji – i wyszła.</p>
+        <p xml:id="p-2">Teraz już wiedziała, że to koniec.</p>
+        <p xml:id="p-3">Rozryczała się dopiero na schodach. Puściło wszystko, co wzbierało w niej od wczoraj. Szlochała i szlochała, a kiedy się uspokoiła, poczuła się znacznie lepiej. “Nie martw się, maleńka. Znajdziemy fajnego faceta i będziemy żyły jak królewny”.</p>
+        <p xml:id="p-4">Zeszła trzy piętra i zapukała do Wiktora. Kiedy otworzył drzwi, nie mogła się powstrzymać od okrzyku:</p>
+        <p xml:id="p-5">– Jak ty wyglądasz?</p>
+        <p xml:id="p-6">– Pewnie jak własny wuj dzień po wypłacie – odpowiedział, uśmiechając się kwaśno. – Walczyłem całą noc ze snem. I zwyciężyłem.</p>
+        <p xml:id="p-7">– Gratuluję. Ja zasnęłam na dwie godziny. I to był błąd. Obudziłam się w ostatniej chwili, znowu dwa kroki bliżej rozwiązania. Nie wyobrażam sobie, żebym mogła dojść do końca. Tej nocy też zrobię wszystko, żeby nie zmrużyć oka.</p>
+        <p xml:id="p-8">Weszła do środka. Kamil siedział przy stole, machnął jej na przywitanie, nie wstając. Rozejrzała się po zapuszczonym mieszkaniu i ze zdumieniem zauważyła dziecięce rysunki na ścianach.</p>
+        <p xml:id="p-9">– Myślałam, że jesteś kawalerem – zwróciła się do Wiktora.</p>
+        <p xml:id="p-10">– Nie, nie jestem – odpowiedział krótko.</p>
+        <p xml:id="p-11">– Długo już? – zapytała.</p>
+        <p xml:id="p-12">– Tak jakby. Za osiemnaście dni będzie rok.</p>
+        <p xml:id="p-13">Chciała spytać, jak to jest, kiedy się rozstaje z kimś, kogo się przez lata kochało, ale się powstrzymała. Przez kilka sekund patrzyli na siebie, potem rzuciła torebkę na podłogę i usiadła przy stole. Zapaliła papierosa, ale go po chwili zgasiła.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

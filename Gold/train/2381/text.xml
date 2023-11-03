@@ -1,0 +1,16 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Wywieźli go na Pomorze, przez 8 miesięcy pracował u bauera w Karsbergu, dziś Karlino. Wspomina go, jako złego człowieka, który lubił sobie wypić i nie dbał w ogóle o swoich pracowników. Nie pomagał im w pracach, mieszkali w fatalnych warunkach, w stajni na pryczach. Oprócz pana Witolda było jeszcze trzech Polaków. Pracowali o świtu do nocy, nawet w niedziele.</p>
+        <p xml:id="p-2">W sierpniu 40 roku Solik uciekł od bauera, do domu w Siemianowicach. – Zamieszkałem u siostry, po kilku tygodniach przyszedł niemiecki policjant i najczystszą polszczyzną powiedział, żebym lepiej wracał do gospodarstwa. Do urzędu pracy dotarło pismo, że opuściłem miejsce pracy bez zgody pracodawcy. Nie pozostało mi nic innego jak wrócić, na własny koszt.</p>
+        <p xml:id="p-3">W pułapce u Rosjan</p>
+        <p xml:id="p-4">Niestety gospodarz i tak zemścił się na Soliku. Od razu przekazał go do niemieckiej komendy uzupełnień. Wcielono go do Wehrmachtu. Przez kilka miesięcy był szkolony w Szczecinku. Latem 1941 roku jego Zapasowy Batalion Piechoty 332 trafił na front wschodni w Estonii, potem skierowano ich pod Leningrad. – Byli tam Rosjanie z Syberii, którzy nie umieli czytać i pisać. Kazali o nich mówić nieprzyjaciel, ale przecież to bliźni był – mówi po latach.</p>
+        <p xml:id="p-5">Armia radziecka była wtedy w odwrocie. Solik ze swoją kompanią stopniowo przesuwał się na wschód. Najpierw wypuszczali patrol, który sprawdzał najbliższe wioski i lasy. Jeżeli droga była czysta, wyruszali wszyscy.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

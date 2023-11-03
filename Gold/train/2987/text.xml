@@ -1,0 +1,16 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">I dotknąłem jej dłoni. W ogóle dotknąłem jej po raz pierwszy, przecież kilka tygodni wcześniej, gdy podszywała się pod mieszkankę Petersburga - rozwścieczony - nie dotknąłem jej dłoni. Szkoda gadać w gruncie rzeczy. Dotknąłem jej dłoni i natychmiast popadliśmy w daleko idącą cielesną zależność. Nasze skóry zetknęły się ze sobą i natychmiast, jak mówi Czesław Miłosz, serdecznie się polubiły. I nie tylko.</p>
+        <p xml:id="p-2">Wtedy przyszło na mnie wtajemniczenie Bo nie tylko serdecznie lubiły się nasze skóry I genitalia nasze, jakby dla siebie stworzone Ale jej sen tuż obok miał nade mną władzę - Co było dalej? Dalej nie ma co opowiadać. Dalej opowiadać - wstyd.</p>
+        <p xml:id="p-3">Dotknąłem Grachy Petersburg, spojrzałem na nią i zrozumiałem, iż jest ona kobietą tak ekscytującą, że mógłbym tarzać się z nią po najbardziej nawet rakotwórczych wykładzinach. I tak tarzaliśmy się po najbardziej nawet rakotwórczych wykładzinach! Tarzaliśmy się w rozbebeszonych pościelach, w szuwarach, na wersalkach, na dywanach i na płytkach PCV. Nasze tętnice udowe splatały się ze sobą i nie zważały na nic. Tarzaliśmy się i wyzbywaliśmy się resztek naszej duchowości i nasza duchowość, choć wstydziła się za nas, była całkowicie bezsilna.</p>
+        <p xml:id="p-4">- Heroiczny trud uwznioślania własnych słabości?</p>
+        <p xml:id="p-5">- Ależ próbowaliśmy uwznioślić... Wszystko na darmo. Wszystko na nic. Wszystkie próby były daremne. Czyniliśmy heroiczne wysiłki, aby żyć jak ludzie, marzyliśmy o tym, by któregoś dnia gdzieś się wybrać, gdziekolwiek, do kina, do teatru albo dajmy na to - na wernisaż. Nie byliśmy w stanie, bezsilni, wierzgaliśmy w szponach naszej cielesności!</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

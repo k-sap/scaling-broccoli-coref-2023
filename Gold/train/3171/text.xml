@@ -1,0 +1,37 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">sp0: a normalnie..</p>
+        <p xml:id="p-2">sp2: czy be przez cesarskie cięcie..</p>
+        <p xml:id="p-3">sp0: natura naturalnie. be przez cesarskie cięcie czy ce poród pośladkowy ?</p>
+        <p xml:id="p-4">sp2: sądząc po wyglądzie. ja bym obstawiał poród pośladkowy..</p>
+        <p xml:id="p-5">sp0: ktoś jeszcze w tym pokoju się urodził przez poród pośladkowy..</p>
+        <p xml:id="p-6">sp1: ale powie. powie. no właśnie są brzydsi ode mnie. nie. sądząc powinieneś Leszku sądzić po. cechach godnych cesarza. po intelekcie. po geniuszu..</p>
+        <p xml:id="p-7">sp2: ale. ale wiesz że. ale..</p>
+        <p xml:id="p-8">sp1: po błyskotliwości..</p>
+        <p xml:id="p-9">sp2: czy o tym mówimy ?</p>
+        <p xml:id="p-10">sp1: nie..</p>
+        <p xml:id="p-11">sp2: nie udzieliłeś mi prawa głosu ?</p>
+        <p xml:id="p-12">sp1: nie. ale możesz złożyć swoją aplikację jeszcze raz..</p>
+        <p xml:id="p-13">sp2: dobrze to będę aplikował. jak mówi magister Jan Kowalski..</p>
+        <p xml:id="p-14">sp1: chyba apelował..</p>
+        <p xml:id="p-15">sp2: no on właśnie mówił że nie stosujemy tylko aplikujemy prawo. i powiem. że ja też się urodziłem przez cesarskie cięcie. nie. tak..</p>
+        <p xml:id="p-16">sp0: a ja poród pośladkowy znaczy pierwszą częścią mojego ciała która ujrzała światło dzienne była pupa..</p>
+        <p xml:id="p-17">sp2: o..</p>
+        <p xml:id="p-18">sp0: i moja mama stwierdziła że to jest w związku z powyższym wyjątkowo wrażliwe miejsce..</p>
+        <p xml:id="p-19">sp2: a dlaczego się tak układałaś Ewelino ?</p>
+        <p xml:id="p-20">sp0: nie wiem..</p>
+        <p xml:id="p-21">sp1: i Ewelina wtedy pierwsze co powiedziała to było kis maj es..</p>
+        <p xml:id="p-22">sp2: Wojtku ale czy urodzeni przez cesarskie cięcie są inteligentniejsi ?</p>
+        <p xml:id="p-23">sp1: no zdecydowanie..</p>
+        <p xml:id="p-24">sp2: od tych którzy rodzą się..</p>
+        <p xml:id="p-25">sp1: dupą do przodu ?</p>
+        <p xml:id="p-26">sp2: nie..</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

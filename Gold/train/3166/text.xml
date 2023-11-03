@@ -1,0 +1,20 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">sp2: narkobiznes znaczy ta tam trochę ze względów ze względów ideologicznych też trochę tam wkroczyli no bo to tam były te obozy szkoleniowe tych terrorys terrorystów także</p>
+        <p xml:id="p-2">sp1: no ale</p>
+        <p xml:id="p-3">sp2: przetestowali trochę broni no i</p>
+        <p xml:id="p-4">sp1: ale jest im głupio i nie mają co z tym zrobić no ale już nie mamy polaków w Iraku mamy za to w Afganistanie słyszałeś o tym ?</p>
+        <p xml:id="p-5">sp2: tak</p>
+        <p xml:id="p-6">sp1: tata ? wycofali już</p>
+        <p xml:id="p-7">sp0: ale fajny film oglądałem teraz na wideo sobie kupiłem sprawa dzieje się w ira w Arabii Saudyjskiej jest grupa takich arabów którzy no podkładają bomby amerykanom bo tam są takie osiedla które obsługują te pola naftowe nie ? to są wydzielone takie terytorialne tereny gdzie amerykanie tam mają alkohol piją i futbol amerykański uprawiają to jest wielki kilkaset hektarów obszaru no i ci arabowie dokuczają tym amerykanom no i dochodzi do tego że robią taki olbrzymi zamach gdzie w czasie meczu wjeżdża samochód terenowy. przez te bramki ochroniarzy i wjeżdżają na ten i tam strzelają no i to jest taka grupa która pirotechnicy są arabscy którzy podkładają bombę własnej roboty czyli na przykład ładują samochód z butlami z gwoździami prawda ? i niszczą ale film zrobiony z lekkiej kamery z ręcznej kamery film zrobiony i zdjęcia są tak zrobione jakbyśmy byli w środku akcji jakby to się działo na żywo</p>
+        <p xml:id="p-8">sp2: uhm</p>
+        <p xml:id="p-9">sp0: nie jest kamera sterowana ustawiana światło no niesamowity film i dzieje rzeczywiś. w tych arabskich tych tych tych miejscowościach także to się czuje w ogóle to wszystko ten nastrój no niesamowite oni bardzo biednie</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

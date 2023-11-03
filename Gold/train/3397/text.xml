@@ -1,0 +1,14 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Co kryją miliardy cyfr następujących po słynnym 3,14...</p>
+        <p xml:id="p-2">Dwaj matematycy - David Bailey z Lawrence Berkeley National Laboratory w Kalifornii oraz Richard Crandall z Reed College w Portland w USA - udowodnili, że w rozwinięciu dziesiętnym liczby, zwanej też niekiedy ludolfiną, odnajdzie się dowolnie pomyślany łańcuch liczb naturalnych. Co więcej, obaj uczeni sugerują, że wszystkie łańcuchy o podobnej długości występują z tą samą częstością na przykład 87435 pojawia się wśród cyfr ludolfiny tak samo często jak 30752, a 345 tak samo często jak 980 (ta ostatnia własność nosi nazwę "normalności", choć akurat jest raczej dosyć... dziwna). Najciekawsze jest to, że obaj uczeni wykazali, iż ich odkrycie ma związek z bardzo "modną" dziś teorią chaosu - wydawałoby się, najzupełniej odległą od problematyki teorii liczb. Teoria chaosu wyrasta bowiem z potrzeb fizyki, podczas gdy teoria liczb jest uważana za kwintesencję abstrakcyjnej i "nikomu niepotrzebnej" matematyki. Opisywany wynik wiąże się z zaskakującym wzorem, który Bailey z kolegami wyprowadził przed pięciu laty. Niezwykłe w tym wzorze jest to, że pozwala on wyliczyć dowolnie wybraną cyfrę ludolfiny bez znajomości jakiejkolwiek cyfry poprzedniej.</p>
+        <p xml:id="p-3">Liczbę określa się w matematyce jako stosunek obwodu koła do jego średnicy. Nie da się jej wyrazić w postaci zwykłego ułamka, jak np. 1/2 (czyli jest ona niewymierna). Obecnie znamy około 500 mld cyfr rozwinięcia dziesiętnego ludolfiny; oto kilka pierwszych: 3,14159265... Jeśli ktoś chce je zapamiętać, polecamy następujący wierszyk (liczby liter w kolejnych słowach odpowiadają kolejnym cyfrom ):</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

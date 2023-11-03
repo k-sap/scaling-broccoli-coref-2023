@@ -1,0 +1,20 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Odnaleziony pamiętnik już wywołał emocje w środowiskach żydowskich.</p>
+        <p xml:id="p-2">– Już od wczoraj rozpytuję wśród znajomych. Taki pamiętnik to dla nas niezwykle cenna rzecz. To, że był pisany po polsku, wskazuje na wysoki poziom intelektualny dziewczyny. Jesteśmy wzruszeni tym odkryciem i na pewno będziemy chcieli pomóc w ustaleniu wszelkich faktów z życia Rutki – dodaje Menachem Lior.</p>
+        <p xml:id="p-3">– Każdy pamiętnik z czasów wojny, tym bardziej z getta jest niezwykle cennym dokumentem. Pamiętniki dzieci, wywołują szczególne emocje. Wystarczy wspomnieć wydany w latach 50. pamiętnik Dawida Rubinsteina. Dziennik Rutki to kolejny dowód na to, że historia żyje – mówi Michał Sobelman, rzecznik Ambasady Polskiej w Izraelu.</p>
+        <p xml:id="p-4">zagłębiowska anna frank</p>
+        <p xml:id="p-5">powiedzieli nam</p>
+        <p xml:id="p-6">Jarosław Krajniewski, historyk z Muzeum Zagłębia, autor licznych publikacji na temat Żydów zagłębiowskich</p>
+        <p xml:id="p-7">Czy w okresie opisywanym przez Rutkę Laskier, Żydzi wiedzieli już o tym co dzieje się w obozach? Tak, może nie wszyscy Ø i nie w detalach, ale o tym, że są tam zagazowywani ludzie, wiedziano. Takie informacje miała między innymi Armia Krajowa. Tak więc pod tym względem autentyczność pamiętnika nie powinna wzbudzać wątpliwości.</p>
+        <p xml:id="p-8">Krystyna Oleksy wicedyrektor Muzeum Auschwitz Birkenau</p>
+        <p xml:id="p-9">W naszych dokumentach znaleźliśmy jak na razie jedną osobę o nazwisku Laskier z Będzina. Trzeba jednak pamiętać, że większość list transportowych i dokumentów była niszczona przez Niemców, zwłaszcza pod koniec wojny. To co posiadamy to zaledwie około dziesięciu procent.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

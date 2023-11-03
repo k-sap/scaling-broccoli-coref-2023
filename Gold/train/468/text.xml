@@ -1,0 +1,22 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">3 XI 1943. Środa</p>
+        <p xml:id="p-2">Zjawiła się protegowana Maryni jako nowa pomocnica domowa. Z nią na mieście, pokazuję jej sklepiki, hale - źródła naszych zakupów. Lekcja łaciny, która mi źle idzie. Mój fatalny nastrój przez cały dzień. Moją goryczą udręczam Annę, aż wreszcie jej młodość i siła biorą górę i późno w noc pocieszanie.</p>
+        <p xml:id="p-3">5 XI 1943. Piątek</p>
+        <p xml:id="p-4">Śniły mi się jabłka - renety, cocsa [?], że je kupowałam, a potem, że byłam na odczycie Stanisława Wojciechowskiego (!!). Wczoraj śnił mi się pan Jerzy, że wrócił. Widziałam go siedzącego w takiej pozie, jak na fotografii przyniesionej przez Marynię.</p>
+        <p xml:id="p-5">Dziś rano wyszłam tylko do fryzjera, potem cały dzień przesiedziałam nad łaciną. Dzień suchy, ciemny, chmurny i zimny.</p>
+        <p xml:id="p-6">Nieprzyjemny gość w porze obiadowej.</p>
+        <p xml:id="p-7">7 XI 1943. Niedziela</p>
+        <p xml:id="p-8">Dziś zrobiliśmy obiad "imieninowy" z powodu mojego przyjścia do zdrowia i za obiad sprzed miesiąca, którego nie jadłam, ponieważ zachorowałam.</p>
+        <p xml:id="p-9">Na obiedzie Jadzia, Anna i p. Jerzy. P. Marychna na razie świetnie się sprawuje, obawiam się tylko, że będzie trochę ekspansywna.</p>
+        <p xml:id="p-10">8 XI 1943. Poniedziałek</p>
+        <p xml:id="p-11">Po południu irytacja z powodu lamp karbidowych. Potem zdenerwowanie z powodu, że Anna nie wróciła do trzy na ósmą. Telefon do Maryni. W trakcie tego Anna wróciła. St. rozgniewał się na mnie o to.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

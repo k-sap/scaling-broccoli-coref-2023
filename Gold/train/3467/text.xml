@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Grunt to dobry grunt</p>
+        <p xml:id="p-2">Do czasu objęcia prezesury przez Jana Podobasa TON Agro zajmowało się tym, do czego zostało powołane: występowało do gmin o zmianę przeznaczenia gruntów, badało ich sytuację prawną itd. Gdy na grunt znalazł się kupiec, Agro dostawało połowę sumy, o jaką zwiększała się jego wartość w wyniku podjętych przez spółkę działań. Na takich zasadach miała zostać sprzedana m.in. działka w Kobierzycach. Jak wynika z dokumentów spółki, na zawartych do 1997 r. z AWRSP umowach Agro miało w ciągu 8 lat zarobić 335 mln. Obejmując fotel szefa TON Agro Podobas stwierdził jednak, że spółka nie może poprzestawać na dotychczasowej działalności. Odtąd głównym jej zajęciem miała być sprzedaż nieruchomości na własny rachunek. Nie oznaczało to bynajmniej, że Agro ma również na własny rachunek kupować grunty, którymi chce handlować. Miała je wnosić aportem AWRSP. TON Agro zaś przygotowywać je do sprzedaży, sprzedawać i inkasować pieniądze. Jednym słowem: wypełniać kasę spółki pieniędzmi ze sprzedaży otrzymanych za darmo państwowych gruntów. Teoretycznie AWRSP powinna otrzymywać od zysków Agro dywidendę. W praktyce przez 7 lat, odkąd spółka zaczęła samodzielnie sprzedawać grunty, przekazała Agencji jedynie 14,3 mln zł. W tym czasie dostała aportem 622 ha gruntów, na sprzedaży których zarobiła setki milionów złotych. Adam Tański tłumaczy: - Nie chcieliśmy większej dywidendy. Pieniądze woleliśmy przeznaczyć na rozwój spółki.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

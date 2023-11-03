@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Można wręcz powiedzieć, że lubimy katastrofy. Umożliwiają okazanie naszej głęboko skrywanej na co dzień wrażliwości, pozwalają poklepać się po plecach, że tacy jesteśmy prospołeczni i altruistyczni, wypisz wymaluj doktor Judym i Siłaczka w wersji wash and go. Zalani łzami zgłaszamy się do punktów krwiodawstwa, oddajemy w ramach pomocy rzeczy, które już dawno przestały nam się podobać albo których kompletnie nie potrzebujemy, stuprocentowo pewni, że ofiarę kataklizmu najbardziej uraduje prawie chanelowski żakiecik, w który już się nie mieścimy. Wzruszeni zalegamy na kanapach przed telewizorami, żądni coraz to nowych niusów, kogo uratowano, a kogo nie, a te psy ratownicze to mają takie wzruszające pyszczki, no po prostu za chwilę przemówią. Dziennikarze doskonale wiedzą, czego się od nich oczekuje i rzucają się tłumnie na każdego zapłakanego człowieka, zasypując go pytaniami: czy bardzo pan cierpi, co pani czuła, kiedy się pani dowiedziała, a w przypadku opornych, ale obiecująco zbolałych rozmówców, podpowiadają kwestie: należysz do pokolenia JP II, prawda? To musisz bardzo przeżywać jego śmierć. Idziesz teraz do kościoła pomodlić się, tak?</p>
+        <p xml:id="p-2">Prezenterzy telewizyjni w stosownych, żałobnych strojach i z grobowymi minami przekazują nam najnowsze wieści, starając się ukryć za swoimi plecami zajadłą zakulisową walkę o to, kto pierwszy poda dającą się potwierdzić informację o śmierci albo dopadnie jakąś efektownie zabandażowaną ofiarę i obfotografuje na wszystkie strony, korzystając z tego, że ze wstrząsem mózgu nie można się skutecznie bronić.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

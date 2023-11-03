@@ -1,0 +1,16 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Tego dnia, kiedy pani Bubakowa powróciła do starego-obcego świata, na klatce schodowej ktoś z administracji umieścił obwieszczenie. Od 1 października 2000 r. Kamienica zostanie zwrócona prawowitym właścicielom i od tej pory usuwaniem awarii adeem nie będzie się zajmował. Czynsze należy regulować jak dawniej. O zmianach w tej materii właściciele powiadomią lokatorów.</p>
+        <p xml:id="p-2">Córka pani Bobrowej z I piętra podzieliła się z sąsiadami refleksją: - Stało się najgorsze. Pan Bubak miał szczęście, że tego nie dożył.</p>
+        <p xml:id="p-3">Promesa numer jeden</p>
+        <p xml:id="p-4">Kamienica ma cztery piętra i jedną klatkę schodową. Na każdym piętrze dwa mieszkania, na parterze dwa sklepy: spożywczy pani Bobrowej i galanteryjny pana Wiśniewskiego. Ale chociaż Kamienica położona jest atrakcyjnie, na warszawskim Starym Mokotowie, w pobliżu Puławskiej, oba sklepiki nie przynoszą właścicielom spodziewanych dochodów. Od lat już przegrywają konkurencję z pobliskimi centrami handlowymi, klientów jak na lekarstwo. - Za mało, żeby żyć, za dużo, aby umrzeć - komentuje pan Wiśniewski.</p>
+        <p xml:id="p-5">Pan Wiśniewski mieszka w Kamienicy od dziecka. Kiedy skończyła się wojna, miał 5 lat i włóczył się z mamą po warszawskich ruinach. Stracili dach nad głową, bo na ich poprzedni dom spadła niemiecka bomba. Mama pana Wiśniewskiego wypatrzyła wypalony przez pożar lokal na parterze Kamienicy (urzędnik z ówczesnego magistratu oszacował, że parter zniszczony jest w 90 proc.). Mieszkania na piętrach były już zajęte. - Mama własnoręcznie wszystko wyremontowała - wspomina pan Wiśniewski. - Podzieliła pomieszczenia na część sklepową i mieszkalną. W zamian dostała z magistratu tzw. promesę nr 1.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

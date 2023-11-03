@@ -1,0 +1,19 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">- Też tak miałem, jak przyjechałem pierwszy raz.</p>
+        <p xml:id="p-2">- Znaczy jak?</p>
+        <p xml:id="p-3">- No że przejechałem cztery tysiące, a nie trzysta.</p>
+        <p xml:id="p-4">Wszyscy nas wyprzedzali, a góry wcale się nie przybliżały. Wydawało mi się, że stoimy w miejscu. Zwłaszcza w porównaniu z całą resztą. Prawie każdy coś wiózł. Beczki, toboły, skrępowane barany na przyczepach. Wyprzedziłem furmankę. Zaprzęg gnał ostrym kłusem. Powoził czarny mężczyzna.</p>
+        <p xml:id="p-5">Na wozie siedziała trójka dzieciaków. Obejmowały za szyję brązowe źrebię. Pomachały nam.</p>
+        <p xml:id="p-6">- Ale szybko się człowiek przyzwyczaja. Ty myślisz, że jak Austriak albo Niemiec do nas wjeżdża, to co? Sra w gacie i tyle.</p>
+        <p xml:id="p-7">Ja nie srałem, tylko nie mogłem sobie wyregulować ostrości. Może od tego kurzu. Bo w gruncie rzeczy było tak samo jak wszędzie. Tylko więcej osłów, mniejsze konie i furki też takie bardziej dziecinne. Miały z tyłu numery rejestracyjne. Ale niektóre na przykład żółte, angielskie. Przy wyjeździe z miasta dzieciarnia handlowała światowym asortymentem. Mieli amerykańskie i arabskie.</p>
+        <p xml:id="p-8">Po prawej, w oddali wśród pól stała ogromna hala. Coś jak terminal dla ciężarówek. Była czarna i długa na kilkadziesiąt metrów i przez całą tę długość ciągnął się ogromny czerwony napis "dargesiv". Wokół było zupełnie pusto. Na drodze wiodącej do hali wylegiwały się psy. Też czarne. Tak mi się wydawało. Nieruchome i wielkie. Podobne do świń.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

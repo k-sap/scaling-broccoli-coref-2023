@@ -1,0 +1,39 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">sp0: zależy jaki jeszcze samochód ?</p>
+        <p xml:id="p-2">sp2: zależy jakie ruszanie jak takie jak moje to..</p>
+        <p xml:id="p-3">sp0: wiesz jak się rozpędzisz to na pewno pojedziesz..</p>
+        <p xml:id="p-4">sp1: Ania będziesz miała czas żeby zajrzeć do teatru wielkiego ?</p>
+        <p xml:id="p-5">sp2: kiedy ?</p>
+        <p xml:id="p-6">sp1: teraz..</p>
+        <p xml:id="p-7">sp2: a co mam zrobić ?</p>
+        <p xml:id="p-8">sp1: zapytać się takie jest. czwartego czy tam któregoś maja. coś takiego pod tytułem gala. baletowa..</p>
+        <p xml:id="p-9">sp2: yhm..</p>
+        <p xml:id="p-10">sp1: albo koło tego..</p>
+        <p xml:id="p-11">sp2: no..</p>
+        <p xml:id="p-12">sp1: byś się zapytała ja co to jest i ja..</p>
+        <p xml:id="p-13">sp2: i ile po ile bilety..</p>
+        <p xml:id="p-14">sp1: i po ile są bilety..</p>
+        <p xml:id="p-15">sp2: dobrze..</p>
+        <p xml:id="p-16">sp1: bo może to chodzi o szko o o szkołę baletową wiesz że tam. mają taki występ..</p>
+        <p xml:id="p-17">sp2: Asiu jak nie zapomnę.</p>
+        <p xml:id="p-18">sp1: ale to ci się..</p>
+        <p xml:id="p-19">sp2: bo ja mogę zapomnieć..</p>
+        <p xml:id="p-20">sp1: najwyżej tam wiesz przejadę się. bo byłam teraz..</p>
+        <p xml:id="p-21">sp2: a tobie jakiegoś zdjęcia nie dali coś tam chciałeś żebym ci załatwiła..</p>
+        <p xml:id="p-22">sp0: nie zrobiłem zdjęcia legitymację muszę iść nową załatwić..</p>
+        <p xml:id="p-23">sp2: no to daj to stare..</p>
+        <p xml:id="p-24">sp0: nie to tamto jest..</p>
+        <p xml:id="p-25">sp2: e wiesz co. ale podpisane jest bo to musi być podpisane..</p>
+        <p xml:id="p-26">sp0: nie daję Ø..</p>
+        <p xml:id="p-27">sp1: esteta..</p>
+        <p xml:id="p-28">sp2: ciągle jeszcze nie ma dojazdu u nas więc już tam do końca tygodnia mięli to zrobić. przecież nie będą nosili na plerach tego. przez te wertepy tam wykopy nie złe są z tym że oni jak y bardzo ładnie to zakopują te drogi ładniej wyglądają niż. wcześniej tam dziury zrobili. tak że ładnie równo to robią..</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

@@ -1,0 +1,14 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Kto zapłaci, kto ucieknie</p>
+        <p xml:id="p-2">Jeden z najlepiej opłacanych dziennikarzy, Tomasz Lis, w swym programie w Polsacie publicznie oświadczył, że pomysłem nie jest zachwycony, ale 50-proc. podatek zapłaci, bo taki jest jego obywatelski obowiązek. Ilu jeszcze przedstawicieli słabowitej u nas klasy średniej wykaże się podobną postawą? Wprowadzenie nowej stawki podatkowej odczuje Krzesimir Dębski, znany na świecie muzyk i kompozytor. W poznańskim urzędzie skarbowym powiedzieli mu kiedyś: - "Mamy tu Kulczyka i Fibaka, ale to pan płaci największe podatki". Teraz jest rozgoryczony. - Zapędy państwa do sięgania do naszych kieszeni są nie do poskromienia. Jeszcze kilka lat temu myślałem, że zatrudnię nowych ludzi. Teraz widzę, że to bez sensu. Zwijam działalność i przenoszę się do USA - mówi Dębski. - Płacę podatki, ale nic z tego nie mam - skarży się z kolei szef dużej wytwórni fonograficznej - dzieci chodzą do prywatnej szkoły, leczymy się u prywatnych lekarzy, domu pilnuje firma ochroniarska, a państwo nie potrafi ścigać piratów, którzy kopiują nasze płyty. Mój doradca od lat namawia mnie na optymalizację.</p>
+        <p xml:id="p-3">Pokusa jest duża - szczególnie gdy dobrze opłacany inżynier, prezes czy bankier uświadomi sobie, że połowę z każdego dnia pracuje na podatek. - W takiej sytuacji nie chce się rano wstawać z łóżka - komentują doradcy podatkowi i przedstawiają listę sposobów na ominięcie fiskusa.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

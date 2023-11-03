@@ -1,0 +1,25 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">sp1: w domu..</p>
+        <p xml:id="p-2">sp2: no to dobra no cześć pa. jak bym się w domu to by mi zaczął opowiadać że brendy kupy nie zrobiła no. dobra to idę do babci..</p>
+        <p xml:id="p-3">sp1: w naszej willi..</p>
+        <p xml:id="p-4">sp2: no i Beata sobie ni skserowała ja muszę wyjść i co ?</p>
+        <p xml:id="p-5">sp1: no co miała kserować. no to idź skserój..</p>
+        <p xml:id="p-6">sp2: to Karol skserój jej to dobrze. mogę cię prosić ?</p>
+        <p xml:id="p-7">sp4: ale to teraz chcesz czy jej to zostawić..</p>
+        <p xml:id="p-8">sp2: to teraz bo ja jej nie zostawię bo ja to muszę wziąć bo ja już tu do pracy nie przyjdę przecież w najbliższym czasie. a przecież ona się chce pouczyć to..</p>
+        <p xml:id="p-9">sp1: i kiedy masz egzamin. Asia spójrz..</p>
+        <p xml:id="p-10">sp3: Ola tak i tak. to ty mówisz nie bo ja uważam że jest tak..</p>
+        <p xml:id="p-11">sp1: Asia ale spójrz nawet dzisiejsza rozmowa. jest świadectwem tego że ty masz problem jakiś. bo ja te ja mówię mnie to mnie spłynęło ja nawet nie nie nie wiesz nie byłam w stanie sobie natychmiast przypomnieć o co o co jaka była sytuacja..</p>
+        <p xml:id="p-12">sp3: dobrze Ola to wiesz co to może będzie tak że wrócimy do tej rozmowy jak jak ty będziesz kiedyś za za urażona moją reakcją. dobrze..</p>
+        <p xml:id="p-13">sp1: ale ja mnie to nie chodzi o każdą jakąkolwiek reakcje tylko ja mówię ty masz..</p>
+        <p xml:id="p-14">sp3: znaczy ja mówię o reakcji. nie mówię o problemie tylko mówię o reakcji..</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

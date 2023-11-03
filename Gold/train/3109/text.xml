@@ -1,0 +1,23 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">- O Ramzesie?</p>
+        <p xml:id="p-2">- Tak... Ale wiadomość jest zła, nawet... tragiczna!</p>
+        <p xml:id="p-3">- Co mu się stało?! Powiedz!</p>
+        <p xml:id="p-4">- Tak, niestety... Nasz brat nie żyje. Ratował dziecko z płonącego domu. Dziecko żyje, lecz on sam... spłonął. Po prostu spłonął...</p>
+        <p xml:id="p-5">- Spłonął?! To znaczy spalił się na śmierć?!</p>
+        <p xml:id="p-6">Wybuchnęłam przeraźliwym płaczem, wprost krzyczałam z rozpaczy. Przybiegła mama:</p>
+        <p xml:id="p-7">- Co się tu dzieje? Czego Dzidka płacze?</p>
+        <p xml:id="p-8">Szlochając i jąkając się powiedziałam:</p>
+        <p xml:id="p-9">- Ramzes nie żyje...</p>
+        <p xml:id="p-10">- Już dawno nie żyje - chłodno zauważyła mama i karcącym tonem zwróciła się do Lilki:</p>
+        <p xml:id="p-11">- Przestań dziecku w głowie mącić. O faraonach jej opowiesz jak dorośnie.</p>
+        <p xml:id="p-12">Bardzo przeżywałam śmierć Ramzesa, choć chyba jeszcze nie wiedziałam co to śmierć. Kiedyś z tłumem dzieciaków weszłam do otwartego, parterowego domu i tam na stole leżał jakiś blady pan. Leżał na prześcieradle, w ręku trzymał krzyż, na oczach miał metalowe pieniążki. Zapytałam starszą dziewczynkę po co te pieniądze. Nie wiedziała. Staruszek obok nas szepnął: "Żeby świętemu Piotrowi zapłacić za otwarcie wrót niebieskich". Drugi staruszek szeptem zaprzeczył: "Nie. Pieniążki są po to, by zmarłego światłość boska nie oślepiła". Tyle świec się wkoło paliło, że bałam się pożaru. Ludzie wchodzili, wychodzili. Kilka kobiet klęczało i modliło się. Potem usłyszałam głośny płacz. Szybko opuściłam to miejsce. Pachniało tam słodko, mdło i zrobiło mi się niedobrze. Kojarzyłam wtedy śmierć z tym, że ktoś leży, nie rusza się, a wokoło jest dziwnie i nie wiadomo, jak się zachować.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

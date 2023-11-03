@@ -1,0 +1,21 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">4. (skreślony).</p>
+        <p xml:id="p-2">Jeżeli wykonawca stał się niezdolny do dotychczasowej pracy wskutek wypadku przy pracy lub choroby zawodowej, nakładca powinien powierzyć mu inną odpowiednią pracę. W takim wypadku wykonawcy przysługuje dodatek wyrównawczy na zasadach określonych w przepisach § 24 ust. 2.</p>
+        <p xml:id="p-3">Rodzinie wykonawcy przysługuje odprawa pośmiertna w wysokości i na zasadach określonych w przepisach art. 93 Kodeksu pracy.</p>
+        <p xml:id="p-4">Wykonawcę uważa się za pracownika w rozumieniu przepisów o powszechnym zaopatrzeniu emerytalnym pracowników i ich rodzin, o ubezpieczeniu społecznym, ubezpieczeniu rodzinnym oraz oświadczeniach pieniężnych z tytułu wypadków przy pracy i chorób zawodowych, jeżeli nie jest objęty tymi przepisami z innego tytułu.</p>
+        <p xml:id="p-5">1. Wykonawca ma prawo do świadczeń przewidzianych w przepisach wymienionych w § 27 na zasadach określonych w tych przepisach.</p>
+        <p xml:id="p-6">2. W przypadkach gdy prawo do świadczeń lub wliczanie okresów zatrudnienia w zakresie tego prawa zależy od wymiaru czasu pracy, wykonawcę uważa się w danym miesiącu kalendarzowym za zatrudnionego w pełnym wymiarze czasu, jeżeli otrzymał wynagrodzenie w wysokości co najmniej najniższego wynagrodzenia.</p>
+        <p xml:id="p-7">3. W razie nieosiągnięcia przez wykonawcę wynagrodzenia w ust. 2 wskutek niezdolności do pracy z powodu choroby, kwota tego wynagrodzenia ulega zmniejszeniu proporcjonalnie do skróconego okresu wykonywania pracy.</p>
+        <p xml:id="p-8">(skreślony).</p>
+        <p xml:id="p-9">Za szkodę wyrządzoną nakładcy wskutek niewykonania lub nienależytego wykonania obowiązków wynikających z umowy oraz za szkodę w mieniu powierzonym wykonawca odpowiada na zasadach określonych w przepisach art. 114-127 Kodeksu pracy.</p>
+        <p xml:id="p-10">1. Nakładca zatrudniający stale co najmniej 20 wykonawców ustala regulamin pracy nakładczej. Nakładca, u którego działa zakładowa organizacja związkowa, zasięga opinii tej organizacji przed ustaleniem regulaminu.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

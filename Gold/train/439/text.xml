@@ -1,0 +1,16 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Dążenie do "prostoty" i "oczyszczenia" słowa ze zbędnych naleciałości wypływa jednak z innego jeszcze źródła. Jest nim poczucie ciężaru doświadczenia, którego słowo nie potrafi udźwignąć:</p>
+        <p xml:id="p-2">Słów zawsze dosyć Słowa pchają się drzwiami językami ale czy starczy ciszy po umarłych nawet po tych co jeszcze żyją ("Nie wiem czy starczy nam milczenia...")</p>
+        <p xml:id="p-3">Nie trzeba wierszy układać skandujmy imiona módlmy się swemu Bogu spisami pomordowanych ("Imiona")</p>
+        <p xml:id="p-4">Znamy ten model rozumowania z twórczości Różewicza. Wbrew pozorom, Kamieńską z ostatnich lat sporo jednak różni od autora Niepokoju. Przede wszystkim, zasadniczo religijny sposób myślenia i odczuwania każe jej, w znacznie większej mierze niż to czyni Różewicz, operować paradoksem - a obecność paradoksu sprawia, że wiersz staje się nie samym tylko nagim zapisem doświadczenia lecz intelektualną konstrukcją. Wreszcie, co bodaj ważniejsze, różewiczowskiemu przekonaniu o "śmierci poezji" Kamieńska przeciwstawia tezę: "Tam gdzie poezja umiera - tam rodzi się poezja" (wiersz "Śmierć poezji", stanowiący bezpośrednią polemikę z Różewiczem). I tak właśnie jest w całym Rękopisie znalezionym we śnie: poczucie bezsilności poezji współistnieje tu - jeszcze jeden paradoks - z przeświadczeniem, a choćby tylko z nadzieją, że właśnie poezja potrafi przynajmniej nazwać po imieniu smutek ludzkiej samotności i wzniosłość ludzkiego wyrzeczenia:</p>
+        <p xml:id="p-5">Poezja nie ocala nie pociesza Jest suchym coraz dokładniej narysowanym punktem czasami prawie już idealnie niczym naprawdę czystym środkiem samotności Lecz dotkniesz a wybuchnie nagle całym światem jak płaczem ("Poezja nie ocala")</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

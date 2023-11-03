@@ -1,0 +1,16 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Pełna deszyfracja trzech czarnych skrzynek, które znajdowały się na pokładzie rządowego Tu-154M, potrwa tydzień - twierdzą eksperci z Instytutu Technicznego Wojsk Lotniczych (ITWL), placówki, która zajmuje się problematyką bezpieczeństwa lotów maszyn wojskowych. Specjaliści z tego ośrodka są obecnie w Moskwie i ustalają, co było dokładnie przyczyną tragedii, w której zginął polski prezydent.</p>
+        <p xml:id="p-2">- Stan techniczny skrzynek jest zadowalający. Pozwala na przeprowadzenie szczegółowego odczytu i analizy całej informacji o locie i pracy wyposażenia samolotu - wyjaśnił wicepremier Rosji Siergiej Iwanow.</p>
+        <p xml:id="p-3">Na razie rosyjskie źródła podały - powołując się na pierwsze informacje odcyfrowane ze skrzynek - że przyczyną katastrofy nie była awaria samolotu. Brak jednak wiarygodnej hipotezy o tym, co stało się powodem rozbicia się Tu-154M. Bez analizy zapisu czarnych skrzynek nie da się potwierdzić żadnej teorii.</p>
+        <p xml:id="p-4">Oczywiście, rejestrator danych lotu (tak naprawdę nazywa się czarna skrzynka) to nie jest magiczna kula, która w stu procentach odtwarza scenariusz tego, co działo się w samolocie. Ale prowadzi ona na tyle dużo pomiarów, że najprawdopodobniej będzie można precyzyjnie określić, dlaczego pilot rządowego samolotu aż cztery razy starał się posadzić go na pasie startowym lotniska w Smoleńsku i dlaczego ani razu mu się nie udało.</p>
+        <p xml:id="p-5">Czarna skrzynka składa się z trzech elementów. Jeden - określany anglojęzycznym skrótem CVR - zajmuje się rejestracją rozmów prowadzonych w kokpicie. Jest on podłączony do słuchawek i nadajników, które na głowie mają członkowie załogi. CVR jest jednak wyposażony w na tyle czułe mikrofony, że prawie na pewno zarejestruje także słowa wypowiedziane przez osobę bez słuchawek na głowie - wystarczy, że taka osoba będzie znajdowała się w kokpicie.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

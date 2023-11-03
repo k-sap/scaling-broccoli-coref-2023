@@ -1,0 +1,18 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Z początkiem tego roku weszły w życie nowe przepisy, regulujące opodatkowanie sprzedaży nieruchomości. Teraz obowiązują aż trzy sposoby rozliczania takich transakcji.</p>
+        <p xml:id="p-2">Od 1 stycznia br. w Polsce obowiązują trzy różne skale i systemy podatkowe, dotyczące sprzedaży nieruchomości. Wszyscy, którzy planują taką transakcję powinni mieć tego świadomość. Wszystkie wątpliwości warto rozstrzygnąć, zanim do niej dojdzie. Na zapłacenie podatku mamy bowiem tylko 14 dni od daty podpisania umowy kupna-sprzedaży. Natomiast opłacenie podatku według niewłaściwej stawki może pociągnąć za sobą konsekwencje - finansowe i prawne. Co jest w nowych przepisach podatkowych najważniejsze? To, czy zapłacimy podatek od sprzedaży nieruchomości i jaka będzie, ewentualnie, jego wysokość, zależy od tego, kiedy było nabyte sprzedawane mieszkanie.</p>
+        <p xml:id="p-3">Do 31 grudnia 2006</p>
+        <p xml:id="p-4">Sprzedając nieruchomość nabytą do końca 2006 r. zapłacimy podatek w wysokości 10 proc. przychodu uzyskanego ze sprzedaży, czyli całej sumy otrzymanej od kupującego.</p>
+        <p xml:id="p-5">Jeśli nie chcemy płacić podatku - możemy przeznaczyć pieniądze ze sprzedaży na inne cele mieszkaniowe (m.in. zakup innej nieruchomości, budowę, przebudowę lub remont własnej nieruchomości), ale mamy na to tylko 2 lata od momentu zawarcia transakcji. W ciągu 14 dni od sprzedaży musimy zgłosić chęć skorzystania z takiej ulgi do urzędu skarbowego albo zapłacić podatek. Wolna od podatku jest także sprzedaż nieruchomości nabytych w spadku lub darowiźnie.</p>
+        <p xml:id="p-6">Od 1 stycznia 2007 do 31 grudnia 2008</p>
+        <p xml:id="p-7">Zmianie ulega wysokość podatku. Sprzedając nieruchomość nabytą w tym czasie, zapłacimy 19 proc. dochodu ze sprzedaży a nie - jak wcześniej - 10 proc. przychodu. Płacimy więc tylko od tego, co zarobimy na danej nieruchomości. Nie musimy powiadamiać o tym fiskusa od razu, wystarczy zrobić to w zeznaniu rocznym składanym do 30 kwietnia.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

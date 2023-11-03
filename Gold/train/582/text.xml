@@ -1,0 +1,19 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">– Pędził bimber i urządzał libacje ze swymi lokatorami – opowiadał na rozprawie Piotr M., syn Ryszarda M.</p>
+        <p xml:id="p-2">Gdy feralnego wieczoru w budynku zgasło światło, do skrzynki energetycznej przyszli Czesław S. z latarką i Ryszard M. Ten ostatni był podpity, bo przyjmował gości. Wybuchła awantura. Mężczyźni obrzucali się wyzwiskami i szarpali.</p>
+        <p xml:id="p-3">– Zobaczyłem, jak Czesław S. bił latarką ojca po głowie. Nagle potknął się i upadł. Uderzył głową o betonowe schody. Zaczął charczeć i ciężko oddychać. Wtedy podbiegłem – przedstawiał sądowi swój udział w zdarzeniu Piotr M.</p>
+        <p xml:id="p-4">Według niego, ojciec próbował cucić rannego sąsiada. Po chwili złapali go za nogi i ręce, aby przenieść do łazienki. W czasie przenosin nieprzytomny mężczyzna miał im kilka razy wyśliznąć się z rąk i upaść na posadzkę. Tak miały powstać obrażenia na jego ciele, także ślad po podeszwie buta Piotra M.</p>
+        <p xml:id="p-5">– Nie kopnął go pan przypadkiem, nie nadepnął? – dopytywał sędzia Mariusz Wiązek.</p>
+        <p xml:id="p-6">– Jedyny kontakt z Czesławem S. miałem wtedy, gdy chwyciłem go za kostki nóg – zaprzeczył oskarżony.</p>
+        <p xml:id="p-7">Odcisk buta na twarzy</p>
+        <p xml:id="p-8">W łazience Ryszard M. zaczał polewać zakrwawioną głowę sąsiada. Jego żona wezwała pogotowie. Na ratunek było jednak za późno. Lekarze stwierdzili, że mężczyzna został uduszony. Późniejsza sekcja zwłok wykazała też złamania żeber, uszkodzenia śledziony i wątroby, obrażenia głowy.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

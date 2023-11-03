@@ -1,0 +1,20 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">"Sam fakt, że ktoś jest dobrym policjantem, oznacza, że jest śmieciem" - wyznaje w internetowym forum dyskusyjnym Cop-Killa. "Zawsze i wszędzie policja jebana będzie" - potwierdza Asheh.</p>
+        <p xml:id="p-2">Jahguar: "Jeżeli nie podskakujesz, nie kozaczysz, nie robisz z siebie buraka i traktujesz ich z szacunkiem, naprawdę są spoxik".</p>
+        <p xml:id="p-3">Viper: "Ja gliniarzy lubię i znam paru spoko. A to, że ty Cop-Killa ich nie lubisz, to nie wygłaszaj tego na forum, bo kiedyś z tego powodu wpierdol dostaniesz".</p>
+        <p xml:id="p-4">Zdaniem WuDeZet policja jest potrzebna, przecież "są gwałciciele, wielcy przekręciarze, rodzice pakujący dzieci do beczek, zwyrodnialcy i inni pojebańcy".</p>
+        <p xml:id="p-5">- Trzeba takich kasować, to normalne - zgadza się BePePe.</p>
+        <p xml:id="p-6">Jego kolega z ekipy JLB (Jedność, Lojalność, Braterstwo). Ale dobry policjant powinien być psychologiem, reagować stosownie do sytuacji, a nie tylko pokazywać, kto jest silniejszy. - Wychodzi jeden z drugim na rejon i się wyżywa, bo Ø żona akurat dała mu kanapkę z serem, a nie szynką.</p>
+        <p xml:id="p-7">- Denerwuje mnie strasznie, kiedy pies na komendzie każe mi ściągać majtki i kucać, żeby zobaczyć, czy nie mam w dupie narkotyków. Ma prawo mnie denerwować? - pyta retorycznie WuDeZet.</p>
+        <p xml:id="p-8">Narzędzie systemu</p>
+        <p xml:id="p-9">Policja, powiada BePePe, to pachołki polityków. - Politycy obstawili się nimi i robią, co chcą. Wszystko się kręci w jednym kółku. A jak ty wypijesz piwo na ławce, to cię spałują.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

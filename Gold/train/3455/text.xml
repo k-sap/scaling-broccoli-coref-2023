@@ -1,0 +1,14 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">W tych setach decydowały „drobiazgi”, a w zasadzie – zdaniem Z. Madejskiego – dwie sprawy.</p>
+        <p xml:id="p-2">– Na początku trzeciego seta zasłabła, a może lepiej powiedzieć, na moment gorzej się poczuła nasza kapitan, Kinga Baran. Niedyspozycja była chwilowa, ale lekarz zawodów nie zezwolił „Baletce” (sportowy pseudonim K. Baran związany z ćwiczeniem przez nią baletu) na dalszy udział w zawodach. Było to poważne osłabienie naszej drużyny w decydujących partiach tego meczu. Jestem przekonany, że w składzie z Kingą, nasz zespół poradziłby sobie z Chemikiem w trzecim i czwartym secie. Druga sprawa to sędziowanie. Nie lubię wypowiadać się na ten temat, bo ludzką sprawą jest się mylić, ale sędziowie z Bydgoszczy... sprzyjali gospodarzom. Nie chcieli potem naszych pomeczowych, krytycznych uwag umieścić w protokole. Dziwna sprawa – mówi Z. Madejski.</p>
+        <p xml:id="p-3">Na temat sędziowania w meczu w Policach, na potwierdzenie słów legionowskiego kierownika, można znaleźć wpisy miejscowych kibiców na klubowej stronie Chemika. Oto przykłady: „(...) Choć sędziowie, gdyby uznali prawidłową piłkę dla Legionovii w czwartym secie, to mogło być ciekawie (Misieeek)”. ”No, sędzia trochę się pogubił pod koniec meczu. Zresztą na początku miał trochę niezrozumiałych decyzji. Szkoda, że druga sędzina (zresztą urodziwa) też trzymała jego poziom, a niedopuszczenie Kingi Baran, to parodia jakaś (navas 89)”. „Gratulacje dla Chemika. Szkoda Legionovii. (extern)”.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

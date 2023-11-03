@@ -1,0 +1,22 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">IV. Przypisy</p>
+        <p xml:id="p-2">1.- Tylko na taki mnie stać.</p>
+        <p xml:id="p-3">- Nas też - odpowiedzieliśmy, i był to nasz wielki sukces lingwistyczny, bo Mauro wręcz się roześmiał.</p>
+        <p xml:id="p-4">2. W drugim stopie zapytano Magdę</p>
+        <p xml:id="p-5">- What do you do?</p>
+        <p xml:id="p-6">- I do nothing - odrzekła.</p>
+        <p xml:id="p-7">3. Co zrobię, że tak go sobie właśnie wyobrażam: jako zabiedzonego studenta z brodą, w rajstopach ukrywających wystraszone łydki.</p>
+        <p xml:id="p-8">4. Pokoje (wł).</p>
+        <p xml:id="p-9">5. Po powrocie do domu przylepiłem sobie swój do półkotapczanu i służył mi dzielnie aż do czasu przeprowadzki, kiedy to półkotapczan został sprzedany sąsiadce Stodolnej, a że nie byłem przy tym obecny, również i mój sens życia dostał się jej dziecku imieniem Marcin.</p>
+        <p xml:id="p-10">6. Wyszedłszy z camery Magda przyznała się demonstracyjnie, że jedną gwiazdę wyniosła sobie w torbie (było to coś w rodzaju zemsty na artyście, który i tak nic z tego nie rozumiał).</p>
+        <p xml:id="p-11">7. Potem, ukryci przed deszczem w podcieniach naprzeciwko Bazyliki, rozkwitającej raz po raz światłem błyskawic, natrafiliśmy na gablotkę ze zdjęciami lwa, całego w jakichś wstrętnych liszajach i wiezionego w tym stanie motorową gondolą. Mnie się zaraz przypomniał Igor Strawiński, tym samym środkiem lokomocji, tyle że w trumnie, wieziony na wyspę San Michele, a Diabeł w tym czasie wyczytał, że lew tyle co przed miesiącem wrócił był z długotrwałego remontu, tak iż mało brakowało, a byśmy się mogli do usranej śmierci szukać po tym Leningradzie Południa. Konsolidacja w grupie chwilowo wzrosła.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

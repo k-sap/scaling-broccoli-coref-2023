@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">sp1: czemu ?</p>
+        <p xml:id="p-2">sp0: mówi tak. bo tam było o.. jakiś tam różnych symptomach dziecka coś tam nieważne. w każdym razie dziewczyny jakieś tam które on sobie wybrał miały tam to omawiać po kolei no i przyszły dzisiaj przygotowane dzisiaj i tak dalej no i coś tam opowiadały i on. potem mówił jakby po nich na ten sam temat i mówi tak w pewnym momencie wiecie jakie to jest piękne trzymać dziecko karmić je piersią to jest trzydzieści centymetrów i dziecko nie widzi ani bliżej ani dalej tylko waszą twarz coś tam twarz matki wiecie jakie to jest nawet jakbyście nie karmiły piersią to na ręce koniecznie dziecko nie tak mu butelkę dać tylko trzymać Ø na rękach bo dziecko wtedy coś tam się uczy i w ogóle i w ogóle i tam gada no bo jeśli tego nie będzie to tam było o patologii generalnie więc jeśli tego nie będzie to tam to będzie zaburzone i tamto tamto wszystko zależy w naszym życiu teraz od tego jak byliśmy karmione. karmieni. i w ogóle czego oczywiście nikt nie wie wiec olewa a powinni wszyscy wiedzieć i tak dalej i on mówi tak i w ogóle to taka dygresja mała taka rada dla was jak zawsze. osiemnaście lat to jest najlepszy wiek żeby rodzić dziecko dwudziesty czwarty rok to jest ostateczność. mówi absolutnie nie trzeba żadnych studiów kończyć nie będziecie mi tego wmawiać że nie dałybyście rady tutaj studiować czy gdziekolwiek bo to jest ściema tylko i wyłącznie żadni rodzice jeden drugi wspólnie nie przejmujcie się sąsiadami się nie przejmujcie dwadzieścia cztery lata to jest ostateczny termin żeby urodzić dziecko żeby to był najlepszy ten będzie najwyższa inteligencja tego dziecka będzie to tamto i w ogóle tysiąc powodów podaje czemu dwadzieścia cztery to jest koniec i to nie zachodzić w ciąże tylko rodzić mówi nie. wszystkie tam jak w ogóle zlewka z niego a on tak. ten kto. ta pani która na zaliczeniu będzie w ciąży już nie musi chodzić na wykłady w ogóle</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

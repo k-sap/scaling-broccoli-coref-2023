@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Linie wysokiego napięcia zagęszczają aerozolowe zanieczyszczenia.</p>
+        <p xml:id="p-2">Od dawna mówi się, że niezdrowo mieszkać pod linią wysokiego napięcia lub w jej pobliżu. Przy okazji często myli się emitowane przez te linie promieniowanie elektromagnetyczne z promieniowaniem jonizującym, którego źródłem są jądra izotopów promieniotwórczych. Prawdopodobnie istnieje jednak związek między narażeniem na zmienne pola elektromagnetyczne (EMF) dużych mocy a występowaniem białaczek dziecięcych. Pola takie i emitowane przez nie fale mają jednak tak małą energię kwantu, że nie są zdolne do zainicjowania jakiejkolwiek reakcji chemicznej, a tylko od niej może rozpocząć się efekt biologiczny. Gubiono się więc w hipotezach, co może być tego przyczyną. Nie stroniono nawet od tak karkołomnych przypuszczeń, jak to, że niektóre osoby są w jakiś szczególny, nieznany sposób wrażliwe na promieniowania niejonizujące.</p>
+        <p xml:id="p-3">Najwięcej podejrzeń skupiało się jednak na możliwości wspólnego działania pól elektromagnetycznych i zanieczyszczeń powietrza. Nie ulega wątpliwości, że takie pola działają na zawieszone w powietrzu cząstki zwane aerozolami. Zjawisko można obserwować u siebie w domu, na ścianie pod zegarem elektrycznym, gdzie gromadzą się ciemne smugi o zarysach części elektrycznej czasomierza.</p>
+        <p xml:id="p-4">Czasopismo International Journal of Radiation Biology w nr. 12/1999 przedstawiło wyniki badań wpływu pól elektromagnetycznych na aerozole. Pola takie działają na wszelkie aerozole, w tym na rakotwórczy radon, produkty niepełnego spalania olejów napędowych, pireny i podobne związki. Wykrywanie ich zwiększonej obecności wymaga jeszcze wielu lat pracy, by nie tylko wykryć określone związki, ale także określić postać ich występowania. Dopiero wtedy można będzie tę hipotezę potwierdzić lub ją odrzucić.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

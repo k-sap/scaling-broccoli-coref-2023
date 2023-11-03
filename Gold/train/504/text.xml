@@ -1,0 +1,33 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">sp1: czy czujesz że jesteś stworzona do rodzenia chłopców</p>
+        <p xml:id="p-2">sp3: no dobrze się czuję jako matka synów aczkolwiek</p>
+        <p xml:id="p-3">sp0: bo Zuza nie jest</p>
+        <p xml:id="p-4">sp2: bo Zuza marzy o córeczce</p>
+        <p xml:id="p-5">sp3: ale ja też marzę o córeczce przecież mój pierwszy syn się nazywa Adam bo to miała być Ewa</p>
+        <p xml:id="p-6">sp1: ale w głębi duszy ja czuję że</p>
+        <p xml:id="p-7">sp3: ten też miał być Ewa i już mi było wszystko jedno</p>
+        <p xml:id="p-8">sp2: i się nazywa Kuba</p>
+        <p xml:id="p-9">sp3: ale muszę powiedzieć że. że mieć syna to też jest bardzo fajnie</p>
+        <p xml:id="p-10">sp1: tak to prawda</p>
+        <p xml:id="p-11">sp0: tylko że Zuza chciałaby jeszcze córkę</p>
+        <p xml:id="p-12">sp3: jedno ma plusy i minusy</p>
+        <p xml:id="p-13">sp1: jednego mam. bardzo fajnego</p>
+        <p xml:id="p-14">sp3: ale to powiem ci jak się okaże że syn to też będziesz zadowolona tak jak ja</p>
+        <p xml:id="p-15">sp2: o właśnie</p>
+        <p xml:id="p-16">sp3: wierzę w to</p>
+        <p xml:id="p-17">sp0: ale powiedz i ty. czyli miałaś czterdzieści dwa lata jak urodził się Kuba i nie miałaś żadnych obaw z tym</p>
+        <p xml:id="p-18">sp3: no miałam. pewnie że miałam. zwłaszcza że przecież jestem z wykształcenia.</p>
+        <p xml:id="p-19">sp2: tak śliczny jesteś</p>
+        <p xml:id="p-20">sp3: no nie no. no nie miałam dobra no nie miałam</p>
+        <p xml:id="p-21">sp2: mama ma nie opowiadać. tak</p>
+        <p xml:id="p-22">sp3: jestem z wykształcenia zootechnikiem. czyli mam te różne biologiczne kwestie. genetyki no dosyć tak opanowane. i doskonale znałam zagrożenia wynikające z późnego wieku matki. no ale na szczęście mamy wiek już dwudziesty pierwszy. są badania prenatalne. i rozmaite rodzaje w ogóle rodzaje diagnostyki medycznej i tak dalej i. i wszystko w porządku. no. no poddałam się tym badaniom. aczkolwiek nie powiem że z przyjemnością. bo one nie są fajne. no ale czego się dla dzidziusia nie robi. dzidziuś mój był chciany. zaplanowany jak najbardziej</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

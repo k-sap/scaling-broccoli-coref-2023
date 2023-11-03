@@ -1,0 +1,14 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">wodociąg łączący Nową Wieś z Rokocinem. Ma on długość 5,4 km sieci głównej i 2,1 km przyłączy. Zaopatruje w wodę 53 siedliska. Tym sposobem praktycznie 100 proc. mieszkańców Rokocina podłączonych jest do sieci publicznej. Inwestycja kosztowała 250 tys. zł. W związku z tym, że przy okazji doprowadzono wodę dla 5 rodzin z terenu Starogardu, nieco ponad 10 proc. kosztów pokryto z budżetu miasta. Cały wodociąg zasilany jest wodą miejską.Nieco inna sytuacja miała miejsce w Kokoszkowach, gdzie w wodociąg doprowadzono do ul. dh. Grzybka. Tam inwestorem strategicznym było miasto, a gmina partycypowała w kosztach.</p>
+        <p xml:id="p-2">W bieżącym roku wybudowano także ujęcie wody w Trzcińsku. Ogółem na inwestycje związane z gospodarką wodną gmina Starogard wydała w 1998 r. około 1,5 mln. zł. Nie wiadomo, jaka kwota na te cele znajdzie się w przyszłorocznym budżecie.</p>
+        <p xml:id="p-3">- Kładziemy duży nacisk na budowę wodociągów. W 1997 r. do publicznych wodociągów podłączonych było ok. 49 proc. mieszkańców gminy. Obecnie liczba ta wzrosła do 70 proc. Przypuszczam, że proces ten potrwa jeszcze co najmniej dwa lata. Tempo rozwoju zależy w głównej mierze od ilości środków przeznaczonych w budżecie. Obecnie projekt budżetu na rok 1999 omawiany jest w poszczególnych komisjach i o wszystkim decydować będzie Rada Gminy. Na pewno będziemy starać się doprowadzić wodociąg do Trzcińska, gdzie powstało ujęcie wody. Które wsie zostaną objęte projektem, trudno na razie mówić - powiedział M. Firgon.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

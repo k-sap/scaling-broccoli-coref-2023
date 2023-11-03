@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Miłować to znaczy być przy osobie, którą się miłuje; to znaczy zarazem: być przy miłości, jaką jestem miłowany.</p>
+        <p xml:id="p-2">JAN PAWEŁ II</p>
+        <p xml:id="p-3">Jest mi tak ciężko, tak smutno. Jestem bardzo, bardzo samotna i tak strasznie bezsilna w tej okropnej chorobie naszego syna. Patrzenie na jego mękę, na to, jak cierpi, widok jego smutnych i zgaszonych oczu, świadomość, że nie mogę mu pomóc - wszystko to doprowadza mnie do takiego stanu, że moja wytrzymałość psychiczna zaczyna się wyczerpywać. Nie mam nikogo, kto wziąłby mnie w ramiona, przytulił, pocieszył, powiedział, że podołamy, że damy radę. Jestem sama. Jestem sama z moim bólem, z moją rozpaczą, z moim strachem. Sama z tą przerażającą świadomością, że powoli odchodzi ktoś, kto jest dla mnie całym światem.</p>
+        <p xml:id="p-4">Modlę się o siły, bo nie mogę sobie teraz pozwolić na chorobę. Muszę być teraz silna jak koń, bo ja ze swoim dzieckiem przebywam dwadzieścia cztery godziny na dobę. Dzień i noc, noc i dzień. Można żyć samemu i nie czuć się samotnym, ale bywa i tak, iż mieszkając w domu pełnym ludzi człowiek ma wrażenie, że jest sam. Przychodziły takie momenty, kiedy siadałam, płakałam i marzyłam, abym mogła na nowo stać się małym dzieckiem. Przytulić się do swojej mamy, a ona przycisnęłaby mnie do piersi i powiedziała: "Cicho, córeczko. Cicho, dziecinko. Wszystko będzie dobrze, wszystko się ułoży". Ale tak się nie stało. Trzeba dalej brać się z życiem za bary. Szkoda, że nie ma szkoły, która przygotowywałaby nas do tego, jak radzić sobie z tragediami, jakie dotykają tysiące ludzi.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

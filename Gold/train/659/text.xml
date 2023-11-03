@@ -1,0 +1,16 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">- Czy któraś córka pójdzie w ślady mamy? I podtrzyma tradycje muzyczne rodziny Bem?</p>
+        <p xml:id="p-2">- Wydaje mi się, że nie. Pamela skończyła etnologię i antropologię kultury. I raczej interesują ją media. Natomiast Gabrysia ma ogromny talent malarski, plastyczny. Ale uczy się gry na fortepianie. Jest dziewczynką z ogromnym temperamentem. Taką, która się lubi prezentować, nie boi się ludzi. Więc kto wie. Ja w żaden sposób nie popycham jej ku śpiewaniu. Zdecyduje sama.</p>
+        <p xml:id="p-3">- Wiele gwiazd wiedzie życie od bankietu do bankietu. Żeby się pokazać. Bywa pani?</p>
+        <p xml:id="p-4">- Bardzo rzadko, bo nie lubię. Ja wiem, że mój zawód jest zawodem usługowym. Niezwykle trudnym. Wymagającym ode mnie dobrej kondycji fizycznej. Więc wydaje mi się, że angażowanie się w takie bankiety, które niczemu nie służą i nic nie przynoszą jest absurdalne. Chodzenie wszędzie tam, gdzie nas zaproszą, może doprowadzić jedynie do rozłamu rodziny. Ja nie wyobrażam sobie, żebym co wieczór gdzieś wychodziła, zostawiając w domu dzieci, psy i całą resztę. A ponadto, powiem szczerze, ja lubię wieczorem w domu odpocząć. Na co dzień towarzyszy mi rozgardiasz, tłum spraw, ludzi, twarzy. Więc jak tylko mogę, chętnie od tego uciekam.</p>
+        <p xml:id="p-5">- Jakie są cienie pani zawodu?</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

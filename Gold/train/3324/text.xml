@@ -1,0 +1,16 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Jednym z zabiegów eliminujących, a przynajmniej ograniczających, kołysanie latawca jest przyczepienie ogona. Ogon zwiększa stabilność, choć odbywa się to kosztem zmniejszenia siły nośnej. Może być on wykonany ze skrawków materiału, papieru lub folii plastikowej zawiązanych na lince. Stosowanym często rozwiązaniem jest połączenie w szereg plastikowych lub papierowych kubków z obciętym dnem. Latawce obciążone takimi ogonami są stabilniejsze i unoszą się wyżej. Doczepienie dwóch ogonów może znacząco ograniczyć niepożądane obroty.</p>
+        <p xml:id="p-2">Ryc. 4. Latawiec w kształcie czaszy</p>
+        <p xml:id="p-3">Latawce płaskie, o których mowa, są zazwyczaj mało stabilne. Daje się to szczególnie odczuć podczas silnych i nagłych porywów wiatru. Aby tego uniknąć, buduje się konstrukcje w kształcie czaszy skierowanej wklęsłą stroną do wiatru. Ryc. 4 przedstawia taki latawiec. Kiedy nagły poryw wiatru powoduje jego obrót, ustawienie Ø zmienia się tak, że wyeksponowana na wiatr powierzchnia dąży do przywrócenia położenia początkowego. W takich latawcach można zrezygnować z ogona. W zamian wycina się niekiedy otwory w czaszy, które z jednej strony osłabiają siłę podmuchów Ø, a z drugiej redukują powstające za latawcem szkodliwe zawirowania. Poprawa stabilności i tym razem uzyskana została kosztem zmniejszenia siły nośnej.</p>
+        <p xml:id="p-4">Ryc. 5. Latawiec przestrzenny i jego konstrukcja</p>
+        <p xml:id="p-5">Rodzajów i kształtów latawców może być dowolnie dużo, od najprostszych płaskich, najczęściej czworoboków, do niezwykle rozbudowanych konstrukcji przestrzennych (ryc. 5). Można też dzielić latawce na sportowe - szybkie, zwinne i odporne na przeciwności losu, a przeznaczone głównie do rywalizacji w konkursach; akrobatyczne - do wykonywania pętli, ósemek i innych ewolucji, dekoracyjne - cieszące oko swoim pięknem; wysokościowe - mające za zadanie wznieść się jak najwyżej; transportowe - potrafiące wynosić w górę np. termometry czy aparaty fotograficzne.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

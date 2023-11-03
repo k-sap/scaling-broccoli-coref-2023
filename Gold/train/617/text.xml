@@ -1,0 +1,17 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Trochę dobrej woli</p>
+        <p xml:id="p-2">- Jeżeli sprzedawca zobowiąże się, że w ciągu 14 dni usunie wadę musimy zgodzić się na taką formę załatwienia sprawy - powiedziała Beata Bień, wiceprezes Klubu Trójmiejskiego Federacji Konsumentów. - Jednak, gdy drugi raz popsuje nam się ten sam towar - nawet z innego powodu - to wówczas mamy prawo, powołując się na wyżej wymieniony artykuł, odmówić dalszych napraw i zażądać zwrotu pieniędzy, chyba że wada nie była istotna. Możemy żądać tylko tyle pieniędzy, ile zapłaciliśmy.Tylko nowy</p>
+        <p xml:id="p-3">Paragraf 21 mówi o tym, że towar musi być wymieniony na nowy, chyba że kupiliśmy rzeczy używane. Przy wymianie lub zwrocie gotówki nie stosuje się potrącenia z tytułu amortyzacji, czyli zużycia przez konsumenta.</p>
+        <p xml:id="p-4">Paragraf 22 określa, że jeżeli reklamacja zostanie załatwiona przez obniżenie ceny, to upust powinien być adekwatny do utraty użyteczności przez daną rzecz.- Jeżeli zdecydujemy się używać buty lub telewizor pomimo wady, ale cena wydaje nam się za wysoka, żądajmy jej obniżenia - mówi Beata Bień. - Wysokość upustu zależy od umowy ze sprzedawcą.</p>
+        <p xml:id="p-5">W jakim czasie</p>
+        <p xml:id="p-6">Paragraf 23 mówi, że reklamacje, w wyniku których dochodzi do zwrotu gotówki, obniżenia ceny lub wymiany powinny być załatwiane niezwłocznie. Dotyczy to reklamacji nie budzących wątpliwości. Jeżeli wymagane jest dodatkowe sprawdzenie (np. opinia rzeczoznawcy), wymiana związana jest z przywiezieniem nowej rzeczy od producenta lub z usunięciem wady, musi być załatwiona w ciągu 14 dni, chyba że konsument wyrazi zgodę na przedłużenie tego terminu. - Termin liczymy od dnia zgłoszenia reklamacji z sobotami i niedzielami - wyjaśnia Beata Bień. - Jeżeli nie wyraziliśmy pisemnej zgody nie powinny nas interesować żadne tłumaczenia.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

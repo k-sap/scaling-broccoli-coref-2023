@@ -1,0 +1,17 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Janusz Wróblewski: - "Miasto ślepców" to groteskowy obraz wytrącenia z normalności. Ludzie nagle przestają widzieć, rządzą nimi dzikie instynkty, świat ukształtowany przez tradycję, wiarę, kulturę upada. Myśli pan, że znajdujemy się o krok od katastrofy?</p>
+        <p xml:id="p-2">Fernando Meirelles: - W powieści José Saramago ślepota jest metaforą niewidzenia człowieka w człowieku. Ludzie obserwują świat, widzą innych, jednak nie dostrzegają rzeczy najważniejszych. Obojętnieją, zamykają się w sobie, udają, że nic ich nie obchodzi, podczas gdy sytuacja wymaga od nich działania, niesienia pomocy, solidarności.</p>
+        <p xml:id="p-3">Nieczułość, brak wrażliwości to najgroźniejsza choroba cywilizacji?</p>
+        <p xml:id="p-4">Raczej trwała, fundamentalna cecha ludzkiej natury, którą egoistyczne, wysoko rozwinięte społeczeństwa tylko wzmacniają. Osiągnięcia cywilizacyjne są kruche. Wystarczy tsunami, trzęsienie ziemi, wybuch jakiejś epidemii i to, co uważamy za solidne wsparcie albo niepodważalne fundamenty demokracji, nagle zostaje starte z powierzchni. Nie tylko Ø w sensie dosłownym, materialnym. Także Ø duchowym. Religia, wartości, empatia znikają brutalnie zdławione przez instynktowną chęć przetrwania w skrajnie niekorzystnych warunkach. Takie sytuacje miały miejsce nieraz.</p>
+        <p xml:id="p-5">To, co mogłoby się stać pomysłem na horror o zombi, przybiera kształt egzystencjalnego dramatu z elementami science fiction. Jak na twórcę "Miasta Boga" to i tak zaskakująca wolta.</p>
+        <p xml:id="p-6">Filozoficzna książka Saramago, podobnie jak "Dżuma" Camusa, jest parabolą, ćwiczeniem umysłowym polegającym na prześledzeniu konsekwencji zagrożenia, którego nie bierzemy na co dzień pod uwagę. Ludzie zapadają na "białą chorobę", przestają sobie ufać. Rozpada się system, w którym dotychczas żyli. Ciemność, brak reguł oraz moralnych hamulców wyzwala w nich to co najgorsze. Można powiedzieć, że ten surrealistyczny, breughlowski obraz zepsucia, upokorzenia, schodzenia na dno piekła to pogłębienie obserwacji poczynionych w poprzednich moich filmach.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

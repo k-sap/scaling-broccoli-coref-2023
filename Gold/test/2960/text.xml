@@ -1,0 +1,14 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Dziwne zjawisko: skrajna prawica i skrajna lewica zgadzają się w sprawach granic - no, może nie całkiem, ale tak na 95%. Zgodnie też proponują plan, mówiąc dzisiejszym językiem, czystek etnicznych, które następnie rzeczywiście tragicznie dotknęły miliony ludzi. I to na dużo większą skalę, niż współcześnie po rozpadzie federacji Jugosłowiańskiej, tylko że wtedy świat się tym wcale nie przejmował. Obecnie niektórzy jeszcze ciągle nazywają to, cóż za wyrażenie, oczyszczeniem w ogniu. Jednak zdecydowana większość społeczeństwa żywiła złudzenia, że do tego nigdy nie dojdzie, gdyż racja Polski jest silna. Bez wątpienia, sprawa granic może zostać określona dopiero na konferencji pokojowej, a tam będziemy dysponować mocnymi argumentami: przecież kraj, który pierwszy stanął do walki i proporcjonalnie dał największy wkład i poniósł także największe straty, nie może w wyniku wygranej wojny utracić prawie połowy swego terytorium. To absurd.</p>
+        <p xml:id="p-2">Bardziej naiwni powoływali się dodatkowo na brytyjskie gwarancje w sprawie granic, udzielone Polsce zanim znalazła się we wojnie po stronie koalicji. Zapominali o dotychczasowym doświadczeniu, że W. Brytania wywiązywała się z traktatów i zobowiązań tylko w jedną stronę, na swoja korzyść.</p>
+        <p xml:id="p-3">Jednak przeważała opinia, że pomimo oczywistej niesprawiedliwości takiego rozwiązania, trzeba będzie poczynić jakieś ustępstwa terytorialne wobec ZSRR, ze względu na proporcję sił. Jeżeli dojdzie do plebiscytu, to Polska nie miała najmniejszych powodów obawiać się wyniku. A jeżeli ZSRR, zapewne obawiając się rezultatu, nie zgodzi się na plebiscyt, to przecież mamy sojuszników i przyjaciół, którzy będą pośredniczyć tak, żeby zadowolić również i ZSRR, ale nie dopuszczą, żeby spotkała nas zbyt wielka krzywda. W końcu, nie tylko oni, ale cały wolny świat zaciągnął wobec Polski poważne zobowiązania.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

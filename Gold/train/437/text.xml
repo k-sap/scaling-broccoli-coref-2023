@@ -1,0 +1,14 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Dramatyczne zjawisko utraty bezpośredniej więzi z sacrum Mircea Eliade określił jako religijność zdegradowaną albo rzeczywistość drugiego upadku ludzkości. Eliade nie zajmował się nową duchowością, a raczej procesem desymbolizacji i redukcji wielkich systemów symbolicznych w powszechnej świadomości człowieka XX wieku. Niemniej jednak zdefiniowany przez niego nurt życia wewnętrznego człowieka współczesnego, uproszczony i narcystyczny, jest wielostronnie związany z ideologią i propozycjami praktycznymi Nowej Ery, zwłaszcza w jej późnym, ponowoczesnym wydaniu.</p>
+        <p xml:id="p-2">W dzisiejszej fazie Nowej Ery w mniejszym stopniu przejawia się moda na Wschód, a w większym - ideologia prozdrowotna, w tym sensie, że zdrowie jest rozumiane w najszerszym zakresie: jako zdrowie fizyczne, psychiczne i duchowe, czyli wellness - ogólny dobrostan jednostki. Troska o ciało i psychikę, zorientowana optymalnie i optymistycznie, to droga do dobrostanu. "Duchowość" stanowi jakby produkt uboczny troski o ciało, wyrażającej się w systematycznych ćwiczeniach ze stemplem ery Wodnika, oraz o równowagę psychiczną.</p>
+        <p xml:id="p-3">Dbałość o duchowy wymiar życia zarówno wewnętrznego, jak i praktycznego, nie ma już charakteru religijnego i nie wymaga ofiary z narcystycznych i hedonistycznych skłonności jednostki. O duchowej jakości powinna świadczyć dieta i sposoby przyrządzania potraw (wegetarianizm, głodówki oczyszczające, kuchnie orientalne, troska o rytualną czystość, łączenie lub rozdzielanie określonych potraw), urządzanie mieszkania (najlepiej zgodnie z regułami feng shui), noszenie biżuterii (wybór kamieni w zgodzie z jakimś systemem symbolicznym), spędzanie wolnego czasu, w tym rytualny kontakt z naturą. Wartość rozmaitych praktyk ze sfery "duchowości" nie różni się więc zasadniczo od rynkowej wartości oczyszczania jelita grubego czy urynoterapii - świadczy o tym tytuł książki Konrada Wydrowskiego Pijmy wodę Siwy. Czytelniczka "Nieznanego Świata" pisze:</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

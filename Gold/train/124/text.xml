@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Unijne renty strukturalne powinny przyspieszyć proces powiększania się gospodarstw. Niewielkie są jednak szanse, że ten cel osiągniemy.</p>
+        <p xml:id="p-2">Nawet 2,5 tys. zł miesięcznej renty mogą dostać ci rolnicy, którzy oddadzą gospodarstwo. Na wsi trwają rodzinne narady, ustalenia i gorączkowe liczenie. Wychodzi na to, że się opłaci. Ale czy opłaci się też Polsce?</p>
+        <p xml:id="p-3">Unijny program rent strukturalnych to 3 mld zł, które przez 2,5 roku szerokim strumieniem popłyną na polską wieś. W następnych latach pieniędzy będzie jeszcze więcej. Rolnik, w zależności od wielkości gospodarstwa i tego, komu je przekazuje, dostanie od 1180 do 2500 zł (minus podatek dochodowy). Z tych pieniędzy 80 proc. daje UE, a 20 proc. nasz budżet. Według szacunków Ministerstwa Rolnictwa, do końca 2006 r. z nowego programu rent strukturalnych skorzysta 60-80 tys. z ponad 1,6 mln gospodarstw.</p>
+        <p xml:id="p-4">Choć o rentę można się starać od 1 sierpnia, większość rolników już wcześniej zbierała potrzebne dokumenty. Gruchnęła wieść, że pieniędzy nie starczy dla wszystkich, a liczy się kolejność zgłoszeń. - Spodziewaliśmy się oblężenia - mówi Wojciech Pomajda, prezes Agencji Restrukturyzacji i Modernizacji Rolnictwa (ARiMR), która rozpatruje wnioski i przyznaje renty. Pomajda uspokaja, że pieniędzy nie powinno zabraknąć. W Ministerstwie Rolnictwa przyznają jednak, że na ten rok zapisana została sztywna kwota 148 mln euro (starczy na 20-30 tys. wniosków) i jeśli zostanie wykorzystana, nowe renty przyznawane będą dopiero w 2005 r.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

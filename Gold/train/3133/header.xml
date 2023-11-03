@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<teiHeader xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xml:lang="en">
+  <fileDesc>
+    <titleStmt>
+      <title>Paragraphs: p-870,p-871,p-872,p-873,p-874,p-875,p-876,p-877,p-878,p-879,p-880,p-881,p-882,p-883,p-884,p-885,p-886,p-887,p-888,p-889,p-890,p-891,p-892,p-893,p-894,p-895,p-896,p-897,p-898,p-899,p-900 from NKJP text with id: IJPPAN_k1231122</title>
+    </titleStmt>
+  </fileDesc>
+  <profileDesc>
+    <textClass>
+      <catRef scheme="#nkjp" target="Literatura piękna"/>
+    </textClass>
+  </profileDesc>
+  <revisionDesc/>
+</teiHeader>

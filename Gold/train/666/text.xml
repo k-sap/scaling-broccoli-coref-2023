@@ -1,0 +1,20 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Uwaga! Spóźnienie powyżej 5 minut oznacza, że nie zostaniemy już wpuszczeni na salę egzaminacyjną. Dlatego lepiej nie ryzykować i zjawić się w szkole na kilkanaście minut przed wyznaczoną godziną.</p>
+        <p xml:id="p-2">W komisji jest zazwyczaj od trzech do pięciu osób. W tym nauczyciel przedmiotu i przewodniczący (przedstawiciel kuratorium oświaty).</p>
+        <p xml:id="p-3">Miejsca przy stolikach są losowane i zajmowane według wyciągniętych numerów. Każdy zdający może korzystać podczas sprawdzianu z następujących pomocy naukowych: - tablic matematycznych, - kalkulatorów, - słowników języka obcego.</p>
+        <p xml:id="p-4">Te pomoce przygotowuje komisja egzaminacyjna.</p>
+        <p xml:id="p-5">Ważne! Torby i plecaki odkładane są w miejscu do tego wyznaczonym. Nie będziemy mogli mieć przy sobie podczas egzaminu telefonu komórkowego. Zostawiamy go w domu lub przekazujemy członkom komisji. Do stolika siadamy jedynie z ostemplowanymi arkuszami i długopisami.</p>
+        <p xml:id="p-6">Pisanie na ocenę</p>
+        <p xml:id="p-7">Tematy egzaminacyjne będą odczytane głośno i dodatkowo zapisane na tablicy.</p>
+        <p xml:id="p-8">Sprawdzian trwać będzie 5 godzin zegarowych, liczonych od momentu zapisania i przeczytania pytań egzaminacyjnych. Nie ma ograniczeń co do objętości pracy. Każda bez względu na jej objętość musi być sprawdzona.</p>
+        <p xml:id="p-9">Uwaga! Korzystanie z "własnych" pomocy naukowych, czyli ściąg, oznacza, że możemy zostać skreśleni z listy zdających. Decyzję w takim przypadku podejmuje przewodniczący komisji. W czasie trwania egzaminu przewidziane jest drugie śniadanie (kanapki powinny być wcześniej przygotowane, napoje również). Na posiłek nie przewiduje się żadnej przerwy. Co oznacza, że przelewamy na papier swoją wiedzę "pałaszując jednocześnie bułkę z szynką".</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

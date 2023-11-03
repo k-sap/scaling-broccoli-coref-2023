@@ -1,0 +1,19 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">W dniu głosowania zwoływanie zgromadzeń, organizowanie pochodów i manifestacji jest zabronione.</p>
+        <p xml:id="p-2">Na 24 godziny przed dniem referendum aż do zakończenia głosowania zabrania się podawania do publicznej wiadomości wyników badań (sondaży) opinii publicznej dotyczących przewidywanych zachowań mieszkańców w referendum i wyników referendum oraz sondaży przeprowadzonych w dniu głosowania.</p>
+        <p xml:id="p-3">Finansowanie</p>
+        <p xml:id="p-4">Finansowanie referendum jest jawne. Koszty referendum pokrywa się z budżetu jednostki samorządu terytorialnego, której organ stanowiący zarządził przeprowadzenie referendum. - W budżecie miasta zapisano koszty referendalne w kwocie 90 tys. złotych. Fundusze te pokryją wynagrodzenia członków komisji wyborczych oraz koszty plakatowania obwieszczeń. Nie przewidziano w tej sumie kosztów kampanii referendalnej, bo nie pozwala na to ustawa. Prowadzenie kampanii leży po stronie inicjatorów referendum – mówi skarbnik miasta, Kazimierz Paryła.</p>
+        <p xml:id="p-5">Ważność referendum</p>
+        <p xml:id="p-6">Referendum jest ważne, jeżeli wzięło w nim udział co najmniej 30% ogółu uprawnionych do głosowania (w przypadku Siedlec to ok. 18 000 osób). Wynik referendum jest rozstrzygający, jeżeli za jednym z rozwiązań w sprawie poddanej pod referendum oddano więcej niż połowę ważnych głosów.</p>
+        <p xml:id="p-7">Jeżeli referendum zakończy się wynikiem rozstrzygającym w sprawie poddanej pod referendum, organ stanowiący jednostki samorządu terytorialnego niezwłocznie podejmie czynności w celu jej realizacji.</p>
+        <p xml:id="p-8">W terminie 7 dni od dnia podania wyników referendum do wiadomości publicznej, każdy uprawniony do wzięcia w nim udziału mieszkaniec danej jednostki samorządu terytorialnego może wnieść protest, jeżeli dopuszczono się naruszenia przepisów ustawy, a naruszenie to mogło wywrzeć istotny wpływ na wynik referendum.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

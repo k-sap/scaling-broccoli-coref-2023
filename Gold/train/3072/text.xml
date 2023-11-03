@@ -1,0 +1,14 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Tak, okazało się, że jazda stopem przez zakurzone drogi Afryki w ponad czterdziestostopniowym upale z małym szczeniaczkiem, który boi się obcych (a każdy poza mną jest obcy), boi się pojazdów i przez większość czasu musi być niesiony na rękach – nie jest łatwe. Było to jednak pięknym doświadczeniem. Od momentu jak zaczął ze mną podróżować, status Kani drastycznie się zmienił – z bezdomnego wiejskiego kundla na ulubieńca białej kobiety. Nagle wszyscy zaczęli go lubić, dzielić się jedzeniem, a dzieci stały się przyjazne i miłe.</p>
+        <p xml:id="p-2">Tak więc Kani, zaszczepiony, z książeczką zdrowia psa (coś jak psi paszport), przekroczył ze mną granicę z Mali do Senegalu, a potem do Gambii. W Basse, małym miasteczku w odległej, wschodniej części Gambii, zatrzymałam się u miłej miejscowej rodziny. Kani od razu polubił to miejsce. Zamiast jak zwykle chować się w najciemniejszym kącie, zaczął okazywać bardziej normalne szczeniackie odruchy – węszyć, biegać po przestronnym, ogrodzonym podwórku, nawet zaprzyjaźniać się z dziećmi rodzinki... Była to niełatwa, łamiąca mi serce decyzja. Obiecali opiekować się nim i traktować jak członka rodziny. Mimo wszystko – przez długi czas nie mogłam przestać płakać... Nigdy przedtem nie kochałam żadnego zwierzaka tak mocno jak tego nieskoordynowanego, połślepego szczeniaka, który całym sobą odwzajemniał moją miłość.</p>
+        <p xml:id="p-3">Afryka wyzwala najmocniejsze emocje. Wszystko wydaje się tu bardziej intensywne. Upał bardziej gorący, kurz bardziej zakurzony, kolory żywsze, muzyka bardziej trafiająca do serca, mango bardziej soczyste, bieda osiąga dno, radość życia sięga nieba, a gościnność – jest nieporównywalna.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

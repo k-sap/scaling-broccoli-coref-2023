@@ -1,0 +1,39 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">MARIA</p>
+        <p xml:id="p-2">Tak. Po trzydziestce, błędne decyzje bywają bardzo kosztowne.</p>
+        <p xml:id="p-3">KUBA</p>
+        <p xml:id="p-4">DO LESZKA</p>
+        <p xml:id="p-5">Twoje życie to nieustanne ryzyko. Jedziesz tam, skąd inni uciekają. Jakie pytania zadajesz sobie przed kolejnym wyjazdem?</p>
+        <p xml:id="p-6">LESZEK</p>
+        <p xml:id="p-7">Gdzie ten cholerny paszport?</p>
+        <p xml:id="p-8">(uwaga montażowa: do tego miejsca tekst pod scenę 4.)</p>
+        <p xml:id="p-9">Zbliżenie Marii. Uśmiecha się.</p>
+        <p xml:id="p-10">Brawa publiczności. Wejście muzyczne - Adamus.</p>
+        <p xml:id="p-11">KUBA</p>
+        <p xml:id="p-12">Mam w ręku książkę, która jest największym wydarzeniem wydawniczym ostatnich tygodni. Mówi się o bestsellerze. Afryka, lwy, antylopy... " Powszechny cud". Skąd ten tytuł?</p>
+        <p xml:id="p-13">LESZEK</p>
+        <p xml:id="p-14">BARDZO SERIO</p>
+        <p xml:id="p-15">W Kongo, Tanzanii, Angoli są miejsca gdzie życie pozornie jest niemożliwe. Głód, epidemie, klęski żywiołowe. A jednak wbrew wszystkiemu żyją tam tysiące ludzi. Kochają się, rodzą dzieci, tańczą. Nie wiem jak to się dzieje.</p>
+        <p xml:id="p-16">W studiu zapada cisza.</p>
+        <p xml:id="p-17">Niczym się od nas nie różnią. Po prostu gorzej trafili.</p>
+        <p xml:id="p-18">KUBA</p>
+        <p xml:id="p-19">Brzmi to jak oskarżenie...</p>
+        <p xml:id="p-20">LESZEK</p>
+        <p xml:id="p-21">Bo to jest oskarżenie.</p>
+        <p xml:id="p-22">KUBA</p>
+        <p xml:id="p-23">Marysiu! Ty dobrze trafiłaś. Jak gabinet? Fotel wygodny?</p>
+        <p xml:id="p-24">Maria przejęta ukrywaniem plamy, nie dosłyszała pytania.</p>
+        <p xml:id="p-25">MARIA</p>
+        <p xml:id="p-26">Przepraszam. O co pan pytał?</p>
+        <p xml:id="p-27">KUBA</p>
+        <p xml:id="p-28">Marysiu, Mów mi Kuba, Kubusiu, Kubenieńku, ale nie per pan. Przecież przeszliśmy na "ty". Pytałem czy fotel w twoim gabinecie jest wygodny? Wydałaś już z niego jakieś polecenia służbowe?</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

@@ -1,0 +1,20 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">#WicemarszalekDonaldTusk: Dziękuję, panie ministrze.</p>
+        <p xml:id="p-2">#WicemarszalekDonaldTusk: Sejm podjął decyzję o wysłuchaniu w dyskusji nad tym punktem porządku dziennego 10-minutowych oświadczeń w imieniu klubów i 5-minutowych w imieniu kół.</p>
+        <p xml:id="p-3">#WicemarszalekDonaldTusk: Otwieram dyskusję.</p>
+        <p xml:id="p-4">#WicemarszalekDonaldTusk: Głos zabierze pan poseł Mieczysław Jedoń, Sojusz Lewicy Demokratycznej.</p>
+        <p xml:id="p-5">#PoselMieczyslawJedon: Panie Marszałku! Panie i Panowie Posłowie! Panie Ministrze! W imieniu Klubu Parlamentarnego Sojuszu Lewicy Demokratycznej mam zaszczyt przedstawić Wysokiej Izbie stanowisko do projektu ustawy o ochronie przed przywozem na polski obszar celny towarów subsydiowanych.</p>
+        <p xml:id="p-6">#PoselMieczyslawJedon: Celem ustawy, którą Klub Parlamentarny Sojuszu Lewicy Demokratycznej popiera, jest ułatwienie przemysłowi krajowemu uzyskania ochrony przed wyrządzającym szkodę przywozem towarów, które są subsydiowane przez rządy innych państw, oraz umożliwienie ministrowi gospodarki przeprowadzenia postępowania w tych sprawach. Jednocześnie jej wprowadzenie jest wymogiem koniecznym, aby Polska jako członek Światowej Organizacji Handlu mogła stosować dozwolone środki ochronne, skierowane przeciw działaniom rządów innych państw.</p>
+        <p xml:id="p-7">#PoselMieczyslawJedon: Subsydium to m.in. bezpośrednie lub pośrednie wsparcie finansowe udzielane przez rząd kraju pochodzenia lub eksportu towarów, zaniechanie należnych dochodów budżetowych, udzielanie świadczeń o charakterze rzeczowym, a także wsparcie dochodowe bądź cenowe. Warunkiem rozpoczęcia postępowania antysubsydyjnego jest uznanie subsydium za specyficzne.</p>
+        <p xml:id="p-8">#PoselMieczyslawJedon: Projekt szczegółowo określa zasady obliczania wysokości subsydium, na którym opiera się wprowadzane cło, oraz kryteria ustalania, czy przemysł krajowy ponosi szkodę na skutek przywozu towarów subsydiowanych.</p>
+        <p xml:id="p-9">#PoselMieczyslawJedon: Prezentowana ustawa przewiduje możliwość wszczynania postępowań antysubsydyjnych na wniosek przemysłu krajowego lub z urzędu. Wykaz informacji koniecznych do wszczęcia postępowania jest obszerny i ich uzyskanie w wielu przypadkach będzie uzależnione od współpracy przedsiębiorców zainteresowanych ochroną swoich interesów. Tak więc to, czy ustawa ta zrealizuje pokładane w niej nadzieje, w znacznej mierze uzależnione jest od konsolidacji i działania samych przedsiębiorców.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

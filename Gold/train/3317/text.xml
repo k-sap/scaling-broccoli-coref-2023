@@ -1,0 +1,16 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">"Skalary, mieczyki, neonki" wydaliśmy rok temu, ale nie była to "regularnie" nowa płyta, bo materiał powstał przy nagrywaniu sesji do albumu "Korova Milky Bar", czyli trzy lata temu. Teraz przygotowujemy nową płytę. Będzie się nazywać "Hapiness Is Easy". Przygotowujemy ją od roku, producentem jest Maciek Cieślak, muzyk z zespołu Ścianka.</p>
+        <p xml:id="p-2">Wcześniej pracowaliście z Rafałem Paczkowskim.</p>
+        <p xml:id="p-3">I to się nie zmieniło. Płytę robi dwóch ludzi - Rafał i Maciek. Rafałowi dużo zawdzięczamy, jest znakomitym realizatorem, współpracował ze Zbigniewem Preisnerem i Janem A.P. Kaczmarkiem, natomiast Maciek Cieślak świetnie wyczuwa nowe tendencje w muzyce gitarowej, potrafi zaryzykować przełamanie zbyt ogranej estetyki i na tym nam zależało. A poza tym po raz pierwszy zgodziliśmy się, by producenci wraz z nami sprawowali kontrolę nie tylko nad realizacją, ale też nad aranżacją.</p>
+        <p xml:id="p-4">Jak bardzo nowa płyta będzie się różnić od poprzednich?</p>
+        <p xml:id="p-5">Zawsze mieliśmy zasadę, że nasze nowe nagrania mają być inne niż poprzednie, także najnowsza płyta będzie inna zarówno muzycznie, jak i lirycznie. Taka zmiana wymaga wysiłku, dlatego tak długo trwa praca nad nowym materiałem. Oczywiście, są schematy, którym się ulega i z którymi trudno się rozstać, trzeba jednak brać pod uwagę, że wokół wiele się zmienia i to, co dawniej wydawało się odkrywcze, dziś może być odbierane jako banał. Myslovitz nigdy nie był koniunkturalny, ale mimo wszystko nie można stać w miejscu.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

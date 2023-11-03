@@ -1,0 +1,17 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Nowym kierownikiem Referatu Integracji Europejskiej i Funduszy Pomocowych tomaszowskiego starostwa, został były dyrektor szpitala rejonowego Krzysztof Grochowina. Kontrowersje wzbudził fakt, że nie do końca sprawdził się on jako prezes spółdzielni mieszkaniowej „Grota” (sprawa sądowa o nieprawidłowości w rozliczeniach) i szef szpitala rejonowego. Z nominacją nie zgadza się też grupa radnych powiatowych.</p>
+        <p xml:id="p-2">Miał uratować szpital</p>
+        <p xml:id="p-3">Krzysztof Grochowina objął funkcję dyrektora szpitala w czerwcu 2002 r. Wtedy zadłużenie wynosiło 25 mln zł. Po dwóch latach, gdy składał rezygnację, szpital miał już 42 mln zadłużenia. Do jego odejścia przyczynił się jeszcze konflikt ze związkami zawodowymi.</p>
+        <p xml:id="p-4">Krzysztof Grochowina do szpitala trafił po odejściu ze spółdzielni mieszkaniowej „Grota”. Jeszcze przez wiele miesięcy przed tomaszowskim Sądem Rejonowym toczyło się postępowanie przeciwko zarządowi tej spółdzielni. Oskarżano go m.in., w tym prezesa pana Grochowinę, o nieprawidłowości w rozliczeniach finansowych. – Sąd Rejonowy w Tomaszowie zamknął sprawę i uniewinnił oskarżonego – mówi prokurator rejonowy Robert Wizner. – Jednak złożyliśmy apelację i sprawa będzie ponownie rozpatrywana przez Sąd Okręgowy w Piotrkowie.</p>
+        <p xml:id="p-5">Co zyska starostwo?</p>
+        <p xml:id="p-6">Po rezygnacji z pracy w szpitalu , były dyrektor zniknął z życia publicznego. Wrócił dopiero, gdy starosta Andrzej Barański zaproponował mu współpracę. Posunięcie starosty, wywołało ostrą reakcję kilku radnych. W trakcie ostatniej sesji kilkakrotnie pytano, czy nowy pracownik ma odpowiednie kwalifikacje, by zdobywać dla powiatu unijne środki pomocowe. – Uważam, że powołanie kogoś, kto nie sprawdził się w szpitalu i jako szef spółdzielni mieszkaniowej, może budzić wątpliwości – mówi Wojciech Wenecki. – Nie ma gwarancji, że na nowym stanowisku lepiej się sprawdzi.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

@@ -1,0 +1,22 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Coś poruszyło się obok niej. Po jej wyprężonym i obolałym ramieniu przebiegła wiewiórka.</p>
+        <p xml:id="p-2">- Czy jesteś gotowa? - spytała wiewiórka. - Czy jesteś gotowa na poświęcenie? Co jesteś gotowa poświęcić?</p>
+        <p xml:id="p-3">- Nie mam nic! - ból oślepiał i paraliżował. - A nawet gdybym miała, nie wierzę w sens takiego poświęcenia! Ja nie chcę cierpieć za miliony! Ja nie chcę cierpieć w ogóle! Za nikogo i dla nikogo!</p>
+        <p xml:id="p-4">- Nikt nie chce cierpieć. A przecież jest to udziałem każdego. A niektórzy cierpią bardziej. Niekoniecznie z wyboru. Rzecz nie w tym, że znosi się cierpienie. Rzecz w tym, jak się je znosi.</p>
+        <p xml:id="p-5">Janka! Janeczka!</p>
+        <p xml:id="p-6">Zabierz ode mnie tego garbatego potwora! Nie chcę na niego patrzeć!</p>
+        <p xml:id="p-7">To twoja córka, tak samo jak moja.</p>
+        <p xml:id="p-8">Doprawdy? Dzieci, które ja spłodziłem, są normalne.</p>
+        <p xml:id="p-9">Jak śmiesz... Jak śmiesz sugerować...</p>
+        <p xml:id="p-10">To w twojej elfiej rodzinie były czarownice. To ty usunęłaś pierwszą ciążę. To przez to. Masz skażoną elfią krew i łono, kobieto. Dlatego rodzisz potwory.</p>
+        <p xml:id="p-11">To nieszczęśliwe dziecko... Taka była wola bogów! To twoja córka, tak samo jak i moja! Co miałam zrobić? Udusić ją? Nie podwiązywać pępowiny? Co mam zrobić teraz? Wyprowadzić ją do lasu i zostawić? Czego ty ode mnie chcesz, na bogów?</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

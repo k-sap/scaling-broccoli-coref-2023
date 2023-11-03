@@ -1,0 +1,19 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Nowa Ruda nie była dotychczas atrakcyjnym miastem dla inwestorów. W istniejącej od siedmiu lat strefie ekonomicznej powstał tylko jeden nieduży zakład produkcyjny, zatrudniający 50 osób. Dlatego 3 lata temu szefowie Agencji Rozwoju Regionalnego Agroreg oraz władze miasta, zaczęli zabiegać o utworzenie parku.</p>
+        <p xml:id="p-2">Wszystko pod inwestorów</p>
+        <p xml:id="p-3">Powstaje on po to, by przyszłym inwestorom zaoferować gotowe hale produkcyjne oraz pomieszczenia biurowe, a także uzbrojone tereny pod budynki przemysłowe. – Jest szansa, żeby noworudzką podstrefę Wałbrzyskiej Specjalnej Strefy Ekonomicznej Invest-Park przenieść do Noworudzkiego Parku Przemysłowego – dodaje Jerzy Dudzik, prezes ARR Agroreg.</p>
+        <p xml:id="p-4">Dodatkowym atutem, który zdaniem władz miasta ma przyciągnąć inwestorów, jest budowana w mieście obwodnica. Ma ułatwić komunikację drogową z Nowej Rudy do Wałbrzycha. Budowę obwodnicy, podobnie jak NPP, planuje się zakończyć w 2008 roku.</p>
+        <p xml:id="p-5">romuald.piela@gazeta.wroc.pl</p>
+        <p xml:id="p-6">W tej hali należącej do NPP już w I półroczu przyszłego roku ruszy produkcja. Pracę znajdzie tu 100 osób.</p>
+        <p xml:id="p-7">Park w liczbach</p>
+        <p xml:id="p-8">Nowrudzki Park Przemysłowy obejmuje obszar 79 hektarów. Oprócz wybudowanej hali ma tam powstać jeszcze jedna, w miejscu gdzie stoi obecnie budynek łaźni górniczej i siedziby dyrekcji nieistniejącej kopalni. Koszt przedsięwzięcia zamyka się kwotą 44 mln zł (75 procent to unijna dotacja, 12 procent pochodzi z budżetu państwa, resztę dołoży Urząd Miasta w Nowej Rudzie). NPP docelowo ma oferować ponad 21 tys. m kw. powierzchni produkcyjnej w halach oraz 24 tys. m kw. uzbrojonych terenów pod inwestycje. Docelowo w parku ma powstać ponad 300 miejsc pracy. Chęć rozpoczęcia tu działalności deklaruje kilka firm.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

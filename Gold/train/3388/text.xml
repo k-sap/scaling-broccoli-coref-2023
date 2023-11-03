@@ -1,0 +1,14 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Nie trafiłam dotąd na dobry polski tekst, który mówiłby o wyemancypowanej trzydziestolatce czy czterdziestolatce, próbującej w nowej rzeczywistości wziąć się z życiem za bary. Dużo tego typu książek oferuje za to literatura bałkańska, ukraińska czy rumuńska. To ich adaptacjami, w oczekiwaniu na polskie teksty, otwieram więc malutką scenę - na osiemdziesiąt osób - mojego teatru Polonia, scenę poświęconą kobietom i ich problemom. Ochrzciłam ją "Fioletowe pończochy", bo tak się kiedyś nazywał nurt emancypacji w plastyce i kabarecie, istnieje też zatytułowane tak opowiadanie Gabrieli Zapolskiej, które także mówi o tym "grzechu".</p>
+        <p xml:id="p-2">Ruszamy 29 października spektaklem "Stefcia Ćwiek w szponach życia" Dubravki Ugresic w mojej adaptacji i reżyserii. Główna bohaterka jest ofiarą mediów i stereotypowych pojęć o szczęściu. Będzie to satyra, trochę w stylu czeskiego kina, na przykład "Miłości blondynki", czy filmów panów Kondratiuków. Druga premiera planowana jest na 12 listopada. Będzie to mój monodram "Ucho, gardło, nóż" Vedrany Rudan. To monolog kobiety, Serbki czującej się Chorwatką i mieszkającej w Chorwacji, która przeżyła wojnę bałkańską i to traumatyczne doświadczenie zaważyło na jej spojrzeniu na świat, ocenach - wszystko przewartościowało w jej głowie, mówiąc krótko.</p>
+        <p xml:id="p-3">Trzecie w kolejności będą "Badania terenowe nad ukraińskim seksem" Oksany Zabużko - monodram Kasi Figury w reżyserii debiutującej w teatrze Małgorzaty Szumowskiej. Natomiast ostatnią tegoroczną premierę wyreżyseruje w naszym teatrze mężczyzna, Przemysław Wojcieszek. To będzie "Darkroom" Rujany Jeger, historia o młodych ludziach, którzy starają się odnaleźć swoje miejsce w nowej Europie.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

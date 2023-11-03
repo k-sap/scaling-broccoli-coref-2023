@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<teiHeader xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xml:lang="en">
+  <fileDesc>
+    <titleStmt>
+      <title>Paragraphs: p-190,p-191,p-192 from NKJP text with id: IJPPAN_pwschsw0004301</title>
+    </titleStmt>
+  </fileDesc>
+  <profileDesc>
+    <textClass>
+      <catRef scheme="#nkjp" target="Typ naukowo-dydaktyczny"/>
+    </textClass>
+  </profileDesc>
+  <revisionDesc/>
+</teiHeader>

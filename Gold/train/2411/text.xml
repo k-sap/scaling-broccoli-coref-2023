@@ -1,0 +1,16 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">- Uważam, że władze nie mają prawa w ten sposób terroryzować mieszkańców - twierdzi z kolei jeden ze zduńskowolan.</p>
+        <p xml:id="p-2">Zdaniem radnego Andrzeja Brodzkiego, fotoradar niedługo będzie stał na zduńskowolskich ulicach, bo zostanie szybko ukradziony. Uważa on, że pieniądze na fotoradar to niezbyt trafiona inwestycja.</p>
+        <p xml:id="p-3">Naczelnik zduńskowolskiej drogówki jest jednak pewien, że fotoradar poprawi bezpieczeństwo.</p>
+        <p xml:id="p-4">- Zawsze będzie to o jeden więcej punkt kontroli niż dotychczas i walka z piractwem będzie prowadzona na szerszą skalę. W Zduńskiej Woli jest wiele ulic, po których kierowcy zbyt szybko jeżdżą. Straż Miejska ma pewną przewagę nad nami. Mój patrol nie będzie przez osiem godzin tylko obsługiwał radaru, bo musi zajmować się także innymi rzeczami, jak na przykład kolizjami i wypadkami. Strażnicy miejscy mogą - mówi podinsp. Andrzej Kucharski, naczelnik wydziału ruchu drogowego zduńskowlskiej Komendy Powiatowej Policji.</p>
+        <p xml:id="p-5">Zdaniem naczelnika drogówki, trudno określić, czy mandaty zwrócą poniesione przez zduńskowolski samorząd wydatki. Jednak nie ukrywa, że w skali roku wypisywanych jest kilkaset mandatów. A warto przypomnieć, że za przekroczenie prędkości do 10 km/godz. kierowca musi zapłacić od 20 do 50 złotych. Gdy dopuszczalna prędkość przekroczy więcej niż 50 km/godz. kwota ta wzrasta do 400 - 500 złotych. A dzięki fotoradarowi można przesłać mandaty znacznie większej liczbie kierowców, którzy na danym odcinku drogi będą jechali zbyt szybko. Urządzenie jest bowiem tak zaprogramowane, by robić zdjęcia wszystkim pojazdom, które przejadą obok niego z prędkością większą niż to zostanie ustalone.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

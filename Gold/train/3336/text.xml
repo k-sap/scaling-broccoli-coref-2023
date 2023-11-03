@@ -1,0 +1,14 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Oczywiste jest, że właściwie żadna fundacja nie jest w stanie poddać rzetelnej kontroli czystości otrzymywanych pieniędzy (a już zwłaszcza gdy działa ustawowy zapis pozwalający każdemu obywatelowi zasilać fundacje jednoprocentowym odpisem od podatków). A jak niby można prześwietlić intencje, które darowiznom przyświecają? Zresztą fundacje musiałyby rozbudowywać do tych celów jakieś specjalne aparaty urzędniczo-śledcze, co jest absurdem. Jest na to jedyny sposób: jawność.</p>
+        <p xml:id="p-2">Rok temu pisaliśmy, że demokracja nie uznaje żadnych świętości i że pani prezydentowa, wzywana wówczas przez komisję orlenowską o ujawnienie finansów swojej fundacji, musi publicznej takiej lustracji się poddać. Inną kwestią jest, w jaki sposób demokracja próbuje dotrzeć do prawdy i czy czyni to rzetelnie. Otóż z tym, jak pokazały ostatnie dni, są niejakie kłopoty. Choćby publikacje "Rzeczpospolitej" ocierały się aż nadto o insynuacje, a jeszcze do tego ich współautorem był dziennikarz, którego - jak wiele na to wskazuje - osobiste interesy wpływały na treść i formę publikacji. Na szczęście prasa też nie jest żadną świętością w demokracji.</p>
+        <p xml:id="p-3">Jolanta Kwaśniewska przez wiele lat, dzięki między innymi działalności fundacji Porozumienie bez Barier, cieszyła się powszechnym szacunkiem i popularnością i nikt właściwie nie kwestionował charytatywnej działalności Pierwszej Damy. W tamtych czasach i tamtych "przedrywinowych" obyczajach wszystko było w porządku, teraz już nie. Pouczająca to historia. Prawo nie działa wstecz, obyczaj - okazuje się - że tak. To może wydawać się niesprawiedliwe, wręcz okrutne, ale ten nowy obyczaj, nakazujący osobom publicznym trzymać się z dala od pieniędzy, jest chyba lepszy niż stary.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

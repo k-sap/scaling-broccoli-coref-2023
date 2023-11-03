@@ -1,0 +1,16 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Senat, po rozpatrzeniu uchwalonej przez Sejm na posiedzeniu w dniu 5 kwietnia 2002 r. ustawy o zasadach uznawania nabytych w państwach członkowskich Unii Europejskiej kwalifikacji do podejmowania lub wykonywania niektórych działalności, wprowadza do jej tekstu następujące poprawki:</p>
+        <p xml:id="p-2">1 w art. 17 dodaje się pkt 2a w brzmieniu: „2a w załączniku nr 2 do ustawy w części 1 oraz w załączniku nr 3 do ustawy wyraz “Arbitur" zastępuje się wyrazem „Abitur“;"; 2 w art. 17 pkt 3 otrzymuje brzmienie: „ 3 w załączniku nr 3 do ustawy w zdaniu pierwszym skreśla się wyrazy “przez Krajową Radę ds. Kwalifikacji Zawodowych „National Council for Vocational Qualifications”,"."; 3w art. 18 po wyrazach „w art. 14" dodaje się wyrazy “ust. 1".</p>
+        <p xml:id="p-3">Senat, podzielając pogląd o konieczności uchwalenia ustawy w celu realizacji obowiązku dostosowania polskiego ustawodawstwa do prawa Unii Europejskiej, uznał za celowe wprowadzenie trzech poprawek do ustawy o zasadach uznawania nabytych w państwach członkowskich Unii Europejskiej kwalifikacji do podejmowania lub wykonywania niektórych działalności. Dwie pierwsze poprawki odnoszą się do nowelizowanej ustawy z dnia 26 kwietnia 2001 r. o zasadach uznawania nabytych w państwach członkowskich Unii Europejskiej kwalifikacji do wykonywania zawodów regulowanych.</p>
+        <p xml:id="p-4">Izba, wprowadzając pierwszą z poprawek, miała na celu usunięcie dostrzeżonego błędu w niemieckiej pisowni wyrazu „matura“.</p>
+        <p xml:id="p-5">Ponadto Senat postanowił wprowadzić poprawkę drugą, aby usunąć wątpliwości mogące pojawić się przy stosowaniu ustawy, związane z użyciem pojęcia „akapit“ jako środka techniki legislacyjnej i odniesieniem go do układu graficznego tekstu.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

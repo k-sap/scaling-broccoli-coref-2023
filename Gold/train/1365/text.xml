@@ -1,0 +1,25 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">- Sprawiedliwości chcę ino.</p>
+        <p xml:id="p-2">- A pomsty szukasz, co?</p>
+        <p xml:id="p-3">Antek nie wiedział, co rzec na to.</p>
+        <p xml:id="p-4">- A i to ci jeszcze powiem, że pokorne cielę dwie matki ssie.</p>
+        <p xml:id="p-5">- Wszyscy mi to powiedają... juści, ino tej pokorności mam już po grdykę, że więcej Ø nie ścierpię! Choćby i zbój, choćby i ukrzywdziciel, ale że ojciec rodzony, to już mu wolno wszystko, a dzieciom nie wolno dochodzić swojej krzywdy! Laboga, takie urządzenie na świecie, że ino plunąć a iść, gdzie oczy poniesą...</p>
+        <p xml:id="p-6">- A idź, któż cię trzyma? - rzucił porywczo ksiądz.</p>
+        <p xml:id="p-7">- Może i pójdę, bo co mi tutaj robić, co? - szeptał ciszej, łzawo jakoś.</p>
+        <p xml:id="p-8">- Bajesz i tyle. Drudzy i jednego zagona nie mają, a siedzą, pracują i jeszcze Panu Bogu dziękują. Wziąłbyś się do roboty, a nie wyrzekał jak baba. Zdrowy jesteś, mocny, masz o co ręce zaczepić...</p>
+        <p xml:id="p-9">- Przeciech, całe trzy morgi! - rzucił urągliwie.</p>
+        <p xml:id="p-10">- Żonę i dzieci masz, toś o tym pamiętać powinien.</p>
+        <p xml:id="p-11">- Baczę ja dobrze, baczę... - mruknął przez zęby.</p>
+        <p xml:id="p-12">Wyszli przed karczmę, świeciło się w oknach i jakieś głosy wydzierały się aż na drogę.</p>
+        <p xml:id="p-13">- Co to, znowu pijatyka, co?</p>
+        <p xml:id="p-14">- Rekruty, te, co ich do wojska latoś wzieni, piją se la uciechy... W niedzielę ich pognają w tylachny świat, to się cieszą.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

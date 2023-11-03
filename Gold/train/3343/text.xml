@@ -1,0 +1,14 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Siadają na fotelach przy gazowym piecyku. Ciągle im zimno. 45-letni narkoman, ojciec dwojga dzieci, jest na odtruciu po raz któryś. Zawsze wierzy, że tym razem już koniec z braniem. I nic z tego nie wychodzi. Niektórzy przechodzą przez detoks po kilkanaście razy. Wychodzą, grzeją, znów wracają na odtrucie i tak w kółko. Dziewczyn na detoksie prawie nie ma, nie chcą się leczyć, one bardzo uzależniają się psychicznie od narkotyku. Prostytuują się, bo tracą wstyd, szybko się degradują i stają się wulgarne. Nie liczy się dla nich nic - dzieci, mąż, rodzice, szkoła, praca, nic, prócz heroiny.</p>
+        <p xml:id="p-2">Tymczasem Marcin i pozostali uciszyli się, zwiesili głowy i słuchają muzyki. Nakręcenie wygasło, zostaną na detoksie. Wychodzi tylko jeden, bierze dożylnie. - Tacy odtruwają się najtrudniej - mówi Teresa Wereżyńska. - Przerywają detoksy, krążą po całej Polsce. Powinni być leczeni małymi dawkami metadonu i tylko w szpitalu, ale niewielu z nich objętych jest taką terapią.</p>
+        <p xml:id="p-3">Wciąż się ich na odtruwanie przyjmuje, bo nie ma ludzi straconych - mówią specjaliści na detoksach. Bywają dziwne zmartwychwstania. Z detoksu w Tworkach wyszedł 18-letni chłopak po wielokrotnych tam pobytach, który wrócił w końcu do szkoły i zaczął pracować w ochronie, z czego był niezwykle dumny. Ø Matka odżyła. Matki przy takich ocaleniach nie mają nawet siły, żeby być szczęśliwe. One właśnie po prostu odżywają.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

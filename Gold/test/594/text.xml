@@ -1,0 +1,14 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Do kolejnej rundy pucharowych zmagań przystąpią dziś dwie drużyny z powiatu łaskiego – LKS Bałucz i Rokita Alveo Rokitnica. Zdecydowanie trudniejsze zadanie czeka klub z Rokitnicy. Na boisko w Ostrowie, gdzie Rokita Alveo rozgrywa swoje mecze, o godz. 16 zawita dziś – chyba najlepsza obecnie drużyna regionu – Ekolog Mataśka Wojsławice. Przypomnijmy, że wcześniej Rokita, zespół klasy B, wyeliminował w rundzie wstępnej po wygranej 7:2 Auto-Części Zduńska Wola, w pierwszej rundzie walkowerem 3:0 Korab II Łask, w drugiej po zwycięstwie 2:1 LZS Ustków. W 1/16 finału okręgowego Rokita wygrał 4:1 z Pogonią Łask Kolumna i w końcu w 1/8 finału pokonał 2:1 Victorię Szadek. Ekolog natomiast, podobnie jak inne drużyny IV-ligowe, przystąpił do rozgrywek Pucharu Polski dopiero w poprzedniej rundzie, w której po rzutach karnych wyeliminował 7:6 Gal Gaz Galewice, beniaminka klasy okręgowej.</p>
+        <p xml:id="p-2">Teoretycznie łatwiejsze zadanie czeka LKS Bałucz, który wybiera się do Sieradza na mecz z amatorami ze Schematu Łuk. Po drodze piłkarze z Bałucza, którzy do rozgrywek przystąpili w II rundzie, pokonali: w pierwszym meczu 6:2 LKS Paprotnia, w 1/16 finału 2:0 Orkana BroWęg Buczek oraz ostatnio w 1/8 Ø LKS Kwiatkowice 4:1.</p>
+        <p xml:id="p-3">Ich rywale, gracze Schematu Łuk, we wcześniejszych rundach pokonali najpierw w 1/64 Ø 5:1 LKS Kalinowa, a później w 1/32 Ø rozgromili 4:0 czołową drużynę sieradzkiej klasy okręgowej Mabudo Ferax Suchoczasy, w 1/16 Ø pokonali 1:0 LZS Wągłczew, by w 1/8 Ø rozgromić 5:0 Pogoń Zduńska Wola.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

@@ -1,0 +1,29 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">sp0: straszne to jest. przewrócone we łbie mają</p>
+        <p xml:id="p-2">sp1: o nienawiści u księdza. yyh. ksiądz po kolędzie jak chodził to do dziew. akurat przyszedł do. yyh. nauczycielki dwudziestego szóstego. nasz ksiądz z tego.</p>
+        <p xml:id="p-3">sp0: uhm</p>
+        <p xml:id="p-4">sp1: dwudziestego szóstego. akurat do niej przyszedł. do domu. bo ona mieszka w tym bloku tutaj na przeciwko. no i się pyta czy ma pani z pierwszą gie zajęcia bo ona i on już nie cierpi tej klasy.. moja klasa. znaczy nasza klasa. moja i raz pierwszy od dziewięćdziesiątego drugiego. od dziewięćdziesiątego pierwszego jak istnieją klasy menadżerskie. wśród pierwszych klas. zawsze wśród pierwszych wśród drugich klasa gie jest najlepsza.</p>
+        <p xml:id="p-5">sp0: uhm</p>
+        <p xml:id="p-6">sp1: a moja klasa jest najgorsza..</p>
+        <p xml:id="p-7">sp2: a jest gie tak ?</p>
+        <p xml:id="p-8">sp1: yyh. we wszystkich klasach pierwszych jest najgorsza.</p>
+        <p xml:id="p-9">sp0: ale jaja !</p>
+        <p xml:id="p-10">sp1: nie jest na drugim miejscu. nie jest nawet czwartym miejscu. jest na siódmym miejscu. ja po prostu ja się tak załamałem.</p>
+        <p xml:id="p-11">sp0: siedem klas jest aż ?</p>
+        <p xml:id="p-12">sp1: tak. zawsze jest siedem klas.</p>
+        <p xml:id="p-13">sp0: Jezus !</p>
+        <p xml:id="p-14">sp1: i po prostu załamałem się kompletnie na tym. powiedziałem na wywiadówce. to się w ogóle.</p>
+        <p xml:id="p-15">sp0: ale co nie uczą się. czy co ?</p>
+        <p xml:id="p-16">sp1: wiesz co. jest tam takie. jest ja wiem. z sześć osób takich które tą klasę ciągną w dół. swoją statystyką. wiesz.</p>
+        <p xml:id="p-17">sp0: uhm.</p>
+        <p xml:id="p-18">sp1: na przykład trzy laski na semestr.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

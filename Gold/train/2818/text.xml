@@ -1,0 +1,14 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Gdy sesja nagraniowa została zakończona i album był bliski ukończenia, CBS Records wystąpiło do zarządu grupy z prośbą o nagranie coveru, który mógłby zostać wydany jako singel. Dennis MacKay nie był już dłużej dostępny, więc inny producent został wybrany, by nagrać singel w londyńskich studiach Utopia Studios zimą na przełomie 1977 i 1978 r. Do nagrania singla, Judas Priest wybrało przerobienie utworu zespołu Spooky Tooth, "Better by You, Better Than Me: "Guthrie jest najlepiej znany z jego pracy z zespołem Pink Floyd dzięki której wygrał poszczególne nagrody za produkcję nowszych i odrestaurowanie niektórych wcześniejszych albumów grupy. Oprócz tego był m.in. producentem płyty zespołu Queensrÿche, The Warning.</p>
+        <p xml:id="p-2">Luty 1978: Wydanie</p>
+        <p xml:id="p-3">Stained Class wydany został 10 lutego 1978 i osiągnął podobny sukces na brytyjskim zestawieniu jak pierwsze wydawnictwo dla CBS Records, Sin After Sin (23. pozycja), ale w Stanach Zjednoczonych album nie osiągnął już większego sukcesu ledwie dostając się wśród czołowych dwustu albumów krajowego zestawienia. Judas Priest odwiedziło USA jedynie kilka miesięcy wcześniej, latem 1977 r., i fani nie poznali jeszcze w pełni "innej" muzyki zespołu: Chociaż płyta słynie głównie z procesu sądowego w jakim brało udział Judas Priest w 1990 r., to sam album jest określany metalowym arcydziełem, którym zespół ustabilizował swoją pozycję jako prawdopodobnie najbardziej oryginalny i muzykalny zespół metalowy swoich czasów. Jest też uważane, że Stained Class ustanowiło podstawę dla innych stylów muzyki metalowej - thrashu i speed metalu - zdobywających dominację od połowy do końca lat 80. Na podstawie trzech recenzji albumu zawartych w sekcji infoboxu p.t. Oceny . Dla Roba Halforda sukces dopiero nadchodził. Dzień po wydaniu albumu podzielił się on swoim spostrzeżeniem.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

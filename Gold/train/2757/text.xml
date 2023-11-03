@@ -1,0 +1,21 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">W dniu 4 listopada 1950 r. została sporządzona w Rzymie Konwencja o ochronie praw człowieka i podstawowych wolności, zmieniona następnie Protokołami nr 3, 5 i 8 oraz uzupełniona Protokołem nr 2, w następującym brzmieniu:</p>
+        <p xml:id="p-2">KONWENCJA O OCHRONIE PRAW CZŁOWIEKA I PODSTAWOWYCH WOLNOŚCI</p>
+        <p xml:id="p-3">Rządy Państw-Sygnatariuszy niniejszej konwencji, członkowie Rady Europy,</p>
+        <p xml:id="p-4">zważywszy na Powszechną Deklarację Praw Człowieka, uchwaloną 10 grudnia 1948 r. przez Zgromadzenie Ogólne Narodów Zjednoczonych;</p>
+        <p xml:id="p-5">zważywszy, że owa Deklaracja zmierza do zapewnienia powszechnego i efektywnego stosowania zawartych w niej praw;</p>
+        <p xml:id="p-6">zważywszy, że celem Rady Europy jest osiągnięcie większej jedności jej członków i że jednym ze sposobów osiągnięcia tego celu jest ochrona oraz rozwój praw człowieka i podstawowych wolności;</p>
+        <p xml:id="p-7">potwierdzając swoją głęboką wiarę w te podstawowe wolności, które są fundamentem sprawiedliwości i pokoju na świecie i których zachowanie opiera się głównie z jednej strony na rzeczywiście demokratycznym ustroju politycznym, a z drugiej - na jednolitym pojmowaniu i wspólnym poszanowaniu praw człowieka, do których się one odwołują;</p>
+        <p xml:id="p-8">zdecydowane jako Rządy państw europejskich, działających w tym samym duchu i posiadających wspólne dziedzictwo ideałów i tradycji politycznych, poszanowania wolności i rządów prawa, podjąć pierwsze kroki w celu zbiorowego zagwarantowania niektórych praw wymienionych w Powszechnej Deklaracji,</p>
+        <p xml:id="p-9">uzgodniły, co następuje:</p>
+        <p xml:id="p-10">Wysokie Układające się Strony zapewniają każdemu człowiekowi, podlegającemu ich jurysdykcji, prawa i wolności określone w rozdziale I niniejszej konwencji.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

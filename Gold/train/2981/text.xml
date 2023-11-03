@@ -1,0 +1,50 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">MARIA</p>
+        <p xml:id="p-2">Tym razem poproszę o chusteczki higieniczne. Coś mnie kręci w nosie.</p>
+        <p xml:id="p-3">LUCJAN</p>
+        <p xml:id="p-4">Jak to mówią, albo na miłość albo na złość.</p>
+        <p xml:id="p-5">Lucjan sięga po chusteczki</p>
+        <p xml:id="p-6">Ile paczek?</p>
+        <p xml:id="p-7">MARIA</p>
+        <p xml:id="p-8">Poproszę pięć Ø.</p>
+        <p xml:id="p-9">Lucjan wkłada chusteczki do małej reklamówki.</p>
+        <p xml:id="p-10">LUCJAN</p>
+        <p xml:id="p-11">Swoją drogą, to rano nieźle się popisałem.</p>
+        <p xml:id="p-12">MARIA</p>
+        <p xml:id="p-13">A z czym?</p>
+        <p xml:id="p-14">LUCJAN</p>
+        <p xml:id="p-15">No wie pani... jemy sobie czekoladę, a pani mówi, że będzie nowym naczelnym... ja w śmiech...</p>
+        <p xml:id="p-16">MARIA</p>
+        <p xml:id="p-17">To chyba dobrze. Byłoby mi przykro, gdyby zaczął pan płakać.</p>
+        <p xml:id="p-18">LUCJAN</p>
+        <p xml:id="p-19">ŚMIEJE SIĘ</p>
+        <p xml:id="p-20">Nie no... ale nie myślałem, że pani serio...</p>
+        <p xml:id="p-21">Lucjan zauważa Janinę, która kończy przecierać stoliki w holu. Patrzy na nią zatroskany. Maria patrzy za Janiną, która znika za rogiem.</p>
+        <p xml:id="p-22">MARIA</p>
+        <p xml:id="p-23">A kim jest ta pani?</p>
+        <p xml:id="p-24">LUCJAN</p>
+        <p xml:id="p-25">To pani Janeczka. Jest tu od początku. Wspaniała kobieta...</p>
+        <p xml:id="p-26">MARIA</p>
+        <p xml:id="p-27">Skoro pan tak mówi, to muszę ją koniecznie poznać. Ale coś złego się z nią dzieje?</p>
+        <p xml:id="p-28">LUCJAN</p>
+        <p xml:id="p-29">Dlaczego pani tak myśli?</p>
+        <p xml:id="p-30">MARIA</p>
+        <p xml:id="p-31">Patrzy pan i mówi o tej pani.. z taką troską.</p>
+        <p xml:id="p-32">LUCJAN</p>
+        <p xml:id="p-33">Ma teraz pani Janeczka kłopoty. Jej siostrzenica jest w szpitalu.</p>
+        <p xml:id="p-34">Lucjan gryzie się w język. Maria to zauważa. Uśmiecha się ciepło.</p>
+        <p xml:id="p-35">MARIA</p>
+        <p xml:id="p-36">To ile za te chusteczki?</p>
+        <p xml:id="p-37">Cięcie</p>
+        <p xml:id="p-38">Scena</p>
+        <p xml:id="p-39">WNĘTRZE. DZIEŃ. REDAKCJA. NEWSROOM. BOKS ANDRZEJA. ANDRZEJ, EDYTA.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

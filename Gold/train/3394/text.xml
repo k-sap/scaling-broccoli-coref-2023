@@ -1,0 +1,16 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Skład Szubinianki: Krystyn Hilscher, Maciej Chudzyński (Mirosław Dacio), Jacek Żurawski, Jacek Kowalski, Paweł Kujawa (Tomasz Siatka), Radosław Bakaj (Mariusz Bakaj), Mirosław Obremski, Kamil Siatka (Marcin Plaskaty), Łukasz Lewandowski (Marcin Gawron), Radosław Bojas (Piotr Pawełszczak), Dawid Janicki (Dawid Stodolny).</p>
+        <p xml:id="p-2">Szubinianka - Polonia Bydgoszcz 0:3 (0:0)</p>
+        <p xml:id="p-3">Sobotni pojedynek Szubinianki z Polonią Bydgoszcz był bardzo wyrównany. Obie drużyny stwarzały sobie sytuacje podbramkowe, z których mogły padać bramki. Na bramkę strzelali Mirosław Obremski i Łukasz Lewandowski, jednak w obu przypadkach golkiper gości nie dał się zaskoczyć. Bydgoszczanie również groźnie atakowali, lecz w pierwszej odsłonie bramek nie było. Gole przyniosła druga połowa. Mimo że szubinianie starali się zaskoczyć rywala z Bydgoszczy to ani Marcin Plakaty, ani pozostali zawodnicy z Szubina nie mogli pokonać bydgoskiego bramkarza. Skutecznie natomiast zagrali bydgoszczanie, którzy w końcówce meczu trzykrotnie pokonali dobrze broniącego w tym spotkaniu Krystyna Hilschera.</p>
+        <p xml:id="p-4">Już w ten weekend Szubinianka rozpoczyna walkę o ligowe punkty. W sobotę o godzinie 17.00 na własnym boisku szubinianie podejmować będą BrzyskoRol Brzyskorzystewko. Kibice z pewnością wierzą, że podczas spotkań ligowych z wynikami będzie dużo lepiej.</p>
+        <p xml:id="p-5">Skład Szubinianki: Krystyn Hilscher, Maciej Chudzyński (Mirosław Dacio), Jacek Żurawski, Jacek Kowalski, Tomasz Siatka (Mariusz Bakaj), Kamil Siatka, Mirosław Obremski, Łukasz Lewandowski, Paweł Kujawa, Dawid Janicki (Piotr Pawełszczak), Marcin Gawron (Marcin Plaskaty).</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

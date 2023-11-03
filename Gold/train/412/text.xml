@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Jejciu Lubię słodycze ale mogę bez nich żyć. Pomijając gorzką czekoladę (nie, nie tą 99% ), której połykam od 2 - 10 kostek dziennie. Zdecydowanie odpadają jakieś super słodkie ciasteczka, pianki i ...ledwo przechodzi mi to przez klawiaturę...żelki anyżkowe. Raz spróbowałam - nadają się tylko dla zapalonych masochistów, lub ludzi o mocno specyficznych gustach ...;__;</p>
+        <p xml:id="p-2">little_bad_girl CYTAT(Bimbola94 @ 31.08.2007, 14:16) "KKocham słodycze , a mimo to jestem szczupła" Ja też A najbardziej lubię czekoladę Milkę i Ptasie Mleczko</p>
+        <p xml:id="p-3">Bimbola94 CYTAT(Jejciu @ 7.10.2007, 21:40) "Lubię słodycze ale mogę bez nich żyć. Pomijając gorzką czekoladę (nie, nie tą 99% ), której połykam od 2 - 10 kostek dziennie. Zdecydowanie odpadają jakieś super słodkie ciasteczka, pianki i ...ledwo przechodzi mi to przez klawiaturę...żelki anyżkowe. Raz spróbowałam - nadają się tylko dla zapalonych masochistów, lub ludzi o mocno specyficznych gustach ...;__;" też uwielbiam gorzką czekoladę tą 60%</p>
+        <p xml:id="p-4">Suga_BayBee Ja mam tak samo... Moja mam pracuje w Master Foods więc słodyczy mam miliardy w domku a mimo to jestem szczuplutka... Moja TOP10 - Skittlesy - Żelki - Pianki - KitKat Zielony - Pierniczki nadziewane - Ciastka - Mentosy - Czipsy - Torty - Pralinki</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Zainteresowanych szczegółowymi informacjami odsyłamy do przewodników po Kopalni Soli w Wieliczce. My natomiast zajrzymy do świata mitycznego. Ze współczesnością zwiąże nas przywołany na początku pierścień, ale nie tolkienowski pierścień zła i ciemnej mocy, a polsko-węgierski pierścień dobra i mądrości. Czas więc na najbardziej znaną wielicką legendę opowiadającą o założeniu kopalni w Wieliczce oraz o początkach dobrobytu wielickich górników, królewskiego Krakowa i całej Polski.</p>
+        <p xml:id="p-2">O Pierścieniu Św. Kingi</p>
+        <p xml:id="p-3">Panujący na polskim zamku królewskim w Krakowie książę Bolesław, zwany przez współczesnych Wstydliwym, szukał żony daleko od kraju. Jak to w przeszłości bywało, małżeństwo władcy było bowiem wynikiem politycznych kalkulacji i miało wzmacniać dynastię. Książę Bolesław, pochodzący z panującego nad Polską od początków jej państwowości książęcego i królewskiego rodu Piastów, zaplanował, że poślubi córkę króla Węgier z rodu Arpadów - Kingę, ukochaną córkę Beli IV i Marii Laskazis - cesarzówny bizantyjskiej.</p>
+        <p xml:id="p-4">Piękna królewna węgierska zgodziła się na małżeństwo. Była niezwykle mądra, poprosiła więc o nietypowy posag. Nie chciała jedynie złota, srebra czy kosztownych tkanin, które ofiarowywał jej ojciec. Poprosiła także o coś, co pozwoliłoby jej budować dobrobyt nowej ojczyzny. Ponieważ tym, czym dzisiaj są złoża ropy naftowej, w tamtych czasach były złoża soli, król węgierski Bela podarował córce jedną z kopalń soli, które przysparzały bogactwa Węgrom. Kopalnia znajdowała się jednak daleko od Polski i królewna zdawała sobie sprawę z tego, jak trudno będzie korzystać z prezentu. Pragnęła, patrząc na pracujących w szybach górników, zabrać ją ze sobą do nowej ojczyzny. Dlatego w pewnej chwili zdjęła z ręki drogocenny pierścień i wrzuciła go do najgłębszego szybu, modląc się o pomoc do św. Franciszka z Asyżu i św. Klary.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

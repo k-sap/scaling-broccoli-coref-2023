@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Kormorany swą działalność zapoczątkowały jeszcze w latach 80-tych. Swój legendarny status grupa zawdzięcza w głównej mierze niezwykłym koncertom - ich pierwsza płyta została wydana dopiero dwa lata temu. Specyficzna aura wnętrz, którymi często były bunkry, wieże ciśnień, jaskinie udzielała się psychodelicznej, ilustracyjnej i trochę industrialnej muzyce zespołu. W latach 90. grupa znana była bardziej ze sceny teatralnej, niż muzycznej. Muzycy stworzyli cenione ścieżki dźwiękowe do wielu spektakli nie tylko wrocławskich teatrów.</p>
+        <p xml:id="p-2">Zespołowi Program równie dobrze jak Kormoran można nadać status legendy. Wydany jedynie na kasecie debiut sprzed niemal dekady, po drodze epka, wreszcie „Blackmeat of W. B.”, pierwsza pełnowymiarowa płyta składają się na dotychczasowy dorobek grupy. Ich powalające, krótkie, acz wyczerpujące energetycznie koncerty to zasługa świetnych muzyków i poszukującego inspiracji u Mike'a Pattona wokalisty Kostasa.</p>
+        <p xml:id="p-3">Robotobibok to chyba najmłodszy zespół tego wieczoru. Ich muzyka penetruje około jazzowe obszary, motoryką bliższa jednak jest współczesnym nurtom jungle i funk. Debiutancka płyta „Jogging” to dźwięki świetnie sprawdzające się nie tylko na nobliwym jazzowym wieczorku, ale i w nowoczesnym klubie tanecznym. Wciągająca, połamana rytmika sekcji oraz improwizujące na niby naiwnych, chwytliwych melodyjkach dęciaki, gitara i klawisze Mooga to koncertowe atuty wrocławskiej kapeli.</p>
+        <p xml:id="p-4">Najciemniejsze strony muzyki elektronicznej tego wieczoru reprezentować będą Job Karma i Syntax Error. Job Karma to zespół wywodzący swą muzykę z industrialnych kręgów, wzbogaconą o eksperymenty nowoczesnej elektroniki i przestrzeń ambientu. Każdy koncert grupa wzbogaca wizualnie odtwarzając amatorskie filmy video nie odbiegające swym wyrazem od prezentowanej muzyki. Na koniec wieczoru zapowiadany jest Roots Controla - Sound System.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

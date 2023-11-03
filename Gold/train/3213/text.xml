@@ -1,0 +1,21 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">sp0: może jest producentem pochodni</p>
+        <p xml:id="p-2">sp1: że wybory samorządowe są najważniejsze dla PiS-u. bo oczywiście no każda partia musi zrobić dobry wynik. SLD też tutaj bardzo mocno chce. zdyskontować to poparcie które wywalczył Grzegorz Napieralski ale wydaje mi się że dla PiS-u szczególnie istotny jest wynik a nawet nie tyle wynik procentowy. co to ilu będzie ta partia miała radnych starostów burmistrzów ponieważ myślę że tak naprawdę wszyscy</p>
+        <p xml:id="p-3">sp0: ilu ludzi będzie miało pracę</p>
+        <p xml:id="p-4">sp1: ilu ludzi będzie miało pracę dokładnie. bo tak naprawdę wszyscy w tej chwili w tej partii oczekują. po. czekają na wybory samorządowe i po tych wyborach jeśli będzie źle. to twierdzę że PiS się rozpadnie</p>
+        <p xml:id="p-5">sp0: bo to jest. znaczy to jest ta taka prawidłowość w polskim systemie bardzo widoczna że. wybory samorządowe nie są bardzo ważne dla partii rządzącej bo one mają pracę w aparacie państwowym rządowym to są tysiące posad. natomiast dla partii które są w opozycji to jest kwestia bycia lub niebycia prawda ? bo ci ludzie jak wypadną z polityki to już nie mają co ze sobą zrobić przepraszam Marku ci przerwałem</p>
+        <p xml:id="p-6">sp3: mnie się wydaje. wbrew temu co mówi pani Agata że to. uważa że od strony piarowskiej to jest świetny pomysł te pochodnie jeśli jeś jesień będzie pogodna to wieczorami</p>
+        <p xml:id="p-7">sp0: spacer z pochodnią</p>
+        <p xml:id="p-8">sp3: spacer z pochodnią to jest jednak rzecz</p>
+        <p xml:id="p-9">sp1: ale z czym to się kojarzy ? z czym to się kojarzy ?</p>
+        <p xml:id="p-10">sp2: to się kojarzy z faszyzmem. to oczywiście to nie ulega wątpliwości</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

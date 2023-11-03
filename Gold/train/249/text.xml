@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Wśród imponujących osiągnięć rybnickiego stypendysty są m.in.: średnia ocen za okres zaliczonych lat studiów: 4,82 członek Koła Naukowego Znawców Współczesności I (Ośrodek Dydaktyczny Uniwersytetu Śląskiego w Rybniku) inicjator powstania i prezes Katolickiego Klubu Kultury przy parafii p.w. Chrystusa Króla w Rybniku współpraca z II Liceum Ogólnokształcącym im. A. Frycza-Modrzewskiego w Rybniku od 2003 roku; wygłaszanie referatów, cykl wykładów z historii kina współpraca z rybnickim czasopismem artystycznym "PLAMA" /2003-2004/ współpraca z rybnickim pismem akademickim "KAMPUS"; artykuły: "Wojny (nie)religijne", "O potrzebie pewnego słownika słów kilka" udział w XII Ogólnopolskim Konkursie Poetyckim Jednego Wiersza organizowanym w ramach XII Chojnickiej Nocy Poetów - autor licznych referatów poświęconych filmowi i twórcom literackim studia równoległe na kierunkach: kulturoznawstwo, politologia wyróżnienia i nagrody otrzymane w konkursach: III miejsce w Ogólnopolskim Konkursie na Recenzję Filmową w kat. 18-20 lat /Katowice 2003/, II miejsce w Ogólnopolskim Konkursie na Recenzję Literacką /Katowice 2003/, Wyróżnienie w III Międzyszkolnym Konkursie Filmowym w kat. "Praca badawcza", Wyróżnienie w eliminacjach wojewódzkich XV Konkursu Wiedzy o Filmie /Katowice 2003/, Wyróżnienie w Ogólnopolskim Konkursie na Recenzję Filmową w kat. 18-20 lat /Katowice 2003/ uczestnik szkoleń: "Praca z grupą - jak stymulować proces grupowy?" /kwiecień 2005/, kurs z zakresu wiedzy o HIV i AIDS /listopad 2004/, warsztaty dziennikarskie w Wyższej Szkole Zarządzania Ochroną Pracy /kwiecień 2005/ rozpoczęty kurs "Marketingu i Zarządzania" w Europejskiej Szkole Kształcenia Korespondencyjnego rozpoczęte Podyplomowe Kwalifikacyjne Studia Pedagogiczne na Wydziale Pedagogiki i Psychologii Uniwersytetu Śląskiego certyfikat znajomości języka angielskiego University of Cambridge ESOL Examinations Syndicate, FIRST CERTIFICATE in ENGLISH 9 Grade C)</p>
+        <p xml:id="p-2">Choć zainteresowania Arkadiusza Trzebuniaka są wszechstronne, to jednak szczególne miejsce zajmuje w nich filmoznawstwo, zwłaszcza zaś takie gatunki jak science fiction i horror.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

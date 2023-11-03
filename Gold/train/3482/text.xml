@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Wydała ona również decyzje wymierzające kary pieniężne na łączną kwotę 26,6 tys. zł. Najwyższe wymierzono wobec spółki Binder International z powiatu nowodworskiego, Zakładu Mleczarskiego w Skarżynie (powiat płoński) i gminy Winnica (powiat pułtuski).</p>
+        <p xml:id="p-2">Gospodarstwo rolne w Opinogórze (powiat ciechanowski), należące do Agencji Własności Rolnej Skarbu Państwa, obciążone zostało karą za niedotrzymanie warunków, jakim powinny odpowiadać ścieki wprowadzone do wód z osadnika Imhoffa. Inspektorat Ochrony Środowiska odroczył terminy płatności kary, do czasu zakończenia budowy lokalnej oczyszczalni ścieków, z możliwością późniejszego wliczenia jej w koszty.</p>
+        <p xml:id="p-3">W III kwartale ub. roku ciechanowska delegatura Wojewódzkiego Inspektoratu Ochrony Środowiska potwierdziła efekty ekologiczne osiągnięte w wyniku realizacji inwestycji wspartych przez Wojewódzki Fundusz Ochrony Środowiska i Gospodarki Wodnej w Warszawie. W Koziebrodach w gminie Raciąż (powiat płoński) oraz w Pułtusku rozbudowano kanalizację sanitarną. Skierowanie ścieków do oczyszczalni spowodowało skuteczne ich oczyszczanie. W komunalnej oczyszczalni ścieków w Mławie zakończono montaż i uruchomiono nową instalację do mechanicznego oczyszczania ścieków, co też przyniosło korzyści dla środowiska.</p>
+        <p xml:id="p-4">Jeśli chodzi o emisję pyłów i gazów do powietrza, Inspektorat przeprowadził 34 kontrole. Wydał 2 decyzje ustalające wymiar tzw. kar biegnących. Nałożono je m.in. na spółkę Elanders w Płońsku (4,26 zł na godzinę za przekroczenie norm CO, SO2) i Zakład Mleczarski Mława (2,03 zł na godzinę, za pyły i NO2).</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

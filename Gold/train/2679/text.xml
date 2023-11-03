@@ -1,0 +1,17 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">- Choć to jest banalne, to jednak właśnie "ludzie są moją pieśnią" - mówi pan Szczepan. - Choć wiem, że czasy są takie, że trudno przemawiać wierszem.</p>
+        <p xml:id="p-2">To spotkanie z Władysławem Broniewskim zadecydowało, że pan Szczepan zaczął pisać.</p>
+        <p xml:id="p-3">- To było w Toruniu. Byłem "szefem" klubu miłośników literatury w mojej jednostce wojskowej - wspomina pan Szczepan. - Doskonale pamiętam tamten wieczór, bo patrzyłem w poetę jak zauroczony. Był słusznej postury, miał tubalny głos... Wtedy po raz pierwszy pomyślałem: dlaczego nie spróbować... Ale pierwszy wiersz napisałem dopiero przed rozpoczęciem pracy. A potem była praca, rodzina, dom, dzieci... i wreszcie emerytura, i czas na pisanie wierszy.</p>
+        <p xml:id="p-4">Obdarzony niezwykłą wrażliwością i łatwością składania słów w rymowane strofy pan Szczepan należy do Robotniczego Stowarzyszenia Twórców Kultury, które w Kutnie działa od dziesięciu lat.</p>
+        <p xml:id="p-5">- Razem z innymi kutnowskimi twórcami spotykamy się na warsztatowych zajęciach, moi koledzy z RSTK są często pierwszymi recenzentami wierszy - mówi poeta. - Poza tym RSTK pomaga... przede wszystkim w upowszechnieniu naszej twórczości.</p>
+        <p xml:id="p-6">To w bibliotece jest galeria, w której swoje prace plastyczne mogą przedstawić szerokiej publiczności kutnowscy twórcy. To RSTK miedzy innymi zabiega o dofinansowanie takich wydawnictw, jak tomik "W niebo wrzosy", którego nie udałoby się wydać bez wsparcia z budżetu miasta, czyli tak naprawdę z naszych podatków. Ale prawda jest taka, że pieniądze wydawane na kulturę nigdy nie są stracone, a dziś, bez silnego mecenatu i wsparcia finansowego obronić się może jedynie najbardziej komercyjna i - przeważnie - nie najwyższych lotów twórczość.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

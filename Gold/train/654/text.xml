@@ -1,0 +1,21 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Posłanka zarzuca prezydentowi... amnezję</p>
+        <p xml:id="p-2">Posłanka Bronisława Kowalska i prezydent Tadeusz Krzakowski, oboje z SLD, nie wspominają o konflikcie. Niechęć natomiast widać między wierszami</p>
+        <p xml:id="p-3">Zbigniew Budych</p>
+        <p xml:id="p-4">W płatnym, cotygodniowym felietonie publikowanym w lokalnym tygodniku, posłanka Bronisława Kowalska zarzuciła Tadeuszowi Krzakowskiemu, prezydentowi Legnicy, że „cierpi na szczególny rodzaj politycznej amnezji i nie może przypomnieć sobie chociażby jednej sprawy załatwionej przeze mnie dla Legnicy”. Kowalska przypomina więc dwie, które udało się załatwić – jak twierdzi – dzięki jej interwencji. Chodzi o zwiększenie subwencji oświatowej dla Legnicy w roku 2002 i 2003.</p>
+        <p xml:id="p-5">„Informowała nawet o tym Pani Minister Krystyna Łybacka goszcząc w Zespole Szkół Technicznych i Ogólnokształcących na 40–leciu szkoły. Tyle? Aż tyle! O taką interwencję prosił mnie Pan Prezydent” – napisała posłanka.</p>
+        <p xml:id="p-6">„Szkoda tylko, że po wygranych przez Pana Prezydenta wyborach spotkaliśmy się w sprawie Legnicy tylko jeden raz” – dodała posłanka Kowalska.</p>
+        <p xml:id="p-7">Prezydent Tadeusz Krzakowski bardzo się zdziwił, gdy pokazaliśmy mu tę notkę. Przeczytał z uwagą...</p>
+        <p xml:id="p-8">– Nie wiem, czego ta polemika dotyczy. Nie będę tego komentować – stwierdził. Dodał, że po wyborach spotykał się z posłanką wiele razy.</p>
+        <p xml:id="p-9">Bronisława Kowalska odniosła się w felietonie do artykułu „Salony bez nas”, opublikowanego w naszej gazecie 8 stycznia.</p>
+        <p xml:id="p-10">Czy ktoś popiera nasze interesy w Warszawie? – zastanawialiśmy się wtedy pytając o legnickie lobby w parlamencie. „Prezydent Krzakowski z trudem wymienił trzy osoby: ministra Jerzego Szmajdzińskiego, senatora Mariana Lewickiego i Tadeusza Łunkiewicza z Ministerstwa Spraw Wewnętrznych i Administracji. Przy nazwisku posłanki Kowalskiej już się zawahał (...) – Pani poseł Kowalska pomaga tak, jak może – powiedział prezydent”.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

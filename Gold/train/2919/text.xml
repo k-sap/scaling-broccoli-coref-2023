@@ -1,0 +1,21 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">– A to, co sprawia, że ja jestem szczęśliwy, to jest dla ciebie którorzędne?</p>
+        <p xml:id="p-2">Spojrzała na niego zdumiona.</p>
+        <p xml:id="p-3">– Żartujesz sobie chyba. Ważne jest przecież to, co robimy dla naszego związku, żebyśmy byli razem szczęśliwi. Przecież się kochamy, prawda? I na tym nam zależy.</p>
+        <p xml:id="p-4">– Oczywiście, ale zależy nam też na sobie samych. Słyszałaś na pewno, że im mocniejsze są elementy układu, tym mocniejszy jest cały układ. Nie da się inaczej go wzmocnić.</p>
+        <p xml:id="p-5">– O co ci chodzi?</p>
+        <p xml:id="p-6">– Chodzi mi o to, że jedyny sposób, żeby żyło nam się fajnie, to rozwijać siebie. Trochę razem, a trochę osobno. Na przykład ja będę malował, a ty nie. Ty będziesz chodziła do filharmonii, a ja nie. I tak dalej. Każde z nas będzie się rozwijało i razem będzie nam lepiej. Będziemy bogatsi, bardziej wartościowi, będziemy mogli więcej sobie zaoferować.</p>
+        <p xml:id="p-7">Patrzył na nią i nie rozumiał, dlaczego z każdym jego słowem robi się coraz bardziej smutna.</p>
+        <p xml:id="p-8">– Ale ja nie chcę bez ciebie, naprawdę – wyjąkała. – Czy to jest obowiązkowe, żeby robić coś samemu? Może zróbmy tak, że ty coś będziesz robił sam, a ja tylko z tobą. Może tak być?</p>
+        <p xml:id="p-9">Robert przejechał dłonią po twarzy w geście rezygnacji.</p>
+        <p xml:id="p-10">Westchnął, objął Agnieszkę i powiedział:</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

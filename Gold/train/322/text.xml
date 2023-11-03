@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Pętla</p>
+        <p xml:id="p-2">Na ostatnich rekolekcjach niesakramentalni czytali świadectwa na zadany temat: kto był dla nich Mojżeszem, wyprowadził z grzechu, czyli domu niewoli. Dla jednych to było urodzenie kalekiego dziecka, dla innych jakieś wzruszenie albo śmierć.</p>
+        <p xml:id="p-3">Jak u Jadźki. Cztery lata temu, po śmierci matki, częstochowskie oczy Maryi spojrzały na nią tak, że nie było odwrotu. Surowo, jak matka. Całe grzeszne życie opowiedziała drewnianej kratce obok Czarnej Madonny. Pukanie na znak rozgrzeszenia. Padał deszcz, a ona nie czuła. Frunęła.</p>
+        <p xml:id="p-4">Dzień po tej spowiedzi leżeli razem z Bogusiem, a ona opowiadała mu o tym, jak frunęła po spowiedzi. W nocy, jakby w półśnie, bez zgody świadomej, doszło do zbliżenia. Nagle smutek zalewa jej serce. Wtedy Jadźka pierwszy raz zobaczyła swojego szatana. Karzeł, obślizły, trupio blady, o żabim wyglądzie stał na krawędzi łóżka i śmiał się szyderczo. Potem widziała takiego w "Pasji" Mela Gibsona, jak dopada Judasza. Czuła upodlenie. Więc jadą pierwszym pociągiem do kościoła u warszawskich paulinów przy ul. Długiej, żeby się wyspowiadać. Ksiądz każe się Jadźce cieszyć z wizyty szatana. To znaczy, że szatan jest w desperacji, przedstawił się, bo czuje, że ją traci. Znów grzech miał odbyć się w półśnie po to, żeby i Boguś zobaczył swojego szatana. To był pies, który siadł okrakiem na piersi, tak że nie mógł się ruszyć, wyciągnąć ręki po różaniec.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

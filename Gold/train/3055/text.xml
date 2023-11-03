@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Mimo zwycięstwa psychoanalizy i narzuconego przez nią modelu myślenia, mimo zepchnięcia przezroczystości serca do egzystencjalnego skansenu, walka nieprzezroczystości z przezroczystością trwa jednak do dzisiaj i obie w tym zwarciu tworzą jedną z podstawowych opozycji, parę przeciwieństw, wedle której można przedstawiać duchowe dzieje ostatnich dwustu lat.</p>
+        <p xml:id="p-2">Nieprzejrzystość egzystencji jest dzisiaj dogmatem filozofii i psychologii. Im bardziej ktoś mu się opiera, tym bardziej konwencjonalny, mieszczański, konserwatywny (a nawet prawicowy), naiwny, zaślepiony, pełen hipokryzji wydaje się jego sposób myślenia i życia. Ale przezroczystość nigdy nie została całkowicie stłumiona, odsunięta do swego jasnego nieba, idealnego lazuru. Jako jedna z kategorii dyskursu społecznego i politycznego, jako postulat etyczny w funkcjonowaniu instytucji politycznych i gospodarczych pojawiła się ćwierć wieku temu i wciąż zdaje się narastać, stając się dziś jednym z podstawowych imperatywów życia społecznego. Nie tyle zresztą pojawiła się, ile ożywiła po okresie śpiączki od drugiej wojny światowej do początku lat osiemdziesiątych. Bo też, raz wypowiedziana, nie przestała nęcić i nękać wyobraźni. Wraz z "krytyką przejrzystości", przed chwilą wzmiankowaną, przez cały XIX i pierwszych czterdzieści lat XX wieku toczył się proces odwrotny, który nazwać by można "krytyką nieprzejrzystości". Na barkach wizjonerskiej architektury, literatury (nie tylko utopijnej), sztuki (zwłaszcza międzywojennej), filozofii idei (nie tylko futurystycznych) przejrzystość, transparence, transparencia, przechodzi wciąż w nowe czasy i żywi kolejne estetyki, kolejne polityczne programy, manifesty i języki, i kolejne istnienia, kolejne wielkie projekty i skromne wyobraźnie małych, cichych ludzi.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

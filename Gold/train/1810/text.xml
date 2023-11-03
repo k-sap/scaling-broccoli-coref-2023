@@ -1,0 +1,17 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">2. PACJENCI I LEKARZE</p>
+        <p xml:id="p-2">Podobno po świecie chodzi najwięcej lekarzy; niekoniecznie tych z dyplomami, ale takich, którzy się na leczeniu innych i siebie na tyle znają, że zawsze chętnie udzielą bliźniemu rady.</p>
+        <p xml:id="p-3">Dotychczas owe rady trudno było zweryfikować bez wizyty u prawdziwego lekarza lub co najmniej sięgnięcia do encyklopedii zdrowia. Obecnie problem - jak wiele innych - rozwiązuje Internet.</p>
+        <p xml:id="p-4">Pragnę otóż zwrócić uwagę Państwa na trzy witryny. Pierwsza z nich to NOAH, czyli New York Online Access to Health (Nowojorski Bezpośredni Dostęp do Zdrowia), jak dosyć kulawo, przyznaję, przetłumaczyłem tę nazwę. Jest to wielka baza danych z artykułami o tematyce medycznej, przeznaczonymi zarówno dla lekarzy, jak i dla szerszej publiczności. Jeśli nie znajdziemy tu natychmiast odpowiedzi na pytania czy wątpliwości, to z pewnością zostaniemy odesłani we właściwe miejsce. Przy okazji zaś: odwiedzającym NOAH polecam bardzo ciekawy Osobisty Analizator Diety, który podpowie każdemu właściwe żywienie.</p>
+        <p xml:id="p-5">Druga witryna to Choroby i niedyspozycje, czyli Diseases and disorders, rodzaj encyklopedii zdrowia, tyle że o niesamowitej objętości. Jeśli interesują Państwa takie problemy, jak choroby zawodowe pianistów albo chroniczna infekcja rzęs, tu z pewnością będzie odpowiednia informacja albo odesłanie do właściwego konsultanta.</p>
+        <p xml:id="p-6">I wreszcie trzecia witryna, niesłychanie ambitna i w założeniu arcypożyteczna: Globalna Sieć Zdrowia, czyli The Global Health Network. Witryna ta jest ciągle rozbudowywana, a służyć ma kontaktom specjalistów z całego świata oraz umożliwiać pacjentom konsultację.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

@@ -1,0 +1,24 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Dowiedz się więcej o działaniu USB i poznaj metody programowania transmisji danych</p>
+        <p xml:id="p-2">- W jaki sposób odbywa się transfer danych?</p>
+        <p xml:id="p-3">- Jak odblokować urządzenia do transmisji?</p>
+        <p xml:id="p-4">- Na czym polega programowanie obiektowe transmisji USB?</p>
+        <p xml:id="p-5">USB (skrót od ang. Universal Serial Bus - uniwersalna magistrala szeregowa) to rodzaj bardzo praktycznego portu komunikacyjnego, dzięki któremu możliwe jest podłączanie do komputera wielu różnych urządzeń, takich jak mysz, kamera, aparat fotograficzny, telefon komórkowy, modem, skaner, przenośna pamięć. Podłączone w ten sposób urządzenia są od razu wykrywane i rozpoznawane przez system, dzięki czemu instalacja sterowników i konfiguracja sprzętu odbywają się zwykle automatycznie.</p>
+        <p xml:id="p-6">Książka "USB. Praktyczne programowanie z Windows API w C++" w zwięzły sposób przedstawia wszelkie zagadnienia, dotyczące użytkowania i programowania transmisji USB. Korzystając z tego podręcznika, poznasz nie tylko teoretyczne podstawy działania USB, ale także zdobędziesz praktyczne umiejętności w tym zakresie. Książka zawiera bowiem zarówno konkretne przykłady, jak i ćwiczenia do samodzielnego wykonania dla wszystkich, którzy chcą zyskać wiedzę na zaawansowanym poziomie. Dowiesz się między innymi, jakie są rodzaje transferów danych i transakcji USB, za co odpowiadają komponenty i jak wykorzystać wzorce projektowe. Zrozumiesz także metody projektowania obiektowego oraz implementacji oprogramowania sterującego łączem USB.</p>
+        <p xml:id="p-7">- środowisko fizyczne i sygnałowe USB</p>
+        <p xml:id="p-8">- Klasy instalacji urządzeń</p>
+        <p xml:id="p-9">- Rejestr systemowy</p>
+        <p xml:id="p-10">- Transmisja danych</p>
+        <p xml:id="p-11">- Struktura systemu USB</p>
+        <p xml:id="p-12">- Detekcja i identyfikacja urządzeń</p>
+        <p xml:id="p-13">- Odczyt Ø i zapis danych w formie raportu</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

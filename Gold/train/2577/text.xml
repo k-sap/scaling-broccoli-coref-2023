@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Zakład ma około 14 mln zł długów, z czego 9 mln to należności wobec sejmiku wojewódzkiego za odprowadzanie ścieków do Dobrzynki. Sprawa jest do "odkręcenia", jako że kary naliczono w okresie, gdy budowano kolektor do Grupowej Oczyszczalni Ścieków. Pomoc w tej sprawie i negocjacje z marszałkiem województwa obiecała poseł Anita Błochowiak.</p>
+        <p xml:id="p-2">Problem ZGKiM polega na tym, że sam ma wielu dłużników. Na przykład lokatorzy mieszkań komunalnych niepłacący za czynsz, ścieki i wodę są winni zakładowi 5 mln zł, natomiast firmy państwowe i prywatne oraz różne placówki - 3,5 mln zł. Wśród tych ostatnich jest szpital miejski, który przestał płacić latem br., gdy przeszedł pod skrzydła magistratu i dziś ma zaległości w wysokości 1,7 mln zł.</p>
+        <p xml:id="p-3">Garbem zakładu jest dziurawa sieć kanalizacyjna, przez co dostaje się do niej wiele wody gruntowej, za której oczyszczenie też trzeba płacić. I to Ø słono, bowiem tak jak za ścieki: 1,17 zł za metr sześc. Nic więc dziwnego, że za ścieki Pabianice są już winne Łodzi 4 mln zł i dług ten stale rośnie. I zapewne nic się nie zmieni do marca 2004 roku, kiedy w Pabianicach zostanie wprowadzona podwyżka opłat za ścieki.</p>
+        <p xml:id="p-4">Czy wszystkie te długi oznaczają, że zakładowi grozi bankructwo? - To nam nie grozi - zapewnia Florian Wlaźlak, dyrektor ZGKiM. Dodaje, iż ma nadzieję, że marszałek województwa jednak zrezygnuje z 9-milionowych kar za zatruwanie Dobrzynki i wtedy zła karta się odwróci.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

@@ -1,0 +1,16 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Zaobserwowane niepożądane działanie uboczne preparatu erytropoetyny jest na szczęście rzadkie, ale bardzo poważne - informuje prof. Stanisław Czekalski - konsultant krajowy w dziedzinie nefrologii. W Polsce nie zarejestrowano jak dotąd przypadków zachorowań, prowadzone są natomiast badania na obecność przeciwciał u kilku osób stosujących preparat, mające na celu raczej wykluczenie istnienia choroby. Erytropoetyna jest lekiem niezbędnym, którą powinno stosować ok. 90% chorych dializowanych, podaje Raport o stanie leczenia nerkozastępczego w Polsce, opublikowany przez Ministerstwo Zdrowia i Opieki Społecznej.</p>
+        <p xml:id="p-2">W Polsce zarejestrowane są obecnie dwa preparaty uzupełniające brakujący hormon - epoetyna alfa (EPREX) i epoetyna beta (NeoRecormon).</p>
+        <p xml:id="p-3">Godny uznania jest fakt, kontynuuje, prof. Czekalski, iż producenci obu leków zaoferowali chorym bezpłatne badania na obecność przeciwciał. Niezależnie od działań firm farmaceutycznych, nadzór krajowy w dziedzinie nefrologii, informuje prof. Czekalski, wypracuje w najbliższym terminie swe oficjalne stanowisko w sprawie zagrożeń związanych ze stosowaniem preparatów erytropoetyny.</p>
+        <p xml:id="p-4">* * *</p>
+        <p xml:id="p-5">Przewlekła niewydolność nerek powstaje przede wszystkim na skutek procesów zapalnych toczących się w nerkach - koło 50% przypadków, cukrzycy ok.16% przypadków, nadciśnienia ok.7%, bywają też inne przyczyny. Szacuje się, że dysfunkcja nerek to w naszym kraju problem około 100 tysięcy osób, z których nie wszystkie się leczą. Dane z 2001 roku informują, że jedynie około 10 tys chorych, poddaje się regularnym dializom.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">– Sensownym rozwiązaniem będzie zmiana istniejącego oświetlenia na typ uliczny, czyli na wysokie słupy. W tym roku nie mamy jednak na to pieniędzy – mówi Anita Tyszkiewicz-Zimałka, rzecznik Urzędu Miasta w Raciborzu.</p>
+        <p xml:id="p-2">Przyjęto więc salomonowe rozwiązanie ograniczenia nakładów do minimum. Na odcinku od kładki dla pieszych do restauracji „Zamkowa” co druga latarnia będzie zdemontowana – A elementy z nich będą służyły do naprawiania pozostałych Ø – wyjaśnia rzecznik.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

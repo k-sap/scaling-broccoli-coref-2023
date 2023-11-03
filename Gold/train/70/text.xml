@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Nie wiemy jednak, kiedy Andegawenka po raz ostatni była podejmowana przez podrzędztwo korczyńskie, lecz z pewnością latem 1399 roku mieszkańcy Nowego Miasta, Wiślicy i okolic dzielili wraz z królem radość z narodzin królewny, a potem rozpacz po śmierci matki i córki. Okres od narodzin Elżbiety Bonifacji do śmierci królowej Jadwigi (22 czerwca - 17 lipca) Jagiełło spędzał częściowo w Nowym Mieście Korczynie, a wieści przywożone przez posłańców z Krakowa bez trudu docierały do wiadomości mieszczan i mieszkańców pobliskich wiosek. Król wydał wówczas kilka dokumentów, które poświadczał m.in. Pielgrzym z Węgleszyna, właściciel Świniar, co pozwala wnosić, że za sprawą swego dziedzica i opiekuna również świniarski kościół włączył się w dziękczynne, potem błagalne, a na koniec żałobne modły w intencji świętej pani i jej dziecka.</p>
+        <p xml:id="p-2">Po kilku latach do zamku nad Nidą zaczęła zjeżdżać nowa królowa, wnuczka Kazimierza Wielkiego - Anna Cylejska. Po raz pierwszy rachunki odnotowały obecność drugiej żony Jagiełły w Nowym Mieście w listopadzie 1403 roku, ale wiele wskazuje na to, że królowa przyjeżdżała tu wcześniej. Pierwszy poświadczony w rachunkach pobyt Anny Cylejskiej i Władysława Jagiełły trwał zaledwie trzy dni, a podrzędztwo mogło podejmować dostojną parę produktami pochodzącymi w większości z własnych gospodarstw. Na stół Jagiełły przygotowano pirogi. Wcześniej w zamku wyremontowano na tę okazję "białą izbę", a w Wiślicy królewską łaźnię. Od 1408 roku do Korczyna wraz z matką zaczęła przyjeżdżać córeczka Anny i Jagiełły, królewna Jadwiga, a także gościła tu nowa teściowa króla Anna Piastówna, która wywieziona z Polski w wieku pięciu lat, po powtórnym zamążpójściu jako księżna von Teck przyjeżdżała z dalekiej Wirtembergii, aby cieszyć się szczęściem koronowanej córki. Starszemu pokoleniu rycerzy jej osoba przypominała czasy ostatniego Piasta w koronie, a ona sama również tu, w zamku nad Nidą, chodziła śladami swego dzieciństwa.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

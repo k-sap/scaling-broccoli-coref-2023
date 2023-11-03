@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Sporo kontrowersji wzbudziła kandydatura prof. Zdzisława Jana Ryna na ambasadora w Argentynie, m.in. dlatego, że to faworyt prywatnej organizacji polonijnej Jana Kobylańskiego USOPAL. W kręgach MSZ wiadomo, że prof. Ryn posiada świetne kwalifikacje - dobrze zna hiszpański i Amerykę Łacińską, jest zorganizowany, pracowity, wspina się po górach, ma zasługi w dziedzinie wymiany naukowej i kulturalnej, jest autorem wielu prac, m.in. Ø o Ignacym Domeyko i Janie Pawle II, wreszcie umie się krzątać wokół własnych spraw. Jego nominacja byłaby przyznaniem, że w III RP także byli dobrzy ambasadorowie. Niestety, choć jest psychologiem, Ryn to człowiek konfliktowy.</p>
+        <p xml:id="p-2">Kiedy został ambasadorem w Chile (1991-1996), popadł w konflikt z duchowym przywódcą tamtejszej Polonii księdzem profesorem Bruno Rychłowskim, salezjaninem, który dzięki swojej energii i kontaktom zbudował imponujący kościół polski w centrum Santiago. Ksiądz, który był najbardziej znanym duchownym polskim w Ameryce Łacińskiej, nie mógł znieść zapewnień prof. Ryna, iż ten jest blisko związany z Janem Pawłem II i to on spowoduje wizytę polskiego papieża w Chile. "Padre Bruno", duchowny o poglądach bardzo konserwatywnych, opublikował w tej sprawie list w prasie i od tamtego czasu miał miejsce otwarty konflikt polskiego ambasadora z polskim księdzem. W związku z tym ambasador nie uczestniczył w jedynym regularnym spotkaniu chilijskiej Polonii po mszy w pierwszą niedzielę każdego miesiąca. Spotkanie organizowało koło im. Jana Pawła II, z którego przewodniczącym Marianem Kwiatkowskim amb. Ryn również był skłócony. Koło nigdy nie podporządkowało się Kobylańskiemu i nie brało od niego pieniędzy.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

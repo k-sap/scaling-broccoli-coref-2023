@@ -1,0 +1,14 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Rygorystyczna wizja piekła pojawia się w tekstach św. Jana Chryzostoma w wieku IV. Według tego wielkiego kaznodziei pierwszych wieków piekło jest materialne i wieczne. Trafiają do niego wszyscy poganie, bez wyjątku, którzy pozbawieni chrztu, pozbawieni są również możliwości czynienia dobra. Nawet jeżeli ich stać na jakieś dobro, pochodzi ono z natury, nie jest zaś owocem ich wysiłku, który mógłby zostać wynagrodzony niebiańskim szczęściem. Przez dobro, które czynią, zabiegają w istocie o własne korzyści, własną chwałę czy powodzenie, stąd jest to bardziej wyraz pychy, którą należy ukarać, niż zasługi godnej pochwały i wynagrodzenia. Należało więc koniecznie mówić o piekle, o cierpieniach w nim panujących, aby móc utrzymać ludzi w cnocie. Pisze:</p>
+        <p xml:id="p-2">Skoro bowiem obietnica niebios i groźba Gehenny z trudem utrzymują ludzi w cnocie, to ci, którzy w nic z tego nie wierzą, jeszcze mniej jej hołdują. Co poniektórzy zdają się takimi, lecz czynią to przez wzgląd na reputację; otóż gdy tylko któryś z nich sądzi, iż bezpieczny jest, bo w ukryciu, wtenczas folguje bez miary złym swoim chęciom.</p>
+        <p xml:id="p-3">Jan nie miał nic przeciwko temu, że grzech, nawet pojedynczy, karany jest karą wieczną. W takim przekonaniu upewniało go postępowanie władz cywilnych, które również za jedną ziemską niesprawiedliwość, trwającą niekiedy jedną małą chwilkę, zwykły karać dożywociem. Czyżby sąd Boży miał się różnić od sądu wymierzanego na ziemi? Nie tylko Jan Chryzostom rozumował w ten sposób. Poprzedzało i naśladowało go wielu pisarzy chrześcijańskich, którzy Bożą sprawiedliwość oceniali miarą sprawiedliwości ludzkiej.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

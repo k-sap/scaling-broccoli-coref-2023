@@ -1,0 +1,19 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Jak pan trafił na ten repertuar?</p>
+        <p xml:id="p-2">Przyjechałem po raz pierwszy do Polski na zaproszenie Elżbiety Pendereckiej, grałem koncert Elgara w Filharmonii Narodowej. Kiedy po występie wyszedłem już na ulicę i zmierzałem do samochodu, podszedł jakiś człowiek i powiedział: "Gra pan muzykę romantyczną, niech pan posłucha tego, to będzie w sam raz dla pana". I wręczył mi płytę z koncertem Młynarskiego w wykonaniu Konstantego Kulki. Płyta zapodziała mi się gdzieś w domu, ale parę lat później znalazłem ją, przesłuchałem i pomyślałem: muszę to zagrać! Trudno było znaleźć nuty, bo utwór nie był drukowany, ale się udało. Potem jeszcze podpowiedziano mi Karłowicza. To bardzo różne koncerty, każdy z kompozytorów szukał czegoś innego: Młynarski był dumny z tradycji związanej z dziedzictwem chopinowskim, a Karłowicz chciał tworzyć w duchu środkowoeuropejskim. Ale oba utwory są bardzo polskie, w obu słychać też wpływ muzyki góralskiej.</p>
+        <p xml:id="p-3">Zna pan już polskie klimaty po tylu latach bliskich kontaktów?</p>
+        <p xml:id="p-4">To prawda, spędzam tu wiele czasu, zwłaszcza w Zakopanem.</p>
+        <p xml:id="p-5">Podobno chce pan wybudować dom w Jaworkach koło Szczawnicy?</p>
+        <p xml:id="p-6">To piękna okolica, nieskażona cywilizacją, prawie bez turystów. Działa tam wspaniała społeczność muzyków, mam wśród nich wielu dobrych przyjaciół.</p>
+        <p xml:id="p-7">Po nagraniu wyrusza pan w trasę koncertową, ale tym razem jazzową. Z jakim zespołem?</p>
+        <p xml:id="p-8">Z polskim. Mam fantastyczną grupę młodych ludzi z Krakowa: Paweł Dobrowolski, Adam Kowalewski, Piotrek Wyleżoł z zespołu Jarka Śmietany i Tomasz Grzegorski z Warszawy.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

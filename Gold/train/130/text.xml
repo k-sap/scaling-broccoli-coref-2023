@@ -1,0 +1,14 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Muszarraf musi odejść! - krzyczeli uczestnicy niedzielnej demonstracji antyrządowej w Lahore, zanim brutalnie rozpędziła ich policja. Spośród dwóch tysięcy pakistańskich adwokatów, protestujących przeciw wprowadzeniu stanu wyjątkowego, 350 osób trafiło do aresztów. W całym kraju władze zatrzymały opozycjonistów i właśnie prawników, którzy są liderami demokratycznych protestów przeciw dyktaturze. Oficjalną przyczyną zawieszenia konstytucji jest rosnąca potęga fundamentalistów islamskich, którzy kilkakrotnie usiłowali już zabić prezydenta. Nieoficjalną Ø - rozprawa, na której sąd najwyższy Pakistanu miał rozpatrzyć w tym tygodniu konstytucyjność wyboru Perveza Muszarrafa na głowę państwa. Sąd prawie na pewno orzekłby, że jako głównodowodzący armii nie miał prawa nawet startować. A to podważyłoby pozycję samego Muszarrafa, któremu coraz trudniej utrzymać się u władzy.</p>
+        <p xml:id="p-2">W Pakistanie od miesięcy dojrzewa wewnętrzny konflikt. Muzułmańscy konserwatyści, których twarzą jest obalony przez Muszarrafa były premier Nawaz Szarif, ciągną kraj w kierunku zerwania sojuszu z Ameryką i konfrontacyjnej polityki wobec Indii. Po drugiej stronie stoi wspierana przez Waszyngton Benazir Bhutto, która kilka tygodni temu wróciła z ośmioletniego wygnania i była typowana na następnego premiera. Do rozstrzygnięcia miało dojść przy urnach, ale Muszarraf odwołał wybory.</p>
+        <p xml:id="p-3">Jego odejście jest nieuniknione. Wobec zaostrzenia reżimu może mieć brutalny przebieg i groźne konsekwencje. Pakistan jest nie tylko rozdarty wewnętrznie, ale pozostaje w zamrożonym konflikcie z Indiami, posiada broń atomową, a pogranicze z Afganistanem roi się od talibów, którzy chętnie skorzystają na zamieszaniu w Islamabadzie siejąc niepokój w i tak niespokojnym Afganistanie.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

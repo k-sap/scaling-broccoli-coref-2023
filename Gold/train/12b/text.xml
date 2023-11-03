@@ -1,0 +1,12 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Gdyby nie nadużywanie różnego rodzaju napojów alkoholowych ostatnia sobota i niedziela mogła by być na terenie bocheńszczyzny zaliczana do spokojnych. W nocy z soboty na niedzielę pijany rowerzysta na drodze w rejonie Gierczyc tak się nieszczęśliwie przewrócił, że musiało interweniować bocheńskie Pogotowia Ratunkowego. Odniósł on poważne obrażenia głowy. Także przedawkował uczestnik weselnej libacji w zajeździe Lech w Chełmie. Stąd w niedzielę nad ranem trafił do bocheńskiego Szpitala. Bocheńscy policjanci interweniowali nocą w wielu coraz częstszych awanturach domowych oraz zakłócaniu ciszy nocnej. Często jak np. w przypadku biesiadników przy ognisku w rejonie budynków na Karolinie - gdy nie pomogły upomnienia policjantów o zakłócaniu ciszy nocnej - biesiadnicy musieli zakończyć libację, a uczestników odesłano do domów.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

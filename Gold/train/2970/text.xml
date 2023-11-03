@@ -1,0 +1,41 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">BARTEK parkuje swój samochód z rykiem silnika. Wysiada. Podjeżdża samochód z MAGDĄ. REGUŁA otwiera jej drzwi. MAGDA wysiada. BARTEK widząc to, zatrzymuje się i czeka na MAGDĘ. Stoi na tyle daleko, że nie słyszy rozmowy.</p>
+        <p xml:id="p-2">REGUŁA:</p>
+        <p xml:id="p-3">Mam na panią zaczekać?</p>
+        <p xml:id="p-4">MAGDA:</p>
+        <p xml:id="p-5">Bardzo panu dziękuję, ale...</p>
+        <p xml:id="p-6">REGUŁA:</p>
+        <p xml:id="p-7">Dostałem wyraźne polecenie od dyrektora Żywieckiego. Jestem do pani dyspozycji przez 24 godziny na dobę. (podaje jej wizytówkę) Proszę, to numer mojego telefonu.</p>
+        <p xml:id="p-8">MAGDA:</p>
+        <p xml:id="p-9">Dobrze. Zadzwonię do pana.</p>
+        <p xml:id="p-10">REGUŁA uśmiecha się. MAGDA idzie do budynku. REGUŁA wsiada do samochodu i odjeżdża.</p>
+        <p xml:id="p-11">BARTEK:</p>
+        <p xml:id="p-12">Moja droga... To są zwyczaje prezesa, a nie wspólniczki.</p>
+        <p xml:id="p-13">MAGDA:</p>
+        <p xml:id="p-14">Ani jedno, ani drugie mnie nie dotyczy.</p>
+        <p xml:id="p-15">BARTEK:</p>
+        <p xml:id="p-16">Skąd w takim razie...</p>
+        <p xml:id="p-17">MAGDA:</p>
+        <p xml:id="p-18">Zepsuł mi się samochód. I ktoś po prostu mi pomaga.</p>
+        <p xml:id="p-19">BARTEK:</p>
+        <p xml:id="p-20">A czego ten ktoś oczekuje w zamian?</p>
+        <p xml:id="p-21">MAGDA:</p>
+        <p xml:id="p-22">Nieważne. Co do wspólniczki...</p>
+        <p xml:id="p-23">BARTEK:</p>
+        <p xml:id="p-24">(przerywa)</p>
+        <p xml:id="p-25">Mówiłem Wiktorowi, że powinniśmy poczekać na deklarację z twojej strony. Żeby nagle nie okazało się, że jednak chcesz gdzieś wyjechać na parę miesięcy.</p>
+        <p xml:id="p-26">MAGDA patrzy na niego.</p>
+        <p xml:id="p-27">MAGDA:</p>
+        <p xml:id="p-28">Słusznie. Poczekajmy z tym.</p>
+        <p xml:id="p-29">MAGDA wchodzi do budynku. BARTEK patrzy za nią zaskoczony.</p>
+        <p xml:id="p-30">21. KORYTARZ W BANKU AGATY. WN. DZIEŃ.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

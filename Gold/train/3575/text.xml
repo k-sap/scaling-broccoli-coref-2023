@@ -1,0 +1,16 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Wprowadzanie danych</p>
+        <p xml:id="p-2">Tworzenie danych GIS tak, aby spełniały one wiele wymagań stawianych w ramach różnych zastosowań, wymaga odpowiedniej wiedzy i umiejętności. Odpowiedni system może w dużym stopniu odciążyć operatora od wielu skomplikowanych i czasochłonnych czynności. W przypadku skanowania materiałów istniejących w postaci tradycyjnej, muszą one być odpowiedniej jakości. W przypadku ręcznej digitalizacji, oprogramowanie może pomóc uniknąć lub naprawić błędy wynikające z niedokładności w czasie digitalizacji. Poziom wspomagania komputerowego zależy od tego, jakiego dokładnie oprogramowania używamy. Typowymi przykładami funkcji wspomagających edycję danych są: dociąganie punktów do już istniejących na mapie danych, usuwanie zbędnych (nadmiarowych) elementów oraz automatyczne tworzenie ciągłej mapy rastrowej po podaniu współrzędnych poszczególnych arkuszy map.</p>
+        <p xml:id="p-3">Generalizacja danych</p>
+        <p xml:id="p-4">W czasie wprowadzania danych różne metody digitalizacji powodują tworzenie danych o różnej objętości. Przekłada się to wprost na dokładność danych. Do użytkownika należy decyzja, z jaką dokładnością dane mają być wprowadzane. Zbyt dużo szczegółów może w szczególnych przypadkach niepotrzebnie komplikować sam proces edycji, a następnie analizy danych oraz być przyczyną niewydolności technicznej sprzętu komputerowego. Część systemów GIS posiada możliwości określania bądź to w czasie wprowadzania danych, bądź ich późniejszej edycji tego, z jaką np. gęstością będą wstawiane punkty, co widać na rysunkach 2.16 oraz 2.17. Jednym z kryteriów jest tutaj cel, dla którego dane są tworzone i skala mapy, dla której zazwyczaj będą prezentowane.</p>
+        <p xml:id="p-5">Systemy przechowujące dane w postaci topologicznej posiadają niejako wbudowaną funkcję automatycznej "optymalizacji" wprowadzanych danych. Należy tylko określić parametry poszczególnych funkcji, jak na przykład długość "wystających" linii, które mają być zlikwidowane. Ustawienie nieodpowiedniej wartości może skutkować usuwaniem przez system całych obiektów, gdy będzie ona zbyt duża, lub pozostawianiem "przeciągniętych" linii, gdy będzie zbyt mała.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

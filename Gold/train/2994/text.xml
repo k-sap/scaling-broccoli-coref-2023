@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Rekordzistą okazał się Leszek Wierzchowski, satyryk i aforysta specjalizujący się w drobnych formach, z imponującą liczbą 152 utworów. Na piątym miejscu, z liczbą 26 zamieszczonych w miesięczniku wierszy, uplasowała się - jako pierwsza kobieta w powyższym zestawieniu - Jolanta Baziak.</p>
+        <p xml:id="p-2">Z czasem wyodrębniła się w „Akancie” kolumna „Satyra”, w której zamieszczano przede wszystkim utwory drobne. Te króciutkie fraszki, limeryki czy aforyzmy stanowiły miłą odskocznię dla czytelników, którzy często stykali się z trudnymi tematami poruszanymi w ramach dyskusji publicystycznych.. Nic dziwnego, że rubryka ta cieszyła się dobrą sławą, bo przecież „satyrycy to ludek bardzo pomysłowy i ruchliwy, doszukujący się w tym, co jest, tego czego nie ma, albo przynajmniej jest ukryte”. Wspomniany już Leszek Wierzchowski wiódł w „Satyrze” prym zamieszczając w niej najwięcej utworów. W kwietniu 2005 roku zainicjował konkurs, w ramach którego autorzy proszeni byli o nadsyłanie fraszek, limeryków lub innych utworów na temat samego Wierzchowskiego i jego twórczości.</p>
+        <p xml:id="p-3">Istotna rola wierszy przejawiła się jednak nie tylko w ich częstej i licznej publikacji na łamach „Akantu”; świadczy o tym również kwestia konkursów poetyckich, którą się często w czasopiśmie ogłuszało.</p>
+        <p xml:id="p-4">Redakcja periodyku bardzo chętnie zawiadamiała o organizowanych konkursach, nie tylko tych poetyckich, ale o wszystkich, które dotyczyły literatury. Wprawdzie w początkowych numerach istnienia pisma praktyka ta nie zawsze miała miejsce, ale już od roku 1999 informacje tego typu zaczęły pojawiać się coraz częściej.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

@@ -1,0 +1,14 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Tłumaczą to względami bezpieczeństwa, ale w gruncie rzeczy chodzi o coś innego. O to, że przywiązani do swoich domów i miejsc, choć ze spakowanym bagażem i biletem w dłoni, wcale nie jesteśmy gotowi do dalekiej podróży. To dlatego linie lotnicze każą stawiać się do odprawy nie później niż dwie godziny przed odlotem. Zjawiamy się karnie - z zawiniątkami kanapek, ze śniadaniem w brzuchu, w obłoku domowych zapachów. Klimatyzatory cierpliwie odwirowują tę obcą sobie woń, wtłaczając do środka powietrze eksterytorialne, o uniwersalnej temperaturze i wilgotności.</p>
+        <p xml:id="p-2">Lotnisko wcale nie jest miejscem, z którego odlatują samoloty. A przynajmniej nie tylko. Lotnisko to czyściec podróży, turystyczno-podróżne purgatorium, w którym nasze zabiegane organizmy i spłoszone dusze doznają oczyszczenia, zanim przekroczą próg nieznanego. Gdybyśmy zbyt nagle, bez przygotowania, pojawili się w dalekim miejscu, nowej strefie czasowej, na innym kontynencie - nasze zmysły mogłyby oszaleć. Dopiero wypłukani w sterylnej atmosferze portu lotniczego, poddani monotonii mechanicznych, bezosobowych procedur jesteśmy gotowi na spotkanie z przygodą.</p>
+        <p xml:id="p-3">Czas spędzony na lotnisku to głównie różne fazy oczekiwania, przedzielone biurokratycznymi epizodami. Algorytm pozostaje niezmienny: nuda oczekiwania, szybka procedura, nuda oczekiwania, procedura i znowu nuda oczekiwania. Najpierw w kolejce do kontuaru linii lotniczej, gdzie odbiorą od nas bagaż i wręczą kartę pokładową, później – do odprawy paszportowej, gdzie funkcjonariusz straży granicznej rutynowo spojrzy nam w oczy. Po nudzie zakupów w sklepie wolnocłowym (na każdym lotnisku świata ten sam zestaw luksusowych towarów), czekamy, aż brygada antyterrorystyczna uruchomi swoją elektroniczną bramkę i prześwietli podręczny bagaż. Kilka zdawkowych ruchów wykrywaczem metali i już, chwilowo uwolnieni z oskarżeń o światowy terroryzm, trafiamy do przedsionka przed bramą do samolotu. Tu znowu czekamy. W samolocie długie oczekiwanie na start.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

@@ -1,0 +1,17 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">§ 4. Jeżeli sprzedawca dokonał wymiany, powinien pokryć także związane z tym koszty, jakie poniósł kupujący.</p>
+        <p xml:id="p-2">§ 1. Jeżeli przedmiotem sprzedaży są rzeczy oznaczone tylko co do gatunku, kupujący może żądać dostarczenia zamiast rzeczy wadliwych takiej samej ilości rzeczy wolnych od wad oraz naprawienia szkody wynikłej z opóźnienia.</p>
+        <p xml:id="p-3">§ 2. Jeżeli przedmiotem sprzedaży jest rzecz określona co do tożsamości, a sprzedawcą jest wytwórca tej rzeczy, kupujący może żądać usunięcia wady, wyznaczając w tym celu sprzedawcy odpowiedni termin z zagrożeniem, że po bezskutecznym upływie wyznaczonego terminu od umowy odstąpi. Sprzedawca może odmówić usunięcia wady, gdyby wymagało ono nadmiernych kosztów.</p>
+        <p xml:id="p-4">§ 3. Przepisy powyższe nie wyłączają uprawnienia do odstąpienia od umowy lub do żądania obniżenia ceny.</p>
+        <p xml:id="p-5">§ 1. Jeżeli w umowie sprzedaży zastrzeżono, że dostarczenie rzeczy sprzedanych ma nastąpić częściami, a sprzedawca mimo żądania kupującego nie dostarczył zamiast rzeczy wadliwych takiej samej ilości rzeczy wolnych od wad, kupujący może od umowy odstąpić także co do części rzeczy, które mają być dostarczone później.</p>
+        <p xml:id="p-6">§ 1. Kupujący traci uprawnienia z tytułu rękojmi za wady fizyczne rzeczy, jeżeli nie zawiadomi sprzedawcy o wadzie w ciągu miesiąca od jej wykrycia, a w wypadku gdy zbadanie rzeczy jest w danych stosunkach przyjęte, jeżeli nie zawiadomi sprzedawcy o wadzie w ciągu miesiąca po upływie czasu, w którym przy zachowaniu należnej staranności mógł ją wykryć. Minister Handlu Wewnętrznego może w drodze rozporządzenia ustalić krótsze terminy do zawiadomienia o wadach artykułów żywnościowych.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

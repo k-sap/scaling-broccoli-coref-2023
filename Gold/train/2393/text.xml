@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Zagraj w siódemki Kolejnymi laureatami "Gry w siódemki", urodzinowego konkursu Radia Classic, są Magdalena Łapka i Grzegorz Czarnecki. Oboje mogą poszczycić się aż czterema siódemkami w dacie urodzin. Magda przyszła na świat 7 lipca 1977 r., a Grzegorz 20 dni później, czyli 27 lipca 1977 r. "Gra w siódemki" trwa dalej. Do rozdania jest jeszcze wiele atrakcyjnych nagród, m.in.: telewizory, walkmany, radioodbiorniki, radiobudziki, radiomagnetofony, zestawy Wizji TV a nawet... porady wróżki! Wszystko za siódemki! Konkurs zakończy się w niedzielę. O nowych zadaniach dowiecie się codziennie z Radia Classic lub z "Expressu". Dzisiaj wyjątkowo podajemy zadania na dwa dni (w czwartek gazeta nie ukaże się). Zwycięzcą "Gry w siódemki" zostanie dziś ten, kto ma samochód z największą liczbą siódemek w numerze silnika. Aby wziąć udział w zabawie właściciel pojazdu powinien przesłać kserokopię dowodu rejestracyjnego swego pojazdu do Radia Classic, pod numer tel. 639 26 22. Uwaga: należy dodać imię, nazwisko i numer telefonu kontaktowego</p>
+        <p xml:id="p-2">W czwartek o nagrodę mogą zawalczyć słuchacze Classica i czytelnicy "Expressu", którzy mają jak najwięcej siódemek w adresie zamieszkania. Można brać pod uwagę numer domu, numer mieszkania i kod pocztowy. W tym przypadku zgłoszenie do konkursu będzie wymagać przesłania do Radia Classic kserokopii strony dowodu osobistego z adresem zameldowania (ale dopiero w czwartek, pod numer tel. 639 26 22)</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

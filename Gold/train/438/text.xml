@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Sąsiadem na piętrze był też Franek Ancewicz, czyli Pranas Ancevičius, z którym poprzedniego roku przygotowywaliśmy się do egzaminów u profesora Gutkowskiego. Biedny Gutkowski, rozstrzelany przez Niemców, był chyba psychopatą, bo nie tylko uważał statystykę za królową nauk, ale dręczył studentów, każąc im wypisywać na tablicy matematyczne wzory. Jednak egzamin zdaliśmy i żadnych trudnych przedmiotów nie zostało już aż do dyplomu, więc na czwartym roku prawa oddawaliśmy się nieskończonym rozmowom. O marksizmie i Sowietach, bo Draugas (towarzysz), jak go nazywałem, był sowietologiem zawołanym, ale wobec tamtego ustroju sceptycznym.</p>
+        <p xml:id="p-2">Czwarte piętro domu akademickiego pamiętam jako szczęście. I jeszcze jedno trzeba dodać. Dotychczas nie pojmuję, jak to było możliwe bez udziału jakiejś siły nadprzyrodzonej, która może albo sprawić, że stajemy się niewidzialni i przechodzimy strzeżone bramy, albo zesłać sen na strażników. W każdym razie ta, której imienia nie mam zamiaru wymawiać, dostawała się do mego pokoju i celebrowaliśmy tam w tym maleńkim cubiculum radosne obrzędy dawanej i otrzymywanej rozkoszy. Jedna z najdziwniejszych spraw mego życia, z której tak mało rozumiem, że jest prawie snem.</p>
+        <p xml:id="p-3">Akademicki, Klub Włóczęgów.</p>
+        <p xml:id="p-4">Latem 1981 roku na lotnisku w Warszawie wpadłem w objęcia Włóczęgów nowego pokolenia. Nie pamiętam, czy był tam (pewnie był) ten, który w dawnym wileńskim Klubie znaczył dużo: Kilometr, czyli Wacław Korabiewicz, doktór medycyny i podróżnik po morzach i lądach.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

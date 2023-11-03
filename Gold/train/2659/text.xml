@@ -1,0 +1,28 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Zawody narażone na pracoholizm</p>
+        <p xml:id="p-2">informatycy</p>
+        <p xml:id="p-3">handlowcy</p>
+        <p xml:id="p-4">naukowcy</p>
+        <p xml:id="p-5">prawnicy</p>
+        <p xml:id="p-6">„Mam na imię Jacek. Jestem pracoholikiem”</p>
+        <p xml:id="p-7">Choroba XX wieku</p>
+        <p xml:id="p-8">- Jeszcze do niedawna wracałem z firmy do domu o godzinie 22 - opowiada 30-letni Jacek, pracoholik. - Wracałem i przez następne kilka godzin przyklejałem się do komputera. A wszystko po to, aby być „the best” - najlepszy. Mocna kawa i inne pobudzające napoje były moimi sprzymierzeńcami.</p>
+        <p xml:id="p-9">Jacek pracuje w jednej z pomorskich firm informatycznych. Jest grafikiem komputerowym.</p>
+        <p xml:id="p-10">- Jednym z najlepszych w firmie - mówi. - Zawdzięczam to wyłącznie swojej morderczej pracy.</p>
+        <p xml:id="p-11">Po godzinach</p>
+        <p xml:id="p-12">Zaczęło się niewinnie. Świeżo upieczony grafik, który trafił do prężnej i renomowanej firmy musiał się przecież wykazać.</p>
+        <p xml:id="p-13">- Układ był taki: jest nas kilku, zakład przyjmie dwóch najlepszych - wyjaśnia Jacek. - Wykonywałem więc swoją robotę i nierzadko pracowałem po godzinach nad jakimiś oryginalnymi pomysłami. Robiliśmy grafiki reklamowe, takie cudeńka. Do dzisiaj mnie to fascynuje.</p>
+        <p xml:id="p-14">Jacek odczuwał, że wciąż zbyt mało pracuje. Konkurencja była wymagająca.</p>
+        <p xml:id="p-15">- Żeby utrzymać się dzisiaj na powierzchni nie wolno pokazać słabości - tłumaczy. - Dlatego nie odmawiałem szefowi, kiedy prosił abym został dłużej, czy zajął się czymś, co niekoniecznie należy do moich obowiązków.</p>
+        <p xml:id="p-16">Z nosem przy komputerze</p>
+        <p xml:id="p-17">Dobry grafik komputerowy ma wzięcie. Dlatego coraz częściej w mieszkaniu Jacka odzywał się wieczorem telefon.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

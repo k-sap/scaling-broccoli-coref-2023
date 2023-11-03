@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Kiedy bezkompromisowi rajcy krakowscy odbierali patronat ulicy naprawdę zasłużonemu dla kultury polskiej (a ubocznie zamordowanemu przez gestapo) Ignacemu Fikowi, żeby poświęcić ją Józefowi Mackiewiczowi, uważającemu każdego, kto nosił choćby halabardę w peerelowskim teatrze, napisał książkę albo wykładał na uniwersytecie za komunistycznego pachołka... Czy wtedy środowiska twórcze zająknęły się choćby? Przecież to by było nie en vogue. Wręcz odwrotnie, teraz również ten list otwarty odgrywać ma co najmniej podwójną rolę. Z jednej strony, sprawa jest obiektywna i niewątpliwa. Z drugiej, dziwnym trafem nie była widać tak dotkliwa za rządów Tadeusza Mazowieckiego, Hanny Suchockiej czy nawet nieszczęsnego Buzka. Stała się takową dopiero za Leszka Millera. Ten-ci zaiste jest najbardziej odpowiedzialny za to, że zdemontowane zostały wszystkie elementy państwa opiekuńczego. Zaraz, zaraz. Państwo opiekuńcze? Przecież takie słowa nie padły. A cóż to za ohyda? Jako się już rzekło, wszystko po staremu: i puścić się, i dziewicą pozostać.</p>
+        <p xml:id="p-2">Osobiście zaś rozczuliło mnie najbardziej, że pod oświadczeniem podpisana jest Katedra Etnologii i Antropologii Kulturowej - jak można się domyślić - warszawska. Tak się oto składa, że jest to placówka mająca wyjaśniać między innymi związki zjawisk kulturalnych ze strukturą społeczną i ideologiczną. Dlaczego na przykład mieszkańcy pewnych wysp na Pacyfiku wymieniają muszle czerwone na białe i jakie są tego konsekwencje, z których sami nie zdają sobie sprawy, ale etnolog i owszem. Nagle owym uczonym wydawać się zdaje, że "upadek księgarstwa, biednienie i zamykanie się bibliotek, ubywanie czasopism kulturalnych, znikanie galerii, brak pieniędzy na koncerty..." to wynik rządowych niedopatrzeń. Widać, że i antropologia kultury w Warszawie upada. To prawda, że za moich czasów musiała się Katedra niekiedy liczyć z cenzurą, ale przecież nie taką i nie auto.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

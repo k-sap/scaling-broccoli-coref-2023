@@ -1,0 +1,74 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">sp2: z kawą bardzo dobre</p>
+        <p xml:id="p-2">sp0: nie</p>
+        <p xml:id="p-3">sp3: kawowe</p>
+        <p xml:id="p-4">sp2: kawowe</p>
+        <p xml:id="p-5">sp1: nie lubię kawowych</p>
+        <p xml:id="p-6">sp0: z orzechami</p>
+        <p xml:id="p-7">sp2: no</p>
+        <p xml:id="p-8">sp0: ale ja tutaj</p>
+        <p xml:id="p-9">sp2: ale nie skacz tam koło Ani niech spokojnie sobie zje</p>
+        <p xml:id="p-10">sp0: ale ja tutaj zjeżdżam tak</p>
+        <p xml:id="p-11">sp2: to czekaj ja może tak dosunę tu to sobie usiądziesz z tej strony Ania będzie miała</p>
+        <p xml:id="p-12">sp3: oj</p>
+        <p xml:id="p-13">sp2: o i tak tak se usiądź o</p>
+        <p xml:id="p-14">sp0: ja wolę w rogu</p>
+        <p xml:id="p-15">sp2: babcia se tu siądzie</p>
+        <p xml:id="p-16">sp0: tak łatwiej</p>
+        <p xml:id="p-17">sp1: nie chcesz tego ?</p>
+        <p xml:id="p-18">sp0: by było też</p>
+        <p xml:id="p-19">sp3: chcę</p>
+        <p xml:id="p-20">sp3: już byś mi chciał zjeść</p>
+        <p xml:id="p-21">sp1: uhm</p>
+        <p xml:id="p-22">sp0: jeszcze będzie krokiet</p>
+        <p xml:id="p-23">sp3: Robert piekł Ø ?</p>
+        <p xml:id="p-24">sp1: uhm</p>
+        <p xml:id="p-25">sp1: całą noc</p>
+        <p xml:id="p-26">sp3: a co tam u niego ?</p>
+        <p xml:id="p-27">sp1: no w porządku</p>
+        <p xml:id="p-28">sp0: nigdzie nie odchodźcie jak już zjecie</p>
+        <p xml:id="p-29">sp3: dlaczego ?</p>
+        <p xml:id="p-30">sp0: bo będzie jeszcze krokiet</p>
+        <p xml:id="p-31">sp3: uhm</p>
+        <p xml:id="p-32">sp2: no nie teraz bo by pękli przecież</p>
+        <p xml:id="p-33">sp1: no teraz to nie</p>
+        <p xml:id="p-34">sp2: za chwilę przecież to nie jedno na drugie nie ?</p>
+        <p xml:id="p-35">sp0: no ale jeszcze</p>
+        <p xml:id="p-36">sp2: no</p>
+        <p xml:id="p-37">sp2: to już ty tak lubisz bardzo nie ?</p>
+        <p xml:id="p-38">sp3: no siedzimy przecież</p>
+        <p xml:id="p-39">sp2: ro gościnna jest bardzo</p>
+        <p xml:id="p-40">sp0: ja wolę jak tutaj siedzą</p>
+        <p xml:id="p-41">sp3: a ty piłeś dzisiaj kawę ?</p>
+        <p xml:id="p-42">sp1: nie</p>
+        <p xml:id="p-43">sp3: dziwne</p>
+        <p xml:id="p-44">sp1: uhm</p>
+        <p xml:id="p-45">sp0: o to jest fajne</p>
+        <p xml:id="p-46">sp1: na kaca nie lubię</p>
+        <p xml:id="p-47">sp0: auł !</p>
+        <p xml:id="p-48">sp3: kawy ?</p>
+        <p xml:id="p-49">sp0: nienawidzę diwidi bo mnie cały czas prąd kopie</p>
+        <p xml:id="p-50">sp3: nie możesz tam podchodzić . wyłącz to</p>
+        <p xml:id="p-51">sp1: nie podgłaszaj bo to jest głupie</p>
+        <p xml:id="p-52">sp0: ej nie ściszaj</p>
+        <p xml:id="p-53">sp1: nie podgłaszaj powiedziałem</p>
+        <p xml:id="p-54">sp3: co wy macie dwa piloty ? dajcie mi też</p>
+        <p xml:id="p-55">sp1: powiedziałem nie podgłaszaj ?</p>
+        <p xml:id="p-56">sp0: bo podgłoszę na</p>
+        <p xml:id="p-57">sp3: bo cię zostaw to</p>
+        <p xml:id="p-58">sp1: no</p>
+        <p xml:id="p-59">sp0: bo podgłoszę na sto</p>
+        <p xml:id="p-60">sp3: można tyle ?</p>
+        <p xml:id="p-61">sp0: i uszy mu pękną</p>
+        <p xml:id="p-62">sp1: żeby tobie Ø nie pękły. jeszcze tradycyjnego serniczka ?</p>
+        <p xml:id="p-63">sp3: muszę odpocząć</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

@@ -1,0 +1,51 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">sp1: co będzie</p>
+        <p xml:id="p-2">sp0: będzie taka opcja żebyście mi wcześniej oddali jakoś kasę za za</p>
+        <p xml:id="p-3">sp1: no jak Sosna będzie miała wolną chatę</p>
+        <p xml:id="p-4">sp0: prawdopodobnie za dwa tygodnie</p>
+        <p xml:id="p-5">sp1: chyba tak</p>
+        <p xml:id="p-6">sp2: no mam nadzieję</p>
+        <p xml:id="p-7">sp0: nie nie. ciebie nie zapro. a kto będzie ciasto rozrabiał dziewczyno. ty jesteś tu ekspertem</p>
+        <p xml:id="p-8">sp2: oo ale wtedy musimy je upiec ze zdrowej mąki</p>
+        <p xml:id="p-9">sp0: jakiej Ø</p>
+        <p xml:id="p-10">sp1: znowu nie ma miejsca Sosna</p>
+        <p xml:id="p-11">sp2: a robiłaś je kiedyś</p>
+        <p xml:id="p-12">sp0: Basia robiła</p>
+        <p xml:id="p-13">sp3: tak ?</p>
+        <p xml:id="p-14">sp1: nie nie robiłam. ale bożol robił. ja znam tylko przepis. znam teorię</p>
+        <p xml:id="p-15">sp2: a ile tam tego trzeba nasypać</p>
+        <p xml:id="p-16">sp0: dużo</p>
+        <p xml:id="p-17">sp2: a ile trzeba zjeść</p>
+        <p xml:id="p-18">sp1: kawałek</p>
+        <p xml:id="p-19">sp2: to mój pierwszy raz nie będzie w Holandii aaa</p>
+        <p xml:id="p-20">sp1: znaczy jak to pierwszy raz. nie paliłaś nigdy marihułany</p>
+        <p xml:id="p-21">sp2: nie nie jadłam ciasta</p>
+        <p xml:id="p-22">sp1: a bożesz ty mój już się wystraszyłam</p>
+        <p xml:id="p-23">sp2: no kurwa Baśka nie pamiętasz żadnego razu jak z tobą paliłam a ty Ewuniu co jesteś taka przyciszona zgaszona</p>
+        <p xml:id="p-24">sp3: nie mogę ?</p>
+        <p xml:id="p-25">sp2: nie</p>
+        <p xml:id="p-26">sp3: a świetnie</p>
+        <p xml:id="p-27">sp1: co to jest ep wap olejnik</p>
+        <p xml:id="p-28">sp0: ekonometria przestrzenna i wielowymiarowa analiza przestrzenna</p>
+        <p xml:id="p-29">sp2: co koperku mój. kiedy grzybka mi przyniesiesz</p>
+        <p xml:id="p-30">sp0: no właśnie stara pisałam ci na giegie</p>
+        <p xml:id="p-31">sp2: ja ci odpisałam</p>
+        <p xml:id="p-32">sp0: ty mi odpisałaś. odpisałaś mi. co mi odpisałaś</p>
+        <p xml:id="p-33">sp2: odpisałam ci że z chęcią zaopiekuję się twoim grzybem</p>
+        <p xml:id="p-34">sp0: tak. dzięki</p>
+        <p xml:id="p-35">sp2: tak</p>
+        <p xml:id="p-36">sp0: ale naprawdę</p>
+        <p xml:id="p-37">sp2: no naprawdę</p>
+        <p xml:id="p-38">sp0: jeeezu bo właśnie dzisiaj sobie</p>
+        <p xml:id="p-39">sp1: a dlaczego musisz go oddać</p>
+        <p xml:id="p-40">sp0: no bo. nie na chwile tylko wiesz. żebyś sobie nie pomyślała sobie że na zawsze. no bo ten. ale jak on rośnie. jak pojebany normalnie</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

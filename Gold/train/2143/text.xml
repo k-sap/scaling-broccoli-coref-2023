@@ -1,0 +1,19 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">3. Rób sobie przerwy</p>
+        <p xml:id="p-2">Na początek tego rozdziału wykonasz proste doświadczenie pochodzące z książki Tony'ego Buzana, które uświadomi Ci bardzo ważną rzecz. Pozwoli Ci ono sprawdzić, jak funkcjonuje pamięć w trakcie procesu nauki. Poniżej znajduje się lista przypadkowo dobranych słów. Przeczytaj ją całą, słowo po słowie (każde słowo tylko raz), bez używania jakichkolwiek technik pamięciowych. Przygotuj sobie kartkę do pisania, bo po przeczytaniu słów zapiszesz na niej te, które zapamiętałeś.</p>
+        <p xml:id="p-3">Zapisz teraz na kartce te słowa, które zapamiętałeś.</p>
+        <p xml:id="p-4">Zdecydowana większość ludzi zapamiętuje początek oraz koniec listy słów, zapominając resztę. Jedynymi słowami ze środka zazwyczaj są słowa: co, gdzie, kiedy - gdyż powtarzają się, więc łatwiej je zapamiętać, oraz Leonardo da Vinci, gdyż on nie pasuje do całości (jeśli jakieś inne słowo miało dla Ciebie większe znaczenie lub skojarzyło się z czymś, to również je zapamiętałeś). Główną jednak tendencją jest to, że najwięcej zapamiętujesz tego, co było na początku i na końcu.</p>
+        <p xml:id="p-5">Jest to dla Ciebie bardzo ważna informacja. Biorąc bowiem pod uwagę godzinny proces nauki jakiegoś materiału, najlepiej zapamiętujemy pierwsze i ostatnie 10 minut. Jaki z tego wniosek?</p>
+        <p xml:id="p-6">Częściej robiąc przerwy, zapamiętamy więcej.</p>
+        <p xml:id="p-7">Dzieląc godzinę nauki na dwa etapy półgodzinne, zapamiętamy znacznie więcej, bo lepiej przyswoimy początki i końce obu półgodzinnych etapów.</p>
+        <p xml:id="p-8">Fakt robienia przerw ma ogromny wpływ na proces zapamiętywania. Zwiększa się ilość punktów maksymalnych, czyli momentów, gdy najlepiej zapamiętujesz materiał. Ponadto, robiąc sobie przerwy, dajesz swojemu mózgowi czas na uporządkowanie zapamiętanych informacji na poziomie podświadomym. No i oczywiście odpoczywasz, co sprawia, że wracając do nauki po przerwie, masz na nią więcej energii oraz lepiej przyswajasz nowe informacje.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

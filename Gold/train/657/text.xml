@@ -1,0 +1,16 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Giełdowy tydzień zakończył się dla inwestorów radosnym akcentem. Wzrosły ceny ponad 100 akcji, a WIG i WIG-20, najważniejsze indeksy rynku podstawowego, zgodnie zdrożały o 1,4 proc. To w dużym stopniu zasługa dobrej koniunktury na największych giełdach europejskich.</p>
+        <p xml:id="p-2">Prawdopodobnie wzrost popytu na polskie akcje to w dużej części zasługa dysponujących najgrubszymi portfelami inwestorów zagranicznych. Świadczą o tym znaczące zwyżki dużych banków, ulubieńców zachodniego kapitału. Kurs BRE wzrósł o 5,6 proc., a Banku Handlowego o 4,4 proc. Dobrze wiodło się też akcjom TP SA, których kurs zwyżkował o 3,5 proc.</p>
+        <p xml:id="p-3">Od kilku sesji utrzymuje się bardzo duże zainteresowanie papierami BIG BG. Średnie obroty w czasie ostatnich pięciu sesji wyniosły na tym rynku prawie 21 mln zł. Powtarzające się pogłoski o niedalekiej już próbie przejęcia tego banku przez któregoś z zagranicznych gigantów sprawiły, że popyt na akcje BIG BG znów nie został zaspokojony. Na dogrywce, mimo maksymalnego wzrostu ceny, chciano bezskutecznie kupić akcje o wartości 8,7 mln zł.</p>
+        <p xml:id="p-4">Tajemniczy inwestor, który z taką desperacją skupuje akcje banku, wzmógł aktywność także w pozasesyjnych transakcjach pakietowych, w których udało mu się skupić papiery warte ponad 50 mln zł (12,5 mln akcji kupił po 3,8 zł, a 600 tys. po 4,65-4,70 zł).</p>
+        <p xml:id="p-5">Poza akcjami BIG BG przedmiotem pożądania inwestorów stały się także udziały Jutrzenki. Na dogrywce chciano bez powodzenia kupić aż 476 tys. papierów spółki o wartości ponad 1 mln zł. Cena akcji Jutrzenki wzrosła o 10 proc., a notowania zawieszono.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

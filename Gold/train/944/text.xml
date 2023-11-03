@@ -1,0 +1,16 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Uważamy także, iż niezbędny jest stały monitoring frekwencji potoków pasażerskich realizowanych poprzez komunikację kolejową. Naszym zdaniem monitoring pokaże, iż dokonywana redukcja połączeń jest niezasadna, a wprowadzenie lepszego skomunikowania pociągów poprawi dostępność komunikacyjną. Jednocześnie wnosimy o rozważenie wprowadzenia lekkiego taboru szynowego na liniach charakteryzujących się mniejszym potokiem pasażerskim, by możliwe było zachowanie podstawowego układu komunikacyjnego w regionie.</p>
+        <p xml:id="p-2">Brak efektywnych działań na rzecz poprawy jakości komunikacji kolejowej spowoduje pogłębienie obecnej sytuacji, która przy ciągłej redukcji połączeń, długich czasach przejazdu pociągów, a także niezadowalającym stanie infrastruktury kolejowej, zachęca do powszechnego korzystania z samochodów prywatnych, co w dalszym etapie wpływa na niską skuteczność działań promujących transport zbiorowy i innych form transportu przyjaznych dla środowiska. Umożliwienie odbywania podróży koleją nie tylko wpływa na poziom warunków życia naszej społeczności, ale również decyduje o naszej atrakcyjności i możliwości prowadzenia dalszych inwestycji o charakterze społecznym i gospodarczym.</p>
+        <p xml:id="p-3">W duchu odpowiedzialności za sytuację naszych mieszkańców oraz dalszy rozwój miast i gmin deklarujemy chęć i wolę współdziałania w poszukiwaniu i wprowadzaniu korzystnych rozwiązań przy organizacji przewozów regionalnych PKP.</p>
+        <p xml:id="p-4">Prezydent Miasta Rybnika wystosował także pismo do Prezesa PKP Intercity S.A. oraz Posłów i Senatorów naszego regionu z prośbą o interwencję w sprawie planowanej likwidacji kolejowych połączeń pospiesznych w obrębie miasta Rybnika i Subregionu Zachodniego Województwa Śląskiego. Poniżej treść pisma.</p>
+        <p xml:id="p-5">Rybnik, dnia 24 lipca 2009 r. Szanowny Pan Prezes PKP Intercity S.A. Zakład Centralny Al. Jerozolimskie 54 00 – 024 Warszawa</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

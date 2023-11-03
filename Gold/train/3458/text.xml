@@ -1,0 +1,14 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Budowany od nowa wojskowy wywiad i kontrwywiad cierpią na brak fachowców. Przed komisjami lekarskimi stają kandydaci, wśród których są zarówno żółtodzioby, marzące dopiero o służbie pod wodzą Antoniego Macierewicza, jak i osoby, które służyły jako żołnierze zawodowi lub funkcjonariusze policji, ABW, AW, BOR, CBA, Straży Granicznej, Więziennej i nawet Pożarnej. Okazuje się, że większość nie spełnia kryteriów stanu zdrowia i psychiki, przyjętych w wojskowym wywiadzie i kontrwywiadzie. Aby zapełnić szpiegowskie wakaty, minister Szczygło zaproponował obniżenie kryteriów.</p>
+        <p xml:id="p-2">Po przyjęciu nowego rozporządzenia, którego projekt już przygotowano, w tajnych służbach MON będą mogli służyć fachowcy m.in. o wzroście poniżej 155 cm, z otyłością upośledzającą sprawność ustroju, ze szpecącymi tatuażami, polipami w nosie i przepuklinami, bez jednej gałki ocznej (przy sprawnym drugim oku), nerki, palucha u nogi, małżowiny usznej i nawet obu jąder. Będzie można mieć czynny wrzód żołądka lub dwunastnicy, być daltonistą, chorować na jaskrę, sporadyczną astmę oskrzelową, cukrzycę, padaczkę z rzadkimi napadami, kamicę dróg żółciowych i układu moczowego. Do służby przyjmie się funkcjonariusza ze znacznie zniekształconym prąciem. Nie dyskwalifikuje już zniekształcona czaszka z guzami i wgnieceniami, jednostronna głuchota i nieznaczny oczopląs przy patrzeniu na bok.</p>
+        <p xml:id="p-3">Zmieniając zdrowotne kryteria, MON załata kadrowe braki, a supermanów - Bondów i Klossów - oglądać będziemy tylko na ekranie.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

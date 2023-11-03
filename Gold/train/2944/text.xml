@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">A na drugi dzień przyszli i cały chlew mi czymś śmierdzącym spryskali. Musiałem krowy, cielę, konia do stodoły przeprowadzić. Bo weszło się, to łzy same z oczu ciurkiem się lały. Nawet kury, tyle co koło chlewa się kręciły, a też się popłakały. A pies to myślałem, że się wścieknie. Kichał, wiukał, piana z pyska mu leciała i łasił się do moich nóg, aż nie mogłem się odczepić. Zacznij szczekać, to ci przejdzie, powiedziałem, jakbyś na złodzieja szczekał, no, szczekaj.</p>
+        <p xml:id="p-2">Miałem nawet już szynę na to sklepienie załatwioną, pójść tylko dać w łapę i zajeżdżać wozem. Bo takiej szyny, wiadomo, zwyczajnie nie kupi, trzeba na okazję trafić. A okazja nigdy sama na człowieka nie czeka, tylko człowiek musi na nią. Potrzebne mi były trzy kawałki, po jakie trzy metry. Co się nachodziłem, napytałem, wszystko nadaremno. Aż tu idę raz koło torów i widzę, wymieniają stare szyny na nowe. Zagadnąłem robotników, czy już tamte tak zjechane, że się nie nadają, czy może zmieniają kolej? Nie zmieniają, tylko pospieszny będzie tędy chodził. A co z tymi starymi? Pójdą na szmelc. Tobym kupił taką jedną, bo mi na sklepienie do grobu potrzebna. Pocięłoby się ją na trzy kawałki, jeszcze by zostało. Nic nie wiedzą, trza by iść do naczelnika stacji. Poszedłem do naczelnika, dobry przecież znajomy, i mówię:</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

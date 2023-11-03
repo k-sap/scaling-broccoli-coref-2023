@@ -1,0 +1,18 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Skowronski: Jednocześnie do Polski płynie pszenica, jak wiadomo. Zdarzają się nawet protesty na rozmaitych granicach " jest ich bardzo dużo, nie tylko w Polsce.</p>
+        <p xml:id="p-2">Balazs: Warto w tej sprawie mówić o konkretach. Po pierwsze, w ramach dostępu do rynku Światowej Organizacji Handlu określiliśmy kontyngent pszenicy, która może do Polski wpłynąć. Polega to na tym, że my również mamy możliwość lokowania różnych ważnych produktów na rynkach zewnętrznych. Ten kontyngent jest na poziomie 388 tysięcy ton rocznie. Staramy się, żeby była to przede wszystkim pszenica twarda, a więc ta makaronowa, tzw. durum, której w Polsce się nie produkuje. Natomiast tego wolnego importu na poziomie 1,5 miliona czy 2 milionów ton, który wpłynął do Polski, już w tej chwili nie ma. Nie ma już takiej sytuacji, w której do Polski mogły płynąć dowolne ilości pszenicy.</p>
+        <p xml:id="p-3">Skowronski: Był pan w Brukseli i w Paryżu mniej więcej miesiąc temu. Rozmawiał pan tam na temat rynku wschodniego Polski i na temat wyparcia polskiej produkcji z rynku wschodniego. Czy są jakieś uzgodnienia w tej sprawie?</p>
+        <p xml:id="p-4">Balazs: W tej chwili jest u nas misja z Unii Europejskiej i rozmawiamy na temat ułożenia się w sprawie polskiego rynku i wycofania subwencji do produktów, które ewentualnie miałyby być na tym rynku lokowane.</p>
+        <p xml:id="p-5">Skowronski: Z subwencji ma się wycofać Unia Europejska?</p>
+        <p xml:id="p-6">Balazs: Tak.</p>
+        <p xml:id="p-7">Skowronski: A w jaki sposób namówił pan Unię Europejską, żeby prowadziła niekorzystną dla siebie politykę?</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

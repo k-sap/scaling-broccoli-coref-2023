@@ -1,0 +1,14 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Obraz 1. - Niedawno byłem świadkiem zażartych dyskusji na temat interpretacji przepisów Międzynarodowego Prawa Brydżowego - bezbłędnie zastosowano przypisy komentarza i przeprowadzono szybki panel. Cieszyłem się w duchu, że zdaję egzamin na wyższy stopień sędziowski i nie będę pisał testów wspólnie ze wspomnianymi dyskutantami - pomimo tego, że liczyli po lat 15, obawiam się, że mógłbym wypaść przy nich blado! Gdy ta młodzież dorośnie (i nie wyjedzie) jest szansa na to, że przestaniemy żyć w czasach produkcji legislacyjnych bubli na masową skalę... Młodzież grająca w brydża to nie typy "okularników" czy książkowych moli - to błyskotliwe dzieciaki, bez kompleksów, przebojowe, przede wszystkim znające swoją wartość. Nie straci nikt, kto dołączy do tej grupy, a jest okazja!</p>
+        <p xml:id="p-2">Obraz 2. - Janusz Korwin Mikke oraz Krzysztof Martens potrafią w sposób grzeczny i merytoryczny omawiać rozdanie - pomimo tego, że politycznie reprezentują dwa bieguny. Kultura po prostu stanowi element gry w brydża - lepiej tego nie zestawiać z rządzącą koalicją... Pomimo tego, że trafił pod strzechy, brydż nie stał się przaśny i w jakimś stopniu zawsze będzie grą elit... Brydż wciąż nobilituje.</p>
+        <p xml:id="p-3">Obraz 3. - Brydż jest grą decyzji. Uczy decyzje podejmować - uczy również ponoszenia odpowiedzialności za podjęte działania. Szkoda, że brydżystów nie można zmusić do pracy w urzędach, samorządach - wszędzie, gdzie wciąż często dominuje spychologia, mentalna obstrukcja czy brak elementarnej kultury (nawet po godzinach trudno się podnieść w obecności kobiety, gdy w krew wejdzie nerwowe przywieranie do stołka na pełen etat). Zawsze lepsze zdanie będę miał o polityku, wojewodzie czy szeregowym urzędniku grającym w brydża. Gdy zabraknie innych kryteriów, w ciemno poprę kandydata-brydżystę...</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

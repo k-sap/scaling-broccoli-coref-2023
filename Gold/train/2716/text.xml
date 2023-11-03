@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Jeśli spotkało Cię nieszczęście i masz wypadek drogowy, to lepiej, żebyś siedział w saabie niż w aucie innego producenta. Takie przesłanie płynie z opublikowanych niedawno wyników badań przeprowadzonych przez niezależną organizację ruchu drogowego HLDI (Highway Loss Data Institute) współpracującą z towarzystwami ubezpieczeniowymi w USA. Ostatnie badania tego instytutu objęły samochody wyprodukowane pomiędzy 1998 a 2000 rokiem. Ich celem było dostarczenie firmom ubezpieczeniowym informacji o bezpieczeństwie drogowym zapewnianym przez poszczególne marki.</p>
+        <p xml:id="p-2">Dwa modele saaba: 9-3 kabriolet i 9-5 zostały uznane za jedne z najbezpieczniejszych samochodów na świecie w swoich klasach, a saab 9-3 w wersji 5-drzwiowej odniósł wyraźne zwycięstwo w swoim segmencie. Głównym elementem, który wpłynął na wysoką ocenę szwedzkich pojazdów, jest nowoczesny system aktywnych zagłówków SAHR (Saab Active Head Restraint), wykorzystywany w modelach Saaba.</p>
+        <p xml:id="p-3">Delphi ogłosiło, że wspólnie z jednym z europejskich producentów samochodów prowadzi prace nad pierwszym zastosowaniem swojej technologii kontrolowanej amortyzacji drgań MagneRide w samochodzie produkcji europejskiej. System ten w sposób znaczny poprawi komfort jazdy oraz przyczepności pojazdu na drodze. MagneRide to półaktywny system kontroli zawieszenia, reagujący w czasie rzeczywistym na warunki drogowe w oparciu o dane z czujników monitorujących ruchy karoserii i kół. Ten niedrogi i niezawodny system daje szybkie, miękkie i elastyczne tłumienie drgań, zmniejszając ruchy karoserii i zwiększając kontakt między oponami a drogą na wszelkich typach nawierzchni.</p>
+        <p xml:id="p-4">MagneRide to system zwiększający komfort, osiągi i bezpieczeństwo pojazdu, dzięki większemu poczuciu bezpieczeństwa powodowanemu lepszym panowaniem nad pojazdem, minimalizacji ruchów pojazdu, co powoduje łagodniejszą jazdę i umożliwia wykonywanie bardziej precyzyjnych manewrów; zmniejszeniu pochylania się przodu samochodu podczas hamowania oraz osiadania tyłu w trakcie przyspieszania; poprawie charakterystyki przenoszenia obciążeń, co daje lepsze panowanie nad pojazdem podczas wykonywania nagłych manewrów przy dużej prędkości; oraz cichszej jeździe spowodowanej lepszym izolowaniem od wstrząsów spowodowanych nierównościami drogi.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

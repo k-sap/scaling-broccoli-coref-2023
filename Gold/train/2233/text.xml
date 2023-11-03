@@ -1,0 +1,16 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">1) Cyfry znaczące wyniku (tzn. cyfry, które mają znaczenie praktyczne) powinny być wyrazem odtwarzalności pomiaru, a zatem:</p>
+        <p xml:id="p-2">a) wynik liczbowy analizy powinien zawierać po przecinku wszystkie cyfry, co do których nie ma żadnych wątpliwości i tylko jedną cyfrę, która może stanowić przybliżenie. Jeśli osad zważony został z dokładnością do 0,0001 g i masa jego wynosi np. 1,3420 g, to zapis tej liczby w postaci 1,342 jest błędny, gdyż oznaczałoby to, że osad zważono z dokładnością +/- 0,001 g. Szczególną uwagę należy zwracać na zera, umieszczając je w wyniku tylko wtedy, gdy są cyframi znaczącymi,</p>
+        <p xml:id="p-3">b) ocena, czy końcowe zera są cyframi znaczącymi jest możliwa tylko wówczas, gdy został podany zakres dokładności pomiaru, np. liczba 8200 10 oznacza, że wynik jest zawarty w zakresie 8190 - 8210, a zatem tylko pierwsze zero w podanym wyniku jest cyfrą znaczącą.</p>
+        <p xml:id="p-4">W przypadku liczby mniejszej od jedności zera umieszczone bezpośrednio po przecinku nie są cyframi znaczącymi, np. liczba 0,00024 ma tylko dwie cyfry znaczące.</p>
+        <p xml:id="p-5">2) Wykonując działania arytmetyczne z wynikami liczbowymi pozostawia się jedną cyfrę po ostatniej cyfrze znaczącej w tym celu, aby w późniejszych obliczeniach nie została zniekształcona; np. średnią arytmetyczną trzech liczb 10,04, 10,05, 10,05 należy zapisać jako 10.046, jeżeli liczbą tą będziemy posługiwać się w następnych obliczeniach, w przeciwnym przypadku zaokrąglamy ją do 10,05. Podczas zaokrąglania wyników do cyfry znaczącej, cyfrę następującą po niej należy odrzucić, jeśli jest mniejsza od 5, jeśli równa lub większa od 5 - powiększyć ją o 1.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

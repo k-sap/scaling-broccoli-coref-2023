@@ -1,0 +1,17 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Emil SLU Hehe blog jak blog;p co komu sie podoba;p ale ogólnie jest spoko pozdro</p>
+        <p xml:id="p-2">deN dam 4 bo szczerze to nijaki on jest ale mam nadzieje ze 4 zacheci na rozbudowe</p>
+        <p xml:id="p-3">Kapciuszek CYTAT "Dawno nic nie pisałem mondrego. Bo tak. Nie miałem czasu, a potem weny, a potem czasu, a teraz weny. Więc i dzisiaj nic mądrego nie wyczytacie." ja mam nadzieje że to celowy błąd, a jak nie to pisze się mĄdrego xD</p>
+        <p xml:id="p-4">h3lix w sumie to zapraszam do starszyh notek, te najnowsze sa troche bezplciowe...</p>
+        <p xml:id="p-5">Kapciuszek już się przeraziłam xD</p>
+        <p xml:id="p-6">Blackowa Zastanawiam się co mialo na celu nazwanie Twojego bloga "badziewiem" ... - wzbudzenie litosci co idzie z tym, ze inni będą go chwalić - chyba nic - ... Nie lubię oceniać blogów podchodzących pod pamiętniki, bo traści nie mam jak ocenić (ocena tresci pamietnikow jest raczej nie na miejscu). Gdybys pisal o jakims aktorze, sporcie wtedy moznaby ocenic tresc... Wyglad bloga mi sie nie podoba, monotonia a monotonii nie lubię. Lubię proste blogi na jednej stronie, gdzie wszystko jest w "kupie". Nie muszę wtedy czekać aż druga strona mi się otworzy... W ostatnim poscie piszesz,ze dawno nic "mondrego" nie napisales... i pozniej kazesz nam patrzec na starsze notki..wiec weszlam na pierwsza notkę, a tam... "troszkę mi odwala" Dlatego nie będę komentowac i oceniac tresci bloga... Jako wygląd dam ostatecznie 3, bo pojawiały się zdjęcia...</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

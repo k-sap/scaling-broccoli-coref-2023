@@ -1,0 +1,14 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Zosia odnalazła go po kilku dniach. Wiedziała, że ostro leci, wszyscy wiedzieli, więc do jej uszu też to w końcu doszło. Namawiała, żeby się leczył, prosiła, żeby mieszkał u niej, póki nie znajdzie ośrodka. Wyszło na to, że tym radykalnym powrotem do permanentnego i ostrego grzania wyszantażował jej bliskość. Bolesne odtrucie przed wyjazdem do Głoskowa przechodził jednak u jednego z przyjaciół. Zosia nie pokazywała się tam, on, podłączony do kroplówki, usiłował zapomnieć o heroinie i o niej. Nie chciał zaczynać nowego życia z brzemieniem tego związku i w jakimś samoobronnym odruchu szybko wymazywał ją z serca.</p>
+        <p xml:id="p-2">Ostatniej nocy przed wyjazdem do ośrodka zadzwoniła do niego. Z Maxem była dawna przyjaciółka, a tymczasem Zosia płakała w słuchawkę. Nic konkretnego nie mówiła. W każdym razie w momencie, kiedy chciał wreszcie o niej zapomnieć-ona nagle zaczęła coś czuć. "Byłem zły i nawrzeszczałem na nią". Upiorna to była noc. Ona co chwilę dzwoniła, a on nie chciał odbierać.</p>
+        <p xml:id="p-3">W Głoskowie mówił o Zosi jako o byłej narzeczonej, i tak chciał ją traktować. Kiedy napisała do niego, że jednak kocha - rzucił się na to światełko w tunelu jak wygłodniały. Niczego nie zapomniał, nic nie wymazał. Pisali do siebie co tydzień, co niedzielę rozmawiali przez telefon. Spotykali się na jego przepustkach w mieście. Żyli marzeniami o przyszłości. Teraz, kiedy byli w końcu razem, w wymarzonej podróży, bańka prysła. Rzeczywistość była przygnębiająca.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

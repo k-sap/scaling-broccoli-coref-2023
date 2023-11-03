@@ -1,0 +1,12 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Owady są jedną z najbardziej liczebnych grup zwierząt na Ziemi (co najmniej 5 mln gatunków Ø). Zasiedlają niemal każdy typ środowiska, także najgorętsze i najmroźniejsze miejsca naszej planety; są i takie, które żyją w słonych jeziorach. Wydawałoby się, że w porównaniu z tymi warunkami życie w otwartych wodach oceanu nie powinno być dla nich trudne. Ale tak nie jest. Brytyjski fizjolog S. Maddrell tak oto wyjaśnia przyczyny braku owadów w oceanach. Morza obfitują w ryby. Skorupiaki żyjące w oceanach - dalecy krewni owadów - unikają zjedzenia przez ryby, chowając się w ciągu dnia w ciemnościach głębszych warstw wody. Jednak dla owadów taka strategia jest nieużyteczna. System oddychania, który świetnie służy im na lądzie, sprawia, że stają się łatwym łupem w oceanach. Gęsta sieć rurek, zwanych tchawkami, zakończonych drobniutkimi i licznymi tracheolami, doprowadza tlen atmosferyczny do wnętrza poszczególnych komórek ciała owadów. Ten niezwykle wydajny sposób pozwala owadom latać, ale uzależnił je także od gazowego tlenu. W ciele nurkującego w głębiny owada pęcherzyki powietrza pękałyby i cały system wypełnionych gazem tracheoli natychmiast przestałby działać. Gdyby na wzór niewielkich skorupiaków pozostawały przy powierzchni wody i unikały drapieżników, stając się przezroczyste, pęcherzyki powietrza w ich wnętrzu, odbijając światło, zdradzałyby ich obecność. Próby ucieczki nad powierzchnię wody kończyłyby się w dziobach morskich ptaków.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

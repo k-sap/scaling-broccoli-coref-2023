@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Osiedle jest najbardziej, obok Starówki, wypełnionym zabytkami osiedlem w Toruniu.</p>
+        <p xml:id="p-2">Park Miejski - jeden z najstarszych parków miejskich (założony w 1817) i najstarszy Ø o charakterze publicznym na obszarze Polski. Obejmuje 25 ha (z czego 0, 5 ha to układ wodny), znajdująca się tu niegdyś restauracja Gustava Behrenda (4000 miejsc, muszla koncertowa) uchodziła za największe miejsce wycieczkowe w prowincji zachodniopruskiej. Wśród elementów architektury parkowej znajduje się: odrestaurowana ławka Schillera, upamiętniająca niemieckiego pisarza epoki romantyzmu staw z łabędziami rzadkie założenia parkowe o bogatej florystyce i charakterze parków angielskich elementy małej architektury, rzeźby tor saneczkowy zajezdnia tramwajowa powstała po roku 1891, wielokrotnie rozbudowywana kompleksy koszar (ul. Asnyka, Mickiewicza oraz Sienkiewicza) dawny przytułek dla starców i sierot (Siechenhaus Wilhelm August Stiftung) z r. 1886 (ul. Sienkiewicza) budynek dawnego szpitala obywatelskiego przy ul. Słowackiego budynki mieszkalne (głównie okazałe kamienice czynszowe skupione wzdłuż ul. Mickiewicza) oraz wille zbudowane w technice szachulcowej (m. in. dom w typie tzw. Doppelhaus przy ul. Bydgoskiej 34/36) szachulcowy budynek (ul. Bydgoska 26), w którym od roku 1921 działał pensjonat "Zofijówka" - mieszkali tu m.in. Stanisław Przybyszewski, Stanisław Ignacy Witkiewicz, Juliusz Osterwa gmach Dyrekcji Okręgowej Lasów Państwowych przy ul. Mickiewicza, projektu K. Ulatowskiego siedziby konsulatów innych państw w Toruniu: Ø Konsulatu Generalnego Niemiec i III Rzeszy – przy ul. Bydgoskiej 34/36 oraz Ø jego Wydziału Paszportowego przy Bydgoskiej 60 Konsulat Królestwa Belgii - przy ul. Mickiewicza 20 wielu budowli w stylu modernistycznym</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

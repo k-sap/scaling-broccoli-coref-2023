@@ -1,0 +1,14 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">sp1: na Krupski Młyn. a najlepiej bo Lena ma ząbka takiego ruchomego no i przyleciała do mnie z tą informacją że ząbek jej się rusza ja mówię Lenuś no nie przejmuj się wyrośnie ci drugi tak samo mamusia mówiła no to dobrze no to patrzy u nas na lodówce są trzy cukierki ja mówię a Lena nie zjadłaś o ona nie nie chciałam bo na razie nie chcę a mówiłaś że chcesz już ze trzy dni leżały te cukierki a ja mówię jak ja będę jadła cukierki to mi zęby wylecą a ona zaraz się skapnęła o co chodzi i mówi tak mówię do mamusi. nie to mama kupuje te czekolady mówię że nie chcę a ona kupuje no ale jak już kupiła no to szkoda żeby się zmarnowały na drugi dzień jakoś tam jestem u niej nie i tak zaczęła mówić i tym języczkiem sobie wypycha tego ząbka i mówię pokaż ojejku rzeczywiście ci się bardzo rusza a ona tak spojrzała na mnie a nie martw się urośnie drugi ładniejszy a ona jaki srebrny ? no</p>
+        <p xml:id="p-2">sp0: agentka jest</p>
+        <p xml:id="p-3">sp1: albo kserowałam książkę tą apteka Pana Boga no i kserowałam dla mamy dla Ireny tu Frączkowskiej i dla Maryli i tak układam te kartki a ona tez patrzy i mówi a dla kogo tak tyle ? no i wymieniam tak no dla mojej mamy a może by tak dla mojej babci Gieni ? oni są tacy grubi to by się odchudzili a ja mówię a ja nie wiem czy oni chcą się odchudzić no tak chcą tylko nie wiedzą jak</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

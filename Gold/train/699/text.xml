@@ -1,0 +1,16 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Mieszkańcy ulicy Solnej i Taczanowskiego w Koninie nie mogą już znieść pędzących przez ich osiedle samochodów. Skarżą się nie tylko na hałas i wzmożony ruch, ale przede wszystkim na szybkość, z jaką kierowcy pokonują kilkusetmetrowy odcinek.</p>
+        <p xml:id="p-2">- W zwykłe dni sytuacja jest nie do zniesienia - mówi Wojciech Leśniewski. - Samochody jeżdżą tu jak oszalałe. Kierowcy nie zwracają w ogóle uwagi na pieszych. Tylko patrzeć, kiedy dojdzie do jakiegoś nieszczęśliwego wypadku.</p>
+        <p xml:id="p-3">Jadący z zawrotną prędkością kierowcy często wybierają ulicę Solną, skracając sobie drogę z ul. Kolskiej do Świętojańskiej. Mimo nakazu ograniczenia prędkości w terenie zabudowanym, wąska jezdnia staje się polem do popisu dla piratów drogowych. Zdaniem mieszkańców, najgorzej jest w ciągu tygodnia. Jadący w stronę Żychlina wybierają drogę, którą mogą przejechać w miarę płynnie. I taką właśnie jest Solna. Tuż za rogiem znajduje się Specjalny Ośrodek Szkolno-Wychowawczy, którego wychowankowie często wychodzą na spacery.</p>
+        <p xml:id="p-4">- Staramy się zachować maksimum ostrożności - mówi Magdalena Melecha, zastępca dyrektora SOS-W. - Z dziećmi zawsze chodzą dwie wychowawczynie, które pilnują ich bezpieczeństwa. Zagrożenie jednak cały czas istnieje. W Ośrodku mamy bowiem około 200 dzieci i na wszystkie trzeba uważać.</p>
+        <p xml:id="p-5">Jeden z mieszkańców osiedla przy ul. Solnej zawiadomił policję w sprawie nadmiernej szybkości przejeżdżających samochodów. Jednak Grzegorz Gradowski, naczelnik ruchu drogowego konińskiej policji mówi, że nie dotarły do niego żadne niepokojące sygnały z tej okolicy.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

@@ -1,0 +1,17 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">- Jeśli tak dalej pójdzie - zawołałem serdecznie, podając kucharzowi rękę - to wrócimy do Hanoi spasieni jak wieprze.</p>
+        <p xml:id="p-2">Kucharz Quy podziękował cichym uśmiechem i zadowolony odszedł.</p>
+        <p xml:id="p-3">Czy tego wieczoru czułem się dobrze, czy byłem szczęśliwy? Oczywiście, byłem szczęśliwy, przecież staliśmy u stóp nieokiełznanych gór i czekały nas tam przygody, lecz już sam fakt, że zadawałem sobie takie pytanie, miał swą podejrzaną wymowę. Wiedziałem, że otaczała mnie bezgraniczna życzliwość ludzi, gotowych postawić się na głowie, żeby mi tylko dogodzić, lecz niestety dogodzić tak, jak oni to rozumieli, a nie ja.</p>
+        <p xml:id="p-4">Położyłem się na spoczynek pod szczelną zasłoną moskitiery.</p>
+        <p xml:id="p-5">Tymczasem pod powałą naszego budynku rozlegały się wesołe odgłosy jaszczurek geków, niestrudzonych łowczyń komarów i podobnej hałastry. Namiętnie, wyzywająco, pożądliwie brzmiały ich bojowe cmoknięcia: gek, gek... miotane w świat krótkimi seriami. W półśnie przyjmowałem je jak przyjazne powitania i dochodziła jeszcze do mej świadomości rzecz niewątpliwa, że konszachtów z różnymi gekami nikt mi w tej podróży nie zakłóci.</p>
+        <p xml:id="p-6">Już sen mnie morzył, gdy zauważyłem, że ktoś podkradł się cicho do mego łoża i ostrożnie obmacywał jego brzegi. Uspokoiłem się. Był to śpiewak Tuyen, zaokrąglony młodzian, opiekun mego spania: uważnie, ażeby mnie nie zbudzić, badał, czy moskitiera szczelnie przylegała do pościeli i nie wpuści komarów. Rozrzewniony taką pieczołowitością, zasnąłem na dobre.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

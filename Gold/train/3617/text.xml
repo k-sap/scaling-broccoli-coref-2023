@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Są wyraźnie oznaczone i odgraniczone od wyników naturalnych, w naszym przykładzie: umieszczone w jasnoróżowej ramce nad wynikami naturalnymi ("Merlin", "BookMaster") oraz po prawej stronie ("Ksiegarnia.pwn", "Naukowa", "Ksiegarniapowszechna") itd.).</p>
+        <p xml:id="p-2">Pomimo że znajdują się ponad wynikami naturalnymi, zwykle mają mniejszą od nich skuteczność. Internauci mają świadomość, że są to linki płatne, dlatego bardziej ufają wynikom naturalnym. Powiedzieliśmy sobie, że większość internautów zapoznaje się z pierwszymi trzema wynikami wyszukiwania, trzeba dodać: wyników naturalnych. Także i prawa strona ekranu, po której znajdują się pozostałe linki sponsorowane, jest w Internecie mniej uprzywilejowana od lewej.</p>
+        <p xml:id="p-3">Jednak, co warto podkreślić, pozycja linku sponsorowanego w Google'u również zależy od popularności strony. W dużym uproszczeniu można określić model opłat za reklamę w Googleu jako iloczyn zadeklarowanej przez reklamodawcę ceny za każde kliknięcie reklamy (CPC - od ang. cost per click) oraz jej popularności (CTR - od ang. click through ratio; to wyrażona procentowo ilość osób, które kliknęły na reklamę w stosunku do liczby jej wyświetleń). Reklamodawca płaci więc tylko wtedy, gdy ktoś kliknie na jego reklamę, nie zaś za samo jej wyświetlenie.</p>
+        <p xml:id="p-4">Bardziej szczegółowe informacje na temat opłat za reklamę znajdziesz na stronie AdWords - serwisu sprzedającego linki reklamowe wyświetlane w wynikach wyszukiwarki. Tak też w skrócie nazywa się ten typ reklamy w Googleu: wyświetlanej w formie linków sponsorowanych jako wyniki wyszukiwania.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

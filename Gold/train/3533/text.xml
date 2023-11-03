@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Poprzedni prezydent Alberto Fujimori, pochodzenia japońskiego, przebywa w Japonii, dokąd wręcz uciekł przed gniewem ludu i skąd nie może wyjechać, ponieważ na wniosek władz peruwiańskich jest ścigany przez Interpol. Fujimori, bliżej nieznany inżynier, który wygrał wybory ze światowej sławy pisarzem Mario Vargasem Llosą, był postacią dwuznaczną. Pokonał co prawda lewicowe bandy partyzantów i terrorystów (Świetlisty Szlak), ale uczynił to w sposób bezwzględny, krwawo rozprawiając się z ludnością wszędzie tam, gdzie partyzantka miała wpływy. Wprowadził reformy neoliberalne, które zyskały mu aprobatę (i kredyty) w Waszyngtonie, ale nie zdołał zapewnić sobie poparcia w kraju. Próbował się umocnić, majstrując przy konstytucji, aby zapewnić sobie trzecią kadencję, a gdy przegrał wybory, szef jego bezpieki Vladimiro Montesinos przekupywał deputowanych (15 tys. dol. za przejście do koalicji rządzącej) i w swojej bezgranicznej głupocie i pysze nagrywał to na taśmach wideo, które z czasem obejrzał cały świat. "Nigdzie w Ameryce Łacińskiej demokracja nie została wystawiona na taką próbę jak w Peru" - pisał wówczas "Economist".</p>
+        <p xml:id="p-2">Kiedy Fujimori wylądował w Tokio, a Montesinos (ujęty za granicą) w więzieniu, Peruwiańczycy kolejny raz odzyskali nadzieję. Prezydentem został Alejandro Toledo, polityk centrolewicowy, podobnie jak nieco wcześniej socjalista Ricardo Lagos w Chile, lewicujący pułkownik Chavez w Wenezueli, a później lewicowi prezydenci Brazylii (Luiz Inacio Lula da Silva) i ostatnio Nestor Kirchner w Argentynie. Wybór lewicujących prezydentów w tylu państwach Ameryki Łacińskiej nie mógł być przypadkowy. Kuracja neoliberalna, aplikowana pod nadzorem Międzynarodowego Funduszu Walutowego, Banku Światowego i USA, nie okazała się dobrym lekarstwem na plagi kontynentu: stagnację, korupcję, ogromne różnice majątkowe, słabe społeczeństwo obywatelskie, za to silne wojsko, sfrustrowane, że po upadku komunizmu i powrocie demokracji nie cieszy się względami rządu ani Waszyngtonu.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

@@ -1,0 +1,16 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Potwór z Katowic</p>
+        <p xml:id="p-2">W pierwszej połowie lat 60. Górnym Śląskiem wstrząsnęła sprawa Arnolda B. , mieszkańca Katowic, oskarżonego o zamordowanie kilkunastu prostytutek. Przedstawicielki najstarszego zawodu świata przez prawie trzy lata żyły w ciągłym strachu, gdy ich koleżanki po fachu przepadały bez wieści w niewyjaśnionych okolicznościach. Nikt wówczas nie przypuszczał, że stoi za tym Arnold B., spokojny, bezkonfliktowy pracownik Huty „Baildon”. Dorabiał na „fuchach”. Zakładał instalację elektryczną w budynku Klubu Domu Prasy.</p>
+        <p xml:id="p-3">– Do nikogo się nie wtrącał, ale sympatii raczej nie budził. Był typem ponuraka, wiecznie zamknięty w sobie, małomówny. Takich ludzi jest jednak mnóstwo, toteż na zwyczaje Arnolda nikt uwagi specjalnie nie zwracał – mówi Janusz Wilim z Załęża, emerytowany, hutnik, dobrze pamiętający tamte czasy.</p>
+        <p xml:id="p-4">Arnold mieszkał ze zwłokami zamordowanych prostytutek, preparował zdjętą z nich skórę i żywił się fragmentami ich ciał. – Milicję na trop naprowadzili sąsiedzi. Zaniepokoiły ich... muchy, które jak wynika z relacji, całymi eskadrami obsiadały okna i drzwi mieszkania Arnolda. Gdy do mieszkania wkroczyli funkcjonariusze MO, głównego najemcy w nim nie było. Widok ponoć był przerażający, a fetor nie do zniesienia – mówi prof. Brunon Hołyst z Zakładu Kryminologii Polskiej Akademii Nauk, analityk, autor publikacji na temat najgłośniejszych zbrodni w powojennej Polsce.</p>
+        <p xml:id="p-5">Ciała kobiet w daleko zaawansowanym stadium rozkładu znajdowały się w skrzyni pod oknem i łóżku. W wannie znaleziono zwłoki prostytutki utopione w kwasie solnym. Na kuchence stała patelnia z roztopionym tłuszczem ludzkiego pochodzenia, a na półkach słoiki z fragmentami skóry. Arnoldowi udowodniono sześć zabójstw. Został skazany na karę śmierci. Nie okazał skruchy. – Prawdopodobnie mordował z zemsty, zawodu miłosnego, który go spotkał. Dlatego tak się pastwił. Po prostu potwór – dodaje prof. Hołyst.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

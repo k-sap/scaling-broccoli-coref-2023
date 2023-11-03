@@ -1,0 +1,17 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Szczepimy się przeciw różnym chorobom już ponad 100 lat, a idealnych szczepionek wciąż nie ma. Brakuje przede wszystkim szczepionek tanich i nie wymagających utrzymywania reżimu temperaturowego - czekają na nie wszystkie kraje rozwijające się, niemal cała Afryka i Azja.</p>
+        <p xml:id="p-2">Kusząca jest więc pozornie szalona idea biotechnologiczna, aby substancje wywołujące odporność na różne choroby znajdowały się w jadalnych częściach roślin i żeby nie traciły one swych właściwości immunogennych po przejściu przez przewód pokarmowy. Przy okazji naukowcy zaczęli dokładniej badać mało dotąd znaną drogę nabywania odporności po pobudzeniu przez antygen pewnego typu komórek śluzówki jelita. Odpowiedź tych komórek odgrywa również ważną rolę w przypadkach substancji alergennych znajdujących się w pożywieniu.</p>
+        <p xml:id="p-3">Jeśli okaże się, że substancją wywołującą odpowiedź układu odpornościowego (antygenem) jest białko, to można by je wprowadzić do roślin na drodze transgenizacji, tzn. dołączyć do zestawu genów danej rośliny gen kodujący ten antygen. Gen dałoby się wprowadzić także razem z kolonizującymi roślinę bakteriami lub wirusami.</p>
+        <p xml:id="p-4">Prace nad uzyskaniem "jadalnych" szczepionek prowadzone są od 2 lat w różnych instytutach i firmach biotechnologicznych na całym świecie. Projektuje się na przykład pomidory i banany, zawierające szczepionki przeciw wściekliźnie i - odpowiednio - malarii.</p>
+        <p xml:id="p-5">Uzyskany z roślin preparat antygenu może być też użyty do testów diagnostycznych wykrywających obecność w krwi zakażonego człowieka określonego patogenu: antygen będzie się wiązał z wytworzonymi przez organizm przeciwciałami, co można łatwo i tanio oznaczyć analitycznie.</p>
+        <p xml:id="p-6">Ostatnio badacze japońscy donieśli o wyhodowaniu transgenicznego tytoniu zawierającego antygen wirusowego zapalenia wątroby typu B. Z dziesięciu liści takiego tytoniu można uzyskać ilość antygenu HBV wystarczającą do wykrycia obecności w organizmie wirusa B u ponad pół miliona ludzi.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

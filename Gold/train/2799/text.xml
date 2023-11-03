@@ -1,0 +1,17 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">melulu87 nie mam sily i ochoty na wyklocanie sie...staram sie zyc normalnie juz dzisiaj wrocilam do pracy nie wiem czy to nie za wczesnie czy dam rade...a co do czestych wizyt u ginekologa chodzilam bardzo czesto lecz pamietajcie umiera sie tylko chwile nie przez wieki...i tak bylo z moim malenstwem</p>
+        <p xml:id="p-2">mlodape serdecznie współczuję, mam nadzieję że masz oparcie w narzeczonym...</p>
+        <p xml:id="p-3">Blancaaa takze Ci współczuje...ja straciłam dziecko w 7 mies ciazy, 3 lata sie otrzasałam z tego a jednak dalej czuje bol i zal po stracie dziecka. duzo dały mi wizyty u psychologa teraz czuje sie silniejsza i mogłam wrocic do mojego kochanego zawodu i pomagac innym kobietom. po stracie dziecka nie jestem jeszcze gotowa na 2 Ø chodz mowia ze pustke po dziecku zapełni 2dziecko</p>
+        <p xml:id="p-4">melulu87 Blancaaa ja mam wrecz przeciwnie boli mnie strasznie fakt iz dziecko stracilam ale walcze ze soba walcze z tymi uczuciami i obawami o kolejna ciaze jednakze chcem miec dziecko jak najszybciej pomimo codziennego placzu w samotnosci pomimo bolo i ciwerpienia chcem miec dzieck jak najszybciej</p>
+        <p xml:id="p-5">szalejka Wspolczuje ci bo wiem jaki to bol.sama stracilam dziecko i mialam podobnie jak ty.cierpialam i myslalam ze juz nigdy dziecka nie bede miala.ale jednak mam dzidziusia.i ty napewno tez bedziesz miala Ø.</p>
+        <p xml:id="p-6">Blancaaa jejciu to dobrze ze chcesz dziecko udaj sie ze swoim mezczyzna do psychologa a pozniej do ginekologa i razem zaplanujcie ciaze uda sie zobaczysz. ja to nie chce 2 dziecka i nie wiem czy juz bede chciała bo nie moge przebolec ze tyle czasu je nosiłam pod serduchem a go juz nie ma....</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

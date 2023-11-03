@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Polegała ona na zainstalowaniu aparatu do zdjęć rentgenowskich na ruchomym rusztowaniu, dzięki któremu mógł on się obracać wokół pacjenta emitując bardzo wąską wiązkę promieni X. Po drugiej stronie ciała specjalne detektory wyłapywały prześwietlającą wiązkę. Następnie komputer sumował uzyskane w ten sposób obrazy i tworzył jeden niezwykle dokładny. Zaprezentowane po raz pierwszy na początku lat 70. fotografie, m.in. tkanki mózgowej, wywołały poruszenie w świecie medycyny.</p>
+        <p xml:id="p-2">Co ciekawe, Hounsfield pod koniec lat 60. omal nie porzucił prac nad CT. Eksperymentował bowiem na głowach krów przywiezionych z rzeźni. Fotografie nie wychodziły dobrze, mimo iż teoretycznie obraz powinien być dość ostry. Dopiero jeden z jego współpracowników doszedł do wniosku, że wina leży nie w nowej metodzie, lecz w fotografowanych obiektach. Krowy były bowiem ogłuszane w rzeźni silnym uderzeniem w głowę, co powodowało rozległy krwotok w mózgu i zniszczenie tkanek. Gdy prześwietlono głowy krów z koszernej rzeźni żydowskiej, w której rytualny ubój polega na wykrwawieniu zwierzęcia, zdjęcia mózgu wreszcie miały spodziewaną jakość. W 1972 r. pierwsi pacjenci zostali przebadani za pomocą aparatu CT. W siedem lat później Hounsfield i Cormack dostali Nagrodę Nobla za wynalezienie tomografii komputerowej. Choć początkowo zapotrzebowanie na drogie tomografy (jeden kosztował około miliona dolarów) oceniano dość nisko, szybko zyskiwały popularność. Dziś trudno sobie wyobrazić diagnostykę medyczną, a szczególnie chirurgię mózgu, bez tej techniki. Dzięki niej uzyskuje się bowiem niezwykle precyzyjne, również trójwymiarowe obrazy, co np. pozwala ocenić rozmiary i położenie guzów. Dotyczy to również diagnostyki raków wątroby, trzustki, nerek, chorób serca, guzów i zapaleń żołądka, jelit czy przełyku.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

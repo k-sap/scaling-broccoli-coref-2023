@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Pan minister postanowił nazwać rzecz po imieniu i obiecał przygotować projekt zmiany przepisów. Chwalę pana ministra, ponieważ tak powinna wyglądać walka z korupcją - analiza zjawiska i wydanie nowych przepisów uniemożliwiających łapówkarstwo.</p>
+        <p xml:id="p-2">Wypowiedź Barszcza dlatego mnie zachwyciła, gdyż odbiega dramatycznie od metod zwalczania korupcji uprawianych przez rząd, który sądzi, że za pomocą pokazowych aresztowań uda się zwalczyć tę patologię. Polityczny efekt filmowanych zatrzymań jest rzeczywiście ogromny. Wskaźniki popularności ministra Ziobro przebijają sufit, tłum wyje z zachwytu, bo znowu kogoś prowadzą na powrozie, tymczasem nie likwiduje się źródeł zagrożenia. Żeby było śmieszniej wina aresztowanych w wielu wypadkach wydaje się wątpliwa, w każdym razie ani razu nie została potwierdzona przez sąd. Sam opisywałem dwa przypadki całkowicie bezpodstawnych oskarżeń, gdzie podejrzanym zrujnowano opinię, odebrano godność i pozbawiono źródła utrzymania.</p>
+        <p xml:id="p-3">Takich przypadków jest więcej, o wielu Ø się jeszcze niestety dowiemy. Tłum jednak wyje z zachwytu jak na średniowiecznym rynku - “nareszcie się za nich biorą” i nadal trwają egzekucje bez wyroku.</p>
+        <p xml:id="p-4">Pan minister, który jest obok Grażyny Gęsickiej drugim smakowitym grzybkiem w niestrawnym rządowym barszczu, prawdopodobnie nie zdąży zrealizować swoich zamierzeń ze względu na zbliżające się wybory. Jego wypowiedź utonęła w medialnym wrzasku, bo co to za news, że minister rozumie co rzeczywiście znaczy walka z korupcją i obiecuje ją efektywnie zwalczać. Polacy nie pokochają rozsądnego Barszcza, wolą dramatycznie niekompetentnego Ziobrę, który być może ma kwalifikacje telewizyjnego showmana sprawnie posługującego się gadżetami, ale na pewno nie ministra sprawiedliwości(!) i prokuratora generalnego. W nieodległym czasie wszyscy się o tym przekonają, łącznie z braćmi Kaczyńskimi, którym Ziobro wbije gwoźdź do politycznej trumny.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

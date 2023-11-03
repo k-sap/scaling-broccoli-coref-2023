@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Najsilniejszą drużyną w grupie E wydaje się być wicemistrz Węgier BVSC, który nie grał w pierwszej rundzie, podobnie jak wicemistrzowie Chorwacji, Hiszpanii, Francji, Grecji, Jugosławii i Niemiec. Gwiazdą Vasutasu jest bramkarz Zoltan Szecsi - złoty medalista olimpijski z Sydney 2000 i mistrz świata z Barcelony 2003. Z zespołem, który w swoim kraju uległ tylko mistrzowi Honvedowi Domino Budapeszt, łodzianie chyba nie zdołają nawiązać walki.</p>
+        <p xml:id="p-2">Podobnie może być w meczu z mistrzem Rosji LukOilem Spartakiem Wołgograd. Niedawno w Łodzi gościł wicemistrz tego kraju Szturm Czechow i pokonał naszą reprezentację 16:7. W turnieju pierwszej rundy kwalifikacyjnej w Kreuzlingen Spartak pokonał Galatasaray Stambuł 20:5, AZ&amp;PC Amersfoort 7:3, Crisul Oradea 13:3, Wespo Hanower 10:4 i Kreuzlingen SC 16:1! Trzeba przyznać, że te wyniki robią duże wrażenie.</p>
+        <p xml:id="p-3">Interesująco zapowiada się rewanż ŁSTW z mistrzem Rumunii Rapidem, któremu nasza drużyna uległa w Mariborze w czwartej części dogrywki po złotym golu (6:7). W Budapeszcie łodzianie będą mieli jednak silniejszy skład, a więc liczymy, że tym razem nasz zespół będzie się cieszył po meczu. Przypomnijmy inne wyniki Rapidu z turnieju w Mariborze: z Heybeliadą Stambuł 13:7, z Sabadel 5:9, z Ethnikosem Pireus 11:10 i z Branikiem Maribor 11:8.</p>
+        <p xml:id="p-4">Nie ma co straszyć także trzecią drużyną Francji CN Strasbourg. Ustępuje ona znacznie zespołom z Nicei i Marsylii, nie ma w składzie indywidualności z zagranicy. Na turnieju, którego był organizatorem CN Strasbourg uzyskał wyniki: z FREM Odense 15:5, z Vasasem Budapeszt 5:15, z Salgueiros Porto 14:1, z Mariupolem 5:8 i z Triglavem Kranj 8:7.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

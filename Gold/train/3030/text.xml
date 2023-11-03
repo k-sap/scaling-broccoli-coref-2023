@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Ostatnim uczestnikiem był drugi samuraj. Widzowie byli już nieco zmęczeni i przygotowywali soki trawienne do zwalczenia sushi i sake, które - jak wiedzieli z poprzednich konkursów - panie z ambasady wykładały właśnie na stołach w sąsiedniej sali, lecz uprzejmość nakazywała im wytężyć resztki uwagi i potraktować sprawiedliwie ostatniego uczestnika. Ten, choć swoim milczeniem nie zaskarbił sobie szczególnej sympatii, zaciekawiał jednak strojem i zachowaniem. Opowiadał o tradycjach samurajskich, o kodeksie honorowym, w ramach którego samuraj mógł uniknąć utraty twarzy poprzez seppuku, znane w Europie jako harakiri. Podczas gdy inni zabarwiali swoje wystąpienia dowcipami i wykazywali pewien dystans do opisywanych przez siebie sytuacji - w końcu byliśmy tu i teraz i chodziło o wspólną zabawę - ten zachowywał się, jakby żart był mu obcy, jakby właśnie przez niepotrzebną wesołość mógł utracić twarz. Język jego sugerował dobre oczytanie w dziełach historycznych, a może nawet oryginalnych starych tekstach i nie miał naleciałości języka potocznego. Jasne było, że uczestnik ten nie zdobywał swoich umiejętności na ulicy, w barach karaoke, poprzez lekturę komiksów czy nowoczesnej literatury przedstawiającej salarymanów i office ladies. Przeciwnie, odczuwało się, że miał dla tego rodzaju sytuacji czy produkcji - nie użyłby słowa "twórczość" - lekceważenie, wręcz pogardę. Z literatury wspomniał Yukio Mishimę, który widząc upadek tradycji, popełnił samobójstwo przez seppuku.</p>
+        <p xml:id="p-2">Słuchaczy ogarniał dziwny nastrój. Żartuje czy nie żartuje? Nikt przecież dzisiaj takich tematów nie traktował zbyt poważnie. Oczywiście wiedziano o dawnych wojnach, ale tak jak we Francji pamięć o gilotynie nie zakłóca smakowania zupy cebulowej, tak i tu - wiadomo było, że byli samuraje, którzy wbijali klingi w cudze karki i własne brzuchy, ale dziś pozostała ceremonia herbaty, sushi i sashimi, a stroje ninja są dobre na karnawał.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

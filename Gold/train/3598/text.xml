@@ -1,0 +1,20 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">• wykresy renko,</p>
+        <p xml:id="p-2">• wykresy kagi,</p>
+        <p xml:id="p-3">• technikę ichimoku.</p>
+        <p xml:id="p-4">Konstrukcja wykresów świecowych</p>
+        <p xml:id="p-5">Aby przygotować wykres świecowy, niezbędny jest odpowiedni zestaw danych, obejmujący dla każdej sesji cenę: najwyższą, najniższą, otwarcia oraz zamknięcia. Pusty lub wypełniony prostokąt (część świecy) nazywa się korpusem. Cienkie linie powyżej i poniżej korpusu to cienie. W każdej świecy najwyższą cenę dnia reprezentuje koniec górnego cienia, a najniższą - dolnego. Jeśli cena zamknięcia była wyższa niż cena otwarcia, korpus świecy - rysowany właśnie pomiędzy tymi dwiema cenami - jest biały (niewypełniony). Jeśli zamknięcie nastąpiło poniżej ceny otwarcia, korpus jest czarny (wypełniony). Konstrukcję czarnej i białej świecy (bo tak je nazywamy) pokazałem na rysunku.</p>
+        <p xml:id="p-6">Oczywiście wykresów świecowych nie będziesz rysował sam. Praktycznie każdy współczesny program do analizy technicznej oferuje tego typu wykresy.</p>
+        <p xml:id="p-7">W porównaniu do wykresów słupkowych, znanych z tradycyjnej analizy technicznej, świece mogą wydawać się przyjemniejsze wizualnie i łatwiejsze w interpretacji. Łatwiej zauważyć tu relację ceny zamknięcia i otwarcia z danego dnia. W technice świec japońskich ta relacja odgrywa ważną rolę. Białe świece, gdzie cena zamknięcia była wyższa niż otwarcia, pokazują siłę kupujących. Czarne symbolizują przewagę podaży.</p>
+        <p xml:id="p-8">Teoria fal Elliotta</p>
+        <p xml:id="p-9">Metoda prognozowania, z którą zapoznasz się w tym rozdziale, nosi nazwisko swojego autora - Ralpha Nelsona Elliotta, księgowego, który rozwijał swoją ideę funkcjonowania rynków w latach 30. Uznał on, iż ruchy cen kształtują się według specyficznych wzorów, które dzisiaj nazywamy falami Elliotta. Swoje poglądy na temat zasad rządzących rynkiem opublikował w książce pt. "The Wave Principle" (1938), w serii artykułów w magazynie "Financial World" (1939) oraz w swoim głównym dziele "Nature's Laws - The Secret of the Universe" (1946).</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

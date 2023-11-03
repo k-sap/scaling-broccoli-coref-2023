@@ -1,0 +1,28 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">sp0: trochę adrenaliny działa oczyszczająco</p>
+        <p xml:id="p-2">sp1: na pewno</p>
+        <p xml:id="p-3">sp2: tak my</p>
+        <p xml:id="p-4">sp1: my rozmawiamy ze sobą</p>
+        <p xml:id="p-5">sp0: rozmawiacie wy macie siebie</p>
+        <p xml:id="p-6">sp2: my bardzo kochamy przyrodę</p>
+        <p xml:id="p-7">sp0: wy macie nie niezwykłą</p>
+        <p xml:id="p-8">sp2: tak to jest</p>
+        <p xml:id="p-9">sp0: sytuację</p>
+        <p xml:id="p-10">sp2: to jest to jest zdecydowanie</p>
+        <p xml:id="p-11">sp1: to jest jedyna sytuacja w Polsce</p>
+        <p xml:id="p-12">sp2: zdecydowanie dobry układ my mamy siebie nawzajem i to co wspomniałam to że mówimy o tych pogrzebach cała nasza kultura to jest kultura słowa więc yy tymi słowami radzimy sobie z emocjami omawiamy daną sytuację omawiamy omawiamy po raz kolejny kolejny porządkując własne emocje a ta ucieczka to ucieczka w przyrodę to ucieczka w yy zwierzaki które nam towarzyszą do lasu</p>
+        <p xml:id="p-13">sp0: w trudniejszej sytuacji są mistrzowie ceremonii yyy których partnerzy partnerki yy są z zupełnie innego świata yy różne są rady i yy postawy wobec dzielenia się życiem zawodowym z partnerem niezależnie od tego jaki to jest zawód no ale jednak yy co nieco zawsze przenosi się z pracy do domu yy a nawet chciałoby się czasami poopowiadać czy ten temat jest poruszany na szkoleniu ? sposób radzenia sobie yyy z obciążeniem psychicznym związanym z yyy tym zawodem czy sposób yy rozmowy z rodziną czy czy polecacie yy rozmawianie z partnerem ?</p>
+        <p xml:id="p-14">sp2: coś takiego jak sposób rozmowy z rodziną jak najbardziej tak mistrz ceremonii pogrzebowych musi nauczyć się tego jak ma rozmawiać z rodziną żeby osiągnąć swój cel czyli sporządzić notatki odpowiednie do przygotowania wspomnień o zmarłych</p>
+        <p xml:id="p-15">sp0: ja ja ja miałam na myśli z rodziną własną yy mistrza ceremonii yy</p>
+        <p xml:id="p-16">sp2: ychy</p>
+        <p xml:id="p-17">sp0: jak bo yyy no lekarze też każdy musi sobie sam lekarz odpowiedzieć na pytanie czy yy czy powiem dzisiaj mężowi czy żonie że mi zmarł pacjent na stole ? czy nie mimo że noszę ten ciężar w sobie</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

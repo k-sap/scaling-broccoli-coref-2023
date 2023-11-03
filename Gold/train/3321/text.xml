@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Jednoczenie się artystów pod wspólnym szyldem jest oczywiście patentem dość starym, a od czasu impresjonistów także bardzo popularnym. Na początku XX w., w czasach rywalizacji przeróżnych awangardowych -izmów, łączenie się w grupy stało się wręcz standardem; tylko tak można było manifestować własną twórczą niezależność, wspólnie wystawiać, publikować chmurne programy, walczyć z konserwą. Dziś trudno sobie wyobrazić, jak wyglądałaby choćby historia polskiej sztuki bez takich zjawisk, jak a. r., Komitet Paryski czy Bunt, a po wojnie - bez Grupy Krakowskiej. O ileż uboższe byłoby nasze malarstwo lat 70. bez Wprost, a lat 80. bez Gruppy i Luxusu. Wszędzie i zawsze scenariusz był podobny: wspólna wizja sztuki, ale praca na własny rachunek. Zbiorowe wystawy, ale odrębnie sygnowane dzieła. Jeden solidarny front w kontaktach ze światem, ale bez rezygnowania z własnej indywidualności. I dlatego wcześniej czy później dawni grupowi towarzysze zaczynali nieuchronnie wędrować własną drogą.</p>
+        <p xml:id="p-2">Z czasem tworzenie takich formacji straciło rację bytu. Ciężar lansowania przejęły galerie, a ich szyldy okazały się bardziej atrakcyjne od grupowych manifestów. Twórcy nie muszą się skrzykiwać, wystarczy znaleźć opiekuna, który profesjonalnie lansuje ten, a nie inny rodzaj sztuki. Pomiędzy zawiązaną w 1982 r. Gruppą a młodszymi o 15 lat Ładnymi praktycznie żaden artystyczny kolektyw nie zrobił w Polsce większej kariery. Można powiedzieć, że z punktu widzenia obiegu sztuki Grupa Ładnie stanowiła byt nieco staroświecki, choć, jak się okazało, działający skutecznie.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

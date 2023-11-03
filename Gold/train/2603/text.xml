@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Ile... No właśnie: czego?</p>
+        <p xml:id="p-2">Targi kojarzą się nam z handlowaniem. I tak będzie. Przez cztery dni w Centrum Kultury Zamek od 10 do 18 będzie można kupić książkę swojemu dziecku. Udział zapowiedziało trzydziestu wystawców (niektórzy będą mieli wspólne stoisko), w tym tylko czworo poznańskich: Księgarnia Święty Wojciech, Media Rodzina, Wydawnictwo Opal i Wydawnictwo Biblioteki Publicznej i Centrum Animacji Kultury.</p>
+        <p xml:id="p-3">Targi poznańskie nie poprzestają jedynie na handlowaniu, zapraszają do siebie plastyków, którym organizują wystawy, krytyków i psychologów, którym stwarzają warunki do dyskusji, wreszcie zapraszają dzieci i rodziców, aby brali udział w warsztatach, konkursach, turniejach...</p>
+        <p xml:id="p-4">– Zależy nam na promowaniu czytelnictwa – mówi Olcha Sikorska, komisarz targów. – Zależy nam na szerokiej dyskusji między twórcami a krytykami, szerzej nawet – nauczycielami, bibliotekarzami, księgarzami. Wiele sobie obiecujemy pod dwóch dyskusjach: „Książka dla dzieci i młodzieży – kondycja, mody, tendencje”, którą – jak sądzę z „pazurem" poprowadzi Joanna Olech oraz „Książka źródłem wspomagającym rozwój dziecka”, która ma charakter dwuczęściowy: warsztat poprowadzi Beata Bąblińska, a dyskusję panelową – profesor Irena Obuchowska. Oprócz dyskusji, spotkań z pisarzami (na stoiskach wydawców) zaplanowano otwarcie kilku wystaw i prezentacje instytucji związanych z książką: Biblioteki Raczyńskich, Wojewódzkiej Biblioteki Publicznej w Poznaniu, Muzeum Arkadego Fiedlera z Puszczykowa i Stowarzyszenia APAJTE (Polskie Stowarzyszenie Autorów, Dziennikarzy i Tłumaczy w Europie).</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

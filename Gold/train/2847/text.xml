@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Władysław Jagiełło ponownie zjechał do Nowego Miasta Korczyna już jako król Polski w końcu lipca 1386 roku. Królewska kancelaria wystawiła wówczas kilka dokumentów, co wskazuje na to, że ten pobyt króla w zamku nad Nidą nie miał charakteru rekreacyjnego. Jagiełłę otaczali pierwsi dygnitarze Królestwa, ale nie wiadomo, czy w tych dniach królowa Jadwiga towarzyszyła mężowi. Miesiąc później wystawiono w Korczynie jeden z najważniejszych dokumentów królewskich, bo dotyczący relacji monarchy z poddanymi. Dokument zawiera potwierdzenie dotychczasowych przywilejów, jakimi cieszyli się mieszkańcy Królestwa Polskiego. Akt tej treści wydał Jagiełło już w dniu swego ślubu z Jadwigą, czyli 18 lutego 1386 roku, ale wtedy był tylko królem elektem i nie mógł uwierzytelnić swej woli pieczęcią majestatyczną, co mogło podważać powagę królewskiej decyzji. Nowy rozdział w dziejach nowomiejskiego zamku i samego miasta, a także w życiu mieszczan i mieszkańców okolicznych wiosek rozpoczął się zatem od pierwszych miesięcy panowania Władysława Jagiełły.</p>
+        <p xml:id="p-2">Nowe Miasto Korczyn położone było na terenie województwa sandomierskiego, a ściślej - na zachodnich jego obrzeżach. Być może jeszcze za panowania Kazimierza Wielkiego lub w czasach andegaweńskich korczyński zamek stał się ośrodkiem administracyjnym dla położonych w jego pobliżu królewskich dóbr, czyli - podobnie jak Niepołomice i Proszowice - Nowe Miasto zaczęło funkcjonować jako podrzędztwo korczyńskie lub wiślicko-korczyńskie. Za jego gospodarkę odpowiadał podrzędczy (podrządca) podlegający wielkorządcy krakowskiemu. Osoby piastujące tę bardzo absorbującą funkcję często się zmieniały. W 1390 roku małopolskie dobra królewskie podzielone zostały na wielkorządy krakowskie i sandomierskie, ale podrzędztwo korczyńskie, mimo iż leżało na terenie ziemi sandomierskiej, pozostało częścią wielkorządów krakowskich Ta niekonsekwencja z punktu widzenia podziału administracyjnego podyktowana była niewątpliwie względami praktycznymi, a przede wszystkim niewielką odległością od Wawelu, co przy trybie życia Władysława Jagiełły miało duże znaczenie.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

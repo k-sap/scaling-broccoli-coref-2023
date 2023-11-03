@@ -1,0 +1,14 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Fascynacji kompozytora Janerki jest wiele. Spontaniczność, surowość punk rocka - z jednej strony. A z drugiej - wyrafinowanie, przemyślenie, „smaczki” zespołu „The The” albo wspomnianego Petera Gabriela. Jednak fascynacje te przejawiają się w oryginalnym charakterze jego muzyki. Wcześnie ukształtowanym. Odrębnym. Zredukowanym w zasobie środków kompozytorskich, a jednocześnie intensywnym w warstwie ekspresji i kontrastach brzmieniowych.</p>
+        <p xml:id="p-2">Swój muzyczny talent Janerka objawił po raz pierwszy podczas Festiwalu Piosenki Studenckiej w roku 1978. Chwilę później związał się z zespołem „Klaus Mitffoch”.</p>
+        <p xml:id="p-3">Zespół tworzyli również: Wiesław Mrozik, Krzysztof Pociecha (gitary) i Marek Puchała (perkusja). W roku 1984 ukazała się płyta grupy, zatytułowana po prostu „Klaus Mitffoch” - przez wielu dziennikarzy i fanów do dziś uznawana za numer jeden pośród albumów polskiego rocka. Pierwszy album sygnowany własnym nazwiskiem wydał w roku 1986. To „Historia podwodna” nagrana z Krzysztofem Pociechą (gitary), Januszem Rołtem (perkusja), żoną - Bożeną Janerką (wiolonczela), Wojciechem Konikiewiczem (instr. klawiszowe) i Małgorzatą Ostrowską (śpiew). I znów - wielu znawców przyznaje temu projektowi pierwsze miejsce w kategorii: „najlepszy polski album lat 80.”, a zgromadzone na nim piosenki-już klasyki, takie jak: „Konstytucje”, czy „Ta zabawa nie jest dla dziewczynek” do dziś pozostają w ścisłym koncertowym repertuarze, nie tylko zresztą samego Lecha.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

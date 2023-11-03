@@ -1,0 +1,17 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Kol. Henryk Rospendowski nie miał natomiast żadnych skrupułów. Uważał, że decydować o wykluczeniu Bąka nie tylko można, ale i trzeba. Jego wrogi stosunek do Polski Ludowej i do budowy socjalizmu, do wszelkich przejawów budowania nowego życia w Polsce datuje się od wyzwolenia Polski przez Armię Radziecką. Jeśli kol. Bąk jest odpowiedzialny za swoje czyny - naszym obowiązkiem jest wykluczenie go ze Związku. Jeżeli nie, choroba jego przynosi nieobliczalne szkody dobrej opinii Związku Literatów, a zatem człowieka chorego psychicznie i szkodnika tolerować w Związku nie można.</p>
+        <p xml:id="p-2">Kol. Jan Bykowski przypomniał wiele faktów, mówiących o tym, że Bąk jest faszyzującym antysemitą, zdeklarowanym rasistą, niedemokratą i w żaden sposób nie mieści się w szeregach pisarzy Polski Ludowej.</p>
+        <p xml:id="p-3">Kol. dr Jerzy Koller podkreślił z kolei jego wrogi stosunek do Związku, w którym upatruje Bąk źródło swoich krzywd. Jego rola w pracach Związku jest destrukcyjna, a jego stan psychiczny nie pozwala na jego przynależność organizacyjną.</p>
+        <p xml:id="p-4">Kol. Oleksik uważał natomiast, że kol. Bąk nigdy nie wniósł do pracy w sekcjach twórczych nic pozytywnego, a cała jego działalność przynosiła Związkowi szkody.</p>
+        <p xml:id="p-5">Jednogłośnie przyjęto uchwałę o przedstawieniu Zarządowi Głównemu wniosku o wykluczenie Bąka ze Związku, uzasadniając ją następująco:</p>
+        <p xml:id="p-6">1. Swoimi wystąpieniami, wypowiedziami na zebraniach sekcji twórczych, listami do przedstawicieli Władz Zwierzchnich naszego państwa, do ambasady obcego mocarstwa, stwierdzając, że nie chce przebywać w Polsce Ludowej, prosząc o wyjazd na stałe do jednego z państw zachodnich, dał wyraźny dowód, że jest moralnym emigrantem politycznym.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

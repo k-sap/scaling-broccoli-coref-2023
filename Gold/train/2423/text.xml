@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Za kratami Aresztu Śledczego w Katowicach przebywa Sebastian G., który przez kilkanaście miesięcy znęcał się nad najbliższymi. Domowego tyrana czekał proces za maltretowanie konkubiny. Niespodziewanie wyszło na jaw, że nie tylko bił narzeczoną, ale także regularnie gwałcił trzyletnią córkę.</p>
+        <p xml:id="p-2">— Policjanci z Sekcji Kryminalnej w połowie grudnia zatrzymali 23-letniego katowiczanina pod zarzutem seksualnego wykorzystywania małoletniej córki. Wiemy, iż podejrzany gwałcił dziecko co najmniej od stycznia do czerwca 2000 roku. Sędzia Sądu Rejonowego podjął decyzję o tymczasowym aresztowaniu lubieżnika — relacjonuje podkomisarz Magdalena Szymańska-Mizera, oficer prasowy Komendy Miejskiej Policji w Katowicach.</p>
+        <p xml:id="p-3">Sebastian G. parę razy karany był za pobicia. Pobyt w celi nie wpłynął na zmianę jego postępowania. Młody człowiek lubił spędzać popołudnia przy kieliszku. Ø Znajomi wiedzieli, że gdy wypije parę głębszych, lepiej zejść mu z drogi. Zamroczony wódką potrafił „dla żartu” skopać kogoś do nieprzytomności. — Sebastian to wyrywny gość. Przyłożyć mógł za krzywe spojrzenie albo zupełnie bez powodu — mówili śledczym klienci katowickich barów.</p>
+        <p xml:id="p-4">Nie znajdując żadnego przeciwnika, zwykł agresję wyładowywać w domu. Od dłuższego czasu towarzyszką życia Sebastiana G. była 29-letnia Katarzyna L., która w 1997 roku urodziła córeczkę Sabinę. Sąsiedzi powiedzieli policjantom, że mężczyzna bywał nieobliczalny. Konkubina przywykła do częstych awantur, wyzwisk i poniżania. Bała się tylko sadystycznego bicia. Zazwyczaj Sebastian G. na oczach córki wymierzał ofierze potężne ciosy zaciśniętymi pięściami. Niekiedy jednak torturował ją do tego stopnia, że pomocy musieli udzielać kobiecie lekarze pogotowia ratunkowego. Niedawno konkubent złamał jej rękę. Potem złapał kuchenny nóż i ostrzem ugodził swoją ofiarę w brzuch. Wreszcie na początku grudnia Katarzyna L. z obawy o własne życie postanowiła opuścić mieszkanie. Uciekła do ośrodka pomocy społecznej. Zabrała ze sobą dziecko.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

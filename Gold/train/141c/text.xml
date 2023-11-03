@@ -1,0 +1,12 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Witold Tomczyk, poseł Rzeczypospolitej Polskiej do Parlamentu Europejskiego, zaniepokojony brakiem na pokładach samolotów PLL LOT "Naszego Dziennika", napisał list do ministra skarbu: "Zwracam się do Pana Ministra w imieniu tysięcy katolików, także przynoszących PLL LOT wymierne dochody, którzy bezskutecznie poszukują na pokładzie polskich samolotów katolickiej prasy codziennej, o skuteczną interwencję w powyższej sprawie. Mam nadzieję, że Pan Minister jako praktykujący katolik uczyni wszystko, aby dzieło ewangelizacji szerzone na łamach »Naszego Dziennika« docierało na skrzydłach LOT aż na krańce ziemi".</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

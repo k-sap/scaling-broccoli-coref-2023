@@ -1,0 +1,19 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Spośród wszystkich zamachowców jedynie Nairi Unanjan nie zaprzeczał swojej winie.</p>
+        <p xml:id="p-2">bulwar nafciarzy</p>
+        <p xml:id="p-3">Człowieka, który wkrótce miał zostać prezydentem Azerbejdżanu, spotkałem wczesną jesienią w secesyjnej, odrapanej kamienicy w bakijskim śródmieściu. Dzień był ciepły, lecz pochmurny i ponury, zacinał wiatr.</p>
+        <p xml:id="p-4">“Elczibej”, bo tak mówiono o nim w całym kraju, nosił jeszcze wtedy nazwisko Abulfaz Alijew. Wkrótce jednak zaczął używać przydomka jako oficjalnego nazwiska. Elczibej, pan ambasador.</p>
+        <p xml:id="p-5">Siedzieliśmy wtedy w ciemnym pokoju, on otulony grubym kocem na polowym łóżku, ja na drewnianym niewygodnym taborecie, i paląc rosyjskie papierosy bez filtra, rozmawialiśmy o polityce.</p>
+        <p xml:id="p-6">Było wczesne popołudnie, w pokoju szaro, bo brudne zasłony nie przepuszczały światła. Od rozkręconych na cały regulator piecyków bił żar.</p>
+        <p xml:id="p-7">Wszystko to za przyczyną Elczibeja, który trzeci już tydzień prowadził głodówkę. Nie pamiętam, czy protestował przeciwko przeprowadzaniu w Azerbejdżanie plebiscytu w sprawie zachowania Związku Radzieckiego, czy może domagał się zniesienia obowiązującego w Baku stanu wyjątkowego.</p>
+        <p xml:id="p-8">Nawet na co dzień Elczibej przypominał nawiedzonego mędrca, pustelnika. Wtedy zaś, w marcu 1990 roku, sprawiał wrażenie zupełnie niesamowite. Mroczniało coraz bardziej i tylko gdy zaciągał się papierosem, widziałem w bladym, czerwonym świetle jego błyszczące od gorączki oczy, zapadnięte policzki i szpakowatą brodę. Przypominał mi świętobliwych mężów, których spotyka się w Indiach, pielgrzymów, którzy wyrzekłszy się doczesnego życia, wyruszają w ostatnią wędrówkę, mającą ich zbliżyć do zbawienia.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

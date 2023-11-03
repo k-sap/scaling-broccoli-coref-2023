@@ -1,0 +1,19 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Senat z uznaniem wita słowa Prezydenta Rzeczypospolitej o kontynuowaniu intensywnych działań na rzecz Polonii i Polaków za granicą.</p>
+        <p xml:id="p-2">Nadzieję budzi zapowiedź szybkiego przedstawienia przez Rząd programu działań na tym polu.</p>
+        <p xml:id="p-3">III. Za najważniejsze aspekty polityki Państwa Polskiego wobec Polonii i Polaków za granicą Senat uznaje: zapewnienie Polonii i Polakom za granicą praw mniejszości narodowej w krajach zamieszkania,– rozwijanie nauki języka polskiego i w języku polskim w miejscu zamieszkania Polaków za granicą, ze szczególnym uwzględnieniem krajów, w których przez długie lata nasi Rodacy nie mieli możliwości nauki języka ojczystego i kształcenia się w języku ojczystym, –</p>
+        <p xml:id="p-4">promowanie kultury i nauki polskiej,– rozszerzanie oddziaływania polskiej prasy, radia i telewizji, a także polskojęzycznych, w tym polonijnych, środków przekazu informacji, –</p>
+        <p xml:id="p-5">wspieranie działalności gospodarczej, naukowej i twórczości artystycznej osób polskiego pochodzenia, – pozyskiwanie Polonii i Polaków za granicą do wspierania polskich interesów narodowych,– tworzenie sprzyjającego klimatu społecznego i zaplecza gospodarczego dla realizacji ustawy o repatriacji.</p>
+        <p xml:id="p-6">W działaniach na rzecz uprawnień Polaków za granicą w większym niż dotychczas stopniu należy wykorzystywać prawo międzynarodowe oraz prawo wewnętrzne krajów ich zamieszkania.</p>
+        <p xml:id="p-7">IV. Senat Rzeczypospolitej Polskiej będzie pozyskiwał do działania na rzecz Polonii i Polaków za granicą organizacje samorządowe, fundacje, stowarzyszenia, inne instytucje pozarządowe oraz ludzi dobrej woli w kraju i za granicą.</p>
+        <p xml:id="p-8">Senat z uznaniem wita zapowiedź powołania przy urzędzie Marszałka Senatu Polonijnej Rady Konsultacyjnej, składającej się z przedstawicieli największych organizacji kontynentalnych.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

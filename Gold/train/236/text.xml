@@ -1,0 +1,19 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">33 [Bruksela, przed 16 VIII 1935]</p>
+        <p xml:id="p-2">Moja Marycho najdroższa!</p>
+        <p xml:id="p-3">Bardzo mi było przyjemnie wczoraj w Brugii i wszędzie - jesteście miłe i kochane córczyska. Dojechaliśmy szczęśliwie, choć Jasio nie spał przynajmniej przez pół drogi; od razu zdjął buty do spania - ale spać nie chciał.</p>
+        <p xml:id="p-4">Dzisiaj Marek Eiger wniósł się do mnie, ale ponieważ znam twoje do niego uczucia, ustąpiłem mu własnego apartamentu, a sam przeniosłem się na twoje łóżko, będzie mi się wydawało, że mam 11 lat, kiedy się zbudzę otoczony lalkami i fociami, fociami, fociami. Powiedz cioci, że pieniądze przyszły, tylko nie zdążyłem ich odebrać jeszcze i że jutro rano je wyślę, tak że jutro wieczór albo pojutrze rano będzie je miała. Na razie żyjemy finansami Baby.</p>
+        <p xml:id="p-5">Ściskam cię bardzo mocno, Terenię ucałuj serdecznie, twój kochający J Iwasz[kiewicz]</p>
+        <p xml:id="p-6">[List na papierze listowym Legation de Pologne].</p>
+        <p xml:id="p-7">34 [Bruksela], 16 VIII 1935</p>
+        <p xml:id="p-8">Kochana Moja Marysieńko, przesyłam Ci list od Żanki (zdaje się), który był zamierzony pewnie na twoje imieniny, a przyszedł dopiero dziś rano. Wczoraj dojechaliśmy szczęśliwie i dość prędko, bo nie było na drodze samochodów, położyłem się zaraz do łóżka, najadłszy się aspiryny i napiwszy się herbaty. Mocno się spociłem i dzisiaj czuję się lepiej, chociaż kaszlę potwornie. Jasio spał całą drogę w nogach Zosi i za nic nie chciał usiąść obok niej na siedzeniu. Dzisiaj tutaj śliczna pogoda, a u was czy nie leje? Co robi Jacques i Suzanne? Ucałuj serdecznie ciocię Helę i Teresę małą moją.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

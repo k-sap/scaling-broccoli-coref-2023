@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Średniak zbiedniał</p>
+        <p xml:id="p-2">Hipermarkety odczuwają wyraźnie skutki kłopotów finansowych klientów. Dziś wartość przeciętnych zakupów robionych w hipermarkecie waha się od 80 do 140 zł. W Warszawie jest ona najwyższa, ale już w Łodzi,czy na Śląsku dużo mniejsza. Klienci szczególnie ograniczają zakupy towarów trwałego użytku, dlatego sieci hipermarketów poważnie zastanawiają się, czy nie zrezygnować z modelu "wszystko pod jednym dachem" i nie skoncentrować wyłącznie na artykułach pierwszej potrzeby (żywność, używki, chemia gospodarcza, kosmetyki itd.). Zbyt wiele kosztuje miejsce w hipermarkecie, żeby zajmowały je towary, których ludzie nie chcą kupować.</p>
+        <p xml:id="p-3">Zdaniem Jean-Marca Bromberga, dyrektora centrali zakupów Geant Polska, wśród klientów hipermarketów widać coraz większe rozwarstwienie - gwałtownie rośnie liczba osób kupujących wyłącznie rzeczy najtańsze, a jednocześnie utrzymuje się grupa sięgających po towary z górnej półki - produkty markowe, reklamowane w telewizji, wysokiej jakości. Nie spada popyt na kawę Nescafe, herbatę Liptona, czekoladę Lindt, a jednocześnie w coraz większych ilościach sprzedawane są najtańsze kawy, herbaty, słodycze. Marka przy tym nie gra roli, bo ci klienci należą do grupy tzw. wrażliwych cenowo i programowo kupują tylko to, co w danej chwili kosztuje najmniej.</p>
+        <p xml:id="p-4">- Z myślą o nich tak organizujemy nasze sklepy, żeby towary najtańsze były łatwo dostępne i wyraźnie oznaczone - tłumaczy dyr. Bromberg. Polaryzacja postaw konsumentów podcięła szansę egzystencji wielu firm, głównie polskich, które celowały w średniaka - takiego, który szuka towaru niezłej jakości, ale nie tego z najwyższej półki. Wygląda na to, że średniak zbiedniał i chętniej sięga po towary najtańsze.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

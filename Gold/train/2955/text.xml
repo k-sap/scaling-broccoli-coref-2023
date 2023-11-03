@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">- Zaczynam wątpić, czy go posiadam - z pozorną niedbałością, ale przykrym zagięciem ust odpowiedział.</p>
+        <p xml:id="p-2">- Jakież teraz płótno przygotowujesz pan... - zaczął hrabia.</p>
+        <p xml:id="p-3">I nie dokończył, gdyż zza Różyca i Zygmunta wysunął się w tej chwili młodziutki, dwudziestoletni chłopak, w którym na pierwszy rzut oka można było poznać studenta. Średniego wzrostu i bardzo zgrabny, poruszeniami ciała i grą fizjonomii zdradzał organizację niezmiernie żywą i nerwową. Rysy twarzy miał delikatne i piękne, ale cerę bladawą i zmęczoną; drobny, jasny wąsik zaledwie zaczynał osypywać mu górną wargę, a z wielkich, piwnych oczu, zupełnie do oczu Benedykta Korczyńskiego podobnych, zdawały się sypać iskry i tryskać płomienie. Z żywością i zapałem, które widocznie zwyciężać musiały trochę nieśmiałości i zmieszania, z rękami w tył założonymi i lekkim ukłonem, zwrócił się ku Różycowi.</p>
+        <p xml:id="p-4">- Przepraszam pana - zaczął głosem prawdziwie młodzieńczym i trochę więcej niż wypadało podniesionym - ale tak chciałbym wiedzieć, jakie reformy i urządzenia wprowadzić pan zamierza w swojej Wołowszczyźnie. Słyszałem, że są to dobra bardzo zaniedbane, i jak dowiedziałem się, że pan w nich sam zamieszkałeś, ucieszyłem się nadzwyczajnie. Tak cieszyłem się, doprawdy, że będę miał przyjemność poznać pana, i tak obiecywałem sobie obszernie o tym z panem pomówić... że... że nie mogłem sobie odmówić...</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

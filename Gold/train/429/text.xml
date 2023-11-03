@@ -1,0 +1,20 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Czytamy w Księdze Bóg powołał do istnienia człowieka: mężczyzną i niewiastą stworzył ich Stworzył, to w tym wypadku znaczy obdarował ich wzajemnie sobą.</p>
+        <p xml:id="p-2">Obdarował mężczyznę kobiecością podobnej do niego istoty ludzkiej, uczynił ją dlań "pomocą", a równocześnie jego dał kobiecie.</p>
+        <p xml:id="p-3">Oto człowiek jako mężczyzna czuje się samotny wśród stworzeń, które nie są do niego podobne, staje oto wobec istoty, która jest do niego podobna. Odnajduje w stworzonej przez Boga kobiecie "pomoc" do siebie podobną (por. Rdz 2, 18), a tę "pomoc" trzeba rozumieć w znaczeniu jak najbardziej podstawowym.</p>
+        <p xml:id="p-4">KOBIETA DANA JEST MĘŻCZYŹNIE, AŻEBY MÓGŁ ZROZUMIEĆ SIEBIE, I WZAJEMNIE MĘŻCZYZNA JEST DANY KOBIECIE W TYM SAMYM CELU.</p>
+        <p xml:id="p-5">Człowiekowi nie wystarczają relacje czysto funkcjonalne. Potrzebuje więzi międzyosobowych sięgających głęboko do jego wnętrza, wyrażających całkowicie bezinteresowny dar z siebie.</p>
+        <p xml:id="p-6">Pośród takich więzi fundamentalne znaczenie mają relacje powstające w rodzinie między małżonkami oraz między rodzicami a dziećmi.</p>
+        <p xml:id="p-7">Cała ogromna sieć ludzkich relacji rodzi się i nieustannie odradza dzięki tej więzi, poprzez którą mężczyzna i kobieta uznają, że są dla siebie nawzajem stworzeni i postanawiają połączyć swoje drogi, tworząc jedną wspólnotę życia:</p>
+        <p xml:id="p-8">"Dlatego to mężczyzna opuszcza ojca swego i matkę swoją i łączy się ze swą żoną tak ściśle, że stają się jednym ciałem" (Rdz 2, 24).</p>
+        <p xml:id="p-9">Jednym ciałem! Trudno nie dostrzec całej mocy tego wyrażenia! W rozumieniu biblijnym słowo "ciało" nie oznacza jedynie fizycznej natury człowieka, ale całą jego tożsamość duchową i cielesną. Małżonkowie tworzą nie tylko wspólnotę ciał, ale prawdziwą jedność osób. Jest to jedność tak głęboka, że stają się oni w doczesnej rzeczywistości niejako odblaskiem Boskiego "My" trzech Osób Trójcy Świętej (por. List do Rodzin, 8).</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

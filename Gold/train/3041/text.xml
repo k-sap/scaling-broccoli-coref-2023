@@ -1,0 +1,48 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">MAGDA kładzie się na plecach, patrzy w sufit.</p>
+        <p xml:id="p-2">MAGDA:</p>
+        <p xml:id="p-3">A potem... (patrzy na kota) Trudna miłość. A ja nie chcę trudnej miłości.</p>
+        <p xml:id="p-4">Kot miauczy.</p>
+        <p xml:id="p-5">MAGDA:</p>
+        <p xml:id="p-6">(zerka na niego z uśmiechem)</p>
+        <p xml:id="p-7">To głód, czy współczucie?</p>
+        <p xml:id="p-8">CIĘCIE.</p>
+        <p xml:id="p-9">DOM KORZECKICH. WN. DZIEŃ.</p>
+        <p xml:id="p-10">PIOTR, TOMASZ i ZOFIA przy śniadaniu.</p>
+        <p xml:id="p-11">ZOFIA:</p>
+        <p xml:id="p-12">No, dobrze. Zaprosiłeś tę Kingę. Ale co będzie z...</p>
+        <p xml:id="p-13">TOMASZ:</p>
+        <p xml:id="p-14">Nie wiesz? Ja ci mogę powiedzieć. To, co ze wszystkimi kobietami w jego życiu. Spieprzy sprawę.</p>
+        <p xml:id="p-15">ZOFIA:</p>
+        <p xml:id="p-16">(ostrzegawczo)</p>
+        <p xml:id="p-17">Tomasz!</p>
+        <p xml:id="p-18">PIOTR:</p>
+        <p xml:id="p-19">Pozwól mu się wygadać.</p>
+        <p xml:id="p-20">TOMASZ:</p>
+        <p xml:id="p-21">Nie potrzebuję się wygadać. Tylko nie mogę, cholera, patrzeć, kiedy się snujesz po domu ponury, jak trzeźwy alkoholik.</p>
+        <p xml:id="p-22">ZOFIA:</p>
+        <p xml:id="p-23">Chyba cię poniosło.</p>
+        <p xml:id="p-24">TOMASZ:</p>
+        <p xml:id="p-25">Żałosny widok. Kocha Magdę. Ale wciąga w swoje pokręcone życie inną. Po co?</p>
+        <p xml:id="p-26">PIOTR;</p>
+        <p xml:id="p-27">Jesteś ekspertem od pokręconego życia, co?</p>
+        <p xml:id="p-28">TOMASZ:</p>
+        <p xml:id="p-29">Przeciwnie. Ja spędziłem życie z jedną kobietą.</p>
+        <p xml:id="p-30">PIOTR:</p>
+        <p xml:id="p-31">Gratuluję. Ale wydaje mi się, że to bardziej zasługa mamy, niż Ø twoja.</p>
+        <p xml:id="p-32">ZOFIA:</p>
+        <p xml:id="p-33">Nie wiem, do czego zmierzacie. Ale wolałabym, żebyście przestali.</p>
+        <p xml:id="p-34">TOMASZ:</p>
+        <p xml:id="p-35">(uśmiecha się)</p>
+        <p xml:id="p-36">Kochanie, próbuję tylko uświadomić naszemu synowi, że jest idiotą.</p>
+        <p xml:id="p-37">ZOFIA patrzy na niego zdziwiona. PIOTR jest coraz bardziej wkurzony.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

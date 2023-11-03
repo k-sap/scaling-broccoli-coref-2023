@@ -1,0 +1,20 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Wtem Rafał zdarł konia z okrzykiem przerażenia.</p>
+        <p xml:id="p-2">Spomiędzy gęstych drzew wyszedł stary Cedro i brnął środkiem błotnego szlaku wprost na jeźdźców. Policzki jego były zapadłe, oczy wwaliły się w oczodoły, nie uczernione włosy siwymi kosmykami padały spod kapelusza.</p>
+        <p xml:id="p-3">Ubiór był naprędce, krzywo włożony. Idąc nieprzerwanie starzec przywlókł się do szyi końskiej, do strzemienia, w którym była noga syna. Ujrzał go Krzysztof. Ręka wydelikacona, biała, prześliczna, zgrzybiała ręka zaczęła ślizgać się bezsilnie po ubłoconym puślisku, po zachlastanej cholewie buta.</p>
+        <p xml:id="p-4">Głowa z wysiłkiem dźwignęła się w górę i oczy zalane łzami, oślepłe z rozpaczy, szukały twarzy dziecka. Usta, te usta zawsze uśmiechnięte, usta nigdy nie skażone gminną boleścią, teraz pełne były łkania, szlochu i bezzębnego bełkotu: - Krzysiu, Krzysiu...</p>
+        <p xml:id="p-5">Ramiona wzdrygały się, a ręce trzęsły jak od przypalania białym żelazem.</p>
+        <p xml:id="p-6">- Krzysiu, Krzysiu...</p>
+        <p xml:id="p-7">Stopy plątały się bezładnie, następując jedna na drugą. Widać było, że nie ustoi, że jak badyl złamany od wiatru padnie za chwilę na ziemię. A ręce bezwiednymi ruchami usiłowały ściągnąć syna na drogę, czepiały się jego rękawów, kieszeni...</p>
+        <p xml:id="p-8">- Każę zawołać... parobków... zwiążę cię... zamknę cię... - miamlały usta.</p>
+        <p xml:id="p-9">Krzysztof puścił wodze wolnym, obłąkanym ruchem. Śmiertelna bladość okryła jego twarz.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

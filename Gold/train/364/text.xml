@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Tymczasem z punktu widzenia historii kryptografii przypadek francuskiego kryptoanalityka nie jest niczym niezwykłym. Historia ta jest pełna opowieści o jemu podobnych, którzy, łamiąc szyfr, decydowali o losach setek, tysięcy lub nawet milionów ludzi. Jednak ich osiągnięcia często wychodziły na jaw dopiero po latach, kiedy tajemnice rządowe mogły zostać bezpiecznie ujawnione. Byli więc szarymi eminencjami historii, wpływali na bieg politycznych negocjacji, gry wywiadów czy wreszcie wojen. Wszystko dzięki znakomitemu opanowaniu sztuki "sekretnego pisma" pozwalającej na odkrywanie cudzych tajemnic i zabezpieczanie swoich. Historia kryptografii to opowieść o tych właśnie ludziach. A zatem posłuchajcie...</p>
+        <p xml:id="p-2">1.2. Początek...</p>
+        <p xml:id="p-3">Na początku było pismo. Wykształcone niezależnie w wielu kulturach stanowiło niezbadaną tajemnicę dla tych, którzy nie potrafili czytać. Szybko jednak zrodziła się konieczność ukrycia informacji również przed tymi, którym umiejętność ta nie była obca. Najbardziej oczywistym rozwiązaniem było schowanie tajnej wiadomości przed ludźmi, którzy mogliby ją odczytać. Takie zabiegi wkrótce jednak przestały wystarczać. Wiadomość mogła zostać odnaleziona podczas wnikliwego przeszukania, a wtedy tajne informacje dostałyby się w ręce wroga. A gdyby udało się napisać list działający na zasadzie "drugiego dna"? Z pozoru zawierałby on błahe treści, jednak jeśli adresat wiedziałby, gdzie i jak szukać, mógłby dotrzeć do "mniej niewinnych" informacji. Tak narodziła się steganografia.</p>
+        <p xml:id="p-4">1.2.1. Steganografia</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

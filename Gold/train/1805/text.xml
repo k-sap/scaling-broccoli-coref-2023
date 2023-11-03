@@ -1,0 +1,14 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Kupując bilet z drugiej ręki należy jednak mieć się na baczności. Niektóre linie starają się podobnym spekulacjom zapobiec. W Centralwings posiadacz rezerwacji nie ma prawa zmienić nazwiska pasażera, jeśli linia sprzedała bilet za mniej niż 250 zł. Ryanair każe sobie płacić za zmianę nazwiska aż 130 euro, gdy lecimy z nim tam i z powrotem.</p>
+        <p xml:id="p-2">Z najtańszych biletów korzystają głównie handlarze i osoby naprawdę zapobiegliwe. Teraz np. dobrze jest wiedzieć, w jakim miejscu i z kim spędzimy sylwestra. Część łowców tanich biletów kieruje się nie dla wszystkich zrozumiałą regułą: nieważne gdzie i kiedy lecę, ważne, że za jedno euro. Na takiej zasadzie można za półdarmo zwiedzić pół Europy. Taki styl podróżowania odpowiada młodym ludziom bez zobowiązań, niemal pewnym, że nic nie pokrzyżuje im planowanej z wyprzedzeniem zabawy. Zdecydowana większość podróżnych jest w mniej komfortowej sytuacji; termin wyjazdu zazwyczaj warunkują różne okoliczności - rok szkolny, egzaminy, szybka fucha na zagranicznej budowie itd. Dla turystów przeszkodą bywa szef, który zwleka z zatwierdzeniem urlopowych terminów.</p>
+        <p xml:id="p-3">Ale nawet dzisiaj nie wszystko jest jeszcze stracone. Od 13 lipca z warszawskiego Okęcia do trzech miast w Hiszpanii (Barcelona, Alicante, Malaga) zaczyna latać skandynawska tania linia Norwegian. I musi się promować. W końcu maja w jej systemie rezerwacji były jeszcze dostępne powrotne bilety na lipiec do Barcelony za 100 euro. W tym samym czasie, tyle że z Katowic, Wizzair żądał 936 zł.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

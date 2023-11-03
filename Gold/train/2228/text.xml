@@ -1,0 +1,18 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">"Każda planeta ma swój księżyc". "Nieprawda, bo Merkury nie ma żadnych".</p>
+        <p xml:id="p-2">Kontrprzykładem można obalać wyłącznie twierdzenia ogólne - twierdzące lub przeczące - albo implikacje, czyli twierdzenia postaci, jeśli p, to q.</p>
+        <p xml:id="p-3">"Jeśli coś ma cztery nogi, to jest koniem". "Nieprawda, bo pies ma cztery nogi i nie jest koniem".</p>
+        <p xml:id="p-4">Nie powiedzie się natomiast próba obalenia kontrprzykładem twierdzenia szczegółowego. Niektóre planety mają swoje księżyce; Merkury wprawdzie nie ma, ale nic nie szkodzi - po prostu nie zalicza się do tych niektórych. Z tego względu bezpieczniej jest mówić o niektórych, niźli o wszystkich. "Niektórzy mężowie zdradzają swoje żony". I dowolna liczba dochowujących wierności mężów tego smutnego twierdzenia nie obali. Czy mamy gwarancję, że jest ono prawdziwe? Bynajmniej. Ale żeby je obalić, należałoby stwierdzić wierność każdego z osobna. Powodzenia!</p>
+        <p xml:id="p-5">A: Statystyczny Kowalski wypija 6 litrów alkoholu na rok.</p>
+        <p xml:id="p-6">B: Co ty mówisz, mój sąsiad, też Kowalski, do ust nie weźmie kieliszka wódki.</p>
+        <p xml:id="p-7">B nie wziął pod uwagę, że A wypowiedział tezę w postaci zdania statystycznego. Tak naprawdę mówi ono o średniej statystycznej: dzielimy ilość spożywanego w Polsce alkoholu przez liczbę Polaków. Zakamieniali abstynenci średnią tę zaniżają, zaś notoryczni pijacy - zawyżają. Może nas jednak interesować co innego: ile alkoholu rocznie przeważnie spożywają Polacy. Wówczas stosujemy medianę, czyli najczęściej pojawiającą się w danym zbiorze wartość. Uzyskamy też sąd statystyczny ale innego rodzaju. I oczywiście jednostkowy przypadek go nie obala.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

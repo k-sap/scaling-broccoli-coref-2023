@@ -1,0 +1,19 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">O tym, że kontrola służb specjalnych jest w wielu krajach jedynie postulatem, a kontrolujący często zamieniają się w kontrolowanych, przekonywał m.in. poseł mołdawskiego parlamentu Nicolae Arseni: - Mój telefon jest podsłuchiwany w domu i w pracy. Ostatnio prosiłem zajmującego się tym majora, żeby zmienił taśmę, bo w słuchawce tak trzeszczy, że nie można rozmawiać.</p>
+        <p xml:id="p-2">Również przedstawiciel Rosyjskiej Akademii Nauk Igor Petruchin nie pozostawił złudzeń, w jakim kierunku ewoluują służby specjalne w Rosji. Ostrzegał, że jego kraj przemienia się znowu w państwo policyjne.</p>
+        <p xml:id="p-3">Jak to się robi na Zachodzie</p>
+        <p xml:id="p-4">- Kontrola CIA wcale nie osłabia tych służb, ale je wzmacnia - przekonywał wczoraj były pierwszy szpieg USA William Colby, eks-szef CIA. Jego zdaniem wtedy część odpowiedzialności spada na Kongres i Izbę Reprezentantów, które poprzez kontrolę budżetu mają wgląd w każdą operację CIA. Po operacjach specjalnych, zarządzanych przez prezydenta, CIA musi złożyć raport Kongresowi. Tajne są praktycznie tylko dane wywiadowców.</p>
+        <p xml:id="p-5">Zdaniem szefa CIA jego agenci już nie muszą uczyć się polskiego. Natomiast nadal kontrolowana jest Rosja.</p>
+        <p xml:id="p-6">- W tym państwie robi się fatalne buty dla obywateli, ale nadal konstruuje się świetną broń - powiedział.</p>
+        <p xml:id="p-7">A u nas?</p>
+        <p xml:id="p-8">W Polsce od kilku miesięcy trwają dyskusje nad powołaniem sejmowej komisji ds. służb specjalnych. Doświadczenia węgierskie wskazują, że taka komisja nie jest panaceum. Przykładem jest głosowanie w węgierskiej komisji w sprawie zakładania podsłuchów: gdy podsłuch był korzystny dla rządowej koalicji, komisja orzekała o jego legalności.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

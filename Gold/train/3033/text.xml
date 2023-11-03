@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">mam nadzieję, że tylko mojego. No i tak figlowaliśmy, przeniosłem się na dobre do Warszawy. Pieniądze regularnie wpływają na konto. Mam fajną pracę w sklepie z zabawkami, ale publikuję jeszcze.</p>
+        <p xml:id="p-2">Skoczyłem ze spadochronem. Już podjąłem decyzję, zdałem teorię na prawo jazdy, w przyszłym tygodniu jazda. Ale o tym później, teraz idziemy na kolację, jeszcze wyskoczymy do banku, tu na Marszałkowskiej. Narzeczona lat dwadzieścia sześć, ja lat czterdzieści... Jak to wygląda?</p>
+        <p xml:id="p-3">Jest teraz mnóstwo takich związków, nikt się już nie dziwi. Jedziemy do banku, jestem w tym momencie szczęśliwy, już widzę, jak się mną opiekuje na starość, jak troszczy się o moje rękopisy. Patrzy mi w oczy. Ma na imię Laura. Nie ma lepszego imienia dla żony poety. Ja, ona, grupka wiernych przyjaciół, jeździmy samochodem na krótkie wypady za miasto...</p>
+        <p xml:id="p-4">Wchodzimy, to, co prawda, nie mój bank. Konto mam w Leibnitz. Wchodzimy do tej małej salki, gdzie stoi bankomat. Bank Polski, wsuwam moją kartę. Bankomat to taki konfesjonał kapitalistyczny. Dostajesz bądź nie dostajesz rozgrzeszenia pod postacią pieniędzy. Nieważne, kim jesteś - zredukowany zostajesz do numeru rachunku, numeru banku, klasy karty Maestro, Visa albo coś, ale i tak jesteś plastikową karteczką. No jeszcze PIN - pewnie to skrót od personal information number albo coś jeszcze innego, może to nazwa, która ma ci przywodzić na myśl zapach pinii - nie jest powiedziane, że drzewo poznania dobra i zła było jabłonią. Ja zawsze kojarzę swój pin z jakąś datą, rok przed wojną i data śmierci Stalina - 3853 - prawda, że proste. No i wystukało się, kurczę...</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

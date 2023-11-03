@@ -1,0 +1,19 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">- korzystanie z komputera musi odbywać się pod naszą kontrolą. Dzieci do szóstego roku życia nie powinny przebywać dłużej niż pół godziny przed monitorem. Jeśli są starsze, nie powinno to trwać dłużej niż dwie godziny;</p>
+        <p xml:id="p-2">- kontrola dotyczy także programów w tym gier, jakie dzieci używają, a także dostępu do stron internetowych;</p>
+        <p xml:id="p-3">- sadzając dziecko przed monitorem powinniśmy zawsze pamiętać o odpowiednim ustawieniu komputera.</p>
+        <p xml:id="p-4">Gdzie umieścić monitor</p>
+        <p xml:id="p-5">Środek ekranu powinien znajdować się 10-22 cm poniżej linii wzroku. Nasze oczy pracują najlepiej, gdy patrzą nieznacznie w dół.</p>
+        <p xml:id="p-6">Jeśli ekran stoi wyżej lub niżej, wymusza wtedy nienaturalną pozycję ciała, która objawia się bólem szyi, pleców lub ramion. Ponadto, ekran komputera i materiały, z którymi pracuje nasze dziecko powinny być umieszczone na wprost, tak by nie musiało spoglądać na boki, skręcać tułowia lub szyi, żeby na nie patrzeć.</p>
+        <p xml:id="p-7">Jeśli ekran nie stoi dokładnie przed użytkownikiem, może spowodować wady postawy. Stałe spoglądanie w bok na ekran powoduje bóle szyi, pleców lub ramion. Na cokolwiek patrzysz przez większość czasu, powinno to być umieszczone prosto przed tobą - bez względu na to, czy jest to ekran komputera, czy inne materiały, z którymi pracujesz. Jeśli używasz często telefonu, postaw go tak, byś miał go w zasięgu ręki.</p>
+        <p xml:id="p-8">Odbicia z ekranu komputera zmniejszają kontrast i utrudniają patrzenie na ekran. Odbicia te są szczególnie uciążliwe, jeśli mamy ciemne tło na ekranie.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

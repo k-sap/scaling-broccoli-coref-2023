@@ -1,0 +1,18 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">W Kazachstanie aborcji dokonuje się nawet w szóstym miesiącu ciąży. Dużo czasu Agnieszka poświęca tematowi świadomości prenatalnej na katechezie dla młodzieży.</p>
+        <p xml:id="p-2">Uwielbia „rebionki”. W pierwszej klasie podczas katechezy, kiedy opowiadała o 12 apostołach, nagle mały, rudy Wićka, zawsze czerwony na buzi i zdyszany, wstał i wykrzyknął: nas też jest dwunastu, tak jak na liście obecności w dzienniku u Pana Jezusa.</p>
+        <p xml:id="p-3">Szczególnie utkwiły jej w pamięci rekolekcje w miejscowości Tonkaszurowka, dla 112 polskich i rosyjskich dzieci z rejonu Cergiejewskij. Był to obóz przygotowawczy do Pierwszej Komunii Św. Poprosiła by dzieci narysowały na kartce papieru, co się stało w ich duszach po przyjęciu pierwszej komunii świętej. 9-letnia Lena Gorelik, z pochodzenia Żydówka, narysowała na całą kartkę Pana Jezusa, który niesie właśnie ją, taką malusieńką schowaną w dłoniach. „Bóg prowadzi tęczową drogą dzieci do nieba” - tak narysowała 11-letnia Lida.</p>
+        <p xml:id="p-4">O Bogu po kazachsku</p>
+        <p xml:id="p-5">Na wioski jeździ służbowym sowieckim Jeepem oznaczonym symbolem Chrystusa. Auto jest białe, a Chrystus jest wymalowany na czerwono na masce samochodu i drzwiach. Dzięki znakowi parkuje za darmo, zdarza się, że policja podaruje mandat.</p>
+        <p xml:id="p-6">- Kiedyś na stacji benzynowej podczas tankowania podchodzi do mnie Kazach i pyta: jaka to reklama na samochodzie? Na jego aucie był znaczek Coca-Coli.</p>
+        <p xml:id="p-7">Agnes wie, iż może tak być, że z Kazachstanu wyjadą wszyscy Niemcy, uciekną Rosjanie, zostanie trochę Polaków i cały naród Kazachski. I trzeba będzie Kazachom opowiedzieć o Panu Bogu w języku kazachskim. Dlatego uważnie nasłuchuje: „szajtate” życzy jej gospodyni, u której wynajmuje mieszkanie, częstując herbatą. Wie, że pije tzw. szaisah, bardzo aromatyczny i mocny napar. „Selemetsembe”, kłania się sąsiadom na dzień dobry. To trudny język z grupy turecko-arabskiej.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

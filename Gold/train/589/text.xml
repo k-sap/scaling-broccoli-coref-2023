@@ -1,0 +1,17 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">W Gdańsku na temat fuzji firm taksówkarskich panuje milczenie. Nieoficjalnie ustaliliśmy, że rozważane są takie projekty.</p>
+        <p xml:id="p-2">- Ceny za przewóz są w całym mieście takie same. Kilometr kosztuje 1,60 zł, a tzw. opłata za zamknięcie drzwi to 5 zł. Firmy prześcigają się w stosowaniu rabatów - np. na kartę stałego klienta. Ale po co konkurować, skoro można się połączyć i zarabiać takie same pieniądze? Prowadzono rozmowy, ale na razie nic nie wyszło. Rozważano początkową obniżkę cen, by przyciągnąć klientów. Trochę obawiano się ingerencji Urzędu Ochrony Konkurencji i Konsumentów - usłyszeliśmy od wiceprezesa jednej z firm taksówkarskich.</p>
+        <p xml:id="p-3">- Nie chciałbym się wypowiadać oficjalnie na ten temat - przyznał Krzysztof Zimny, wiceprezes Hallo Taxi. - Od dwóch czy trzech lat istnieją jednak w Gdańsku przymiarki do łączenia się firm taksówkarskich. Nie obawiamy się gdyńskiej fuzji, bo tamtejsi taksówkarze nie mogą korzystać z gdańskich postojów. Nie ma odpowiedniego porozumienia między gminami.</p>
+        <p xml:id="p-4">Jerzy Szajnowicz, prezes Zrzeszenia Transportu Prywatnego w Gdańsku, twierdzi, że o ewentualnych fuzjach w Gdańsku nic nie słyszał. - To sprawa Gdyni. Pewnie przemawiają za tym względy ekonomiczne - powiedział krótko.</p>
+        <p xml:id="p-5">W Sopockim Zrzeszeniu Transportowym poinformowano nas, że w mieście nie planuje się połączeń.</p>
+        <p xml:id="p-6">- Moim zdaniem, fuzje są rozsądne, bo eliminują niezdrową konkurencję. Gdyńskie firmy nie powinny nam zagrozić, choć zdarza się, że tamtejsi taksówkarze jeżdżą u nas na dziko - dodaje Andrzej Procelli, wiceprezes Hallo Radio Taxi.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

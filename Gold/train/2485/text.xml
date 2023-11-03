@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Sejmowa komisja śledcza w sprawie wyjaśnienia okoliczności śmierci Barbary Blidy jest bliższa dotarcia do prawdy niż prokuratorzy. Pierwsze po wakacjach posiedzenie Ø zapowiadane jest na przyszły tydzień. Tymczasem śledztwo w Prokuraturze Okręgowej w Łodzi będzie opóźnione, bo prowadzący je do tej pory Aleksander Dębski właśnie odszedł z pracy. Poprowadzi je teraz prok. Tomasz Walczak.</p>
+        <p xml:id="p-2">- Tajne materiały śledcze, z którymi do tej pory się zapoznałem i to, co zeznali przesłuchiwani przez nas świadkowie wskazują, że śląscy prokuratorzy prowadzący śledztwo w sprawie mafii węglowej wyszukiwali w niej na siłę wątki polityczne. Czy robili to na zlecenie przełożonych? Dotrzeć do prawdy będzie ciężko. Musimy przełamać zmowę milczenia prokuratorów i funkcjonariuszy, którzy nadal są czynni w swoich zawodach - mówi poseł PO Tomasz Tomczykiewicz, zastępca przewodniczącego komisji.</p>
+        <p xml:id="p-3">W materiałach katowickich śledztw węglowych przewijają się nazwiska polityków, szefów związków zawodowych, a nawet kościelnych hierarchów. Główny świadek to bizneswoman Barbara K. Jej wiarygodność stoi pod dużym znakiem zapytania. Sprawdzianem będzie toczący się od kilku tygodni pierwszy proces, w którym oskarżenie zbudowano m.in. na jej zeznaniach. Na ławie oskarżonych zasiadł Henryk D., były poseł AWS.</p>
+        <p xml:id="p-4">D. rzekomo miał pośredniczyć w przekazaniu 100 tys. dolarów łapówki dla Jacka Dębskiego, byłego ministra sportu, zamordowanego w 2001 roku, na zlecenie mafii. Pieniądze miała mu dać Kmiecik, a w zamian jej zięć miał zostać doradcą ministra. Były poseł nie przyznał się do winy.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

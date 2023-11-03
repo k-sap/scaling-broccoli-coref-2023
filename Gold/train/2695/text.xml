@@ -1,0 +1,17 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Piłkarze z Krośniewic rozgromili w ostatnim meczu aż 7:0 Kanarki Małachowice. Jedynie lepszą różnicą bramek Krośniewice wyprzedzają Basztę Uniejów i kutnowskich Czarnych. Jednak kutnianie rozegrali o jeden mecz mniej.</p>
+        <p xml:id="p-2">Tuż za prowadzącą trójką jest Malina Piątek - 15 punktów, Bzura Młogoszyn - 15, a szóste miejsce z dorobkiem 14 punktów zajmuje łódzki Orzeł. Następne drużyny mają już dużą stratę punktową do prowadzącej szóstki.</p>
+        <p xml:id="p-3">Kutnowscy Czarni po ciężkim meczu walki wywalczyli trzy punkty w Piątku. W roli głównej wystąpił niezawodny Artur Motylewski, który strzelił dwie z czterech zdobytych przez kutnian bramek. Szczególnie efektowny był gol z rzutu wolnego. Doskonale mierzona piłka trafiła w samo okienko bramki Maliny.</p>
+        <p xml:id="p-4">Jedną z bramek strzelił w tym meczu Radek Saganiak. Gola zdobył także Marcin Darmaszek, do niedawna jeszcze junior. W najbliższą sobotę kutnianie na własnym boisku zagrają z Victorią Rąbień i będą zdecydowanym faworytem tego spotkania, choć nie powinni lekceważyć piłkarzy z Rąbienia, którzy w ostatniej kolejce zremisowali z faworyzowaną Bzurą Młogoszyn.</p>
+        <p xml:id="p-5">Piłkarze z Młogoszyna w meczu z Rąbieniem nie zachwycili. Rozegrali bardzo przeciętny mecz zakończony remisem 1:1. W dalszym ciągu najpoważniejszym problemem Bzury jest brak zmienników, nie można przecież na dobrym poziomie grać tylko jedenastką zawodników.</p>
+        <p xml:id="p-6">Taka sytuacja nie wróży nic dobrego dla piłkarzy z gminy Krzyżanów, zwłaszcza że Bzura już w niedzielę zagra na boisku w Mieczysławowie z Krośniewianką, która odzyskała formę strzelecką - siedem goli w meczu z Kanarkami Małachowice może budzić respekt.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

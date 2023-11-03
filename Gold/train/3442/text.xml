@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">"Czekam na ekspertyzę i ponowne przyznanie kategorii, gdyż przed rokiem zostałem odroczony z powodu choroby. Jestem uczniem Wieczorowego Technikum Gastronomicznego. Do ukończenia szkoły pozostał mi rok. Zależałoby mi na tym, gdyż po maturze mógłbym dalej się uczyć. Gdybym miał możliwość wyboru służby wojskowej, to najbardziej odpowiadałaby mi służba graniczna."</p>
+        <p xml:id="p-2">Nieoczekiwanie wśród poborowych zauważyłem również dziewczyny. Okazuje się, że tak bywa od lat. Są to pielęgniarki, które po ukończeniu szkoły też muszą się poddać wojskowym procedurom. Jak każdy, otrzymują książeczkę wojskową, oczywiście z kategorią A. W tym roku do poboru stanęły tylko cztery dziewczyny, z dwoma udało mi się krótko porozmawiać.</p>
+        <p xml:id="p-3">"Nasze wcielenie do wojska jest wymagane na wypadek niepokojów - mówi Karolina Nagięć z Kobylej Góry. Bardziej chodzi tu o kwestie medyczne niż o udział w walkach. Każda pielęgniarka kończąca szkołę jest wzywana na pobór. My skończyłyśmy Medyczne Studium Zawodowe w Ostrowie Wlkp., a teraz odbywamy staż w szpitalu w Ostrzeszowie."</p>
+        <p xml:id="p-4">"Zawsze chciałam pracować z ludźmi, być wśród nich i wydaje mi się, że ten zawód jest dla mnie spełnieniem - włącza się do rozmowy Amelia Żuberek z miejscowości Dębicze. Zawód jest trudny i finansowo niewdzięczny, ale wybierając go wiedziałam, że pieniądze nie grają tu głównej roli, tylko potrzeba niesienia pomocy w cierpieniu. Gdyby zaszła konieczność, to pójdziemy do wojska, przyznam, że bardzo chciałabym tam pracować."</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

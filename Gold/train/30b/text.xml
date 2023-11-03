@@ -1,0 +1,12 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">"I sekretarz KM PZPR w Lublińcu oddawał się nałogowi i dopuścił do tego, że z Komitetu Partii chciał zrobić gospodę" - listopad 1950 r.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

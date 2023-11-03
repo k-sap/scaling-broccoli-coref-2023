@@ -1,0 +1,17 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Księżyc wyskoczył znienacka na niebo, zalewając okolicę upiornym srebrnym światłem. Zrobiło się paskudnie romantycznie, Lucynda z umazanym gliną ryjem radośnie buszowała po zaroślach, rozkoszując się smakiem świeżych dżdżownic. Dżdżownice fosforyzowały zielonkawym światłem i łatwo było je znaleźć w świeżo skopanej ziemi. Zielony poblask pochodził od rozrzuconych przez niefrasobliwego rosyjskiego alchemika uranowych kuleczek, lecz o tym nie wiedziały ani dżdżownice, ani Lucynda. Po kilkunastu minutach jej ciało otoczyło się również mglistą zielonkawą poświatą. Czuła się lekko i radośnie, w przypływie euforii chciała zrzucić ubranie i hasać beztrosko po zaroszonej trawie. Zreflektowała się jednak, że jest świnią i nie ma co z siebie zrzucać, co napełniło jej wielkie, świńskie serce smutkiem. Wróciła do śpiących kotów i trąciła lekko Paskudę. Ten otworzył oczy i poderwał się przerażony na równe nogi, budząc przy okazji Czarnucha.</p>
+        <p xml:id="p-2">– Aleś mnie przestraszyła! Gdzieś się tak uświniła? – wydusił z siebie Paskuda.</p>
+        <p xml:id="p-3">– No właśnie! – chlipnęła rzewnie Lucynda – wy też widzicie we mnie tylko świnię, a ja bym chciała być... chciała być... chciała być...</p>
+        <p xml:id="p-4">– ...kotem? - podpowiedział Czarnuch</p>
+        <p xml:id="p-5">– Królewną!! – pisnęła Lucynda – piękną królewną w zwiewnej sukience, biegającą w świetle księżyca po zaroszonej trawie!</p>
+        <p xml:id="p-6">– Masz ci los – jęknął Paskuda – zwariowała nam świnia. W dodatku świeci na zielono. Czy ty w ogóle wiesz dlaczego wyruszyliśmy na tą wyprawę?</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

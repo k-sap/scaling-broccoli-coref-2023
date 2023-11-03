@@ -1,0 +1,18 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Na konferencję zaproszono gimnazjalistów i uczniów szkół ponadgimnazjalnych z Goleniowa - przyszło około 200 osób. Młodzież wysłuchała trzech referatów ilustrowanych filmami:</p>
+        <p xml:id="p-2">* "Nikotynizm jako podstawowa przyczyna raka" - Renata Opiela, kier. Oddz. Nadzoru Sanitarnego WSSE w Szczecinie,</p>
+        <p xml:id="p-3">* "Mam haka na raka - kodeks walki z rakiem" - Bożena Marcinkowska, Pow. Inspektor Sanitarny,</p>
+        <p xml:id="p-4">* "Profilaktyka raka sutka" - Ewa Kamińska, prezes Stow. Kobiet z Problemem Onkologicznym "Ewa".</p>
+        <p xml:id="p-5">Goleniowskie Liceum Ogólnokształcące obchodziło w miniony weekend 50-lecie swojej działalności. W dwudniowych uroczystościach udział wzięło kilkuset z ponad 6000 absolwentów tej szkoły.</p>
+        <p xml:id="p-6">Jubileuszowe obchody rozpoczęło spotkanie w budynku, który w latach 1962 - 1994 był siedzibą tej szkoły. Dzień drugi rozpoczęła msza święta, którą uświetnił swym występem chór "Colegium Vocale", składający się z byłych członków licealnego chóru "Cantilena". Po mszy w towarzystwie orkiestry dętej Wood &amp; Brass Band wszyscy przeszli do obecnej siedziby LO przy ul. Niepodległości, gdzie odbyła się główna część uroczystości.</p>
+        <p xml:id="p-7">Najważniejszymi jej punktami były odsłonięcie tablicy pamiątkowej oraz wręczenie szkole nowego sztandaru. Tablica upamiętniająca 50-lecie powstania LO wmurowana została przy głównym wejściu do szkoły. Na prośbę obecnego dyrektora Arkadiusza Malkowskiego odsłonił ją jeden z pierwszych dyrektorów LO - Edward Kaniuk, z wielką życzliwością przyjmowany przez swoich dawnych uczniów. Główna część obchodów odbyła się na hali, wypełnionej niemal do ostatniego miejsca. Przybyli głównie uczniowie najstarszych roczników, dzisiaj lekarze, prawnicy, finansiści, biznesmeni, księża, pracownicy administracji, działacze samorządowi, duża grupa nauczycieli i przedstawiciele innych profesji.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

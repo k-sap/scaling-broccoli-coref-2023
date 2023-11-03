@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">A przecież frankijska elita już w czasach Chlodwiga musiała zorganizować się odpowiednio do wymogów rządzenia rzymską Galią. Grupa rządząca w państwie Franków stała się w ten sposób spadkobierczynią Rzymu, weszła w posiadanie wielkich majątków na terenach Neustrii, Burgundii i Akwitanii i starała się przenieść podstawowe elementy rzymskiego dziedzictwa także do austrazyjskiego matecznika własnego plemienia. To ostatnie jednak nie przyszło łatwo ani z dnia na dzień.</p>
+        <p xml:id="p-2">Nie łatwo też przyszło przekształcić na rzymską modłę pozostałe ludy plemiennej Germanii, które zostały podporządkowane frankijskiej zwierzchności: Alemanów, Turyngów, Bawarów, Fryzów i Sasów. Żaden z tych ludów nie zainstalował się w charakterze zdobywcy na terenie schyłkowego cesarstwa. Przeciwnie - to frankijscy spadkobiercy Rzymu przyszli do nich jako zwycięzcy i narzucili Germanii germańskiej nie tylko nową wiarę, ale i podstawowe zasady nowego ładu. Trudno było nagiąć do zasad tego ładu tradycyjne społeczności barbarzyńców. Nawet w Saksonii, gdzie Frankowie poczynali sobie ze szczególną brutalnością, Karol Wielki musiał w końcu oprzeć się w znacznej mierze na miejscowych tradycjach i instytucjach. Zarówno we frankijskiej Nadrenii, jak w szwabskiej Alemanii trzeba było przyjąć za punkt widzenia przekształceń ustrojowych tradycyjne prerogatywy plemiennego króla. Uprawnienia wielkiego sąsiada, które pozwalały królowi na bifang w każdej wspólnocie, można było rozszerzyć zgodnie z normą zapisaną w tytule XIV Prawa salickiego. Dzięki temu król mógł użyczać swoim faworytom prawa do bifangu w dowolnym miejscu, co z biegiem czasu uznano za prawo do swobodnego nadawania "ziemi niczyjej" na całym terytorium państwa. Nie trzeba tłumaczyć, jak bardzo przyczyniło się to do przełamywania przeszkód, które sprzeciw wspólnot sąsiedzkich piętrzył na drodze ekspansji wielkiej własności ziemskiej.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

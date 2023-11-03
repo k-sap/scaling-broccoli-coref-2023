@@ -1,0 +1,19 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Ela Rataj spoza Polski</p>
+        <p xml:id="p-2">SZKOLĄ SIĘ? Nadszedł czas szkoleń, szczególnie w oświacie. Ostatnio wszyscy nauczyciele muszą mieć kursy komputerowe i cały tydzień jeżdżą na nie, a dzieci w tym czasie nie mają lekcji. Nawet ci, którzy za rok lub dwa idą na emeryturę. Czy to jest sens? Przecież za to płaci gmina - my wszyscy.</p>
+        <p xml:id="p-3">N. M., spod Poznania</p>
+        <p xml:id="p-4">EMERYT-TAKSÓWKARZ? Z pewnością ponad połowa taksówkarzy w każdym mieście Polski to emeryci. Im się zresztą ten fach opłaca najbardziej - ZUS mają opłacony i jest to ich drugie świadczenie. Jak wiadomo np. w Poznaniu taksówek jest za dużo. Czy nie należałoby zająć się więc i tym problemem?</p>
+        <p xml:id="p-5">Taksówkarz</p>
+        <p xml:id="p-6">A RADNI? Zabrania się emerytom i rencistom dorabiać dodatkowo do ich skromnych świadczeń. A co robią radni? Biorą udział w kilku komisjach i starają się zająć inne ciepłe posadki za wysokie diety. I nic?</p>
+        <p xml:id="p-7">Zenon Lisiecki, Poznań</p>
+        <p xml:id="p-8">INNE PORÓWNANIE. Premier Miller dla poparcia tezy o konieczności ograniczenia dochodów osiąganych przez emerytów i rencistów, posługuje się wyjątkowo nieudacznym i propagandowym przykładem, polegającym na porównaniu sytuacji bezrobotnego do dorabiającego emeryta. A może by tak sytuację bezrobotnego porównać do tej, w której znaleźli się posłowie i senatorowie, do ich zarobków? Lub do milionerów? Porównania byłyby ciekawsze. Jeśli planowane decyzje zostaną podjęte, notowania rządu spadną maksymalnie. Chyba, że rząd w ogóle się tym nie przejmuje.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

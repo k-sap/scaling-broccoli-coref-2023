@@ -1,0 +1,25 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">sp1: no widzisz i niby wszyscy o tym wiedzą</p>
+        <p xml:id="p-2">sp2: co to jest ta skanska ?</p>
+        <p xml:id="p-3">sp0: to jest wiesz co taka skandynawska jakaś ta. taka wiesz korporacja która jakaś. różne prace budowlane od od od po po drogi od wieżowców po drogi buduje i i jeszcze chyba inne rzeczy też</p>
+        <p xml:id="p-4">sp2: ale budowlanka nie ? ale budowlanka wykonawcza czy. czy ?</p>
+        <p xml:id="p-5">sp0: wiesz co chyba taka Ø wykonawcza ale nie tylko bo to jest chyba jakiś taki gigant wielki holding wiesz oni różne chyba tam. ale głównie</p>
+        <p xml:id="p-6">sp2: to skanska to to</p>
+        <p xml:id="p-7">sp0: tak to największa w Polsce w tej chwili kurde chyba taki ten wykonawca czegokolwiek</p>
+        <p xml:id="p-8">sp1: ten most chyba też na Prośnie tam koło polo budowali</p>
+        <p xml:id="p-9">sp0: nie to wszystko to mówię to to tam. to tutaj ta trasa bursztynowa to właśnie skanska robiła. może ten most to akurat to tam jacyś podwykonawcy bo oni często też tak jakieś tam tego. chyba za bardzo za tego bo im się to bardziej opyla nie i tak mimo wszystko</p>
+        <p xml:id="p-10">sp1: no niby kurcze ten fundusz teraz uchwalili znaczy fundusz. budżet unijny może nam coś z tego skapnie kurde</p>
+        <p xml:id="p-11">sp0: a tam nie wierzę kurna. w naszej. do tej pory wykorzystanie podobno jest tak chujowe tych funduszy że</p>
+        <p xml:id="p-12">sp1: kilka procent</p>
+        <p xml:id="p-13">sp0: po prostu się w pale nie mieści i te fundusze nawet jak nam uchwalą to i tak przepadną bo urzędnicy kurwa</p>
+        <p xml:id="p-14">sp2: nie potrafią wypełnić wniosków. albo jak ci co wypełnią to wypełnią na takie cele. które. społecznie są bym powiedział śre średnio potrzebne</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

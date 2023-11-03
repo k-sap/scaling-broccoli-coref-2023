@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Gdy rok temu do szkoły podstawowej w niewielkim Biesłanie u stóp Kaukazu wtargnęli terroryści Szamila Basajewa, świat był w szoku. Choć rosyjskie służby specjalne szkołę po trzech dniach odbiły, w trakcie szturmu zginęło 331 zakładników.</p>
+        <p xml:id="p-2">Kilka dni temu na ostrawskim lotnisku Mosznow wylądował samolot z 63 osobami na pokładzie – uczestnikami tamtych pamiętnych wydarzeń. – To był specjalny rejs rosyjskiego Czerwonego Krzyża – mówi Eva Kijonková, rzeczniczka prasowa Uzdrowiska Darków, gdzie udali się mieszkańcy Biesłanu. Na trzytygodniowy wypoczynek do znanej miejscowości uzdrowiskowej zaprosiło ich czeskie Ministerstwo Spraw Zagranicznych. Dzieci będą uczyły się i odpoczywały. Wieczory wypełnią im gry i zabawy oraz zajęcia nauki tańca. – Zorganizujemy im też wycieczki po regionie, m.in. do Hukwaldów do Ogrodu Zoologicznego w Ostrawie – mówi Irena Kupková z Uzdrowiska Darków.</p>
+        <p xml:id="p-3">Wyjazd do nowego miejsca był wszystkim potrzebny. Ośmioletni Władimir, choć od zamachu minęło już trzynaście miesięcy, ciągle wspomina tamtą tragedię. Nie może zapomnieć, co terroryści wyrabiali w jego szkole. – Ma ranną duszę i ciało – mówi jego 40-letni ojciec Sergej Oziev. – Ø Syn był postrzelony w rękę i głowę, którą operowano mu w Niemczech – dodaje. Ø Tacie głos też się jeszcze trzęsie. Ośmiolatek to cała rodzina jaka mu została po zabiciu w zamachu Ø starszego syna i Ø żony.</p>
+        <p xml:id="p-4">W Darkowie Władimir przechodzi dalszą rehabilitację. Ma zabiegi, masaże, dużo pływa w basenie i ćwiczy na siłowni. O tragedii sprzed trzynastu miesięcy ani on, ani koledzy nie chcą mówić. – Wolą nie wracać do tego myślami – wyjaśniają opiekunowie.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

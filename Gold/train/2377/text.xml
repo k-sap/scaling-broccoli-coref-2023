@@ -1,0 +1,20 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Zaintrygowany, zapisał numery rejestracyjne ciężarówki. Gdy wieczorem wracał do domu, zauważył, że bar zniknął. Natychmiast zatelefonował do znajomego. - Sprzedałeś budę? - to pytanie zaskoczyło właściciela baru. Z opowiadania kolegi wynikało, że ktoś po prostu ukradł mu bar.</p>
+        <p xml:id="p-2">Dźwig państwowy</p>
+        <p xml:id="p-3">Właściciel zawiadomił policję. Podał numery ciężarówki, która uprowadziła jego kontener. Policjanci natychmiast ustalili, że samochód należy do jednego ze szczecińskich przedsiębiorstw państwowych.</p>
+        <p xml:id="p-4">Pan Mikołajczak postanowił prowadzić śledztwo na własną rękę. Następnego dnia rano pojechał do przedsiębiorstwa, w którym - jak się okazało - można m.in. wypożyczyć dźwig i ciągnik z naczepą przystosowany do przewozu kontenerów.</p>
+        <p xml:id="p-5">Pracownicy firmy przyznali, że w dniu, w którym skradziono kontener, pewien mężczyzna wypożyczył ciężki sprzęt. Zapłacił gotówką, więc nikt nie pytał o szczegóły.</p>
+        <p xml:id="p-6">Pan Mikołajczak dostał jednak nazwisko i adres tajemniczego mężczyzny. Okazało się, że mieszka on w Kobylance koło Szczecina. Mikołajczak zadzwonił na posterunek policji i dowiedział się, że... taki adres nie istnieje.</p>
+        <p xml:id="p-7">Kierowca z firmy wypożyczającej ciężarówki powiedział mu jednak, gdzie zawiózł kontener. Mikołajczak pojechał tam z policjantami.</p>
+        <p xml:id="p-8">Przedsiębiorczy Bolek</p>
+        <p xml:id="p-9">- To było na krańcu miasta. Gdy przyjechaliśmy na miejsce, od razu spostrzegłem mój kontener. Miał wyłamany zamek, w środku był zupełnie ogołocony - zginął m.in. agregat do prądu, cztery lodówki, cztery rożna, radio, telewizor, 30 krzeseł, napoje i jedzenie. Wykręcono nawet zlewozmywak - opowiada.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

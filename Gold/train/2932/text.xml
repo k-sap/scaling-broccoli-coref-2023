@@ -1,0 +1,31 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Brat Lucjan zastanawia się, spoglądając na pełny kieliszek.</p>
+        <p xml:id="p-2">- Coś w tym musi być.</p>
+        <p xml:id="p-3">- Tylko sukinsyn osiąga sukces. Bracie Lucjanie, czy ty widziałeś kiedy sfrustrowanego sukinsyna?</p>
+        <p xml:id="p-4">Brat Lucjan myśli intensywnie.</p>
+        <p xml:id="p-5">- Nierówność powoduje frustrację. Gdyby wszyscy byli sobie równi i mieli to samo z życia, nie byłoby frustracji.</p>
+        <p xml:id="p-6">- Ech, ty jesteś baptysta - powiada z goryczą Cukier.</p>
+        <p xml:id="p-7">Odzywa się niewidoczna orkiestra. Siedem girls wybiega przed fontannę. Zaczynają tańczyć ciężko, podrzucając nogami w stylu rewii sprzed czterdziestu lat.</p>
+        <p xml:id="p-8">- Co się tak zapatrzyłeś - pyta Ela.</p>
+        <p xml:id="p-9">- Myślę, że zbliża się moja pora - odpowiada Ziutek.</p>
+        <p xml:id="p-10">Ela bierze pełny kieliszek.</p>
+        <p xml:id="p-11">- Wypijemy na ty. Chyba nie masz nic przeciwko?</p>
+        <p xml:id="p-12">- Przecież i tak mówimy sobie: ty.</p>
+        <p xml:id="p-13">- Co szkodzi wypić?</p>
+        <p xml:id="p-14">Ela pije jednym haustem, Ziutek ostrożniej. Dziewczyna odstawia kieliszek, przysuwa się do chłopca.</p>
+        <p xml:id="p-15">- Ela, tylko nie przy ludziach.</p>
+        <p xml:id="p-16">Ale jest już za późno. Już go Ela całuje.</p>
+        <p xml:id="p-17">- W 1948 na olimpiadzie w Londynie zdobyłem srebrny medal w wadze półśredniej - mówi łysy młodzieżowiec z brodą. - Panie mnie nie poznają?</p>
+        <p xml:id="p-18">- Nie wygląda pan jak champion - zauważa długowłosa z cudzoziemskim akcentem.</p>
+        <p xml:id="p-19">- Bo ja się odchudzam. Dawno rzuciłem boks. Interesuje mnie teraz joga.</p>
+        <p xml:id="p-20">Długowłosa, która zna polski, wyjaśnia coś koleżance ściszonym głosem. Obie spoglądają z szacunkiem na brodacza.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

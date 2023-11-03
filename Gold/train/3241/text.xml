@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">— "Pierwszą rzeczą, o której należy pamiętać, gdy myśl pada na Polskę, mówi Chesterton, jest to, że stanowi ona bardzo starożytne królestwo, które w dodatku w swoim czasie było w dużem niebezpieczeństwie stania się cesarstwem imperjalistycznem (t. zn. ujarzmiania innych narodów). Udało się Polsce ujść tego niebezpieczeństwa, czego nie sposób powiedzieć o Anglji. Polska nie tylko była narodem, lecz ponadto jeszcze narodem przodującym, panującym i to nad tymi właśnie sąsiadami, którzy ją później zgładzili. Ja myślę, że jestto moment dość ważny dla zrozumienia tego, co potem zaszło".</p>
+        <p xml:id="p-2">"Każdy kto mnie zna wie, żem jest zawołanym przyjacielem Irlandji. Dajmy więc na to, ot tak, dla prostej argumentacji, że Irlandja dobija się niepodległości i zdobywa wówczas i Anglję i całe jej imperjum. Otóż ja myślę, mimo całego entuzjazmu dla Irlandji, że bylibyśmy dość zaniepokojeni podobnym obrotem rzeczy. A takie jest właśnie położenie Polski w Europie wschodniej w tej chwili, takie lub wielce zbliżone. Dajmy więc na to, że Irlandja do takiej doszła potęgi, że zdobywa Anglję i dzieli ją na trzy części, zachowując jedną dla siebie, a dając drugą Niemcom, trzecią zaś Francji. Anglji w takim wypadku jużby nie było, nie istniałaby więcej. A coby się wówczas stało? Ani wy, ani ja, biorąc nas za angielski naród, nigdybyśmy takiego rozrachunku nie przyjęli. Tak też uczynili Polacy. Nigdy się na taki stan sprawy nie zgodzili. Rewolucja po rewolucji wstrząsały Europą. Spróbowano zamordować całkowicie mocny, pełen życia, ucywilizowany naród. Ale zamach był nie do spełnienia i — dziękować Bogu — nie udał się".</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

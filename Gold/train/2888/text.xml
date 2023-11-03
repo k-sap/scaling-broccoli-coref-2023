@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Istnieją wyspecjalizowane międzynarodowe agencje, które pośredniczą w zatrudnianiu młodych dziewcząt jako piastunek za bardzo małe pieniądze. Najczęściej są to Europejki szukające pracy w USA. Nie chodzi im o zarobki. W ten sposób chcą poznać fascynujący kraj, zawrzeć nowe znajomości. Wychodzą z założenia, że do opieki nad dziećmi nie trzeba mieć specjalnych kwalifikacji, wszak każda kobieta kiedyś przyjmuje na siebie tę rolę. Ale tak nie jest. Młode uczennice opiekujące się za grosze amerykańskimi dziećmi nie są dobrymi opiekunkami. Często nie wiedzą, co robić z podopiecznymi, a poza tym wcale o nich nie myślą, szukając okazji, żeby wziąć trochę wolnego i ruszyć "w Amerykę". Tę pracę podejmują z ciekawości świata, a nie z miłości do dzieci! Zresztą czym innym jest dotrzymywanie towarzystwa maluchom przez kilka godzin dziennie, gdy rodzice wychodzą do pracy albo do teatru, a czym innym pełna, wielodniowa opieka, gdy wyjeżdżają oni w długie zagraniczne podróże. Psychologowie nie mają wątpliwości: śmierci małego Matthew winni są w pewnym stopniu również jego rodzice, którzy wyżej postawili swoją karierę zawodową niż jego dobro.</p>
+        <p xml:id="p-2">Można zapytać, dlaczego zamożni Amerykanie nie decydują się raczej na zatrudnianie fachowych, przeszkolonych piastunek z referencjami? Odpowiedź jedynie z pozoru jest prosta. Chodzi bowiem nie tylko o pieniądze (amatorki z Europy są dużo tańsze). Idzie także o kult młodości. Zapanowała moda, by w domach było jak najwięcej młodych ludzi i charakterystycznego dla nich "luźnego" sposobu bycia. Doświadczone opiekunki to często osoby z zasadami, emanujące atmosferą konserwatywnego establishmentu. Natomiast zatrudniona uczennica z Anglii jest dla rodziców dziecka także przedłużeniem ich własnej młodości. Wchodzący w lata byli "yuppies" podrasowują swoją witalność widokiem współczesnych "spice girls". Do niedawna obie strony nie podejrzewały, że taka sytuacja grozi syndromem Gorgonowej. Teraz już wiedzą. I nie jest to jedyne smutne odkrycie, jakiego ostatnio pozwoliła nam dokonać telewizja.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

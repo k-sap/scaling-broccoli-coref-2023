@@ -1,0 +1,16 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Na jednym z przystanków wsiada starszy pan i zamyka otwór w dachu. – Co pan robi? Przecież straszna duchota – sprzeciwia się młody człowiek. – Panie, ja mam 71 lat i chore kości. Postoję w cugu 10 minut i jutro z łóżka nie wstanę – odpowiada mężczyzna.</p>
+        <p xml:id="p-2">W autobusie lini 57 podróżuje grupka obcokrajowców. Jest między nimi Pedro Luis Sandoval, Meksykanin. – Dziś w łódzkich autobusach jest tak gorąco, jak w meksykańskich – śmieje się Pedro. – Do tego trochę nieładnie pachnie i przyklejamy się do siedzeń. Można się poczuć jak u siebie, w Meksyku.</p>
+        <p xml:id="p-3">– Pasażerom jest gorąco, a co dopiero nam, kierowcom – narzeka Czesław Kaźmierski. – Prowadzę prywatny autobus i codziennie muszę jeździć w zapiętej pod szyję koszuli. Dobrze, że chociaż możemy w te upały zrezygnować z krawata.</p>
+        <p xml:id="p-4">– Najgorzej jest w niskopodłogowych i cityrunnerach – skarży się Marek Wasilewski. – Tam otwierają się tylko małe lufciki. Jest duszno i nie ma czym oddychać. Stare autobusy są lepsze na upał. Chociaż z kolei te „staruszki” na linii 86 mają w środku silnik, który nagrzewa się podczas jazdy. Tam jest dopiero ukrop!</p>
+        <p xml:id="p-5">Co na to MPK? – Wiemy, że w tramwajach i autobusach jest gorąco, ale takie mamy lato – mówi Irena Popoff, rzecznik prasowy MPK. – Zastanawialiśmy się nad zamontowaniem klimatyzacji, ale nie jest to możliwe. Po pierwsze, odległości między przystankami są niewielkie i wnętrze pojazdu i tak by się nagrzewało. Po drugie, koszty byłyby zbyt duże. Apelujemy jednak do kierowców, by drzwi na przystankach były dłużej otwarte i by zadbali o otwarcie dachów.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

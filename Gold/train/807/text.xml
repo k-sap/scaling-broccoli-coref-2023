@@ -1,0 +1,17 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Wezak Potrzebuje porady zrobilem sobie ten test na plec mozgu i uzyskalem wynik 200 pkt !!!! pomyslalem ze cos nie tak i zrobilem jeszcze raz i wyszlo mi 140pkt juz lepiej ;D ale za pierwszym razem pisalo mi ze mam mozg zenski i w puzniejszym okresie moge zostac gejem!!! przejolem sie tym i sobie to jakos wkrecilem i teraz ciagle sie zastanawiam czy przypadkiem tak nie jest i sam nie wiem cos mi sie tak wkrecilo i tak mysle, wczesniej nie mialem z tym problemow heeeeelp czy to prawda czy ja sobie tylko tak wkrecilem pomuzcie bo oszaleje</p>
+        <p xml:id="p-2">Kapciuszek jej mojej koleżance wyszło że mózg męski nie ma co przejmować się tymi testami</p>
+        <p xml:id="p-3">aga-byczek ja mam męski i co? wydaje mi się, że dzięki temu trochę lepiej potrafię zrozumieć facetów. i tyle. nie masz się czym przejmować</p>
+        <p xml:id="p-4">Kapciuszek kurcze to ty aga-byczek jesteś w stanie zrozumieć facetów? zazdroszczę</p>
+        <p xml:id="p-5">aga-byczek hmm. może tylko po części. ale moi koledzy tak twierdzą, więc musi w tym być coś prawdy. chociaż oni nie dopuszczają do siebie myśli, że oprócz ich kumpla, jestem także dziewczyną</p>
+        <p xml:id="p-6">Październik A co powiecie na -15 Stary czym Ty się przejmujesz ?? Że na jakimś teście wyszło Ci rzekome zboczenie ?? To wszystko zależy od dnia, nastroju, zmęczenia bądź wypoczęcia. Jak był byś zły to pewnie skala wynosiła by znacznie mniej, nie myśl o tym bo Ci się mózg zlasuje.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

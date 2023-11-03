@@ -1,0 +1,18 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Siedem strażackich zastępów od soboty wieczorem do wczoraj przed południem pomagało uchronić gospodarstwo Andrysiewiczów ze wsi Małe koło Poddębic przed zalaniem. Workiem z piaskiem uszczelniali przeciekający wał przy Nerze.</p>
+        <p xml:id="p-2">– Było bardzo niebezpiecznie – ocenia Tomasz Woźniak, zastępca Jednostki Ratowniczo-Gaśniczej w Poddębicach. – W każdej chwili wał mógł być przerwany. Po północy sytuacja została opanowana. Około godziny trzeciej nad ranem znów zostaliśmy wezwani. Kolejna akcja uszczelniania wału została zakończona kwadrans przed godziną jedenastą.</p>
+        <p xml:id="p-3">– Na wszelki wypadek przygotowaliśmy około 1.000 worków oraz nawieźliśmy w okolice wału ziemi – informuje wicestarosta Zdzisław Stempień. – Trochę pomogła nam zimowa aura.</p>
+        <p xml:id="p-4">Służby kryzysowe powiatu oraz gminne pozostają w stanie gotowości. Teraz bacznie obserwują poziom wody w Nerze. Sytuacja ustabilizowała się. Wczoraj na wodowskazach w Małyniu i Poddębicach było po 330 centymetrów. Poziom ostrzegawczy rzeki był przekroczony o 70 centymetrów.</p>
+        <p xml:id="p-5">– Meldunki z dolnego biegu rzeki są optymistyczne. Woda w Małyniu opadła o 3 centymetry – cieszy się wicestarosta Stempień. – Patrząc na fundamenty podtopionych budynków państwa Andrysiewiczów widać, że poziom Neru jest nieznacznie niższy.</p>
+        <p xml:id="p-6">W powiecie poddębickim podtopionych zostało około 400 hektarów użytków rolnych. Przede wszystkim łąk i pastwisk. Z powodu zbyt wysokiego stanu wody na Nerze unieruchomione zostały elektrownie wodne w Borku, Wartkowicach i Wilkowicach.</p>
+        <p xml:id="p-7">– Gospodarstwo młynarza z Wilkowic zostało zalane wodą – donosi Zdzisław Cyganiak z Wartkowic. – Powódź jest mniejsza niż ta z lipca 1997 roku, ale widoki są tak samo przerażające. Przez lornetkę obserwuję, że zalane zostały żerowiska bobrów. Pod wodą zniknęły też drogi w łąkach. Rolnicy, którzy nawieźli pastwiska obornikiem i pomiotem kurzym, ponieśli ogromne straty.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

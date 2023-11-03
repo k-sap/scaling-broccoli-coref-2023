@@ -1,0 +1,23 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">W niedzielnym pożarze najbardziej ucierpiały referaty mieszczące się na poddaszu kwidzyńskiego Urzędu Miasta i starostwa.</p>
+        <p xml:id="p-2">Wicestarosta Andrzej Fortuna i starosta Jerzy Godzik przez cały czas obserwowali akcję gaszenia siedziby ich urzędu.</p>
+        <p xml:id="p-3">Wasze komentarze</p>
+        <p xml:id="p-4">Krystyna Rzycka z Kwidzyna</p>
+        <p xml:id="p-5">- Szkoda mi budynku, przez tyle lat człowiek zdążył związać się z tym miejscem. To miejsce wywołuje u mnie wiele wspomnień, chociażby takich jak śluby dzieci.</p>
+        <p xml:id="p-6">Zofia Szlachta z Kwidzyna</p>
+        <p xml:id="p-7">- Pożar widziałam tylko w Internecie. Sądzę, iż jest to wielka strata dla miasta. Wszyscy zazdrościli nam siedziby Urzędu Miasta i starostwa, bo to taka stara, piękna budowla.</p>
+        <p xml:id="p-8">Karolina Nowicka z Kwidzyna</p>
+        <p xml:id="p-9">- Dla mnie ten pożar to katastrofa. Co prawda nie korzystam obecnie z urzędu i starostwa, liczę się jednak z utrudnieniami, które powstaną na skutek tego pożaru. Z pewnością jednostki zostaną rozrzucone po mieście ale wierzę, że władze poradzą sobie z sytuacją. Myślę, że czeka nas paraliż.</p>
+        <p xml:id="p-10">Ważne</p>
+        <p xml:id="p-11">Gdzie szukać?</p>
+        <p xml:id="p-12">Urząd Miejski i Starostwo Powiatowe podjęły już decyzję nt. rozlokowania poszczególnych wydziałów. Przeniosą się one do kilku budynków na terenie miasta: pałacyku przy ul. Warszawskiej 18 (były budynek telewizji kablowej), Centrum Administracji Szkół przy ul. Grudziądzkiej 6, Kwidzyńskiego Centrum Kultury przy ul. 11 Listopada 13 i Straży Miejskiej przy ul. Warszawskiej 14. Szczegółowe informacje na temat, czego i gdzie szukać, można znaleźć w specjalnych ogłoszeniach, które zamieściliśmy na str. 7. Do końca tego tygodnia trwać będzie przenoszenie niezbędnej dokumentacji i sprzętu, dlatego praca urzędników będzie utrudniona, a większość wydziałów urzędowanie rozpocznie dopiero na początku przyszłego tygodnia.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

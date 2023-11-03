@@ -1,0 +1,16 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Koła i elipsy</p>
+        <p xml:id="p-2">Do tworzenia kół i elips służą dwie metody klasy Graphics: drawOval oraz fillOval. Pierwsza rysuje sam kontur figury, druga figurę wypełnioną aktualnym kolorem. Kolor oczywiście można zmieniać przy użyciu metody setColor. Czemu do tworzenia koła i elipsy została stworzona tylko jedna metoda? Ponieważ koło jest po prostu szczególnym przypadkiem elipsy, w której oba promienie są sobie równe. Nie będziemy tu zagłębiać się w niuanse matematyki, musimy tylko wiedzieć, w jaki sposób określamy rozmiary figur w wymienionych metodach. Przyjmują one bowiem cztery parametry opisujące prostokąt, w który można wpisać koło lub elipsę. Ponieważ w prostokąt o określonych rozmiarach można wpisać tylko jeden kształt owalny, zatem określenie prostokąta jednoznacznie wyznacza koło lub elipsę.</p>
+        <p xml:id="p-3">Obie metody przyjmują cztery argumenty. Pierwsze dwa określają współrzędne x i y lewego górnego rogu prostokąta, natomiast dwa kolejne jego szerokość oraz wysokość. Przykład wykorzystujący metody drawOval i fillOval do narysowania na powierzchni apletu kół i elips o różnych kolorach został zaprezentowany na listingu 8.13, a efekt jego działania jest widoczny na rysunku 8.9.</p>
+        <p xml:id="p-4">Wielokąty</p>
+        <p xml:id="p-5">Do rysowania wielokątów możemy wykorzystać kilka różnych metod - możemy rysować zarówno same kontury (metody zaczynające się słowem draw), jak i figury wypełnione kolorem (metody zaczynające się słowem fill). Do rysowania prostokątów służą metody drawRectangle oraz fillRectangle. Przyjmują one cztery argumenty - dwa pierwsze określają współrzędne lewego górnego rogu, natomiast dwa kolejne szerokość oraz wysokość figury. Istnieje również możliwość narysowania prostokąta o zaokrąglonych rogach. Służą do tego metody drawRoundRect oraz fillRoundRect. W takim przypadku do wymienionych przed chwilą argumentów dochodzą dwa dodatkowe określające średnicę łuku zaokrąglenia w poziomie oraz w pionie (deklaracje wszystkich wymienionych metod znajdują się w tabeli 8.3). Przykładowy aplet rysujący wymienione figury jest widoczny na listingu 8.14, a efekt jego działania na rysunku 8.10.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

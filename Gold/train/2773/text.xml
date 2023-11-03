@@ -1,0 +1,17 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">gandalfbialy Co myślicie na temat sędziowani?? Ja uważam że jest gorzej jak było i niby nowe technologie a nie pomaga to nic. Czy da się jakoś odwołać po złych decyzjach sędziów w takich meczach jak Ø grała Polska??? Co można zrobić??? Bo przegrywamy już drugi mecz czy remisujemy po błędach sędziów?????</p>
+        <p xml:id="p-2">ma2dzia Mecz sprzedany... Why Panie sędzio? For money!</p>
+        <p xml:id="p-3">nieznajoma 23 Mecz był albo sprzedany albo poprostu ten Anglik się nie zna ;/ nie miał prawa podyktować karnego i przez niego przegraliśmy. Ale z drugiej strony Roger był na spalonym jak strzelił gola. Jedynie cieszę się z Boruca - kawał dobrej roboty, no i oczywiście Roger =) Smolarek się już niestety wypala, mam nadzieję, że się jakoś podniesie.</p>
+        <p xml:id="p-4">sunset_girl yhh, yhhh, yhhh ... szlag:| jaki sędzia taki mecz...</p>
+        <p xml:id="p-5">Firek To jest mega ustawka No po prostu mnie krew zalała. Dwa lata temu z Niemcami w 91 minucie (ale przynajmniej nasza wina), a tu??? Nie dosć że 93, to jeszcze karny z kapelusza totalnie Jeśli ten koleś sędziuje w Anglii, to chyba żarty sobie z nas stroi!!!</p>
+        <p xml:id="p-6">Qon CYTAT(nieznajoma 23 @ 12.06.2008, 23:25) "Ale z drugiej strony Roger był na spalonym jak strzelił gola." Saganowski nie podawał, tylko strzelał, więc nie widzę problemu.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

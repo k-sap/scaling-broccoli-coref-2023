@@ -1,0 +1,42 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">sp3: ale była impreza widzę niezła nie ja do dziesiątej mam czas tak że</p>
+        <p xml:id="p-2">sp2: inwigilacja</p>
+        <p xml:id="p-3">sp3: ale widzę oj dobra impreza była fuj jakiś co to jest ?</p>
+        <p xml:id="p-4">sp0: tak wycieraj się w to prześcieradło</p>
+        <p xml:id="p-5">sp3: bleh</p>
+        <p xml:id="p-6">sp0: zrzuć je na dół nie ono jest brudne ono jest brudne on ten ono jest brudne os spageti</p>
+        <p xml:id="p-7">sp3: nie mów nie dobra nie mów my rozumiemy rozumiemy</p>
+        <p xml:id="p-8">sp2: od spageti taa</p>
+        <p xml:id="p-9">sp3: nie mów nie dobra nie mów</p>
+        <p xml:id="p-10">sp2: spagetii ?</p>
+        <p xml:id="p-11">sp3: nei rozumiemy rozumiemu</p>
+        <p xml:id="p-12">sp1: zdjęcia</p>
+        <p xml:id="p-13">sp0: zdjęcia no</p>
+        <p xml:id="p-14">sp1: to ja sobie usiądę</p>
+        <p xml:id="p-15">sp2: najadłem się na zapas też się najadłaś na zapas ?</p>
+        <p xml:id="p-16">sp3: spageti zjadłam</p>
+        <p xml:id="p-17">sp1: tak apropo</p>
+        <p xml:id="p-18">sp2: nawpierdalałem się kurczaka</p>
+        <p xml:id="p-19">sp1: o sobie tu usiąde</p>
+        <p xml:id="p-20">sp3: Kamil ci już mówił co sobie zrobiłam a chcesz zobaczyć ?</p>
+        <p xml:id="p-21">sp1: no</p>
+        <p xml:id="p-22">sp3: wyjęłam</p>
+        <p xml:id="p-23">sp2: wyjęła industriala</p>
+        <p xml:id="p-24">sp1: to jak ty go miałaś zrobionego ?</p>
+        <p xml:id="p-25">sp3: zaraz ci pokaże ja mam zdjęcie zrobione ja musiałam bo pewnie nikt by mi nie uwierzył zrobiłam zdjęcie to powiem ci że tak jak ja to chyba nikt by tego nie zrobił</p>
+        <p xml:id="p-26">sp1: właśnie tak spojrzałam na to tak sobie myślę że że ten</p>
+        <p xml:id="p-27">sp3: no wyglądał kozacko nie tylko że ta sztanga jest tak wyjebanie wyjebana że to jest tragedia</p>
+        <p xml:id="p-28">sp1: strasznie ma tutaj tak na boku bardziej</p>
+        <p xml:id="p-29">sp2: jak na boku ?</p>
+        <p xml:id="p-30">sp1: no tak jak bym tobie tutaj normalnie dziurkę zrobiłam taką o i wiesz tutaj tobie włożyła</p>
+        <p xml:id="p-31">sp3: tu na boku bo ja bo chodzi o to żeby się nie opierało o tą chrząstkę no i chciałam żeby się nie opierało no to tak przebiłam i tak i jeszcze</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Spektakl Teatru Wędrujących Lalek odbędzie się o godz. 17, a widowisko dla dorosłych Teatru Akt „Płonące laski 4” - o godz. 21. Oba przedstawienia na scenie przy Miejskim i Gminnym Ośrodku Kultury w Łochowie. Artystyczne i teatralne „zamieszanie” w MiGOK, teatralne gry i zabawy, rozpoczną się jednak wcześniej, bo już o godz. 15.</p>
+        <p xml:id="p-2">Wędrujący festiwal sztuki „Karawana Europa” to projekt Mazowieckiego Centrum Kultury i Sztuki, realizowany już po raz trzeci wspólnie ze: Stowarzyszeniem Scena 96, Stowarzyszeniem Animatorów i Pedagogów „Klanza”, Staromiejskim Domem Kultury w Warszawie oraz 12 ośrodkami kultury w województwie mazowieckim.</p>
+        <p xml:id="p-3">- Pomysłodawcy postawili sobie za cel zainteresowanie głównie dzieci i młodzieży teatrem oraz takimi działaniami o charakterze parateatralnym i plastycznym, które wyzwalają wyobraźnię i stanowią sposób spędzania czasu wolnego. Spektaklom towarzyszy 6-godzinna akcja animacyjna. Dzieci, młodzież i rodzice będą inspirowani do podjęcia działań, w ramach których każdy może w pewnym sensie stać się artystą. Uczestnicy biorą udział w przygotowaniu m.in.: scenek dramowych, żywych obrazów, kukiełek, a następnie prezentują je na scenie lub w plenerze. Przygotowywane scenki będą nawiązywały do wcześniej obejrzanych spektakli, być może będą też ich rozwinięciem lub uzupełnieniem. Dla małych zespołów pracujących pod okiem doświadczonych animatorów i trenerów przewidziane są drobne upominki. Udział w prezentacjach jest całkowicie dobrowolny - zachęcają organizatorzy.</p>
+        <p xml:id="p-4">Teatr Wędrujących Lalek Pana Peżo z Sankt Petersburga może pochwalić się licznymi międzynarodowymi sukcesami. Na internetowej stronie trupy Klaun Wasia przedstawia się następująco: „Profesji klauna nauczyli mnie moi dziadkowie klaunowie. Uczyłem się: rozbawiania, rozpogadzania, pomysłowości, zaprzyjaźniania się. I uczyłem się dobrze”.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

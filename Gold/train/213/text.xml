@@ -1,0 +1,22 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Oswald, ojciec Janusza: - Może tam kiedyś tablica pamiątkowa stanie.</p>
+        <p xml:id="p-2">Syna wyciągali ze studni prawie trzy dni. - Taka długa akcja, to przecież wydarzenie, nie? - staremu łamie się głos.</p>
+        <p xml:id="p-3">Trzydzieści lat kopał studnie. - A jak takie coś się stanie, to serca już nie ma. Synek do piachu poszedł i wszystko daremne!</p>
+        <p xml:id="p-4">Cembrowinowe i głębinowe</p>
+        <p xml:id="p-5">Geolog Jan Felter wierci studnie w centralnej Polsce, Oswald Motyka kopie je na Śląsku: - To ryzykancka robota jest, ale nie ma inszej, żeby nie ryzykować.</p>
+        <p xml:id="p-6">Robi na wsiach tradycyjne studnie z cembrowin. Najpierw kopie dół, do którego wsadza cementowy krąg. Pogłębia dół, spycha krąg, na nim stawia następny. Znów dół, krąg, dół... Do pierwszej wody.</p>
+        <p xml:id="p-7">Inżynier Felter ma firmę, która wierci studnie głębinowe.</p>
+        <p xml:id="p-8">Felter: - Wody w ziemi do 20-30 metrów są zanieczyszczone, dlatego buduje się wodociągi, do których doprowadza się wodę ze studni głębinowych.</p>
+        <p xml:id="p-9">Osiemdziesięciometrowa głębinowa studnia Feltera dla wiejskiego wodociągu kosztuje 48 tys. zł, Motyki - mniej niż 1000.</p>
+        <p xml:id="p-10">Motyka: - Z kręgowej woda zdrowsza. W głębinowej za dużo żelaza.</p>
+        <p xml:id="p-11">Studnia głębinowa to wąska stalowa rura wwiercona w ziemię. Może mieć pięć metrów (płytkie studnie w gospodarstwie), prawie trzysta (np. studnia głębinowa przy stacji hydrogeologicznej Uniwersytetu Warszawskiego), półtora tysiąca (ciągnie wodę do basenu w Zakopanem) i więcej.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

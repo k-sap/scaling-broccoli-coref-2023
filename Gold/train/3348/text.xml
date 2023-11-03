@@ -1,0 +1,12 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Był pułkownikiem sowieckiej armii. Wychowano go w duchu posłuszeństwa, podziwu i lęku przed potęgą rosyjskiego oręża. Dlatego zawsze był przeciwnikiem wojny z Rosją, dążył do jak najszybszego jej zakończenia. Ale także dlatego potrafił stawić Rosji czoło. Zdołał przekształcić cywili w żołnierzy zabójczo skutecznej partyzanckiej armii, a zapatrzonych w siebie i nieznających słowa "dyscyplina" klanowych watażków w oficerów tej armii. Zwycięstwo nad regularnymi oddziałami rosyjskimi to w dużym stopniu zasługa jego dowodzenia. Jako prezydentowi Asłanowi Maschadowowi przyszło rządzić krajem dotkliwie okaleczonym przez wojnę, ze zniszczoną gospodarką, infrastrukturą, ale i społeczeństwem przez tę wojnę zdemoralizowanym i zdeprawowanym. Nie potrafił ustanowić porządku i spokoju w pogrążonej w bandytyzmie republice. Mimo że Czeczeni wybrali go na swojego prezydenta przytłaczającą większością głosów, szybko się od niego odwrócili, obarczając go odpowiedzialnością za wszystko, co w kraju szło nie tak. Nigdy zresztą nie był kochany przez swój naród, jak choćby pławiący się w wojennej sławie Szamil Basajew, ale zawsze cieszył się ogromnym szacunkiem i ten szacunek zachował do końca. Wraz z Maschadowem, zabitym przez rosyjskie siły specjalne, zginął ostatni cień nadziei, że Rosjanie i czeczeńscy separatyści rychło siądą do stołu rokowań. Maschadow wezwania do pokojowych rozmów powtarzał jak mantrę. Kreml nie chciał ich jednak słyszeć. Te wezwania były mu niewygodne. Psuły nakreślony przez kremlowskich propagandzistów czarno-biały pejzaż Czeczenii, na którym widnieli jedynie dobrzy Czeczeni - absolutnie podporządkowani nowej marionetkowej administracji, i źli Czeczeni - terroryści i mordercy.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

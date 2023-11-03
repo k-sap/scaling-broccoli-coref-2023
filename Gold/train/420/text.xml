@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Edukacja</p>
+        <p xml:id="p-2">Na terenie dzielnicy Zabłocie znajdują się następujące placówki edukacyjne: Przedszkola Przedszkole nr 1 , ul. Księdza Prałata Stanisława Słonki 4 Przedszkole nr 10 , Osiedle Browar-Kolonia 44 Szkoły podstawowe Szkoła Podstawowa nr 1 im. Wojska Polskiego przy ul. Księdza Prałata Stanisława Słonki 14 - otwarta została 11 września 1899 roku i otrzymała imię cesarza Franciszka Józefa I. Do szkoły na naukę codzienną uczęszczało 296 uczniów. W 1921 roku została przekształcona w szkołę siedmioklasową, a w 1928 roku nadano jej imię św. Jana Kantego. W 1938 roku w 13 oddziałach Ø uczyło się 684 uczniów. W 1964 roku szkoła otrzymała nowy gmach i imię Ludowego Wojska Polskiego. Parcelę pod budowę szkoły ofiarowała Żywiecka Fabryka Papieru. W 1999 roku szkoła otrzymała imię Wojska Polskiego. Gimnazja Gimnazjum nr 1 im. Jana Pawła II przy ul. Dworcowej 26 (dawniej Szkoła Podstawowa nr 7) - powstało w wyniku reformy szkolnictwa w 1999 roku poprzez przekształcenie z dotychczasowej Szkoły Podstawowej nr 7. W roku 2002 szkołę opuścili pierwsi absolwenci. Szkoły średnie Zespół Szkół Budowlano-Drzewnych im. Armii Krajowej przy ul. Szkolnej 2 - powstała 1 września 1887 jako Krajowa Szkoła Przemysłowa Dla Stolarstwa i Zabawek. Później dokonano zmiany nazwy na Uzupełniająca Szkoła Przemysłowa. Do 1914 roku szkoła kształciła tylko chłopców. W 1925 roku dokonano kolejnej zmiany nazwy szkoły Publiczna Szkoła Zawodowa Dokształcająca. Od 1947 roku szkoła prowadziła naukę w 2 systemach: dziennym oraz wieczorowym. Szkoła od 1956 roku podjęła kształcenie młodzieży w 50 zawodach. Dokonano też zmiany nazwy szkoły na Zasadniczą Szkołę Zawodową, która utrzymała się do 1975 roku, w którym to przekształcono ją w Zespół Szkół Budowlano-Drzewnych.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

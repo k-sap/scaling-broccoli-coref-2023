@@ -1,0 +1,19 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Jednak zgrabna sylwetka pani prezydentowej przeczy tym słowom.</p>
+        <p xml:id="p-2">W mieszkaniu państwa Szczurków czuje się rodzinne ciepło. Małżonkowie rozumieją się bez słów, a swoje myśli chwytają w lot. Obdarowują się prezentami. Pani Basia do dzisiaj pamięta, jak mąż, w rok po ślubie, podarował jej brązowe kozaki na szpilce, o których zawsze marzyła. - Wydał wówczas wszystkie nasze pieniądze, które mieliśmy na życie do końca miesiąca - wspomina.</p>
+        <p xml:id="p-3">Pani Basia i pan Wojtek twierdzą, że nie widzą w sobie żadnych wad.</p>
+        <p xml:id="p-4">- Jestem po prostu idealny - stwierdza „skromnie” prezydent.</p>
+        <p xml:id="p-5">- Muszę wszystko w nim lubić skoro jesteśmy razem już tyle lat - przyznaje pani Basia. - Jednak wolałabym, aby częściej był w domu.</p>
+        <p xml:id="p-6">Sylwester na placu Grunwaldzkim</p>
+        <p xml:id="p-7">Na szczęście zbliżają się święta, które prezydent Gdyni spędza z rodziną. Od wielu lat celebrowany jest ten sam rytuał. Na połowę Wigilii cała rodzina jedzie do rodziców pana Wojciecha. Na stole dominują tradycyjne potrawy, jest choinka, kolędy, życzenia i prezenty. Około godz. 19, na drugą kolację wigilijną, państwo Szczurkowie wracają do rodziców pani Basi. Ponadto w ciągu dnia zdarzają się jeszcze 2 - 3 wigilie okazjonalne, np. w MOPS lub w restauracji Polonia. Natomiast pierwszy i drugi dzień świąt cała rodzina spędza ze sobą.</p>
+        <p xml:id="p-8">- Staramy się, aby było bardzo rodzinnie i niezwykle tradycyjnie - podkreśla pan Wojciech. - Choinka, kolędy, tradycyjne potrawy i wspólny spacer. - Przywiązanie do rodzinnych tradycji wynieśliśmy ze swoich własnych domów - dodaje pani Basia. - Chcemy, aby nam i naszym dzieciom także tego nie brakowało.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

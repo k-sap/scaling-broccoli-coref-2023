@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Chyba najgorsze, co może spotkać mężczyznę, to syndrom "miłego" lub "przyjaciela". Owszem, przyjaźń jest niezwykle ważnym uczuciem, cennym i wyjątkowym - niektórzy twierdzą nawet, że przyjaźń jest rodzajem miłości, przy czym bez pociągu seksualnego, który wszystko komplikuje, i jeśli tak jest, to prawdopodobnie dlatego przyjaźnie są raczej monopłciowe. Coś w tym jest, bo niezwykle rzadko zdarza się prawdziwa przyjaźń pomiędzy mężczyzną a kobietą. Niestety najczęściej jest tak, że przyjaźń ta kończy się po przekroczeniu pewnej subtelnej granicy bycia ze sobą blisko. Zwykle wszystko komplikuje jakieś bliżej nieokreślone zbliżenie fizyczne, kiedy okazuje się, że jedno z przyjaciół tak naprawdę kocha - wtedy pryska czar i raptem dowiadujemy się, że oto nie była to wcale przyjaźń. Przykra sprawa. Często jest tak, że zakochany mężczyzna spotyka swoją "przyjaciółkę", przez długie lata utrzymując znajomość, bo zdaje sobie sprawę, że jego wysiłki w uwiedzeniu jej są bezcelowe, ale kocha ją tak mocno, że w obawie przed utratą tej chociaż namiastki kochanki - milczy i niesie swój ciężki krzyż przez wiele lat. Czasem bywa też odwrotnie. Ale wszystko to dowodzi, że prawdziwa, czysta przyjaźń różnopłciowa jest zjawiskiem tak rzadkim, jak zorza polarna w Mozambiku. Jest możliwość, że taka znajomość ma rację bytu, ale nikogo nie krzywdząc, powiem, że jest to sytuacja marginalna - wtedy, kiedy oboje z takiej pary są miłośnikami tej samej płci. Zatem chyba nie ma nic gorszego niż słowa: XXX - jesteś bardzo miłym facetem, ale...</p>
+        <p xml:id="p-2">albo: Uważam, że jesteś wspaniałym mężczyzną i nasza znajomość jest wyjątkowa, ale wolałabym, abyśmy zostali przyjaciółmi...</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

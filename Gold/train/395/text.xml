@@ -1,0 +1,18 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Były również obecne delegacje 23 Kościołów wschodnich i prawosławnych, 8 delegacji Kościołów i związków wyznaniowych zachodnich, 3 delegacje międzynarodowych organizacji chrześcijańskich. Ponadto w uroczystościach wzięło udział wiele organizacji żydowskich, 17 delegacji religii niechrześcijańskich i instytucji odpowiedzialnych za dialog międzyreligijny.</p>
+        <p xml:id="p-2">DANE DEPARTAMENTU OBRONY CYWILNEJ WŁOCH</p>
+        <p xml:id="p-3">Wierni</p>
+        <p xml:id="p-4">W dniach od 2 do 8 kwietnia przybyło do Rzymu ponad 3 miliony pielgrzymów: do Bazyliki Świętego Piotra wchodziło 21.000 osób na godzinę, 350 Ø na minutę; 13 godzin wynosił średni czas oczekiwania na wejście do Bazyliki, a najdłużej czekano 24 godziny; kolejka osiągała długość 5 kilometrów. W dniu pogrzebu na Placu Świętego Piotra i na Via Conciliazione 500.000 wiernych uczestniczyło we Mszy pogrzebowej; 600.000 osób śledziło transmisję w rejonach, gdzie rozstawiono telebimy; 400 osób niepełnosprawnych uczestniczyło we Mszy św. na dziedzińcu Bazyliki.</p>
+        <p xml:id="p-5">Obsługa</p>
+        <p xml:id="p-6">Uroczystości pogrzebowe obsługiwało 8.000 wolontariuszy, z czego 1.300 Ø Ø w kampusie Tor Vergata, I. 500 Ø Ø w rejonie Bazyliki, 450 Ø Ø na stacjach kolejowych, a pozostali Ø w rejonach, gdzie rozstawiono telebimy; ponadto zaangażowanych było ok. 2.000 skautów.</p>
+        <p xml:id="p-7">Liczba osób dbających o bezpieczeństwo wyniosła II. 900, z czego 530 Ø pracowało w ruchu granicznym, a 8.963 Ø w Rzymie (4.500 utrzymujących porządek publiczny, 1.640 zajmujących się ochroną ok. 1.800 osobistości, 1.763 specjalistów, 2.400 osób rozlokowanych w innych prowincjach); ponad 1.000 strażaków; 6 helikopterów (2 Ø policji, 2 Ø karabinierów, 2 Ø wojska); 400 żołnierzy, 2.700 funkcjonariuszy Straży Miejskiej i 7.000 pracowników kolei państwowych.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

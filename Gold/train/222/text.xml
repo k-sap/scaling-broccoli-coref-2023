@@ -1,0 +1,14 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Urodziła się w Nisku na Podkarpaciu, ale jej rodzice zaraz potem przeprowadzili się na Śląsk i zamieszkali w Tychach. Po podstawówce Ola przez rok uczyła się w tyskim Liceum Ogólnokształcącym im. C. K. Norwida. Dalej wybrała już Szkołę Mistrzostwa Sportowego w Sosnowcu, skąd trafiła do klubu z Bielska-Białej. Pod Klimczokiem spędziła pięć lat. Ukończyła zarządzanie i marketing na Akademii Techniczno-Humanistycznej i zdobyła dwa tytuły mistrza Polski. Wszyscy trenerzy, którzy z nią pracowali, cenili sobie jej umiejętności przywódcze. Nic dziwnego, że Andrzej Niemczyk też na nią postawił. I nie miało znaczenia, że Ola jest jedynym kapitanem, który na mistrzostwach Europy nie gra w wyjściowej szóstce. Liczyła się charyzma.</p>
+        <p xml:id="p-2">— Mam rodziców z charakterem — uśmiecha się Ola. — Choć cechy przywódcze odziedziczyłam chyba bardziej po mamie. To ona rządzi domu. Ale zaraz, zaraz, ja nie jestem żadnym przywódcą! — próbuje się bronić. Nie jest typem kobiety, która wali pięścią w stół. Potrafi za to rozmawiać, iść na kompromis. — Jest nas 12 dziewczyn. Gdyby każda zaczęła się wykłócać, nigdy nie doszłybyśmy do porozumienia — zaznacza. W prozaicznych sprawach, takich jak dobór sprzętu, czy strojów meczowych ma decydujące zdanie. W ważniejszych kwestiach woli decydować z koleżankami.</p>
+        <p xml:id="p-3">Od roku mieszka we Włoszech. Gra w drugoligowym Rebecchi River Volley Rivergaro. Ma dwupokojowe mieszkanie, na treningi dojeżdża volkswagenem golfem, który dostała od klubu. Kto wie, czy teraz nie dostanie nowego auta — jeden ze sponsorów jest właścicielem salonu samochodowego. — Rivergaro to małe miasteczko. Wjeżdżasz do centrum i już się kończy. Ale jestem zadowolona z warunków, jakie mam — mówi.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

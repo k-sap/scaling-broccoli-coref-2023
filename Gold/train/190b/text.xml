@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Skąd mam uzyskać potwierdzenie o dochodach z tytułu pobieranej renty socjalnej? Jest mi to potrzebne do ubiegania się o zasiłek rodzinny. Urząd Skarbowy takiego zaświadczenia nie wydaje. Gdzie mam się zwrócić?</p>
+        <p xml:id="p-2">- To prawda, zaświadczenia o dochodach z tytułu pobieranej renty socjalnej nie uzyska Pani w Urzędzie Skarbowym. Jedynym uprawnionym organem do wydawania takich zaświadczeń jest instytucja opieki społecznej. We Wrocławiu jest to Miejski Ośrodek Pomocy Społecznej przy ul. G. Zapolskiej 2/4. Tam, w ciągu paru dni, uzyska Pani stosowne zaświadczenie.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

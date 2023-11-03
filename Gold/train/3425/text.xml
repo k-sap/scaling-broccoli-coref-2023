@@ -1,0 +1,14 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Ponadto Klub organizuje obozy sportowe dla zawodników w okresie zimowym i letnim w różnej formie i zakresie. W roku 2005 organizowane były obozy "dochodzeniowe", wykorzystujące miejscowe szkolne sale sportowe i urządzenia lekkoatletyczne, a przede wszystkim stadion OSiRu z tartanową bieżnią. Czołowi zawodnicy, którzy są członkami kadry wojewódzkiej, brali udział w obozach organizowanych przez WZLA - Poznań. Należy również odnotować bardzo piękny gest ze strony byłego nauczyciela wf ZS nr 2 i byłego trenera naszego Klubu p. Marka Nalepy, który dla kilku naszych zawodników sfinansował obozy sportowe w Ośrodku Sportowym w Spale. Pragnę również w podsumowaniu ukazać niedociągnięcia i problemy, z którymi Klub musi się borykać w swej statutowej działalności na co dzień.</p>
+        <p xml:id="p-2">Dużym problemem. z którym borykamy się od wielu lat, są sprawy finansowe. Finanse są za małe, by można prawidłowo i skutecznie prowadzić szkolenie i statutową działalność. Dotacja, którą otrzymujemy, nie pokrywa kosztów związanych z działalnością Klubu. Ukażę tylko ogólne spostrzeżenia, uwagi i wnioski związane z naszym "budżetem". Szczegółowe rozliczenie finansowe minionego roku będą podane czytelnikom i sympatykom w styczniu bądź na początku lutego 2006r.</p>
+        <p xml:id="p-3">Klub nasz już dawno nie wychował zawodnika z I klasą i czterech zawodników z II klasami. Tej klasy zawodnicy wyjeżdżają na zawody szczebla centralnego, na zawody kilkudniowe do Wrocławia, Poznania, Bielska-Białej, Stargardu Szczecińskiego, Białegostoku i Warszawy. Wyjazdów jest tym więcej, im zawodnicy uzyskują lepsze wyniki. Ich wyjazdy pochłaniają duże pieniądze, a dochodzi jeszcze wyczynowy sprzęt i ubiór sportowy. Tej klasy zawodnicy powinni mieć dożywianie, witaminy, odnowę biologiczną, a w razie kontuzji leczenie specjalistyczne w przychodniach sportowych. W obecnej kondycji finansowej Klubu nie jest stać utrzymanie takich zawodników.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

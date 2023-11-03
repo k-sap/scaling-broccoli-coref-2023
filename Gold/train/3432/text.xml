@@ -1,0 +1,14 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Po wielu krytycznych publikacjach tyczących firm public relations (m.in. w "Gazecie Wyborczej", "Pulsie Biznesu", w sierpniowym raporcie "Polityki") Związek Firm Public Relations zdecydował się na działania, mające poprawić wizerunek branży. Prezes Związku Rafał Szymczak rozpoczął kampanię Czyste Informacje, która ma przeciwdziałać zjawisku ukrytej reklamy w mediach (np. uzależnianie zamieszczenia reklamy w gazecie od zamieszczenia w niej redakcyjnego artykułu sprzyjającego producentowi).</p>
+        <p xml:id="p-2">Jeden z największych na świecie ośrodków badawczych PR z siedzibą na Florydzie - Institute for Public Relations - opracował projekt badań, który ma określić skalę występowania zjawiska kryptoreklamy. Zrealizuje go ośrodek SMG/KRC. Obejmie on badanie na celowej próbie osób, tj. dziennikarzy i pracowników branży PR, oraz sondaż na reprezentatywnej próbie Polaków powyżej 15 roku życia, który ma odpowiedzieć na pytanie, jaki jest poziom zaufania społeczeństwa do mediów oraz poziom akceptacji zachowań nieetycznych.</p>
+        <p xml:id="p-3">Kancelaria Prawnicza Salans zamierza przygotować ekspertyzę dotyczącą stanu prawnego w Polsce oraz zmian, jakie nasz ustawodawca będzie musiał wprowadzić po ratyfikowaniu przez Unię Europejską Dyrektywy o nieuczciwych praktykach biznesowych. Ekspertyza ma być gotowa do końca października. Do akcji włączyły się również Izba Wydawców Prasy, Stowarzyszenie Dziennikarzy Polskich, Helsińska Fundacja Praw Człowieka, Polska Konfederacja Pracodawców Prywatnych oraz Uniwersytet Warszawski, który zorganizuje debatę na temat tego patologicznego zjawiska. Honorowy patronat nad kampanią objął Cezary Banasiński, prezes Urzędu Ochrony Konkurencji i Konsumentów.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

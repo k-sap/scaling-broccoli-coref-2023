@@ -1,0 +1,18 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">2) szczegółowe wymagania dotyczące higieny lub kontroli produktów pochodzenia zwierzęcego w zakresie przekazanym do uregulowania przez Rzeczpospolitą Polską lub państwa członkowskie Unii Europejskiej</p>
+        <p xml:id="p-2">- mając na względzie realizację celów określonych w przepisach Unii Europejskiej w zakresie prawa żywnościowego, w tym zapewnienie bezpieczeństwa produktów pochodzenia zwierzęcego oraz skutecznej kontroli tych produktów, a także zapobieganie zagrożeniom dla zdrowia publicznego, wynikającym z produkcji lub wprowadzania na rynek produktów pochodzenia zwierzęcego oraz ograniczanie lub eliminowanie tych zagrożeń.</p>
+        <p xml:id="p-3">1. Produkty pochodzenia zwierzęcego mogą być wprowadzane na rynek, jeżeli zostały pozyskane od zwierząt lub ze zwierząt, które spełniają wymagania weterynaryjne określone w przepisach o ochronie zdrowia zwierząt oraz zwalczaniu chorób zakaźnych zwierząt.</p>
+        <p xml:id="p-4">2. Produkty pochodzenia zwierzęcego mogą być wprowadzane na rynek, jeżeli zostały pozyskane od zwierząt lub ze zwierząt niepochodzących z gospodarstwa, zakładu lub obszaru podlegającego ograniczeniom, nakazom lub zakazom wydanym na podstawie przepisów o ochronie zdrowia zwierząt oraz zwalczaniu chorób zakaźnych zwierząt ze względu na chorobę zakaźną zwierząt wymienioną w przepisach wydanych na podstawie art. 10 ust. 2.</p>
+        <p xml:id="p-5">3. Nie wprowadza się na rynek mięsa i produktów mięsnych, które zostały pozyskane ze zwierząt poddanych ubojowi w rzeźni w czasie, gdy znajdowały się tam:</p>
+        <p xml:id="p-6">1) zwierzęta podejrzane o zakażenie lub zakażone, podejrzane o chorobę lub chore na jedną z chorób zakaźnych zwierząt wymienioną w przepisach wydanych na podstawie art. 10 ust. 2,</p>
+        <p xml:id="p-7">2) tusze lub części tusz zwierząt, o których mowa w pkt 1</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

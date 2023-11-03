@@ -1,0 +1,17 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Wydawane przez te firmy pisma to mniej lub bardziej dokładne kopie niemieckich pierwowzorów. Właściciel tytułu, sprzedając prawa do jego wydawania, zastrzega sobie zwykle, że pismo wychodzić będzie w niemal nie zmienionej formie. Umowy licencyjne ograniczają liczbę polskich tekstów do zaledwie kilku w każdym numerze. Praca polskiej redakcji sprowadza się więc do tłumaczeń, co znacznie obniża koszty wydawania.</p>
+        <p xml:id="p-2">Wszystkie pisma spółki Jahr Verlag redaguje jedna osoba, a teksty przekłada paru - zatrudnionych tylko na zlecenie - tłumaczy. Wydawanie nawet kilku pism o zupełnie różnych profilach jest więc zupełnie prostą sprawą.</p>
+        <p xml:id="p-3">Bliźniaczo podobne do niemieckich i do siebie nawzajem są informatory telewizyjne: ,Super TV' (Phoenix Intermedia w spółce z niemiecką [,Burda'] i ,Sebald' f-ma), ,Tele Tydzień' (Bauer) i ,Telemagazyn' (Bertelsmann), rozprowadzany jako dodatek do dziesięciu tygodników i dzienników lokalnych.</p>
+        <p xml:id="p-4">Podają informacje o programach satelitarnych i "goły" , a w dodatku mało aktualny program TVP. Ale dorzucają do tego plotki o gwiazdach, porady, krzyżówki i konkursy - prawie wszystko gotowe z Niemiec, czyli prosto i tanio.</p>
+        <p xml:id="p-5">Pokombinować - powstanie kombajn</p>
+        <p xml:id="p-6">Prosta jest także strategia zdobywania czytelników: - Nie robimy żadnych planów, pomysły pojawiają się nagle - przyznaje przedstawiciel Jahr Verlag Dariusz Liwanowski. - Do redakcji [,Majster'] przychodziło dużo listów, stwierdziliśmy, że jest zapotrzebowanie na pismo o podobnym profilu. Następną licencją jest więc "Sam. Kram z pomysłami" dla majsterkowiczów.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

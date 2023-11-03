@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Dla rzecznika Stafieja przypadek z Sękowej ma wymiar ponadlokalny i polityczny. Może dać argumenty do ręki tym, którzy od paru lat domagają się likwidacji w Polsce Ochotniczych Straży Pożarnych.</p>
+        <p xml:id="p-2">Małgorzata Małuch, sekretarz podgorlickiej gminy, ma nadzieję, że historia ta, choć niechlubna, przyczyni się do wypromowania wśród turystów urody Sękowej. - Kiedyś kojarzono nas ze złożami ropy, a teraz ze złymi strażakami. Przynajmniej znów jest wiadomo, gdzie jesteśmy na mapie.</p>
+        <p xml:id="p-3">Józef Drzymała większych nadziei nie ma. Dziś znów jest naczelnikiem miejscowej OSP, bo stary zarząd rozwiązano, a strażaków-piromanów wyrzucono. Prezesem zarządu przetrzebionej straży została teraz kobieta, żeby już nikt nie miał więcej żadnych podejrzeń. - Kobitki chyba nikt nie będzie podejrzewał o podpalenia? - zastanawia się smutno strażak, chwilowo bez pracy. Do pożarów straż z Sękowej bowiem aż do odwołania nie jeździ. Prokuratura zabrała wszystkie dokumenty z OSP i zaryglowała drzwi remizy. Nowy podarowany przez Gorlice wóz strażacki można dziś oglądać jedynie przez okno.</p>
+        <p xml:id="p-4">Do pożaru, który wybuchł w Sękowej w lipcu, przyjechali więc strażacy z sąsiednich jednostek. Tym razem spłonęła szopa w samym środku wsi. Należała, podobnie jak sąsiadująca z nią willa, do mieszkańca Katowic. Właściciela wezwała na pogorzelisko gorlicka policja. Wyjaśniła, że było bardzo gorąco. O mały włos ogień nie przeniósł się na inne domy. Na pierwszy rzut oka ten pożar niczym się nie różnił od pozostałych. Może tylko był nieco groźniejszy dla ludzi. Poza tym strażacy-piromani byli w tym czasie w areszcie, więc kto podpalił szopę?</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

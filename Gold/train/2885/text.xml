@@ -1,0 +1,14 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Część druga U władzy</p>
+        <p xml:id="p-2">Krajobraz po bitwie</p>
+        <p xml:id="p-3">Polska nocą 20 grudnia przypominała prawdziwy krajobraz po bitwie. Wiem o tym dowodnie, bowiem dwie godziny po przemówieniu Gierka, które - wyznam szczerze - nie zrobiło na mnie mocnego wrażenia, udałem się swoim wartburgiem do Szczecina. Byłem wówczas dziennikarzem warszawskiej "Kultury", wiozłem samochodem kolegów dziennikarzy: Jerzego Ambroziewicza i Macieja Wierzyńskiego. Chcieliśmy tamtej grudniowej nocy przekonać się na własne oczy, jak wygląda zrewoltowana Polska. Jechaliśmy do Szczecina - miasta, które ruszyło się później niż Gdańsk i Gdynia, a w czwartek przeżyło prawdziwą gehennę pacyfikacji. Tam bowiem milicja oddała strzały do tłumu demonstrantów, którzy podpalili gmach Komitetu Wojewódzkiego partii. Byli zabici i ranni. Pięćset kilometrów dzielących Warszawę od Szczecina przejechaliśmy nocą przez nikogo nie zatrzymywani. Szosy były prawdziwie wymarłe, bez żadnych dosłownie pojazdów cywilnych czy wojskowych. Niemal całą drogę rozmawialiśmy w wielkim podnieceniu. W przemówieniu Gierka najważniejsza była naszym zdaniem jego pojednawczość i przyznanie się do win popełnionych przez władze, a także podanie społeczeństwu pokojowej rękawicy. Gierek w swym wystąpieniu telewizyjnym, jak zauważyliśmy, niemiłosiernie prześlizgiwał się nad całotygodniowym polskim dramatem. Więcej wówczas, jako nowy szef partii odpowiedzialnej za pięć dni strzelania, nie mógł najprawdopodobniej powiedzieć. Myśmy to rozumieli, ale czy mogło to wystarczyć stoczniowcom? Do Szczecina dojechaliśmy już za dnia w godzinach rannych, od strony Stargardu Szczecińskiego. W miarę jak zbliżaliśmy się do stolicy Pomorza Zachodniego, widzieliśmy coraz więcej budynków oflagowanych na biało-czerwono i czerwono. Gdzieniegdzie dodatkowo jeszcze udekorowanych transparentami z egzotycznie dla nas wyglądającymi napisami: "Strajk trwa". W ten sposób nadspodziewanie szybko uzyskaliśmy odpowiedź na stawiane pytania.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

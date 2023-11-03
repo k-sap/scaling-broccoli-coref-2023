@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Dał się poznać już 20 lat temu jako prokurator ścigający przestępstwa korporacyjne, który posłał do więzienia finansistę Ivana Boesky oraz maklera tanich papierów wartościowych Michaela Milkena i wielu innych „speców” od transakcji na giełdzie. Potem przez 8 lat był burmistrzem Nowego Jorku, gdzie nie tylko ograniczył zdecydowanie przestępczość, ale dzielnie zmagał się ze skutkami terrorystycznego ataku na World Trade Center 11 września 2001 r. Teraz mając 63 lata, postanowił zrobić karierę polityczną na skalę krajową.</p>
+        <p xml:id="p-2">– Mówi dużo o walce z przekrętami na Wall Street, ale nawet nie wie, że w bojach politycznych wspiera się od dawna na funduszach hedgingowych i działach inwestycyjnych wielkich banków, a więc tych miejscach, które wcześniej pilnie śledził – mówi z przekąsem Chuc Gabriel, polityczny strateg inwestorów instytucjonalnych. To się jednak opłaci. Od marca br. Giuliani zebrał już na kampanię prezydencką 1,8 mln dolarów od firm handlujących akcjami na giełdzie.</p>
+        <p xml:id="p-3">Amerykańska Komisja Nadzoru Giełdy (SEC) w ostatnich 15 miesiącach wytoczyła więcej spraw dotyczących obrotu wewnętrznego papierami wartościowymi bankierom inwestycyjnym, analitykom i menedżerom różnych spółek niż w całych latach 90. Pytany o to Giuliani odparł, że problem pojawia się w USA cyklicznie.</p>
+        <p xml:id="p-4">– Jest coś zadziwiającego, że zawsze podąża za nami. Mamy więc okres regulacji i wzmożonej przestępczości, którą potem ludzie usiłują zwalczać. Wreszcie zapominają i sprawa rusza od nowa – powiedział. Na stronie internetowej nie kryje, że „podjął wiele udanych działań przeciwko przestępczości zorganizowanej, kryminalistom w białych kołnierzykach, handlarzom narkotyków i skorumpowanym urzędnikom”. Do najbardziej znanych zalicza ukaranie kilku mafiosów i wykrytą „korupcję na Wall Street”.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

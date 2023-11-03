@@ -1,0 +1,16 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Najgroźniejsza jednak wydaje się nie opozycja w opozycji czy w partii, ale śmiertelne zmęczenie społeczeństwa, wyczerpanie się cierpliwości i egoistyczne otępienie.</p>
+        <p xml:id="p-2">Jestem w małym miasteczku. Odwiedzam kilku raczej zamożnych jego mieszkańców w ich obszernych betonowych domach, w które zainwestowali całe swoje życie, umiejętność dawania łapówek i załatwiania materiałów budowlanych. Te domy to zarazem świątynia i bunkier. Zdejmuje się buty przed wejściem na pokoje, dzieci nie mają prawa zapraszać swoich rówieśników, bo nabrudzą. W salonie stoi kilka telewizorów, ale tylko jeden jest czynny, reszta to lokata pieniędzy.</p>
+        <p xml:id="p-3">Pytam o okrągły stół. Peszą się, jak nieprzygotowany uczeń wywołany nagle do tablicy. Po chwili wahania mówią: "To i tak nic nie da, niech przyjadą do nas na prowincję, to się przekonają, że tu już niczego się ruszyć nie da. Będzie wszystko jak było". A przecież ci ludzie komunizm uważają za dopust Boży, nie wyobrażają sobie jednak, by mogło być inaczej i nawet obawiam się - w czymś innym nie potrafiliby żyć. A ich patriotyzm, czy choćby przywiązanie do społeczności lokalnej, wydają się zalane betonem.</p>
+        <p xml:id="p-4">Wracając do Warszawy, zajeżdżam na wieś. Zafrasowany chłop poprawia czapkę: - Oj, źle się, panie, dzieje. Miasto chce przeżyć kosztem wsi.</p>
+        <p xml:id="p-5">- Czy ten Wałęsa da radę, przecież diabła nikt nie przechytrzył? Potem oboje skarżą się na nowe ceny kosiarek, na nowe podatki.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

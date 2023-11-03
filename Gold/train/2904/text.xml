@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Nie zrobiłem tego i im dalej idę w lata - tym pewniej wiem, że postąpiłem słusznie. Gdybym pracował jako urzędnik, na pewno z mniejszą energią starałbym się wracać do ulubionego zawodu. Człowiek się przyzwyczaja, z wiekiem dziadzieje i mniej już chętnie zmienia to, co mu narosło. Gdybym jeszcze zrobił jakąś karierę urzędniczą - co też trudno wykluczyć - to już ciężko byłoby się wycofać. Zostałbym w innym fachu i - byłbym nieszczęśliwy przez całe życie.</p>
+        <p xml:id="p-2">Zresztą nie uznawałem wtedy rozwiązań połowicznych i uważałem, że albo wszystko - albo nic.</p>
+        <p xml:id="p-3">Było nic albo prawie nic - nie było bowiem nawet średnio. Gdy wracam myślą do tych czasów, to dziękuję niebiosom, że mi się okres stagnacji zdarzył w młodym jeszcze wieku. Dziś nie przetrzymałbym takich lat, a jeśli nawet - zostawiłyby one we mnie ślady, których nie można zatrzeć, a przede wszystkim przytłumiłyby radość życia.</p>
+        <p xml:id="p-4">Aby było wszystko jasne, chciałem możliwie stanowczo podkreślić, że wszystko, co w tych sprawach piszę, nie jest żadnym rozrachunkiem z przeszłością. Nawet gdybym miał ochotę, to chyba nie miałbym prawa do tak zwanych rozrachunków, a szczególnie do utrwalania ich w druku. To, co piszę - jest jedynie kroniką, relacją, wspomnieniem i refleksją. Nie zamierzam, gdyż nie potrafię, nikogo sądzić ani ważyć niczyich czynów. Później, po latach, z wieloma ludźmi, którzy dawali mi w kość, pozostawałem w dobrych, a nawet przyjaznych stosunkach, a do wielu faktów i wydarzeń znacznie mam łagodniejszy stosunek, niż może powinienem.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

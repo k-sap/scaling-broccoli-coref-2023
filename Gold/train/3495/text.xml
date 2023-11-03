@@ -1,0 +1,18 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">1. Opłata za egzaminy wstępne ustalana jest przez Senat UW na podstawie Zarządzenia Ministerstwa Edukacji Narodowej. Służy ona pokryciu wszystkich kosztów związanych z rekrutacją, takich jak: wynagrodzenia dla osób przygotowujących pytania i testy egzaminacyjne, dla osób sprawdzających, dla administracji obsługującej rejestracje kandydatów, dla obsługi rejestracji centralnej. Nie jest to więc jedynie opłata manipulacyjna. W uzasadnionych przypadkach istnieje możliwość zmniejszenia lub całkowitego zwolnienia kandydata od tej opłaty.</p>
+        <p xml:id="p-2">2. Opinie na temat testów są często zróżnicowane. (...) Przytoczone przez autora artykułu (zresztą niezbyt dokładnie) pytania okazały się dla kandydatów względnie proste (ponad 40 proc. kandydatów odpowiedziało na nie prawidłowo).</p>
+        <p xml:id="p-3">3. Wątpliwość w sprawie dostępności pytań testowych przed egzaminem nie dotyczy chyba naszej uczelni, rekrutacja na Uniwersytet Warszawski nie wzbudziła bowiem pod tym względem żadnych podejrzeń.</p>
+        <p xml:id="p-4">4. Osobnym problemem są zarzuty wobec egzaminów ustnych na kierunek nauki polityczne. Każdy kandydat niezadowolony z formy lub trybu egzaminu wstępnego ma prawo wnieść odwołanie do Uczelnianej Komisji Rekrutacyjnej. Żadne zażalenie do dzisiaj nie wpłynęło.</p>
+        <p xml:id="p-5">5. Instytut Socjologii "pobrał" od kandydatów ok. 55 000 zł, a nie 600 000 zł jak napisał autor artykułu. Mamy nadzieję, że było to jedynie przejęzyczenie.</p>
+        <p xml:id="p-6">Dr Zuzanna Toeplitz rzecznik informacyjny Uniwersytetu Warszawskiego</p>
+        <p xml:id="p-7">W artykule zawarto szereg krzywdzących opinii o przebiegu rekrutacji na studia w Instytucie Socjologii Uniwersytetu Warszawskiego. (...)</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

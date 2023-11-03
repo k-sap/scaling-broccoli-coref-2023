@@ -1,0 +1,25 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">1. Przewodniczący sesji giełdowej może nadzorować wykonywanie zadań, o których mowa w § 85.</p>
+        <p xml:id="p-2">2. Giełda może podjąć lub w szczególnie uzasadnionych przypadkach przejąć wykonywanie zadań określonych w § 85 lit.a),c). Interwencja wówczas nie następuje.</p>
+        <p xml:id="p-3">87</p>
+        <p xml:id="p-4">Członek giełdy - specjalista jest zobowiązany na żądanie Zarządu Giełdy przedstawić informację o limicie środków przeznaczonych na wykonywanie zadań specjalisty.</p>
+        <p xml:id="p-5">88</p>
+        <p xml:id="p-6">1. Odpis umowy, o której mowa w § 84, członek giełdy-specjalista obowiązany jest przekazać Zarządowi Giełdy, przed wydaniem zgody, o której mowa w § 84.</p>
+        <p xml:id="p-7">2. Spory wynikające z umowy, o której mowa w ust. 1 strony mogą poddać właściwości Sądu Giełdowego.</p>
+        <p xml:id="p-8">89</p>
+        <p xml:id="p-9">Wykonując zadania specjalisty, członek giełdy powinien kierować się przede wszystkim interesem uczestników rynku.</p>
+        <p xml:id="p-10">90</p>
+        <p xml:id="p-11">1. Członek giełdy - specjalista oraz emitent obowiązani są bezzwłocznie zawiadomić Zarząd Giełdy o dokonanym wypowiedzeniu, oraz wygaśnięciu umowy, o której mowa w § 84, jak również o każdej zmianie w jej treści, z wyjątkiem zmiany wynagrodzenia. Do zawiadomienia o zmianie treści umowy należy dołączyć odpis umowy w obowiązującym brzmieniu.</p>
+        <p xml:id="p-12">2. Zawiadomienie o wypowiedzeniu umowy strona dokonująca wypowiedzenia zobowiązana jest przekazać Zarządowi Giełdy nie później niż na 4 tygodnie przed terminem wygaśnięcia umowy.</p>
+        <p xml:id="p-13">91</p>
+        <p xml:id="p-14">Zarząd Giełdy może zawiesić prawo wykonywania przez członka giełdy zadań specjalisty, o ile nie wykonuje on ich zgodnie z przepisami obowiązującymi na giełdzie.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

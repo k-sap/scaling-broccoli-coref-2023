@@ -1,0 +1,55 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Po chwili</p>
+        <p xml:id="p-2">Rozumiem... A kto był przed panią?</p>
+        <p xml:id="p-3">HALINA</p>
+        <p xml:id="p-4">Pani Joanna Sadzińska.</p>
+        <p xml:id="p-5">MARIA</p>
+        <p xml:id="p-6">Ma pani na nią jakieś namiary?</p>
+        <p xml:id="p-7">HALINA</p>
+        <p xml:id="p-8">Tak... Wszystkie ważniejsze adresy i telefony są spisane... Mogę poszukać...</p>
+        <p xml:id="p-9">MARIA</p>
+        <p xml:id="p-10">Bardzo proszę...</p>
+        <p xml:id="p-11">Halina wyciąga jakiś skoroszyt i przegląda strony.</p>
+        <p xml:id="p-12">Zbliżenie Marii.</p>
+        <p xml:id="p-13">Scena</p>
+        <p xml:id="p-14">WNĘTRZE. DZIEŃ. GABINET EDWARDA. EDWARD, RYSZARD, ZIELIŃSKA</p>
+        <p xml:id="p-15">Ryszard wstaje z miejsca.</p>
+        <p xml:id="p-16">RYSZARD</p>
+        <p xml:id="p-17">W takim układzie, myślę, że sprawa rozwodowa powinna pójść po naszej myśli...</p>
+        <p xml:id="p-18">ZIELIŃSKA</p>
+        <p xml:id="p-19">Martwi mnie tylko... kaseta, na której pan i siostra powódki...</p>
+        <p xml:id="p-20">RYSZARD</p>
+        <p xml:id="p-21">Ta kaseta jest w moich rękach.</p>
+        <p xml:id="p-22">EDWARD</p>
+        <p xml:id="p-23">Zresztą pani Maria powiedziała mi, że za wszelką cenę chce uniknąć publicznego prania brudów. Tak to zdaje się sformułowała.</p>
+        <p xml:id="p-24">ZIELIŃSKA</p>
+        <p xml:id="p-25">Z UŚMIECHEM</p>
+        <p xml:id="p-26">Jeżeli tak, to chyba rzeczywiście nie będzie problemów.</p>
+        <p xml:id="p-27">RYSZARD</p>
+        <p xml:id="p-28">Dziękuję.</p>
+        <p xml:id="p-29">EDWARD</p>
+        <p xml:id="p-30">Będziemy w kontakcie.</p>
+        <p xml:id="p-31">RYSZARD</p>
+        <p xml:id="p-32">Do widzenia.</p>
+        <p xml:id="p-33">Ryszard wychodzi. Przez chwile w gabinecie panuje milczenie.</p>
+        <p xml:id="p-34">ZIELIŃSKA</p>
+        <p xml:id="p-35">Edward... Możesz mi wytłumaczyć jedną rzecz?</p>
+        <p xml:id="p-36">EDWARD</p>
+        <p xml:id="p-37">Słucham...</p>
+        <p xml:id="p-38">ZIELIŃSKA</p>
+        <p xml:id="p-39">Po co się w to tak bardzo angażujesz?</p>
+        <p xml:id="p-40">EDWARD</p>
+        <p xml:id="p-41">POWAŻNIEJE</p>
+        <p xml:id="p-42">Dla pieniędzy. Ten facet jest mi potrzebny. Jego żona jest właścicielką dwóch firm... Dla mnie jest jak kura znosząca złote jaja...</p>
+        <p xml:id="p-43">ZIELIŃSKA</p>
+        <p xml:id="p-44">Przecież i tak jesteś już jej doradcą...</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

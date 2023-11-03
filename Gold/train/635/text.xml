@@ -1,0 +1,20 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Dziś kupon nr 23 – w poniedziałek nr 24</p>
+        <p xml:id="p-2">Krótkie chwile na mundialach</p>
+        <p xml:id="p-3">Dziś drukujemy kupon nr 23 mundialowego konkursu „Dziennika Łódzkiego”, w którym można zdobyć 100 goli (punktów), a zwycięzca otrzyma fiata pandę.</p>
+        <p xml:id="p-4">Dzisiejsze pytanie dotyczy polskich zawodników, którzy najkrócej grali na mundialach. Nie wszyscy mogą pełnić rolę podstawowych piłkarzy kadry. Muszą w niej być także piłkarze rezerwowi, którzy wchodzą na boisko na kilka lub kilkanaście minut. O trzech takich zawodników dzisiaj właśnie pytamy.</p>
+        <p xml:id="p-5">Za poprawną odpowiedź przyznamy 2 gole.</p>
+        <p xml:id="p-6">W naszym konkursie można przysyłać dowolną liczbę kuponów. Bez względu na ich liczbę, jednej drużynie będą przyznawane punkty tylko z jednego kuponu, tego z prawidłową odpowiedzią.</p>
+        <p xml:id="p-7">Zwycięzcą zostanie Czytelnik, którego drużyna zgromadzi największą liczbę punktów. Punkty drużyn nie sumują się.</p>
+        <p xml:id="p-8">Pytania będziemy drukować w dodatku sportowym i w wydaniu wtorkowym do 19 czerwca 2006 roku. W poniedziałek jedno pytanie łatwiejsze za 1 gola (punkt), we wtorek jedno trudniejsze za 2 gole (punkty), a raz w miesiącu jedno za trzy punkty (hat trick).</p>
+        <p xml:id="p-9">Dzisiejszy kupon należy wypełnić, wyciąć i do 14 lutego 2006 roku przesłać (decyduje data stempla pocztowego) lub dostarczyć do redakcji „Dziennika Łódzkiego” w Łodzi: 90-532 Łódź, ul. ks. I. Skorupki 17/19, w Piotrkowie: ul. Słowackiego 16, w Sieradzu: Rynek 17, w Skierniewicach: ul. Batorego 12, w Bełchatowie: ul. Pabianicka 26, w Kutnie: pl. Wolności 3 lub do salonów Fiata AUTO FAPOL (Łódź, ul. Puszkina 50, Bełchatów, ul. Czapliniecka 60) z dopiskiem na kopercie: „mundial”.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

@@ -1,0 +1,14 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Ta i każda historia jest taka, jaką chcemy ją stworzyć i stwarzamy każdego dnia od nowa. W "Popiołach" Andrzeja Wajdy szwoleżerowie nie szarżują ani krętym wąwozem, ani pod górę, tylko galopują wściekle przez mazowieckie równiny. Nie da się policzyć, ilu ich tam jest, ale na pewno ponad trzystu - inaczej Mosfilm nie podpisałby kontraktu. W niczym mi to nie przeszkadza. Chodzi przecież o symbol, heroiczną abnegację, oszałamiający pęd i gruchot kopyt ku pokrzepieniu serc. Tak jest i to wszystkim wystarczy, gdyż takie jest zamówienie społeczne i potrzeba uczuć.</p>
+        <p xml:id="p-2">Problem w tym, że wbrew moim najszczerszym intencjom moi zracjonalizowani i zkonsumpcjonizowani studenci domagają się danych. - Ilu było więc ostatecznie tych szwoleżerów na polu bitwy pod Somosierrą: 88, 100, 125, 135, 150 czy 200? A ilu z nich poległo? Bo jedni piszą o 57 poległych, inni o 60, a inni o 57 poległych i rannych. A czy naprawdę Napoleon brał pod uwagę raporty o nadchodzących porodach Blüchera (niemiecki wódz był schizofrenikiem i wydawało mu się, że urodzi słonia)? - Reprezentuję wszakże obiektywną wiedzę i należy się ode mnie młodzieży solidna i niepodważalna odpowiedź.</p>
+        <p xml:id="p-3">Cóż zrobić - wiem tylko jedno. Na szczycie Puerto de Somosierra (jeżeli jedzie się główną szosą) znajdujemy doskonałą restaurację, w której serwują przysmaki nie tylko kastylijskie, ale również asturyjskie (czosnkowe) i nawet andaluzyjskie. Pył zawiał karty dziejów i nie ustalimy już, ilu chłopców rzuciło się do ostrego galopu. A może tak jest lepiej?</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

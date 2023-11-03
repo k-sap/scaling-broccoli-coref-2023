@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Firmy powiązane z nim interesami po kolei ogłaszały plajtę. Stenotypistki, które napełniały biura stukotem maszyn do pisania i romansowały z gładko przylizanymi aplikantami, w jednej chwili potraciły posady i zaczęły myśleć o mężczyznach jak najgorzej. Wystawały po bramach długo w noc, paląc papierosy i zaczepiając spóźnionych przechodniów. Upadały nocne lokale, które nazywały się Tivoli albo Trocadero, rynek nieruchomości udławił się nagle podażą, a złota nie można już było kupić za gotówkę. Pod drzwiami Felka Chmury policjant stał dniem i nocą.</p>
+        <p xml:id="p-2">Katastrofa ogarnęła całe miasto, jakby wiatr sypnął piaskiem w tryby fabrycznych maszyn, zdmuchnął z witryn dekoracje, po czym ucichł, pozostawiając kanały obrotu towarowego zastygłe w martwym bezruchu. Pełnomocnicy kompanii asekuracyjnych wykupywali za bezcen nieruchomości należące kiedyś do Felka Chmury.</p>
+        <p xml:id="p-3">Mając jeszcze w uszach suchy szelest banknotów, pogrążył się w jałowym piekle utraconej wiary. A całe miasto Ø wraz z nim. Którejś nocy, obudzony ze snu, pociągnął za dzwonek i zaspanemu Adasiowi kazał otwierać okiennice. Uniósłszy się na poduszkach, wypatrywał Ø nad ratuszem swojej gwiazdy. Nie było tam po niej śladu.</p>
+        <p xml:id="p-4">- To jasne. Karta już się nie odwróci - powiedział głuchym głosem. Policjant nie odejdzie spod drzwi, zszargane nazwisko Looma nie odzyska szacownego brzmienia, różowy salon pozostanie niedostępny, a w ogniu gorączki siły wypalą się do reszty. Adaś Rączka zamknął okiennice na antabę i zaciągnął pluszowe story, ciężkie jak kurtyna.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

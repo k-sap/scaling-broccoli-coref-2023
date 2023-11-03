@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Z dokumentu tego wynika, ze właściwie wszystko utopione zostało w fekaliach. Do wysokości 50 centymetrów pokryły one pomieszczenia użytkowe, pralnię z suszarnią, kotłownię, toaletę, łazienkę, spiżarnię i magazyn. Ucierpiała również zamrażarka z mięsem i produktami żywnościowymi, lodówka, kocioł centralnego ogrzewania, pralka, piła spalinowa, kompresor, skład drewna, ziemniaków i odzież.</p>
+        <p xml:id="p-2">Tomalowie wycenili to wszystko na 20 tysięcy, lecz na próżno składali w ratuszu wezwania do wypłaty odszkodowania. Po siedmiu tygodniach błagań i próśb złożyli przeciwko burmistrzowi Gajewskiemu pozew w Wydziale Cywilnym Sądu Rejonowego.</p>
+        <p xml:id="p-3">My również poprosiliśmy burmistrza o wyjaśnienie sprawy Tomalów. Wczoraj otrzymaliśmy odpowiedź z biura wiceburmistrza Mirosława Wieczorka, odpowiedzialnego za gminne inwestycje</p>
+        <p xml:id="p-4">"Niezwłocznie po zawiadomieniu o zaistniałej sytuacji, przez małżonków K. i G. Tomalów, burmistrz podjął działania zmierzające do zadośćuczynienia za zniszczenia wywołane awarią na przepompowni ścieków w Wolicy. Zdaniem Gminy odpowiedzialność za szkody zaistniałe na posesji pp Tomalów ponosi wykonawca robót: Firma Budimex. W tej sytuacji zwrotu każdej kwoty odszkodowania Gmina dochodzić będzie od tejże firmy, bowiem środki na pokrycie odszkodowania zostały zarezerwowane gwarancją należytego wykonania umowy. Według wstępnej analizy odszkodowanie może zawierać się w przedziale 4 - 6 tysięcy złotych a pp Tomalowie żądają kwoty - 20 tysięcy zł. Taką wysokość odszkodowania kwestionuje firma Budimex. Aktualnie toczy się proces sądowy, w którym powodowie to jest pp Tomalowie muszą udowodnić i wykazać wysokość swoich słusznych roszczeń" - napisał wiceburmistrz Mirosław Wieczorek.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

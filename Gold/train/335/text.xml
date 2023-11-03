@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">1. TAJEMNICE IMION I NAZWISK</p>
+        <p xml:id="p-2">Wszystko wskazuje na to, iż najbardziej męscy i płodni są - a przynajmniej byli - kowale. Świadczy o tym wszechświatowa popularność takich nazwisk, jak Kowalski, Kowaliow, Schmidt czy Smith. Nie byłyby to najpowszechniej występujące nazwiska, a przecież jednoznacznie wskazują na pochodzenie ich dzisiejszych właścicieli od jakiegoś zacnego przedstawiciela tego godnego podziwu zawodu, gdyby owi kowale nie charakteryzowali się w epoce tworzenia nazwisk, czyli przed ledwo kilkuset laty, jakimiś szczególnymi talentami prokreacyjnymi.</p>
+        <p xml:id="p-3">Ta uwaga przyszła mi na myśl oczywiście podczas buszowania po Internecie. Trafiłem mianowicie na oficjalną witrynę statystyk amerykańskiego US Census Bureau, gdzie m.in. można znaleźć dane o częstości występowania w Stanach Zjednoczonych imion i nazwisk. Otóż ponad 1% Amerykanów nosi nazwisko Smith. Drugie miejsce w tym rankingu zajmuje Johnson, trzecie Williams, czwarte Jones, a piąte Brown. Nazwisko Clinton jest w kolejności 1706., a nasz rodzimy Kowalski uplasował się w USA na miejscu 2508. z blisko 89 tys. zarejestrowanych nazwisk.</p>
+        <p xml:id="p-4">Ciekawe dane dotyczą imion. Pięć imion kobiecych, najpopularniejszych w Ameryce w latach dziewięćdziesiątych, to kolejno Mary, Patricia, Linda, Barbara i Elizabeth. Pięć z kolei imion męskich to James, John, Robert, Michael i William; i co w tym jest uderzające, to widoczny w tych wyborach konserwatyzm i tradycjonalizm. Żadnej awangardowości, żadnych dziwactw, żadnych szaleństw; i nie dotyczy to tylko pierwszej piątki, ale w ogóle czołówki. Co więcej, te same imiona były modne półtora stulecia temu. Chciałoby się powiedzieć, że Amerykanie wręcz starają się być banalni - i jakże to inaczej niż u nas. Proszę się rozejrzeć wokół: wszędzie Beatrycze, Mariole i Iwony; niedawno poznałem nawet pewną Elizabelę. A Zoś, Maryś i Stanisławów, niegdyś popularnych, na lekarstwo.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

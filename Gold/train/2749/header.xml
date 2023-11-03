@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<teiHeader xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xml:lang="en">
+  <fileDesc>
+    <titleStmt>
+      <title>Paragraphs: p-769,p-770,p-771,p-772,p-773,p-774,p-775,p-776,p-777,p-778 from NKJP text with id: PWN_6102000000002</title>
+    </titleStmt>
+  </fileDesc>
+  <profileDesc>
+    <textClass>
+      <catRef scheme="#nkjp" target="Inne teksty pisane"/>
+    </textClass>
+  </profileDesc>
+  <revisionDesc/>
+</teiHeader>

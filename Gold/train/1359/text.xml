@@ -1,0 +1,21 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">ALA - Co mama w nim widzi?</p>
+        <p xml:id="p-2">ELEONORA - O, Edek jest taki prosty... Jak samo życie. Ø Brutalny, ale w tym właśnie jego wdzięk. Nie ma kompleksów. Działa odświeżająco. On umie chcieć naprawdę, chcieć pięknie. Kiedy siada, siedzi jak samo siedzenie, zwyczajnie, lecz dogłębnie. Kiedy je albo pije, jego żołądek staje się symfonią natury. Lubię patrzeć, jak on trawi. Prosto i szczerze. Doznaję wtedy prawdziwej rozkoszy obcowania z żywiołem. Czy zwróciłaś kiedy uwagę, jak on cudownie poprawia sobie spodnie? W tym geście jest po prostu królewski. Stomil też ceni autentyczność.</p>
+        <p xml:id="p-3">ALA - Owszem. Ale mnie to aż tak bardzo nie fascynuje.</p>
+        <p xml:id="p-4">ELEONORA - Bo jesteś za młoda. Nie odkryłaś jeszcze bogactwa prawdziwej prostoty. Ucz się, to rzecz doświadczenia.</p>
+        <p xml:id="p-5">ALA - Postaram się. Czy mama sądzi, że dobrze robię wychodząc za Artura?</p>
+        <p xml:id="p-6">ELEONORA - O, Artur to co innego. On ma zasady.</p>
+        <p xml:id="p-7">ALA - Stomil też miał zasady. Mama sama powiedziała. O tym obowiązku i prawie do szczęścia.</p>
+        <p xml:id="p-8">ELEONORA - Nie, to były tylko poglądy. Stomil właśnie walczył z zasadami. Za to Artur ma żelazne zasady.</p>
+        <p xml:id="p-9">ALA - Wyłącznie.</p>
+        <p xml:id="p-10">ELEONORA - Co ty mówisz, Alu! To pierwszy człowiek z zasadami od pięćdziesięciu lat. Czy to ci się nie podoba? Jest przez to taki oryginalny! Tak mu jest z tym do twarzy!</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

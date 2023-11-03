@@ -1,0 +1,16 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Szpaku Twoje BMI wynosi : 20,28. To znaczy że nie masz nadwagi. Twoja waga jest prawidłowa. Jeżeli jednak chcesz schudnąć bo czujesz się ciężko lub twoje ciało nie wygląda tak jakbyś chciała możesz przejść na dietę. Głodówka nie jest dobrym rozwiązaniem. Nawet jeśli podczas niej schudniesz 2-3 kilo po powrocie do " normalnego" jedzenie wrócisz do starej wagi lub nawet będziesz ważyła więcej. Przejdź na dietę. Jedz regularnie. Staraj się jeść mało soli i tłuszczu. Nie odmawiaj sobie zupełnie cukru. Możesz sobie czasem pozwolić pamiętając by nie przesadzać. Ruszaj się. Jeżeli nie mam warunków i nie chce Ci się wychodzić z domu. Zrób sobie rano gimastyke. Jeżeli chodzisz do szkoły ćwicz na wf-ie.</p>
+        <p xml:id="p-2">zuzaaaaa ok dzieki za rade a czytalam o glowdowkach np 7 dniowych i mowia ze to tez oczyszcza organizm.... no nie wiem co zrobic......</p>
+        <p xml:id="p-3">Nat. oczyszczające? najwyżej 1dniowe! mmm... jeśli masz w zwyczaju podjadać coś podczas nauki, to radzę mieć pod ręką jakieś owoce, czy warzywa... (((; np. ja lubie czasami obrać sobie ze 3 marchewki i w trakcie nauki podjadać ((((;</p>
+        <p xml:id="p-4">kataryna Głodówka? Najgorsze rozwiązanie, jakie można wybrać. Jedz mało i często, ale tak, żebyś nie chodziła głodna</p>
+        <p xml:id="p-5">Bamboocha głodówka ma efekt krótkotrwały - oczyścisz jelita, ale jak zaczniesz jeść normalnie to znów się zapełnią... lepsze efekty przynoszą diety które trwają dłużej i nie są aż tak restrykcyjne - lepiej zrzucać mniej ale na trwałe</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

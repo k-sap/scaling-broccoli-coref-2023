@@ -1,0 +1,21 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Na razie sprawdzamy procedury</p>
+        <p xml:id="p-2">Z Edytą Grabowską-Woźniak, rzeczniczką NFZ, rozmawia</p>
+        <p xml:id="p-3">Dlaczego NFZ podważa wyliczenia szpitali, które upominają się o zwrot środków za procedury ratujące życie?</p>
+        <p xml:id="p-4">Weryfikacja sprawozdań ze szpitali odbywa się na bieżąco i jest jednym z podstawowych obowiązków publicznego płatnika. Od połowy roku widać, niewytłumaczalny żadnymi zjawiskami epidemiologicznymi, wzrost procedur opisywanych i przedstawianych do rozliczeń jako ratujących życie, za które zgodnie z obowiązującymi przepisami, NFZ musi płacić. Są szpitale, w których liczba świadczeń ratujących życie nagle wzrosła np. z 20 do 50 proc. To oczywiste, że NFZ ma obowiązek sprawdzić, dlaczego tak się dzieje.</p>
+        <p xml:id="p-5">Czy NFZ podejrzewa, że szpitale w ten sposób chcą podratować swoje finanse, bo mają za niskie kontrakty i nie przyjmują już prawie wcale pacjentów planowych?</p>
+        <p xml:id="p-6">Nie mnie oceniać motywy kierujące postępowaniem dyrektorów szpitali. Na pewno nie ma obowiązku podpisywania umów z NFZ. Każdy, kto podpisuje umowę, zobowiązuje się do jej prawidłowego i zgodnego z prawem wypełniania.</p>
+        <p xml:id="p-7">Łatwo się mówi, skoro NFZ jest jedynym płatnikiem. A co się stanie, jeśli dyrektorzy zostaną złapani na kłamstwie?</p>
+        <p xml:id="p-8">Jeśli weryfikacja wykaże nieprawidłowości, rachunki zostaną zakwestionowane, a pieniądze nie będą przekazane szpitalom.</p>
+        <p xml:id="p-9">Czy wiadomo, jakie sumy w skali Polski szpitale przeznaczyły na procedury ratujące życie?</p>
+        <p xml:id="p-10">Takie zbiorcze dane będziemy mogli przedstawić po zakończeniu okresu rozliczeniowego. W województwie śląskim tzw. nadwykonania wynoszą ok. 319 mln zł, a niedowykonania Ø 84 mln złotych. Oznacza to, że w skali województwa rzeczywiste roszczenia szpitali dotyczą 235 mln zł.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

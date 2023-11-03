@@ -1,0 +1,18 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">● w SP ZOZ w Mińsku i w Wojewódzkim Szpitalu Specjalistycznym w Siedlcach nie przechowywano kompletnej dokumentacji powykonawczej: budowy (m.in. pozwolenie na budowę, projekt budowlany, dziennik budowy), powykonawczej (dokumentacja budowy z naniesionymi zmianami, dokonanymi w toku wykonywania robót), dotyczącej użytkowanych obiektów, jak również opracowań projektowych i materiałów technicznych dotyczących robót wykonywanych w obiektach w toku ich użytkowania;</p>
+        <p xml:id="p-2">● w SP ZOZ w Mińsku Mazowieckim bez stosownego zgłoszenia utworzono pracownię rezonansu magnetycznego z pomieszczeń magazynowych;</p>
+        <p xml:id="p-3">● w SP ZOZ w Mińsku Mazowieckim nie zapewniono jeszcze możliwości korzystania z budynków szpitalnych przez osoby niepełnosprawne;</p>
+        <p xml:id="p-4">● w SP ZOZ w Mińsku Mazowieckim lokalizacja i organizacja SOR nie spełniała niektórych wymagań, dotyczących bezpieczeństwa dostępu do oddziału i komunikacji w nim;</p>
+        <p xml:id="p-5">Głównymi przyczynami niepełnego dostosowania sor do wymagań określonych w ww. rozporządzeniu była trudna sytuacja finansowa SP ZOZ i brak środków na realizację przedsięwzięć inwestycyjnych i modernizacyjnych w tych oddziałach.</p>
+        <p xml:id="p-6">● w Wojewódzkim Szpitalu Specjalistycznym w Siedlcach wydzielono ewakuacyjne klatki schodowe, lecz z drzwiami bez wymaganej dymoszczelności i odporności ogniowej;</p>
+        <p xml:id="p-7">● istotne zaniedbania w zakresie zapewnienia ochrony przeciwpożarowej, polegające na: niewyposażeniu budynku w wymaganą liczbę hydrantów wewnętrznych i gaśnic, ich niekompletności lub niesprawności technicznej, bądź nieprawidłowym ich rozmieszczeniu, a także niepoddawaniu tych urządzeń i gaśnic przeglądom konserwacyjnym, a węży hydrantowych - dodatkowo - próbom ciśnieniowym, stwierdzono w niektórych budynkach, wykorzystywanych przez SP ZOZ w Mińsku Mazowieckim i Wojewódzki Szpital Specjalistyczny w Siedlcach;</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

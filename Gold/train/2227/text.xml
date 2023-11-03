@@ -1,0 +1,12 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Bergson gani uczonych z powodu ich "manii wtłaczania faktów w uprzednio istniejące kategorie", ale właśnie ta mania pozwoliła Newtonowi odkryć, że planety poruszają się wedle tych samych praw, co spadający kamień, Lavoisierowi ustalić, że oddychanie jest formą spalania, a Maxwellowi stwierdzić, że wibracja świetlna jest polaryzacją dielektryczną. Bergson gardzi językiem i wiedzą - ma nadzieję, iż je wyeliminuje na rzecz intuicji, która jest rodzajem instynktu. Otóż, twierdzi Benda, bergsonizm jest właśnie filozofią naszych czasów; schlebia modom i dominującym skłonnościom naszego wieku, a jest to wiek nienawiści do nauki, inteligencji i wysiłku intelektualnego, włączając w to filozofię o tyle, o ile buduje ona pojęcia abstrakcyjne, miast obiecywać nam wejście w "bezpośredniość". Pewna nienawiść do wiedzy istniała zawsze - czyż motłoch nie mordował niekiedy filozofów w starożytności? - ale w naszym stuleciu stała się ona cechą wyróżniającą ; przewaga pierwiastka kobiecego, żywiołu biernego, da się dostrzec we wszystkich dziedzinach cywilizacji, ze sztuką włącznie. Ignoranci wyobrażają sobie, że nauka powinna ich zaopatrzyć w pewność absolutną i ganią ją za to, iż tego nie czyni; Bergson właśnie wmawia im, że nauka złamała swoje obietnice, on natomiast ukazuje im sposób, który pozwala uchwycić "esencje" rzeczy w aktach emocjonalnych. Krytykowi chodzi po prostu o to, że wiedza jest z definicji pojęciowa i że gdy się pojęcia abstrakcyjne odsunie, wszelka droga do wiedzy będzie zagrodzona.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

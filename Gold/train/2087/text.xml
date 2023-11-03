@@ -1,0 +1,24 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Szedł od świtu do nocy. Dzień za dniem. Ciągle omijając przeszkody.</p>
+        <p xml:id="p-2">Wtedy pomyślał: "Pierwszą przeszkodą jest pustynia. Pójdę na skróty, szybciej dotrę do skarbu, a mistrz będzie ze mnie zadowolony".</p>
+        <p xml:id="p-3">Niewiele myśląc, ruszył przez pustynię. Podróż, mimo że miała być na skróty, trwała długo. Żar pustyni i brak wody wpłynęły na to, że nasz bohater był wycieńczony.</p>
+        <p xml:id="p-4">W końcu dotarł do drogi, którą powinien był podążać cały czas.</p>
+        <p xml:id="p-5">"Udało mi się! Pokonałem pustynię!" - pomyślał.</p>
+        <p xml:id="p-6">Kontynuował swoją podróż, ale znów pomyślał: "Przede mną bagno. Jestem w stanie je pokonać i dzięki temu szybciej dotrę do skarbu".</p>
+        <p xml:id="p-7">Ruszył więc naprzód, pozornie skracając drogę.</p>
+        <p xml:id="p-8">Podróż trwała jeszcze dłużej niż poprzednio, choć dystans był ten sam.</p>
+        <p xml:id="p-9">Bagno dało mu wycisk. O mały włos, a byłby zginął, wchłonięty przez bagno, ale uratowała go gałąź, którą chwycił.</p>
+        <p xml:id="p-10">Wycieńczony i przestraszony ponownie trafił na swoją drogę.</p>
+        <p xml:id="p-11">"Uff! Udało mi się! Została jeszcze jedna przeszkoda, może ją też pokonam?" - myślał.</p>
+        <p xml:id="p-12">To był bardzo gęsty las: "Przecież mistrz czeka na mnie na końcu. Będzie ze mnie dumny, że szybciej dotarłem do celu".</p>
+        <p xml:id="p-13">Niewiele myśląc, znowu ruszył na skróty, wybierając niebezpieczną drogę. Dystans znów ten sam. Droga jednak trudniejsza. Szedł dwa razy dłużej niż poprzednio. Nie przewidział, że będzie mu potrzebny nóż, aby mógł wyciąć sobie drogę. Dlatego przedzierał się między gałęziami, które poraniły bardzo całe jego ciało. W końcu - okrutnie pokaleczony, wycieńczony i wystraszony - dotarł na miejsce.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

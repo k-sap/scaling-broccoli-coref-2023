@@ -1,0 +1,43 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Pan Lucjan... nie ma żony. Chyba kiedyś dawno miał i ona od niego odeszła, czy jakoś tak... nie wiem dokładnie...</p>
+        <p xml:id="p-2">zbliżenie Marii, na którym drzwi windy zamykają się</p>
+        <p xml:id="p-3">Scena kont./</p>
+        <p xml:id="p-4">DZIEŃ, WNĘTRZE. KANCELARIA EDWARDA. EDWARD, ŁUKASZ, SEKRETARKA EDWARDA./</p>
+        <p xml:id="p-5">/Scena 8 A</p>
+        <p xml:id="p-6">DZIEŃ. PLENER. DOM MARII. POKÓJ MARTY. MARTA.</p>
+        <p xml:id="p-7">Marta się pakuje. Rozlega się sygnał telefonu, który leży obok. Marta podnosi słuchawkę.</p>
+        <p xml:id="p-8">MARTA</p>
+        <p xml:id="p-9">Halo...</p>
+        <p xml:id="p-10">Edward siedzi ze słuchawką telefoniczną przy uchu. Uśmiecha się do siebie.</p>
+        <p xml:id="p-11">EDWARD</p>
+        <p xml:id="p-12">Dzień dobry... Nie przeszkadzam...?</p>
+        <p xml:id="p-13">Marta sztywnieje ze zdenerwowania.</p>
+        <p xml:id="p-14">MARTA</p>
+        <p xml:id="p-15">Dzień dobry... Właśnie... odpoczywam...</p>
+        <p xml:id="p-16">EDWARD</p>
+        <p xml:id="p-17">Myślałem, że pani do mnie zadzwoni...</p>
+        <p xml:id="p-18">MARTA</p>
+        <p xml:id="p-19">W jakiej sprawie?</p>
+        <p xml:id="p-20">EDWARD</p>
+        <p xml:id="p-21">No jak to... Ostatnio, kiedy pani do mnie dzwoniła... wspomniała pani o policji...</p>
+        <p xml:id="p-22">MARTA</p>
+        <p xml:id="p-23">A tak...</p>
+        <p xml:id="p-24">zaczyna się coraz bardziej denerwować</p>
+        <p xml:id="p-25">Ale nie było o czym mówić...</p>
+        <p xml:id="p-26">EDWARD</p>
+        <p xml:id="p-27">Dlaczego? ja bardzo lubię rozmawiać o policji.</p>
+        <p xml:id="p-28">MARTA</p>
+        <p xml:id="p-29">To jakieś nieporozumienie... Czepiają się... Ten Chrust jest po prostu kretynem... Bo inaczej tego nie można nazwać...</p>
+        <p xml:id="p-30">EDWARD</p>
+        <p xml:id="p-31">z udawanym zainteresowaniem</p>
+        <p xml:id="p-32">Naprawdę pani tak uważa? Mnie się zawsze wydawało, że to bardzo sprytny człowiek... Działa powolnie... ale skutecznie...</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

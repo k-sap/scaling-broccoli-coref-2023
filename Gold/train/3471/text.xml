@@ -1,0 +1,14 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Do obiadu trzydaniowego kładziemy: talerz do głównego dania, a na nim mniejszy talerzyk do przekąsek. Z obu stron i z przodu talerza (patrz zdjęcie obok) kładziemy łyżkę do zupy, nóż i widelec, widelczyk i łyżeczkę deserowe, kieliszek do wina (do czerwonego - większy, beczułkowaty, do białego - mniejszy, mniej pękaty) lub wódki, kielich lub specjalną szklankę do wody mineralnej, serwetkę. Nóż winien leżeć z prawej strony. Z prawej strony noża - łyżka do zupy. Z lewej strony talerza - widelec brzuszkiem w dół. Sztućce deserowe leżą nad talerzem - jeśli na deser będą owoce, zamiast łyżeczki podajemy nożyk do owoców. Kieliszek i kielich do wody ustawiamy z prawej strony nakrycia powyżej sztućców. Serwetkę odpowiednio złożoną lub skręconą w rulon i wetkniętą w pierścień kładziemy z lewej strony nakrycia powyżej sztućców. Aby nie było ciasno, należy nakrycia ustawiać tak szeroko, by środki talerzy dzieliło ok. 75-80 cm.</p>
+        <p xml:id="p-2">Uwaga: Talerze do zupy wnosimy przed jej zaserwowaniem, jeśli podajemy zupę w wazie (tak jest bardziej elegancko), ale dopuszczalne jest także podawać od razu w talerzach.</p>
+        <p xml:id="p-3">Szykując przyjęcie składające się z większej liczby dań, zwiększamy ilość zastawy (patrz zdjęcie poniżej). Wszystkie noże, czyli nóż do przystawek, nóż do ryb, nóż duży układamy z prawej strony w kolejności ich używania (ten, który ma być użyty jako pierwszy - najdalej). Między nożami znajdzie się też łyżka do zupy - potrzebna nam po przystawkach, a przed daniem głównym. Podobnie z widelcami z lewej strony. Ten porządek ma ułatwić korzystanie ze sztućców. Gość automatycznie sięga po sztućce leżące na zewnątrz i w ten sposób dostosowuje ich użycie do kolejności podawanych dań.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

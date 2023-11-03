@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<teiHeader xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xml:lang="en">
+  <fileDesc>
+    <titleStmt>
+      <title>Paragraphs: p-109,p-110,p-112,p-114,p-116,p-118,p-119,p-120,p-121,p-122,p-123,p-124,p-125 from NKJP text with id: IJPPAN_k123889</title>
+    </titleStmt>
+  </fileDesc>
+  <profileDesc>
+    <textClass>
+      <catRef scheme="#nkjp" target="Typ informacyjno-poradnikowy"/>
+    </textClass>
+  </profileDesc>
+  <revisionDesc/>
+</teiHeader>

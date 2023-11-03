@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Ymir De facto już jest. Żadna głowa państwa w UE i chyba wogóle w Europie (nie licząc Rosji i Kuczmowskiej Ukrainy) nie zaprasza do swojego kraju Łukaszenki. Ostatnio czytałem wywiad z Aleksandrem w jakiejś rosyjskiej gazecie. Tłumaczył tam, że rzadko bywa za granicą, bo Białorusini źle znoszą jego nieobecność w kraju</p>
+        <p xml:id="p-2">Jarpen Zigrin Ciekawe usprawiedliwienie może boi się rewolucji podczas jego nieobecności tak, że nie będzie miał gdzie wracać? Stsounki na razie się unormowały i chyba wszystkim się już zndzuła ta całą afera, chodź polaków scigają tam po sądach i dają do aresztu na 10 dni...</p>
+        <p xml:id="p-3">Andrzej W sumie to należy się dalej interesowac sprawami polaków na Białorusi i ich sytuacją i bronić ich praw. Nie nalezy moim zdaniem wciągac do tego jeszcze sprawy czy jest tam demokracja czy nie i że trzeba ją zaprowadzić to akurat nie nasza sprawa. Powinno się wywrzeć nacisk na Białorus aby polaków traktowano z szacunkiem i mieli swoje prawa. Gdy Łukaszenka to zrobi nie widze problemu aby rozwijać z nim stosunki i przyjaźń i niech wtedy rządzi do końca świata. PS. te prawa dla polaków powinny być takie jakie mają mniejszości w polsce - naprawde tylko to powinno nas interesowac reszta to nie nasza sprawa A jeszcze można by w polsce przedstawić zdanie Kruczkowskiego i jego sojuszników aby mieć pełny obraz.</p>
+        <p xml:id="p-4">Hanibalubram kompletne bzdury polskie pany maja gdzies polaków na białorusi po co im nauka polskiego jak nie moga dostać obywatelstwa nie mogą swobodnie przyjechać do Polski słusznie, że boja sie polskich panów jak ognia tak jak wyzyskują polskie pany to już chyba nikt inny tego nie robi</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

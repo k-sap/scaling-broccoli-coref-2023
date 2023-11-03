@@ -1,0 +1,20 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">- Naturalnie. Nie jest dobrym pomysłem pozwalać innym, by zachowywali się wobec nas jak kaci. Nie wolno zgadzać się na bycie ofiarą. Dlaczego? Ponieważ będąc ofiarą, hodujesz w sobie kata. A gdy stajesz się katem, znajdujesz ofiary i hodujesz następnych katów. Bycie ofiarą jest więc tylko formą przejściową, jak larwy u owadów - z ofiary, jeśli nic ze sobą nie zrobi, wcześniej czy później wylęgnie się kat.</p>
+        <p xml:id="p-2">- Jeśli trzeba, użyć całej swojej agresji do obrony?</p>
+        <p xml:id="p-3">- Nawet prawo zwalnia z odpowiedzialności za skutki obrony koniecznej.</p>
+        <p xml:id="p-4">- Kłopot w tym, kiedy ona naprawdę jest konieczna, a kiedy projektujemy własną agresję na innych?</p>
+        <p xml:id="p-5">- To prawda. Jest taki dowcip rysunkowy: siedzą obok siebie dwa psy, jeden duży, drugi mały. Duży ma obandażowaną łapę. Mały mówi do niego: "Bardzo przepraszam, że pana ugryzłem, ale byłem przekonany, że pan to zaraz zrobi!". Czasem rzeczywiście żyjemy w kompletnej paranoi, nie kontaktujemy się z rzeczywistością. Wtedy przydałaby się jakaś forma psychoterapii lub psychoedukacji.</p>
+        <p xml:id="p-6">- Jak to rozpoznać? Kiedy agresja jest tak silna, że bez pomocy specjalisty trudno sobie poradzić?</p>
+        <p xml:id="p-7">- Wtedy, gdy niszczy: nas albo innych. Zaczynamy chorować albo wokół nas pełno ofiar.</p>
+        <p xml:id="p-8">- Jednak zdarza się, że bardzo agresywni ludzie świetnie sobie radzą.</p>
+        <p xml:id="p-9">- Agresja może stać się rodzajem narkotyku. Można się od niej uzależnić, ponieważ daje poczucie siły, przewagi, panowania nad innymi. To dotyczy ludzi, którzy na co dzień mają kłopot z odczuwaniem tego, że żyją - czują, że żyją dopiero wtedy, gdy doświadczają bardzo mocnych, skrajnych uczuć. To bardzo niebezpieczne uzależnienie.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

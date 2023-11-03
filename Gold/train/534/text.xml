@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">SenatorHenrykStoklosa: Oświadczenie moje jest związane ze sprawą reprywatyzacji. Dotyczy ono problemu odzyskania przez Bractwa Strzeleckie Rzeczypospolitej Polskiej terenów i budynków, które zostały im odebrane po drugiej wojnie światowej. W związku z tą kwestią, jako prezes Pilskiego Bractwa Strzeleckiego, otrzymałem odezwę od delegatów VIII Kongresu Zjednoczenia Kurkowych Bractw Strzeleckich.</p>
+        <p xml:id="p-2">SenatorHenrykStoklosa: Chciałbym jednak najpierw krótko przedstawić historię i znaczenie bractw strzeleckich w Polsce. Kurkowe bractwa strzeleckie mają w kraju już ponadsiedmiowiekową tradycję. Ich statutowym obowiązkiem była obrona miast i krzewienie patriotyzmu. Po okresie rozbiorów Polski, aż do roku 1945, bractwa rozwijały się i organizowały. Natomiast po zakończeniu drugiej wojny światowej ówczesne władze zaczęły utrudniać ich działanie. W latach 1949-1951 przeprowadzono planową likwidację tych stowarzyszeń. Majątki bractw przejęto na rzecz skarbu państwa i przekazano w użytkowanie Lidze Przyjaciół Żołnierza, która obecnie jest Ligą Obrony Kraju. Majątek ten został w większości zdewastowany i zrujnowany.</p>
+        <p xml:id="p-3">SenatorHenrykStoklosa: Bractwa strzeleckie zaczęły się odradzać po 1989 r. na podstawie ustawy "Prawo o stowarzyszeniach". Obecnie w Polsce istnieje pięćdziesiąt dziewięć takich bractw, a wiele z nich jest w trakcie reaktywowania i w fazie organizacji.</p>
+        <p xml:id="p-4">SenatorHenrykStoklosa: Kurkowe bractwa strzeleckie wystąpiły do władz państwa o uznanie ich rozwiązania w latach 1949-1951 za sprzeczne z prawem. Upomniały się również o zwrot zabranych nieruchomości. Okazało się jednak, że bractwom odmawia się praw do tych majątków, gdyż stwierdzono, że nie mają one nic wspólnego z rozwiązanymi bractwami. W tym miejscu chciałbym zacytować wspomnianą odezwę.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

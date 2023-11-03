@@ -1,0 +1,12 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Większe niż dotąd otwarcie się na mieszkańców Oświęcimia przez Międzynarodowy Dom Spotkań Młodzieży zapowiada jego dyrektor Leszek Szuster. Placówka przy ulicy Legionów świętuje właśnie 15-lecie istnienia. Kulminacyjnym punktem jubileuszu będzie styczniowa wystawa w Berlinie, którą otworzy kanclerz Niemiec Gerhard Schroeder. - W ciągu tych lat wiele się wydarzyło. Byliśmy świadkami ważnych spotkań, niecodziennych wizyt, przełomowych rozmów. Gościliśmy w naszym Domu ważne osobistości, polityków, osobowości życia kulturalnego i społecznego z kraju i zagranicy, a przede wszystkim młodzież z różnych stron świata - opowiada Leszek Szuster. Kiedy 15 lat temu w krajobrazie Oświęcimia pojawił się MDSM sceptycy zastanawiali się, czy jest w tym mieście miejsce na - jak twierdzili - "kolejny obiekt związany z martyrologią". Entuzjaści byli przekonani, że Dom na stałe wrośnie w nadsolański krajobraz jako miejsce swobodnej wymiany myśli, przełamywania stereotypów, nawiązywania międzynarodowych przyjaźni. Z myślą o oświęcimianach Dom od kilku lat organizuje Dni Otwarte. W tym roku towarzyszyła im prezentacja osiągnięć Austrii. Wcześniej Japonii i Republiki Południowej Afryki. W MDSM gościły takie persony, jak: Reinhold Wuerth, Tadeusz Mazowiecki, Hans Koschnick, Kazuo Ishigura. Dom prowadzi aktywną działalność pedagogiczną. W 2002 r. zamierza ją poszerzyć o kolejne warsztaty hobbystyczne dla młodzieży. Odbędzie się m.in. konferencja na temat filmu, warsztaty bębniarskie i teatralne. - Staramy się też zmieniać stereotypowy wizerunek Oświęcimia w oczach przyjeżdżających do nas grup młodzieży. Dlatego w planie pobytu mają oni wyjścia do miasta, poznawanie jego kilkusetletniej historii - tłumaczy Leszek Szuster.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

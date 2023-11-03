@@ -1,0 +1,19 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">- Śmiesznie, śmiesznie, ojcze kochany! - zawołał pokornie pan Wołodkowicz i tak ułapił za kontusz pana Chrząszczewskiego, i tak go począł błagać i zaklinać, że ten nie tylko został, ale jeszcze kazał podać nowy gąsior miodu.</p>
+        <p xml:id="p-2">Pani Jankowa sama przyniosła butelczynę i pałając pragnieniem, aby się czegoś dowiedzieć, pragnąc zresztą gorąco wygadać się na temat opętania ojca Suryna, przysiadła się na chwilę do stołu panów. Pan Chrząszczewski miał minę człowieka, który dla wyższych celów musi znosić męczarnie złego towarzystwa. Uśmiechał się pobłażliwie i pociągał miód z wielkiej, zielonej szklanicy.</p>
+        <p xml:id="p-3">Pani Józia za to zaczęła opowiadać.</p>
+        <p xml:id="p-4">- Ach, proszę pana szambelana, jakie okropne zdarzenie, ksiądz Suryn, taki zacny ksiądz, jezuita... i już trzy dni siedzi zamknięty u księdza proboszcza, krzyczy i rzuca się. Podobno wszystkie diabły z całego klasztoru na niego się rzuciły. Dwa razy szaty na sobie zrywał.</p>
+        <p xml:id="p-5">- A co w klasztorze? - spytał pan Chrząszczewski. - Siostra Małgorzata nie przychodziła?</p>
+        <p xml:id="p-6">- Nie, nie była już u mnie ze dwa dni - powiedziała pani Jankowa jak gdyby z boleścią - i nie wiem, co się dzieje w klasztorze.</p>
+        <p xml:id="p-7">I właśnie w tej chwili drzwi się otworzyły i siostra Małgorzata wpadła jak wicher. Za nią szedł Odryn, który starannie zamknął drzwi za sobą, i uśmiechając się, zbliżył się do stołu.</p>
+        <p xml:id="p-8">- No, jest nareszcie - zawołał pan Chrząszczewski i twarz mu się rozjaśniła - właśnieśmy o siostrze mówili!</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

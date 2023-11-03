@@ -1,0 +1,21 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Konsekwencją tego jest nie tylko zakaz udziału w meczach, ale we wszystkich imprezach, w których bierze udział dużo ludzi - koncertach, festynach itp.</p>
+        <p xml:id="p-2">- W czasie takich imprez będą wzywani do komend policji i tam będą siedzieli aż do ich zakończenia - mówi Andrzej Stelmaszyk. - Jeśli nie zgłoszą się na wezwanie, zostaną ukarani mandatem do 500 złotych.</p>
+        <p xml:id="p-3">Jeszcze wyższa kara grozi im w przypadku, gdy zostaną wylegitymowani przez policję podczas którejś z zakazanych im imprez.</p>
+        <p xml:id="p-4">- To jest już złamanie zakazu sądu - dodaje szef prewencji. - A za to grozi nawet kara pozbawienia wolności.</p>
+        <p xml:id="p-5">Nawet pięć tysięcy - tylko nie zakaz</p>
+        <p xml:id="p-6">Dlatego, grzywny nie są tak dotkliwą karą dla młodych ludzi, jak właśnie zakaz wstępu.</p>
+        <p xml:id="p-7">W przeciwieństwie do świnoujścian, ukarany wczoraj łodzianin najwyraźniej doskonale zdawał sobie z tego sprawę.</p>
+        <p xml:id="p-8">- Powiedział, że zamiast tego wolałby dostać nawet 5 tys. złotych grzywny - mówi Andrzej Stelmaszyk. - Bo na grzywnę koledzy by się zrzucili a tak przez dwa lata nie pójdzie nie tylko na mecz ale na żadną imprezę.</p>
+        <p xml:id="p-9">Prawdopodobnie nie będą to jedyni kibice, którzy poniosą karę za swoje zachowanie podczas spotkania.</p>
+        <p xml:id="p-10">- Wiemy, że był przynajmniej jeszcze jeden mężczyzna, który próbował wedrzeć się na murawę boiska - mówi podinspektor Mariusz Klara z KMP w Świnoujściu. - Ochroniarze zmusili go jednak do powrotu na trybuny. W tej chwili analizujemy kasety z nagraniem całego meczu. Na ich podstawie powinniśmy ustalić jego nazwisko i Ø innych, którzy zakłócali porządek.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

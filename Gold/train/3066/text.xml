@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Upragniony stały ląd, twardy grunt czasu przeszłego, na którym może się oprzeć stopa narratora, kryje w sobie niestety znacznie więcej niż potrzeba. Pełen jest pozostałości jakichś innych, podobnych historyjek, stygną w nim marzenia i żądze nieobecnych, zgubionych i niemożliwych już do odnalezienia postaci, wymieszane z miałkim piaskiem wszystkich części mowy. W ciemnościach podglebia gasną słońca minionych letnich popołudni, rozsypują się w proch przelotne miłostki. Miłość aż po grób ciąży ku głębszym warstwom gruntu, tam podchodzi wilgocią, wyzuta z blasku jak poczerniała obrączka. Wraz z nią butwieje sponiewierana miłość własna. Ciężar zwałów ziemi, którymi jest przygnieciona, uznajmy za metaforę pamięci niezdolnej do przebaczenia.</p>
+        <p xml:id="p-2">Gdyby w ten grunt wbić teraz łopatę, ostrze musiałoby zazgrzytać, tak gęsto jest poprzetykany skamieniałym słówkiem „dlaczego?”, pytaniem bez odpowiedzi, tak dużo w nim odłamków zburzonych i zapomnianych konstrukcji warunkowych. Ile tego gruzu mogło utkwić w otoczonym drucianą siatką czworoboku ogrodu? Nikt nie zada sobie trudu, żeby policzyć kamienie bez żadnej wartości. Trudno rozpoznać, który Ø z jakiej pochodzi budowli i do jakiej historyjki należy – do tej czy też do tamtej – zbędne pytania przybierają bowiem zawsze ten sam nieokreślony kształt, zawsze ten sam zmącony odcień żalu. Wygodnie byłoby pozbywać się ich sprawdzonym sposobem wyrachowanych i okrutnych karteli zbożowych, których maklerzy nieustannie śledzą ruchy cen w tabelach giełd towarowych i dzięki nowym, oszałamiającym możliwościom telegrafu bez drutu stawiają czoło zmianom koniunktury, nakazując załogom parowców topić bez sentymentów w oceanie jutowe worki z pszenicą. Niebo w swej obojętności zachowa dyskrecję, wokół tylko woda, niecierpliwa, falująca. Żarłoczne morskie ryby już czekają, gotowe przegryźć jutę i połknąć każdą ilość ziarna. Ale nawet one nie tkną kamieni. W głębinach zaś niestrudzone prądy morskie unoszą wszystko, co spotkają na swojej drodze, by wyrzucić na ląd w okolicach oddalonych o morskie mile, o kalendarzowe lata.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Udział w konkursie nie wymaga od kandydatek szczególnych wyrzeczeń, czy publicznych wystąpień, a zyskać można naprawdę wiele. Na zwyciężczynię czeka bowiem wysokiej klasy skuter, ufundowany przez firmę RELAX. By wziąć udział w naszej letniej akcji, wystarczy przesłać do redakcji dobrej jakości zdjęcie i kupon zgłoszeniowy w terminie do 22 sierpnia 2008 r. Jeśli kandydatka do tytułu „Dziewczyna Lata” nie ma odpowiedniej fotografii, może zgłosić się do Zakładu Fotograficznego KODAK Alicji i Krzysztofa Mioduszewskich na ul. Piłsudskiego w Siedlcach, gdzie uczestniczce zostanie zrobione darmowe zdjęcie na potrzeby konkursu. Każdej dostarczonej do redakcji fotografii będzie nadany numer, zgodny z chronologicznym napływem zdjęć. Będą one publikowane na łamach „TS” oraz umieszczane na stronie internetowej www.tygodnik.siedlecki.pl. Tytuł Dziewczyna Lata i nagrodę otrzyma uczestniczka, który uzyska od Czytelników „TS” największą liczbę głosów. Na poszczególne kandydatki możecie głosować za pomocą kuponów, drukowanych w gazecie, a także wysyłając sms-a o treści TSI.dziewczynalata.numer kandydatki na numer 7284. Koszt sms-a to 2 zł + Vat. Głos będzie ważny, jeśli otrzymacie sms-a zwrotnego o treści: Redakcja „Tygodnika Siedleckiego” dziękuje za wzięcie udziału w konkursie. Kolejny sms zwiększy szansę na wygranie Twojej kandydatki. Liczba głosów, oddanych na poszczególne uczestniczki, będzie codziennie aktualizowana na stronie internetowej „Tygodnika Siedleckiego”. Głosy będzie można oddawać do 29 sierpnia 2008 r. do godz. 16.00 - kupony, do 31 sierpnia do północy – sms-y. Kupony znajdują się w papierowym wydaniu "TS".</p>
+        <p xml:id="p-2">Zapraszamy do udziału w konkursie. Szczegółowy regulamin.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

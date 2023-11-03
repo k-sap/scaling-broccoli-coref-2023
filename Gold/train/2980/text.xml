@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">W każdym - razie Sokal i Bricmont mają świadomość arbitralności nazwy, rozróżniają strukturalizm i poststrukturalizm, chociaż twierdzenia, iż autorzy z kręgu „skrajnego strukturalizmu” czyli Lacan (i m. in. Kristeva) chcieli nadać pozór „naukowości” rozważaniom z dziedzin nauk humanistycznych za pomocą „matematycznych ozdóbek”, natomiast poststrukturaliści zmierzali do irracjonalizmu i nihilizmu (!) - zdają się wielce wątpliwe (s. 26-27), nawet przy bardzo szerokim rozumieniu występujących tu słów.</p>
+        <p xml:id="p-2">Druga trudność polega na zbiorczym potraktowaniu szczegółowych problemów. Na pierwszy rzut oka wszystko wygląda przejrzyście: wspólnym wyróżnikiem „krytykowanych” autorów jest ich nieodpowiedzialne stosowanie terminów matematycznych i fizycznych, nieuzasadnione przenoszenie koncepcji wypracowanych w naukach ścisłych do nauk społecznych, czy wręcz bełkotliwe stosowanie terminologii naukowej. Wybrane cytaty mają to dobitnie pokazywać.</p>
+        <p xml:id="p-3">Faktycznie, w wielu przypadkach są to albo zabawne zestawienia, jak w przypadku L. Irigaray, albo retoryczne popisy, jak w przypadku J. Baudrillarda. Jednakże każdy „demistyfikowany” myśliciel w specyficzny sposób odwołuje się, czy też jak chcą autorzy "Modnych bzdur", nadużywa terminologii nauk ścisłych – strategia za każdym razem jest inna, a tego Sokal i Bricmont zdają się w swoim ferworze demistyfikacji nie dostrzegać, co prowadzi do nieporozumienia. Dwa „przypadki” zasługują na uwagę: Lacana i Deleuze’a (wspólnie z Guattarim).</p>
+        <p xml:id="p-4">J. Lacanowi, temu najstarszemu ze wszystkich krytykowanych „uzurpatorów” bogactwa nauk ścisłych, poświęcony jest rozdział pierwszy. Nie sposób w niniejszym tekście choćby zarysować historię lacanowskiej psychoanalizy, jednak warto zauważyć kilka nieścisłości, które pojawiają się w narracji Sokala i Bricmonta.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

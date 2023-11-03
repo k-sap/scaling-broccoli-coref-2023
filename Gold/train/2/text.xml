@@ -1,0 +1,20 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Potem znalazł zatrudnienie w Fundacji Europejskie Spotkania Kaszubskie Centrum Kultury. Był prezesem utworzonej przez fundację spółki Zamek.</p>
+        <p xml:id="p-2">W międzyczasie został radnym. Pod koniec ubiegłej kadencji Rada Gminy Krokowa wybrała go na wójta. Jesienią 2002 r. został wójtem w wyborach powszechnych.</p>
+        <p xml:id="p-3">- Co skłoniło mnie do zostania samorządowcem? W pewnym momencie życia mężczyzny przychodzi taka potrzeba, aby sprawdzić się np. w życiu publicznym - twierdzi krokowski kandydat do tytułu Wójta Pomorza. - Poza tym interesowały mnie sprawy komunalne. Chciałem się nimi bliżej zająć.</p>
+        <p xml:id="p-4">Co wójt gminy Krokowa uważa za swój największy sukces i największą porażkę?</p>
+        <p xml:id="p-5">- Sukcesem jest to, że udaje się wreszcie opracowywać plany zagospodarowania przestrzennego. Gotowe są już dla Białogóry i części Dębek. Tych ostatnich przez wiele lat nie można było uchwalić - uważa wójt. - Natomiast za porażkę uważam decyzję Rady gminy, aby nie przystępować w ramach Komunalnego Związku Gmin do programu uporządkowania gospodarki ściekowej. Mogliśmy uzyskać wiele milionów euro. Boję się, że to nie tylko moja porażka...</p>
+        <p xml:id="p-6">Od 5 lat ulubionym hobby Henryka Doeringa są narty. Dlatego urlop najchętniej bierze zimą, aby udać się na stoki Szklarskiej Poręby.</p>
+        <p xml:id="p-7">- Tej zimy niestety nie mogłem wyjechać - przyznaje wójt Krokowej. - Czasu wolnego mam bardzo mało, jeśli się taki pojawia, to staram się go spędzać razem z bliskimi.</p>
+        <p xml:id="p-8">Nasz plebiscyt</p>
+        <p xml:id="p-9">„Dziennik Bałtycki” rozpoczął kolejną edycję konkursu Wójt Pomorza. Nasz powiat reprezentują trzej włodarze gmin wiejskich. To Henryk Doering (Krokowa), Tadeusz Puszkarczuk (gmina Puck) i Jerzy Włudzik (Kosakowo). W gronie kilkudziesięciu kolegów po fachu walczyć będą o miano najpopularniejszego wójta województwa. O tym, kto wygra, zadecydują swoimi głosami Czytelnicy „Dziennika”.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

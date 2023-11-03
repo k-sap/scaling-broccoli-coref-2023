@@ -1,0 +1,42 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">co kim jest ?</p>
+        <p xml:id="p-2">pracownikiem laboratorium. on tylko pracuje dla policji ale nie jest policjantem. nie ma odznaki ma legitymację</p>
+        <p xml:id="p-3">to już wiesz czemu powiedziałeś y obserwuję cię jak wychodziłeś ode mnie z domu pamiętasz co zrobiłeś obserwuję cie</p>
+        <p xml:id="p-4">mhm</p>
+        <p xml:id="p-5">ale nie opowiadajcie bo ja chcę to oglądać</p>
+        <p xml:id="p-6">już wiesz czemu ? bo ten policjant siedział w tym samochodzie</p>
+        <p xml:id="p-7">tak tak tak tak dołks</p>
+        <p xml:id="p-8">ten sam sam gest zrobiłeś co dołks</p>
+        <p xml:id="p-9">biedny dołks. a dołks był mój ulubiony aż na niego zagłosowałem kurwa w internecie</p>
+        <p xml:id="p-10">ale tą laskę tą jego siorę to bym mógł stuknąć nie</p>
+        <p xml:id="p-11">no fajna jest a ona gra w jakiejś kontynuacji rek</p>
+        <p xml:id="p-12">ja się zatrzymałem na pierwszej serii</p>
+        <p xml:id="p-13">co leci w telewizji trzecia seria leci w telewizji ?</p>
+        <p xml:id="p-14">nie będzie czwarta w internecie</p>
+        <p xml:id="p-15">ale trzecia w telewizji ? bo ja nie widziałem trzeciej jeszcze</p>
+        <p xml:id="p-16">ja nie wiem ja trzecią całą widziałem</p>
+        <p xml:id="p-17">masz je z trzeciej masz całą trzecią na dysku na przykład ?</p>
+        <p xml:id="p-18">a masz trzecią serię na kompie ?</p>
+        <p xml:id="p-19">będzie na polsacie teraz</p>
+        <p xml:id="p-20">będzie na polsacie tak ? no to o to mi chodzi</p>
+        <p xml:id="p-21">trzecia seria jest w Panamie tak ?</p>
+        <p xml:id="p-22">tak</p>
+        <p xml:id="p-23">no to będzie właśnie ta lecieć</p>
+        <p xml:id="p-24">i kiedy się zaczyna trzecia</p>
+        <p xml:id="p-25">we wrześniu jakoś</p>
+        <p xml:id="p-26">ja już mam dwie odcinki czwartej serii. już mam dwa odcinki czwartej serii</p>
+        <p xml:id="p-27">masz je z trzeciej ?</p>
+        <p xml:id="p-28">prizona ?</p>
+        <p xml:id="p-29">no</p>
+        <p xml:id="p-30">prizona pewnie mam na deceku. prizon będzie na deceku</p>
+        <p xml:id="p-31">mógłbyś mi ściągnąć trzecią serię ?</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

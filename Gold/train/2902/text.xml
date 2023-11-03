@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Biorąc pod uwagę, że był w milicji, to było możliwe, że miał tę spluwę pod poduchą...</p>
+        <p xml:id="p-2">Głęboki ślad w moim życiu wyryła także w Gdańsku rodzina Rosińskich. Mój ojciec był do Gdańska przeniesiony służbowo i to była taka przybrana rodzina. Właściwie do dzisiaj my się nadal traktujemy jak rodzina. To była po prostu przyjaciółka mojej mamy z pracy, z prokuratury. Jej mąż był znanym gdańskim adwokatem. Mieszkali na Starym Mieście w Gdańsku, na ulicy Długiej, w takim domu, gdzie można było jeszcze ze trzy piętra w pokoju zrobić. To byli ludzie, którzy mieli na przykład białą skodę octavię i węgierski telewizor Orion w drewnianej obudowie z taką wielokolorową szybką: a więc Jan Suzin był na niebiesko. A właściwie zaczynał się od niebieskiego, a kończył na jakichś ciemnych brązach. I tam zobaczyłem po raz pierwszy długopis kulkowy, bibułę do atramentu, no takie różne cuda, które we mnie stwarzały świat pełen kolorów, ciepła - taki inny. Oni byli dla nas bardzo serdeczni. To też jest dla mnie ważne, bo tu się kolejne koło zamyka. Kiedy byłem małym chłopakiem, miałem może siedem lat, jechałem z "wujem" Rosińskim tą skodą octavią i mijaliśmy autostopowiczów. Wtedy już wchodził autostop z tymi książeczkami. Jakaś tam uwaga była mojego wuja typu: - O, bikiniarze czy rozrabiaki - tak ogólnie. I z radia - bo on miał radio w samochodzie - leciał szlagier Konik z drzewa, koń na biegunach, ale w tym wykonaniu oryginalnym. Czy to grały Tajfuny czy ktoś inny, nieważne, już nie pamiętam, kto. I to poszło w oryginale. A teraz śpiewała to Urszula na "Przystanku Woodstock". I tak sobie myślę: gdyby mi ktoś powiedział, że kiedyś będę to śpiewać z wielką rzeszą ludzi, że tak ten numer przejdzie i przetrwa całą historię...</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

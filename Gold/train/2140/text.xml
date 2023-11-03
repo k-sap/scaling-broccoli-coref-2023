@@ -1,0 +1,16 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">- Co zrobić po sprzedaży?</p>
+        <p xml:id="p-2">W swojej karierze zawodowej poznałem wiele osób, które zajmują się sprzedażą różnego rodzaju produktów i usług. Kiedy spotykałem się i rozmawiałem z nimi, zdecydowana większość z tych osób miała przekonanie, że to, co i komu sprzedają wpływa bezpośrednio na sposób sprzedaży. Innymi słowy, uważali, że inna jest specyfika sprzedaży powierzchni reklamowych firmom budowlanym, inna Ø samochodów, a jeszcze inna Ø kosmetyków klientom indywidualnym.</p>
+        <p xml:id="p-3">Aby dostosować tematykę i metodę szkoleń, przeprowadziłem wraz z zespołem trenerskim tysiące rozmów i ankiet. Wnioski, które z tego wyciągnęliśmy, były jednoznaczne. Otóż jedynym, co zebrane w ten sposób informacje pokazały, były pewne braki w zakresie kompetencji, które posiadali handlowcy, a które należało w procesie szkoleń i coachingu uzupełnić.</p>
+        <p xml:id="p-4">Co jednak ciekawe, nie uzyskaliśmy informacji, które wskazywałyby na to, że poszczególne rodzaje sprzedaży różnią się między sobą na tyle, aby można było mówić o ich wyjątkowości lub daleko idącej specyfice. Bez wątpienia istnieją jednak takie zjawiska jak wyjątkowość funkcjonowania każdego przedsiębiorstwa, trendy konsumenckie, uwarunkowania społeczno-gospodarcze i polityczne oraz specyfika samych produktów czy usług.</p>
+        <p xml:id="p-5">Dlatego proces sprzedaży jest zawsze taki sam, niezależnie od tego, co, kiedy, gdzie i komu sprzedajemy. Stąd osoby, które mają tzw. zacięcie handlowe, sprzedadzą wszystko i wszystkim. Znam wiele takich osób, które odnoszą sukcesy, sprzedając marchewkę na bazarze, polisy na życie czy maszyny poligraficzne.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

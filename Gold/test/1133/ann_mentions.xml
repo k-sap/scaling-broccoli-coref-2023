@@ -1,0 +1,887 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p>
+        <!-- Afryce  -->
+          <seg xml:id="mention_1">
+            <fs type="mention">
+              <f name="semh" fVal="ann_morphosyntax.xml#morph_1.1.2-seg"/>
+            </fs>
+            <ptr target="ann_morphosyntax.xml#morph_1.1.2-seg"/>
+          </seg>
+          <!-- sytuacje  -->
+          <seg xml:id="mention_2">
+            <fs type="mention">
+              <f name="semh" fVal="ann_morphosyntax.xml#morph_1.1.3-seg"/>
+            </fs>
+            <ptr target="ann_morphosyntax.xml#morph_1.1.3-seg"/>
+          </seg>
+          <!-- tam  -->
+          <seg xml:id="mention_3">
+            <fs type="mention">
+              <f name="semh" fVal="ann_morphosyntax.xml#morph_1.1.8-seg"/>
+            </fs>
+            <ptr target="ann_morphosyntax.xml#morph_1.1.8-seg"/>
+          </seg>
+          <!-- rola partii - awangardy klasy robotniczej  -->
+          <seg xml:id="mention_4">
+            <fs type="mention">
+              <f name="semh" fVal="ann_morphosyntax.xml#morph_1.1.9-seg"/>
+            </fs>
+            <ptr target="ann_morphosyntax.xml#morph_1.1.9-seg"/>
+            <ptr target="ann_morphosyntax.xml#morph_1.1.10-seg"/>
+            <ptr target="ann_morphosyntax.xml#morph_1.1.11-seg"/>
+            <ptr target="ann_morphosyntax.xml#morph_1.1.12-seg"/>
+            <ptr target="ann_morphosyntax.xml#morph_1.1.13-seg"/>
+            <ptr target="ann_morphosyntax.xml#morph_1.1.14-seg"/>
+          </seg>
+          <!-- partii  -->
+          <seg xml:id="mention_5">
+            <fs type="mention">
+              <f name="semh" fVal="ann_morphosyntax.xml#morph_1.1.10-seg"/>
+            </fs>
+            <ptr target="ann_morphosyntax.xml#morph_1.1.10-seg"/>
+          </seg>
+          <!-- partii - awangardy klasy robotniczej  -->
+          <seg xml:id="mention_6">
+            <fs type="mention">
+              <f name="semh" fVal="ann_morphosyntax.xml#morph_1.1.10-seg"/>
+            </fs>
+            <ptr target="ann_morphosyntax.xml#morph_1.1.10-seg"/>
+            <ptr target="ann_morphosyntax.xml#morph_1.1.11-seg"/>
+            <ptr target="ann_morphosyntax.xml#morph_1.1.12-seg"/>
+            <ptr target="ann_morphosyntax.xml#morph_1.1.13-seg"/>
+            <ptr target="ann_morphosyntax.xml#morph_1.1.14-seg"/>
+          </seg>
+          <!-- awangardy klasy robotniczej  -->
+          <seg xml:id="mention_7">
+            <fs type="mention">
+              <f name="semh" fVal="ann_morphosyntax.xml#morph_1.1.12-seg"/>
+            </fs>
+            <ptr target="ann_morphosyntax.xml#morph_1.1.12-seg"/>
+            <ptr target="ann_morphosyntax.xml#morph_1.1.13-seg"/>
+            <ptr target="ann_morphosyntax.xml#morph_1.1.14-seg"/>
+          </seg>
+          <!-- klasy robotniczej  -->
+          <seg xml:id="mention_8">
+            <fs type="mention">
+              <f name="semh" fVal="ann_morphosyntax.xml#morph_1.1.13-seg"/>
+            </fs>
+            <ptr target="ann_morphosyntax.xml#morph_1.1.13-seg"/>
+            <ptr target="ann_morphosyntax.xml#morph_1.1.14-seg"/>
+          </seg>
+          <!-- klasa robotnicza  -->
+          <seg xml:id="mention_9">
+            <fs type="mention">
+              <f name="semh" fVal="ann_morphosyntax.xml#morph_1.1.19-seg"/>
+            </fs>
+            <ptr target="ann_morphosyntax.xml#morph_1.1.19-seg"/>
+            <ptr target="ann_morphosyntax.xml#morph_1.1.20-seg"/>
+          </seg>
+          <!-- Ogromna większość państw  -->
+          <seg xml:id="mention_10">
+            <fs type="mention">
+              <f name="semh" fVal="ann_morphosyntax.xml#morph_1.2.2-seg"/>
+            </fs>
+            <ptr target="ann_morphosyntax.xml#morph_1.2.1-seg"/>
+            <ptr target="ann_morphosyntax.xml#morph_1.2.2-seg"/>
+            <ptr target="ann_morphosyntax.xml#morph_1.2.3-seg"/>
+          </seg>
+          <!-- państw  -->
+          <seg xml:id="mention_11">
+            <fs type="mention">
+              <f name="semh" fVal="ann_morphosyntax.xml#morph_1.2.3-seg"/>
+            </fs>
+            <ptr target="ann_morphosyntax.xml#morph_1.2.3-seg"/>
+          </seg>
+          <!-- " flagową " niepodległość  -->
+          <seg xml:id="mention_12">
+            <fs type="mention">
+              <f name="semh" fVal="ann_morphosyntax.xml#morph_1.2.10-seg"/>
+            </fs>
+            <ptr target="ann_morphosyntax.xml#morph_1.2.7-seg"/>
+            <ptr target="ann_morphosyntax.xml#morph_1.2.8-seg"/>
+            <ptr target="ann_morphosyntax.xml#morph_1.2.9-seg"/>
+            <ptr target="ann_morphosyntax.xml#morph_1.2.10-seg"/>
+          </seg>
+          <!-- byłych kolonialistów  -->
+          <seg xml:id="mention_13">
+            <fs type="mention">
+              <f name="semh" fVal="ann_morphosyntax.xml#morph_1.2.13-seg"/>
+            </fs>
+            <ptr target="ann_morphosyntax.xml#morph_1.2.12-seg"/>
+            <ptr target="ann_morphosyntax.xml#morph_1.2.13-seg"/>
+          </seg>
+          <!-- ogłaszała  -->
+          <seg xml:id="mention_14">
+            <fs type="mention">
+              <f name="semh" fVal="ann_morphosyntax.xml#morph_1.2.17-seg"/>
+              <f name="zero" fVal="true"/>
+            </fs>
+            <ptr target="ann_morphosyntax.xml#morph_1.2.17-seg"/>
+          </seg>
+          <!-- rozmaite socjalizmy z przymiotnikami , maskujące etatystyczną oligarchię  -->
+          <seg xml:id="mention_15">
+            <fs type="mention">
+              <f name="semh" fVal="ann_morphosyntax.xml#morph_1.2.19-seg"/>
+            </fs>
+            <ptr target="ann_morphosyntax.xml#morph_1.2.18-seg"/>
+            <ptr target="ann_morphosyntax.xml#morph_1.2.19-seg"/>
+            <ptr target="ann_morphosyntax.xml#morph_1.2.20-seg"/>
+            <ptr target="ann_morphosyntax.xml#morph_1.2.21-seg"/>
+            <ptr target="ann_morphosyntax.xml#morph_1.2.22-seg"/>
+            <ptr target="ann_morphosyntax.xml#morph_1.2.23-seg"/>
+            <ptr target="ann_morphosyntax.xml#morph_1.2.24-seg"/>
+            <ptr target="ann_morphosyntax.xml#morph_1.2.25-seg"/>
+          </seg>
+          <!-- przymiotnikami  -->
+          <seg xml:id="mention_16">
+            <fs type="mention">
+              <f name="semh" fVal="ann_morphosyntax.xml#morph_1.2.21-seg"/>
+            </fs>
+            <ptr target="ann_morphosyntax.xml#morph_1.2.21-seg"/>
+          </seg>
+          <!-- etatystyczną oligarchię  -->
+          <seg xml:id="mention_17">
+            <fs type="mention">
+              <f name="semh" fVal="ann_morphosyntax.xml#morph_1.2.25-seg"/>
+            </fs>
+            <ptr target="ann_morphosyntax.xml#morph_1.2.24-seg"/>
+            <ptr target="ann_morphosyntax.xml#morph_1.2.25-seg"/>
+          </seg>
+          <!-- Tam , gdzie były powstania wyzwoleńcze  -->
+          <seg xml:id="mention_18">
+            <fs type="mention">
+              <f name="semh" fVal="ann_morphosyntax.xml#morph_1.3.1-seg"/>
+            </fs>
+            <ptr target="ann_morphosyntax.xml#morph_1.3.1-seg"/>
+            <ptr target="ann_morphosyntax.xml#morph_1.3.2-seg"/>
+            <ptr target="ann_morphosyntax.xml#morph_1.3.3-seg"/>
+            <ptr target="ann_morphosyntax.xml#morph_1.3.4-seg"/>
+            <ptr target="ann_morphosyntax.xml#morph_1.3.5-seg"/>
+            <ptr target="ann_morphosyntax.xml#morph_1.3.6-seg"/>
+          </seg>
+          <!-- powstania wyzwoleńcze  -->
+          <seg xml:id="mention_19">
+            <fs type="mention">
+              <f name="semh" fVal="ann_morphosyntax.xml#morph_1.3.5-seg"/>
+            </fs>
+            <ptr target="ann_morphosyntax.xml#morph_1.3.5-seg"/>
+            <ptr target="ann_morphosyntax.xml#morph_1.3.6-seg"/>
+          </seg>
+          <!-- radykalizacji imitującej realsocjalizm  -->
+          <seg xml:id="mention_20">
+            <fs type="mention">
+              <f name="semh" fVal="ann_morphosyntax.xml#morph_1.3.10-seg"/>
+            </fs>
+            <ptr target="ann_morphosyntax.xml#morph_1.3.10-seg"/>
+            <ptr target="ann_morphosyntax.xml#morph_1.3.11-seg"/>
+            <ptr target="ann_morphosyntax.xml#morph_1.3.12-seg"/>
+          </seg>
+          <!-- realsocjalizm  -->
+          <seg xml:id="mention_21">
+            <fs type="mention">
+              <f name="semh" fVal="ann_morphosyntax.xml#morph_1.3.12-seg"/>
+            </fs>
+            <ptr target="ann_morphosyntax.xml#morph_1.3.12-seg"/>
+          </seg>
+          <!-- Algieria  -->
+          <seg xml:id="mention_22">
+            <fs type="mention">
+              <f name="semh" fVal="ann_morphosyntax.xml#morph_1.3.14-seg"/>
+            </fs>
+            <ptr target="ann_morphosyntax.xml#morph_1.3.14-seg"/>
+          </seg>
+          <!-- Algieria , kolonie portugalskie  -->
+          <seg xml:id="mention_23">
+            <fs type="mention">
+              <f name="semh" fVal="ann_morphosyntax.xml#morph_1.3.14-seg"/>
+            </fs>
+            <ptr target="ann_morphosyntax.xml#morph_1.3.14-seg"/>
+            <ptr target="ann_morphosyntax.xml#morph_1.3.15-seg"/>
+            <ptr target="ann_morphosyntax.xml#morph_1.3.16-seg"/>
+            <ptr target="ann_morphosyntax.xml#morph_1.3.17-seg"/>
+          </seg>
+          <!-- kolonie portugalskie  -->
+          <seg xml:id="mention_24">
+            <fs type="mention">
+              <f name="semh" fVal="ann_morphosyntax.xml#morph_1.3.16-seg"/>
+            </fs>
+            <ptr target="ann_morphosyntax.xml#morph_1.3.16-seg"/>
+            <ptr target="ann_morphosyntax.xml#morph_1.3.17-seg"/>
+          </seg>
+          <!-- podobne zjawiska  -->
+          <seg xml:id="mention_25">
+            <fs type="mention">
+              <f name="semh" fVal="ann_morphosyntax.xml#morph_1.3.21-seg"/>
+            </fs>
+            <ptr target="ann_morphosyntax.xml#morph_1.3.20-seg"/>
+            <ptr target="ann_morphosyntax.xml#morph_1.3.21-seg"/>
+          </seg>
+          <!-- tam , gdzie szczególnie zmurszały był stary reżim  -->
+          <seg xml:id="mention_26">
+            <fs type="mention">
+              <f name="semh" fVal="ann_morphosyntax.xml#morph_1.3.23-seg"/>
+            </fs>
+            <ptr target="ann_morphosyntax.xml#morph_1.3.23-seg"/>
+            <ptr target="ann_morphosyntax.xml#morph_1.3.24-seg"/>
+            <ptr target="ann_morphosyntax.xml#morph_1.3.25-seg"/>
+            <ptr target="ann_morphosyntax.xml#morph_1.3.26-seg"/>
+            <ptr target="ann_morphosyntax.xml#morph_1.3.27-seg"/>
+            <ptr target="ann_morphosyntax.xml#morph_1.3.28-seg"/>
+            <ptr target="ann_morphosyntax.xml#morph_1.3.29-seg"/>
+            <ptr target="ann_morphosyntax.xml#morph_1.3.30-seg"/>
+          </seg>
+          <!-- stary reżim  -->
+          <seg xml:id="mention_27">
+            <fs type="mention">
+              <f name="semh" fVal="ann_morphosyntax.xml#morph_1.3.30-seg"/>
+            </fs>
+            <ptr target="ann_morphosyntax.xml#morph_1.3.29-seg"/>
+            <ptr target="ann_morphosyntax.xml#morph_1.3.30-seg"/>
+          </seg>
+          <!-- Libia  -->
+          <seg xml:id="mention_28">
+            <fs type="mention">
+              <f name="semh" fVal="ann_morphosyntax.xml#morph_1.3.32-seg"/>
+            </fs>
+            <ptr target="ann_morphosyntax.xml#morph_1.3.32-seg"/>
+          </seg>
+          <!-- Libia , Etiopia  -->
+          <seg xml:id="mention_29">
+            <fs type="mention">
+              <f name="semh" fVal="ann_morphosyntax.xml#morph_1.3.32-seg"/>
+            </fs>
+            <ptr target="ann_morphosyntax.xml#morph_1.3.32-seg"/>
+            <ptr target="ann_morphosyntax.xml#morph_1.3.33-seg"/>
+            <ptr target="ann_morphosyntax.xml#morph_1.3.34-seg"/>
+          </seg>
+          <!-- Etiopia  -->
+          <seg xml:id="mention_30">
+            <fs type="mention">
+              <f name="semh" fVal="ann_morphosyntax.xml#morph_1.3.34-seg"/>
+            </fs>
+            <ptr target="ann_morphosyntax.xml#morph_1.3.34-seg"/>
+          </seg>
+          <!-- gdziekolwiek  -->
+          <seg xml:id="mention_31">
+            <fs type="mention">
+              <f name="semh" fVal="ann_morphosyntax.xml#morph_1.4.6-seg"/>
+            </fs>
+            <ptr target="ann_morphosyntax.xml#morph_1.4.6-seg"/>
+          </seg>
+          <!-- Algierią  -->
+          <seg xml:id="mention_32">
+            <fs type="mention">
+              <f name="semh" fVal="ann_morphosyntax.xml#morph_1.4.9-seg"/>
+            </fs>
+            <ptr target="ann_morphosyntax.xml#morph_1.4.9-seg"/>
+          </seg>
+          <!-- powstania te  -->
+          <seg xml:id="mention_33">
+            <fs type="mention">
+              <f name="semh" fVal="ann_morphosyntax.xml#morph_1.4.11-seg"/>
+            </fs>
+            <ptr target="ann_morphosyntax.xml#morph_1.4.11-seg"/>
+            <ptr target="ann_morphosyntax.xml#morph_1.4.12-seg"/>
+          </seg>
+          <!-- triumf  -->
+          <seg xml:id="mention_34">
+            <fs type="mention">
+              <f name="semh" fVal="ann_morphosyntax.xml#morph_1.4.15-seg"/>
+            </fs>
+            <ptr target="ann_morphosyntax.xml#morph_1.4.15-seg"/>
+          </seg>
+          <!-- pomoc internacjonalistyczna  -->
+          <seg xml:id="mention_35">
+            <fs type="mention">
+              <f name="semh" fVal="ann_morphosyntax.xml#morph_1.4.19-seg"/>
+            </fs>
+            <ptr target="ann_morphosyntax.xml#morph_1.4.19-seg"/>
+            <ptr target="ann_morphosyntax.xml#morph_1.4.20-seg"/>
+          </seg>
+          <!-- Kuby  -->
+          <seg xml:id="mention_36">
+            <fs type="mention">
+              <f name="semh" fVal="ann_morphosyntax.xml#morph_1.4.23-seg"/>
+            </fs>
+            <ptr target="ann_morphosyntax.xml#morph_1.4.23-seg"/>
+          </seg>
+          <!-- Tejże Kuby , której rewolucjoniści krajów latynoskich zarzucali oburzającą bierność  -->
+          <seg xml:id="mention_37">
+            <fs type="mention">
+              <f name="semh" fVal="ann_morphosyntax.xml#morph_2.5.2-seg"/>
+            </fs>
+            <ptr target="ann_morphosyntax.xml#morph_2.5.1-seg"/>
+            <ptr target="ann_morphosyntax.xml#morph_2.5.2-seg"/>
+            <ptr target="ann_morphosyntax.xml#morph_2.5.3-seg"/>
+            <ptr target="ann_morphosyntax.xml#morph_2.5.4-seg"/>
+            <ptr target="ann_morphosyntax.xml#morph_2.5.5-seg"/>
+            <ptr target="ann_morphosyntax.xml#morph_2.5.6-seg"/>
+            <ptr target="ann_morphosyntax.xml#morph_2.5.7-seg"/>
+            <ptr target="ann_morphosyntax.xml#morph_2.5.8-seg"/>
+            <ptr target="ann_morphosyntax.xml#morph_2.5.9-seg"/>
+            <ptr target="ann_morphosyntax.xml#morph_2.5.10-seg"/>
+          </seg>
+          <!-- rewolucjoniści krajów latynoskich  -->
+          <seg xml:id="mention_38">
+            <fs type="mention">
+              <f name="semh" fVal="ann_morphosyntax.xml#morph_2.5.5-seg"/>
+            </fs>
+            <ptr target="ann_morphosyntax.xml#morph_2.5.5-seg"/>
+            <ptr target="ann_morphosyntax.xml#morph_2.5.6-seg"/>
+            <ptr target="ann_morphosyntax.xml#morph_2.5.7-seg"/>
+          </seg>
+          <!-- krajów latynoskich  -->
+          <seg xml:id="mention_39">
+            <fs type="mention">
+              <f name="semh" fVal="ann_morphosyntax.xml#morph_2.5.6-seg"/>
+            </fs>
+            <ptr target="ann_morphosyntax.xml#morph_2.5.6-seg"/>
+            <ptr target="ann_morphosyntax.xml#morph_2.5.7-seg"/>
+          </seg>
+          <!-- oburzającą bierność  -->
+          <seg xml:id="mention_40">
+            <fs type="mention">
+              <f name="semh" fVal="ann_morphosyntax.xml#morph_2.5.10-seg"/>
+            </fs>
+            <ptr target="ann_morphosyntax.xml#morph_2.5.9-seg"/>
+            <ptr target="ann_morphosyntax.xml#morph_2.5.10-seg"/>
+          </seg>
+          <!-- wspomogła  -->
+          <seg xml:id="mention_41">
+            <fs type="mention">
+              <f name="semh" fVal="ann_morphosyntax.xml#morph_2.5.14-seg"/>
+              <f name="zero" fVal="true"/>
+            </fs>
+            <ptr target="ann_morphosyntax.xml#morph_2.5.14-seg"/>
+          </seg>
+          <!-- powstania FALN w Wenezueli ani FAR w Gwatemali , ani MIR i ELN w Peru  -->
+          <seg xml:id="mention_42">
+            <fs type="mention">
+              <f name="semh" fVal="ann_morphosyntax.xml#morph_2.5.15-seg"/>
+            </fs>
+            <ptr target="ann_morphosyntax.xml#morph_2.5.15-seg"/>
+            <ptr target="ann_morphosyntax.xml#morph_2.5.16-seg"/>
+            <ptr target="ann_morphosyntax.xml#morph_2.5.17-seg"/>
+            <ptr target="ann_morphosyntax.xml#morph_2.5.18-seg"/>
+            <ptr target="ann_morphosyntax.xml#morph_2.5.19-seg"/>
+            <ptr target="ann_morphosyntax.xml#morph_2.5.20-seg"/>
+            <ptr target="ann_morphosyntax.xml#morph_2.5.21-seg"/>
+            <ptr target="ann_morphosyntax.xml#morph_2.5.22-seg"/>
+            <ptr target="ann_morphosyntax.xml#morph_2.5.23-seg"/>
+            <ptr target="ann_morphosyntax.xml#morph_2.5.24-seg"/>
+            <ptr target="ann_morphosyntax.xml#morph_2.5.25-seg"/>
+            <ptr target="ann_morphosyntax.xml#morph_2.5.26-seg"/>
+            <ptr target="ann_morphosyntax.xml#morph_2.5.27-seg"/>
+            <ptr target="ann_morphosyntax.xml#morph_2.5.28-seg"/>
+            <ptr target="ann_morphosyntax.xml#morph_2.5.29-seg"/>
+          </seg>
+          <!-- powstania FALN w Wenezueli ani FAR w Gwatemali , ani MIR i ELN w Peru , ani rewolty Carlosa Marighelli i żadnych innych zrywów rewolucyjnych w Brazylii , ani nawet wyprawy Che Guevary do Boliwii  -->
+          <seg xml:id="mention_43">
+            <fs type="mention">
+              <f name="semh" fVal="ann_morphosyntax.xml#morph_2.5.15-seg"/>
+            </fs>
+            <ptr target="ann_morphosyntax.xml#morph_2.5.15-seg"/>
+            <ptr target="ann_morphosyntax.xml#morph_2.5.16-seg"/>
+            <ptr target="ann_morphosyntax.xml#morph_2.5.17-seg"/>
+            <ptr target="ann_morphosyntax.xml#morph_2.5.18-seg"/>
+            <ptr target="ann_morphosyntax.xml#morph_2.5.19-seg"/>
+            <ptr target="ann_morphosyntax.xml#morph_2.5.20-seg"/>
+            <ptr target="ann_morphosyntax.xml#morph_2.5.21-seg"/>
+            <ptr target="ann_morphosyntax.xml#morph_2.5.22-seg"/>
+            <ptr target="ann_morphosyntax.xml#morph_2.5.23-seg"/>
+            <ptr target="ann_morphosyntax.xml#morph_2.5.24-seg"/>
+            <ptr target="ann_morphosyntax.xml#morph_2.5.25-seg"/>
+            <ptr target="ann_morphosyntax.xml#morph_2.5.26-seg"/>
+            <ptr target="ann_morphosyntax.xml#morph_2.5.27-seg"/>
+            <ptr target="ann_morphosyntax.xml#morph_2.5.28-seg"/>
+            <ptr target="ann_morphosyntax.xml#morph_2.5.29-seg"/>
+            <ptr target="ann_morphosyntax.xml#morph_2.5.30-seg"/>
+            <ptr target="ann_morphosyntax.xml#morph_2.5.31-seg"/>
+            <ptr target="ann_morphosyntax.xml#morph_2.5.32-seg"/>
+            <ptr target="ann_morphosyntax.xml#morph_2.5.33-seg"/>
+            <ptr target="ann_morphosyntax.xml#morph_2.5.34-seg"/>
+            <ptr target="ann_morphosyntax.xml#morph_2.5.35-seg"/>
+            <ptr target="ann_morphosyntax.xml#morph_2.5.36-seg"/>
+            <ptr target="ann_morphosyntax.xml#morph_2.5.37-seg"/>
+            <ptr target="ann_morphosyntax.xml#morph_2.5.38-seg"/>
+            <ptr target="ann_morphosyntax.xml#morph_2.5.39-seg"/>
+            <ptr target="ann_morphosyntax.xml#morph_2.5.40-seg"/>
+            <ptr target="ann_morphosyntax.xml#morph_2.5.41-seg"/>
+            <ptr target="ann_morphosyntax.xml#morph_2.5.42-seg"/>
+            <ptr target="ann_morphosyntax.xml#morph_2.5.43-seg"/>
+            <ptr target="ann_morphosyntax.xml#morph_2.5.44-seg"/>
+            <ptr target="ann_morphosyntax.xml#morph_2.5.45-seg"/>
+            <ptr target="ann_morphosyntax.xml#morph_2.5.46-seg"/>
+            <ptr target="ann_morphosyntax.xml#morph_2.5.47-seg"/>
+            <ptr target="ann_morphosyntax.xml#morph_2.5.48-seg"/>
+            <ptr target="ann_morphosyntax.xml#morph_2.5.49-seg"/>
+          </seg>
+          <!-- FALN  -->
+          <seg xml:id="mention_44">
+            <fs type="mention">
+              <f name="semh" fVal="ann_morphosyntax.xml#morph_2.5.16-seg"/>
+            </fs>
+            <ptr target="ann_morphosyntax.xml#morph_2.5.16-seg"/>
+          </seg>
+          <!-- Wenezueli  -->
+          <seg xml:id="mention_45">
+            <fs type="mention">
+              <f name="semh" fVal="ann_morphosyntax.xml#morph_2.5.18-seg"/>
+            </fs>
+            <ptr target="ann_morphosyntax.xml#morph_2.5.18-seg"/>
+          </seg>
+          <!-- FAR  -->
+          <seg xml:id="mention_46">
+            <fs type="mention">
+              <f name="semh" fVal="ann_morphosyntax.xml#morph_2.5.20-seg"/>
+            </fs>
+            <ptr target="ann_morphosyntax.xml#morph_2.5.20-seg"/>
+          </seg>
+          <!-- Gwatemali  -->
+          <seg xml:id="mention_47">
+            <fs type="mention">
+              <f name="semh" fVal="ann_morphosyntax.xml#morph_2.5.22-seg"/>
+            </fs>
+            <ptr target="ann_morphosyntax.xml#morph_2.5.22-seg"/>
+          </seg>
+          <!-- MIR  -->
+          <seg xml:id="mention_48">
+            <fs type="mention">
+              <f name="semh" fVal="ann_morphosyntax.xml#morph_2.5.25-seg"/>
+            </fs>
+            <ptr target="ann_morphosyntax.xml#morph_2.5.25-seg"/>
+          </seg>
+          <!-- ELN  -->
+          <seg xml:id="mention_49">
+            <fs type="mention">
+              <f name="semh" fVal="ann_morphosyntax.xml#morph_2.5.27-seg"/>
+            </fs>
+            <ptr target="ann_morphosyntax.xml#morph_2.5.27-seg"/>
+          </seg>
+          <!-- Peru  -->
+          <seg xml:id="mention_50">
+            <fs type="mention">
+              <f name="semh" fVal="ann_morphosyntax.xml#morph_2.5.29-seg"/>
+            </fs>
+            <ptr target="ann_morphosyntax.xml#morph_2.5.29-seg"/>
+          </seg>
+          <!-- rewolty Carlosa Marighelli  -->
+          <seg xml:id="mention_51">
+            <fs type="mention">
+              <f name="semh" fVal="ann_morphosyntax.xml#morph_2.5.32-seg"/>
+            </fs>
+            <ptr target="ann_morphosyntax.xml#morph_2.5.32-seg"/>
+            <ptr target="ann_morphosyntax.xml#morph_2.5.33-seg"/>
+            <ptr target="ann_morphosyntax.xml#morph_2.5.34-seg"/>
+          </seg>
+          <!-- Carlosa Marighelli  -->
+          <seg xml:id="mention_52">
+            <fs type="mention">
+              <f name="semh" fVal="ann_morphosyntax.xml#morph_2.5.33-seg"/>
+            </fs>
+            <ptr target="ann_morphosyntax.xml#morph_2.5.33-seg"/>
+            <ptr target="ann_morphosyntax.xml#morph_2.5.34-seg"/>
+          </seg>
+          <!-- żadnych innych zrywów rewolucyjnych  -->
+          <seg xml:id="mention_53">
+            <fs type="mention">
+              <f name="semh" fVal="ann_morphosyntax.xml#morph_2.5.38-seg"/>
+            </fs>
+            <ptr target="ann_morphosyntax.xml#morph_2.5.36-seg"/>
+            <ptr target="ann_morphosyntax.xml#morph_2.5.37-seg"/>
+            <ptr target="ann_morphosyntax.xml#morph_2.5.38-seg"/>
+            <ptr target="ann_morphosyntax.xml#morph_2.5.39-seg"/>
+          </seg>
+          <!-- Brazylii  -->
+          <seg xml:id="mention_54">
+            <fs type="mention">
+              <f name="semh" fVal="ann_morphosyntax.xml#morph_2.5.41-seg"/>
+            </fs>
+            <ptr target="ann_morphosyntax.xml#morph_2.5.41-seg"/>
+          </seg>
+          <!-- wyprawy Che Guevary  -->
+          <seg xml:id="mention_55">
+            <fs type="mention">
+              <f name="semh" fVal="ann_morphosyntax.xml#morph_2.5.45-seg"/>
+            </fs>
+            <ptr target="ann_morphosyntax.xml#morph_2.5.45-seg"/>
+            <ptr target="ann_morphosyntax.xml#morph_2.5.46-seg"/>
+            <ptr target="ann_morphosyntax.xml#morph_2.5.47-seg"/>
+          </seg>
+          <!-- Che Guevary  -->
+          <seg xml:id="mention_56">
+            <fs type="mention">
+              <f name="semh" fVal="ann_morphosyntax.xml#morph_2.5.46-seg"/>
+            </fs>
+            <ptr target="ann_morphosyntax.xml#morph_2.5.46-seg"/>
+            <ptr target="ann_morphosyntax.xml#morph_2.5.47-seg"/>
+          </seg>
+          <!-- Boliwii  -->
+          <seg xml:id="mention_57">
+            <fs type="mention">
+              <f name="semh" fVal="ann_morphosyntax.xml#morph_2.5.49-seg"/>
+            </fs>
+            <ptr target="ann_morphosyntax.xml#morph_2.5.49-seg"/>
+          </seg>
+          <!-- Przywódca FALN  -->
+          <seg xml:id="mention_58">
+            <fs type="mention">
+              <f name="semh" fVal="ann_morphosyntax.xml#morph_2.6.1-seg"/>
+            </fs>
+            <ptr target="ann_morphosyntax.xml#morph_2.6.1-seg"/>
+            <ptr target="ann_morphosyntax.xml#morph_2.6.2-seg"/>
+          </seg>
+          <!-- Przywódca FALN , Douglas Bravo  -->
+          <seg xml:id="mention_59">
+            <fs type="mention">
+              <f name="semh" fVal="ann_morphosyntax.xml#morph_2.6.1-seg"/>
+            </fs>
+            <ptr target="ann_morphosyntax.xml#morph_2.6.1-seg"/>
+            <ptr target="ann_morphosyntax.xml#morph_2.6.2-seg"/>
+            <ptr target="ann_morphosyntax.xml#morph_2.6.3-seg"/>
+            <ptr target="ann_morphosyntax.xml#morph_2.6.4-seg"/>
+            <ptr target="ann_morphosyntax.xml#morph_2.6.5-seg"/>
+          </seg>
+          <!-- FALN  -->
+          <seg xml:id="mention_60">
+            <fs type="mention">
+              <f name="semh" fVal="ann_morphosyntax.xml#morph_2.6.2-seg"/>
+            </fs>
+            <ptr target="ann_morphosyntax.xml#morph_2.6.2-seg"/>
+          </seg>
+          <!-- Douglas Bravo  -->
+          <seg xml:id="mention_61">
+            <fs type="mention">
+              <f name="semh" fVal="ann_morphosyntax.xml#morph_2.6.4-seg"/>
+            </fs>
+            <ptr target="ann_morphosyntax.xml#morph_2.6.4-seg"/>
+            <ptr target="ann_morphosyntax.xml#morph_2.6.5-seg"/>
+          </seg>
+          <!-- Fidela Castro  -->
+          <seg xml:id="mention_62">
+            <fs type="mention">
+              <f name="semh" fVal="ann_morphosyntax.xml#morph_2.6.10-seg"/>
+            </fs>
+            <ptr target="ann_morphosyntax.xml#morph_2.6.10-seg"/>
+            <ptr target="ann_morphosyntax.xml#morph_2.6.11-seg"/>
+          </seg>
+          <!-- mu  -->
+          <seg xml:id="mention_63">
+            <fs type="mention">
+              <f name="semh" fVal="ann_morphosyntax.xml#morph_2.6.14-seg"/>
+            </fs>
+            <ptr target="ann_morphosyntax.xml#morph_2.6.14-seg"/>
+          </seg>
+          <!-- przyjął  -->
+          <seg xml:id="mention_64">
+            <fs type="mention">
+              <f name="semh" fVal="ann_morphosyntax.xml#morph_2.6.18-seg"/>
+              <f name="zero" fVal="true"/>
+            </fs>
+            <ptr target="ann_morphosyntax.xml#morph_2.6.18-seg"/>
+          </seg>
+          <!-- strategię Simona Bolivara  -->
+          <seg xml:id="mention_65">
+            <fs type="mention">
+              <f name="semh" fVal="ann_morphosyntax.xml#morph_2.6.19-seg"/>
+            </fs>
+            <ptr target="ann_morphosyntax.xml#morph_2.6.19-seg"/>
+            <ptr target="ann_morphosyntax.xml#morph_2.6.20-seg"/>
+            <ptr target="ann_morphosyntax.xml#morph_2.6.21-seg"/>
+          </seg>
+          <!-- Simona Bolivara  -->
+          <seg xml:id="mention_66">
+            <fs type="mention">
+              <f name="semh" fVal="ann_morphosyntax.xml#morph_2.6.20-seg"/>
+            </fs>
+            <ptr target="ann_morphosyntax.xml#morph_2.6.20-seg"/>
+            <ptr target="ann_morphosyntax.xml#morph_2.6.21-seg"/>
+          </seg>
+          <!-- wahał  -->
+          <seg xml:id="mention_67">
+            <fs type="mention">
+              <f name="semh" fVal="ann_morphosyntax.xml#morph_2.6.24-seg"/>
+              <f name="zero" fVal="true"/>
+            </fs>
+            <ptr target="ann_morphosyntax.xml#morph_2.6.24-seg"/>
+          </seg>
+          <!-- wyzwolonego terytorium Kuby  -->
+          <seg xml:id="mention_68">
+            <fs type="mention">
+              <f name="semh" fVal="ann_morphosyntax.xml#morph_2.6.32-seg"/>
+            </fs>
+            <ptr target="ann_morphosyntax.xml#morph_2.6.31-seg"/>
+            <ptr target="ann_morphosyntax.xml#morph_2.6.32-seg"/>
+            <ptr target="ann_morphosyntax.xml#morph_2.6.33-seg"/>
+          </seg>
+          <!-- Kuby  -->
+          <seg xml:id="mention_69">
+            <fs type="mention">
+              <f name="semh" fVal="ann_morphosyntax.xml#morph_2.6.33-seg"/>
+            </fs>
+            <ptr target="ann_morphosyntax.xml#morph_2.6.33-seg"/>
+          </seg>
+          <!-- innych terenach  -->
+          <seg xml:id="mention_70">
+            <fs type="mention">
+              <f name="semh" fVal="ann_morphosyntax.xml#morph_2.6.39-seg"/>
+            </fs>
+            <ptr target="ann_morphosyntax.xml#morph_2.6.38-seg"/>
+            <ptr target="ann_morphosyntax.xml#morph_2.6.39-seg"/>
+          </seg>
+          <!-- traktacie Poprawki taktyczne czy strategiczne  -->
+          <seg xml:id="mention_71">
+            <fs type="mention">
+              <f name="semh" fVal="ann_morphosyntax.xml#morph_2.7.2-seg"/>
+            </fs>
+            <ptr target="ann_morphosyntax.xml#morph_2.7.2-seg"/>
+            <ptr target="ann_morphosyntax.xml#morph_2.7.3-seg"/>
+            <ptr target="ann_morphosyntax.xml#morph_2.7.4-seg"/>
+            <ptr target="ann_morphosyntax.xml#morph_2.7.5-seg"/>
+            <ptr target="ann_morphosyntax.xml#morph_2.7.6-seg"/>
+          </seg>
+          <!-- Poprawki taktyczne czy strategiczne  -->
+          <seg xml:id="mention_72">
+            <fs type="mention">
+              <f name="semh" fVal="ann_morphosyntax.xml#morph_2.7.3-seg"/>
+            </fs>
+            <ptr target="ann_morphosyntax.xml#morph_2.7.3-seg"/>
+            <ptr target="ann_morphosyntax.xml#morph_2.7.4-seg"/>
+            <ptr target="ann_morphosyntax.xml#morph_2.7.5-seg"/>
+            <ptr target="ann_morphosyntax.xml#morph_2.7.6-seg"/>
+          </seg>
+          <!-- pisał  -->
+          <seg xml:id="mention_73">
+            <fs type="mention">
+              <f name="semh" fVal="ann_morphosyntax.xml#morph_2.7.7-seg"/>
+              <f name="zero" fVal="true"/>
+            </fs>
+            <ptr target="ann_morphosyntax.xml#morph_2.7.7-seg"/>
+          </seg>
+          <!-- Jesteśmy  -->
+          <seg xml:id="mention_74">
+            <fs type="mention">
+              <f name="semh" fVal="ann_morphosyntax.xml#morph_3.8.2-seg"/>
+              <f name="zero" fVal="true"/>
+            </fs>
+            <ptr target="ann_morphosyntax.xml#morph_3.8.2-seg"/>
+          </seg>
+          <!-- strata terytorium kubańskiego  -->
+          <seg xml:id="mention_75">
+            <fs type="mention">
+              <f name="semh" fVal="ann_morphosyntax.xml#morph_3.8.6-seg"/>
+            </fs>
+            <ptr target="ann_morphosyntax.xml#morph_3.8.6-seg"/>
+            <ptr target="ann_morphosyntax.xml#morph_3.8.7-seg"/>
+            <ptr target="ann_morphosyntax.xml#morph_3.8.8-seg"/>
+          </seg>
+          <!-- terytorium kubańskiego  -->
+          <seg xml:id="mention_76">
+            <fs type="mention">
+              <f name="semh" fVal="ann_morphosyntax.xml#morph_3.8.7-seg"/>
+            </fs>
+            <ptr target="ann_morphosyntax.xml#morph_3.8.7-seg"/>
+            <ptr target="ann_morphosyntax.xml#morph_3.8.8-seg"/>
+          </seg>
+          <!-- szczególnych okolicznościach walki  -->
+          <seg xml:id="mention_77">
+            <fs type="mention">
+              <f name="semh" fVal="ann_morphosyntax.xml#morph_3.8.11-seg"/>
+            </fs>
+            <ptr target="ann_morphosyntax.xml#morph_3.8.10-seg"/>
+            <ptr target="ann_morphosyntax.xml#morph_3.8.11-seg"/>
+            <ptr target="ann_morphosyntax.xml#morph_3.8.12-seg"/>
+          </seg>
+          <!-- walki  -->
+          <seg xml:id="mention_78">
+            <fs type="mention">
+              <f name="semh" fVal="ann_morphosyntax.xml#morph_3.8.12-seg"/>
+            </fs>
+            <ptr target="ann_morphosyntax.xml#morph_3.8.12-seg"/>
+          </seg>
+          <!-- skutek  -->
+          <seg xml:id="mention_79">
+            <fs type="mention">
+              <f name="semh" fVal="ann_morphosyntax.xml#morph_3.8.16-seg"/>
+            </fs>
+            <ptr target="ann_morphosyntax.xml#morph_3.8.16-seg"/>
+          </seg>
+          <!-- rozprzestrzenienie się w całej Ameryce najlepszych sił Kuby , jej najlepszych wojsk , jej przywódców , jej najskuteczniejszych wysiłków , ażeby wzmocnić walkę  -->
+          <seg xml:id="mention_80">
+            <fs type="mention">
+              <f name="semh" fVal="ann_morphosyntax.xml#morph_3.8.17-seg"/>
+            </fs>
+            <ptr target="ann_morphosyntax.xml#morph_3.8.17-seg"/>
+            <ptr target="ann_morphosyntax.xml#morph_3.8.18-seg"/>
+            <ptr target="ann_morphosyntax.xml#morph_3.8.19-seg"/>
+            <ptr target="ann_morphosyntax.xml#morph_3.8.20-seg"/>
+            <ptr target="ann_morphosyntax.xml#morph_3.8.21-seg"/>
+            <ptr target="ann_morphosyntax.xml#morph_3.8.22-seg"/>
+            <ptr target="ann_morphosyntax.xml#morph_3.8.23-seg"/>
+            <ptr target="ann_morphosyntax.xml#morph_3.8.24-seg"/>
+            <ptr target="ann_morphosyntax.xml#morph_3.8.25-seg"/>
+            <ptr target="ann_morphosyntax.xml#morph_3.8.26-seg"/>
+            <ptr target="ann_morphosyntax.xml#morph_3.8.27-seg"/>
+            <ptr target="ann_morphosyntax.xml#morph_3.8.28-seg"/>
+            <ptr target="ann_morphosyntax.xml#morph_3.8.29-seg"/>
+            <ptr target="ann_morphosyntax.xml#morph_3.8.30-seg"/>
+            <ptr target="ann_morphosyntax.xml#morph_3.8.31-seg"/>
+            <ptr target="ann_morphosyntax.xml#morph_3.8.32-seg"/>
+            <ptr target="ann_morphosyntax.xml#morph_3.8.33-seg"/>
+            <ptr target="ann_morphosyntax.xml#morph_3.8.34-seg"/>
+            <ptr target="ann_morphosyntax.xml#morph_3.8.35-seg"/>
+            <ptr target="ann_morphosyntax.xml#morph_3.8.36-seg"/>
+            <ptr target="ann_morphosyntax.xml#morph_3.8.37-seg"/>
+            <ptr target="ann_morphosyntax.xml#morph_3.8.38-seg"/>
+            <ptr target="ann_morphosyntax.xml#morph_3.8.39-seg"/>
+          </seg>
+          <!-- całej Ameryce  -->
+          <seg xml:id="mention_81">
+            <fs type="mention">
+              <f name="semh" fVal="ann_morphosyntax.xml#morph_3.8.20-seg"/>
+            </fs>
+            <ptr target="ann_morphosyntax.xml#morph_3.8.20-seg"/>
+            <ptr target="ann_morphosyntax.xml#morph_3.8.21-seg"/>
+          </seg>
+          <!-- najlepszych sił Kuby  -->
+          <seg xml:id="mention_82">
+            <fs type="mention">
+              <f name="semh" fVal="ann_morphosyntax.xml#morph_3.8.22-seg"/>
+            </fs>
+            <ptr target="ann_morphosyntax.xml#morph_3.8.22-seg"/>
+            <ptr target="ann_morphosyntax.xml#morph_3.8.23-seg"/>
+            <ptr target="ann_morphosyntax.xml#morph_3.8.24-seg"/>
+          </seg>
+          <!-- najlepszych sił Kuby , jej najlepszych wojsk , jej przywódców , jej najskuteczniejszych wysiłków  -->
+          <seg xml:id="mention_83">
+            <fs type="mention">
+              <f name="semh" fVal="ann_morphosyntax.xml#morph_3.8.23-seg"/>
+            </fs>
+            <ptr target="ann_morphosyntax.xml#morph_3.8.22-seg"/>
+            <ptr target="ann_morphosyntax.xml#morph_3.8.23-seg"/>
+            <ptr target="ann_morphosyntax.xml#morph_3.8.24-seg"/>
+            <ptr target="ann_morphosyntax.xml#morph_3.8.25-seg"/>
+            <ptr target="ann_morphosyntax.xml#morph_3.8.26-seg"/>
+            <ptr target="ann_morphosyntax.xml#morph_3.8.27-seg"/>
+            <ptr target="ann_morphosyntax.xml#morph_3.8.28-seg"/>
+            <ptr target="ann_morphosyntax.xml#morph_3.8.29-seg"/>
+            <ptr target="ann_morphosyntax.xml#morph_3.8.30-seg"/>
+            <ptr target="ann_morphosyntax.xml#morph_3.8.31-seg"/>
+            <ptr target="ann_morphosyntax.xml#morph_3.8.32-seg"/>
+            <ptr target="ann_morphosyntax.xml#morph_3.8.33-seg"/>
+            <ptr target="ann_morphosyntax.xml#morph_3.8.34-seg"/>
+            <ptr target="ann_morphosyntax.xml#morph_3.8.35-seg"/>
+          </seg>
+          <!-- Kuby  -->
+          <seg xml:id="mention_84">
+            <fs type="mention">
+              <f name="semh" fVal="ann_morphosyntax.xml#morph_3.8.24-seg"/>
+            </fs>
+            <ptr target="ann_morphosyntax.xml#morph_3.8.24-seg"/>
+          </seg>
+          <!-- jej  -->
+          <seg xml:id="mention_85">
+            <fs type="mention">
+              <f name="semh" fVal="ann_morphosyntax.xml#morph_3.8.26-seg"/>
+            </fs>
+            <ptr target="ann_morphosyntax.xml#morph_3.8.26-seg"/>
+          </seg>
+          <!-- jej najlepszych wojsk  -->
+          <seg xml:id="mention_86">
+            <fs type="mention">
+              <f name="semh" fVal="ann_morphosyntax.xml#morph_3.8.28-seg"/>
+            </fs>
+            <ptr target="ann_morphosyntax.xml#morph_3.8.26-seg"/>
+            <ptr target="ann_morphosyntax.xml#morph_3.8.27-seg"/>
+            <ptr target="ann_morphosyntax.xml#morph_3.8.28-seg"/>
+          </seg>
+          <!-- jej  -->
+          <seg xml:id="mention_87">
+            <fs type="mention">
+              <f name="semh" fVal="ann_morphosyntax.xml#morph_3.8.30-seg"/>
+            </fs>
+            <ptr target="ann_morphosyntax.xml#morph_3.8.30-seg"/>
+          </seg>
+          <!-- jej przywódców  -->
+          <seg xml:id="mention_88">
+            <fs type="mention">
+              <f name="semh" fVal="ann_morphosyntax.xml#morph_3.8.31-seg"/>
+            </fs>
+            <ptr target="ann_morphosyntax.xml#morph_3.8.30-seg"/>
+            <ptr target="ann_morphosyntax.xml#morph_3.8.31-seg"/>
+          </seg>
+          <!-- jej  -->
+          <seg xml:id="mention_89">
+            <fs type="mention">
+              <f name="semh" fVal="ann_morphosyntax.xml#morph_3.8.33-seg"/>
+            </fs>
+            <ptr target="ann_morphosyntax.xml#morph_3.8.33-seg"/>
+          </seg>
+          <!-- jej najskuteczniejszych wysiłków  -->
+          <seg xml:id="mention_90">
+            <fs type="mention">
+              <f name="semh" fVal="ann_morphosyntax.xml#morph_3.8.35-seg"/>
+            </fs>
+            <ptr target="ann_morphosyntax.xml#morph_3.8.33-seg"/>
+            <ptr target="ann_morphosyntax.xml#morph_3.8.34-seg"/>
+            <ptr target="ann_morphosyntax.xml#morph_3.8.35-seg"/>
+          </seg>
+          <!-- walkę  -->
+          <seg xml:id="mention_91">
+            <fs type="mention">
+              <f name="semh" fVal="ann_morphosyntax.xml#morph_3.8.39-seg"/>
+            </fs>
+            <ptr target="ann_morphosyntax.xml#morph_3.8.39-seg"/>
+          </seg>
+          <!-- odrębne cele rewolucji kubańskiej  -->
+          <seg xml:id="mention_92">
+            <fs type="mention">
+              <f name="semh" fVal="ann_morphosyntax.xml#morph_3.8.49-seg"/>
+            </fs>
+            <ptr target="ann_morphosyntax.xml#morph_3.8.48-seg"/>
+            <ptr target="ann_morphosyntax.xml#morph_3.8.49-seg"/>
+            <ptr target="ann_morphosyntax.xml#morph_3.8.50-seg"/>
+            <ptr target="ann_morphosyntax.xml#morph_3.8.51-seg"/>
+          </seg>
+          <!-- odrębne cele rewolucji kubańskiej , lecz o rewolucję kontynentalną  -->
+          <seg xml:id="mention_93">
+            <fs type="mention">
+              <f name="semh" fVal="ann_morphosyntax.xml#morph_3.8.49-seg"/>
+            </fs>
+            <ptr target="ann_morphosyntax.xml#morph_3.8.48-seg"/>
+            <ptr target="ann_morphosyntax.xml#morph_3.8.49-seg"/>
+            <ptr target="ann_morphosyntax.xml#morph_3.8.50-seg"/>
+            <ptr target="ann_morphosyntax.xml#morph_3.8.51-seg"/>
+            <ptr target="ann_morphosyntax.xml#morph_3.8.52-seg"/>
+            <ptr target="ann_morphosyntax.xml#morph_3.8.53-seg"/>
+            <ptr target="ann_morphosyntax.xml#morph_3.8.54-seg"/>
+            <ptr target="ann_morphosyntax.xml#morph_3.8.55-seg"/>
+            <ptr target="ann_morphosyntax.xml#morph_3.8.56-seg"/>
+          </seg>
+          <!-- rewolucji kubańskiej  -->
+          <seg xml:id="mention_94">
+            <fs type="mention">
+              <f name="semh" fVal="ann_morphosyntax.xml#morph_3.8.50-seg"/>
+            </fs>
+            <ptr target="ann_morphosyntax.xml#morph_3.8.50-seg"/>
+            <ptr target="ann_morphosyntax.xml#morph_3.8.51-seg"/>
+          </seg>
+          <!-- rewolucję kontynentalną  -->
+          <seg xml:id="mention_95">
+            <fs type="mention">
+              <f name="semh" fVal="ann_morphosyntax.xml#morph_3.8.55-seg"/>
+            </fs>
+            <ptr target="ann_morphosyntax.xml#morph_3.8.55-seg"/>
+            <ptr target="ann_morphosyntax.xml#morph_3.8.56-seg"/>
+          </seg>
+        </p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

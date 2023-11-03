@@ -1,0 +1,25 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">2) dwumiesięcznego wynagrodzenia, jeżeli łączny okres pracy wynosi 10 lat, lecz mniej niż 20 Ø,</p>
+        <p xml:id="p-2">3) trzymiesięcznego wynagrodzenia, jeżeli łączny okres pracy wynosi 20 lat i więcej Ø.</p>
+        <p xml:id="p-3">3. Do okresu pracy, od którego zależy wysokość odprawy pieniężnej, wlicza się okresy wykonywania pracy na podstawie stosunku pracy oraz umowy na zasadach przewidzianych w § 32.</p>
+        <p xml:id="p-4">4. Odprawa pieniężna przysługuje, jeżeli wynagrodzenie z tytułu wykonywania pracy nakładczej stanowi dla wykonawcy jedyne Ø, lub zostało przez niego wskazane jako podstawowe źródło utrzymania.</p>
+        <p xml:id="p-5">5. Odprawę pieniężną ustala się według zasad przewidywanych przy obliczaniu wynagrodzenia za urlop wypoczynkowy. Wydatki z tego tytułu są pokrywane w całości ze środków nakładcy.</p>
+        <p xml:id="p-6">6. W razie zbiegu prawa do odprawy przewidzianej w ust. 2 i odprawy pieniężnej w związku z przejściem na rentę lub emeryturę, wykonawcy przysługuje jedna, korzystniejsza dla niego odprawa.</p>
+        <p xml:id="p-7">7. (skreślony).</p>
+        <p xml:id="p-8">8. (skreślony).</p>
+        <p xml:id="p-9">9. (skreślony).</p>
+        <p xml:id="p-10">10. (skreślony).</p>
+        <p xml:id="p-11">11. (skreślony).</p>
+        <p xml:id="p-12">Prawo do odprawy pieniężnej przysługuje wykonawcy także w razie rozwiązania umowy z przyczyn określonych w § 9b ust. 1 na mocy porozumienia stron.</p>
+        <p xml:id="p-13">1. W związku z rozwiązaniem umowy nakładca jest obowiązany niezwłocznie wydać wykonawcy świadectwo pracy nakładczej. Przepisy art. 97 § 2 Kodeksu pracy stosuje się odpowiednio.</p>
+        <p xml:id="p-14">2. W świadectwie pracy nakładczej nakładca zamieszcza informację o okresie pracy nakładczej, w którym wykonawca uzyskał wynagrodzenie w wysokości co najmniej 50% najniższego wynagrodzenia, a w przypadku rozwiązania umowy z przyczyn określonych w § 9b ust. 1 - także informację o przyczynie rozwiązania tej umowy.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

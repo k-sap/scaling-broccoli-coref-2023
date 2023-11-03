@@ -1,0 +1,14 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">#PodsekretarzStanuwMinisterstwieSprawiedliwosciKrzysztofJozefowicz: Dziękuję bardzo.</p>
+        <p xml:id="p-2">#WicemarszalekKrzysztofPutra: Otwieram dyskusję. Przypominam o wymogach regulaminowych dotyczących czasu przemawiania senatorów, art. 46 ust. 1 i 2 Regulaminu Senatu, o konieczności zapisywania się do głosu u senatora prowadzącego listę mówców, a przede wszystkim o obowiązku składania podpisanych wniosków o charakterze legislacyjnym do Marszałka Senatu. Wnioski te muszą być złożone na piśmie do zamknięcia dyskusji nad daną ustawą. Przypominam, że komisja będzie rozpatrywać tylko te wnioski, które zostały złożone na piśmie do Marszałka Senatu do czasu zamknięcia dyskusji. Proszę o zabranie głosu pana senatora Piotra Zientarskiego.</p>
+        <p xml:id="p-3">#SenatorPiotrZientarski: Panie Marszałku! Wysoka Izbo! Kwestia, nad którą się zastanawiamy, nad którą dyskutujemy, to oczywiście kwestia incydentalna, ale dotyka ona bardzo szerokiego, istotnego problemu, a mianowicie dostępu obywatela do sądu. Od lat zauważam ten problem, że bardzo często właśnie koszty sądowe stanowią zaporę, która uniemożliwia obywatelowi dostęp do sądu. I dlatego też uważam, że bardzo dobrze, że tak się stało, w szczególności jeśli chodzi o możliwość zwolnienia od kosztów powiatowego rzecznika konsumentów w sprawach dotyczących ochrony indywidualnych interesów konsumenta. Wtedy ten rzecznik konsumenta, uznający za słuszne wystąpienie w imieniu obywatela, którego nie stać na proces sądowy... Niewątpliwie to zwolnienie doprowadzi do tego, że ten proces rozpocznie się szybciej, bo osoba, której nie stać na pokrycie kosztów sądowych, musiałaby wdrożyć procedurę związaną z wnioskiem o zwolnienie od kosztów sądowych, to wymaga zaś czasu, to wymaga przedkładania wielu dokumentów itd. A powiatowy rzecznik, który występuje w imieniu konsumenta, automatycznie jest w tej ustawie z nich zwolniony. No i oczywiście słuszne jest również przywrócenie tego zwolnienia, które już istniało, jeśli chodzi o prawo geologiczne. Dziękuję bardzo.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

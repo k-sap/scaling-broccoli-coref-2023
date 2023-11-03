@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Uroczysta inauguracja nowej Filharmonii Łódzkiej odbędzie się w budynku z surowym, niedokończonym frontonem. Mimo decyzji wojewody, przychylającej się do odtworzenia ryzalitu z elewacji według projektu Romualda Loeglera, zapadła ona zbyt późno. Filharmonia nie zdąży z procedurami i wykonaniem szklanej tafli, na której ryzalit miałby być „odrysowany”.</p>
+        <p xml:id="p-2">– W wyniku sztuczek prawnych urzędu miasta na decyzję w tej sprawie czekaliśmy 7 miesięcy – mówi Zbigniew Lasocki, dyrektor naczelny filharmonii. – Tymczasem na wykonanie szklanej tafli z rysunkiem ryzalitu zostały nam tylko dwa miesiące. A musi być do tego użyte specjalne szkło, z nadrukiem od tyłu, które będzie odporne na przykład na uderzenia kamienia. Szukamy na gwałt wykonawcy, ale nie możemy takiego znaleźć w Polsce, wiemy jedynie, że są w Hiszpanii, Szwajcarii, Niemczech. Wykonanie tafli to około 10 tygodni pracy, a przepisy nakazują nam jeszcze przeprowadzenie w tej sprawie przetargu, co wymaga kolejnych 6 tygodni. Na pewno na inaugurację filharmonii 10 grudnia z tym nie zdążymy.</p>
+        <p xml:id="p-3">Dyrektor Lasocki obawia się najczarniejszego scenariusza – procedur nie da się załatwić do końca roku, przepadnie milion złotych przeznaczony na ten cel w kontrakcie wojewódzkim i portal pozostanie w stanie surowym, bez gwarancji, że kiedykolwiek to się zmieni.</p>
+        <p xml:id="p-4">Wojewoda Stefan Krajewski ma nadzieję, że Urząd Miasta Łodzi nie będzie się odwoływał od jego decyzji do Naczelnego Sądu Administracyjnego, choć ma takie prawo.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

@@ -1,0 +1,17 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">- Z przykrością muszę stwierdzić, że nastąpił błąd w księgowaniu należności odbiorcy - wyjaśnia Jerzy Trojanowski, dyrektor Zakładu Gdynia, Gdańskiej Kampanii Energetycznej Energa. - Czytelnicy płacili w terminie, jednak ich przelew został przypisany innej osobie. Pracownica, która jest za to odpowiedzialna, z pewnością zostanie ukarana. Kierownik wydziału handlowego, Andrzej Szymczak wyjaśnił to nieporozumienie tak szybko, jak to było możliwe. Prąd został włączony jeszcze tego samego dnia o godzinie szesnastej. Umówionej godziny czternastej nie udało się dotrzymać, gdyż monter pracował w terenie i był nieuchwytny. Jednak na polecenie kierownika udał się do Czytelników po godzinach pracy.</p>
+        <p xml:id="p-2">Rozumiem rozgoryczenie klientów. Postaramy się w jakiś sposób im to wynagrodzić. Wyślemy oficjalne przeprosiny, a poza tym będziemy rozmawiać o satysfakcjonującym zadośćuczynieniu.</p>
+        <p xml:id="p-3">Obecnie pracujemy nad nowym systemem księgowania, który uniemożliwi wystąpienie podobnych błędów. Będzie on funkcjonował już od lipca. Wtedy również monity i rachunki będą wysyłane pocztą, w zamkniętej kopercie.</p>
+        <p xml:id="p-4">kaw</p>
+        <p xml:id="p-5">Naszym zdaniem:</p>
+        <p xml:id="p-6">Energa przy odłączaniu prądu zadziałała jak błyskawica. Dziwi nas natomiast, iż już trzymiesięczna rzekoma zwłoka w opłatach u klientów regulujących rachunki zawsze w terminie, spowodowała takie zmasowane działania. Tym bardziej iż chodziło o kwotę zaledwie 219,25 zł, podczas gdy długi niektórych instytucji (np. PKP, stoczni, czy kopalni) sięgają milionów. Próbowaliśmy się dowiedzieć, od jakiej magicznej kwoty zadłużenie przestaje być egzekwowane. Jest to jednak dość tajemnicza sprawa i nikt nie potrafił nam tego wyjaśnić.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

@@ -1,0 +1,17 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Biologia i ekologia</p>
+        <p xml:id="p-2">Bylina. Okres kwitnienia: czerwiec (niziny) - sierpień (góry). Cała roślina jest trująca Występuje na pogórzu, na niżu sporadycznie. Najczęściej w piętrze alpejskim i subalpejskim, na glebach kwaśnych, do wysokości 2500 m. Można ją spotkać na polanach leśnych lub łąkach. Roślina światłolubna, ale znosząca okresowe zacienienie. W klasyfikacji zbiorowisk roślinnych gatunek charakterystyczny dla rzędu (O.) Nardetalia . Liczba chromosomów 2n=38 .</p>
+        <p xml:id="p-3">Zagrożenia i ochrona</p>
+        <p xml:id="p-4">Roślina objęta ścisłą ochroną gatunkową. W Czerwonej liście roślin i grzybów Polski jest umieszczona w grupie gatunków narażonych na wyginięcie (kategoria zagrożenia V) . Wprowadzenie w XVIII wieku arniki górskiej do aptek spowodowało wzrost jej popularności wśród zielarzy i aptekarzy. Prawdopodobnie niekontrolowany zbiór przyczynił się do jej przetrzebienia. W konsekwencji wzięto ją pod ścisłą ochronę. Surowiec zielarski pochodzi z upraw.</p>
+        <p xml:id="p-5">Zastosowanie</p>
+        <p xml:id="p-6">Roślina lecznicza : Surowiec zielarski: koszyczki arniki ( Anthodium Arnicae ), susz używany w medycynie, kłącza ( Rhizoma Arnicae ). Skład chemiczny: flawonoidy, laktony seskwiterpenowe (helenalina, dwuhydrohelenalina), trójterpeny, olejek eteryczny, irydoid, fenolokwasy wolne i związane, aminy, fitosterole. Działanie: zewnętrznie na krwiaki, stłuczenia, obrzęki pourazowe, oparzenia, ukąszenia owadów a także do płukania jamy ustnej. Koszyczki kwiatowe mają liczne substancje czynne o działaniu przeciwzapalnym, przeciwreumatycznym i antyseptycznym. Stosowana wewnętrznie wzmacnia i uszczelnia ściany naczyń krwionośnych, działa przeciwzakrzepowo oraz poprawia krążenie krwi. Zbiór i suszenie: surowiec zbiera się w początkowym okresie kwitnienia rośliny i suszy w warunkach naturalnych.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

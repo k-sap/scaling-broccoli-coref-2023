@@ -1,0 +1,12 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Usługi bankowe i firm ubezpieczeniowych oraz pozyskiwanie pieniędzy z funduszy przedakcesyjnych to tematy, które zaprzątają głowy przedsiębiorców. Udział w konferencji organizowanej przez Małopolskie Centrum Biznesu będzie okazją na znalezienie odpowiedzi na nurtujące pytania. Forum Biznesu organizuje konferencję dla przedsiębiorców, którzy nie są obojętni na zmiany w ustawodawstwie i ciekawi nowinek. W programie spotkania przewidziano prezentację najnowszych produktów i usług bankowych, których adresatem są małe i średnie firmy oraz rzemieślnicy. Później będzie miała miejsce dyskusja o sensowności ubezpieczania majątku firmy a także o odpowiedzialności cywilnej, jaka ciąży na wszystkich osobach, które prowadzą działalność gospodarczą. Niezbędne informacje na temat wymogów bezpieczeństwa i higieny pracy w polskich firmach przybliży podczas szkolenia instruktor z Państwowej Inspekcji Pracy. Z kolei przedstawiciel Instytutu Studiów Strategicznych podpowie jak zdobywać pieniądze z funduszy akcesyjnych, udzieli wskazówek jak poprawnie i skutecznie przygotować wnioski, aby te fundusze wykorzystać. Ta ostatnia informacja jest niezwykle istotna dla firm, które myślą o rozwoju i szukają środków na rozwinięcie działalności. Na zakończenie konferencji organizatorzy przewidzieli nieco odprężenia, które będzie można odczuć korzystając z oferty Marimex Opel (jazda próbna samochodami Opel). Na konferencję Forum Biznesu zapraszają: MCB wraz z Prezesem Instytutu Studiów Strategicznych posłem Bogdanem Klichem i Józef Mardaus, burmistrz Sułkowic. Wtorkowe spotkanie rozpocznie się o godz.18 w sali teatralnej Domu Kultury Kuźnia. Godzinę wcześniej można skorzystać z oferty firmy Marimex Opel (parking koło Kuźni). Udział w konferencji jest bezpłatny.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

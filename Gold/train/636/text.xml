@@ -1,0 +1,16 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Czy komuś ta historia wydaje się znajoma? Na pewno wiele osób czuje się jakby czytało swoją historię. Pani Maria postanowiła jednak powalczyć i podjęła tym razem zdecydowaną decyzję. Postawiła na ruch, zioła wspomagające odchudzanie, założyła także klub ,,Deko’’, którego motto brzmi: ,,Chudniemy, nie tracąc radości życia i zdrowia’’.</p>
+        <p xml:id="p-2">– Klub, to wspaniała grupa wsparcia, bo razem łatwiej jest przejść najtrudniejsze chwile i łatwiej jest walczyć ze starymi nawykami i pokusami – mówi pani Maria. – Nie stosuję żadnych diet, nie odmawiam sobie drobnych przyjemności. Jedyną żelazną zasadę, którą przestrzegam, jest unikanie jedzenia po godzinie 19, na stałe w rozkład dnia wprowadziłam tak zwaną godzinkę na aktywność fizyczną.</p>
+        <p xml:id="p-3">Po trzech pierwszych miesiącach nowego stylu życia i korzystania z ziół, Maria Mularczyk schudła 13 kilogramów. Później spadek wagi był mniejszy, ale trwał i tak przez rok pani Maria schudła 18 kilogramów, a po kolejnych kilku miesiącach osiągnęła wymarzoną wagę 60 kilogramów.</p>
+        <p xml:id="p-4">– Teraz nosimy z córkami wspólne ciuchy, co jest mi bardzo na rękę, bo potrzebuję trochę czasu na uzupełnienie garderoby, która w całości jest do wymiany - mówi pani Maria.</p>
+        <p xml:id="p-5">Jej sukces został wysoko oceniony i pani Maria wygrała ogólnopolski konkurs ,,Chudnij z nami XXL-ami’’, którego organizatorem jest firma produkująca zioła wspierające odchudzanie, a konkurs odbywał się pod patronatem Barbary Markowskiej, autorki programu telewizyjnego ,,Kwadrans grubasów’’. Obecnie pani Maria przygotowuje się do skorzystania z nagrody, czyli do wyjazdu do Sztokholmu, gdzie odbędzie się kurs kosmotologii. Poza tym pani Maria ma zamiar dokonać nowego naboru do swojego ,,Deka’’ i odchudzać wszystkich. – Teraz czuję się młodo, zdrowo i atrakcyjnie - mówi.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

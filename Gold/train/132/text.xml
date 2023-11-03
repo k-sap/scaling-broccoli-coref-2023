@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Michał Kamiński poseł AWS-ZChN, o ustawie delegalizującej pornografię: "- A nie sądzi pan, że prezydentowi będzie łatwo zawetować tę ustawę, skoro nawet tacy posłowie - bardzo opozycyjni - jak Leszek Piotrowski z AWS, apelują do prezydenta, powołując się na stare znajomości: »Olek zawetuj tę ustawę«? - Zachowanie Leszka Piotrowskiego jest przykładem jakiejś dziwnej aberracji psychicznej, bo Leszek Piotrowski głosował za tymi ustawami, o które teraz prosi, by były zawetowane. (...) Dla mnie jest to groteskowe, po prostu. Zachowanie groteskowe, które - mam nadzieję - musi mieć jakieś konsekwencje wewnątrz Akcji Wyborczej Solidarność. Dlatego, że to co zrobił Leszek Piotrowski po prostu ośmiesza jego, ale również z faktu, że on na razie jeszcze jest posłem Akcji Wyborczej Solidarność - mam nadzieję, że już niedługo - ośmiesza również AWS".</p>
+        <p xml:id="p-2">Marek Kempski wojewoda śląski: "- Przed zaostrzeniem przepisów dotyczących pornografii na Śląsku zlikwidowaliśmy kilka agencji towarzyskich, burdeli - mówiąc wprost. To nie dlatego, że »Kempski zajmuje się d...«, tylko dlatego, że agencje towarzyskie są zapleczem przestępczości, w tym przestępczości zorganizowanej. W tych sytuacjach nie potrzebowałem zaostrzenia prawa, starałem się wykorzystywać istniejące przepisy. Natomiast zaostrzenie kodeksu karnego odbieram w kategoriach psychologicznych, symbolu, edukacji. Przyznaję, że miałbym duży dylemat, czy głosować za tą ustawą. Dla mnie będzie wielkim zaskoczeniem, jeżeli prezydent tę ustawę podpisze. Jednak tak czy inaczej nadal będę szukał kruczków prawnych, by tego typu działalność eliminować".</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

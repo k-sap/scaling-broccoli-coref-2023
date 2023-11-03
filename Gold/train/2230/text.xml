@@ -1,0 +1,14 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Tekst domaga się objaśnień. Na oko wydaje się, że przynajmniej indywidualny przydomek jest jasno motywowany przez wyraz pospolity góral 'mieszkaniec gór' i zapewne tak jest w następującym tekście:</p>
+        <p xml:id="p-2">- A to jakiś rajd był? A myśmy nie byli, ja cię kręcę! Ale z nas olewnicy! A gdzie on był? Gdzieś tam obok nas w Szczawnicy? [...] - Ja tam byłem jeszcze wcześniej, spałem w bacówce. - Góral różne rzeczy w Szczawnicy robił. - Co takiego? - Co takiego; w ośrodku wczasowym taki miś... (AGH 1997).</p>
+        <p xml:id="p-3">Jeżeli jednak zastanowimy nad znaczeniem zbiorczym wyrazu Górale, wcale to znaczenie oczywiste nie jest. Bo co znaczy z przykładu u Górali czy Górale od nich. Aleksandra Cieślikowa (Cieślikowa 1990: 117) zwraca uwagę na następujący fakt: "Trzeba podkreślić różnicę, [...] między ekspresją typu pragmatycznego przy tworzeniu przezwisk a ekspresją semantyczną przy odbiorze przezwisk bez znajomości motywacji". Eksploratorka nie pytała, bo znaczenie wydawało jej się oczywiste, a teksty nagrywane były do innych celów niż śledzenie przezwisk-przydomków. Wyobrażamy sobie, że w akademiku AGH istnieje grupa studentów pochodząca z gór. Ale bardziej prawdopodobne może być wyjaśnienie, że ta trzymająca się razem grupa jest motywacyjnie związana z Górnym Śląskiem (gdzie zapotrzebowanie na absolwentów jest, a przynajmniej było większe). Taką motywację znajduję w przydomkach motywowanych przez "nazwy miejscowe i terenowe" w Siołkowicach Starych w powiecie opolskim (Zaręba 1960: 163): Góral 'Ślązak ze Śląska przemysłowego'.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

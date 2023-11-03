@@ -1,0 +1,16 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">W okolicy ul. Blachnickiego atmosfera się zagęszcza. Wokół kręca się jakieś elfy, krasnoludy, nocą czasem nad dachami przemknie nazgul. Jednak tak naprawdę powietrze, woda i ziemia zaroją się od przedziwnych wędrowców dzisiaj. Bowiem dziś właśnie rozpocznie się XI Ogólnopolski Konwent Miłośników Fantastyki "Krakon".</p>
+        <p xml:id="p-2">Krakonu przedstawiać nie trzeba. To jedna z największych i cieszących się najdłuższą tradycją tego typu imprez w Polsce. Przez cztery dni (od 29 stycznia do 1 lutego), od rana do nocy, odbywać się będzie pięć bloków spotkaniowych, w ramach których przewidziano wiele atrakcji dla fanów literatury fantastycznej i miłośników gier fabularnych. W tym roku hasłem przewodnim konwentu będzie "Powrót do korzeni".</p>
+        <p xml:id="p-3">- Jest to związane nie tylko z powrotem do tradycyjnego miejsca, w którym odbywać się będzie "Krakon" (Szkoła Podstawowa nr 10 przy ul. Blachnickiego 1), ale przede wszystkim z odwołaniem się do najlepszych doświadczeń i pomysłów - mówi Łukasz Keler, rzecznik prasowy konwentu.</p>
+        <p xml:id="p-4">Jak zwykle gośćmi "Krakonu" będą autorzy polskiej fantasy. Jako prelegenci wystąpią m.in. Anna Brzezińska, Andrzej Pilipiuk, Andrzej Zimniak, Romuald Pawlak, Jacek Komuda, Piotr W. Cholewa oraz Arkadiusz Nakoniecznik.</p>
+        <p xml:id="p-5">- Choć tym razem trzymać się będziemy konwencji fantasy nie zabraknie elementów nowych - podkreśla rzecznik prasowy. Pojawią się zatem opowieści z placu cudów - czyli mroczna strona średniowiecza, w której swoje ciepłe miejsce miała zorganizowana przestępczość.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

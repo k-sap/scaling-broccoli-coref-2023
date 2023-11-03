@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">10. Nieustanny rozwój</p>
+        <p xml:id="p-2">11. Zaproszeni do świętości</p>
+        <p xml:id="p-3">Przychodząc na ten świat, każdy z nas - bez żadnej zasługi - otrzymał dar człowieczeństwa. W sakramencie chrztu otrzymaliśmy zaproszenie do przyjęcia od Boga daru świętości. Wygrać dorosłość może tylko ten, kto nie myli świętości z cierpiętnictwem, z szukaniem krzyża czy z ucieczką od życia doczesnego. Świętość prawdziwa to sztuka błogosławionego życia w twardej rzeczywistości. Świętość to najpiękniejsza normalność, a święty to ktoś, kto - na podobieństwo Jezusa - fascynuje ludzi szlachetnych, niepokoi błądzących i demaskuje przewrotnych. Święty to najwierniejszy przyjaciel Boga i ludzi. To ktoś bardziej podobny do Jezusa niż do samego siebie! Świętość to najlepszy sposób na świętowanie życia, gdyż człowiek święty to ktoś, kto odkrył, że miłość i radość nie mają granic!</p>
+        <p xml:id="p-4">Przyjęcie daru człowieczeństwa i dorastanie do świętości, to dwa pierwsze warunki wygrania dorosłości. Warunek trzeci to odkrycie i wypełnienie powołania szczegółowego, które Bóg podpowiada każdemu człowiekowi. Prawdziwa świętość wyraża się poprzez prawdziwe zaangażowanie w realiach codziennego życia. Najczęstsze miejsca dorastania do świętości to małżeństwo, kapłaństwo oraz życie konsekrowane. Wbrew potocznym opiniom żadna z tych form życia i wygrywania dorosłości nie jest lepsza od innych. Jezus nie polecał słuchającym Go tłumom ludzi, by sprzedali wszystko, co mają i by poszli za Nim. Taką radę skierował do nielicznych jedynie osób, na przykład do bogatego młodzieńca, który pytał Go o optymalną drogę życia dla siebie (por. Mt 19, 21). Kto nie dorasta do świętości, ten nie dorasta do żadnego powołania.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

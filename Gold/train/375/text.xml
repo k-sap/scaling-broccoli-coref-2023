@@ -1,0 +1,16 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Nieocenione są zasługi Aleksego Antkiewicza dla rozwoju wybrzeżowego i polskiego boksu. On oraz nasz drugi wielki sportowiec, Zygmunt Chychła, zdobywając medale na igrzyskach olimpijskich, przetarli szlak polskiemu pięściarstwu.</p>
+        <p xml:id="p-2">Antkiewicza gościło w ubiegły wtorek gdańskie środowisko. Niedawno ten słynny bombardier Wybrzeża, zdobywca pierwszego po II wojnie światowej medalu olimpijskiego dla Polski - brązowego na IO 1948 r w Londynie i następnie srebrnego na IO 1952 r. w Helsinkach, obchodził 75 urodziny. Od wiceprezesa PZB, Stefana Rogali otrzymał w Gdańsku Pas Mistrzów - wysokie honorowe wyróżnienie za sławienie polskiego boksu. Wojewoda pomorski Tomasz Sowiński wręczył mu list gratulacyjny i medal honorowy województwa pomorskiego. Gospodarz spotkania, prezes Pomorskiego Okręgowego Związku Bokserskiego Jerzy Guss, po przypomnieniu osiągnięć jubilata, obdarzył go stylizowanymi rękawicami, by chroniły Antkiewicza przed chorobą. A że dalsza część życia ma mu upłynąć słodko, na stole pojawił się tort-olbrzym, do krojenia którego i częstowania gości poproszono wnuczkę pana Aleksego, Paulinę, przybyłą na uroczystość w towarzystwie córki bombardiera, pani Katarzyny. Były kwiaty, było gromkie „Sto lat”, serdeczne uściski, w tym od jego następców - znanych i utytułowanych pięściarzy wybrzeżowych, Huberta Skrzypczaka i Zygmunta Milewskiego.</p>
+        <p xml:id="p-3">Zwierzenia mistrza</p>
+        <p xml:id="p-4">Później trwał, już w kameralnej, sympatycznej atmosferze, dawnych wspomnień czar. Uciąłem i ja sobie pogawędkę z będącym w dobrej kondycji jubilatem .</p>
+        <p xml:id="p-5">- Co pan robił w chwilach, gdy nie boksował?</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

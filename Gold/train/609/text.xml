@@ -1,0 +1,20 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Woda w Żychlinie o 2 procent w górę</p>
+        <p xml:id="p-2">Cena za wodę i odprowadzanie ścieków oraz plany związane z modernizacją wodociągów i kanalizacji były głównym tematem wczorajszej sesji Rady Miejskiej w Żychlinie.</p>
+        <p xml:id="p-3">- Nie można na jednej sesji podejmować uchwały dotyczącej wieloletniego planu rozwoju i modernizacji sieci kanalizacyjnej oraz taryfy za zaopatrzenie w wodę i odprowadzanie ścieków - zauważyła wiceprzewodnicząca rady Małgorzata Sobczak. - Wieloletni plan rozwoju stanowi załącznik do taryfy, powinien więc być rozpatrzony wcześniej niż taryfa.</p>
+        <p xml:id="p-4">Pomimo sprzeciwu radnej, uchwały te zostały podjęte. Przy uchwaleniu planu dotyczącego sieci wodociągowej i kanalizacji najwięcej kontrowersji wzbudził zapis wykonania w tym roku inwestycji - wybudowania studni głębinowej.</p>
+        <p xml:id="p-5">Podwyższenie kosztów zaopatrzenia w wodę zaproponowane na poziomie 2 procent oraz kosztów odprowadzania ścieków 5 procent nie wywołało tak ostrej dyskusji, jak wprowadzenie w zeszłym roku podwyżki cen wody i odprowadzania ścieków wynoszącej blisko 38 proc.</p>
+        <p xml:id="p-6">- Podwyżka oparta jest na poziomie inflacji i nie powinna stanowić dużego obciążenia - mówił burmistrz Zdzisław Wencel.</p>
+        <p xml:id="p-7">Inne było stanowisko komisji rady, które w większości projekt oceniły negatywnie, zwracając uwagę na negatywny oddźwięk społeczny. Opracowana analiza kosztów wskazuje, że wzrost realny produkcji wody wynosi 5 proc., a odprowadzanie ścieków aż o 15 proc..</p>
+        <p xml:id="p-8">- Wprowadzanie niższych podwyżek, niż wskazuje analiza kosztów to pozbawianie Zakładu Gospodarki Komunalnej zysków - wskazywał radny Krzysztof Stefaniak.</p>
+        <p xml:id="p-9">Ostatecznie uchwałę przyjęto. Wskazane w taryfie ceny układają się następująco: woda dostarczana do gospodarstwa domowego - 2,60 zł za m sześc., odprowadzenie takiej samej ilości ścieków - 2,26 zł. Woda dostarczona na inne cele, w tym przemysłowe - 3,24 zł za m sześcienny, odebranie ścieków - 3,21 zł. Obniżona została natomiast cena za odebranie ścieków wywożonych beczkowozem z 6 zł do 5,50 zł.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

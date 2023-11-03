@@ -1,0 +1,12 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Rejestrujemy samochody bardziej rygorystycznie niż pistolety. Aloizio Mercadante brazylijski senator Miasta brazylijskie stają się coraz bardziej niebezpieczne. W latach 90. od broni palnej zginęło 267 tys. Brazylijczyków. W niektórych miastach liczba zamordowanych jest 20 razy większa niż w Nowym Jorku. Obecnie dyskutowany jest projekt, który przewiduje karę więzienia za nielegalne posiadanie broni, podniesienie granicy wieku osób, którym wolno nabywać broń z 18 do 25 lat, oraz badanie lekarskie przed zakupem broni. Najwyższy czas!</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

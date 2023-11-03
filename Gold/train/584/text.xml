@@ -1,0 +1,12 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Od 2001 roku rolnicy z czterech gmin Powiśla Dąbrowskiego bezskutecznie domagają się pomocy zbożowej związanej ze stratami poniesionymi podczas powodzi. Łącznie chodzi o około pięć tysięcy ton, przede wszystkim dla mieszkańców gmin Dąbrowa Tarnowska i Radgoszcz, ale także okolic Szczucina i Olesna. Teraz - na wniosek senatora Józefa Sztorca - sprawą ma się zająć Senat RP. Zboże dla Powiśla było już tematem, którym zajmowali się posłowie, Kancelaria Premiera RP, rzecznik praw obywatelskich, ministrowie rolnictwa. Sprawą interesowała się także Małopolska Izba Rolnicza. Zapowiadała wystąpienie w imieniu rolników do sądu, ale - na razie - na buńczucznych oświadczeniach się skończyło. Wszystko wróciło do punktu wyjścia - interesów rolników bronią gminy. Te za wygrana nie dają. Teraz o pomoc zwrócono się senatora Sztorca. Zgłosił on już propozycję nowelizacji "ustawy o szczególnych rozwiązaniach prawnych związanych ze skutkami powodzi z lipca i sierpnia 2001". Zmiany jej zapisów warunkują bowiem przekazanie rolnikom zboża. Zgodnie z deklaracjami z Warszawy, pszenicę można byłoby przekazać choćby dziś, ale zabraniają tego przepisy. Linia konfliktu o zboże przebiega pomiędzy rolnikami oraz reprezentującymi ich samorządowcami a służbami wojewody małopolskiego. Upraszczając nieco sprawę, chodzi o to, że rolnicy, których uprawy ucierpiały w 2001 roku - decyzją Sejmu - mieli dwa terminy na zgłoszenie strat (drugi do lutego 2002). Na Powiślu tymczasem ci, którzy złożyli wnioski w drugim terminie, pszenicy nie dostali. Urzędnicy wojewody odmówili weryfikacji wniosków i uznania start. Gminy do dziś utrzymują, że takiego prawa nie miały. Wskazane w ustawie terminy udzielania pomocy poszkodowanym dawno już minęły. Teraz, mimo że jest wola przekazania zboża na Powiśle, nie jest to z prawnego punktu widzenia możliwe. Nowelizacja ustawy sprowadza się w zasadzie do przywrócenie możliwości ponownego rozpatrzenia wniosków. Warto przy tym zaznaczyć, że Powiśle jest jedynym regionem w kraju, który się tego domaga.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

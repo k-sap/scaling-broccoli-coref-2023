@@ -1,0 +1,22 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">kiwi90 Lubię, ale poza lodami nie jem żadnych.</p>
+        <p xml:id="p-2">mk_europe Ja tak samo mam - jem dużo słodyczy, ale narazie szczupła jestem. Uwielbiam czekolady Milka - o różnych smakach, Lila Stars maxis z orzechami, pieguski z kawałkami czekolady, 3bita, Kitkata, ferrero roche, Milky way i to chyba tyle.</p>
+        <p xml:id="p-3">eglise Ja uwielbiam prince polo.. zwłaszcza czarno-białe</p>
+        <p xml:id="p-4">Bimbola94 CYTAT(eglise @ 31.08.2007, 16:18) "Ja uwielbiam prince polo.. zwłaszcza czarno-białe" o właśnie Prince polo classic i princessa czekoladowa, i to nowe Bounty, w gorzkiej czekoladzie</p>
+        <p xml:id="p-5">Abstrakcja Czekolada bąbolada,albo ta z dużymi orzechami..mmm. Lizaczki i cukierki toffi tzw.mordoklejki rulez &lt;3</p>
+        <p xml:id="p-6">anula30 ja kocham slodycze wszystkie ale takie najjjj.. to: bounty, prince-polo clasic, zelki haribo, mars</p>
+        <p xml:id="p-7">MaTa_HaRi mm...gdy się dorwę do Kinder Bueno , to koniec</p>
+        <p xml:id="p-8">aga-byczek Jeżyki uwielbiam kiedyś ciągle wcinałam 3bity i Liony, ale mi już przeszło. od czasu do czasu Twixem, czy Snickersem nie pogardzę no i czekoladę uwielbiam, każdego rodzaju prócz gorzkiej.</p>
+        <p xml:id="p-9">FlowerPower Wszelkiego rodzaju żelki...poprostu uwielbiam je:)</p>
+        <p xml:id="p-10">jagodowa - wszystkie kocham!</p>
+        <p xml:id="p-11">kataryna Każdy może kochać i być szczupłym Ja nie powiedziałabym, że kocham, ale lubię i czasem mogę zjeść A najbardziej to Kinder Bueno, Snickersa, Kopiec Kreta i lody Big Bambi</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

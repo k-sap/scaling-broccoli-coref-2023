@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Gdyby w dziwnej nazwie Proto-Kaw zamienić kończącą ją literę "w" na "n", to można by uznać, że jest ona kluczem do poznania prehistorii tej formacji. Ponieważ jednak jest jak jest, to należy sądzić, że oznacza ona protoplastę amerykańskich krów ("Kaw" - to prawdopodobnie fonetycznie zapisane słowo - "cow"), czyli jakiegoś prabizona. Takie jej tłumaczenie sugerują okładki dwóch płyt, jakie wydano pod tym szyldem, gdyż na obu można podziwiać dorodne okazy przodka współczesnego bydła. Skąd zatem mój pomysł, aby zmienić nazwę tej grupy na Proto-Kan? Stąd, że wiem, iż jest ona reinkarnacją zespołu, który był prototypem słynnej formacji Kansas. No a w takim razie wydaje się, że końcówka - "Kan" byłaby dla niej w pełni uzasadniona.</p>
+        <p xml:id="p-2">Na samym początku lat 70. ubiegłego wieku kompozytor, gitarzysta i muzyk grywający na różnych instrumentach klawiszowych - Kerry Livgren kierował grupą o nazwie Kansas. Z braku sukcesu ją rozwiązał i spróbował szczęścia z inną ekipą, która początkowo używała nazwy White Clover. Po kilku miesiącach White Clover przechrzczono na Kansas, gdyż uznano, że taki szyld będzie bardziej właściwy dla zespołu pochodzącego z tego właśnie stanu. Od tego momentu Kansas powoli, ale skutecznie piął się do ścisłej czołówki rocka w USA. Wypracował własny styl (polifoniczny rock progresywny), nagrał kilkanaście albumów i wylansował parę przebojów (z nieśmiertelnym Dust In The Wind na czele). Parokrotnie zmieniając skład i okresowo zawieszając działalność, dotrwał do początku tego tysiąclecia.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

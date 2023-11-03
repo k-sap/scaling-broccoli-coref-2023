@@ -1,0 +1,18 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Selekcjoner polskiej reprezentacji powiedział na konferencji prasowej, że mistrzostwa Europy nie są turniejem, w którym daje się szansę gry młodym, niedoświadczonym graczom.</p>
+        <p xml:id="p-2">Beenhakker powiedział, że po meczu z Austrią omówiono błędy i prowadzono treningi tak, aby uniknąć ich w przyszłości. Trener podkreślił jednak, że błędy zdarzają się nawet najlepszym piłkarzom. Dodał, że styl gry Chorwacji nie zmieni się mimo zapowiadanych zmian w składzie tej drużyny.</p>
+        <p xml:id="p-3">Komentując wypowiedź sędziego Howarda Webba, który powiedział, że słusznie podyktował rzut karny przeciwko Polakom, natomiast popełnił błąd, uznając im bramkę, Beenhakker uznał, iż sędzia przyznał się w ten sposób do dwóch błędów.</p>
+        <p xml:id="p-4">Obrońca Michał Żewłakow powiedział, że po dwóch meczach na Euro Polacy wiedzą, jak nie dać się zepchnąć do defensywy na początku spotkania. Piłkarz podkreślił, że nasza drużyna nie może oczekiwać, iż Chorwacja wystawi rezerwowych zawodników.</p>
+        <p xml:id="p-5">Żewłakow przyznał, że sytuacja, w której Polska musi wygrać z Chorwacją, a Austria z Niemcami, jest trudna. Jednak dopóki piłka w grze, wszystko może się zdarzyć - dodał piłkarz.</p>
+        <p xml:id="p-6">Leo Beenhakker powiedział, że polska drużyna ma pewną nadzieję na pozostanie na mistrzostwach Europy po jutrzejszym meczu z Chorwacją. "Musimy wygrać, jeśli chcemy mieć szansę na pozostanie w turnieju" - powiedział selekcjoner reprezentacji na konferencji prasowej.</p>
+        <p xml:id="p-7">Beenhakker podkreślił, że wszyscy są skoncentrowani na jutrzejszym spotkaniu. Polacy są przygotowani do meczu, choć Chorwacja jest zespołem bardzo dobrym technicznie, umiejętnie wykorzystującym zawodników w środku pola.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

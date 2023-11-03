@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Cena życia</p>
+        <p xml:id="p-2">Z tego pogromu ocalało kilkudziesięciu Żydów, a wśród nich rodzina Mosze Sonensona. Przed wojną była to w skali miasteczka rodzina bogata. Sonensonowie mieli garbarnię. Nie udało mi się dociec, u kogo mianowicie przechowywali się Sonensonowie oraz pozostali Żydzi w czasie okupacji niemieckiej. Faktem pozostaje natomiast, że okupację tę przeżyli. Faktem oczywistym pozostaje i to, że liczne rodziny polskie - w Ejszyszkach i w pobliskich okolicach - przechowywały Żydów. Parę kilometrów od Ejszyszek, w Korkucianach (w folwarku Lebiedniki), żołnierz AK Kazimierz Korkuć w czasie wojny w swoim domu przechowywał 28 Żydów. Od studni do piwnic domu był przekopany tunel, dzięki czemu mieli wodę. Natomiast w skali siatki AK Kazimierz Korkuć przechowywał około 70 Żydów. Rodzina Świeczków również przechowywała Żydów. W tamtych stronach liczne rodziny polskie postępowały podobnie.</p>
+        <p xml:id="p-3">Prawdą jest również i to, że Żydzi za swe przechowanie płacili. Płacili za utrzymanie i chyba jeszcze - za ryzyko. O tym dzisiaj raczej tu się nie mówi, ale prawdopodobnie różnie z tym było: jedni za pieniądze, inni - z odruchu serca. Ryzykowali i Polacy, i Żydzi. Te rachunki mogły wyglądać bardzo różnie.</p>
+        <p xml:id="p-4">Mieszkam w jednej z podwileńskich wsi. Otóż w tej mojej wsi pewien gospodarz - Polak - przechowywał w czasie wojny młodą Żydówkę. Spodobała mu się, z czego wynikł dramat. Zdenerwowana żona doniosła na policję. Aresztowano Żydówkę razem z gospodarzem, przerażona kobieta próbowała ocalić męża. Zanim uzbierała potrzebną sumę na łapówkę, było już za późno - rozstrzelano nie tylko Żydówkę, ale i gospodarza. Czy żonę tego straceńca można nazwać antysemitką?</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

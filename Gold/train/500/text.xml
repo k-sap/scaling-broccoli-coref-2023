@@ -1,0 +1,16 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">sp0: nie żałuje pani że już mówiła pani o studiach medycznych że pracy zawo zawodowej w tym kierunku w yy no ciężko by było pogodzić prawda przy byciu mamą dla tylu dzieci i to dzieci z problemami jednak</p>
+        <p xml:id="p-2">sp1: tak ja akurat już popracowałam sobie yy zawodowo inaczej więc ja akurat się spełniam w tej roli także yyy bardzo mi to pasuje aczkolwiek na dłuższą metę można pomyśleć o o podzieleniu o o o takim wyjściu na zewnętrz tutaj nie zamknięciu się całkowicie w domu i tylko z dziećmi ale robieniu też yy w między czasie czegoś innego bardzo jest chyba korzystne ale jeszcze trzy lata dopiero prowadzę więc zobaczę</p>
+        <p xml:id="p-3">sp0: ja myślę że czasami jest tak że kiedy słuchamy takich historii to sami się zastanawiamy czy przypadkiem nie otworzyć swojego domy yy dla dzieci czy miała pani takie sytuacje że właśnie ktoś na przykład ze znajomych pytał jak sobie radzicie ? i przyglądał się i że to wasze życie jakoś inspirowało ?</p>
+        <p xml:id="p-4">sp1: no akurat tak jak znajomi patrzą to wręcz przeciwnie nie niestety im odechciewa się wchodzenia w taką rolę aczkolwiek ja muszę powiedzieć że jak yy obejrzałam sama kiedyś program yyy taki wywiad z osobą która prowadzi rodzinny dom dziecka i to mnie w zasadzie też taką poddało myśl inspirację więc tak mam nadzieje że po tym wywiadzie u kogoś coś yyy yyy za zaiskrzy taki pomysł ale są też są też znajomi którzy myślą myślą i nawet podejmują kroki w tym kierunku</p>
+        <p xml:id="p-5">sp0: oboje yy państwo byliście yy równo przekonani ? czy to był taki czas że w pani sercu to było wcześniej i mąż bardziej dojrzewał albo odwrotnie</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

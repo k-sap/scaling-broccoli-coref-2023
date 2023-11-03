@@ -1,0 +1,14 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Na lądach i morzach</p>
+        <p xml:id="p-2">Przeciwnie do kierunku jazdy. Dalej niż czterdzieści centymetrów od krawężnika. Bliżej niż dziesięć metrów od przejścia dla pieszych. W zatoce dla autobusów. W obrębie przystanku. Na miejscu przekreślonym, zwanym też kopertą. Wzdłuż innego pojazdu, który nie jest rowerem albo też motocyklem, ale bez przyczepy. W obrębie znaku zakazu. W strefie. Z jednym kołem wychodzącym poza zaznaczony prostokąt. Przy wyjeździe z posesji, na zakręcie, blokując wytyczony żółtą linią dojazd. Parkowali jak chcieli, z pogwałceniem przepisów, łamiąc niekiedy kilka zakazów naraz.</p>
+        <p xml:id="p-3">Wychodziłem przed ósmą, ubrany do pogody. Niestety, bywało, zmieniała się nagle, bez uprzedzenia, jak wysoko w górach. Rano świeciło słońce, tak że zostawiałem zawieszoną na krześle przy biurku marynarkę, a już koło południa zbierały się chmury, najpierw niewinne, białe, a potem ciemniejące, jakby ktoś ryż przyprószył cynamonem. Wtedy wiedziałem już, bez zadzierania głowy, że spadnie deszcz, przelotny, ale dokuczliwy, kwaśny i brudny, wszędzie na asfalcie zostawiający tęczujące plamy. Trzeba było uważać, by nie zostać oblanym przez kierowców pędzących na złamanie karku, co nieraz mi się przytrafiało, mimo że z zasady bardziej interesuje mnie pojazd już zaparkowany. Przeczekiwałem deszcz na zadaszonych przystankach, wysepkach tramwajowych, w morzu błota, tramwaj przesuwał swój ociekający kadłub. Potem znów wychodziło słońce i znaki zakazu, przemyte, zyskiwały nowy blask.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

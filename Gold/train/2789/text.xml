@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">myszka_90 No nie mówię, ze tylko faceci się nie szanują, bo większość lasek też. Tylko każdy z Nas jest inny i każdy ma inne podejście. Faktem jest, że jesteśmy tylko ludźmi.... I jeśli ktoś uważa, że seks bez miłości jest ok-to ja nie nakłaniam do zmiany zdania. A jeśli ktoś wierzy, że seks tylko z miłości to ja to popieram i tyle. Każdy z Nas ma swoje życie i sam o nim decyduje...</p>
+        <p xml:id="p-2">Leszczyn CYTAT "Seks bez miłości to dla mnie bezsens i brak szacunku do samego siebie. To nie jest tylko przyjemność fizyczna. Duchowa także. A lepsza ona jest gdy kochamy się z osobą, którą kochamy i ona kocha nas. Co to za frajda iść na imprezę i zaliczyć laskę? Frajda dla faceta, który nie ma uczuć i nie szanuje nie tylko siebie ale i dziewczyn. A miłość bez seksu może istnieć. Jeśli 2 strony się kochają i chcą poczekać i np czekają 3 lata to to nie jest miłość? Jak dziewczyna chce poczekać to znaczy, że nie kocha? Dla mnie seks tylko z miłości bo bez niej to nie seks tylko puste dup*****e." Czekanie 3 lat na seks? To gdzie ta wyidealizowana miłość? Te Twoje 3 lata to nie miłość słonko, tylko okres oczekiwania na seks.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

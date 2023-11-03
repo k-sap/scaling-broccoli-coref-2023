@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Freud i Jung doszli do wniosku, że mity są niezastąpionym narzędziem dla psychologa, usiłującego prześledzić wzorce ludzkich zachowań. Wysiłki archeologów, religioznawców, antropologów doprowadziły z jednej strony do porzucenia eurocentrycznego spojrzenia na mitologię i odkrycia nieskończonego bogactwa oraz zróżnicowania mitów, z drugiej zaś - do odkrycia niezmiennych mitycznych matryc, za sprawą których doświadczenie religijne może zostać ujęte w sposób jednorodny. Dziś wiemy, że sumeryjska Inana jest jednocześnie syryjską Aszerą, egipską Izydą, grecką Herą i Demeter, a śmierć i zmartwychwstanie bóstwa jest uniwersalnym mitem religijnym, obecnym również w chrześcijaństwie.</p>
+        <p xml:id="p-2">Seria "Mity" to nie tylko spadek po wieku mitów, to także pierwszy w historii globalny projekt wydawniczy na taką skalę, który jeszcze 20 lat temu byłby nie do pomyślenia. Wydawnictwa z pięciu kontynentów reprezentują m.in. Rosję, USA, Chiny, Indie, Izrael, Japonię. Każdy kraj typuje własnych autorów (w Polsce, oprócz Tokarczuk, to Jacek Dukaj i Paweł Huelle), nobliści (Márquez, Coetzee, Toni Morisson) obok pisarzy o lokalnej renomie, pisarze starzy i młodzi, co razem daje dobre kilkadziesiąt książek i wszystkie możliwe mity ludzkości. Na pierwszy rzut oka - spełniona utopia o międzynarodówce artystów, która zbawi targany konfliktami świat. Po chwili jednak pojawiają się wątpliwości, bo i globalność projektu jest nieco ograniczona (daje np. do myślenia fakt, że na liście nie ma ani jednego wydawcy z krajów muzułmańskich), i demokratyzm nieco wybiórczy, bo decyzję, które książki z serii ukażą się w danym kraju, podejmują suwerennie poszczególni wydawcy, co zapewne skończy się tak, że każdy wyda "swoich" i parę międzynarodowych (czytaj: anglosaskich) nazwisk.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

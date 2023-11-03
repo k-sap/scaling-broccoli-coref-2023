@@ -1,0 +1,27 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Karolina Pilewska: Nie. W pełni siebie akceptuję.</p>
+        <p xml:id="p-2">magda: chodzisz na dyskoteki?</p>
+        <p xml:id="p-3">Karolina Pilewska: Tak. Uwielbiam tańczyć.</p>
+        <p xml:id="p-4">marta-27: czy twój chłopak cieszy się z twojego udziału w konkursie miss polonia?</p>
+        <p xml:id="p-5">Karolina Pilewska: Tak. I bardzo dzielnie mnie wspiera.</p>
+        <p xml:id="p-6">laska_z_Mysłowic: które z podanych określenie najbardziej cię charakteryzuje ( wybierz tylko jedno) zwariowana, poważna, delikatna, spokojna, rozważna, słodka?</p>
+        <p xml:id="p-7">Karolina Pilewska: Mogę wybrać dwa: zwariowana i delikatna</p>
+        <p xml:id="p-8">DjRadam: czy przygotowania przed programem są wyczerpujące i długo trwają?</p>
+        <p xml:id="p-9">Karolina Pilewska: Tak, są wyczerpujące.</p>
+        <p xml:id="p-10">nicole2: gdzie najbardziej lubisz podróżować?</p>
+        <p xml:id="p-11">Karolina Pilewska: W ciepłe kraje. Tam gdzie można się dowiedzieć czegoś ciekawego o kulturze danego kraju i zobaczyć piękne miejsca oraz poznać prawdziwe życie mieszkańców.</p>
+        <p xml:id="p-12">Inpaula: co jest Twoim hobby?</p>
+        <p xml:id="p-13">Karolina Pilewska: Taniec, podróże, czytanie książek przygodowych ....</p>
+        <p xml:id="p-14">martA_21: czy odżywiasz się zdrowo czy skusisz się czasami na np. fast-food?</p>
+        <p xml:id="p-15">Karolina Pilewska: Na co dzień odżywiam się zdrowo, ale czasami dam się skusić Myślę, że nie jesteśmy jeszcze na tym etapie, aby ze sobą ostro rywalizować. Wszystko okaże się podczas wrześniowego zgrupowania, na którym spędzimy dwa tygodnie. Mam nadzieję, że nadal będą między nami tak dobre relacje jak podczas przygotowań do programu...</p>
+        <p xml:id="p-16">zuzula: Jakie sporty uprawiasz?</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

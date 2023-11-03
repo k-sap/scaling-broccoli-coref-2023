@@ -1,0 +1,18 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Światu grozi gwałtowny wzrost cen ropy. Jeśli Iran nie będzie chciał eskalacji konfliktu, szok potrwa kilka dni, w przeciwnym razie czeka nas dłuższy okres droższego tankowania. To jednak lepsze niż islamska broń nuklearna...</p>
+        <p xml:id="p-2">Raport o irańskim programie jądrowym zostanie przekazany Radzie Bezpieczeństwa ONZ, która może nałożyć sankcje na Teheran – oznajmił w zeszłym tygodniu Gregory Schulte, amerykański ambasador przy Międzynarodowej Agencji Energii Atomowej (MAEA). Było to nic innego, jak przyznanie się do fiaska kilkuletnich zabiegów dyplomatycznych, mających na celu powstrzymanie Iranu na drodze do zbudowania własnej bomby atomowej.</p>
+        <p xml:id="p-3">Rozmowy w Wiedniu były punktem przełomowym w wojnie nerwów między Iranem a społecznością międzynarodową. Władze w Teheranie cały czas zapewniały, że ich celem jest opanowanie technologii atomowej do celów pokojowych, do czego mają prawo. Trudno było uwierzyć w te zapewnienia, bo Iran od lat grał w ciuciubabkę zarówno z rządami, jak i międzynarodowymi organizacjami, nadzorującymi pokojowe wykorzystanie energii atomowej.</p>
+        <p xml:id="p-4">Po kilkudniowej dyskusji nad raportem przygotowanym przez dyrektora generalnego MAEA, Rada Gubernatorów MAEA uznała wreszcie, że sprawy zaszły zbyt daleko i problemem powinna się zająć Rada Bezpieczeństwa Organizacji Narodów Zjednoczonych.</p>
+        <p xml:id="p-5">Groźne znaki zapytania</p>
+        <p xml:id="p-6">„Jest godne pożałowania i bardzo niepokojące, że wątpliwości w sprawie zakresu i charakteru irańskiego programu nuklearnego nie zostały wyjaśnione po trzech latach intensywnej działalności weryfikacyjnej agencji” – napisano w raporcie.</p>
+        <p xml:id="p-7">Okazało się, że lata zabiegów skończyły się dziwnymi efektami. Nie znaleziono dowodów na prowadzenie przez Iran prac nad wojskowym wykorzystaniem energii atomowej, ale z drugiej strony, Teheran zdołał zachować tyle tajemnic, że wykrycie prawdy stało się po prostu niemożliwe.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

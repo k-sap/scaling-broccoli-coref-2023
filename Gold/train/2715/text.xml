@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Magistrat przedstawił też propozycję nowych stawek podatków od nieruchomości. I tak - właściciele budynków mieszkalnych mają płacić 0,67 zł (obecnie 0,65 zł) za 1 metr kw., budynków związanych z prowadzeniem działalności gospodarczej - 21,05 zł (dziś 20,51 zł) za 1 metr kw., a posiadacze garaży wolno stojących 7,06 zł (obecnie 6,88 zł) za 1 metr kw. Za grunty przylegające do budynków mieszkalnych trzeba będzie zapłacić 0,25 zł za metr kw. Wpływy do budżetu z tytułu tych podatków szacowane są w 2011 roku na około 14 mln zł.</p>
+        <p xml:id="p-2">Ustalono też wysokość podatków od środków transportowych. Rocznie, m.in. za samochód ciężarowy o dopuszczalnej masie od 3, 5 do 5, 5 tony, trzeba będzie zapłacić 696 zł (pojazdy spełniające określone normy ekologiczne) lub 732 zł (pozostałe samochody). - Podwyżka w stosunku do zeszłego roku wynosi nie więcej niż 2,6 procent, czyli tyle ile wskaźnik cen towarów i usług konsumpcyjnych w pierwszym półroczu 2010 roku - mówi Magdalena Jachim, rzecznik sopockiego magistratu. - W zeszłym roku podwyżki były większe, bo wskaźnik wynosił 3,5 procent - dodaje.</p>
+        <p xml:id="p-3">Drożej za wodę i czynsz, ale dopiero od kwietnia</p>
+        <p xml:id="p-4">Obecna cena za wodę i odprowadzenie ścieków, czyli 7,24 zł za metr sześc. netto, obowiązywać będzie w Sopocie do 12 kwietnia.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

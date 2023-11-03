@@ -1,0 +1,16 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">luty: Na "czwórce" i singlu zatytułowanych ""Niebiesko-Czarni" na swojską nutę (1)" i ""Niebiesko-Czarni" na swojską nutę (2)", nagranych 10 lutego (odpowiednio - N 0251 i SP 83) śpiewa piosenki na motywach ludowych: "Mamo, nasza mamo", "Głęboka studzienka" oraz "Stary niedźwiedź".</p>
+        <p xml:id="p-2">wiosna: Komponuje pierwszą piosenkę, która ujrzała światło dzienne, po okresie pierwszych pomysłów i prób - "Wiem, że nie wrócisz".</p>
+        <p xml:id="p-3">czerwiec: "Niebiesko-Czarni" z Wydrzyckim prezentują "Wiem, że nie wrócisz" podczas I Krajowego Festiwalu Polskiej Piosenki w Opolu, 19 czerwca. Piosenka przechodzi niezauważona, natomiast grupa zostaje wyróżniona nagrodą zespołową.</p>
+        <p xml:id="p-4">lipiec-sierpień: "Wiem, że nie wrócisz" oraz druga kompozycja Czesława - "Czy mnie jeszcze pamiętasz" stają się wielkimi przebojami na Wybrzeżu, zwłaszcza podczas występów w ramach inicjatywy Franciszka Walickiego nazwanej "Non-Stop", w namiocie cyrkowym, ustawionym przy sopockim molo, obok "Grand Hotelu". W sierpniu na Międzynarodowy Festiwal Piosenki do Sopotu przejeżdża Bruno Cocquatrix, szef słynnej paryskiej "Olympii". Z inicjatywy Pagartu na specjalnym koncercie francuski menedżer słucha i ogląda występy Ewy Demarczyk i "Niebiesko-Czarnych" z Wydrzyckim. Dzięki temu otrzymują zaproszenie na występy w Paryżu.</p>
+        <p xml:id="p-5">wrzesień: Z inicjatywy dyrektora rozpoczynającego działalność III Programu Polskiego Radia, Mateusza Święcickiego, Wydrzycki dokonuje z zespołem "Bossa Nova Combo" swego pierwszego nagrania radiowego - "Pod papugami".</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

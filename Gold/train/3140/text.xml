@@ -1,0 +1,35 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">sp0: czyli na całe życie można sobie tam zostać</p>
+        <p xml:id="p-2">sp1: można..</p>
+        <p xml:id="p-3">sp0: tak ?</p>
+        <p xml:id="p-4">sp1: można..</p>
+        <p xml:id="p-5">sp0: no i co wtedy mieszkasz ?</p>
+        <p xml:id="p-6">sp1: oni no i tam jest dużo ludzi w tej wspólnocie którzy normalnie pracują są we wspólnocie no i że się przeprowadzają to żeby mieszkać blisko siebie żeby się tam na mszy spotkać na przykład czy tam jeszcze czy tam wiesz..</p>
+        <p xml:id="p-7">sp0: ale to jest tak..</p>
+        <p xml:id="p-8">sp1: no a jak jest potrzeba żeby na przykład będzie urządzana czy coś trzeba będzie no to wtedy wspólnota ich wysyła no tych co mogą no bo normalnie pracują..</p>
+        <p xml:id="p-9">sp0: ale to jest tak że co finanse są wspólne do jednej ?</p>
+        <p xml:id="p-10">sp1: ci co pracują to chyba oddają dziesięć procent y ze swoich zarobków..</p>
+        <p xml:id="p-11">sp0: a ci którzy nie pracują ?</p>
+        <p xml:id="p-12">sp1: a ci którzy nie pracują to żyją z tych dziesięciu procent..</p>
+        <p xml:id="p-13">sp0: ale to pracują niejako dla dobra wspólnoty jakieś tam..</p>
+        <p xml:id="p-14">sp1: tak no tak jak Marysia teraz w pralni pracuje w sklepie trochę i i pracuje też znaczy tam jak właśnie przyjeżdżają te formacje w ramach tego pracuje jakiś tam prace nie ? a to już jest chyba po drodze do Szamoni..</p>
+        <p xml:id="p-15">sp0: no to są już Alpy francuskie..</p>
+        <p xml:id="p-16">sp1: tak to już po drodze do Szamoni..</p>
+        <p xml:id="p-17">sp0: no..</p>
+        <p xml:id="p-18">sp1: także tu już są..</p>
+        <p xml:id="p-19">sp0: kto wjeżdżał ?</p>
+        <p xml:id="p-20">sp1: no. Boguś mój..</p>
+        <p xml:id="p-21">sp0: a Marta</p>
+        <p xml:id="p-22">sp1: Marta..</p>
+        <p xml:id="p-23">sp0: też z wami jeździła ?</p>
+        <p xml:id="p-24">sp1: tak znaczy tez oni byli tylko ze mną na dole zostali..</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

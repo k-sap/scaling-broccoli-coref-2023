@@ -1,0 +1,22 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Przypominam, że Komisja Praw Człowieka i Praworządności przedstawiła projekt uchwały, w którym wnosiła o przyjęcie tej ustawy bez poprawek. Projekt ten za chwilę zostanie poddany pod głosowanie.</p>
+        <p xml:id="p-2">Przystępujemy do głosowania nad przedstawionym przez Komisję Praw Człowieka i Praworządności projektem uchwały w sprawie ustawy o zmianie ustawy o wyborze Prezydenta Rzeczypospolitej Polskiej oraz ustawy o ujawnieniu pracy lub służby w organach bezpieczeństwa państwa lub współpracy z nimi w latach 1944-1990 osób pełniących funkcje publiczne.</p>
+        <p xml:id="p-3">Proszę o naciśnięcie przycisku obecności.</p>
+        <p xml:id="p-4">Kto z państwa senatorów jest za przyjęciem przedstawionego projektu uchwały, proszę o naciśnięcie przycisku "za" i podniesienie ręki.</p>
+        <p xml:id="p-5">Kto jest przeciw, proszę o naciśnięcie przycisku "przeciw" i podniesienie ręki.</p>
+        <p xml:id="p-6">Kto się wstrzymał od głosu, proszę o naciśnięcie przycisku "wstrzymuję się" i podniesienie ręki.</p>
+        <p xml:id="p-7">Dziękuję. Proszę o podanie wyników głosowania.</p>
+        <p xml:id="p-8">Na 89 obecnych senatorów 87 głosowało za, a 2 wstrzymało się od głosu. ( Głosowanie nr 26).</p>
+        <p xml:id="p-9">Wobec wyników głosowania stwierdzam, że Senat podjął uchwałę w sprawie ustawy o zmianie ustawy o wyborze Prezydenta Rzeczypospolitej Polskiej oraz ustawy o ujawnieniu pracy lub służby w organach bezpieczeństwa państwa lub współpracy z nimi w latach 1944-1990 osób pełniących funkcje publiczne.</p>
+        <p xml:id="p-10">Powracamy do debaty nad punktem piątym porządku dziennego: stanowisko Senatu w sprawie ustawy o dopłatach do oprocentowania kredytów bankowych udzielonych na usuwanie skutków powodzi.</p>
+        <p xml:id="p-11">Przypominam, że debata nad rozpatrywaną ustawą została zakończona i obecnie możemy przystąpić do głosowania w sprawie tej ustawy.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

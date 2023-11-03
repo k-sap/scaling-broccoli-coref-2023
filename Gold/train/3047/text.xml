@@ -1,0 +1,22 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Profesor Biernacki był przyjacielem rodziny. Znał chłopców od dziecka. Namówił Janka, żeby spróbował zakwalifikować się do "polskiej piątki", która będzie promowana przed konkursem.</p>
+        <p xml:id="p-2">- Że też nie przyleciałeś ze mną, Janiku!</p>
+        <p xml:id="p-3">- Oj, panie profesorze, gdybym to ja wiedział... Jestem skonany, nie ma mnie właściwie. Nie wiem, czy powinienem dziś grać.</p>
+        <p xml:id="p-4">- Wiesz... - siedli z kawą przy stoliku - w etiudach jesteś i tak najlepszy. Słyszałem innych. Nie mają szans. Jesteś wyszkolony technicznie, aż szkoda gadać. Kłopot możesz mieć dopiero przy sonatach, pod koniec. Żeby dobrze grać so... - ...naty, trzeba coś już przeżyć. Wiem, wiem, panie profesorze. Jestem za młody i niedoświadczony, mam to traktować sportowo, a etiudy to moja najmocniejsza strona! To już przerobiliśmy. Ale ja w ogóle nie ćwiczyłem od przyjazdu! Jestem zero w tej chwili.</p>
+        <p xml:id="p-5">- Idź spokojnie. Nuty masz?</p>
+        <p xml:id="p-6">Janek zmartwiał.</p>
+        <p xml:id="p-7">- Taaak, mmam.</p>
+        <p xml:id="p-8">Miał nie tylko nuty.</p>
+        <p xml:id="p-9">- Pokaż, mały, przypomnijmy palcowania.</p>
+        <p xml:id="p-10">Siląc się na swobodę wyjął zeszyt, otwierając na odpowiednich stronach.</p>
+        <p xml:id="p-11">- Świetnie. Pamiętaj, to cis czwartym palcem. Tu często nie zdążasz. Nie pomyl się, a będzie w porządku. W domu grałeś przed wyjazdem?</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

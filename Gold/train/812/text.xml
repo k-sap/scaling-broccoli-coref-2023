@@ -1,0 +1,19 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Abuś Boze widzisz a nie grzmisz ! Rece mi opadaja..... :dezorientacja:</p>
+        <p xml:id="p-2">irpe1809 psiaczek1988 , nie obraź się , ale sądzę, że masz z czymś problem. Już czytam Twój drugi post i znów temat to Twój chłopak i sex. Nie wiem, ale myślę, że największym narazie Twoim problemem to jest przede wszystkim Twoja niedojrzałość emocjonalna. A gdzie jest w Twoich sercu jakiś romantyzm?</p>
+        <p xml:id="p-3">Abuś Romantyzm ? ja bym sie zastanawiala gdzie sie podzial jej rozum... ale skoro jej odpowiada to ze sie nie szanuje ( bez obrazy) to luuzzz... tylko potem niech nie lamentuje ze ma dziecko.</p>
+        <p xml:id="p-4">milusia32 psiaczek1988 , jestes dyslektykiem?? Czy Twój chłopak chcialby MAŁŻEŃSWTA z Tobą?? Wspominał o tym?? Sorrki jak za duzo pytan... ale z góry dzieki za odpowiedzi Pozdrawiam</p>
+        <p xml:id="p-5">irpe1809 CYTAT(Abuś) "ja bym sie zastanawiala gdzie sie podzial jej rozum..." nad tym też się zastanawiałam,aż mi smutnawo troszku. No, ale każdy kowalem swego losu jest.</p>
+        <p xml:id="p-6">Abuś No smutne to, ale prawdziwe :dezorientacja: do seksu trzeba dojrzec, to nie jest zadne "widzi mi sie".</p>
+        <p xml:id="p-7">Arina psiaczek1988 , a spróbuj mu kiedyś odmówić sexu i zwróć uwage jak on na to zareaguje. Jeśli cię kocha zrozumie.</p>
+        <p xml:id="p-8">Ribana Arina , włansie.Napweno by sie wsciekł albo zerwał z nia i znalazł sobie inną.Znam takie przypadki.Przkro mi psiaczek1988 , ze pisze ci takie niemiłe słowa,ale jestes jeszcze młoda i widze ze pakujesz sie w kłopoty.Ten chłopak cie wykorzystuje,a ty mu sie dajessz.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

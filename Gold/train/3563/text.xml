@@ -1,0 +1,24 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">1. Za pomocą dowolnego edytora tekstu otwórz plik postgresql.conf</p>
+        <p xml:id="p-2">2. Znajdź parametr port i zmień domyślną wartość na numer portu, który będzie wykorzystywany do nawiązywania połączenia klientów z serwerem:</p>
+        <p xml:id="p-3">3. Ustaw wartość parametru max_connections - serwer będzie zezwalał na nawiązanie maksymalnie 50 jednoczesnych połączeń:</p>
+        <p xml:id="p-4">4. Ustawiając wartość parametru sharedbuffer określamy, ile buforów pamięci operacyjnej będzie zarezerwowane dla SZBD Postgres (domyślna wielkość bufora to 8 192 bajty):</p>
+        <p xml:id="p-5">5. Przydziel ilość pamięci operacyjnej (w kilobajtach) wykorzystywanej m.in. przy sortowaniu danych przez system Postgres:</p>
+        <p xml:id="p-6">Niektóre skomplikowane zapytania lub operacje sortowania mogą być wykonywane równolegle. W takim przypadku każdemu procesowi zostanie przydzielona podana ilość pamięci operacyjnej. W praktyce całkowita liczba przydzielonej pamięci jest wielokrotnością wartości parametru sortjnem</p>
+        <p xml:id="p-7">6. Zapisz plik.</p>
+        <p xml:id="p-8">7. Zatrzymaj i ponownie uruchom proces postmaster.</p>
+        <p xml:id="p-9">Zarządzanie bazami danych</p>
+        <p xml:id="p-10">Po uruchomieniu i skonfigurowaniu środowiska Systemu zarządzania bazami danych możemy utworzyć testową bazę danych. Chociaż ćwiczenia znajdujące się w kolejnym rozdziale przedstawiają proces samodzielnego zaprojektowania bazy danych katalog, to już teraz możemy utworzyć swoją pierwszą bazę danych. Wykonując kolejne ćwiczenia Czytelnik pozna nie tylko metody tworzenia i usuwania poszczególnych baz danych, ale również ograniczania dostępu do obiektów baz danych poszczególnym użytkownikom.</p>
+        <p xml:id="p-11">Tworzenie bazy danych</p>
+        <p xml:id="p-12">Ćwiczenie 2.7.</p>
+        <p xml:id="p-13">Jednym z etapów instalacji i konfiguracji SZBD PostgreSQL było utworzenie systemowej bazy danych template1. W tej bazie przechowywane są informacje niezbędne do zarządzania bazami danych użytkownika. SZBD PostgreSQL, tak jak zdecydowana większość innych systemów zarządzania bazami danych, umożliwia uruchomienie na pojedynczym serwerze dowolnej liczby baz danych.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

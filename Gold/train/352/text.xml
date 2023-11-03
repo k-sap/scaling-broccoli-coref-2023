@@ -1,0 +1,28 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Czy w sprawie projektu uchwały ktoś z pań posłanek i panów posłów pragnie zabrać głos?</p>
+        <p xml:id="p-2">Nie widzę, nie słyszę. Nikt się nie zgłasza.</p>
+        <p xml:id="p-3">Prezydium Sejmu proponuje, aby Sejm przystąpił niezwłocznie do drugiego czytania projektu uchwały.</p>
+        <p xml:id="p-4">Jeżeli nie usłyszę sprzeciwu, będę uważał, że Sejm propozycję przyjął.</p>
+        <p xml:id="p-5">Sprzeciwu nie słyszę.</p>
+        <p xml:id="p-6">Przystępujemy zatem do drugiego czytania projektu uchwały.</p>
+        <p xml:id="p-7">Czy ktoś z pań posłanek i panów posłów pragnie zabrać głos w drugim czytaniu?</p>
+        <p xml:id="p-8">Nikt się nie zgłasza.</p>
+        <p xml:id="p-9">Przystępujemy zatem do głosowania.</p>
+        <p xml:id="p-10">Kto z pań posłanek i panów posłów jest za przyjęciem w całości projektu uchwały w sprawie powołania i wyboru składu osobowego Komisji Nadzwyczajnej do rozpatrzenia projektu ustawy o ochronie informacji niejawnych, w brzmieniu proponowanym w druku nr 784, zechce podnieść rękę i nacisnąć przycisk.</p>
+        <p xml:id="p-11">Kto jest przeciw?</p>
+        <p xml:id="p-12">Kto się wstrzymał?</p>
+        <p xml:id="p-13">W głosowaniu wzięło udział 332 posłów. Za - głosowało 299, przeciw - 13, wstrzymało się od głosu 20 posłów.</p>
+        <p xml:id="p-14">Stwierdzam, że Sejm podjął uchwałę w sprawie powołania i wyboru składu osobowego Komisji Nadzwyczajnej do rozpatrzenia projektu ustawy o ochronie informacji niejawnych.</p>
+        <p xml:id="p-15">Informuję, że bezpośrednio po zakończeniu głosowań odbędzie się posiedzenie Komisji Nadzwyczajnej do rozpatrzenia projektu ustawy o ochronie informacji niejawnych, w sali nr 102, w celu wyboru prezydium komisji.</p>
+        <p xml:id="p-16">Na tym wyczerpaliśmy porządek dzienny 38 posiedzenia Sejmu Rzeczypospolitej Polskiej.</p>
+        <p xml:id="p-17">Informuję, że zgłosili się posłowie w celu wygłoszenia oświadczeń poselskich. Zgłosiło się trzech posłów: pan poseł Bogumił Andrzej Borowski, pan poseł Bogdan Lewandowski, pani poseł Ewa Tomaszewska.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

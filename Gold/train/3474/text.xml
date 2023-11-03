@@ -1,0 +1,18 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Pożar wybuchł na piętrze (poddaszu). Zniszczeniu uległa ta kondygnacja i dach, w znacznej mierze został zdewastowany także parter. Drewniany, stary budynek prawdopodobnie już nie nadaje się do remontu, chociaż jeszcze nie ma ekspertyzy technicznej.</p>
+        <p xml:id="p-2">Na razie nie wiadomo, co było przyczyną pożaru. Strażacy przypuszczają, że albo podpalenie, albo zaprószenie ognia, albo zwarcie w instalacji elektrycznej. Do piątku (19 lipca), gdy przekazywaliśmy ten tekst do druku, policji nie udało się ustalić miejsca pobytu jednego z lokatorów tego domu. Jego zeznania mogą pomóc w wyjaśnieniu przyczyn i okoliczności wybuchu pożaru.</p>
+        <p xml:id="p-3">Burmistrz Jerzy Rakowski o godz. 4.00 zameldował się na ul. Wymyślin. - Trwało gaszenie ognia - mówi. - Poza tym część strażaków, lokatorzy i mieszkańcy sąsiednich domów z poświęceniem wynosili meble i inne sprzęty z płonącego budynku.</p>
+        <p xml:id="p-4">KP PSP szacuje straty materialne na 160 tys. zł, w tym na 50 tys. zł wartość mienia ruchomego.</p>
+        <p xml:id="p-5">Już w czasie akcji ratowniczej burmistrz podjął decyzję o przydzieleniu wolnych lokali z zasobów komunalnych dwu rodzinom pogorzelców: sześcio- i trzyosobowej.</p>
+        <p xml:id="p-6">Również pozostałym poszkodowanym Jerzy Rakowski zaoferował mieszkania, tyle że wymagają one adaptacji lub remontu. TBS już rozpoczął roboty budowlane.</p>
+        <p xml:id="p-7">W porozumieniu ze starostą zaś burmistrz zaproponował pogorzelcom tymczasowy dach nad głową - w internacie Zespołu Szkół Zawodowych nr 2 przy ul. Lelewela. Jak dotąd, nikt z tej oferty nie skorzystał. Poszkodowani mieli się schronić u swoich bliskich lub znajomych.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

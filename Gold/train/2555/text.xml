@@ -1,0 +1,12 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Być może był to najtrudniejszy pojedynek MTS-u Chrzanów na własnym parkiecie w tym sezonie. Spotkali się bowiem gospodarze z jedynym z faworytów rozgrywek, być może nawet największym - Gwardią Opole. Niestety, jak się okazało, lider okazał się stanowczo za silny dla miejscowych. Tylko do 14 minuty było remisowo - 5:5, a później już cały czas prowadzili goście z Opola. - Gwardia to bardzo dobry zespół - twierdzi drugi trener MTS-u Adam Piekarczyk - wyrównany w każdej formacji, grający zespołowo. Niezłym zawodnikiem jest Jagielski, który kieruje całą grą, znakomicie rozgrywa piłkę, poza tym opolanie wiele bramek zdobywają po groźnych kontratakach, ale nie znaczy to, że nie umieją wykorzystać też ataku pozycyjnego. Przewyższali nas w tym elemencie gry. Słabo się zaprezentowaliśmy szczególnie w obronie, straciliśmy bowiem 30 bramek. Przez cały mecz bronił Piotr Rokita, ale w końcówce spotkania w bramce stanął Baliś i prezentował się najkorzystniej. Trudno, musimy jakoś przeboleć tę stratę, z pewnością graliśmy z drużyną z czołówki i musimy zdawać sobie sprawę, ile nas jeszcze od niej dzieli. Chrzanowianie opuścili czwarte miejsce w tabeli i spadli na siódme. Pocieszeniem dla MTS-u jest fakt, że mecz obserwował już Tomasz Wróbel - dobry duch zespołu w minionym sezonie, przebywający ostatnio w Stanach Zjednoczonych. W tym tygodniu wznowi treningi i powinien być już gotowy na najbliższy ligowy mecz w Płocku z Wisłą II. Bramki MTS-u: 54 bramki - Adam Kruczek, 37 - Paweł Rokita, 34 - Ryszard Jacek, 24 - Marcin Skoczylas, 22 - Łukasz Wróbel, 21 - Tomasz Charuza, 10 - Paweł Odynokow, 5 - Wiesław Zduń, 4 - Dariusz Chmielowski, 3 - Adam Babicz.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

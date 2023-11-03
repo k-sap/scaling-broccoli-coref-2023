@@ -1,0 +1,12 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Grzegorz Strzelczyk, szef pomorskiego PiS, musiał złożyć rezygnację. Dlaczego? "Wieczór Wybrzeża" podaje jedną z wersji: "Złośliwi mówią, że panu Jarosławowi Kaczyńskiemu nie podobał się wygląd Strzelczyka. Pan Grzegorz to bowiem postawny mężczyzna, taki ognisty brunet. latino lover prawie. A jego szef, no cóż, trochę mniej ognisty, nie da się ukryć, a na dodatek niższy od pomorskiego barona PiS".</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

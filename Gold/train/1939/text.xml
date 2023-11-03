@@ -1,0 +1,23 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">WicemarszalekTadeuszRzemykowski: Informuję, że lista mówców została wyczerpana.</p>
+        <p xml:id="p-2">WicemarszalekTadeuszRzemykowski: Informuję także, że podczas dyskusji wnioski o charakterze legislacyjnym na piśmie złożyli senatorowie: Zbigniew Kulak, Tadeusz Kopacz, Marek Waszkowiak, Wiesław Pietrzak, Leon Kieres i Mieczysław Janowski.</p>
+        <p xml:id="p-3">WicemarszalekTadeuszRzemykowski: Zgodnie z art. 52 ust. 2 Regulaminu Senatu zamykam dyskusję.</p>
+        <p xml:id="p-4">WicemarszalekTadeuszRzemykowski: Czy przedstawiciel rządu chce zabrać głos i ustosunkować się do przedstawionych wniosków? Nie ma takiej woli.</p>
+        <p xml:id="p-5">WicemarszalekTadeuszRzemykowski: Informuję więc, że w związku ze zgłoszeniem wniosków o charakterze legislacyjnym, zgodnie z art. 52 ust. 2 Regulaminu Senatu proszę Komisję Samorządu Terytorialnego i Administracji Państwowej o ustosunkowanie się do nich i przygotowanie sprawozdania w tej sprawie.</p>
+        <p xml:id="p-6">WicemarszalekTadeuszRzemykowski: Informuję, że głosowanie w sprawie ustawy o zasadach wspierania rozwoju regionalnego zostanie przeprowadzone w dniu jutrzejszym, razem z innymi głosowaniami.</p>
+        <p xml:id="p-7">WicemarszalekTadeuszRzemykowski: Przeoczyłem to, że poprawkę złożył także senator Lech Feszler. Informuję o tym, żeby było to w protokole.</p>
+        <p xml:id="p-8">WicemarszalekTadeuszRzemykowski: Ogłaszam dziewięciominutową przerwę.</p>
+        <p xml:id="p-9">WicemarszalekTadeuszRzemykowski: Po przerwie będzie punkt trzynasty obrad.</p>
+        <p xml:id="p-10">WicemarszalekTadeuszRzemykowski: Wznawiam obrady.</p>
+        <p xml:id="p-11">WicemarszalekTadeuszRzemykowski: Przystępujemy do debaty nad punktem trzynastym porządku obrad: stanowisko Senatu w sprawie ustawy o zmianie ustawy o utworzeniu Agencji Restrukturyzacji i Modernizacji Rolnictwa.</p>
+        <p xml:id="p-12">WicemarszalekTadeuszRzemykowski: Przypominam, że rozpatrywana ustawa została uchwalona przez Sejm na siedemdziesiątym trzecim posiedzeniu, w dniu 16 marca bieżącego roku. W tym samym dniu przekazana została do Senatu. Marszałek Senatu w dniu 21 marca bieżącego roku, zgodnie z art. 68 ust. 1 Regulaminu Senatu skierowała ją do Komisji Gospodarki Narodowej oraz Komisji Rolnictwa i Rozwoju Wsi. Komisje po rozpatrzeniu ustawy przygotowały swoje sprawozdania w tej sprawie.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Tofik CYTAT "A czy wiedza na temat tego, gdzie przeciwnik się znajduje, musi być jednoznaczna z pokonaniem go?" Nie - za to skróca jego pokonanie (bez "Ultry" wojna potrwałaby kilka miesięcy dłużej). Dlaczego alianci znając niby rozmieszczenie wojsk niemieckich gnietli się tak długo pod dajmy na to Monte Cassino?</p>
+        <p xml:id="p-2">mch90 CYTAT "IMHO "Ultra" miała chyba tylko wielki wpływ na Atlantyku" Oj, nie bagatelizowałbym znaczenia Ultry w walkach na Zachodzie i w rejonie Morza Śródziemnego. Już od maja 1941 roku alianci zaczęli dostawać rozszyfrowane meldunki z Enigmy - tym samym znali większość planów wroga, począwszy od szczegółowych planów i harmonogramu operacji "Merkur", przez lądowanie Rommla w Afryce na wiosnę 1941 roku, po informację o konwojach niemieckich płynących do Afryki. CYTAT "W Afryce Północnej "Ultra" nie dała aliantom zwycięstwa"" Nie, ale bardzo ułatwiła ostateczne zwycięstwo. Chociażby bitwa o Medenine stoczona u wrót Tunezji przez Montgomery'ego - aliancki nasłuch poznał rozmary, lokalizację i porę niemieckiego uderzenia tak, że wojska Rommla dostały cięgi jak siemasz, przy minimalnych stratach brytyjskich. Nasłuch z Ultry niezwykle przydawał się podczas desantów morskich. Przed operacją "Overlord", rozszyfrowane depesze pozwalały zorientować się wywiadowi SHAEF, czy Niemcy faktycznie nabrali się na alianckie działania pozorujące. CYTAT "Dlaczego alianci w ogóle mieli problemy z przełamywaniem niemieckich pozycji skoro znali ich pozycje?" Same rozszyfrowane depesze nie zapewniają zwycięstwa - trzeba je jeszcze dobrze wykorzystać i mieć dobrego dowódcę, który potrafi wykorzystać informację o przeciwniku przeciwko niemu. Na Krecie tak się nie stało.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

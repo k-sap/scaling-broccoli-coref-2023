@@ -1,0 +1,31 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">sp1: no to jedenasta</p>
+        <p xml:id="p-2">sp0: no przed jedenastą było. no a one tam siedziały sobie jeszcze</p>
+        <p xml:id="p-3">sp1: wszystkie cztery ?</p>
+        <p xml:id="p-4">sp0: no wszystkie były. i chyba Ani mąż przyjechał tak mi się wydaje że jej mąż nie wiem taki starszy koleś więc wydaje mi się że on</p>
+        <p xml:id="p-5">sp1: starszy to o ile starszy ?</p>
+        <p xml:id="p-6">sp0: no na pewno nie chłopak Marleny więc mąż Ani no</p>
+        <p xml:id="p-7">sp1: a może mąż Magdy ?</p>
+        <p xml:id="p-8">sp0: nie no bo Ania cos tam tłumaczyła że jestem koleżanka ze szkoły coś takiego</p>
+        <p xml:id="p-9">sp1: jak tłumaczyła ?</p>
+        <p xml:id="p-10">sp0: mówiła mu bo się przywitałam z nim</p>
+        <p xml:id="p-11">sp1: yhm</p>
+        <p xml:id="p-12">sp0: nie zadawaj więcej ciężkich pytań</p>
+        <p xml:id="p-13">sp1: no widzę że jesteś nieczająca. no i co popiły ?</p>
+        <p xml:id="p-14">sp0: no nie wiem gadałam z nimi chwilę i mówią że jak chcemy usiąść no to ten to one zwolnią stolik bo i tak zaraz się zbierają i mówi że od razu ze sfinksa przyszły tam właśnie</p>
+        <p xml:id="p-15">sp1: yhm spiły się ?</p>
+        <p xml:id="p-16">sp0: trochę posiedziały nie. nie chyba tak lajtowo</p>
+        <p xml:id="p-17">sp1: Magda to wtedy jak już po tym pierwszym piwie to już się bała że jak wypije więcej</p>
+        <p xml:id="p-18">sp0: nie dobrze wyglądała</p>
+        <p xml:id="p-19">sp1: ale już nie chciała pic wtedy. pójdziemy jeszcze z nimi ale to na taka imprezę już konkretną</p>
+        <p xml:id="p-20">sp0: Basia po tych dwóch dniach ja już jestem padnięta. a no i posiedziałyśmy trochę ale mówimy tak jest dużo ludzi tak było dużo ludzi w tej kaliskiej że po prostu jeszcze jakaś laska mi strzaskała piwo się wkurzyłam no i potem poszliśmy do ten stwierdziliśmy bo już ten ta koleżanka jedna z chłopakiem poszła po ten chłopak się wkurzał że było ciasno że on ma gdzie sobie usiąść takie wkurzając nie ?</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

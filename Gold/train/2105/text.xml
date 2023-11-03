@@ -1,0 +1,21 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Programowanie zdarzeń dla komponentów umieszczanych na formularzu</p>
+        <p xml:id="p-2">Na tak przygotowanym formularzu umieśćmy jeden komponent reprezentujący klasę TButton z zakładki Standard Palety narzędzi. Korzystając z Inspektora obiektów oraz z karty własności, cechy Name (zakładka Miscellaneous) oraz Caption (zakładka Visual) przycisku Buttonl zmieńmy odpowiednio na Zamknij oraz amp;Zamknij (rysunek 4.7). Jeżeli jawnie nie zmienimy własności Name komponentu, w kodzie będzie występować jego nazwa domyślna (np. Buttonl).</p>
+        <p xml:id="p-3">Inspektora obiektów</p>
+        <p xml:id="p-4">Znak amp;, który występuje w opisie przycisku (ale nie w jego nazwie), spowoduje, że litera występująca bezpośrednio za nim stanowić będzie klawisz szybkiego dostępu do funkcji obsługi wybranego zdarzenia.</p>
+        <p xml:id="p-5">Dla naszego przycisku utworzymy funkcję obsługi odpowiedniego zdarzenia. Klikając dwukrotnie przycisk Zamknij lub w widoku struktury obiektów (Structure) odpowiednio oznaczony komponent, dostaniemy się do wnętrza właściwej funkcji obsługi zdarzenia:</p>
+        <p xml:id="p-6">void fastcall TForml:: ZamknijClick(TObject *Sender)</p>
+        <p xml:id="p-7">Już w tym miejscu możemy zauważyć, iż w definicji klasy Builder wygenerował automatycznie deklarację przycisku oraz deklarację funkcji obsługującego go zdarzenia.</p>
+        <p xml:id="p-8">Należy zawsze pamiętać, iż szkielety funkcji obsługi odpowiednich zdarzeń, takich jak ZamknijClick(), zostaną automatycznie wygenerowane przez Buildera w odpowiedzi na dwukrotne kliknięcie danego przycisku. W żadnym wypadku funkcji tych nie należy wpisywać samodzielnie.</p>
+        <p xml:id="p-9">Omawianą funkcję obsługi zdarzenia wypełnimy przedstawionym poniżej kodem, co spowoduje, że po naciśnięciu wybranego przycisku aplikacja zostanie zamknięta.</p>
+        <p xml:id="p-10">Hierarchia własności komponentów VCL</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

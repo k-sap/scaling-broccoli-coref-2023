@@ -1,0 +1,16 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Od momentu wjechania do Republiki Buriackiej towarzyszą nam wspaniałe widoki. Początkowo w oddalonej dolinie widać dość silnie rwącą rzekę Irkut. Następnie naszym oczom ukazują się wspaniałe góry - Sajany Wschodnie, dochodzące do 3 tys. m wysokości. Gdzieniegdzie na pierwszym planie widoczne są małe pagórki porośnięte drzewami. Są to stożki po wygasłych już wulkanach.</p>
+        <p xml:id="p-2">Po kilku godzinach jazdy docieramy do Arszan. Mamy szczęście, ponieważ udaje nam się wejść do buddyjskiej świątyni. Wewnątrz Ø wyczuwalna jest woń różnych kadzidełek i olejków eterycznych. Po świątyni poruszać się można tylko w kierunku zgodnym z ruchem wskazówek zegara. Jest tak dlatego, że inny kierunek mógłby zakłócić nagromadzoną tu rzekomo energię. Sam budynek świątyni jest mały i skromnie urządzony, ale za to przytulny.</p>
+        <p xml:id="p-3">Potem udajemy się do, bijącego w pobliżu, źródła termalnego. Po drodze spotykamy mnóstwo straganów z przeróżnymi pamiątkami. Kupić tu można także rozmaite zioła, które, przynajmniej teoretycznie, mogą wyleczyć człowieka z wszelkich dolegliwości.</p>
+        <p xml:id="p-4">Po drobnych zakupach i półgodzinnej jeździe docieramy do okolicy obfitującej w mineralne i termalne źródła. Za 15 rubli można tu skorzystać z kąpieli w leczniczych wodach. Choć cały obiekt znajduje się pod gołym niebem, to wrażenia towarzyszące kąpieli są niezapomniane. Woda jest tu bardzo ciepła, a momentami wręcz gorąca.</p>
+        <p xml:id="p-5">Wracamy do Sljudanki, zabieramy nasze bagaże i wyjeżdżamy do Irkucka. Jutro będziemy już wracać do Polski. W drodze podziwiamy po raz ostatni wspaniały Bajkał.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

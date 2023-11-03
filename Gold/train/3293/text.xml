@@ -1,0 +1,14 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Giuliani junior, dziś czołowy kandydat republikanów na prezydenta, przez lata skrzętnie ukrywał rodzinny sekret. We wspomnieniach napisał tylko, że ojciec uczył go boksu, interesował się sportem i głosował na partię republikańską. Gdy Rudy w 1981 r. zaczął robić karierę w ministerstwie sprawiedliwości i FBI rutynowo pytała go o zdarzenia z przeszłości, mogące utrudnić mu walkę z przestępczością, nawet nie zająknął się o mafijnych powiązaniach ojca. Dziś Giuliani mówi, że to właśnie ojciec wpoił mu szacunek do prawa. Harold nie chciał, by syn poszedł w jego ślady. Rudy wziął to sobie do serca.</p>
+        <p xml:id="p-2">Z resortu sprawiedliwości przeniósł się w 1983 r. do nowojorskiej prokuratury, gdzie w ciągu kilku lat wyrósł na pogromcę mafii. W głośnym procesie doprowadził do skazania bossów nowojorskich rodzin, w tym szefa klanu Lucchese, dla którego kiedyś pracował jego ojciec. Pod koniec lat 80. Rudy Giuliani był już jednym z najskuteczniejszych prokuratorów okręgowych w historii USA. Zbił wystarczający kapitał zaufania, by z impetem wejść w politykę. Postanowił zostać burmistrzem Nowego Jorku.</p>
+        <p xml:id="p-3">Udało się dopiero za drugim podejściem. W 1989 r. o włos przegrał z Davidem Dinkinsem. Zastąpił go cztery lata później, wygrywając pod nośnymi hasłami obniżenia podatków i przywrócenia porządku w mieście ogarniętym plagą handlu narkotykami i włamań do samochodów. Jako burmistrz skupił się na strukturalnej walce z przestępczością zamiast na wsadzaniu bossów do więzień. Giuliani działał zgodnie z "teorią zbitej szyby": tak jak wybite okno w opuszczonym budynku ośmiela chuliganów do tłuczenia pozostałych, tak bezwzględne usuwanie drobnych przejawów bezprawia likwiduje podświadome przyzwolenie na poważniejsze przestępstwa. W ramach słynnego programu "zero tolerancji" wydał wojnę nie tylko nowojorskim handlarzom narkotyków, ale także żebrakom. Dał policji carte blanche na stosowanie przemocy, zatrudnił 7 tys. dodatkowych funkcjonariuszy. W efekcie przez 8 lat rządów Giulianiego liczba przestępstw popełnianych w Nowym Jorku spadła aż o połowę.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

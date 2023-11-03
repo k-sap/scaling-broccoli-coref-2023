@@ -1,0 +1,31 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">AGATA wychodzi z banku. Za nią wybiega KONRAD z jakimiś dokumentami.</p>
+        <p xml:id="p-2">KONRAD:</p>
+        <p xml:id="p-3">(zdyszany)</p>
+        <p xml:id="p-4">Pani dyrektor…</p>
+        <p xml:id="p-5">AGATA:</p>
+        <p xml:id="p-6">Biegł pan schodami, czy jechał windą?</p>
+        <p xml:id="p-7">KONRAD:</p>
+        <p xml:id="p-8">Sekretarka powiedziała mi, że pani już dzisiaj nie będzie… A mieliśmy omówić te nowe pakiety dla klientów.</p>
+        <p xml:id="p-9">AGATA:</p>
+        <p xml:id="p-10">(patrząc na dokumenty)</p>
+        <p xml:id="p-11">Myślę, że powinien pan to jeszcze raz przejrzeć. Tylko nie w windzie. Do widzenia.</p>
+        <p xml:id="p-12">AGATA odchodzi. KONRAD patrzy za nią wkurzony.</p>
+        <p xml:id="p-13">AGATA podchodzi do swojego samochodu. Dzwoni jej komórka. Patrzy na wyświetlacz. Odrzuca połączenie.</p>
+        <p xml:id="p-14">BARTEK odkłada telefon na stolik. Miesza kawę zanurzając wzrok w czarnym płynie.</p>
+        <p xml:id="p-15">AGATA, jakby się od czegoś uwolniła, z uśmiechem i dumna z siebie wsiada do samochodu.</p>
+        <p xml:id="p-16">23. HALA PRZYLOTÓW NA OKĘCIU. WN. POPOŁUDNIE.</p>
+        <p xml:id="p-17">Widzimy grupę oczekujących. Są kierowcy z hoteli z tablicami, np. HOLLIDAY INN. MR. JAMES BRADLEY etc. Wśród nich MAGDA. Z bramki wychodzą pasażerowie. Po chwili także TERESA i JERZY z bagażami na wózku. Oboje wyglądają znakomicie, wakacyjnie – wręcz wyróżniają się z tłumu. TERESA widząc MAGDĘ macha do niej. JERZY uśmiecha się do Ø córki. MAGDA wpada Ø matce w ramiona. JERZY przygląda się Ø córce.</p>
+        <p xml:id="p-18">TERESA:</p>
+        <p xml:id="p-19">(wesoło)</p>
+        <p xml:id="p-20">Kochanie… Musisz sama zobaczyć Wielki Kanion! Poza tym, trochę się za tobą stęskniłam!</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

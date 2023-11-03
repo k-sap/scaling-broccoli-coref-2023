@@ -1,0 +1,14 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Międzyrzecki Rejon Umocniony miał chronić Berlin i wschodnie tereny Niemiec przed niespodziewanym atakiem polskiej armii. Z potężnymi fortyfikacjami mogła konkurować jedynie legendarna Linia Maginota. Nigdy jednak nie wykorzystano militarnie olbrzymich umocnień. Wiele poszlak wskazuje na to, że w podziemnych magazynach Niemcy przechowywali rabowane w Europie dzieła sztuki.</p>
+        <p xml:id="p-2">Historia Międzyrzeckiego Rejonu Umocnionego rozpoczęła się w 1935 r. Decyzję o budowie fortyfikacji podjął sam Hitler. 30 października przyjechał na inspekcję bagien i rozlewisk sąsiadujących z Międzyrzeczem. Kilka miesięcy później na jego polecenie Sztab Naczelny Niemieckiego Dowództwa Sił Zbrojnych wydał zakaz przelotu samolotów nad placem budowy Ø. Dodatkowo przejazd pociągów lub samochodów przez rejon międrzyrzecki miał się odbywać jedynie na podstawie specjalnych przepustek. Zgodnie z wolą Führera olbrzymie umocnienia miały powstać w ciągu 15 lat. Jednocześnie rozpoczęto szkolenie przyszłej załogi rejonu umocnionego.</p>
+        <p xml:id="p-3">Prace przerwano w 1937 r. Hitler doszedł bowiem do wniosku, że w razie ataku na Niemcy armie polskie wybiorą kierunek na Dolny Śląsk. Ale już po kilku miesiącach na wschodniej granicy Niemiec ponownie pojawili się robotnicy Organizacji Todt. Ekipy budowlane zabezpieczały wydrążone tunele i umacniały bunkry. Prace prowadzono również po wybuchu wojny. Według zachowanej dokumentacji, w 1944 r. podziemne korytarze liczyły ponad 32 km długości. Ukryte magazyny, zbrojownie i koszary zajmowały około 8 hektarów. Pod ziemią kursowała kolejka wąskotorowa. Składy towarowe i pasażerskie zatrzymywały się na 22 dworcach. System komunikacji uzupełniały windy, które zjeżdżały na głębokość 26 m.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

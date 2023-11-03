@@ -1,0 +1,23 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">sp1: no tylko że tak się właśnie wycofują że tam</p>
+        <p xml:id="p-2">sp0: że po drodze zajmują kolejne miasta</p>
+        <p xml:id="p-3">sp1: po drodzę wszystko palą chałupy gwałcą baby stary bo dzisiaj to czytałem w internecie</p>
+        <p xml:id="p-4">sp0: tak ?</p>
+        <p xml:id="p-5">sp1: no stary Bolszewicy tak zawsze mieli stary że jak się cofali to wszystko za nimi paliło się i potem następne pokolenie rosyjsko – grouzińskie stary gwałcą baby człowieku proszę cię horror</p>
+        <p xml:id="p-6">sp0: ja to się kurcze w ogóle właśnie bałem się kurcze wcześniej tego jeszcze nasz wspaniały prezydent prawda pojechał wygłosił przemówienie bojowe gdzie Polska tyle może zrobić co wiesz ty</p>
+        <p xml:id="p-7">sp1: dla mnie to jest w ogóle paranoja że kurcze że premier nie ma ustalonej linii politycznej z prezydentem stary tylko ten mówi coś innego a ten drugi mówi coś zupełnie odwrotnego</p>
+        <p xml:id="p-8">sp0: no niestety nie wiem czy zauważyłem ale w ogóle wiesz prezydent prawda który powinien być mimo wszystko jeżeli się wywodzi z Pis-u jakby nie było ale kiedy zostaje prezydentem powinien mieć w dupie Pis Platformę SLD i te inne tylko powinien myśleć interesem wszystkich Polaków jest prezydentem tak nie jest prezydentem Pis-u tylko jest prezydentem wszystkich Polaków czyli no tak samo Ligii Polskich Rodzin</p>
+        <p xml:id="p-9">sp1: czyli jest wszechpolakiem</p>
+        <p xml:id="p-10">sp0: wszechpolakiem jest w związku z czym no nie wiem sory a on kurcze zachowuje się jak kurcze jakiś rozkapryszony bachor</p>
+        <p xml:id="p-11">sp1: już niedługo</p>
+        <p xml:id="p-12">sp0: a tutaj jest brat został no kurcze że tak powiem zdetronizowany prawda sejm się rozwiązał i teraz kurcze mamy nowy rząd którego niestety on interes swojej partii macierzystej kładzie kurcze ponad interes kraju no sory no aż się dziwię że jednym głosem bo jeszcze tylko żeby się tu sprzeczali. ale już niedługo na szczęście naczy już jeszcze tylko dwa lata no</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

@@ -1,0 +1,14 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Z górki i Daniel Pawlak mknie do mety po zwycięstwo</p>
+        <p xml:id="p-2">Pewne novum stanowiło także nagrodzenie statuetkami wyróżniających się w ubiegłym roku sportowców z naszego terenu. Zwieńczeniem uroczystości otwarcia był przemarsz ekip biorących udział w zawodach. Defiladę sportowców zamykała drużyna gospodarzy - Ostrzeszowa, zaś na samym końcu przygrywając wszystkim, maszerowała Powiatowa Orkiestra Dęta, po raz pierwszy prezentując się w nowych, elegancko skrojonych, granatowych uniformach.</p>
+        <p xml:id="p-3">Kwadrans przed 12.00 rozpoczęły się sportowe zmagania. Już pierwsze biegi stanowiły spore organizacyjne wyzwanie, gdyż startowało w nich blisko 200 uczestników. Zarówno te biegi z udziałem dzieci ze szkół podstawowych, jak też kolejne, potwierdziły sprawność ekip obsługujących metę, ale pozwoliły również zauważyć mankamenty. Jednym z nich była zbyt mała odległość między metą a ustawionym z barierek tunelem, w który wchodzili kończący bieg zawodnicy. Bywało, że niektórzy nie mieli okazji dobiec do mety, gdyż już przed linią trzeba było ustawiać szpaler. Wydaje się też, że finisz biegu mógł być nieco bliżej trybuny, zaś gdyby podium stało w innym miejscu, zapewne ozdabiające podest reklamy nie przysłaniałyby fragmentu rywalizacji na ostatniej prostej. Ale i tak ze zbudowanej na tę okoliczność trybuny można było zobaczyć spory kawałek tras, które na piaszczystych, crossowych terenach tworzyły barwne, pulsujące ruchem serpentyny. Kto miał lepszy wzrok, mógł nawet obserwować, jak biegacze zmagają się z podbiegiem pod górkę, usypaną z myślą o crossie. Zaś na wprost miało się jak na dłoni linię startu, z której co kilka minut grupy młodzieży szeroką ławą wyruszały w bój.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

@@ -1,0 +1,16 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Smoligów – wieś w Polsce położona w województwie lubelskim, w powiecie hrubieszowskim, w gminie Mircze.</p>
+        <p xml:id="p-2">Położenie geograficzne</p>
+        <p xml:id="p-3">Doliny Wisły i Bugu określają ogólne położenie dużego obszaru geograficznego zwanego Wyżyną Lubelską. Wschodnia część tej wyżyny stanowi przejście do Wyżyny Wołyńskiej, a pewne jej jednostki znajdują przedłużenie za Bugiem (tzw. Padół Zamojski i Grzęda Sokalska). Położenie Grzędy Sokalskiej wyznaczają następujące mniejsze regiony wchodzące w skład Wyżyny Lubelskiej: Kotlina Hrubieszowska – od północy, Równina Bełska – od południa, Roztocze Środkowe – od zachodu. Wschodnia część Grzędy Sokalskiej graniczy z dużą krainą geograficzną, zwaną Wyżyną Wołyńską (poza granicami kraju). Wieś Smoligów usytuowana jest w środkowej części Grzędy Sokalskiej nad rzeką Bukowa – lewym dopływem rzeki Bug. Administracyjnie wieś leży na południowo-wschodnim skraju gminy Mircze.</p>
+        <p xml:id="p-4">Pochodzenie nazwy</p>
+        <p xml:id="p-5">Nazwa Smoligów wywodzi się prawdopodobnie od rosyjskiego imienia Smolig utworzonego z rdzenia smoł- (śr. Смольта, Смолько itp.) oraz przyrostka -ig (z rosyjskiego smoła oznacza żywicę, smołę ale też natręta, osobę natrętną). Imię to pojawia się w tekstach z drugiej połowy XII w. we fragmencie: "Отъ Смолига къ Грецинови и к Мирославоу"(od Smoliga Grecynowi i Mirosławu) Minorowa W. G., Janin W. Ł., Zalizniak A. A., Берестяные грамоты № 24-32 из Старой Руссы, 2004, str. 404-405 oraz w pskowskiej kronice z lat 1266-1267 (Пск. лет., 2: 17, 84): "...убиенъ бысть Онтонъ, единъ псковитинъ, сынъ Лочковъ, братъ Смолиговъ ". Staropolska antroponimia podaje formę Smoligowski od imion: Smolik, Smolęga, Smolisz.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

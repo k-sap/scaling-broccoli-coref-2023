@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">"W stuletnią rocznicę ustanowienia Komisyji Edukacji Narodowej" ukazała się praca pt. Zasady wychowania i nauki: wskazówki pedagogiczne i dydaktyczne osobliwie dla szkół wyższych Stanisława Sobieskiego. Książkę wydano w 1873 r. nakładem Fundacji ś.p. dra. Jana Towarnickiego z Drukarni Zakładu Narodowego Imienia Ossolińskich. Zaś w 150 rocznicę powstania Komisji Edukacji Narodowej ukazały się nakładem Księgarni Naukowej Polskiego Towarzystwa Pedagogicznego w 1923 roku Powinności nauczyciela napisane przez Grzegorza Piramowicza, ze wstępem prof. Władysława Kucharskiego. Wystawiony egzemplarz posiada znak własności: pieczątkę doktora Stefana Pollo, który był sędzią powiatowym. Bardzo ciekawą pozycją jest Szkolnictwo ludowe w Galicji: w swym rozwoju liczebnym od roku 1868 do roku 1909 z uwzględnieniem stosunków hygienicznych zestawione przez Bolesława Adama Baranowskiego i wydane w 1910 nakładem Wydawnictwa "Rodziny i Szkoły". Jest to przedruk z obszernego artykułu z czasopisma "Rodzina i Szkoła". Ciekawostką jest wydrukowana na stronie tytułowej cena książki - 1 korona. Z Księgarni Pedagogicznej we Lwowie zaprezentowano pracę pt. Nauczanie żywe a podręcznik szkolny H. Łopińskiego, R. Spineter i Z. Mysłakowskiego, wydaną w 1936 r. jako pierwszy tom w serii Lwowska Biblioteka Wychowawczo-Dydaktyczna. Praca pt. Nowe kierunki i dążenia współczesnej katolickiej pedagogiki: na tle obrazu chaosu we współczesnym wychowaniu doktora Jana Kuchty wydana w 1939 roku ukazała się jako 1 tom Lwowskiej Biblioteczki Pedagogicznej i prawdopodobnie niestety ostatni. Interesującą książkę wydała Księgarnia Naukowa. Otóż jest to praca profesora Uniwersytetu w Kazaniu Konstantego W. Charłampowicza pt. Polski wpływ na szkolnictwo ruskie w XVI i XVII st. przetłumaczona z niedrukowanego oryginału rosyjskiego i wstępem opatrzona przez inspektora szkolnego we Lwowie Alojzego Wanczura.</p>
+        <p xml:id="p-2">Towarzystwo Pedologiczne wydało w 1913 r. pracę Alfreda Bineta i Thomasa Simona pt. Pomiary rozwoju inteligencji dzieci, a Polskie Towarzystwo Pedagogiczne reprezentowała na wystawie Myśl o wychowaniu narodowym dr Ireny Pannenkowej, wydana w 1918 roku.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

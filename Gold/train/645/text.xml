@@ -1,0 +1,20 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Głównymi tematami konwentu były problemy edukacji ponadgimnazjalnej, regionalnej i ekologicznej w odniesieniu do zadań powiatu. Ponadto omawiano zagadnienie współpracy powiatów województwa w zakresie promocji. Na temat reformy szkolnictwa ponadgimnazjalnego z uwzględnieniem kształcenia zawodowego obszernie wypowiadał się Jarosław Śliwa, reprezentujący Kuratorium Oświaty w Gdańsku.</p>
+        <p xml:id="p-2">Uczestnicy spotkania pytali m.in. o sposób podziału brakujących na oświatę środków, a także o możliwości wsparcia projektu, dotyczącego doradztwa metodycznego w powiecie kartuskim.</p>
+        <p xml:id="p-3">W programie Konwentu znalazły się również referaty, dotyczące motywowania pracowników poprzez dodatkowe świadczenia emerytalne, referaty związane z edukacją ekologiczną w powiązaniu z rozwojem regionu. Poruszony został temat edukacji regionalnej, kultury i sztuki ludowej Pomorza, a wreszcie aspekt szans i zagrożeń turystycznej promocji.</p>
+        <p xml:id="p-4">W pierwszym dniu obrad minister oświaty, Edmund Wittbrodt, opowiadał o obecnej sytuacji w oświacie.</p>
+        <p xml:id="p-5">Fot. Artur Socha</p>
+        <p xml:id="p-6">Apel starostów</p>
+        <p xml:id="p-7">Efektem konwentu było przygotowanie pism, wyrażających stanowiska starostów i prezydentów, dotyczące braku płynności finansowej Funduszu Pracy i zaniżonych planów wydatków budżetowych na utrzymanie Powiatowych Urzędów Pracy oraz przeznaczonych na składki na ubezpieczenie zdrowotne osób bezrobotnych bez prawa do zasiłku. Pierwsze pismo przesłane zostanie do Krajowego Urzędu Pracy, drugie do Ministra Finansów.</p>
+        <p xml:id="p-8">Janina Kwiecień starosta kartuski</p>
+        <p xml:id="p-9">- Wizyta ministra niewątpliwie podniosła rangę konwentu. Lepiej jest, gdy się mówi wprost, czego możemy się spodziewać. Jak widać, musimy sobie poradzić z tą trudną sytuacją. Nie trzeba nikogo przekonywać, że jest to ogromne obciążenie zarówno dla urzędów gminnych, jak i powiatowych.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

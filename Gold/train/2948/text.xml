@@ -1,0 +1,37 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Ta odprawa to sporo pieniędzy, ale na życie, a nie żeby samochód kupować...</p>
+        <p xml:id="p-2">LUCJAN</p>
+        <p xml:id="p-3">Może to dobrze, że ma inicjatywę.</p>
+        <p xml:id="p-4">JANINA</p>
+        <p xml:id="p-5">A ja czuję, że nic z tego nie będzie. I skończy się tak, że ani pieniędzy, ani pracy.</p>
+        <p xml:id="p-6">PAUZA</p>
+        <p xml:id="p-7">Pan wie, co on mi powiedział, jak go zapytałam, kiedy się zgłosi do pośredniaka? Że go to nie interesuje. Opowiada, że ma dobry zawód, dwie ręce i na pewno sobie poradzi. Znajomi mu pomogą. Panie Lucjanie ja już trochę żyję na tym świecie i wiem jak to znajomi pomagają.</p>
+        <p xml:id="p-8">Scena</p>
+        <p xml:id="p-9">PLENER. DZIEŃ. ULICA. MIREK, MACIEK.</p>
+        <p xml:id="p-10">Maciek idzie z Maćkiem. Maciek ma tornister i worek. Najwyraźniej Mirek odprowadza syna do szkoły.</p>
+        <p xml:id="p-11">MACIEK</p>
+        <p xml:id="p-12">To co ty będziesz teraz robił, tato?</p>
+        <p xml:id="p-13">MIREK</p>
+        <p xml:id="p-14">Tak dokładnie to jeszcze nie wiem. Ale wreszcie zacznę zarabiać pieniądze.</p>
+        <p xml:id="p-15">MACIEK</p>
+        <p xml:id="p-16">Przecież zarabiałeś pieniądze.</p>
+        <p xml:id="p-17">MIREK</p>
+        <p xml:id="p-18">To była zapomoga, a nie pieniądze.</p>
+        <p xml:id="p-19">MACIEK</p>
+        <p xml:id="p-20">Ale gdzie będziesz pracował?</p>
+        <p xml:id="p-21">MIREK</p>
+        <p xml:id="p-22">U siebie. Zamierzam otworzyć swój interes. Może jakąś małą drukarnię. Wreszcie będę mógł pokazać na co mnie stać. A drukarnie mają przyszłość.</p>
+        <p xml:id="p-23">MACIEK</p>
+        <p xml:id="p-24">Babcia Ø mówi co innego. Że powinieneś iść do pośredniaka.</p>
+        <p xml:id="p-25">MIREK</p>
+        <p xml:id="p-26">Synku, Ø babcia jest z zupełnie innej epoki. Ona nie rozumie, że teraz liczy się tylko przedsiębiorczość. Nikt nikomu nic na tacy nie podaje. Trzeba walczyć o swoje.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

@@ -1,0 +1,14 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Karta Nauczyciela, forsowana w Sejmie z gromkimi zapewnieniami resortu, że jest to oczekiwana od dawna gwarancja godziwego wynagradzania pedagogów, okazała się wekslem bez pokrycia. Zdaniem samorządowców zapowiadane przez rząd zaliczki, nawet po uzupełnieniu ich dopłatami z lokalnej kasy, nie zaspokoją wszystkich potrzeb. Andrzej Porawski, działacz samorządowy i sekretarz Komisji Wspólnej Rządu i Samorządu Terytorialnego, zapowiada, że niektóre gminy będą dochodzić należnych im pieniędzy przed sądem. Szykuje się też zaskarżenie budżetu do Trybunału Konstytucyjnego.</p>
+        <p xml:id="p-2">Związek Powiatów Polskich zaproponował, aby to rząd wziął pożyczkę na regulację zobowiązań, jakie zaciągnął wobec nauczycieli. Ci ostatni zaś obawiają się, że naprawianie błędu byłego ministra pociągnie za sobą kolejną nowelizację Karty, niekorzystną dla środowiska (dzięki błędowi zamiast średnio 200 zł podwyżki na etat wyszło 300 zł).</p>
+        <p xml:id="p-3">Frustracja wśród nauczycieli, którzy od roku realizują nowe obowiązki w zreformowanej szkole za stare pieniądze, koresponduje ze złymi nastrojami i nieprzychylną oceną reformy przez rodziców. Z raportu "Diagnoza społeczna 2000" (POLITYKA 34) wynika, że nowy system szkolny w porównaniu ze starym otrzymał więcej ocen negatywnych. Nieprzychylne opinie pochodziły najczęściej ze wsi od rodzin rolników albo utrzymujących się z tzw. niezarobkowych źródeł (pomoc społeczna, zasiłki dla bezrobotnych), rodzin niepełnych i wielodzietnych. Im więcej dzieci w rodzinie, tym częściej wyrażano niezadowolenie, ponieważ rosnące koszty (konstytucyjnie bezpłatnej) nauki pomnożone przez 3 lub 4 urastają do sporych sum. Ok. 22 proc. gospodarstw domowych zrezygnowało w ubiegłym roku z posyłania dzieci na zajęcia dodatkowe (głównie języki obce), a ok. 17 proc. - z korepetycji. Największym obciążeniem dla budżetów rodzinnych stały się nowe podręczniki (przeciętnie 256 zł), czesne (194 zł) oraz dojazdy do szkół (przeciętnie 112 zł, ale w rodzinach chłopskich nawet dwa razy tyle). Wydłużyła się droga dzieci do szkół i to także budzi powszechne niezadowolenie.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

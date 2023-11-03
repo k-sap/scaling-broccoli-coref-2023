@@ -1,0 +1,17 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Rozgrywany był również zespołowy turniej, w którym startowało po pięciu zawodników z każdego zespołu. I w tej konkurencji najlepsi okazali się sądeczanie, których reprezentowali: Leśniak, Maciuszek, Rosiński, Nowak i Prusak. Indywidualnie zdecydowanie triumfował Paweł Leśniak, który futbolówkę podbił aż 307 razy!</p>
+        <p xml:id="p-2">Oto skład UKS Lider : Paweł Leśniak, Mateusz Prusak, Michał Rosiński, Michał Rogoziński, Rafał Krzyżak, Konrad Maciuszek, Łukasz Gancarczyk, Arkadiusz Michalik, Damian Zając, Piotr Filipowicz, Sebastian Nowak, Jakub Filip, Mateusz Szabla, Grzegorz Gieniec. Trenerem zespołu jest Janusz Pawlik, zaś kierownikiem drużyny Leszek Leśniak. Kierownictwo klubu pragnie za naszym pośrednictwem podziękować firmie PC "Biegonice" za pomoc finansową.</p>
+        <p xml:id="p-3">Dodajmy, że wywalczenie pierwszego miejsca w Zamościu jest równoznaczne z udziałem Lidera w finale ogólnopolskim turnieju, który rozegrany zostanie w Kaliszu w dniach 25-27 bm.</p>
+        <p xml:id="p-4">Nie gorzej od swych kolegów spisały się dziewczęta z Ptaszkowianki, które wygrały wszystkie swoje spotkania i zdecydowanie wygrały w turnieju. Oto uzyskane przez nie rezultaty: z Krakowem 2-1, z Jasłem 7-0 i z Podborzem Rzeszów 1-0.</p>
+        <p xml:id="p-5">Również wszystkie indywidualne wyróżnienia przypadły w udziale dziewczętom z Ptaszkowej. Oto one: najlepsza zawodniczka: Paulina Gromala, królowa strzelczyń: Paulina Szczecina, najlepsza żonglerka: Paulina Szczecina - 57 podbić piłki, zwycięska drużyna w żonglerce: Ptaszkowianka.</p>
+        <p xml:id="p-6">Oto zestawienie drużyny z Ptaszkowej: Paulina Szczecina, Paulina Gromala, Małgorzata Górska, Katarzyna Bagnicka, Beata Maślanka, Barbara Maślanka, Małgorzata Kogut, Kinga Kruczek, Ewelina Florek, Jadwiga Kruczek. Trenerem zespołu jest Jan Janus, kierownikiem drużyny Stanisław Szczecina.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

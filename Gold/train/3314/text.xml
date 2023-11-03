@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Po odejściu kolejnych posłów z klubu Samoobrony Andrzej Lepper wpadł w lekką panikę, chociaż zachowuje pozory beztroski. - We wtorek wieczorem byłem w Sejmie na spotkaniu z Wojciechem Mojzesowiczem - opowiada Janusz Malewicz, były współpracownik Leppera, a teraz działacz rolniczego Związku Zawodowego Ojczyzna. - Aż się zdziwiłem, że w sejmowej restauracji taki ruch. Okazało się, że to Lepper wyprawia imieniny. Miał ze dwustu gości. Rano z mównicy grzmiał o biedzie Polaków, a w nocy pewnie wznosił za tych biednych toasty.</p>
+        <p xml:id="p-2">Działacze Ojczyzny namawiali Mojzesowicza do założenia koła związanego z ich organizacją. - Proponowaliśmy nawet nazwę: Obrona Ojczyzny - ujawnia szef związku Leszek Zwierz. Wojciech Mojzesowicz nie dał się jednak przekonać i założył koło pod nazwą Polski Blok Ludowy. W piątek zgłosił marszałkowi Sejmu następujący skład swojej grupy: on jako p.o. szefa koła oraz Dorota Kwaśniewska, Lech Zielonka i Wacław Klukowski. Pozostali dysydenci z Samoobrony - w sumie z tego klubu wystąpiło już 11 posłów - nie zdecydowali się na przystąpienie do inicjatywy Mojzesowicza. - Namawiano mnie, ale odmówiłem - przyznaje Zbigniew Nowak, który zaraz po wyborach jako pierwszy porzucił Leppera. - Drażniła mnie nazwa, jaką wtedy proponowali: Blok Ludowo-Narodowy, bo za bardzo kojarzy się z tradycjami endeckimi. Poza tym do Mojzesowicza lgną ludzie, którzy są eurosceptykami, a ja jestem całym sercem za wstąpieniem do Unii.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

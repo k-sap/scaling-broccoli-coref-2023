@@ -1,0 +1,14 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">#PoselRyszardStanibula: Panie Posłanki i Panowie Posłowie! Po zapoznaniu się z projektem ustawy o powszechnym ubezpieczeniu zdrowotnym (druk nr 1192) stwierdzam, że wnosi on w stosunku do obecnej sytuacji istotne propozycje zmian w systemie opieki zdrowotnej. Nie jestem przekonany, czy na etapie obecnych reform gospodarczych, jakich doświadcza nasze społeczeństwo, stać nas już na pełną liberalną, wolnorynkową reformę ubezpieczeń zdrowotnych. Pragnę nadmienić, że w moim odczuciu projekt ten wprowadza nowy sposób finansowania świadczeń zdrowotnych i odmienny sposób zarządzania środkami przeznaczonymi na opiekę zdrowotną. Niewątpliwy jest fakt, iż w takim właśnie kierunku idą państwa kapitalistyczne, wysoko rozwinięte, ale mam wątpliwości, czy stać jest już na to przeciętnego naszego obywatela. Uważam, że zadania wykonywane przez państwo trzeba przenosić na organizacje samorządowe i obywateli, ale wolniej, dostosowując się do obecnych warunków społeczno-gospodarczych.</p>
+        <p xml:id="p-2">#PoselRyszardStanibula: Projekt ten nasuwa jednak bardzo wiele wątpliwości. Przede wszystkim projekt ustawy z góry zakłada, że kasy chorych będą działać na obszarze regionu, czyli zgodnie z przewidywanymi zmianami terytorialnymi. Podział ten jest dopiero w fazie projektów i los jego nie jest przesądzony. Ponadto tworzenie terytorialnych kas chorych nasuwa pytanie, czy nie będzie to tworzenie nowej, obok rządowej, administracji, która wymagać będzie ponoszenia wysokich kosztów utrzymania. Należy się zastanowić, czy nie prościej i nie taniej byłoby wykorzystać na podobnych jak w projekcie zasadach istniejące już rządowe struktury administracyjne.</p>
+        <p xml:id="p-3">#PoselRyszardStanibula: Kolejną niepokojącą sprawą jest wybór świadczeniobiorców mający na celu wytworzenie konkurencji, a tym samym obniżenie kosztów działania kas chorych. Nie jest bowiem możliwe szybkie powstanie na danym terenie nowych szpitali, a korzystanie z innych, leżących na terenie działania innych kas chorych, będzie utrudnione. Natomiast obniżenie kosztów poprzez poszukiwanie tańszych, bardziej konkurencyjnych świadczeniodawców może odbić się na jakości opieki zdrowotnej.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

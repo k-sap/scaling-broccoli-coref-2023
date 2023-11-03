@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Najwięcej listów nadchodziło z frontu wschodniego. Nic dziwnego: na wschodzie walczono nie tylko najdłużej, ale także najzacieklej, tutaj wojna była najbardziej brutalna. Pisane pod Moskwą czy Stalingradem listy są dla nas nieocenionym źródłem informacji o ówczesnych postawach, sposobie myślenia, mentalności, skuteczności (i nieskuteczności) propagandy. Źródłem tym lepszym, że kontrolowanym tylko w znikomym stopniu: do dokładnego sprawdzenia 25 mln nadawanych codziennie listów potrzebna byłaby 150-tysięczna armia cenzorów.</p>
+        <p xml:id="p-2">W rezultacie kontrola była wybiórcza i stosunkowo dużo defetystycznych, "naruszających dyscyplinę" czy wręcz "szpiegowskich" informacji bez problemu płynęło do Heimatu i odwrotnie - na front. Między innymi na takie listy liczył wywiad ZWZ (a potem AK), od 1941 r. przechwytujący wędrującą przez Polskę pocztę. Dzięki sieci agentów w urzędach pocztowych przejmowano listy, fotografowano, po czym przesyłano adresatom z możliwie jak najmniejszym opóźnieniem, aby uniknąć wykrycia całego procederu. Kopie Ø trafiały do konspiracyjnych analityków, wyciskających z listów najcenniejsze informacje militarne i przygotowujących raporty. Wysyłane do Londynu, trafiały ponoć także na biurko Winstona Churchilla.</p>
+        <p xml:id="p-3">Przechwycona poczta pomagała też dokumentować zbrodnie wojenne. W tym samym celu w warszawskich i krakowskich zakładach fotograficznych robiono kopie zdjęć rozstrzeliwań, paleń, egzekucji, które urlopowani żołnierze zostawiali do wywołania.</p>
+        <p xml:id="p-4">Kilka teczek z opracowanymi przez akowski wywiad wyciągami z niemieckiej poczty polowej z lat 1941-1944 zachowało się w warszawskim Archiwum Akt Nowych. Poniżej prezentujemy próbkę z 1942 r. Był to rok brzemienny w wydarzenia: czas zagłady Żydów, nasilenia się ruchu oporu i partyzantki, dla niemieckich żołnierzy zaś - rodzącej się świadomości początku końca.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

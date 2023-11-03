@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">W styczniu 2005 roku nie wykluczano, że jeszcze w tym właśnie roku powstanie nowy dworzec autobusowy. Wizualna strona tego zadania miała być zwieńczona estetyką XXI wieku. Władze miasta miały zarezerwowany teren pod budowę oraz pieniądze w budżecie. W miejscu do dziś tam usytuowanego dworca miał powstać parking. Nie wiemy, jak zakończyły się negocjacje z przedstawicielami PKS-u, ale mamy rok 2007, dworzec jest tam, gdzie był, estetyki XXI wieku nie widać i nadal są kłopoty komunikacyjne oraz brak bezpieczeństwa w tym miejscu. Parking władze miasta postanowiły wybudować przy ul. Sikorskiego, a o przeniesieniu dworca przestało się mówić. Dużo lepszym miejscem na usytuowanie parkingu jest właśnie miejsce dworca autobusowego.</p>
+        <p xml:id="p-2">Projektowany parking przy ul. Sikorskiego ma pomieścić ok. 65 samochodów. Ciekawi mnie jednak, jak będzie rozwiązany ruch drogowy przy tym parkingu. Jeżeli organizacja ruchu w tym miejscu nie zostanie zmieniona i pozostaną takie rozwiązania jak do tej pory, to może się okazać, że niekiedy trudno będzie się poruszać po okolicznych uliczkach. Już teraz przejazd ul. Farną jest utrudniony przez parkujące na całym jej ciągu samochody. Gdyby to jeszcze były małe osobowe to pół biedy, ale stoją i zaopatrzeniowe, które swą szerokością blokują więcej niż połowę jezdni. Ta wolna przestrzeń, jaka pozostaje, najczęściej zajmowana jest przez maszerującą watahami młodzież do, i ze szkoły. Nie ma się co dziwić, bo to najbliższa droga do dworca autobusowego, a prawdę mówiąc, chodników przy niej brak. Młodzi zaś lubią chodzić gromadnie. Pamiętać należy i o tym, że bywają też sytuacje, kiedy z kościoła wychodzi pogrzeb i wtedy przez kilka minut droga ta jest całkowicie zablokowana. Kilkadziesiąt metrów dalej jest kolejny parking, który również mieści ponad 60 samochodów i wszystkie te samochody opuścić parkingi muszą ul. Kolejową, na której również stale parkują samochody. Może więc się okazać, że z nadmiaru limuzyn będą trudności w płynnym poruszaniu się tą ulicą.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

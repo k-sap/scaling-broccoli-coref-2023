@@ -1,0 +1,21 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">sp0: a ile razy. w tygodniu ?</p>
+        <p xml:id="p-2">sp1: dwa razy. po półtorej godziny. ale już pewne element są no już tam wiesz takie postawy. ukłony to wszystko takie bardziej baletowe..</p>
+        <p xml:id="p-3">sp0: ć ćwiczy w domu ?</p>
+        <p xml:id="p-4">sp1: słuchaj wiesz jaki szpagat robi ? nie taki tylko taki. po proszę pana po. dwóch miesiącach..</p>
+        <p xml:id="p-5">sp0: ale dzieci są miękkie jeszcze mają te stawki takie..</p>
+        <p xml:id="p-6">sp1: wiesz co no. tak jest to na pewno szybciej niż u dorosłych się takie rzeczy. uzyskuje ale jednak podoba mi się wiesz ? podoba mi się tak patrzę na te starsze dziewczynki to maja takie wiesz postawy piękne tylko że. wiesz ja to się boję jednej rzeczy że to znaczy bo to na pewno nie jest taki. y taki wysiłek jak powiedzmy w szkole baletowej gdzie tam codziennie wiesz kilka godzin te dzieciaki ćwiczą. bo to podobno się wiąże. z jakimiś y konsekwencjami na. wiesz y. na kręgosłup na w ogóle te takie rzeczy że nie każdy w ogóle się nadaje. nie każdego y. kręgosłup to wytrzyma na przykład..</p>
+        <p xml:id="p-7">sp0: kościec ?</p>
+        <p xml:id="p-8">sp1: kościec. i dlatego wiesz ja się trochę tak zastanawiałam ale myślę że w takiej. takie dwa razy w tygodniu to raczej tylko przyniesie korzyści niż jakieś tam zmiany nie ?</p>
+        <p xml:id="p-9">sp0: nie no na pewno tam amatorsko nie zawodowo więc. ale mówisz że ma radochę..</p>
+        <p xml:id="p-10">sp1: ma radochę no ma. baletki body.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

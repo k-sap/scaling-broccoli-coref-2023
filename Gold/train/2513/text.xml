@@ -1,0 +1,14 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Sporego zawodu doznali kibice, którzy przyszli na inaugurację nowego sezonu na stadionie Odry Opole. W pierwszym meczu drugiej rundy Pucharu Ligi podopieczni Mariana Kurowskiego przegrali z Hutnikiem Kraków 0:1 (0:1).</p>
+        <p xml:id="p-2">Już w 1 min groźnie główkował Józef Żymańczyk, Rafał Skórski obił piłkę przed siebie, ale w pobliżu nie była żadnego piłkarza Odry. Chwilę później, po rzucie wolnym Zbigniewa Czajkowskiego, Tomasz Copik zmarnował kapitalną okazję, a Marcin Lachowski trafił w boczną siatkę. Jednak najlepszą sytuację zaprzepaścił w 10 min Mariana Kucharski. Czajkowski zagrał do Copika, ten oddał piłkę do wychodzącego na wolne pole Kucharskiego, który znalazł się sam na sam z bramkarzem Hutnika. Zamiast przerzucić piłkę nad leżącym już golkiperem krakowian, opolski pomocnik strzelił po ziemi, trafiając w Skórskiego. Po chwili sprawdziło się znane piłkarskie powiedzenie o niewykorzystanych sytuacjach... Hutnik egzekwował rzut wolny, piłkę otrzymał Piotr Powroźnik i mimo asysty dwóch opolan przelobował Roberta Kitowicza. Odra próbowała odmienić losy meczu, ale czyniła to bardzo chaotycznie. Jeszcze 79 min po dośrodkowaniu Cieśli główkował Żymańczyk, ale piłka minimalnie minęła słupek. Chwilę później Cieśla w dogodnej sytuacji trafił w obrońcę Hutnika.</p>
+        <p xml:id="p-3">12 min. Powroźnik – 0:1. Sędziował: Mariusz Podgórski (Wrocław). Widzów: 1.500. Żółte kartki: Jagieniak, Copik – Kostera, Powroźnik, Przytuła, Jasiak.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

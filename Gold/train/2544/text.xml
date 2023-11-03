@@ -1,0 +1,17 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">– W Tczewie nie stwierdzono uchybień, natomiast kontrola w jednostce kartuskiej jeszcze się nie zakończyła – tłumaczy Marta Rytwińska z pomorskiej policji. – Limity wynikają głównie z podwyżek cen paliwa i obowiązują wszystkie samochody służbowe. Również te, którymi poruszają się komendanci wojewódzcy.</p>
+        <p xml:id="p-2">Szeregowi policjanci są zbulwersowani całą sprawą. Twierdzą, że opisanie cięć paliwowych zamiast pomóc, znacznie im zaszkodziło.</p>
+        <p xml:id="p-3">– Po tej publikacji zaczęto nas rozliczać z każdego litra paliwa. Za każdym razem musimy pytać zwierzchników o pozwolenia na wyjazd radiowozem, uzasadniając ich celowość – mówi jeden z policjantów, proszący o zachowanie anonimowości. W Kartuzach dochodzi do absurdalnych sytuacji, niektórzy policjanci wykonując polecenia często korzystają z prywatnych samochodów.</p>
+        <p xml:id="p-4">Zwierzchnicy dali im podobno do zrozumienia, że w przypadku kiedy w dalszym ciągu będą w tej sprawie kontaktować się z dziennikarzami, mogą spodziewać się nieprzyjemnych konsekwencji. Aby wyłapać nieposłusznych policjantów, chcą ponoć wprowadzić podsłuchy rozmów telefonicznych, gdyż opisywanie paliwowego problemu przedstawia pomorską policję w złym świetle.</p>
+        <p xml:id="p-5">– Nigdy nie zakazałem policjantom kontaktu z dziennikarzami, jednak do udzielania wszelkich informacji jest upoważniony rzecznik komendy – ripostuje Wiesław Formela, szef kartuskiej policji. – Nie mówiłem też o podsłuchach na aparaty, gdyż każdy z funkcjonariuszy może mieć prywatny telefon komórkowy.</p>
+        <p xml:id="p-6">Mundurowi twierdzą, że teraz sto litrów paliwa przy służbie trzyzmianowej wystarcza jedynie na 5-6 dni. Przy tak niskich limitach policjanci zmuszeni są prosić samorządy o kolejne wsparcie.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

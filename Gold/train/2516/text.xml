@@ -1,0 +1,20 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">ELBLĄG. Szkolne ławki świecą pustkami</p>
+        <p xml:id="p-2">Wirusy atakują</p>
+        <p xml:id="p-3">Wniektórych szkołach na lekcjach pojawia się średnio 10 do 12 uczniów. Dzieci chorują.</p>
+        <p xml:id="p-4">— Rzeczywiście, mamy bardzo dużo chorych w ciągu ostatnich dni w klasach jest od 5 do 17 osób — mówi Anna Brejdak, wicedyrektor SP nr 1 w Elblągu. — Dzieci zapadają na infekcje wirusowe. Na szczęście z tego, co wiem, to nie grypa. Jedne przychodzą do szkoły, a na „chorobowym” zastępują je inne.</p>
+        <p xml:id="p-5">To nie jedyna szkoła, gdzie daje się zauważyć puste ławki.</p>
+        <p xml:id="p-6">— Nie jest tak źle, żebyśmy musieli proponować ewentualne zawieszenie zajęć, ale trochę dzieci choruje — przyznaje Wioletta Janas, wicedyrektor Gimnazjum nr 5 w Elblągu. — O ile wiem, trapią je głównie infekcje górnych dróg oddechowych.</p>
+        <p xml:id="p-7">Narzekają też licealiści. — Ostatnio na lekcjach nie było 15 osób — mówi uczennica V Liceum Ogólnokształcącego w Elblągu. — Chorzy jesteśmy nie tylko my, ale i nauczyciele. Wygląda na to, że wszyscy zarażają siebie nawzajem.</p>
+        <p xml:id="p-8">Z pytaniem o to, co za tajemnicze infekcje dziesiątkują uczniów zwróciliśmy się do elbląskiego sanepidu.</p>
+        <p xml:id="p-9">— Zgłoszeń o podejrzeniach grypy mamy 11. Niedawno były tylko 3 — wylicza Henryka Traczyk, szefowa elbląskiego Sanepidu. — A zatem choć tych zgłoszeń jest więcej nie ma co mówić o epidemii. Za to dotychczas dostaliśmy już 166 zgłoszeń o zachorowaniach na ospę. Być może zwykłe przeziębienia, o których nie mamy zgłoszeń, są powodem zwiększonych nieobecności w szkołach.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

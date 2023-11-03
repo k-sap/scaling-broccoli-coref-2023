@@ -1,0 +1,53 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">ROBERT</p>
+        <p xml:id="p-2">Nie.</p>
+        <p xml:id="p-3">MARTA patrzy na niego pytająco.</p>
+        <p xml:id="p-4">ROBERT</p>
+        <p xml:id="p-5">Nie ma żadnego "ale".</p>
+        <p xml:id="p-6">MARTA uśmiecha się po chwili.</p>
+        <p xml:id="p-7">MARTA</p>
+        <p xml:id="p-8">Chodziło mi...</p>
+        <p xml:id="p-9">ROBERT pochyla się i całuje ją mocno. MARTA po chwili oddaje pocałunek.</p>
+        <p xml:id="p-10">ROBERT</p>
+        <p xml:id="p-11">Kochanie, my już mamy za sobą wszystkie pożary. Za to przed sobą mamy konkretny cel: potomek Orkiszów.</p>
+        <p xml:id="p-12">MARTA uśmiecha się.</p>
+        <p xml:id="p-13">7. PRZED DOMEM MARTY I ROBERTA. PL. DZIEŃ.</p>
+        <p xml:id="p-14">ESTABLISHING nowego domu MARTY i ROBERTA. MARTA i ROBERT wychodzą pośpiesznie z domu. Idą do samochodów.</p>
+        <p xml:id="p-15">ROBERT</p>
+        <p xml:id="p-16">Umówisz się ze mną na lunch?</p>
+        <p xml:id="p-17">MARTA</p>
+        <p xml:id="p-18">(uśmiecha się)</p>
+        <p xml:id="p-19">Ja się umówię. Tylko czy ty się wyrwiesz z pracy?</p>
+        <p xml:id="p-20">ROBERT zatrzymuje się przy samochodzie.</p>
+        <p xml:id="p-21">ROBERT</p>
+        <p xml:id="p-22">(uśmiecha się)</p>
+        <p xml:id="p-23">Kochanie... To tylko praca. Zawsze mogę się wyrwać. Zwłaszcza dla ciebie.</p>
+        <p xml:id="p-24">MARTA</p>
+        <p xml:id="p-25">Podoba mi się ten nowy Robert.</p>
+        <p xml:id="p-26">ROBERT</p>
+        <p xml:id="p-27">Nowy?</p>
+        <p xml:id="p-28">MARTA</p>
+        <p xml:id="p-29">(uśmiecha się)</p>
+        <p xml:id="p-30">Nowy... Ale w starym, dobrym stylu.</p>
+        <p xml:id="p-31">ROBERT</p>
+        <p xml:id="p-32">Czyli to kwestia stylu?</p>
+        <p xml:id="p-33">MARTA</p>
+        <p xml:id="p-34">Z niewielkim udziałem bezwzględnej szczerości, która sobie obiecaliśmy wprowadzając się do tego domu.</p>
+        <p xml:id="p-35">Oboje patrzą na dom. Potem na siebie. ROBERT obejmuje ją, całuje.</p>
+        <p xml:id="p-36">ROBERT</p>
+        <p xml:id="p-37">(szepcze jej do ucha)</p>
+        <p xml:id="p-38">Czuję, że idą naprawdę dobre czasy.</p>
+        <p xml:id="p-39">MARTA</p>
+        <p xml:id="p-40">Obyś się nie mylił.</p>
+        <p xml:id="p-41">CIĘCIE.</p>
+        <p xml:id="p-42">8. GABINET IWONY. WN. DZIEŃ.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

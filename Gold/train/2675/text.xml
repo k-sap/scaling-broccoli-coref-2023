@@ -1,0 +1,26 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Korzystaj ze słońca.</p>
+        <p xml:id="p-2">Bądź aktywny.</p>
+        <p xml:id="p-3">Zapytaj swojego lekarza, czy jesteś narażony na osteoporozę.</p>
+        <p xml:id="p-4">Zrób sobie badanie densytometryczne kości.</p>
+        <p xml:id="p-5">Jak się zbadać</p>
+        <p xml:id="p-6">Najskuteczniejszym badaniem wykrywającym zmiany zachodzące w tkance kostnej jest densytometria. Badanie trwa kilkanaście minut i nie jest dolegliwe dla pacjenta. Pozwala natomiast ocenić indywidualne ryzyko złamań i rozpoznać osteoporozę nawet wtedy, gdy ubytki kości są małe. Do innych stosowanych metod diagnostycznych zalicza się: badanie rentgenowskie, ilościową tomografię komputerową, USG oraz badania biochemiczne.</p>
+        <p xml:id="p-7">Jak się leczyć</p>
+        <p xml:id="p-8">Jeżeli lekarz zdiagnozuje osteoporozę to trzeba się na nią leczyć do końca życia.</p>
+        <p xml:id="p-9">Przede wszystkim trzeba zapobiegać złamaniom, co można osiągnąć przyjmując leki powstrzymujące niszczenie kości oraz leki powodujące tworzenie i uwapnienie kości.</p>
+        <p xml:id="p-10">U kobiet po menopauzie zalecane jest prowadzenie hormonalnej terapii zastępczej.</p>
+        <p xml:id="p-11">Osteoporoza jest uogólnioną metaboliczną chorobą kości, charakteryzującą się niską masą kostną, upośledzoną mikroarchitekturą tkanki kostnej, a w konsekwencji zwiększoną jej łamliwością i podatnością na złamania.</p>
+        <p xml:id="p-12">Po co nam wapń</p>
+        <p xml:id="p-13">Wapń jest pierwiastkiem niezbędnym do prawidłowego funkcjonowania wszystkich komórek i narządów. Jest tzw. pierwiastkiem kostnym, bowiem w kościach znajduje się aż 90 proc. jego całkowitej obecności w organizmie.</p>
+        <p xml:id="p-14">Kiedy maleje ilość wapnia przyjmowanego wraz z pożywieniem, wówczas zaburzeniu ulega jego wchłanianie i w organizmie powstają mechanizmy nasilające uwalnianie wapnia z kości.</p>
+        <p xml:id="p-15">Szczytową masę kostną osiągamy do 30 roku życia, czyli ok. 10 lat po zakończeniu wzrastania. Po około 20 latach wapnia zaczyna nam ubywać i wtedy trzeba sobie pomóc. Wszystko zatem zależy od zapasów wapnia, jakie zgromadziliśmy w młodości.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

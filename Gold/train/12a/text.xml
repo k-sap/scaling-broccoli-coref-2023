@@ -1,0 +1,12 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Mościcka Fundacja Kultury zaprasza wszystkich na program kabaretowy zatytułowany "Nowy rząd, stara bida, jest kiepsko". Gwiazdą spotkania będzie znany aktor Bohdan Smoleń. Bilety na, planowany na 3 sierpnia, wieczór kabaretowy jeszcze do końca lipca można kupić po niższej, promocyjnej cenie. O tym w jakiej formie kabaretowej znajduje się (znany głównie z występów z Zenonem Laskowikiem oraz telewizyjnych programów i komedii) Bohdan Smoleń warto się przekonać osobiście. Listonoszowi z serialu "Świat według Kiepskich" towarzyszyć będą w Tarnowie: Marcin Samolczyk, Józef Romek i Grzegorz Rekliński. Jutro dla naszych Czytelników będziemy mieć kilka zaproszeń na ten kabaret, które rozdamy w telefonicznym konkursie. Bliższe informacje o samym występie kabareciarzy w MFK.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

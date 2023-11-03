@@ -1,0 +1,16 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Zamieszanie na rynku tych ciastek wywołała firma LU Polska. Ta należąca do francuskiego kapitału spółka kupiła w 1999 roku od firmy E. Wedel zakład produkcyjny w Płońsku, produkujący popularne „Delicje”. Wraz z przedsiębiorstwem przejęła także zarejestrowany rok wcześniej w Urzędzie Patentowym przestrzenny znak towarowy w kształcie ciasta z galaretką oraz słowny znak „Delicje”.</p>
+        <p xml:id="p-2">Na rynku było już jednak wtedy kilkanaście firm, które produkowały tego typu ciastka. LU Polska, chcąc mieć na nie wyłączność, pozwała w 2001 roku do sądu producentów ciastek biszkoptowych typu „delicje”. Powołała się przy tym na ustawy o prawie własności przemysłowej i nieuczciwej konkurencji, żądając zakazu produkcji ciastek podobnych do tych, jakie sama wytwarzała. Zażądała również zniszczenia form do produkcji ciastek oraz po 100 tys. zł odszkodowania od każdego z konkurentów.</p>
+        <p xml:id="p-3">W efekcie Sąd Okręgowy w Częstochowie zakazał firmie Delic-Pol z Lindowa używania w obrocie znaku towarowego w postaci okrągłego ciasta. To samo spotkało firmę Tago z Radzymina po wyroku sądu warszawskiego.</p>
+        <p xml:id="p-4">Odwołanie na deser</p>
+        <p xml:id="p-5">Firma Delic-Pol i siedmiu innych producentów ciastek biszkoptowych wystąpiło jednak do Urzędu Patentowego o unieważnienie rejestracji przestrzennego znaku towarowego. Wszyscy twierdzili zgodnie, że kształt ciastka nie może być znakiem towarowym, gdyż nie jest to oznaczenie, które można odróżniać. – Przedstawiciele LU Polska dążyli od samego początku do zmonopolizowania rynku – twierdzi pełnomocnik firmy z Lindowa mec. Grzegorz Kowalczyk. – To tak jakby zakazać komuś pieczenia okrągłego chleba.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

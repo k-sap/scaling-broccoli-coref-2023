@@ -1,0 +1,14 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Borkowo, leżąca nad Wkrą wieś w gminie Nasielsk, była miejscem patriotycznej manifestacji, zorganizowanej 18 sierpnia przez samorządy Nasielska, Pomiechówka, Sochocina, Świercz, Nowego Miasta i Jońca w 87. rocznicę bitwy, w której wojska V Armii polskiej, dowodzonej przez gen. Władysława Sikorskiego pokonały napastnicze armie bolszewickie, uniemożliwiając im sforsowanie Wisły i atak na Warszawę od strony zachodniej.</p>
+        <p xml:id="p-2">W miejscu, gdzie stoi upamiętniający zwycięską bitwę pomnik, zebrały się setki mieszkańców Borkowa i okolic, by oddać hołd bohaterom tamtego wydarzenia, zwłaszcza żołnierzom poległym w walkach nad Wkrą i w całej wojnie polsko-bolszewickiej.</p>
+        <p xml:id="p-3">Pełniący rolę gospodarza burmistrz Nasielska Bernard Mucha powitał gości, w tym m.in. posłów na Sejm RP Jadwigę Zakrzewską i Aleksandra Soplińskiego, Mariusza Błaszczaka - szefa Kancelarii Premiera RP, generała Janusza Lalkę - przedstawiciela Sztabu Wojska Polskiego, płk Stanisława Ekierta - przedstawiciela dowództwa wojsk lądowych, płk Waldemara Zakrzewskiego - dowódcę 2 Mazowieckiej Brygady Saperów z Kazunia. Także samorządowców, kombatantów, strażaków OSP, członków organizacji społecznych, młodzież szkolną - przybyli oni z własnymi pocztami sztandarowymi. Wśród przedstawicieli samorządów byli m. in. starostowie powiatu nowodworskiego Maria Sochocka i płońskiego Jan Mączewski, wójtowie, radni. Uroczystość uświetniły Orkiestra Garnizonowa z Siedlec pod batutą kpt. Mirosława Rytla oraz kompania honorowa wojsk lądowych, dowodzona przez podpor. Przemysława Kubickiego. Wojsko zaciągnęło przy pomniku bitwy borkowskiej honorowe warty.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

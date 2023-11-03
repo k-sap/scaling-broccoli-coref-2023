@@ -1,0 +1,21 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Pewnego razu uczeń przyszedł do swojego nauczyciela.</p>
+        <p xml:id="p-2">- Mistrzu, wiem, co chcę osiągnąć w życiu, potrzebuję tylko mapy. Przez kilka dni uczeń opowiadał nauczycielowi o tym, czego chce. Po tych kilku dniach nauczyciel rzekł:</p>
+        <p xml:id="p-3">- Dostaniesz mapę. Dokładnie taką, jaka pozwoli ci osiągnąć to, czego chcesz. Zanim ją jednak dostaniesz, musisz wiedzieć jedno. Abyś dotarł do swojego skarbu, którym są Twoje marzenia, musisz bezwzględnie wykonywać wszystkie działania, o których ci powiem. Nie możesz nawet na chwilę zboczyć z drogi, którą ci pokażę. Czy jesteś na to gotowy?</p>
+        <p xml:id="p-4">- Tak, mistrzu - rzekł chłopak.</p>
+        <p xml:id="p-5">- Dobrze. Przyjdź o świcie, a ja wręczę ci mapę. Uczeń skinął głową i oddalił się do swego łóżka.</p>
+        <p xml:id="p-6">Nie mógł jednak spać, ciągle myślał i analizował. Zastanawiał się, jaka będzie jego droga.</p>
+        <p xml:id="p-7">O świecie zapukał do drzwi mistrza.</p>
+        <p xml:id="p-8">- Wejdź, proszę. To jest mapa, a teraz ruszaj i pamiętaj o tym, by iść tą właśnie drogą. Tam, na końcu drogi, przy skarbie, będę czekał na ciebie.</p>
+        <p xml:id="p-9">- Z radością cię przywitam!</p>
+        <p xml:id="p-10">Uczeń rozwinął zwój, który dostał, i ujrzał drogę. Widniały na niej napisy: - Miejsce, w którym jesteś. - Skarb, do którego podążasz. - Przeszkody, które masz ominąć. I wreszcie: - Droga, którą masz podążać.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

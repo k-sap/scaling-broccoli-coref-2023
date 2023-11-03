@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Na kilka dni przed planowanym przekształceniem UKFiT w podległy MENiS - UKFiS Dębski zaproponowal wywiad dziennikarzowi "Gazety Wyborczej". Powiedział, że wysoki funkcjonariusz AWS kazał mu szukać kwitów na Kwaśniewskiego. Chodziło o dokumenty potwierdzające nieprawidłowości finansowe w resorcie sportu w czasach, gdy jego szefem był Aleksander Kwaśniewski. W przeciwnym razie miały zostać znalezione kwity na Dębskiego. Dębski zapowiedział, że to, kim był ów wysoki funkcjonariusz, ujawni tylko Buzkowi lub Krzaklewskiemu. Zbliżały się wybory prezydenckie.</p>
+        <p xml:id="p-2">- Myślę, że Jacek nie wytrzymał psychicznie napięcia, jakie wytworzyło się wówczas wokół niego. Z jednej strony obiecywano mu, że nadal będzie szefem UKFIT, z drugiej - docierały do niego informacje, że rozpatrywane są inne kandydatury - wspomina Janusz Tomaszewski. - Mówił, że został wykolegowany. Dowiedział się, że nie zostanie wiceministrem, że chcą się go pozbyć z rządu. Wywiad był uprzedzeniem ciosu - twierdzi Atlas.</p>
+        <p xml:id="p-3">Premier Buzek zaczął się orientować, że Dębski nie kieruje w odpowiedni sposób podległym mu urzędem. - Moi doradcy zwrócili mi uwagę na kontrowersyjne decyzje podejmowane przez niego, niezrozumiałą promocję jednych i pomijanie innych regionów - przyznaje były premier.</p>
+        <p xml:id="p-4">- Niedługo po objęciu stanowiska Dębski poprosił jednego z dyrektorów biur, by ten udostępnił mu archiwum urzędu, bo chce pisać na AWF pracę doktorską o sporcie - mówi dyrektor Maj, który potem sprawdził, jakie dokładnie teczki otrzymał Dębski. - Okazało się, że materiały te dotyczyły wyłącznie okresu, gdy szefem urzędu był Aleksander Kwaśniewski. Dębski teczki miał u siebie przez ponad 1,5 miesiąca - wspomina Maj. Ponoć po ogłoszeniu sprawy w 2000 r. Dębski chciał nawiązać kontakt z prezydentem Kwaśniewskim.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

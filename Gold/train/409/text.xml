@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">NoNe Po prostu żal i dziewczyn i chłopaków. Młodzież prędko się nie zmieni. Aż dziwne, że istnieją jeszcze normalni, którzy nie 'bawią się dobrze'.</p>
+        <p xml:id="p-2">yay. nie ma takich rzeczy, które by mnie wkur*wiały tak jak dawanie d*py na imprezach... i ze strony chłopaka jak i dziewczyny. albo jechanie na "ustawione imprezy gdzie z góry jest założony cel tej imprezy". moja kolezanka z klasy na wakacje puściła sie z kolesiem którego znała 2 tygodnie, zaznaczam ze mam 15 lat , a potem tłumaczyła sie że "była pijana" ale tak naprawde nikt jej nie wierzy ze nie wiedziała co robi. a koles jest typowym podrywaczem. To jest żałosne, nasze pierdo*lone pokolenie, wyrzekam sie was dziewczynki i chłopcy z wiejskich imprez w remizie (to uj ze jestescie z miasta, nie ma roznicy) przez takich jak wy nasze pokolenie jest tak znienawidzone. im młodsi tym gorzej, ale też dziewczyna/koles którzy na imprezach uprawiają seks z osobami z którymi nie chodzą wypierając się pozniej alkoholem to kompletne szmaty. rozumiem to twoj chłopak/dziewczyna jestescie długo razem, uznacie ze chcecie to już zrobic, i 'alkohol na rozładowanie' - takie podejscie niech bedzie, jak juz chcecie, ale nie ze upijacie sie a potem po imprezie ktos inny wam mówi ze lizałes/łas sie z kims z kim nigdy nie gadaliscie NUWORLD a byłes kiedys pijany? nie czułes tego luzu, zapomnienia, jakbyś mogł robić wszystko co chcesz? bo to przez alkohol ludzie tracą trzeźwie myślenie, nie wiesz? ...</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

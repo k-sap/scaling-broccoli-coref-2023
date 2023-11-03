@@ -1,0 +1,14 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">W grudniu ub.r. rakieta Ariane 5 wyniosła na orbitę skonstruowane przez Europejską Agencję Kosmiczną (ESA) obserwatorium rentgenowskie XMM (X-ray Multi-Mirror Telescope). Start z kosmodromu Kourou w Gujanie Francuskiej przebiegł bezproblemowo, a w godzinę po nim naziemne stacje kontroli lotu stwierdziły pełną sprawność podstawowych urządzeń obserwatorium. Po kilkudniowych testach XMM uruchomił własne silniki i przeniósł się na docelową, silnie wydłużoną orbitę. Krążąc po niej, spędza 85% czasu poza obrębem ziemskich pasów radiacyjnych, które utrudniają lub wręcz uniemożliwiają obserwacje rentgenowskie.</p>
+        <p xml:id="p-2">XMM ma 10 m długości i masę prawie 4 t. Znajdują się w nim trzy niezależne teleskopy rentgenowskie oraz teleskop optyczny o średnicy 30 cm, który może również pracować w zakresie ultrafioletowym (mimo swych niepozornych rozmiarów dorównuje czułością czterometrowym teleskopom naziemnym). Zadaniem teleskopu optycznego jest dostarczanie dodatkowych informacji o obiektach obserwowanych przez teleskopy rentgenowskie. Każdy teleskop rentgenowski zawiera 58 pozłacanych zwierciadeł o łącznej powierzchni 120 m2.</p>
+        <p xml:id="p-3">Cały zestaw jest wyposażony w bardzo czułe odbiorniki umożliwiające analizę kosmicznego promieniowania X oraz obrazowanie jego źródeł. XMM jest 5-krotnie (w twardych promieniach X nawet 15-krotnie) czulszy niż pracujący już od kilku miesięcy amerykański teleskop Chandra [patrz: Chandra, Sygnały, "WiŻ" nr 10/1999]. Ustępuje mu jednak pod względem zdolności rozdzielczej, co oznacza, iż na wykonanych przez niego zdjęciach zobaczymy mniej szczegółów. Oba przyrządy będą się więc uzupełniać, zbierając niedostępne dotychczas informacje o procesach przebiegających w skrajnych warunkach fizycznych (m.in podczas wybuchów supernowych oraz w otoczeniu czarnych dziur i gwiazd neutronowych, a także w aktywnych jądrach galaktyk).</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

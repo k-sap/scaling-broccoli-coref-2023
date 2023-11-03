@@ -1,0 +1,16 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">sp0: co ? no nie jest to mało na pewno nie jest to mało ale wiesz zważywszy na to kurcze gdzie ten samochód jeździł no to wiesz to mogło być i więcej.. no zobacz z drugiej strony patrząc na to że mówię ci no ja praktycznie kurcze do pracy nie jeżdżę nim co dzień Gocha jeździ kurcze i jeździmy tutaj do rodziny i praktycznie kurcze tam było siedemdziesiąt siedemdziesiąt tysięcy.</p>
+        <p xml:id="p-2">sp4: kanapka tam twoja jeszcze leży. zjedz kanapkę..</p>
+        <p xml:id="p-3">sp0: teraz jest kurna sto trzydzieści i do dwudziestego maja myślę że jeszcze trochę nim zrobimy akurat tak żeby tam walnęło kurcze. tak że jest. jest te trzydzieści tysięcy no to to to to wychodzi dwadzieścia dwadzieścia tysięcy kurcze na rok no. przy naszej jeździe bez żadnych wiesz forsowań Europy gdzieś tam kurcze zwiedzań Polski tyko wiesz takie rzeczy codzienne nie a on ma raptem trzydzieści cztery tysiące więcej z czego nie jest to jeden rok tylko jak mówisz że zaczął się w styczniu a teraz kurcze jest kwiecień no. tak że rok i trochę ma nie ?</p>
+        <p xml:id="p-4">sp2: no rok i cztery miesiące..</p>
+        <p xml:id="p-5">sp0: no rok i cztery miesiące czyli powiedzmy kurcze na rok by miał gdzieś przejechane trzydzieści tysięcy no to aż to nie jest aż taka rewelacja żeby on był aż tak wiesz zajeżdżony na maksa nie jakby miał sześćdziesiąt tysięcy albo mówię ci tak jakby miał dwa lata i na przykład miał tam z osiemdziesiąt tysięcy to już bym go nie brał bo po po dwóch latach już z loku to faktycznie już może być kurcze taki samóchód w plecy ale taki to jest bezpieczny wiek jest dla niego i bezpieczny przebieg i bezpieczny wiek. i mówię tym bardziej że on był kupiony w Polsce tak jak ten Elcia mówi że jest kupiony kurcze w salonie tak że spoko bez mydła..</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

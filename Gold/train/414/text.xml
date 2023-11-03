@@ -1,0 +1,16 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Korupcja stanowi poważne zagrożenie dla rozwoju. W dziedzinie polityki, podkopuje demokrację i dobre zarządzanie przez naruszanie procesów formalnych. Korupcja w czasie wyborów i w ciałach ustawodawczych skutkuje nierówną dystrybucją dóbr i usług. Bardziej ogólnie, na skutek korupcji zmniejsza się zdolność instytucji do wykonywania procedur, wypompowane zostają zasoby a urzędnicy są zatrudniani i awansują bez uwzględniania ich sprawności. Jednocześnie korupcja narusza takie wartości demokratyczne jak zaufanie i tolerancja.</p>
+        <p xml:id="p-2">Ekonomia</p>
+        <p xml:id="p-3">Korupcja podkopuje również rozwój ekonomiczny, generując poważne wypaczenia i niesprawność. Dla przedsiębiorców prywatnych, korupcja zwiększa koszty prowadzenia działalności, dodając same pozaprawne opłaty, koszty prowadzenia negocjacji z urzędnikami, ryzyko złamania uzgodnień i ryzyko wykrycia. Chociaż niektórzy utrzymują, że korupcja zmniejsza koszty przez redukcję biurokracji, to ogólnie w coraz większym stopniu przyjmuje się, że dostępność łapówek nakłania urzędników do wymyślania nowych zasad i opóźnień. Poza zwiększaniem kosztów, korupcja wprowadza nierówne zasady, chroniąc firmy mające powiązania przed konkurencją i pośrednio promując firmy mało efektywne. Korupcja wykoślawia również sektor publiczny, przenosząc inwestycje publiczne do projektów oferujących więcej łapówek. Urzędnicy mogą zwiększać techniczną złożoność projektów publicznych, żeby ukryć takie układy, w ten sposób jeszcze głębiej zakłócając przebieg inwestycji. Korupcja osłabia też zgodność z wymaganiami konstrukcyjnymi, ochrony środowiska itp., obniża jakość usług państwowych i infrastruktury oraz zwiększa ciężar budżetu.</p>
+        <p xml:id="p-4">Dobrobyt narodowy</p>
+        <p xml:id="p-5">Korupcja ma znaczący ujemny wpływ na poziom życia obywateli. Rządy mają wtedy tendencje do stosowania zasad, które faworyzują dających łapówki, a nie ogół. Inny przykład to konstruowanie praw chroniących wielkie korporacje, a jednocześnie krzywdzących drobne przedsiębiorstwa. Politycy promujący w ten sposób przedsiębiorczość, oddają po prostu przysługi korporacjom, które miały duży wkład w ich kampanie wyborcze.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

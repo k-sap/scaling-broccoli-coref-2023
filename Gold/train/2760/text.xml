@@ -1,0 +1,17 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Tytuły wykonawcze dotyczące poszczególnych dłużników wystawia spółka na podstawie wykazu zaległości zatwierdzonego przez właściwego wójta (burmistrza, prezydenta miasta).</p>
+        <p xml:id="p-2">Spółka jest uprawniona do wznoszenia i utrzymywania na wspólnocie gruntowej urządzeń potrzebnych dla osiągnięcia celów spółki.</p>
+        <p xml:id="p-3">Nadzór nad działalnością spółki sprawuje właściwy wójt (burmistrz, prezydent miasta).</p>
+        <p xml:id="p-4">W terminie oznaczonym w statucie spółki organy spółki są obowiązane przedstawić właściwemu wójtowi (burmistrzowi, prezydentowi miasta) do zatwierdzenia plan zagospodarowania i regulamin użytkowania gruntów i urządzeń spółki. Jeżeli zagospodarowanie dotyczy gruntów określonych w art. 6 ust. 2 - organy spółki przedstawiają staroście do zatwierdzenia uproszczony plan zagospodarowania takich gruntów, po wcześniejszym uzyskaniu opinii właściwego terytorialnie nadleśniczego.</p>
+        <p xml:id="p-5">Wójtowie (burmistrzowie, prezydenci miast) oraz starostowie są uprawnieni do wprowadzenia w przedstawionych planach oraz w regulaminie zmian i uzupełnień uzasadnionych względami gospodarczymi. Jeżeli uprawnieni do udziału we wspólnocie gruntowej w terminie trzech miesięcy od dnia ustalenia wykazu uprawnionych (art. 8) nie przedstawią do zatwierdzenia właściwemu wójtowi (burmistrzowi, prezydentowi miasta) statutu spółki, organ ten utworzy spółkę przymusową, nada jej statut oraz wyznaczy organy spółki spośród osób uprawnionych do udziału we wspólnocie gruntowej.</p>
+        <p xml:id="p-6">Jeżeli osoby wybrane lub wyznaczone do organów spółki odmówią uczestniczenia w tych organach lub jeżeli działalność tych organów nie będzie osiągała celu, w którym spółka została utworzona, a w szczególności w razie nienależytego zagospodarowania gruntów wchodzących w skład wspólnoty, właściwy wójt (burmistrz, prezydent miasta) może powołać organy spółki spośród osób nie będących członkami spółki.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

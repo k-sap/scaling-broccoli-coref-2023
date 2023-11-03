@@ -1,0 +1,18 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">W sądeckim urzędzie pracy zarejestrowanych jest 685 bezrobotnych z wyższym wykształceniem. Z danych Powiatowego Urzędu Pracy wynika, że ich liczba stale rośnie.</p>
+        <p xml:id="p-2">Wśród bezrobotnych są specjaliści do spraw marketingu, absolwenci dwu i trzyletnich studiów turystycznych oraz kierunku turystyka i finanse Państwowej Wyższej Szkoły Zawodowej w Nowym Sączu. Bez pracy pozostają nawet nauczyciele i prawnicy.</p>
+        <p xml:id="p-3">- Są to osoby w różnym wieku, z różnym stażem pracy. Bywa, że nie mogą znaleźć zatrudnienia z powodu zbyt dużej przerwy w pracy - mówi Teresa Klimek, kierownik działu pośrednictwa pracy w Powiatowym Urzędzie Pracy w Nowym Sączu.</p>
+        <p xml:id="p-4">Dla osób z wyższym wykształceniem sądeckie biuro ma zaledwie piętnaście propozycji zatrudnienia. Są oferty dla nauczycieli języków obcych - angielskiego i niemieckiego - najczęściej w małych, wiejskich szkołach. Jest jedna oferta dla socjologa i po jednej dla psychologa, elektronika, asystentki dyrektora, kadrowej i sekretarki.</p>
+        <p xml:id="p-5">- Pracodawcy oczekują od kandydatów przede wszystkim dyspozycyjności, znajomości języków. Zwykle także młodego wieku. Od kadrowych i księgowych zaś dodatkowo stażu pracy - informuje Teresa Klimek.</p>
+        <p xml:id="p-6">Dziś, aby dostać pracę, nie wystarczy dyplom dobrej uczelni. Bywa, że dla pracodawcy zbyt wysokie kwalifikacje kandydata są przeszkodą w jego zatrudnieniu.</p>
+        <p xml:id="p-7">Z taką sytuacją spotkała się pani Barbara, filmoznawca, absolwentka Uniwersytetu Jagiellońskiego, która pięć lat temu ukończyła studia. Zanim zarejestrowała się w urzędzie pracy jako bezrobotna, pracowała w samorządzie lokalnym jako rzecznik prasowy oraz w instytucjach kulturalnych w Krakowie. Najpierw w firmie budżetowej, potem w prestiżowym, branżowym miesięczniku filmowym.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

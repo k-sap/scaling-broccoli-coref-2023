@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Działalność</p>
+        <p xml:id="p-2">Do portu Police w 2006 roku zawinęło 286 statków o pojemności brutto większej niż 100. Łączna pojemność netto tych statków wynosiła 872, 4 tys. NRT, a 148 statków o łącznej pojemności netto 592, 8 tys NRT posiadało ładunek . W 2006 roku do portu w Policach zawinęło 52 zbiornikowców, 203 masowców, 31 drobnicowców niespecjalizowanych . Całkowite obroty ładunkowe portu w 2006 wynosiły 2445, 5 tys. ton, co stanowiło 4, 05% udziału w przeładunkach polskich portów . Obroty ładunkowe bez wagi własnej kontenerów i jednostek tocznych wynosiły 2109, 8 tys. ton, z czego 2088, 7 tys. ton przeładowano w międzynarodowym obrocie morskim i 21, 1 tys. ton w krajowym obrocie morskim .</p>
+        <p xml:id="p-3">Historia</p>
+        <p xml:id="p-4">1967 – przystąpienie do budowy portu barkowego, który oddano do eksploatacji w 1970. 1979 – podjęcie decyzji o budowie na Odrze portu morskiego. Budowa portu miała związek z rozbudową Zakładów Chemicznych "Police" w Policach. 1998 – przeładunek 40-milionowej tony towarów, a przeładunki sięgnęły 2, 9 mln ton - głównie fosforyty w imporcie i nawozy w eksporcie. 2004 – Zarząd Z.Ch. "Police" SA podjął decyzję o powołaniu spółki zarządzającej zakładowym portem. Uchwała o utworzeniu spółki "Port Morski w Policach sp. z o.o "została przyjęta przez radnych gminy Police. W 1992 roku Minister Transportu i Gospodarki Morskiej ustanowił port morski w Policach . Granice portu zostały zmienione w rok później .</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

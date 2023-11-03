@@ -1,0 +1,39 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Cięcie.</p>
+        <p xml:id="p-2">Scena</p>
+        <p xml:id="p-3">WNĘTRZE. DZIEŃ. REDAKCJA. KORYTARZ. MARIA</p>
+        <p xml:id="p-4">Maria stoi oparta plecami o ścianę. Wreszcie zbiera się w sobie i podchodzi do drzwi gabinetu. Słyszy dobiegający spoza nich wybuch śmiechu. Bierze głęboki oddech i wchodzi.</p>
+        <p xml:id="p-5">Scena</p>
+        <p xml:id="p-6">WNĘTRZE. DZIEŃ. REDAKCJA. GABINET NACZELNEJ. JACEK, MAJKA, TERESA, ELŻBIETA, MAREK, ANDRZEJ, EDYTA, GOSKA, MARIA, DZIENNIKARZE</p>
+        <p xml:id="p-7">Maria wchodzi do gabinetu, w momencie kiedy dziennikarze się śmieją, a Jacek z bukietem klęczy przed Majką. W momencie jej wejścia śmiechy cichną, a Jacek trochę zawstydzony wstaje i dyskretnie odkłada kwiaty.</p>
+        <p xml:id="p-8">MARIA</p>
+        <p xml:id="p-9">Dzień dobry.</p>
+        <p xml:id="p-10">Rozlega się pomruk powitania. Przez chwile panuje niezręczna cisza.</p>
+        <p xml:id="p-11">MARIA</p>
+        <p xml:id="p-12">Dobrze... chyba nie ma sensu, żebyśmy udawali przed sobą, że nic się nie stało...</p>
+        <p xml:id="p-13">PAUZA</p>
+        <p xml:id="p-14">Wyjaśnijmy sobie wszystko w... tej sprawie i przejdźmy do pracy...</p>
+        <p xml:id="p-15">PAUZA</p>
+        <p xml:id="p-16">Są jakieś pytania?</p>
+        <p xml:id="p-17">EDYTA</p>
+        <p xml:id="p-18">Gdzie można znaleźć faceta, który robi kobiecie takie niespodzianki?</p>
+        <p xml:id="p-19">MARIA</p>
+        <p xml:id="p-20">Nie wiem...</p>
+        <p xml:id="p-21">Na sali rozlegają się głosy niedowierzania.</p>
+        <p xml:id="p-22">ELŻBIETA</p>
+        <p xml:id="p-23">Bez przesady... Wiadomo, że kobiety zawsze świetnie znają swoich cichych wielbicieli.</p>
+        <p xml:id="p-24">GOŚKA</p>
+        <p xml:id="p-25">Jasne... Imię, nazwisko... a czasem nawet pesel...</p>
+        <p xml:id="p-26">MAJKA</p>
+        <p xml:id="p-27">Wtedy wiedzą, czy nie jest za stary...</p>
+        <p xml:id="p-28">Tym razem rozlega się stłumiony śmiech.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

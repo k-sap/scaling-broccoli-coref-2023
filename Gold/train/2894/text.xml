@@ -1,0 +1,14 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Od połowy kwietnia do końca 1767 roku trwały prace remontowe i adaptacyjne. Przygotowano wówczas na parterze i na piętrze izby, do których 13 grudnia wprowadzono więźniów. Następnego dnia marszałek Lubomirski wydał ordynację więzienną, deklarując w niej cele poprawcze kary. W tym też czasie oddał nadzór nad więzieniem w ręce porucznika Jabłonowskiego z chorągwi marszałkowskich Węgrów, urzędowo zwanego najpierw dozorcą więziennym, a od 1783 roku intendentem.</p>
+        <p xml:id="p-2">Następcą Jabłonowskiego został w 1785 roku, a więc w czasach, gdy marszałkiem od dwu lat był Jerzy Mniszech, wachmistrz tej chorągwi Feliks Kostecki. Z faktu, że Prochownia została oddana przez Mniszcha w ręce podoficera, wypływa wniosek, że więzienie nie miało już tej rangi co za poprzednika. Stało się po prostu zwykłym miejscem odosobnienia, w którym zamykano przestępców, nie oczekując bynajmniej, że przyniesie to jakieś spodziewane skutki. Ale i Mniszech, śladem swego poprzednika - co trzeba podkreślić - zalecał, by intendent i dozorcy wobec więźniów "używali (...) tej ludzkości i przyzwoitego z każdym obchodzenia się, którego natura ku bliźnim wymaga".</p>
+        <p xml:id="p-3">Król Stanisław August Poniatowski bardzo interesował się postępami w przebudowie Prochowni. Gdy prace adaptacyjne zostały zakończone, Lubomirski poinformował o tym grono osób zebranych na kolejnym obiedzie czwartkowym, wyrażając przekonanie, że "teraźniejsze więzienie warowne obejmie wszystkich winowajców". Według relacji Franciszka Kurowskiego Naruszewicz miał wówczas wyrazić życzenie, "byleby tylko czasem i niewinny, ale posądzony nie był tam zamknięty". "Prawda - odpowiedział na to monarcha - ale to nikogo nie skrzywdzi, bo nie miejsce, ale zbrodnia hańbi".</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

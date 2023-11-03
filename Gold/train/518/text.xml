@@ -1,0 +1,14 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Ludzie w ruchu</p>
+        <p xml:id="p-2">Olga Tokarczuk przybliża mit o Inanie, przesycając go współczesną wrażliwością i estetyką, opisując świat, którego kontury z łatwością rozpoznajemy. Industrialny krajobraz miejski, chwilami przypominający niedobrą dzielnicę jakiejś wieloetnicznej metropolii, a czasem niekończącą się plątaninę korytarzy i wind w wielkim porcie lotniczym, zamieszkują ludzie w ruchu - z teczkami, plecakami, torbami na zakupy. Odpoczywający po pracy w knajpach albo kafejkach internetowych, zapisujący coś pospiesznie w notesach z modnymi moleskinowymi okładkami, popijający piwo, palący skręty, chwilę przypadkowego seksu okupujący strachem przed śmiertelnym wirusem. To my, żyjący w rzeczywistości chaotycznej i zdesakralizowanej, niby cierpiący na amnezję, choć jednocześnie ciągnący za sobą nieprzyjemną pamięć o zamordowanych "stu, setkach tysięcy, sześciu milionach" (nie muszę mówić, jakie sześć milionów ma Tokarczuk na myśli). "Z zewnątrz potężni, rozlegli, wielcy, w istocie krusi, słabi, składający się z dziur, braków, pustych przestrzeni".</p>
+        <p xml:id="p-3">Bogini to młoda kobieta, którą moglibyśmy spotkać na ulicy - w modnej sukience, z tatuażem, oczami ekscentrycznie pomalowanymi drogą szminką. Dlaczego schodzi do świata podziemi? Jedna odpowiedź jest odpowiedzią, jakiej udzielają religie, w tym chrześcijaństwo: zmartwychwstałe, powracające bóstwo pozwala oswoić nasz lęk przed śmiercią, na który nie da się wymyślić żadnej tabletki. Ale Tokarczuk udziela jeszcze jednego, paradoksalnie krzepiącego, wyjaśnienia. Anna In, która trafiła do świata umarłych, dopiero po powrocie na ziemię staje się opiekunką "sztuki miłości, pieśni i wierszy, elokwentnej mowy, inteligencji", nawet "prostytucji, tawern, knajp i bazarów", czyli człowieka i cywilizacji.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

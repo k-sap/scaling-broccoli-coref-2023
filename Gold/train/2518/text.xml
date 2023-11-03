@@ -1,0 +1,16 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">W tegorocznych zawodach zabrakło kilku zawodników z grupy A (startowali w zawodach w Holandii), lecz stawka i tak była silna. W grupie A na starcie stanęło 55 osób, w grupie B aż 140 łódek. Gospodarze najbardziej liczyli na występ Karola Jączkowskiego. I nie zawiedli się. Karol zajął drugie miejsce, dając się wyprzedzić tylko Jakubowi Kwiatkowskiemu z Arki Gdynia.</p>
+        <p xml:id="p-2">Kwiatkowski był zresztą bezkonkurencyjny na tych regatach. Popłynął znakomicie i znacznie wyprzedził rywali. Karolowi niezbyt udały się starty pierwszego dnia regat. Zajmował po piątkowych wyścigach czwarte miejsce. Potem pływał jednak znacznie lepiej i w końcowej klasyfikacji zajął drugie miejsce.</p>
+        <p xml:id="p-3">- W regatach dominował słaby wiatr, stąd wzięła się większa loteryjność. Były miejsca na jeziorze, gdzie wiatr był dobry, były też takie Ø, gdzie był słaby. Karol popełnił kilka błędów przy wyborze miejsc do pływania - mówi Stanisław Jączkowski, ojciec Karola. - Tylko dzięki bardzo dobrym umiejętnościom technicznym wybrnął z nich na tyle dobrze, że zajął drugie miejsce. Przeciwnicy mieli więcej szczęścia przy wyborze miejsc do pływania i to zadecydowało o końcowym sukcesie zawodnika z Gdyni.</p>
+        <p xml:id="p-4">Według wstępnych obliczeń, dzięki drugiemu miejscu w memoriale Karol wysunął się na czoło klasyfikacji krajowej w klasie Optymist.</p>
+        <p xml:id="p-5">Bardzo miłą niespodziankę sprawił klubowy kolega Karola, Bartłomiej Bocian. Niezaliczany do grona faworytów chojniczanin przez długi czas zajmował piąte miejsce. Dopiero w ostatnim, 10 wyścigu spadł dwa oczka niżej.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

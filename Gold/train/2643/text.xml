@@ -1,0 +1,14 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Nominacja Tadeusza Matusiaka (SLD) wywołała poruszenie. Na początku tej kadencji samorządu został prezydentem Łodzi. Kiedy w ubiegłym roku od partyjnych kolegów nie otrzymał wotum zaufania, podał się do dymisji. Zadeklarował wówczas, że robi to w poczuciu odpowiedzialności za dobre imię SLD. Po wyborach parlamentarnych przejął od Grzegorza Matuszaka stanowisko przewodniczącego łódzkiej Rady Miejskiej. W maju tego roku jako jedyny łodzianin został powołany do ośmioosobowej Rady Nadzorczej PKO BP SA. W MSWiA ma odpowiadać m.in. za paszporty, wydawanie koncesji, sprawy związane z samorządem.</p>
+        <p xml:id="p-2">Paweł Pruszyński był dotychczas szefem klubu radnych SLD w łódzkim Sejmiku Wojewódzkim, a wcześniej jednym z kandydatów na stanowisko marszałka województwa łódzkiego. O tym, że ma awansować do Warszawy, mówiło się od ponad pół roku - jeszcze za czasów istnienia Urzędu Ochrony Państwa.</p>
+        <p xml:id="p-3">Ponad miesiąc temu Krzysztof Panas (SLD), do niedawna prezydent Łodzi, został podsekretarzem stanu w Ministerstwie Środowiska. Ewa Kralkowska (Unia Pracy) jest wiceministrem zdrowia, Marek Bartosik (SLD) pracuje w Komitecie Badań Naukowych w randze wiceministra nauki, a Ewa Kulesza jest generalnym inspektorem ochrony danych osobowych. Cezary Józefiak, Dariusz Grabowski i Jerzy Pruski zasiadają w Radzie Polityki Pieniężnej. Doradcą prezydenta Aleksandra Kwaśniewskiego jest łodzianin Witold Orłowski, a Jerzy Machejek (SLD) - głównym doradcą premiera i członkiem gabinetu politycznego prezesa Rady Ministrów. Niedawno z teki ministra finansów zrezygnował łodzianin Marek Belka.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

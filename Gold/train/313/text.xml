@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">A przecież najsilniejsza w parlamencie opozycja będzie bez przerwy mówiła, jak nowi psują to, co PiS zrobił fantastycznie, a jeśli nie zrobił, to dlatego, że nie zdążył, i teraz jest okazja, by sprawy mógł dokończyć rząd Tuska. To będzie wykładnia, wedle której premier będzie rozliczany z tego, w jakim zakresie realizuje plan PiS.</p>
+        <p xml:id="p-2">By uniknąć pułapki, trzeba wyraźnie określić swoje parametry i dobitnie powiedzieć, gdzie są różnice między PO i PiS i na czym polegają odmienności. Po tamtych rządach nie można tak po prostu przystąpić do normalnego, rutynowego rządzenia. Hasło wyborcze Donalda Tuska o powrocie do normalności, tak dobrze przyjęte przez wyborców, teraz powinno zostać przemienione w program, w zbiór idei i praktyk, które będą prawdziwym dorobkiem nauk (nauczek) powziętych w ciągu ostatnich dwóch lat.</p>
+        <p xml:id="p-3">Nie jest to łatwe, bo największa zasługa Platformy, czyli odsunięcie PiS od władzy, będzie powoli tracić swój blask. Tusk będzie rozliczany z tego, co zaniedbał Kaczyński. Zaczyna się proza rządzenia, gdzie ujawniają się stare i pojawiają nowe problemy i nowe okazje do błędów.</p>
+        <p xml:id="p-4">Ale w ocenie rządów Platformy (i PSL) trzeba pamiętać o jednym: o tym, za co był krytykowany PiS. Partia Kaczyńskiego nie została wysłana do ław opozycji za to, że doprowadziła gospodarkę do ruiny, za to, że nie zbudowała autostrad czy nie zmniejszyła podatków. Przegrała za to, jak traktowała demokrację, jak łamała ludzi i instytucje, jak psuła życie publiczne, dzieliła społeczeństwo. Sprawiedliwość wymaga, aby to pamiętać, kiedy będziemy oceniać najbliższe miesiące nowej władzy. Pamiętać o tym, za co znielubiliśmy PiS i na co Platforma miała być odtrutką. Samo odejście od praktyk PiS nie może zastąpić sprawnego rządzenia, ale jest wartością. Nauka więc zasadnicza: warto ćwiczyć pamięć i nie zapominać w nowym roku, od czego większość wyborców uciekła 21 października 2007 r.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

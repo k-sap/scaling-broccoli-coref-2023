@@ -1,0 +1,16 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">shiroo problem jest w tym że mini DV to patent microsotu i do takiej kamery nie potrzebne są sterowniki , kabel na 100% jest ok . zostaje tylko sterownik wirefite , jak mogę to sprawdzić?</p>
+        <p xml:id="p-2">krajstof CYTAT(shiroo @ 11.03.2008, 21:29) "problem jest w tym że mini DV to patent microsotu i do takiej kamery nie potrzebne są sterowniki" No i tutaj się mylisz, ponieważ są potrzebne. Sam jakiś czas temu używałem kamery Mini DV Samsunga i bez sterowników nie wykrywało jej. Mogłem jej wtedy używać tylko jako kamery internetowej. Co do tego jak możesz sprawdzić FireWire. Niektóre porty FireWire nie potrzebuję sterowników. Niektóre tak. Jeśli masz FireWire wbudowane w płytę główną, to sterowniki powinny być na płycie ze sterownikami do niej. Jeśli masz oddzielną kartę z portami FireWire to musisz poszukać sterowników do konkretnego rodzaju karty. A jaką kamerę posiadasz, jeśli można wiedzieć?</p>
+        <p xml:id="p-3">shiroo dzięki wielkie , to była wina sterownika wirefire . już wszystko działa idealnie ,podłączam kamerę i zgrywa . podejrzewałem jakieś sterowniki od kamery ale okazało się że windows ma je wbudowane. mam canona md 110</p>
+        <p xml:id="p-4">krajstof No problemo Jak coś to wal śmiało Jeśli chodzi o kamery, montaż itp. to zawsze służe pomocą ( wedle moich możliwości oczywiście ;P ) Pozdrawiam</p>
+        <p xml:id="p-5">shiroo mam jeszcze pytanie nieco z innej beczki , czasami zgrywam coś z telewizji przez graber i WMM i nawet 20 minutowy film dzieli mi na 100 kawałków . jest możliwość zgrania filmu w jednym kawałku ? przestawiłem system plików z FAT32 na NTFS i jest tylko nieznacznie lepiej . ktoś kiedyś mi powiedział że jest to spowodowane kiepskim zasilaniem grabera przez USB i żebym go podłączył za pośrednictwem huba z zasilaniem . czy taka kombinacja poprawi jakość zgrywania ?</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

@@ -1,0 +1,54 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">sp1: nie</p>
+        <p xml:id="p-2">sp2: bo lepiej jej w takiej dłuższej</p>
+        <p xml:id="p-3">sp1: ale zobacz że ona ma nierówno</p>
+        <p xml:id="p-4">sp2: no tak tak</p>
+        <p xml:id="p-5">sp1: ja jej chcę wyrównać z tym wiesz bo ja jej nie chcę obcinać za krótkiej nie tylko wyrównać prawą stronę</p>
+        <p xml:id="p-6">sp2: no no</p>
+        <p xml:id="p-7">sp1: żeby nie przegryzła bo się mleko wyleje</p>
+        <p xml:id="p-8">sp2: daj bo się wyleje znowu daj położymy</p>
+        <p xml:id="p-9">sp1: wleje się już</p>
+        <p xml:id="p-10">sp2: widziałaś już jakąś ? wybrałaś sobie ?</p>
+        <p xml:id="p-11">sp0: ale ale jaką mam sobie tą ?</p>
+        <p xml:id="p-12">sp1: a co to tak wyleciało coś ? nie ślina</p>
+        <p xml:id="p-13">sp0: tą</p>
+        <p xml:id="p-14">sp1: się boję żeby nie ugryzła</p>
+        <p xml:id="p-15">sp2: proszę tą resztę mogę schować</p>
+        <p xml:id="p-16">sp0: a mamie ?</p>
+        <p xml:id="p-17">sp2: no są trzy</p>
+        <p xml:id="p-18">sp1: a ja mam tą co trzyma Martyna</p>
+        <p xml:id="p-19">sp2: te to chyba są rozdarte już</p>
+        <p xml:id="p-20">sp1: kurczę jaka jestem śpiąca</p>
+        <p xml:id="p-21">sp0: to te są już rozdarte ?</p>
+        <p xml:id="p-22">sp1: no co ona teraz noc w noc chodzę niewyspana</p>
+        <p xml:id="p-23">sp2: a to nie śpi ?</p>
+        <p xml:id="p-24">sp1: bardzo marudzi</p>
+        <p xml:id="p-25">sp2: ale kiedyś całą noc przespała</p>
+        <p xml:id="p-26">sp1: kiedyś to jej nie szły zęby</p>
+        <p xml:id="p-27">sp2: a no właśnie i wszystko przez zęby</p>
+        <p xml:id="p-28">sp1: Boże kiedyś to wrzeszczała pół godziny</p>
+        <p xml:id="p-29">sp2: w nocy</p>
+        <p xml:id="p-30">sp1: i to wrzeszczała aż była mokra od beczu</p>
+        <p xml:id="p-31">sp2: ojej</p>
+        <p xml:id="p-32">sp1: no tak marudzi w nocy że strasznie</p>
+        <p xml:id="p-33">sp0: no poproszę kawę</p>
+        <p xml:id="p-34">sp1: głowa mnie codziennie boli jestem niewyspana</p>
+        <p xml:id="p-35">sp2: napij się kawy</p>
+        <p xml:id="p-36">sp0: a pod a cukier ?</p>
+        <p xml:id="p-37">sp1: całego chyba nie weźmiesz co jak ty masz tą chustkę ? tamten też taki brojacha niby ten ale też tak</p>
+        <p xml:id="p-38">sp2: ale pluć potrafi</p>
+        <p xml:id="p-39">sp1: pluć</p>
+        <p xml:id="p-40">sp2: Andrzej mówi pokaż jak plujesz i już od razu pluć umie</p>
+        <p xml:id="p-41">sp1: ale ten patrz ją komar ona cała</p>
+        <p xml:id="p-42">sp2: ale od razu go wzięłam i i tak nie bał się</p>
+        <p xml:id="p-43">sp1: nie bał się</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

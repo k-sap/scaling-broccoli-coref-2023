@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Niekiedy artyści omijali religijne zakazy w sposób, z dzisiejszego punktu widzenia, wręcz zabawny. Wybitny arabista prof. Janusz Danecki zwraca uwagę na znajdujące się w Petersburgu miniatury Makamata Al-Haririego. Otóż postaciom ludzkim dorysował on kreski na szyi, chcąc w ten sposób podkreślić, że są martwe, a skoro nie żyją, to artysta nie obraził Boga naśladując jego dzieło tworzenia.</p>
+        <p xml:id="p-2">Islam przez wieki rozciągał się na ogromnym terytorium. Reguł zakazujących przedstawiania żywych istot najbardziej rygorystycznie przestrzegano w jego kolebce. Jednak już na obrzeżach następowało nieustanne krzyżowanie się kulturowych wpływów, a gorset zakazów z natury rzeczy był luźniejszy. Europa zanotowała osiem wieków panowania Arabów w Hiszpanii, pięć wieków w krajach bałkańskich i dwa wieki na Sycylii. Nie może więc dziwić fakt, że np. władcy z dynastii Nasrydów, rządzącej emiratem grenadzkim, do dekoracji pałacu Alhambra ściągnęli u schyłku XIV w. europejskich malarzy, którzy boczne alkowy Sali Królewskiej ozdobili im scenami... rycerskimi. Z kolei sułtan Konstantynopola Mehmet II sto lat później zaprosił do swego pałacu Wenecjanina Gentile Belliniego i zamówił u niego swój portret (obecnie w zbiorach National Gallery w Londynie). Na pożegnanie zaś, oczarowany umiejętnościami malarza, nadał mu tytuł rycerski i obdarował licznymi podarkami, z których szczególną uwagę zwracał - jak pisał Giorgio Vasari - "ozdobny złoty łańcuch, wagi 250 dukatów". Oj, prorok nie byłby zachwycony. Nawiasem mówiąc, wydaje się, że to jednak Europejczycy chętniej chłonęli kulturę islamu aniżeli odwrotnie, czego najlepszymi przykładami jest wenecka architektura lub stroje polskiej szlachty.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

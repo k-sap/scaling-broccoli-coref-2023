@@ -1,0 +1,12 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Co mam robić? Moją niepełnosprawną córkę z zespołem Downa uczył wspaniały nauczyciel. Przy nim córka nauczyła się czytać, pisać, rozumie wiele zagadnień. Z rozpoczęciem nowego roku szkolnego zmieniono nauczyciela bez podania przyczyny, po prostu jest inny. Poprzedni nauczyciel chce dalej uczyć córkę, ale nie ma na to wpływu. Co mam uczynić, aby poprzedni nauczyciel znowu uczył córkę?</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

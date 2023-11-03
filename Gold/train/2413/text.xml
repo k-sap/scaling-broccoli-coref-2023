@@ -1,0 +1,14 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Pomyśleć, że 20 lat temu był to świetny samorządowiec. Dziś już mało kto pamięta słynne powiedzenie, że Piekary Śląskie to jedyne miejsce na świecie, którym zgodnie rządzą Żydek, Hanysek i Polaczek (tak się genialnie dobrały nazwiska ówczesnego prezydenta miasta i jego zastępców). Potem Jerzy Polaczek systematycznie piął się po drabinie politycznej kariery - bez fajerwerków, bez awantur, własną mozolną i rzetelną pracą. Po zawiązaniu AWS w 1997 r. wszedł po raz pierwszy do Sejmu i był to naturalny awans dojrzewającego polityka, który na szczeblu lokalnym już spożytkował swe talenty, dojrzał, nauczył się nowej rzeczywistości - by teraz bez kompleksów zabrać się za sprawy większej wagi.</p>
+        <p xml:id="p-2">Choć nie miał jeszcze czterdziestki (rocznik 1961), szybko odnalazł się w głównym nurcie tamtego czasu, trafił do prezydium klubu parlamentarnego. Nie zaniedbywał też spraw regionalnych, stworzył na Śląsku Centrum Kreowania Liderów "Kuźnia" - pamiętam organizowane przezeń debaty dla młodzieży w sali Sejmu Śląskiego, podczas których wyławiał nowe talenty. Było to pionierskie i unikatowe przedsięwzięcie, wszak politycy zwykle zazdrośni są o własne pozycje i nie lubią młodych kadr za plecami.</p>
+        <p xml:id="p-3">Bez wątpienia szczytowym dotąd punktem jego kariery była funkcja ministra transportu i budownictwa w rządzie Kazimierza Marcinkiewicza, po zmianie premiera był też ministrem u Jarosława Kaczyńskiego. Potem najwyraźniej znalazł się na rozdrożu. Zdrowy rozsądek nie pozwalał mu dłużej firmować opętańczej polityki PiS-u, więc odszedł z nadzieją na założenie nowej partii, w której swoje prawicowe przekonania mógłby godzić z racjonalnym działaniem, wolnym od awantur i kolejnych wolt rodzących się w umyśle prezesa partii. Nie wyszło, pomysł nie znalazł szerszego poparcia, śląski poseł i jego kompani znaleźli się na marginesie.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

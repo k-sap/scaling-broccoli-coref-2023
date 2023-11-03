@@ -1,0 +1,18 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">– Czy potrzebne jest aż specjalne szkolenie sędziów i prokuratorów, aby wskazać jak pociągnąć do odpowiedzialności karnej autorów dyskryminujących wypowiedzi?</p>
+        <p xml:id="p-2">– Impuls do Ministerstwa Sprawiedliwości nadszedł z Rady Europy. Skoro zostaliśmy członkami Unii Europejskiej, musimy zmienić swoją wrażliwość, być jeszcze bardziej wyczulonymi na działania, które mogą być potraktowane przez przedstawicieli innych narodów czy religii jako dyskryminujące.</p>
+        <p xml:id="p-3">– Konstytucja gwarantuje wolność wypowiedzi, a cenzura to przeszłość...</p>
+        <p xml:id="p-4">– Tym ważniejszy jest zatem stopień naszej wrażliwości. Debatowaliśmy na przykład o artykule napisanym przez polskiego dziennikarza o bulwersujących dla nas praktykach inicjacji seksualnej u kobiet Masajów. Tytuł publikacji „To nie ludzie” spowodował, że jeden z obywateli Nigerii złożył doniesienie do prokuratury.</p>
+        <p xml:id="p-5">– Czy polskie ustawodawstwo da sobie radę ze ściganiem takiej przestępczości?</p>
+        <p xml:id="p-6">– Istniejące przepisy są wystarczające. Zastanawiać może tylko brak orzecznictwa. Jest tylko jedna glossa do wyroku Sądu Najwyższego, ale do tej pory nie było problemu. Artykuł 256 kodeksu karnego karze za propagowanie faszystowskiego bądź innego totalitarnego ustroju państwa albo nawoływania do nienawiści na tle różnic narodowościowych, etnicznych, rasowych, wyznaniowych, albo ze względu na bezwyznaniowość. Za to grożą kary do dwóch lat wiezienia; natomiast – na mocy artykułu 257 – na trzy lata więzienia można skazać tego, kto, publicznie znieważa grupę ludności albo poszczególną osobę z powodu jej przynależności narodowej, etnicznej wyznaniowej lub z takiego powodu narusza nietykalność.</p>
+        <p xml:id="p-7">– A mniejszości seksualne?</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

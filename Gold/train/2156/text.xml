@@ -1,0 +1,20 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">3.Przestań się martwić rzeczami, na które nie masz wpływu.</p>
+        <p xml:id="p-2">4.Śmiej się jak najczęściej. Kiedy jesteś w nienajlepszym nastroju, obejrzyj zabawny film, przypomnij sobie wyraźnie jakieś śmieszne wydarzenie, poszukaj towarzystwa, które potrafi Cię rozbawić.</p>
+        <p xml:id="p-3">5.Dbaj o odpoczynek. Najlepiej relaksuj się w ruchu. Zabawa ze skakanką, żonglowanie piłeczkami, ćwiczenia z zakresu "gimnastyki mózgu" (Znajdziesz je w książce: Carla Hannaford, Zmyślne ruchy. Podstawy kinezjologii edukacyjnej, 1998) znakomicie odprężają i pobudzają koncentrację.</p>
+        <p xml:id="p-4">6.Słuchaj muzyki relaksującej i aktywującej do nauki.</p>
+        <p xml:id="p-5">7. Wykorzystuj wyobraźnię i twórczą wizualizację. Wyobrażaj sobie siebie jako znakomitego ucznia, który odbiera nagrody, zdaje z powodzeniem kolejny egzamin. Przypominaj sobie bardzo dokładnie, przywołując tamte emocje, sytuacje z przeszłości, kiedy to osiągałeś różnorodne sukcesy.</p>
+        <p xml:id="p-6">8. Bądź cierpliwy i konsekwentny w tym, co robisz. Pamiętaj, że trening czyni mistrza.</p>
+        <p xml:id="p-7">9. Błędy traktuj wyłącznie jako informacje zwrotną. Przestań je głęboko przeżywać, poddaj je analizie, tak, by nigdy więcej ich nie popełniać. Pamiętaj o słowach słynnej psychoterapeutki Virgini Satir: "Popełniłeś błąd? Świętuj!".</p>
+        <p xml:id="p-8">1.4. Wyobraźnia</p>
+        <p xml:id="p-9">Einstein twierdził, że wyobraźnia jest ważniejsza od wiedzy, bo jest nieograniczona. Sam przyznawał, że miał duże trudności w myśleniu werbalnym i na poziomie abstrakcyjnych symboli. Zwykle więc myślał posługując się żywymi wyobrażeniami. To wymyślona podróż na promieniu słonecznym stała się dla niego natchnieniem do stworzenia teorii względności. Kolorowy chromowy film Kodaka wymyślili dwaj muzycy: Leopold Mannes i Leopold Godowsky. Pomysłodawcą koła pneumatycznego był weterynarz John Boyd Dunlop.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

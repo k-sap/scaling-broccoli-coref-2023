@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Teoria wolnych królewskich była produktem wyobraźni historycznej związanej z klimatem umysłowym lat trzydziestych i czterdziestych XX w. Twórcom tej koncepcji nieraz wytykano wpływ tamtych doświadczeń na ich sposób myślenia, a także przypominano ich polityczną aktywność w III Rzeszy. Okoliczności te, niewątpliwie istotne dla historii kultury XX w., nie mają jednak znaczenia dla weryfikacji tez o ustroju średniowiecznych społeczeństw. Każdy sposób myślenia o przeszłości wiąże się z jakimś sposobem wartościowania i rozumienia współczesnego świata. Rozbieżność sądów wartościujących, choćby w postaci odmiennych ocen ważności, jest zawsze obecna w sporach o interpretacje procesów historycznych. Dlatego spory te nie są do końca rozstrzygalne. Być może w takiej sytuacji, zamiast zarzucać fałsz wypowiedziom, które są wyrazem odmiennego poglądu na świat, należałoby raczej spisać protokół rozbieżności.</p>
+        <p xml:id="p-2">Nie oznacza to, że historykowi wszystko wolno. Granice relatywizmu wyznaczone są w naszym zawodzie przez ogólnie uznane rygory postępowania badawczego. To jest nasza procedura weryfikacji: twierdzenia, które nie liczą się z warsztatowymi regułami interpretacji zasobu źródłowego odrzucamy jako fałszywe. Słabą stroną "teorii wolnych królewskich" nie były jej światopoglądowe uwarunkowania, lecz nie dająca się usunąć bez naruszenia warsztatowych reguł gry niezgodność ze źródłami. Czasem pokrywano tę niezgodność milczeniem i pomijano kłopotliwe informacje, a nawet niewygodne kategorie źródeł (spisy praw barbarzyńskich), czasem poddawano je rażąco naciąganym zabiegom interpretacyjnym lub równoważono wymowę tekstu źródłowego sugestywną retoryką. Nie były to solidne fundamenty.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

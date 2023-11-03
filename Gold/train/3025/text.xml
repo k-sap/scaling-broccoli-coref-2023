@@ -1,0 +1,60 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">MARCIN</p>
+        <p xml:id="p-2">A co to ma wspólnego z miłością?</p>
+        <p xml:id="p-3">ANDRZEJ</p>
+        <p xml:id="p-4">Bo na billboardzie będzie apel do Basi.</p>
+        <p xml:id="p-5">MARCIN</p>
+        <p xml:id="p-6">No, chłopie. To ty idziesz na wielkość teraz? A co ze szczerością?</p>
+        <p xml:id="p-7">ANDRZEJ</p>
+        <p xml:id="p-8">Na szczerość to był czas wcześniej. Teraz muszę... na wielkość. I pomysłowość.</p>
+        <p xml:id="p-9">Wchodzą ANNA ze ZDZISIEM.</p>
+        <p xml:id="p-10">ANNA</p>
+        <p xml:id="p-11">Dzień dobry.</p>
+        <p xml:id="p-12">ZDZISIO</p>
+        <p xml:id="p-13">Dzień dobry.</p>
+        <p xml:id="p-14">MARCIN</p>
+        <p xml:id="p-15">/do ANDRZEJA, szeptem/</p>
+        <p xml:id="p-16">Wiedzą o Basi?</p>
+        <p xml:id="p-17">ANDRZEJ zabiera fakturę MARCINOWI i chowa do kieszeni.</p>
+        <p xml:id="p-18">ANDRZEJ</p>
+        <p xml:id="p-19">Ani słowa.</p>
+        <p xml:id="p-20">ANNA</p>
+        <p xml:id="p-21">Cześć, chłopcy. Nie wiedziałam, że tu będziesz, Marcinek, bo bym wzięła podwójny obiad.</p>
+        <p xml:id="p-22">MARCIN</p>
+        <p xml:id="p-23">Dzięki, ale ja muszę lecieć do radia. Do widzenia. Cześć, Jędruś.</p>
+        <p xml:id="p-24">MARCIN wychodzi.</p>
+        <p xml:id="p-25">ANNA</p>
+        <p xml:id="p-26">Synku, nałożyć ci Ø od razu?</p>
+        <p xml:id="p-27">ZDZISIO</p>
+        <p xml:id="p-28">/żartem/</p>
+        <p xml:id="p-29">Jeszcze pokrój kotleta i nakarm. On taki mały.</p>
+        <p xml:id="p-30">ANNA</p>
+        <p xml:id="p-31">Dziecko to dziecko. Co ja nie wiem, jak to jest przy takim remoncie? /do ANDRZEJA/ Pewnie zapominasz o jedzeniu?</p>
+        <p xml:id="p-32">ANDRZEJ</p>
+        <p xml:id="p-33">No, tak...</p>
+        <p xml:id="p-34">ANNA patrzy na ZDZISIA znacząco.</p>
+        <p xml:id="p-35">ANNA</p>
+        <p xml:id="p-36">/do ANDRZEJA/</p>
+        <p xml:id="p-37">Zjesz teraz?</p>
+        <p xml:id="p-38">ANDRZEJ</p>
+        <p xml:id="p-39">Teraz... Nie. Może później. Trochę później.</p>
+        <p xml:id="p-40">ANNA patrzy podejrzliwie. ZDZISIO rozgląda się.</p>
+        <p xml:id="p-41">ZDZISIO</p>
+        <p xml:id="p-42">Ale kawał roboty tu odwaliłeś.</p>
+        <p xml:id="p-43">ANDRZEJ potakuje zdawkowo.</p>
+        <p xml:id="p-44">ANNA</p>
+        <p xml:id="p-45">A co ty taki?</p>
+        <p xml:id="p-46">ANDRZEJ</p>
+        <p xml:id="p-47">Jaki?</p>
+        <p xml:id="p-48">ANNA</p>
+        <p xml:id="p-49">Normalnie to byś się rzucił na ten obiad... Masz gorączkę? Pokaż czoło.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

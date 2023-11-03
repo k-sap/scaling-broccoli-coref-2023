@@ -1,0 +1,18 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">- Często mówisz o wysyłaniu miłości w kosmos. Co to znaczy "wysyłać miłość"? - zapytałem.</p>
+        <p xml:id="p-2">- To znaczy popatrzeć na drugiego człowieka jak na brata lub siostrę, syna lub córkę, ojca lub matkę. To znaczy używać wolnej woli i rozumu zgodnie z intencją, dla której Bóg, Właściciel Ziemi dał je ludziom. To znaczy przez cały czas utrzymać połączenie ze swoją intuicją, swoim przewodnikiem duchowym i ze światem duchowym. To właśnie jest prawdziwe złoto, po które wystarczy wyciągnąć rękę, aby je znaleźć. Wystarczy poprosić, aby było dane, wystarczy uwierzyć, aby się stało. Kosmos odczuwa energię, która emanuje z aury człowieka. Wystarczy zwrócić myśl ku Stwórcy, ku Bogu i następuje "wysłanie". To takie proste.</p>
+        <p xml:id="p-3">- Czy kiedyś tak się stanie, że większość ludzi na ziemi zacznie wysyłać w kosmos energię miłości?</p>
+        <p xml:id="p-4">- Gdy po oczyszczeniu Ziemia powróci do równowagi i stanie się Rajską Planetą, zgodnie z planem jej Właściciela tak się stanie.</p>
+        <p xml:id="p-5">Tak - pomyślałem - ciągle jak echo powraca energia miłości. Jakąż potęgę musi posiadać ta energia, skoro tylko ona wystarczyłaby do uratowania ludzi. Widocznie jednak jest jej zbyt mało w naszym niedoskonałym świecie.</p>
+        <p xml:id="p-6">- Co będzie po obudzeniu Faraona? - pytałem dalej.</p>
+        <p xml:id="p-7">- Przybędą z Oriona Biali Bracia i pomogą ludziom zrozumieć, co to znaczy żyć. Ci, którzy to zrozumieją, ocaleją. Otrzymają znak życia. Ci, których serca będą zamknięte, będą musieli odejść.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

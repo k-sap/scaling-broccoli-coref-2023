@@ -1,0 +1,30 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">sp0: .. a kiedy masz tą komunię ?</p>
+        <p xml:id="p-2">sp1: w niedziele..</p>
+        <p xml:id="p-3">sp0: teraz w tą ?</p>
+        <p xml:id="p-4">sp1: no..</p>
+        <p xml:id="p-5">sp0: to prosto z juvenaliów na komunię..</p>
+        <p xml:id="p-6">sp1: dziewiąta rano. nie mam się w co ubrać. wiesz no po prostu to są takie sprawy że takie imprezy które rujnują ci życie..</p>
+        <p xml:id="p-7">sp0: tak. tym bardziej jak dzieciak wszystko już ma..</p>
+        <p xml:id="p-8">sp1: ale nie popierasz pomysłu z trampoliną ?</p>
+        <p xml:id="p-9">sp0: nie no pomysł jest że tak powiem nowatorski bardzo oryginalny i na pewno dostarczy twojemu Ø wielu..</p>
+        <p xml:id="p-10">sp1: ja mówię z babcią znowu się ucieszy ja mówię tak rozpakuje to od razu w kościele..</p>
+        <p xml:id="p-11">sp1: doskoczy do pierwszej komunii..</p>
+        <p xml:id="p-12">sp0: tylko kup mu od razu poduchy na około bo wiesz jak on zacznie tak wywijać jak tam się wyrąbie..</p>
+        <p xml:id="p-13">sp1: właśnie myślałam sobie o tym że jak se zrobi krzywdę to będzie na mnie kurde weź proszę cię Karol nie rób mi tego nie możliwe żeby no. wiesz ja to z myślą o tym że on se to w Grotnikach postawi na trawie gdzieś..</p>
+        <p xml:id="p-14">sp0: no. bo w domu to by o sufit zahaczał. ile osób ma przyjechać ?</p>
+        <p xml:id="p-15">sp1: no trochę tam będzie chyba. no ciocia Grażynka z Julcią i z Anią takie dwie fajne laseczki..</p>
+        <p xml:id="p-16">sp0: a ile ma lat ?</p>
+        <p xml:id="p-17">sp1: dwadzieścia kilka. taka fajna dziewczyna właśnie studiuje coś takiego. co ona studiuje ?</p>
+        <p xml:id="p-18">sp0: pewnie etnografię albo kulturoznawstwo.</p>
+        <p xml:id="p-19">sp1: nie nie nie nie nie nie nie nie nie nie nie nie. nie ale co studiowała na handel zagraniczny albo coś takiego nawet nie wiem czy nie skończyła. wspólnie z mamą właśnie te jakąś taka firmę handlową prowadzi..</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

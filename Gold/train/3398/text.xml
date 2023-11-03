@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Zuzanna Celmer, psycholog i psychoterapeuta:</p>
+        <p xml:id="p-2">Ponieważ wyznaczają one pewien ważny obszar władzy w związku. Zwykle albo kobieta, albo mężczyzna - jak to się potocznie określa - trzyma kasę. Bardzo często zdarza się więc, że druga strona stara się wygospodarować jakieś zaskórniaki, rozporządzać pewną kwotą samodzielnie, bo to daje poczucie niezależności. Tak się dzieje na różnych poziomach zamożności: wiem, że gorzej sytuowane kobiety z każdych zakupów odkładają sobie "koszyczkowe" - 10 gr, żeby kupić "Poradnik Domowy". W niektórych stadłach ukrywa się przed współmałżonkami, że - poza wspólnym rachunkiem bankowym - ma się jeszcze jedno, osobne konto. Kiedy w takim związku dochodzi do kryzysu i ów fakt wyjdzie na jaw, jest traktowany niesłychanie poważnie - jako wyraz ogromnej nielojalności. O ile zdradę seksualną ludzie są w stanie sobie wybaczyć, to dwóch rzeczy - absolutnie nie: czułości okazywanej "tej drugiej" (drugiemu) i nielojalności finansowej. Zatem budżetowa nieszczerość w małżeństwie to bardzo ryzykowna gra. Wiele osób, zwłaszcza w drugich związkach, decyduje się dziś na rozdzielność majątkową już od początku małżeństwa. Jest to znak czasów, ale rozwiązanie niekoniecznie doskonałe, bo zakłada nieufność wobec partnera. Lepiej byłoby znajdywać wyjście pośrednie, np. już na samym początku wspólnej drogi ustalić pewne kwoty, które będą w zupełnie suwerennej dyspozycji każdego z małżonków. Wspólna szuflada w małżeństwie powinna jednak istnieć, bo przecież w końcu na tym ono polega - na zaufaniu, bliskości, współdziałaniu. Trzeba przy tym pamiętać, że człowiek wynosi z rodzinnego domu niesłychanie silne przyzwyczajenia, także jeśli chodzi o sposób gospodarowania pieniędzmi. Dobrze jest więc też rozeznać, czy partner otrzymał w posagu sknerstwo, czy też rozrzutność. A następnie być gotowym na kompromisy w swoich przekonaniach na ten temat.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

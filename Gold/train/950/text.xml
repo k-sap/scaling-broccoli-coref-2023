@@ -1,0 +1,12 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Kościół, stosownie do sytuacji urbanistycznej, jest obrócony prezbiterium ku zachodowi, a fasada zamykała perspektywę ul. Starorynkowej (obecnie, po zniszczeniach wojennych, bezpośrednio przed kościołem roztacza się pl. Miłośników Astronomii). Jest budowlą barokową, jednonawową, z prostokątnym węższym prezbiterium, do którego od północy dobudowano zakrystię z lożą na piętrze. Prezbiterium kryte jest sklepieniem krzyżowym, nawa kolebkowym z lunetami. Wnętrze Ø obiega profilowany gzyms wsparty na zdwojonych pilastrach. Monumentalna, dwukondygnacyjna fasada ze skromnym portalem jest dzielona pilastrami, pomiędzy którymi umieszczono blendy, 3 najwyższe mieszczące posągi świętych. Fasadę wieńczy niska attyka, dawniej ozdobiona wazonami i trójkątny fronton. Na fasadzie umieszczono datę 1715 – oznaczającą zapewne rok jej ukończenia. Elewacje boczne, wzmocnione przyporami, z 3 kondygnacjami okien, są rozwiązane bardzo skromnie. Jednolite, regencyjne wyposażenie wnętrza powstało w latach 1715-1740 jako dzieło Józefa Antoniego Krausego, wystrój malarski wykonał jezuita Ignacy Steiner (Szteiner) (żyjący w latach 1691-1752). We wnętrzu znajdują się trzy bogato rzeźbione ołtarze, z których monumentalny ołtarz główny jest fundacją Jana Ansgarego Czapskiego, wojewody chełmińskiego. Obraz św. Franciszka Ksawerego przeniesiono w 1722 r. z Jabłonowa Pomorskiego, gdzie był czczony jako cudowny. Obeliskowe ołtarze boczne Niepokalanego Poczęcia NMP i św. Ignacego Loyoli posłużyły jako wzór m.in. dla wyposażenia kościoła bernardynów w Toruniu. Ambona i chór muzyczny zostały ozdobione motywami chińskimi (tzw. chinoiserie), które z jednej strony odpowiadały ówczesnej modzie, z drugiej wskazują na misyjną działalność patrona świątyni. Ponadto zachowały się 4 konfesjonały, ławy i barokowy obraz przedstawiający Zwiastowanie NMP. W połowie XIX w. dwa dalsze ołtarze zostały przekazane do wzniesionego wówczas kościoła katolickiego w Kwidzynie.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

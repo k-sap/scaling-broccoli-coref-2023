@@ -1,0 +1,19 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">W szesnastej edycji Copa Libertadores udział wzięło 21 klubów reprezentujących wszystkie kraje zrzeszone w CONMEBOL. Każde z 10 państw wystawiło po 2 kluby, nie licząc broniącego tytułu argentyńskiego klubu Independiente Buenos Aires, który awansował do półfinału bez gry. Ostatecznie Independiente obronił tytuł najlepszej klubowej drużyny w Ameryce Południowej, pokonując w finale po trzech meczach chilijski klub Unión Española Santiago. Independiente zdobył Puchar Wyzwolicieli już po raz szósty, a jednocześnie czwarty z kolei. W pierwszym etapie 20 klubów podzielono na 5 grup po 4 drużyny. Z każdej grupy do następnej rundy awansował tylko zwycięzca. Jako szósty klub do półfinału awansował broniący tytułu Independiente. W następnej, półfinałowej rundzie, 6 klubów podzielono na 2 grupy liczące po 3 drużyny. Do finału awansowali zwycięzcy obu grup. W tej edycji obok chilijskiego finalisty rewelacyjnie spisał się peruwiański klub Universitario Lima, który awansował do finału po wykazaniu wyższości w fazie grupowej nad dwoma klubami z Urugwaju - słynnym Peñarolem oraz nad zespołem Wanderers. Na uwagę zasłużyła także postawa ekwadorskiej drużyny LDU Quito. Jedyny brazylijski półfinalista, Cruzeiro Belo Horizonte, po zażartej walce z dwoma klubami argentyńskimi Rosario Central i Independiente, uległ im jedynie gorszym bilansem bramkowym.</p>
+        <p xml:id="p-2">1/4 finału</p>
+        <p xml:id="p-3">Grupa 1 Argentyna, Paragwaj</p>
+        <p xml:id="p-4">Z powodu jednakowej liczby punktów rozegrano mecz dodatkowy: Grupa 2 Boliwia, Chile</p>
+        <p xml:id="p-5">Grupa 3 Brazylia, Kolumbia</p>
+        <p xml:id="p-6">Grupa 4 Ekwador, Wenezuela</p>
+        <p xml:id="p-7">Grupa 5 Peru, Urugwaj</p>
+        <p xml:id="p-8">Obrońca tytułu</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

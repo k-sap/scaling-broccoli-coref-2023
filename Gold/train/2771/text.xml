@@ -1,0 +1,14 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">trent Mnie w Twoim wieku rodzice yganiali na kolonie (chyba chcieli się mnie pozbyć z domu hehe) W wieku 16 lat to już ostatnia szansa żeby pojechać na kolonie jakoś wytłumacz to rodzicom. Kolonia to normalna sprawa, każdy przez to przechodzi z zieloną nocą włącznie hehe. Ja byłem dwa razy i wspominam kolonie jako najlepszy okres z mojego dzieciństwa (przynajmniej jeden z lepszych Ø). Co innego wycieczki szkolne - żenada.</p>
+        <p xml:id="p-2">Kaka Demona Yo, zaje bistych masz starych. Jeśli chcesz naprawdę jechać to się lepiej pospiesz, bo za 2 lata będzie za późno. Poza tym, wyjaśnij im, że będą DOROŚLI wychowawcy, którzy będą pilnować całe wasze stado i na żadną orgię ani libację, się nie załapiesz.</p>
+        <p xml:id="p-3">Nat. CYTAT "W wieku 16 lat to już ostatnia szansa żeby pojechać na kolonie" Oj, nie przesadzaj, bo to nie ostatnia szansa, jednak półmetek. Są różne kolonie i obozy do 18 lat, tak samo jak i do 15. CYTAT "Poza tym, wyjaśnij im, że będą DOROŚLI wychowawcy, którzy będą pilnować całe wasze stado i na żadną orgię ani libację, się nie załapiesz." Dokładnie. Wychowawcy są za całą gromadę odpowiedzialni. A jeśli zdarzy się jakiś niemiły wybryk (złamanie regulaminu koloni/obozu) to możesz nawet być odesłany do domu na koszt rodziców, więc lepiej się pilnować. I radziłabym załatwić to z rodzicami jak najszybciej, bo potem miejsc może nie być. Ja mam już zaklepany obóz od.. 2 tygodni?</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

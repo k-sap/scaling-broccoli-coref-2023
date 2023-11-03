@@ -1,0 +1,16 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Zakusy nasiliły się po liście, który Bąk wystosował w kwietniu 1952 do Bieruta.</p>
+        <p xml:id="p-2">Już w maju tego samego roku poznańscy literaci dzielili skórę na niedźwiedziu. Do Zarządu wpłynęły natychmiast dwa (kolejne) podania o jego mieszkanie, podpisane przez partyjnych członków-kandydatów - kierownika Koła Młodych, a wkrótce sekretarza Zarządu Oddziału partyjnego pisarza i poetę, Bogusława Koguta, który podkreślał swój los biedniackiego dziecka, gruźlicę płuc, publikacje we "Wsi Tworzącej", "Miesięczniku Ludowym", "Ogniwach".</p>
+        <p xml:id="p-3">Ponieważ zaistniała możliwość opuszczenia mieszkania przez kol. Bąka w związku z jego ewentualnym wyjazdem za granicę, proszę o zezwolenie na zajęcie przeze mnie tegoż mieszkania - pisał.</p>
+        <p xml:id="p-4">Podobne pismo wystosował również pierwszy sekretarz powstałej w 1951 organizacji partyjnej przy ZLP, Jan Bykowski, który nigdy nie wydał żadnej książki, nie został nawet członkiem rzeczywistym. A Bogusław Kogut zajmował właściwie dwa pokoje, bo otrzymał też zezwolenie na korzystanie z pokoju gościnnego jako swojej pracowni.</p>
+        <p xml:id="p-5">Ale prezes Rogalski szybko mu je cofnął, po przeglądzie, w wyniku którego stwierdzono, że pokój nie jest utrzymany w należytym porządku, a ponadto znajdowały się w nim rzeczy osobiste - garderoba w szafie, klamerki do bielizny. Pościel będąca własnością Zw. Literatów była zmięta, łóżko w nieładzie, zarzucone maszynopisami. W tym stanie rzeczy pokój ten przestał być gościnnym i wygląda na pokój prywatny kolegi. Zarząd nie może tego tolerować i wzywa Kolegę do przywrócenia właściwego mu charakteru.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

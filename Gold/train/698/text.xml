@@ -1,0 +1,17 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Fama o czakramie, który podobno znajduje się pod Mysią Wieżą w Kruszwicy zatacza coraz szersze kręgi. Mówi się też o tym, że pobyt w pobliżu tej starej zamkowej baszty wzmacnia męską potencję.</p>
+        <p xml:id="p-2">Od kilku lat piszemy, że coraz liczniejsze grupy turystów ciągną do Kruszwicy nie tylko dla historycznych pamiątek i legendy o Piaście i Popielu. Nad Gopło zwabia ich także wieść o znajdującym się pod Mysią Wieżą czakramie, emitującym pozytywną moc. Czakramy to w hinduskiej tradycji magiczne miejsca na ziemi, emitujące korzystną energię. Takie czakramy stwierdzono m.in. w Rzymie, Delhi, Jerozolimie i pod Wawelem w Krakowie.</p>
+        <p xml:id="p-3">Głowa przestaje boleć...</p>
+        <p xml:id="p-4">Jak dowiedziała się "Pomorska" w Nadgoplańskim Oddziale PTTK wiele osób, nawet po krótkim pobycie w pobliżu Mysiej Wieży stwierdza u siebie pozytywne skutki - poprawę samopoczucia, a także wzrost optymizmu i sił witalnych. Podobno ustępują też bóle głowy, stawów i mięśni. Tę zagadkową sprawę badali już bioenergoterapeuci, potwierdzając spostrzeżenia turystów.</p>
+        <p xml:id="p-5">Większa chęć na flirt</p>
+        <p xml:id="p-6">Nieoczekiwanie wyszło na jaw, że czakram ma jeszcze inne działanie. Mężczyźni w sile wieku twierdzą, że po zwiedzeniu zamkowej baszty lub po krótkim choćby pobycie w jej pobliżu znikają ich problemy z... potencją i rośnie ich chęć do obcowania z płcią odmienną. Z tego jasno wynika, że czakram działa jak afrodyzjak. Jeden z naszych Czytelników do tego stopnia uzależnił się od regularnego o wzmocnienia tajemniczym gruczołem, że zimą, gdy trudno było przedostać się pod Mysią Wieżę (zaspy!), zatelefonował ze skargą do "Pomorskiej". - Przecież ja muszę - dowodził. - Tylko to mi pomaga...</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

@@ -1,0 +1,19 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">– To po cóżeś tak zwiewał od bolszewików? Tam też nie ma prawdy. Nigdzie dziś nie ma prawdy, ni w sądzie, ni u popa, ni u własnej żony.</p>
+        <p xml:id="p-2">– W cerkwi postoisz, to jeszcze jest prawda.</p>
+        <p xml:id="p-3">– A dajcie spokój, wuju, jak wy w cerkwi widzicie prawdę. O zobaczcie, pop z Folwark zgarnął tyle pieniędzy, bo był ten cud z ikoną, wszystkie pieniądze, które ludzie nieśli na ikonę, zabrał.</p>
+        <p xml:id="p-4">– No, ale widzisz. Widzisz, co się z nim stało. Zmarł. Znaczy się, jest jakaś sprawiedliwość.</p>
+        <p xml:id="p-5">– I ty umrzesz, i ja umrę. I to jest jedyna sprawiedliwość, że wszystkim nam wystarczą cztery deski. I wszystkich, biednych i bogatych, to samo czeka, ta sama prawda.</p>
+        <p xml:id="p-6">– Prawda jest w Piśmie Świętym. Powiedziane jest: poślę Syna Człowieczego, żeby zbawił świat. I to nas niebawem czeka.</p>
+        <p xml:id="p-7">Pod cerkwią, usiadłszy na starej, zgrzebnej płachcie, Hapka starowinka śpiewa co niedzielę swą dziwną pieśń:</p>
+        <p xml:id="p-8">Bacznie obserwowano znaki na niebie i ziemi i mówiono o nich w niedzielę przed cerkwią, gdy baciuszka celebrował tajemnicę Przeistoczenia. Za chwilę wyjdzie z zakrystii, rozsunie zasłonę, otworzy carskie wrota i objawi światu najbardziej pocieszającą wieść: żywy Bóg jest wśród nas w widzialnym ciele eucharystii. Jesteśmy zbawieni. Ale na razie lud po swojemu komentuje nieskończoność.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

@@ -1,0 +1,20 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Art. 270.</p>
+        <p xml:id="p-2">1. Rada Główna Szkolnictwa Wyższego oraz Państwowa Komisja Akredytacyjna wybrane na podstawie przepisów ustawy wymienionej w art. 276 pkt 2 pełnią swoją funkcję do czasu upływu kadencji, na które zostały wybrane.</p>
+        <p xml:id="p-3">2. W przypadku wygaśnięcia mandatu członka organu kolegialnego, o którym mowa w ust. 1, przed upływem kadencji wyboru uzupełniającego dokonuje się na okres nie dłuższy niż do końca upływu kadencji, na którą wybrano cały skład organu kolegialnego.</p>
+        <p xml:id="p-4">3. Członek organu kolegialnego wybrany na zasadach określonych w ust. 2 może być wybrany na kolejną kadencję na zasadach określonych w ustawie.</p>
+        <p xml:id="p-5">4. Jednoosobowe i kolegialne organy uczelni państwowej, wybrane na podstawie przepisów ustaw wymienionych w art. 276, przekształconej zgodnie z art. 252 w uczelnię publiczną, pełnią swoją funkcję do czasu upływu kadencji, na którą zostały wybrane.</p>
+        <p xml:id="p-6">5. Organy, o których mowa w ust. 4, mogą być wybrane na kolejną kadencję z zachowaniem art. 77 ust. 2, z zastrzeżeniem ust. 6 i 7.</p>
+        <p xml:id="p-7">6. Kadencja kolegialnych organów uczelni publicznej rozpoczynająca się w dniu 1 września 2006 r. trwa do dnia 31 sierpnia 2008 r.</p>
+        <p xml:id="p-8">7. Osoba pełniąca funkcję organu jednoosobowego uczelni publicznej, której kadencja kończy się z dniem 31 sierpnia 2006 r., może być ponownie wybrana na dwuletnią kadencję.</p>
+        <p xml:id="p-9">Art. 271. Do przewodów habilitacyjnych i postępowań o nadanie stopnia doktora habilitowanego i tytułu profesora wszczętych i niezakończonych przed dniem wejścia w życie ustawy stosuje się przepisy ustawy zmienianej w art. 251 w brzmieniu obowiązującym przed dniem wejścia w życie niniejszej ustawy.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

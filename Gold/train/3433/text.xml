@@ -1,0 +1,14 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Oczywiście błąd nie polega na tym, że NATO w ogóle się zaangażowało w ten kryzys. Trudno wręcz sobie wyobrazić, aby wobec podobnych poważnych konfliktów świat pozostawał obojętny. Trzeba próbować je rozwiązywać z udziałem międzynarodowych organizacji. Tyle że różnica między udziałem w opanowaniu kryzysu a pełną odpowiedzialnością za jego ostateczne rozwiązanie jest olbrzymia.</p>
+        <p xml:id="p-2">Kryzys afgański ma charakter uniwersalny, przebiega naraz w wielu wymiarach, nie tylko w wymiarze militarnym. Ważny jest tam również wymiar polityczny, społeczny, gospodarczy, kulturowy, religijny czy wreszcie informacyjny. Dlatego to nie Sojusz Atlantycki powinien swoimi sztandarami patronować wysiłkowi społeczności międzynarodowej w rozwikłaniu konfliktu. A tym bardziej nie powinien z tak beznadziejnego zadania czynić swojej sztandarowej misji i od jej powodzenia uzależniać sens swego dalszego istnienia. Dzisiejsze hasło, że Afganistan jest prawdziwym sprawdzianem dla NATO - to wielkie nieporozumienie, które wręcz szkodzi tej organizacji. Wiadomo bowiem, że ten sprawdzian jest z góry skazany na porażkę, egzaminu nie można zdać. Nie ma szans na zwycięstwo militarne w Afganistanie. Co prawda nie sądzę, abyśmy ponieśli tak spektakularną klęskę, jak ZSRR w latach 1979-1989, ale NATO jako organizacja będzie systematycznie podupadać. Niestety, z każdym miesiącem utwierdzam się w tej opinii.</p>
+        <p xml:id="p-3">NATO, przejmując od Amerykanów pełną odpowiedzialność za kryzys afgański, popełniło błąd. Polska jako jedno z państw członkowskich również, przecież współdecydowaliśmy w tej sprawie. Z tym że Polska ma na swym koncie jeszcze jedno niezbyt przemyślane posunięcie. Ma ono nie tylko wymiar sojuszniczy, ale także czysto narodowy. My nie tylko razem ze wszystkimi sojusznikami wciągnęliśmy NATO w strategiczną pułapkę afgańską. Dodatkowo, z własnej inicjatywy, robimy wiele, aby je w tej pułapce jeszcze mocniej osadzić. Bo czymże innym jest owo ostentacyjne "dawanie przykładu" wysyłaniem więcej wojska niż oczekiwano i wysyłaniem go bez nakładania ograniczeń co do zakresu i charakteru jego użycia?</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

@@ -1,0 +1,14 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Bodzio kontra Cassina</p>
+        <p xml:id="p-2">Jeśli już taka gotowość na nas spłynie, co zadecyduje o tym, jak będzie wyglądało miejsce, w którym spędzamy większość wolnego czasu? O przychylność klientów, jak w typowym systemie politycznym, walczą dwie meblarskie formacje: konserwatywna i liberalna. Ta pierwsza schlebia dotychczasowym przyzwyczajeniom, niechętna jest nowinkom i modom, zerka głównie w stronę klienta mniej zamożnego i mniej wykształconego. Jeżeli sięga po nowoczesne wzornictwo, to ostrożnie i wybiórczo. Jej zdecydowanym liderem jest firma BRW, czyli Black, Red, White (dziwną słabość mają polscy producenci mebli do obco brzmiących nazw) z Biłgoraja. To prawdziwy fenomen na naszym rynku. Założona w 1991 r. dziś ściąga rocznie z krajowego rynku ponad 1,3 mld zł. Dla porównania, drugi na liście Nowy Styl sprzedaje w Polsce meble za 242 mln zł. Zdaniem Marka Hryniewickiego firma BRW przyjęła bardzo skuteczną strategię rynkową: przede wszystkim skupiła się na zbudowaniu ogólnopolskiej sieci handlowej, a dopiero później zajęto się wzornictwem. Rzeczywiście, meble BRW dostępne są w ponad 400 sklepach w kraju, często w malutkich miasteczkach. Na swych stronach internetowych firma reklamuje się hasłem "Meble dla wszystkich". Cokolwiek mylącym. Albowiem jest to oferta głównie dla tzw. klienta ekonomicznego, bazująca na gorszych materiałach.</p>
+        <p xml:id="p-3">Po drugiej stronie meblowej sceny liderem pozostaje IKEA, będąca nie producentem, ale sprzedawcą mebli, zamawianych w różnych fabrykach, choć według jednolitych standardów jakościowych, a przede wszystkim estetycznych. Legenda IKEA w Polsce sięga odległych czasów. W 1961 r., gdy koncern był jeszcze małą, prowincjonalną, szwedzką firmą, już zamawiał w polskich fabrykach krzesła do swoich sklepów. Dziś co piąty produkt sprzedawany w sklepach sieci na całym świecie powstaje w jednej z 60 polskich firm.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

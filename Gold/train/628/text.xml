@@ -1,0 +1,19 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Dla porównania - stałe wydatki kancelarii na coroczną dotację dla Narodowego Funduszu Rewaloryzacji Zabytków Krakowa rosną w przyszłym roku tylko o 17 proc.</p>
+        <p xml:id="p-2">Wydatki majątkowe kancelarii to m.in. modernizacje rezydencji: w Augustówce (9,1 mln zł), w Otwocku (4 mln zł), hotelu Klonowa (6,5 mln zł).</p>
+        <p xml:id="p-3">Na zakupy sprzętu komputerowego, telekomunikacyjnego, urządzeń medycznych, gastronomicznych, chłodniczych, kserokopiarek, niszczarek itp. kancelaria chce wydać w przyszłym roku ponad 3 mln zł.</p>
+        <p xml:id="p-4">Niewiele więcej ma kosztować przyznawanie przez prezydenta odznaczeń państwowych (ponad 3,4 mln zł, o 19 proc. więcej niż w br.).</p>
+        <p xml:id="p-5">Kancelaria chciałaby też zwiększyć zatrudnienie o 16 etatów.</p>
+        <p xml:id="p-6">Mniejsze uposażenia</p>
+        <p xml:id="p-7">Wczoraj Sejmowa Komisja Regulaminowa i Spraw Poselskich pozytywnie zaopiniowała projekt budżetu Kancelarii Senatu na 1998 r. Kancelaria musi tylko zmniejszyć wydatki na uposażenia senatorów, bo te uzależnione są od płac wysokich urzędników państwowych (tzw. erki), a ci mają przecież dostać - zgodnie z rządową autopoprawką do projektu budżetu - podwyżki na poziomie 13 proc., a nie - jak planował poprzedni rząd - ponad 28 proc.</p>
+        <p xml:id="p-8">Jeżeli Kancelaria Senatu zmniejszy wydatki na uposażenia senatorów, to - jak oblicza Ministerstwo Finansów - będzie można zaoszczędzić ok. 1,5 mln zł. Sejmowa komisja chce też, by kancelaria skorygowała lub uzasadniła, dlaczego zwiększa wydatki na inwestycje oraz podróże zagraniczne i krajowe senatorów.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

@@ -1,0 +1,30 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">ale wiesz co ? a powiedz mi a ty piekłaś na oleju je ?</p>
+        <p xml:id="p-2">tak.</p>
+        <p xml:id="p-3">nie czuje się tego oleju.</p>
+        <p xml:id="p-4">bo malutko wiesz co.</p>
+        <p xml:id="p-5">tak ?</p>
+        <p xml:id="p-6">ja właściwie tylko podlewam tak jak dziadek smażył to. to one byłe takie tłuściutkie jak się je brało w ręcę bo dziadek je cały czas podlewał. a ja właściwie daje.</p>
+        <p xml:id="p-7">dobra to takie z danio i z nutellą. bardzo dobre.</p>
+        <p xml:id="p-8">co któryś raz i</p>
+        <p xml:id="p-9">znaczy wiesz bo ja to tak nie przepadam za zapachem za smakiem oleju ale tu się go. nie czułam oleju żeby był wiesz.</p>
+        <p xml:id="p-10">poza tym ja używam tego z pestek winogron.</p>
+        <p xml:id="p-11">to prawda to jest jedyny który nie nie śmierdzi.</p>
+        <p xml:id="p-12">w ogóle.</p>
+        <p xml:id="p-13">tak. bo wszystkie inne. mhm. ja też mam. też mam ten z pestek z winogron. taki bezzapachowy.</p>
+        <p xml:id="p-14">tak. i wtedy jakoś bo jak ja. wiesz po dłuższym czasie.</p>
+        <p xml:id="p-15">nawet słonecznikowy oliwkowy. czy z oliwy tam to też wszystko.</p>
+        <p xml:id="p-16">chciałam mieć inny to wtedy mówię choroba. tego w ogóle się nie czuje. a jak. bo ja daję trochę do ciasta. to do smażenia prawie w ogóle.</p>
+        <p xml:id="p-17">właśnie bo jak się do ciasta doda to potem one też się lepiej. wiesz nie przywierają. mają.</p>
+        <p xml:id="p-18">dziadek lał do ciasta .</p>
+        <p xml:id="p-19">a jak się doda roztopionego masła do ciasta to wtedy się ładnie mienią. dopiero.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

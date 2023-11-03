@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Kończące się stulecie pełne było skrajności. Z jednej strony upowszechnienie swobód obywatelskich, wprowadzenie nowych, skutecznych leków i technologii diametralnie zmieniających nasze życie, z drugiej - wojny na niespotykaną wcześniej skalę. To był ważny wiek. Czy osiągnięte tempo rozwoju cywilizacyjnego będzie coraz szybsze? Trudno bawić się w futurologię, ale jak dotąd nic nie hamuje szeroko rozumianego postępu. Osobną sprawą jest pytanie, czy ludzie czują się szczęśliwsi. Nie można zapominać, że głównymi zabójcami w skali globalnej są wciąż głód i malaria. O swobodach obywatelskich wielu mieszkańców świata może tylko marzyć.</p>
+        <p xml:id="p-2">Czego oczekuję od nadchodzącego wieku? Przede wszystkim wykorzystania dobrego dziedzictwa i szans, które stworzyło nam mijające stulecie. Powszechny pokój i globalny dobrobyt to marzenia, za którymi warto podążać. Wierzmy, że wiek XXI będzie lepszy od poprzednich.</p>
+        <p xml:id="p-3">Moją osobistą pasją jest nauka. W planach na początek stulecia mam jak najszybsze ukończenie studiów, zdobycie doktoratu i podjęcie pracy w dobrym zespole naukowo-badawczym. Chciałbym, aby to był zespół polski, dysponujący warunkami do pracy na poziomie światowym. Wierzę, że w XXI wieku nauka zajmie poczesne miejsce w budżetach wszystkich państw. Zwłaszcza rozwój nauk biologicznych i nowych technologii przekazywania informacji będzie miał ogromny wpływ na życie ludzi.</p>
+        <p xml:id="p-4">Moje plany naukowe dotyczą inżynierii białkowej - badania istniejących i projektowania nowych białek, czyli związków o podstawowym znaczeniu dla życia. Chciałbym w swojej pracy wykorzystywać modele matematyczne, które coraz wierniej potrafią naśladować naturę. Znajomość struktury i właściwości białek pozwala na projektowanie nowych leków. A projektant leków to zawód i wyzwanie na miarę nowego millenium.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

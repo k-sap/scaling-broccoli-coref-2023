@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Więc rozległy się wołania inne, potężne i radosne: - Pan nadchodzi! Pan nadchodzi! Ogarnięte ekstazą radości twarze obróciły się ku płomieniom. Nie czekając, aż ją zaintonuje Piotr lub Linus, tłum podniósł pieśń wielkanocną - pełną szczęścia i triumfu:</p>
+        <p xml:id="p-2">Witaj, Ty, któryś zmartwychwstał. Króluj nam i panuj nam, Chryste...</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

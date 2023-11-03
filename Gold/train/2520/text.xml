@@ -1,0 +1,18 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Regulaminy Guinnessa są bardzo surowe i skrupulatne. Po pierwsza - ryba nie mogła być mrożona, po drugie wszystkie najważniejsze czynności rekordzista musiał wykonać sam, po trzecie - jak już wspomniałem - ryba nie tylko powinna być jadalna, ale też smaczna.</p>
+        <p xml:id="p-2">Kilka dni przed próbą bicia rekordu jego inicjatorzy: szef targów - Jan Akielaszek oraz dyrektor orbisowskich hoteli „Wrocław” i „Monopol” - Tadeusz Szymczak razem z przyszłym rekordzistą zastanawiali się, jaką wybrać rybę. W grę mogły wchodzić tylko trzy: sandacz, szczupak i sum z milickich stawów. Na wszelki wypadek zamówiono największego z możliwych - morskiego miecznika. Z ramienia Guinnessa na przebiegiem całej próby czuwał polski wydawca światowej księgi rekordów, Zenon Pustelnik z „Panteonu”.</p>
+        <p xml:id="p-3">Inne rekordy Guinessa</p>
+        <p xml:id="p-4">Najstarszy wrocławski rekord zapisany w tej księdze pochodzi z roku 1919, kiedy Wrocław nazywał się jeszcze Breslau i użyto tu największych śmigieł Garuda o średnicy 6,9 m każde, do samolotu Linke-Hoffman napędzanego przez cztery silniki Mercedesa.</p>
+        <p xml:id="p-5">Jest też rekord milenijnej sztafety pływackiej 1000 x 50 m pobity 18 czerwca ubiegłego roku. Z numerem 1 wskoczył do basenu wiceprezydent Wrocławia Andrzej Łoś, a z numerem 1000 dziś już były wojewoda Witold Krochmal.</p>
+        <p xml:id="p-6">Marzą o tym setki ludzi</p>
+        <p xml:id="p-7">Na stronach sportowych można znaleźć naszą trzykrotną mistrzynię olimpijską w strzelaniu - Renatę Mauer-Różańską. Wiem to wszystko, bo przedwczoraj trafiła w moje ręce prosto z Hiszpanii najnowsza „Guinness World Records 2002”.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

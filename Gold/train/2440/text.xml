@@ -1,0 +1,14 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Czarny bez zawiera bardzo dużo witaminy C, a także A, B1, B2, i J, antocyjany, olejki eteryczne, garbniki, pektyny, sole mineralne, enzymy i substancje hormonopodobne, kwas octowy, jabłkowy, walerianowy, winowy i benzoesowy. Ułatwia przyswajanie innych witamin, wzmacnia, chroni przed zakażeniem wirusami grypy, oraz działa odtruwająco. Jest skuteczny przy leczeniu niestrawności i zaburzeniach trawienia. Ma działanie przeciwgorączkowe, napotne, przeciwbólowe, moczopędne, wykrztuśne, obniżające poziom cholesterolu, przeciwreumatyczne i zmniejszające kruchość naczyń włosowatych</p>
+        <p xml:id="p-2">Aronia - Aronia Ten niezwykły owoc został doceniony przez specjalistów od żywienia i medycyny naturalnej niedawno. W Polsce aronię czarną z jadalnymi owocami uprawia się zaledwie od dwudziestu lat. Cenne są szczególnie czarne, twarde jagody o średnicy nieprzekraczającej 1 centymetra. Przypominają miniaturowe jabłuszka pokryte meszkowatą skórką skrywającą ciemnoczerwony silnie barwiący sok o lekko cierpkim smaku. Owoce i przetwory zawierają bardzo dużo garbników, dzięki czemu są bardzo odporne na psucie i fermentację. Wytwarza się z nich pełnowartościowe dżemy i soki. To co sprawiło, że aronia znalazła duże zastosowanie w medycynie naturalnej i kosmetyce to antyutleniacze (flawonoidy) i witamina C, których bardzo dużo zawierają owoce. Są idealne w profilaktyce zachorowania na miażdżycę</p>
+        <p xml:id="p-3">Flawonoidy są skuteczne w wychwytywaniu i zmiataniu wolnych rodników, wiązaniu jonów toksycznych metali ciężkich - żelaza i miedzi, pobudzaniu niektórych enzymów do unieszkodliwiania substancji rakotwórczych, ochrony witamin. Mają też korzystne działanie na układ sercowo-naczyniowy. Uszczelniania naczynia krwionośne oraz obniżają ciśnienie tętnicze krwi</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

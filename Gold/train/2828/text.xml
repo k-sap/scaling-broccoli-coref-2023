@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Celem programu jest, aby uczestniczący w programie bezrobotni i rolnicy po ukończeniu kursu mieli większe szanse na znalezienie pracy lub nawiązanie kontaktu z zagranicznymi inwestorami. Powinno im też być łatwiej „odnaleźć się” po wejściu Polski do Unii Europejskiej, mają bowiem szansę być bardziej konkurencyjni na rynku pracy.</p>
+        <p xml:id="p-2">Dla powodzenia programu konieczna jest współpraca z lokalną administracją. Powiatowe Urzędy Pracy kierują bezrobotnych na kursy organizowane przez Fundację Edukacyjną Bachalskiego w ramach projektu „Edukacja bez Granic”. Wcześniej urzędy dowiadują się, czy pozostający bez pracy chcą podjąć naukę języków.</p>
+        <p xml:id="p-3">Niezbędni i nieocenieni dla działania programu „Edukacja bez Granic” są wolontariusze. Są to młodzi ludzie, uczniowie szkół średnich lub studenci, którzy prowadzą zajęcia i współtworzą program. Są oni gotowi poświęcić swój czas i energię, żeby bezinteresownie pomóc innym. Bez takich ludzi żadna akcja charytatywna nie miałaby szans na powodzenie. Należy cieszyć się z faktu, że jest ich coraz więcej, mimo że wolontariat nie jest w Polsce zbyt popularny. Fundacja Edukacyjna Bachalskiego zaprasza młodych i aktywnych ludzi do pomocy przy programie „Edukacja bez Granic”.</p>
+        <p xml:id="p-4">Fundacja Edukacyjna Bachalskiego – została założona przez Dariusza Jacka Bachalskiego, aby wspierać społeczne inicjatywy edukacyjne. Jacek Bachalski, który jest jednocześnie biznesmenem (właścicielem agencji edukacyjnej) i posłem parlamentu z ramienia Platformy Obywatelskiej, z myślą o tych mniej zamożnych, których nie stać na opłacenie kursów językowych, a którzy chcą poszerzać swoje kwalifikacje zawodowe powstała Fundacja Edukacyjna Bachalskiego, wspierająca program „Edukacja bez Granic”.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

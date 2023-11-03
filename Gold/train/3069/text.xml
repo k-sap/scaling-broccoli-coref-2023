@@ -1,0 +1,53 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">ŁUKASZ</p>
+        <p xml:id="p-2">zanim Kacper dokończy</p>
+        <p xml:id="p-3">MOCNO</p>
+        <p xml:id="p-4">Tak, chcę chodzić.</p>
+        <p xml:id="p-5">Zdziwiony?</p>
+        <p xml:id="p-6">pauza</p>
+        <p xml:id="p-7">KACPER</p>
+        <p xml:id="p-8">CICHO I POWAŻNIE, ALE DELIKATNIE</p>
+        <p xml:id="p-9">Ale zdajesz sobie sprawę, że to nie jest pewne? Wiesz, że jeśli się nie udało w Stanach, to... to teraz też się może nie udać..?</p>
+        <p xml:id="p-10">ŁUKASZ</p>
+        <p xml:id="p-11">OD RAZU WPROST</p>
+        <p xml:id="p-12">Pewnie, że wiem. I jeśli się boisz, że wpadnę w czarną rozpacz, gdyby się okazało, że to jednak na darmo, to spoko. Jestem na to przygotowany.</p>
+        <p xml:id="p-13">KACPER</p>
+        <p xml:id="p-14">Wiesz co?</p>
+        <p xml:id="p-15">ŁUKASZ</p>
+        <p xml:id="p-16">Co?</p>
+        <p xml:id="p-17">KACPER</p>
+        <p xml:id="p-18">Jeśli będziesz dojrzewał w takim tempie, to...</p>
+        <p xml:id="p-19">ŁUKASZ</p>
+        <p xml:id="p-20">...to w przyszłym roku będę miał około 347 lat. I bardzo się z tego cieszę.</p>
+        <p xml:id="p-21">zbliżenie Kacpra - nie jest pewien czy nie jest to jednak jakaś nowa gra Łukasza - przygląda mu się uważnie</p>
+        <p xml:id="p-22">pauza</p>
+        <p xml:id="p-23">ŁUKASZ</p>
+        <p xml:id="p-24">A może... Może podrzuciłbyś mnie pod szpital? Taksówki są jednak drogie...</p>
+        <p xml:id="p-25">KACPER</p>
+        <p xml:id="p-26">Jasne.</p>
+        <p xml:id="p-27">błyskawicznie wyjmuje portfel i podaje mu banknot 200-złotowy</p>
+        <p xml:id="p-28">Weź na powrót.</p>
+        <p xml:id="p-29">ŁUKASZ</p>
+        <p xml:id="p-30">KONKRETNIE</p>
+        <p xml:id="p-31">Dzięki, ale nie. Jak już nie będę miał ani złotówki, to cię poproszę, ale teraz... jeszcze mam.</p>
+        <p xml:id="p-32">podchodzą do drzwi mieszkania</p>
+        <p xml:id="p-33">KACPER</p>
+        <p xml:id="p-34">Po co chciałeś się ze mną spotkać?</p>
+        <p xml:id="p-35">ŁUKASZ</p>
+        <p xml:id="p-36">zatrzymuje się</p>
+        <p xml:id="p-37">Żeby ci podziękować.</p>
+        <p xml:id="p-38">KACPER</p>
+        <p xml:id="p-39">?</p>
+        <p xml:id="p-40">ŁUKASZ</p>
+        <p xml:id="p-41">Za to że we mnie wierzysz.</p>
+        <p xml:id="p-42">zbliżenia obu</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

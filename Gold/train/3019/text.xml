@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">W czasach, kiedy podróżowało się tu i tam bez towarzystwa Mężczyzny Osobistego, można było się nauczyć jednej rzeczy: mężczyźni na wszystkich kontynentach używają tych samych tricków, tych samych zdań, żeby zaciągnąć kobietę do łóżka. Podróże kształcą.</p>
+        <p xml:id="p-2">Ten rytuał, nazwijmy go roboczo "copy – paste", wydał nam się interesujący z antropologicznego punktu widzenia. Zagadnienie aż prosiło się o jakąś klasyfikację i oto jest: instrukcja obsługi kobiety zamieszczona w jednym z periodyków dla panów. Mamy zestaw "cheap tricks" z rozpiską co pół godziny, żeby było wiadomo, co kiedy czynić. Gdyby medium było ciut bardziej interaktywne, niechybnie byłyby tam dwie opcje: kliknij i wypełniaj po kolei instrukcje na ekranie (rekomendowane) lub czytaj samodzielnie (dla zaawansowanych użytkowników).</p>
+        <p xml:id="p-3">Periodyk jest amerykański, ale bazując na globtroterskich doświadczeniach z początku tego tekstu, można śmiało założyć, że Cheap Tricks Wizard ma wymiar uniwersalny.</p>
+        <p xml:id="p-4">Zrazu w zachwyt nad przemyślnością redakcji wprawiła nas forma wizualna tej instrukcji – każde pół godziny jest umieszczone w małym prostokąciku, mniej więcej wielkości połówki wizytówki, z wypisaną dużymi cyframi godziną. Tak, że można je powycinać i dyskretnie poprzyklejać w strategicznych miejscach, aby czegoś nie przepuścić: jedna karteczka przy prysznicu ("7.30, wleź pod prysznic i umyj jej włosy"), druga na telefonie ("o 11.00 wyślij jej romantycznego sms-a"), trzecia w portfelu ("13.00, wsadź jej bon na manikiurę do torebki, pokaż jej, że dbasz o jej potrzeby").</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

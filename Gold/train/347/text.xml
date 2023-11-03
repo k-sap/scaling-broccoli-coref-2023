@@ -1,0 +1,14 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Chleby upieczone? Wieńce uplecione? Najwyższa na to pora - w najbliższą niedzielę, 17 września w Węgrowie, odbędzie się, już po raz ósmy, Mazowieckie Święto Chleba.</p>
+        <p xml:id="p-2">Imprezę organizują wspólnie Węgrowski Ośrodek Kultury oraz Powiatowy Zespół Doradców. Początek Ø o godz.14. Na święto Chleba zaproszono wszystkich, którzy zechcieli wziąć udział w dożynkowych konkursach, a także twórców ludowych z województwa mazowieckiego.</p>
+        <p xml:id="p-3">Jak co roku, zostaną rozstrzygnięte konkursy na najsmaczniejszy chleb wiejski i najpiękniejszy wieniec dożynkowy. Będą im towarzyszyć: prezentacje połączone z degustacją oraz sprzedażą regionalnych wypieków i potraw, Jarmark Ludowy a także występy artstyczne. Przed WOK wystąpią m.in: Kurpiowski Zespół Folklorystyczny „Carniacy” z Czarni, Zespół Ludowy „Węgrowianie”, Zespół Ludowy „Kasianecka” z Kałuszyna i siedlecka Orkiestra Dni Naszych. Celem Mazowieckiego Święta Chleba jest przybliżenie społeczeństwu regionalnych tradycji związanych z okresem żniw i dożynek oraz zwyczajów dotyczących powstawania i poszanowania chleba. - Obserwując coroczne przygotowania, a także przebieg Święta Chleba, zauważa się wzrost zainteresowania wśród rolników regionalną obrzędowością oraz chęci jej kultywowania. Systematycznie zwiększa się liczba osób biorących udział w konkursach, w tym ludzi młodych, co jest dowodem na to, że dziedzictwo kulturowe polskiej wsi na pewno nie zaginie - uważają organizatorzy. - Impreza cieszy się również dużą popularnością wśród mieszkańców Węgrowa i okolic. W uroczystościach co roku bierze udział liczna rzesza widzów. Patronem medialnym tegorocznego Mazowieckiego Święta Chleba w Węgrowie jest „Tygodnik Siedlecki”.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

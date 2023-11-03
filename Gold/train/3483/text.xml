@@ -1,0 +1,14 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">W Irlandii udział eksportu w tworzeniu produktu narodowego wynosi 80 proc., w Estonii - 84 proc., w Czechach - 73 proc., a na Węgrzech - ponad 66 proc.</p>
+        <p xml:id="p-2">Świat, a raczej kraje UE, główny odbiorca polskich towarów, najchętniej kupuje od nas samochody. Zarówno osobowe, dostawcze, jak i autobusy. W 2006 r. branża motoryzacyjna zarobiła na sprzedaży za granicę ponad 14 mld euro. To o ponad 22 proc. więcej niż rok wcześniej. Volkswagen Poznań, lider eksporterów od lat, sprzedaje dostawcze Caddy, Fiat Auto Poland (3) - małe samochody miejskie, Volkswagen Motor Polska (7) - silniki wysokoprężne. W setce największych eksporterów co czwarty reprezentuje motoryzację. Na potężną grupę eksportową wyrośli producenci sprzętu AGD. Przed tą branżą również otworzyły się niezłe perspektywy. Wyraźnie więcej sprzedają na Zachód także zakłady chemiczne: Grupa Boryszew SA (11), Zakłady Azotowe Puławy SA (37) oraz Zakłady Azotowe w Tarnowie (51).</p>
+        <p xml:id="p-3">Jest jednak i druga strona medalu - słabną nasze dotychczasowe atuty: duża liczba młodych wykształconych osób i tańsza siła robocza. Jest obawa, że brak rąk do pracy odstraszy od nas inwestorów zagranicznych. A bez nowych inwestycji o widocznym wzroście eksportu będziemy mogli zapomnieć. Przecież na liście stu największych eksporterów przedsiębiorstwa tylko z polskim kapitałem to nieliczne wyjątki. I w dodatku wymagają - jak polska chemia - sporego zastrzyku pieniędzy, żeby mogły się zmodernizować.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

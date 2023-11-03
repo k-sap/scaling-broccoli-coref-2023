@@ -1,0 +1,14 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Nie da się ukryć, że fascynuje mnie kultura hip-hop, ale nie chce podszywać się pod tzw. blokersa i szukam swojej drogi próbując robić muzykę z pozytywnym i szczerym przekazem. Jest ona adresowana do ludzi młodych, wrażliwych i zmęczonych bezpłciową, popowa papką, zalewająca polski eter.</p>
+        <p xml:id="p-2">Oprócz plejady świetnych muzyków ze środowiska rockowego /m.in. Janek Benedek (ex-T.Love), Wojciech Seweryn (Lech Janerka)/ udało mi się zaprosić na płytę kilka znanych i cenionych przeze mnie gwiazd polskiego hip-hopu. W dwóch piosenkach wystąpił gościnnie Pezet (Pezet-Noon), w jednej Trzeci Wymiar (wschodząca gwiazda młodej hip-hopowej fali), a także członkowie najlepszego w Polsce sound-systemu reggae - Zjednoczenie Sound System. Płytę nagrali i zmiksowali Kajetan Aron i Adam Toczko w Tarchostudio w latach 2002-2003.</p>
+        <p xml:id="p-3">Podczas koncertów, których kilka już się odbyło, a kolejne lada moment, wspomaga mnie zespół złożony ze świetnych muzyków: Piotr Pniak (bębny) – jeden z najlepszych polskich perkusistów (ex-Proletariat), na co dzień wykładowca Łódzkiej Akademii Muzycznej, znany side-man, jeden z mocniejszych punktów mojego bandu live, Michal Marecki (klawisze)- klawiszowiec Fiolki Najdenowicz i Marcina Rozynka, który obecnie udziela się we wszystkich ciekawszych projektach muzycznych (np. nowa płyta zespołu Negatyw), Siwy (gitara)- ex-Bakszysz, jeden z najbardziej znanych polskich gitarzystów reggae, gra na co dzień z Darkiem Malejonkiem (Maleo Reggae Rockers),Osybisa oraz Michaelem Blackiem.(jego klasę potwierdza fakt że wszyscy Jamajczycy grający w Polsce chcą grać tylko z nim) Sidney Polak – tym razem w roli frontmana dzierżącego mikrofon!".</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

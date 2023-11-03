@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Wczoraj Straż Miejska nie interweniowała. Kupcy handlowali przy wywieszonych transparentach</p>
+        <p xml:id="p-2">Targowisko "Czerwony Rynek" zlikwidowano, ale kupcy nadal handlują</p>
+        <p xml:id="p-3">Spór na razie jest łagodny</p>
+        <p xml:id="p-4">Stare targowisko "Czerwony Rynek" przy ul. Rzgowskiej 64/66 oficjalnie przestało istnieć 1 lipca. Gros handlujących tam kupców nie zgadza się z decyzją władz miasta i wczoraj normalnie przyszło do pracy. Do drastycznych form protestu nie doszło. Przypomnijmy, że część handlujących na targowisku nie zgodziła się na jego likwidację i zapowiedziała protesty "do skutku". Wczoraj wywieszono transparenty z hasłami: "Urząd Miasta Łodzi na bezrobocie! Kupcy chcą pracować" oraz "Nie oddamy Czerwonego Rynku. Koniec złodziejstwa, przekupstwa i korupcji urzędników!!!". Po stronie protestujących stanęli także przedstawiciele Samoobrony Andrzeja Leppera, którzy ograniczyli się do wywieszenia transparentu. Teren samego rynku i wokół niego patrolowała Straż Miejska, ale do żadnych ekscesów nie doszło. Strażnicy zapowiedzieli jednak, że jeśli dziś sytuacja się powtórzy tzn. kupcy nadal będą handlować, to poniosą tego konsekwencje. Wszyscy, którzy nie podporządkują się decyzji władz i nie opuszczą targowiska, będą karani mandatami Straży Miejskiej i Sanepidu. Zapowiedziano również usunięcie kiosków na lawetach, na koszt handlujących. Na Czerwonym Rynku handlowało około 100 kupców - większość z namiotów, stolików, szczęk, pozostali mieli kioski. Na wieść o planowanej likwidacji połowa z nich zainwestowała pieniądze w nowy obiekt handlowy o tej samej nazwie, który wybudowano kilkaset metrów dalej - przy ul. Rzgowskiej 80/82. Później część z nich zrezygnowała i w efekcie zamiast dużego pawilonu handlowego powstał mniejszy - na 41 stanowisk. Pracę w nim znalazło 37 sprzedających dotychczas na targowisku. Pozostałym zaproponowano miejsca pracy na innych łódzkich rynkach. Nie zgodzili się, argumentując, że nie stać ich na wydatki związane z adaptowaniem nowych miejsc pracy. Poza tym obawiali się utraty klientów i konkurencji ze strony innych kupców.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Bardziej usłyszała, niż zobaczyła, jak zatrzymało się na półpiętrze, ciężko sapiąc. Oddech był dziwny, do niczego niepodobny. Kojarzył jej się z przesypywaniem piasku ze szklanki do szklanki.</p>
+        <p xml:id="p-2">Nie czuła lęku. Raczej litość i współczucie. Odczekała chwilę i kiedy postanowiła zejść te kilka stopni i przyjrzeć się z bliska, co to takiego, spostrzegła, że stworzenie podjęło dalszy trud. A gdy ujrzała, w jaki sposób pokonuje kolejne stopnie, zupełnie zbaraniała.</p>
+        <p xml:id="p-3">Nie wiedziała, co to w ogóle jest. Nie potrafiła przypisać z trudem dostrzeganych zarysów Ø żadnemu znanemu stworzeniu.</p>
+        <p xml:id="p-4">Przestrzeń dzielącą je od kolejnego skłonu schodów pokonało, kolebiąc się na boki, rozkołysanym kaczym chodem. Najdziwniejsze jednak było to, co nastąpiło potem. Jego wspinanie się na stopień. Mianowicie najpierw przed nim stanęło, niemal doń przywarło. Samo zresztą było niewiele od niego wyższe. A potem z olbrzymim wysiłkiem zaczęło się nań wspinać, a kiedy betonowa krawędź była już w połowie jego wysokości, ostrożnie się pochylając powoli przeważyło ciężar ciała na poziomą płaszczyznę stopnia. Jakby nie mogło się zginać, jakby kręgosłup miało całkiem zesztywniały. W końcu udało się. Z lekkim stukotem opadło na brzuch. Leżąc tak, wydało z siebie właśnie to jedyne w swoim rodzaju cichutkie jęknięcie. Osiągnąwszy tę fazę wspinaczki, przeszło po chwili do następnego etapu. Ciągle leżąc, zaczęło się czołgać dalej, aż do chwili kiedy środek ciężkości, w ogóle całe ciało, całkowicie znalazło się na stopniu.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

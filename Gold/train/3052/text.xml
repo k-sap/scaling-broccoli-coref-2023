@@ -1,0 +1,20 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Myślę, że panu by się spodobały, bo wszystkie są napisane z wyobraźni i uśmiać też się można, prawdziwa satyra.</p>
+        <p xml:id="p-2">Jakby pan chciał je przeczytać, to mogę je panu pożyczyć, ale nie na długo, bo inni też chcą. A najbardziej Inspektor Izby Kontroli, on się do nich aż pali, już go słyszę w sąsiednim pokoju.</p>
+        <p xml:id="p-3">W związku z tym będę miał koszty, bo on moje książki przeczyta, ale mogą mu się nie spodobać. Dlatego właśnie piszę do pana, żeby mi pan przysłał nagrodę i żeby mi się koszty zwróciły. Niech pan przyśle na mój adres domowy. Nawet jakby mnie listonosz już nie zastał, to Ø żona odbierze, zostawię jej upoważnienie. Wtedy to będzie znaczyło, że potrzebuję na adwokata, albo... Niech pan chwilkę poczeka, panie Nobel, właśnie wszedł.</p>
+        <p xml:id="p-4">Już wyszedł. Wie pan co, panie Nobel? Niech mi pan przyśle dwie nagrody. Nie ma pan pojęcia, jak podrożało.</p>
+        <p xml:id="p-5">MAHARADŻA</p>
+        <p xml:id="p-6">Koło Zielonych Świątek rozeszła się wiadomość, że przyjedzie do nas Maharadża z dalekich Indii.</p>
+        <p xml:id="p-7">Co się stało Maharadży, że zechciał odwiedzić nasze okolice, tego ja nie wiem. Gdybym ja był Maharadżą, to wolałbym pojechać do Ameryki.</p>
+        <p xml:id="p-8">W związku z tym przyszło rozporządzenie ze stolicy, żeby alkoholu nie używać, płoty pomalować i Maharadżę na stacji godnie powitać.</p>
+        <p xml:id="p-9">Do powitania wybraliśmy szewca, który umiał trochę po czesku. Zawszeć to obcy język. Ale co zrobić, żeby Maharadża poczuł się u nas jak u siebie?</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

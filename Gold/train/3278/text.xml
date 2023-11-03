@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Statystyki mówią swoje</p>
+        <p xml:id="p-2">Statystyki obrazujące pozostawanie ludzi bez pracy mówią swoje. Wedle danych Wojewódzkiego Urzędu Pracy w Warszawie na koniec lutego w powiecie ciechanowskim „ujęto” 6912 bezrobotnych, w mławskim - 5373, w płońskim - 7224, w żuromińskim - 3892. Stopa bezrobocia w tym ostatnim (stosunek bezrobotnych do ogólnej liczby zdolnych do pracy) wynosił 23,2 procentu, w pozostałych powiatach niewiele mniej: w Powiecie płońskim - 20 proc., w mławskim i ciechanowskim - po 19. A więc dużo, bardzo dużo. Z pewnością część z nich rzeczywiście nie nada się do żadnej pracy, w tym również w budownictwie, ale większość jest raczej „produktem” systemu kształcenia - a ściślej mówiąc - braku jakiegokolwiek systemu. Trudno bowiem mówić, że suto opłacana „produkcja” menedżerów i innych specjalistów od zarządzania, propagowana od lat, nie wycisnęła swego piętna na wspomnianej statystyce. Natomiast szkolnictwo zawodowe jest w zasadzie rozłożone na łopatki i mało kogo interesuje.</p>
+        <p xml:id="p-3">Na obszarze czterech północno-mazowieckich powiatów są dwie szkoły, które jeszcze nie odeszły od kształcenia kadr dla budownictwa. Jacek Kaczorowski twierdzi, że do „Ceprobudu” co roku przychodzi na praktyki kilku uczniów ciechanowskiej budowlanki. Po skończeniu szkoły już się nie pokazują. Szukają szczęścia gdzie indziej - w innych branżach. Również za granicą.</p>
+        <p xml:id="p-4">- Unia Europejska oznacza nie tylko swobodny przepływ kapitałów, również pracowników - powiada Elżbieta Szymanik, dyrektorka filii Wojewódzkiego Urzędu Pracy w Ciechanowie. - Trzeba im po prostu płacić więcej, tyle co w Europie, to nie będą wyjeżdżać.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

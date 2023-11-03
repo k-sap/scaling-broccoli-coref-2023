@@ -1,0 +1,14 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Karta sformułowana przejrzyście, bogata i prawdziwie francuska. Z kilkunastu rodzajów sałaty wypróbowałem dwie: z leśnymi kurkami na szpinaku i z chrupiącym boczkiem (39 zł) oraz z foie gras w sosie malinowym (38 zł). Kto jadał francuskie sałaty przed obiadem, ten wie, że wzbudzają one apetyt, mimo iż same w sobie są całkiem niezłymi dankami. Tuż po sałacie można zjeść np. przepiórkę faszerowaną lub popić consome z kuropatwy. Obie potrawy wzmacniają gościa w postanowieniu, że danie główne winno być dietetyczne. I tak na stół wjeżdżają: rozeta z pieczonej kaczki (59 zł) oraz ryby z rusztu (80 zł). Kaczka w sosie pomarańczowym ugarnirowana kawałkami owocu przyrządzona w sposób zdumiewający: skórka chrupiąca, a mięso soczyste, miękkie i lekko nawet krwiste. Jak to osiągnąć - doprawdy nie wiadomo. Ryby z rusztu zaś to nazwa wielce myląca. Na talerzu przystrojonym warzywami podsmażonymi na ruszcie leżą skomponowane jak postimpresjonistyczny obrazek pędzla patrona lokalu dwie krewetki, duży kawał różowego łososia i trzy małże św. Jakuba, których krwistoczerwone serca wydają się jeszcze pulsować.</p>
+        <p xml:id="p-2">Przyjemnemu trawieniu sprzyjają dyskretnie płynące z głośników dźwięki francuskich piosenek w wykonaniu paryskiego wróbelka, czyli Edith Piaf.</p>
+        <p xml:id="p-3">Ludzie o obrzydliwych charakterach, jakimi są krytycy kulinarni, wszędzie szukają dziury w całym. I na ogół znajdują. Henri de Toulouse-Lautrec na pewno by tutejszej kawy nie wypił. Podobną można dostać w plastikowych kubeczkach na nieodległym Dworcu Centralnym.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

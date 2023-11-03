@@ -1,0 +1,17 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Organizatorem przedsięwzięcia jest Przedszkole nr 14 im. Janusza Korczaka w Rybniku-Chwałowicach. Honorowy patronat nad imprezą objął prezydent miasta, Adam Fudali.</p>
+        <p xml:id="p-2">Konkurs ma na celu kształtowanie świadomości ekologicznej dzieci poprzez stosowanie atrakcyjnych form edukacyjnych, pobudzanie do twórczego i kreatywnego działania poprzez ukazywanie bogactwa przyrody, popularyzację haseł i działań na rzecz ochrony środowiska, inspirowanie samodzielnych działań dziecka, zaprezentowanie na forum posiadanych przez dzieci wiadomości i umiejętności w ramach wskazanej tematyki.</p>
+        <p xml:id="p-3">Dla uczestników konkursu organizatorzy przygotowali szereg interesujących zadań. Planowane są m.in.: „eko-rewia” mody, czyli prezentacja oryginalnych strojów ekologicznych, zaprojektowanych przez uczestników, gra w „eko-kręgle”, segregacja śmieci, konstruowanie budowli z odpadów, quiz wiedzy o przyrodzie (obejmujący recykling, las i jego mieszkańców oraz zachowanie w lesie, a także problem zanieczyszczeń i ochrony środowiska), układanie puzzli oraz gry zręcznościowe. Na uczestników konkursu czekają atrakcyjne nagrody.</p>
+        <p xml:id="p-4">Konkurs odbędzie się 28 kwietnia o godz. 9.30 na sali gimnastycznej IV Liceum Ogólnokształcącego im. Mikołaja Kopernika w Rybniku (ul. 1 Maja 93). Wszelkie informacje o konkursie oraz regulamin można uzyskać w placówce organizującej przedsięwzięcie pod nr tel.: (032) 7393240.</p>
+        <p xml:id="p-5">Termin: 8 kwiecień 2009 godz. 16.00 Miejsce: Dom Kultury Boguszowice</p>
+        <p xml:id="p-6">Termin: 8 kwiecień 2009 godz. 9.00 Miejsce: Miejski Dom Kultury, Karviná–Nové Město, Osvobození 1639/43</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

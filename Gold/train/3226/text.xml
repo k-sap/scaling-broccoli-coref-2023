@@ -1,0 +1,17 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Lautrec *****</p>
+        <p xml:id="p-2">Patron nowej francuskiej restauracji w Warszawie zapewne nie byłby zadowolony. Jest tu bowiem - jak na jego gust - zbyt elegancko. Henri de Toulouse-Lautrec przez całe swe wprawdzie krótkie lecz burzliwe życie przejawiał inklinacje do przebywania w spelunkach, wśród dziwek, pijaków i lumpów paryskich. Jego najsłynniejsze i najlepsze obrazy prezentują właśnie takich bywalców kawiarń i burdeli Montmartre’u. Nie było chyba knajpy, w której Lautrec nie byłby winien właścicielowi paru franków za wypity absynt bądź potłuczone szkło.</p>
+        <p xml:id="p-3">Ostatnie lata jego życia to było istne samobójstwo. Malarz, tuż po przymusowej kuracji odwykowej zafundowanej mu przez Ø rodzinę, zaczął ponownie pić bez umiaru. Latem 1901 r. dopadł go atak paraliżu. We wrześniu już nieżył.</p>
+        <p xml:id="p-4">Pogrzeb artysty, tak jak i jego życie, był skandalem. Ojciec malarza postanowił bowiem sam powozić karawanem. Tak zaś batożył konie, że kondukt żałobników całą drogę na cmentarz musiał przebiec galopem.</p>
+        <p xml:id="p-5">Później niemal wszyscy ruszyli z cmentarza do restauracji. Tylko tam mogli bowiem dobrze uczcić zmarłego. Ruszajmy więc i my.</p>
+        <p xml:id="p-6">Nowa, kolejna już w stolicy, francuska brasseria mieści się przy ulicy Siennej, tuż przed wielkimi blokami mieszkalnymi zasłaniającymi od strony Emilii Plater widok na Pałac Kultury. Ten adres - Sienna 39 - ma jeszcze dodatkowy magnes dla wyrafinowanych amatorów kuchni. Lautrec sąsiaduje przez ścianę z jednym z najlepiej zaopatrzonych sklepów winiarskich nad Wisłą.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

@@ -1,0 +1,21 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">- Juścik, ojcowa krowa ale i nasza strata - rzekł do żony, która, że to Kuba przywiózł ziemniaki z pola, rzuciła łupanie drzewa i szła do woza.</p>
+        <p xml:id="p-2">- Doły jeszcze nie wyporządzone, to trza zesuć na klepisko.</p>
+        <p xml:id="p-3">- Kiej ociec mówili, żebyś na klepisku krowę z Kubą obdarł i wyporządził.</p>
+        <p xml:id="p-4">- Zmieści się i krowa, zmieszczą się i ziemniaki - szeptał Kuba, otwierając wierzeje stodoły na roścież.</p>
+        <p xml:id="p-5">- Ja ta nie jestem drzyk, cobym krowę obłupiał ze skóry - rzucił Antek.</p>
+        <p xml:id="p-6">I już nie mówili, słychać było tylko gruchot zsypywanych na klepisko ziemniaków.</p>
+        <p xml:id="p-7">Słońce zgasło, wieczór się robił, świeciły jeszcze zorze łunami zakrzepłej krwi i ostygłego złota i posypywały, na staw jakby pyłem miedzianym, że wody ciche drgały rdzawą łuską i szmerem sennym.</p>
+        <p xml:id="p-8">Wieś zapadała w mrokach i w głęboką, martwą ciszę jesiennego wieczora.</p>
+        <p xml:id="p-9">Chałupy malały, jakby się przypłaszczały do ziemi, jakby się tuliły do drzew sennie pochylonych, do płotów szarych.</p>
+        <p xml:id="p-10">Antek z Kubą zwozili ziemniaki, a Hanka z Józią uwijały się koło gospodarstwa, bo gęsi trza było zagnać na noc, to świnie nakarmić, bo z kwikiem cisnęły się do sieni i wsadzały żarłoczne ryje do cebratek, gdzie stało picie dla bydląt, to krowy wydoić, bo właśnie Witek przygnał resztę Ø z pastwiska i zakładał im za drabiny po garści siana, żeby spokojniej stały przy dojeniu.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

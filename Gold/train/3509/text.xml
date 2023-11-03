@@ -1,0 +1,14 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">- Nie istnieje jedna linia w podejściu do kwestii neandertalczyka, wprost przeciwnie, jest ich coraz więcej, a każde nowe znalezisko niesie ze sobą możliwość nowych interpretacji - mówi prof. Szymczak. - Przy czym wszystkie hipotezy są budowane przy założeniu pewnych faktów, opartych na podstawach, co tu dużo mówić, bardzo wątłych.</p>
+        <p xml:id="p-2">Różnorodność teorii na temat neandertalczyka wydaje się wprost nieskończona. Gdy pojawia się nowy argument, od razu jest zbijany przez kolejny. Na podstawie skrawków informacji (najczęściej niewielkich fragmentów kości) buduje się niezwykle skomplikowane teorie o charakterze globalnym. Zdawać by się mogło, że każdy z badaczy ma swoją wizję przeszłości.</p>
+        <p xml:id="p-3">I tak na przykład na podstawie obserwacji skupisk narzędzi w jaskini Combe Grenal we Francji amerykański archeolog Lewis Binford wysnuł teorię, że neandertalczycy nie tworzyli rodzin. Kobiety same zajmowały się wykarmieniem siebie i dzieci, a mężczyźni w ich życiu nie uczestniczyli. Brak tzw. związków krewniaczych sprawił, że nie istniała sieć wzajemnej pomocy w sytuacjach kryzysowych. Inni znowu uważają, że do upadku neandertalczyków przyczynił się nasz zmysł ekonomiczny. Człowiek wymyślił bowiem specjalizację, co przyczyniło się do zwiększenia jakości wytworów, które potem dzięki handlowi rozprzestrzeniały się szybko wśród grup Homo sapiens. Neandertalczycy nie brali udziału w wymianie idei, przez co nie nadążali za szybkimi zmianami. W zasadzie większość pomysłów skupia się wokół założenia, że nasz daleki kuzyn neandertalczyk nie sprostał intelektualnie albo że przegrał w wyścigu z człowiekiem, bo był gorzej przystosowany. Na to jednak też nie mamy dowodów. Oprócz jednego, koronnego - my żyjemy, a neandertalczycy wyginęli!</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

@@ -1,0 +1,14 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Ruch Obywatelskich Stowarzyszeń Uwłaszczeniowych nie tylko pomógł Bieli zrealizować pomysł z Funduszem św. Jerzego, ale i wyniósł go do polityki. Nie owija tego w bawełnę Marek Suszek. - Profesor jest posłem dzięki stowarzyszeniu uwłaszczeniowemu w Zamościu, które go wypromowało i zrobiło mu kampanię. Kiedy w 1997 r. Biela zdecydował o kandydowaniu w wyborach parlamentarnych, OSU stanęło za nim jak mur. Profesor uzyskał aż 15-procentowe poparcie wyborców w swym regionie. Był to jeden z lepszych wyników w Sejmie, którym poszczycić się mogła tylko garstka najbardziej znanych i doświadczonych parlamentarzystów.</p>
+        <p xml:id="p-2">Członkowie zamojskiego stowarzyszenia, którzy wówczas przyczynili się do sukcesu wyborczego posła, bardzo niechętnie opowiadają o jego kulisach. - Może mnie pan nazwać idiotą - denerwuje się Bolesław Zybała, wówczas jeden z założycieli pierwszego OSU. - Woziliśmy go za swoje pieniądze po całym województwie, namawialiśmy ludzi, organizowaliśmy spotkania. Bardziej dosadny jest Wiesław Huk. - W kampanii wyborczej profesor ze swoich pieniędzy sam zapłacił tylko za fotografię. Nawet noclegi miał zorganizowane za darmo przez swoich studentów.</p>
+        <p xml:id="p-3">Huk opowiada, że do organizacji poparcia dla Bieli wykorzystał swoje kontakty i doświadczenie z czasów, gdy przygotowywał Msze za Ojczyznę. - Z łatwością organizowałem osiem spotkań w dwa dni. Jeździliśmy w kółko po całym województwie: parafie, urzędy gmin, domy kultury. Biela spał między spotkaniami, ja aranżowałem następne. W nagrodę po wyborach profesor mianował Huka dyrektorem swojego biura poselskiego.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

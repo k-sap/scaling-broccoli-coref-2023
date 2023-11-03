@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Do końca roku ani król, ani królowa nie pojawili się już w zamku nad Nidą, czemu trudno się dziwić, bowiem późną jesienią i zimą trudno tam było o niezbędne minimum komfortu. Cały czas zresztą dokonywano drobnych napraw, a jak się okazuje, niemal wszystko źle funkcjonowało - od studziennego żurawia po wyposażenie zamkowych spiżarni i piwnic. Robiono też większe zakupy, może z myślą o niespodziewanych, a może przewidywanych gościach. W poniedziałek, w dzień Podwyższenia Krzyża Świętego, kupiono zarżniętego już wołu oraz bryłę łoju, z którego miały zostać przygotowane świece lub lampy. Pod koniec tygodnia przyjechał wielkorządca i w sobotę na targu w Opatowcu kupił dla króla dwa konie: białego zwanego sywi i płowego. Po świętym Michale miał zaprowadzić te rumaki do Lublina, gdzie przebywała część królewskich dworzan. Sam Jagiełło objeżdżał w tym czasie Ruś. Zapiski rachunkowe świadczą, że Jagiełło szczególnie cenił płowe konie i nie żałował pieniędzy na ich zakup, chętnie też obdarowywał tymi rumakami ludzi ze swego otoczenia.</p>
+        <p xml:id="p-2">Prawdopodobnie ten zakup król zlecił jeszcze podczas pobytu w Nowym Mieście, ale wtedy mogło nie starczyć pieniędzy, bo i tak trzeba było zapożyczyć się na pokrycie kosztów stacji. Dług wprawdzie spłacono nowomiejskim mieszczanom już pod koniec września, ale widać, że kłopoty finansowe dworu nie były tajemnicą dla mieszkańców Nowego Miasta Korczyna, co miało i tę dobrą stronę, że przybliżało zwykłym ludziom problemy królewskiej codzienności. Kłopoty finansowe podrzędztwa przełożyły się też na zaopatrzenie zamkowej służby, bo choć nie brakowało żywności, a nawet z Krakowa sprowadzono artykuły luksusowe - pieprz i szafran, to jednak stróże Andrzej i Wicher oraz piekarz Swatosz należną zapłatę otrzymali z dwutygodniowym opóźnieniem.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

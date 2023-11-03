@@ -1,0 +1,18 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Alhymyk Zabijaniu bezbronnych ryb .. mówimy zdecydowane nie ,koniec z terroryzowaniem tych biednych stworzeń!! pomyślcie sobie jak one sie czują!! ........ dobra żartowałem KARP rządzi .... a o rybie po grecku niewspominając</p>
+        <p xml:id="p-2">Ich u mnie karpia nie bedzie...ale chyba bedzie cos innego..jakas inna ryba</p>
+        <p xml:id="p-3">cwieku no zamiast karpia bendzie ryba po grecku w cebulce na cieplo i sledziki</p>
+        <p xml:id="p-4">motylek U mnie był kapr... podobno był bardzo dobry Bo nie smażyli go na patelni, ale w piekarniku i wyglądał wyśmienicie i podobno smakował tak samo</p>
+        <p xml:id="p-5">Ane29 CYTAT(Jack71 @ 6.12.2005, 19:49) "no własnie wiadomo ze na swieta jada sie przewaznie karpia ale takze inne ryby moze polecicie jakies ktore juz jedliscie u mnie na swieta jemy karpia to podstawa ale polecam takze LINA bardzo dobra rybka jak dla mnie lepsza od karpia a jakie wy macie ulubione rybki????" Polecam sandacza,szczupaka,no i węgorza Co do węgorza to miałam opory,ale spróbowałam i jest Dobra jest też rybka maślana Lina jeszcze nie jadłam,ale skoro mówisz,że dobry to może spróbuje</p>
+        <p xml:id="p-6">DeX U mnie nigdy na Wigili nie było Karpia. Bo mieszkam nad morzem i jada się łososia i węgorza</p>
+        <p xml:id="p-7">motylek CYTAT(DeX @ 31.12.2005, 17:51) "U mnie nigdy na Wigili nie było Karpia. Bo mieszkam nad morzem i jada się łososia i węgorza" U mnie karpik jest obowiązkowo</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

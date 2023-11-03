@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Lynx A co z MAS 1938? Leciutki bo tylko 3,56 (załadowany), świetnie wyważony bardzo lubiany przez żołnierzy. Miał tylko jedną wadę, nędzny nabój 7.65x17 Browninga. Używany przez niemców pod oznaczeniem 7.65 mm MP722(f). Nie ma też ciekawostki wśród PM-ów II wś a mianowicie C96. Wiem ze był to pistolet samopowtarzalny ale przerabiano go na broń automatyczną na skale masową. Mauser C96 stworzony przez braci Werde w 1893-94. Bardzo silny nabój 7.63x25, ciężki(ale tylko według dzisiejszych standardów) jak na pistolet ale super lekki jako PM, świetnie wyważony, bardzo celny, efektywny nawet na 200m. Szybkostrzelność rodem z koszmaru, 1000 pocisków na minutę!!! Magazynek 20 nabojowy (były wersje ze stałym magazynem na 10 lub 6 naboi) bardzo szybko sie kończył! Wyprodukowano ponad 1.000.000 egzemplarzy Ø, Produkował Mauser, Hiszpańska Astra i niezliczone manufaktury w Chinach. Na najlepszy PM wybrał bym PPS-43 zdecydowanie górował nad wszystkimi konstrukcjami alianckimi jak i państw osi.</p>
+        <p xml:id="p-2">widiowy7 CYTAT(Lynx) "Na najlepszy PM wybrał bym PPS-43 zdecydowanie górował nad wszystkimi konstrukcjami alianckimi jak i państw osi." Może masz rację. Była to uproszczona wersja PPSZ-y. Łatwiejsza w produkcji, mniejsza szybkostrzelność. Ale mój kolega, który w wojsku miał ten peem na wyposażeniu, mówił że potrafiła sama strzelać.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

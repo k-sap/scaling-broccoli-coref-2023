@@ -1,0 +1,14 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Postanowić poprawę przy Jego łasce</p>
+        <p xml:id="p-2">Po przebyciu całej drogi rachunku sumienia czujemy się odnowieni. W najskrytszym sanktuarium osoby tak wiele się wydarzyło. Czujemy się na nowo uwrażliwieni na miłość Boga, która zewsząd nas ogarnia i wyraża się w niezliczonych darach. Nie jesteśmy sami, lecz nieustannie wzywani do dialogu miłości. Doświadczyliśmy tej Boskiej miłości jako niewyczerpalnego źródła przebaczenia. Sam Boży Syn zdjął z nas brzemię grzechów i winy. Doprawdy: Szczęśliwy ten, komu została odpuszczona nieprawość, którego grzech został puszczony w niepamięć (Ps 32, 1). Znów stoi otworem droga, po której można wytrwale biec w wyznaczonych nam zawodach (Hbr 12, 1). Każdy człowiek ze swej natury pragnie osobowego rozwoju. Każdy Ø pragnie osiągnąć możliwie najwyższy pułap człowieczeństwa. Chrystus w Ewangelii wystarczająco jasno określa, na czym ten pułap polega! Święci konkretyzują to, co mogłoby się wydawać jedynie wzniosłym, lecz niedościgłym ideałem.</p>
+        <p xml:id="p-3">Po dotarciu do końca prezentacji codziennego rachunku sumienia chętnie dopowiem, że warto podjąć to wielce obiecujące ćwiczenie się w tym rodzaju modlitwy. Można szczerze nacieszyć się tym, że każdy nowy dzień to powód do radości, ponieważ otrzymujemy jeszcze jedną szansę, by porządkować swoją relację z Bogiem. Żywimy taką nadzieję, mimo naszej słabości i braków moralnych. Liczymy bowiem - wraz ze św. Pawłem i rzeszami wierzących - na łaskę Bożą. Wszystko mogę w Tym, który mnie umacnia (Flp 4, 13). Gdy jutro znów objawi się nasza słabość, to z pokorą oprzemy się na zapewnieniu Pana: Wystarczy ci mojej łaski. Moc bowiem w słabości się doskonali (2 Kor 12, 9).</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

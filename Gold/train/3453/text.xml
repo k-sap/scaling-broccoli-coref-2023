@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">O przemyślności wirusowych programistów świadczy fakt, że nie mogą już spać spokojnie nawet posiadacze telefonów komórkowych - w obiegu pojawił się pierwszy wirus atakujący urządzenia przenośne. Program o nazwie cabir atakuje telefony obsługiwane przez system operacyjny Symbian i przenosi się na inne podobne komórki za pośrednictwem łącza radiowego Bluetooth.</p>
+        <p xml:id="p-2">Mimo wejścia w obieg cabira, komórki ciągle są jeszcze w miarę bezpieczne. O wiele więcej zagrożeń czyha na użytkowników bezprzewodowych sieci dostępu do Internetu, tzw. WLAN. Jak informuje Kazimierz Osiński z firmy Hewlett-Packard, zdecydowana większość użytkowników tych sieci w ogóle nie myśli o bezpieczeństwie. Oznacza to, że osoba obdarzona odrobiną technicznego sprytu może bez problemu, stojąc np. na ulicy, włączyć się do takiej sieci i uzyskać dostęp do innych komputerów.</p>
+        <p xml:id="p-3">Klikaj z głową</p>
+        <p xml:id="p-4">Coraz częściej agresorzy korzystają z naszej pomocy. Plagą ostatnich miesięcy stał się tzw. phishing. Termin powstał w 1996 r. i jest skrótem od określenia "password harvesting fishing" oznaczającego poławianie haseł, dlatego nie bez powodu kojarzy się z wędkowaniem. Proceder polega na tym, że np. klienci banków internetowych otrzymują e-mail do złudzenia przypominający korespondencję wysyłaną przez ich bank. List zawiera informację, że w związku z poprawianiem procedur bezpieczeństwa należy kliknąć na wskazany adres internetowy, gdzie po zalogowaniu zostaną zweryfikowane dane klienta. Nieświadomy użytkownik, jeśli kliknie, przeniesie się na fałszywą stronę internetową. I to jeszcze pół biedy. Problem zacznie się wówczas, jeśli poda swoje dane, numer karty i PIN. - Dlatego, łącząc się z bankiem internetowym, koniecznie musimy zwrócić uwagę, czy połączenie jest bezpieczne - adres serwera powinien zaczynać się od https://, a u dołu strony musi pojawić się symbol zamkniętej kłódki - mówi Piotr Skowroński z Panda Software.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

@@ -1,0 +1,24 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">- Licząc się z niechęcią, mój klient prosił o pośrednictwo swoją matkę, która regularnie odwiedzała małoletnią Karolinę i wnosiła pewne sumy na jej potrzeby.</p>
+        <p xml:id="p-2">Porywam się z miejsca.</p>
+        <p xml:id="p-3">- To nieprawda. Ja...</p>
+        <p xml:id="p-4">- Nie udzieliłam pani głosu - karci mnie kobieta w sędziowskim łańcuchu na szyi - Ale skoro ma pani coś istotnego do powiedzenia w sprawie, proszę, niech pani mówi.</p>
+        <p xml:id="p-5">- Jeszcze przed urodzeniem Oleńki, bez wiedzy mojej córki, skontaktowałam się z matką... - tu zacinam się nie wiedząc jak nazwać Kamila - ...z matką tego pana i spytałam czy wie, że jej syn jest ojcem dziecka, które przyjdzie na świat...</p>
+        <p xml:id="p-6">- Kto to jest Oleńka? - Karolina Maria.</p>
+        <p xml:id="p-7">- Dlaczego Oleńka? - Bo tak ją nazywamy. Ja i córka.</p>
+        <p xml:id="p-8">- Proszę używać imienia metrykalnego - poucza mnie sędzia - I niech pani kontynuuje.</p>
+        <p xml:id="p-9">- Matka tego pana oznajmiła mi przy powtórnym spotkaniu, iż syn dał jej słowo honoru, że nie jest ojcem dziecka a zatem sprawa go nie dotyczy.</p>
+        <p xml:id="p-10">- To skąd te odwiedziny i wpłaty na rzecz małoletniej, o których wspominał pan mecenas? - Oleńka miała już pół roku, kiedy...</p>
+        <p xml:id="p-11">- Karolina - poprawia mnie kobieta zza stołu.</p>
+        <p xml:id="p-12">- No, więc miała już pół roku, kiedy matka tego...</p>
+        <p xml:id="p-13">tego pana zobaczywszy ją na spacerze, stwierdziła uderzające podobieństwo małej do jej syna. Od tej pory zaczęła przychodzić, przynosić prezenty i...</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

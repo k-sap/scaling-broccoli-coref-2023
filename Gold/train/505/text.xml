@@ -1,0 +1,20 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Jamrozy: W życiu wszystko jest możliwe. Ja zajmuję się oceną ryzyka, więc uważam, że w życiu wszystko jest możliwe, ale ocenianie prawdopodobieństwa nie jest moim zadaniem.</p>
+        <p xml:id="p-2">Skowronski: No, nie jest możliwe na przykład, żeby stał się pan kobietą w jednej chwili, czyli nie wszystko jest możliwe.</p>
+        <p xml:id="p-3">Jamrozy: Widzi pan, możliwe jest wszystko, co się mieści w kategoriach zachowania człowieka. Jak pan wie, zabiegi zmiany płci również się przeprowadza.</p>
+        <p xml:id="p-4">Skowronski: Ale nie w jednej chwili. "Przegląd" pisze dalej o tym zgromadzeniu: "To materiał na film " dodaje jeden z naszych rozmówców, przedstawiciel kół finansowych. " Mamy tu wielkie pieniądze, wielką politykę, przyjaźń i zdradę" . Wielkie pieniądze na tym posiedzeniu BIG Banku to są jakie pieniądze?</p>
+        <p xml:id="p-5">Jamrozy: To zależy, z czyjego punktu widzenia popatrzeć dla PZU SA. Mojemu działaniu przyświecało uzyskanie dla PZU SA korzyści finansowych z pakietu, który był w posiadaniu grupy PZU.</p>
+        <p xml:id="p-6">Skowronski: A o jakie pieniądze tutaj chodziło? Jakie były pieniądze w całej tej grze, nie tylko w PZU?</p>
+        <p xml:id="p-7">Jamrozy: Ja nie wiem, jakie mogły być pieniądze w całej grze, dlatego że w BIG Banku Gdańskim krzyżuje się wiele interesów " interesów różnych podmiotów finansowych.</p>
+        <p xml:id="p-8">Skowronski: A jakie to są interesy?</p>
+        <p xml:id="p-9">Jamrozy: Proszę zrozumieć, że nie było moim interesem " mnie jako prezesa PZU " pilnowanie interesów innego banku. Moim interesem było pilnowanie mojego pakietu i zysku z mojego pakietu " tego, który posiadałem.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

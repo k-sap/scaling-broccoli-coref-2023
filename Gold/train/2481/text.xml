@@ -1,0 +1,17 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Zainteresowanie mieszkańców osiedla Leśnego w Koziegłowach wzbudziły niecodzienne budowle. Najpierw pojawiły się płoty z pali, później tablice informacyjne, do czego służbą owe przybytki. Okazało się, że są to toalety dla psów. Wybudował je Urząd Gminy w Czerwonaku.</p>
+        <p xml:id="p-2">– Wystąpiliśmy z wnioskiem do Urzędu Gminy, by na naszym osiedlu powstały psie toalety – mówi Przemysław Sytek, przewodniczący Zarządu Osiedla Leśnego w Koziegłowach. – Psy załatwiają się w piaskownicach i na placach zabaw, co stanowi zagrożenie dla zdrowia dzieci. Takie toalety funkcjonują w Murowanej Goślinie i tam się sprawdziły – dodaje.</p>
+        <p xml:id="p-3">Toalet domagały się osoby starsze, rodzice dzieci oraz właściciele psów, którzy nie chcą wchodzić w konflikt z sąsiadami.</p>
+        <p xml:id="p-4">– Gmina zwróciła się do nas z tym problemem – twierdzi Ryszard Jaroniec, prezes Spółdzielni Mieszkaniowej im. 23 Lutego w Koziegłowach. – Wskazaliśmy lokalizację toalet, ale nie wszystkie znalazły się tam, gdzie sugerowaliśmy. Mieszkańcom nie podoba się ta znajdująca się w parku – centralnym punkcie osiedla i Ø przy bloku numer 15. Z gminy mam zapewnienie, że zostaną one przeniesione – mówi.</p>
+        <p xml:id="p-5">P. Sytek uważa, że psie toalety powinny znaleźć się w widocznych miejscach oraz w takich punktach, by właścicieli nie musieli pokonywać pół osiedla, by do nich dotrzeć.</p>
+        <p xml:id="p-6">– To jest dopiero pierwszy krok. Później będziemy dążyć do ogrodzenia placów zabaw i powołania Ochotniczej Straży Obywatelskiej – dodaje przewodniczący Zarządu Osiedla Leśnego w Koziegłowach.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

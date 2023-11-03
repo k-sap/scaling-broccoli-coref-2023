@@ -1,0 +1,12 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Od prawie dwóch tygodni hokeiści Cracovii przygotowują się do nowego sezonu. Sposobienie się do nowych rozgrywek nie idzie jak po maśle. Póki co, trener Mieczysław Nahunko ma skromną ilość zawodników, gdyż kwestie kadrowe nie zostały jeszcze załatwione. - Mają być wyjaśnione do połowy sierpnia - mówi trener Cracovii Mieczysław Nahunko. - Przedłużają się sprawy, gdyż prezes Unii Oświęcim jest nieobecny i na ewentualne rozmowy musimy czekać. A stąd najłatwiej nam będzie pozyskać zawodników. Inne kluby mogą chcieć przytrzymać hokeistów, np. Zagłębie Sosnowiec. Na razie codziennie trenujemy, mam zajęcia z 12 - 13 zawodników. Jest Ujwary z Podhala. Czekamy na Milana i Pomykałę. Ten pierwszy jest za granicą, a Pomykała ma na głowie ślub. Z niektórymi zawodnikami nie finalizujemy rozmów, bo trenują na lodzie i bez sensu byłoby ich wyrywać. Jesteśmy zainteresowani wieloma zawodnikami. To grono na pewno zawęzi się po rozmowach z Unią. Na razie trener Nahunko prowadzi zajęcia z ledwie połową kadry. Hokeiści trenują na byłym boisku Kabla i na Juvenii, są to zajęcia ogólnorozwojowe. Ćwiczą biegi długie i krótkie. W następnym tygodniu dojdzie do tego aerobik. Na bardziej konkretne treningi przyjdzie czas później, musi być co najmniej 2/3 zespołu, by wszyscy skorzystali. W Krakowie lodowisko zostanie zamrożone dopiero 1 października, od 11 VIII zespół trenował będzie więc w Sosnowcu i być może w przemiennie Oświęcimiu, w zależności od tego, gdzie będzie wolny lód. O celach na ten sezon na razie głośno się nie mówi, załatwiane są jeszcze sprawy budżetu. Gdy kadra będzie już w miarę wykrystalizowana, ale nie będzie to wcześniej niż w końcu sierpnia, a może i we wrześniu, wtedy zapadną kolejne ustalenia, co do możliwości walki o konkretne cele.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

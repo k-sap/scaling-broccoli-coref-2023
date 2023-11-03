@@ -1,0 +1,22 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">- Jestem eksperymentatorem, który zapłacił wielką cenę, aby się dowiedzieć, że człowieczeństwo to pusty frazes, retoryczny zwrot, jałowe zaklęcie powtarzane z pokolenia na pokolenie. W śmierci człowieka jest tyle samo znaczenia, co w eksplozji żarówki elektrycznej.</p>
+        <p xml:id="p-2">- Pan mi mówił o sporcie, o biegach z legendarnym Nurmim.</p>
+        <p xml:id="p-3">- Ja tu jeszcze wrócę do was. Wrócę jak ten stary Madziar. W metalowym pudle ze srebrnymi klamrami. Kiedy to sobie myślę, mniej się lękam. Pan wierzy w Boga?</p>
+        <p xml:id="p-4">Chwilę milczałem, słuchając ciszy, która wpłynęła tu niepostrzeżenie.</p>
+        <p xml:id="p-5">- Wierzę w złego Boga.</p>
+        <p xml:id="p-6">- Kochani, wybija godzina żywych - odezwała się raptem Pusia.</p>
+        <p xml:id="p-7">Tylko my trzej wisieliśmy przy poręczy baru: pan Niemiec, nieszczęśliwy dyplomata i ja. Pomyślałem raptem, że ślepnę. Butelki na półkach były szare, Pusia wyblakła, spłowiała w gęstym powietrzu przesyconym dymem, my także czyniliśmy wrażenie istot, z których wysączono ostatnią kroplę krwi.</p>
+        <p xml:id="p-8">Gdzieś tam za drzwiami wstaje dzień, budzą się głodne dzieci, ruszają pociągi w dalekie rejsy, wzlatują pod sufity złe, jesienne muchy.</p>
+        <p xml:id="p-9">- Do widzenia, pani Pusiu - rzekłem, czując dziwny chłód na plecach, jakbym prowokował fatalne i nieznane siły.</p>
+        <p xml:id="p-10">- Do widzenia panu - podałem dłoń Niemcowi.</p>
+        <p xml:id="p-11">Przygnębiony dyplomata otworzył szeroko ramiona. Pocałował mnie trzykrotnie w usta starym słowiańskim zwyczajem.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

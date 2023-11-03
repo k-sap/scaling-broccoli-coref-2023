@@ -1,0 +1,12 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Sir Isaiah Berlin pisał jasno i gęsto - według wielkiej tradycji myśli anglosaskiej, która nie przepada za retoryką Francuzów i mroczną metafizyką Niemców. Eseje zebrane w tym tomie mają tytuł wzięty z Kanta, prekursora liberalnej demokracji europejskiej: "Z pokrzywionego drzewa człowieczeństwa nie da się wyciosać nic prostego". Berlin jest liberalnym filozofem wolności - jak Kant wierzy w powszechność podstawowych wartości, ale dostrzega dramat polegający na tym, że wartości te mogą stać z sobą w sprzeczności. "Nawet jeśli nie ma wartości uniwersalnych, to istnieje przynajmniej jakieś minimum, bez którego społeczeństwa chyba by nie przetrwały" - pisze Berlin. Z tego stanowiska - wytrwałego poszukiwacza prawdy o człowieku pokrzywionym przez sprzeczne żywioły historii i kultury - sir Isaiah pisał szkice pomieszczone w "Pokrzywionym drzewie człowieczeństwa". W książce tej odnajdziemy te same wielkie tematy w szkicach o zachodniej myśli utopijnej, o filozofie historii Giambattiście Vico, o francuskim konserwatyście de Maistrze i źródłach faszyzmu, o woli romantycznej jako buncie przeciwko mitowi świata idealnego, o nacjonalizmie. Choć szkice powstawały przed laty, w świecie dyskutującym dziś o zderzeniu cywilizacji i widmie populizmu, a może i chaosu krążącym nad globem, czyta się je z dreszczem niepokoju - jak memento. Berlin jak każdy liberał nie jest dogmatykiem, więc nie ma złudzeń. Nie patrzy na świat przez różowe okulary ideologii rozumu i postępu. Nie prostuje na siłę pokrzywionego drzewa człowieczeństwa. Dostrzega ogniska buntu przeciwko wartościom, które wyznaje, w tym buntu przeciwko wolności. I to w tej wymagającej, ale inspirującej książce jest może najbardziej frapujące.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

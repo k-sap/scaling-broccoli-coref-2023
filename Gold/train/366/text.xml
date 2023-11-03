@@ -1,0 +1,17 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Listy do Redakcji mogą być różnego typu. Tu drukujemy uwagi dotyczące artykułów i innych materiałów drukowanych we Wszechświecie. Objętość listu nie powinna przekraczać 1,5 strony maszynopisu. Redakcja zastrzega sobie prawo selekcji listów i ich edytowania.</p>
+        <p xml:id="p-2">Nekrologi to okazjonalne wspomnienia po śmierci osób związanych z Wszechświatem lub wybitnych postaci ze środowiska o przyrodniczych zainteresowaniach.</p>
+        <p xml:id="p-3">FORMA NADSYŁANYCH MATERIAŁÓW</p>
+        <p xml:id="p-4">Tekst. Redakcja przyjmuje do druku tylko starannie wykonane prace w formie wydruku komputerowego w dwóch egzemplarzach wraz z zapisem w formacie Microsoft Word lub jako plik RTF na dyskietce lub płycie CD wielokrotnego zapisu i pozbawione zabezpieczeń ingerencji w tekst. Wydruk powinien zawierać 30 wierszy na stronę o wysokości pisma 12p, akapity na 1 cm, numerację stron, lewy i prawy margines 2,5 cm.</p>
+        <p xml:id="p-5">Załączniki. Wszystkie wykresy, mapki, tabele, rysunki itp. Najlepiej przesyłać w postaci pliku na dyskietce lub płycie CD, w formie zapisu umożliwiającego wprowadzanie niezbędnych korekt; załączniki te mogą być czarno-białe lub kolorowe. Każdy z nich powinien być przesłany również w formie opisanego wydruku. Do załączników wykonanych klasyczną techniką, np. tuszem na kalce należy dołączyć odbitki ksero.</p>
+        <p xml:id="p-6">Fotografie przeznaczone do ewentualnej publikacji na okładce oraz wewnątrz numeru mogą być czarno-białe lub kolorowe, muszą być poprawne technicznie, najchętniej w układzie pionowym (portrait). Redakcja przyjmuje pozytywy, negatywy, przeźrocza lub pliki komputerowe wraz z wydrukiem (zeskanowane w odpowiednio dobrej jakości - minimum 300 dpi). Każdy wydruk lub zdjęcie powinno być podpisane na odwrocie. Opis powinien zawierać szczegółowe informacje o autorze, tak jak w przypadku artykułów, oraz proponowany tytuł zdjęcia. Należy podać datę i miejsce jego wykonania, a przy fotografiach zwierząt i roślin nazwę gatunkową polską i łacińską. Za prawidłowe oznaczenie odpowiedzialny jest fotografujący.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

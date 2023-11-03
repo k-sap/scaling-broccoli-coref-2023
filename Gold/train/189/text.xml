@@ -1,0 +1,16 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Wykonywaliśmy różne łamańce, bo z każdej strony groziła nam przepaść. Ale nie daliśmy się" - szczerze wyznaje Spychalska. Chodzi o to, że związkowym posłom udało się zepchnąć na skarb państwa spłatę odsetek od pieniędzy zagrabionych "Solidarności" w stanie wojennym. OPZZ podzieliło się z "S" jedynie nieruchomościami. Odsetki zapłacą podatnicy.</p>
+        <p xml:id="p-2">Spychalska odszukała jeszcze dwa sukcesy: powstanie Funduszu Gwarantowanych Świadczeń Pracowniczych oraz nowelizację kodeksu pracy. Ubolewała jednak nad tym, że związkowcy nie chcą pracować w Radzie ds. Zatrudnienia czy radzie nadzorczej Funduszu Gwarantowanych Świadczeń Pracowniczych.</p>
+        <p xml:id="p-3">Dalsze wynurzenia przewodniczącej są mgliste, gołosłowne, a chwilami humorystyczne: związkowcy "często wyręczają słabych albo trwożliwych dyrektorów" , "zaskakują swoją wiedzą i na ogół są odważniejsi od prezesów w rozmowach z ministrami" , samo OPZZ "robi bardzo dużo dla swych firm i zatrudnionych w nich ludzi, choć wiele załóg nawet z tego nie zdaje sobie sprawy" .</p>
+        <p xml:id="p-4">Żeby nie przesłodzić, odchodząca szefowa przyznała się też do porażek: "Nazbyt miękko podeszliśmy do wyborów samorządowych, a przecież to samorządy ustalają ceny wody, ścieków, transportu publicznego" .</p>
+        <p xml:id="p-5">Spychalską najbardziej denerwuje, gdy jej koledzy porównują poczynania OPZZ i "S" . Pisze: "To prawda, że w telewizji widzi się samą &gt;&gt;S&lt;&lt;. Aż człowiek boi się otworzyć lodówkę, bo i stamtąd może ona wyskoczyć. Natomiast trzeba posłuchać, czego ta &gt;&gt;S&lt;&lt; chce, o czym mówi? Stale słyszymy o akcji wyborczej. Czyli o co idzie? O walkę o władzę" - odkrywa Spychalska.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

@@ -1,0 +1,18 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Chcemy tandety! Moja koleżanka przez kilka lat z rzędu spędzała święta Bożego Narodzenia na południu Niemiec. Niedawno wróciła do Polski, do Warszawy. Patrząc na te brudne, smutne ulice - powiedziała - w tym roku, jak w żadnym innym tak bardzo brakuje mi tej niemieckiej, przedświątecznej tandety...Do świąt pozostało trochę więcej niż miesiąc. Poprószyło śniegiem i ludzie zaczęli już myśleć o gwiazdkowych prezentach i karpiu w wannie.</p>
+        <p xml:id="p-2">W głowach nam się sentymentalnie zrobiło, tylko na ulicach jeszcze szaro. Niemcy już się winem grzanym, sprzedawanym na każdym rogu upijają, Francuzi już wyprzedaż świąteczną robią, kiermasze, a ich miasta toną w choinkowych ozdobach.</p>
+        <p xml:id="p-3">A w Gdańsku? Zaledwie gdzieniegdzie. Przy Długiej tylko w dwóch miejscach już świątecznie. W barze „Neptun” ogromna, przepiękna choinka, girlandy błyszczące.</p>
+        <p xml:id="p-4">- Człowiek pierogi z kapustą zamówi i już się łza w oku kręci - mówi pan w szarym płaszczu, pochylony nad kotletem mielonym.</p>
+        <p xml:id="p-5">Gwiazdkowo też w cukierni „Maraska”, gdzie moc ozdób i nawet ekspedientki uśmiechają się do klienta, a zakochane parki świergolą pod choinką.</p>
+        <p xml:id="p-6">U jubilera przy Piwnej wystawy świąteczne będą dopiero na początku grudnia. Właścicielka sklepu z akcesoriami ślubnymi jeszcze nie pomyślała jak przystroić sklep.</p>
+        <p xml:id="p-7">- Przejeżdżałam dziś przez Wrzeszcz, a tam, patrzę, neony świąteczne już błyszczą - mówi. - Trzeba i u nas coś powiesić... Ale jeszcze nie wiem co.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

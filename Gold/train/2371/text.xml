@@ -1,0 +1,18 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Na każdym strzeżonym kąpielisku są boje. Żółte oznaczają teren, gdzie głębokość wody dochodzi do 1,2 m (tu mogą się kąpać ci, którzy nie umieją pływać) oraz boje czerwone, umieszczone w miejscu, gdzie głębokość wody dochodzi do 1,8 m. Wypływać poza boje nie wolno.</p>
+        <p xml:id="p-2">Do dyspozycji kąpiących się jest sprzęt sportowy w wypożyczalniach. Kto chce, może zdobyć lub udoskonalić umiejętność pływania i postarać się o kartę pływacką, ponieważ ratownicy organizują szkółki pływackie.</p>
+        <p xml:id="p-3">Trójmiejskie kąpieliska pozbawione są zaplecza sanitarnego. Całe szczęście, że o bezpieczeństwo turystów dbają ratownicy.</p>
+        <p xml:id="p-4">Nie ma szatni</p>
+        <p xml:id="p-5">Gdański MOSiR w tym sezonie obsługuje dwa kąpieliska: Ø przy molo w Brzeźnie oraz Ø na Stogach. W Brzeźnie na długości 600 metrów ustawiono sześć stanowisk ratowniczych. Znajdują się tam także sanitariaty oraz stanowisko medyczne. Na Stogach są cztery stanowiska ratownicze, sanitariaty i punkt medyczny. Niestety, nie ma natrysków i przebieralni.</p>
+        <p xml:id="p-6">W Gdyni, na plaży w śródmieściu są dwie toalety, w Orłowie - jedna. Pryszniców i przebieralni nie ma - i jak nam powiedziano w GISIR - nie będzie.</p>
+        <p xml:id="p-7">W Sopocie przebieralni nie ma, bo zostały zdewastowane. Nowe się nie pojawią. Toalety są przy każdym punkcie gastronomicznym i może z nich korzystać każdy (niestety, odpłatnie). W północnej stronie łazienek są dwa prysznice.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

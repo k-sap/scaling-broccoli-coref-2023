@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Jeżeli historia opowiedziała się po stronie Jasienicy, nie zmienia to faktu, że przez wieki bliższe były Polakom koncepcje reprezentowane przez Cata Mackiewicza. Przekonał się o tym choćby margrabia Aleksander Wielopolski, któremu fakt, iż realistycznie nie wysuwał wobec cara roszczeń do ziem wschodnich, zaszkodził nie mniej niż "branka". Ideą jagiellońską żył także marszałek Józef Piłsudski - czymże innym były wszakże jego federacyjne marzenia. Kiedy komendant wygłaszał swoją słynną sentencję o obwarzanku - nie było w tym ironii. On naprawdę wierzył, że "to dobre, co na kresach".</p>
+        <p xml:id="p-2">W tym miejscu anegdotyczna dygresja. Kiedy w latach trzydziestych córki marszałka zwiedzały Poznań, tamtejszy dziennikarz zapytał je podstępnie: - Powiedzcie dziewczynki, które miasto wam się bardziej podoba - Wilno czy Poznań? Wilno mogło się wtedy na pewno pochwalić bogatym życiem intelektualnym (co do tego małym dziewczynkom?), było jednak miastem prowincjonalnym i ubogim. Poznań był już natomiast pełną gębą europejski - z brukowanymi ulicami, eleganckimi sklepami, nie gorszymi niż w Berlinie, z największą w przeliczeniu na liczbę mieszkańców liczbą samochodów, mytymi systematycznie chodnikami... Nic dziwnego, że siksy odpowiedziały: Poznań. No, no, uśmiechnął się dziennikarz. - Ja tego nie napiszę (oczywiście napisał), bo tatuś bardzo by się na was obraził... I pewnie miał pismak rację. W "Pismach zbiorowych" Piłsudskiego, w których Wilno pojawia się bez końca, nazwa Poznań pada ze trzy-cztery razy. Z Wielkopolską nie lepiej. Myślę, że tamta część Polski zgoła go nie interesowała. A jeżeli już, to z przyczyn administracyjnych, lecz nie uczuciowych.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

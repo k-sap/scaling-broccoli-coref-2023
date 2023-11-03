@@ -1,0 +1,19 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">3. Samorząd studencki działa na podstawie ustawy i uchwalonego przez uczelniany organ uchwałodawczy samorządu regulaminu, określającego zasady organizacji i tryb działania samorządu, w tym rodzaje organów kolegialnych i jednoosobowych, sposób ich wyłaniania oraz kompetencje. Samorząd studencki działa zgodnie ze statutem uczelni.</p>
+        <p xml:id="p-2">4. Regulamin samorządu studenckiego wchodzi w życie po stwierdzeniu przez senat uczelni jego zgodności z ustawą i statutem uczelni. Pierwszy regulamin samorządu studenckiego w nowo utworzonej uczelni uchwala senat uczelni na wniosek organu wskazanego w statucie, o którym mowa w art. 203 ust. 4.</p>
+        <p xml:id="p-3">5. Samorząd studencki prowadzi na terenie uczelni działalność w zakresie spraw studenckich, w tym socjalno-bytowych i kulturalnych studentów.</p>
+        <p xml:id="p-4">6. Organy samorządu studenckiego decydują w sprawach rozdziału środków finansowych przeznaczonych przez organy uczelni na cele studenckie. Organy samorządu studenckiego przedstawiają organom uczelni sprawozdanie z rozdziału środków finansowych i rozliczenie tych środków nie rzadziej niż raz w roku akademickim.</p>
+        <p xml:id="p-5">7. Rektor uchyla uchwałę organu samorządu studenckiego niezgodną z przepisami prawa, statutem uczelni, regulaminem studiów lub regulaminem samorządu.</p>
+        <p xml:id="p-6">8. Uczelnia zapewnia środki materialne niezbędne do funkcjonowania organów samorządu studenckiego.</p>
+        <p xml:id="p-7">Art. 203. 1. Przedstawiciele uczelnianych samorządów studenckich tworzą Parlament Studentów Rzeczypospolitej Polskiej, zwany dalej "Parlamentem Studentów", reprezentujący ogół studentów w kraju.</p>
+        <p xml:id="p-8">2. Parlament Studentów ma prawo do wyrażania opinii i przedstawiania wniosków w sprawach dotyczących ogółu studentów, w tym do opiniowania aktów normatywnych dotyczących studentów. Projekty aktów normatywnych przedkłada Parlamentowi Studentów minister właściwy do spraw szkolnictwa wyższego. Termin wyrażenia opinii w sprawie projektu aktu normatywnego wynosi miesiąc od daty jego przedłożenia.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

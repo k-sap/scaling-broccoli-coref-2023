@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Andreas Niestety, bęben zaczerpnięto z Thompsona,a cała reszta m.in. system spustu i system wprowadzania naboju do lufy,byLa z Suomi..A tak z ciekawości,jakie peemy miały kal. 9 mm oprócz Mp-40 i Stena?No ale jednak kilka nie miało uchwytów i składanych kolb!</p>
+        <p xml:id="p-2">Bejdak Strasznie denerwuje mnie niewłaściwe nazewnictwo broni wywołane przez gry komputerowe. Przykłady? Proszę: CYTAT "MP 44" Nie MP a Stg. Mp to skrót od Machine Pistole czyli broni zasilanej amunicją pistoletową np. 9x19 mm Parabelum, 7,65x17 mm Browning lub 7,62x25 mm TT. Stg natomiast to skrót od Sturmgewehr czyli karabin szturmowy zasilany amunicją pośrednią 7,92x33 mm Kurz (Kurzpatrone). Pierwotnie rzeczywiście mówiono na niego MP, ale nazwę prędko zmieniono, ze względu na charakter broni. Początkowa nazwa Ø wynikała z niewiedzy i innowacyjności Ø konstrukcji. Dalej: CYTAT "ppsh" Nie PPSh tylko PPSz! Rozwinięcie skrótu, to Pistolet Pulemiot Szpagina! Pokażcie mi w tym nazwisku literę "h"! jest to wybitnie zangielszczona nazwa, tak jak wiele osób pisze o Dragunov-ie myśląc o SWD czyli Snajperskiej Wintowece Dragunowa. W języku rosyjskim nawet nie ma litery "v"! I na koniec CYTAT "Schmeisser" Mam nadzieję, że wszyscy używający tego wyrażenia mają na myśli MP-41 a nie MP-40, bo do tego drugiego Hugo Schmeisser nie przyłożył ręki. Jest to dzieło Heinricha Vollmera i nosi nazwę "ERMA". MP-41 Schmeisser różni się od MP-40 m.in. DREWNIANĄ KOLBĄ i mechanizmem spustowym, które konstruktor zaczerpnął ze swojego MP-28/II. A z tego co wiem, to w dyskusji udział bierze MP-40, a więc Erma! To chyba na razie tyle uwag.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

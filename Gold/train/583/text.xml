@@ -1,0 +1,20 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">W tym momencie możemy podać lekkie czerwone wino (ciężkie wina rozcieńczamy niegazowaną wodą mineralną w proporcji 1:1) oraz postne ciasta.</p>
+        <p xml:id="p-2">? To istnieją ciasta niepostne?</p>
+        <p xml:id="p-3">Naturalnie. Na Wigilię podajemy wyłącznie ciasta drożdżowe (znakomite są drożdżowe racuchy z rodzynkami) i makowce. Wszystkie inne, w których są jajka, masło, śmietana, kremy – zachowujemy na pierwszy i drugi dzień świąt.</p>
+        <p xml:id="p-4">Objedzeni, trochę rozleniwieni – powinniśmy do późnej nocy śpiewać kolędy przy pięknie ubranej, pachnącej lasem choince.</p>
+        <p xml:id="p-5">? Tylko że sztuczna nie pachnie...</p>
+        <p xml:id="p-6">Sztuczna choinka jest zaprzeczeniem świątecznego nastroju. Nie zdajemy sobie sprawy z tego, że eteryczne olejki świerku czy sosny zabijają bakterie w mieszkaniu. Osobiście, przepadam za sosną w domu. Nie zgubi ani jednej szpilki aż do lutego, a pachnie oszałamiająco.</p>
+        <p xml:id="p-7">? Czy śpiewanie kolęd – prócz swojego sensu właściwego – ma także sens zdrowotny?</p>
+        <p xml:id="p-8">Proste stare kolędy, których nikt się nie uczy, ale jakoś wszyscy je znają, potrafią ukoić, rozradować i pokrzepić serca. Człowiek czuje się tak, jakby przysiadł zimną nocą przy ognisku.</p>
+        <p xml:id="p-9">W Wigilię wyłączamy telewizor. Zamiast w niego, wpatrujemy się w żywe światło płonących świec. Obowiązkowa jest na stole wigilijnym zapalona świeca i choćby mała, symboliczna, płonąca świeczka na choince. Starajmy się, by były to świece z wosku zebranego przez nasze pracowite – jak je nazywał Zagłoba – muchy Boże. Wosk daje specyficzny zapach, a równy płomień nie męczy wzroku. Zapalona świeca (uważam ją za największy wynalazek ludzkości) trzyma straże przed ciemnością i zwątpieniem, jej płomień symbolizuje miłość, pamięć, trwanie.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

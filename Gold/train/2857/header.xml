@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<teiHeader xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xml:lang="en">
+  <fileDesc>
+    <titleStmt>
+      <title>Paragraphs: p-3692,p-3693,p-3694,p-3695,p-3696,p-3697,p-3698,p-3699,p-3700,p-3701,p-3702,p-3703,p-3704,p-3705,p-3706 from NKJP text with id: PWN_3102000000009</title>
+    </titleStmt>
+  </fileDesc>
+  <profileDesc>
+    <textClass>
+      <catRef scheme="#nkjp" target="Literatura faktu"/>
+    </textClass>
+  </profileDesc>
+  <revisionDesc/>
+</teiHeader>

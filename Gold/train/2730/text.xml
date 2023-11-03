@@ -1,0 +1,19 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Wielorasowiec z bokserskimi rękawicami na grzbiecie, albo Ø w czarnym kapeluszu, albo Ø z błękitnymi kokardkami na łapkach, tudzież Ø w koronkach cały. I kwiatkach.</p>
+        <p xml:id="p-2">Takie czworonogi paradowały przed szacownym jury na wystawie kundelków, która odbyła się na Długim Targu w Gdańsku. Popisywały się nie tylko wizytowym ubrankiem. Prezentowały swoje piękne ogony, udowadniały, że mają zabawne mordy, pokazywały jak świetnie są wytresowane, startowały w konkurencji na psa najbardziej wielorasowego oraz na kundla najbardziej podobnego do swego właściciela.</p>
+        <p xml:id="p-3">Kundle. Najbardziej oddane psy na świecie. Wpatrzone w swoich właścicieli. Zakochane we własnych panach i paniach. Wierne po grób.</p>
+        <p xml:id="p-4">Tego dnia, choć potwornie zestresowane, dały z siebie wszystko. Niektóre wykazały wyjątkowe oznaki gwiazdorstwa i, chętnie pozując do telewizyjnych kamer, nie słuchały poleceń właściciela.</p>
+        <p xml:id="p-5">Śliczna Greta, w krwi której na pewno płynie odrobina krwi cocker-spaniela została czempionem wystawy, a także tym psem, który najbardziej upodobnił się do swojej właścicielki.</p>
+        <p xml:id="p-6">- Jest moim najukochańszym, choć wcale nie najmądrzejszym pieskiem - powiedziała jego pani - Katarzyna Gralak. - Nie dała się wytresować. Nie lubi się czesać.</p>
+        <p xml:id="p-7">- Łapę daje?</p>
+        <p xml:id="p-8">- Ale nie bezinteresownie. Tylko w zamian za swoje ulubione czekoladowe cukierki... Typowy poduszkowiec. Śpi tylko w łóżku. Gdy mąż wstaje rano do pracy, żegna się z nim czule i wskakuje na jego poduchę...</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

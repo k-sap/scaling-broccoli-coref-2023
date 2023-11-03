@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Ja też kiedyś myślałam, że trzeba zapomnieć. Po odejściu Nory przenosiłam się z miejsca na miejsce, gorączkowo, zawsze w drodze na dworzec. Nowe mieszkania stały w amfiladzie. Adresy zastępowały domy. Byłam prekursorką o pół wieku późniejszych komiwojażerów - wielonarodowe korporacje rzucają ich przez kontynent jak armię, z plikiem kart kredytowych i pełnomocnictwem do zawierania kontraktów. Byłam w ciągłym ruchu, lekkim, baletowym. Ustawało tarcie i grawitacja. Nie czułam się związana i jeśli osiadałam, to na wiklinowym krześle, na tarasie kawiarni, obserwując przechodniów, którzy nigdy nie przechodzą dwa razy. Żyłam jak uciekinier, chociaż nikt mnie przecież nie gonił. Nie pamiętam, kiedy się ustatkowałam.</p>
+        <p xml:id="p-2">Już prawie nie wychodzę. Krzątam się do obiadu, coś czytam, najchętniej starodruk gazety sprzed roku. Potem przychodzą oni, emisariusze od świata. Widzę wszystko, po Annie widzę, jak zmienia się moda. Obcisłe się wciska pod luźne, a czarne jest wypierane przez rude. Czuję, kiedy robi się zimno, ich płaszcze i kurtki zasłaniają w przedpokoju lustro. Słyszę w ich głosach lęki, wywołane mutacją. Odróżniam obcy akcent, którego się nie pozbędą i niepewny, nie przebijający się na drugą stronę przegłos. Widzę wszystko, pyłki, które powodują alergię, kiedy skóra puchnie, ledwie utrzymywana przez żyłki. Czuję zapach papierosów, palonych potajemnie, we mgle, tak by dym nie zdradził. Wiem, kiedy na topie zmienia się melodia, po ruchach objętej pałąkiem głowy i ramion. Odgaduję także ich związki miłosne - z pięterka widać zakręt, gdzie przystają i depczą chodnik, czekając, aż zjawi się umówiony po lekcji partner. I słucham, słucham - sztuka, która dziś zanikła nawet u spowiedników.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

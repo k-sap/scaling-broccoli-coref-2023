@@ -1,0 +1,14 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Jednak fajerwerków nie ma. Być może będzie sensacją już w marcu realizacja Molierowskiego „Don Juana” z dyrektorem Jerzym Zelnikiem w roli głównej. Reżyseruje Marcin Jarnuszkiewicz.</p>
+        <p xml:id="p-2">„Nowy” w tym sezonie „upcha” remanenty, jakimi są zapowiadana na poprzedni sezon premiera „Gry w klasy” Cortazara w reżyserii Ireneusza Janiszewskiego oraz „To wszystko z miłości” Allana Ayckbourne’a, którą to sztukę reżyseruje Jerzy Zelnik. Premiera Ø już w najbliższą sobotę. W planach jest jeszcze „Książę i żebrak” w reż. Dariusza Wiktorowicza, a za rok teatr chce przygotować adaptację „Ziemi obiecanej” Reymonta w realizacji Ryszarda Peryta.</p>
+        <p xml:id="p-3">Na ile uda się wszystko zrealizować? Wiele zależy od artystycznych aspiracji i możliwości oraz od pieniędzy. Teatr Nowy tymczasem utracił pozycję w gronie liderów w rankingu najlepiej dofinansowanych scen dramatycznych. Z budżetem 4,87 mln zł zdystansowały go m.in. takie sceny, jak: łódzki Teatr im. Jaracza (6 mln zł dotacji), Teatr Wybrzeże w Gdańsku (6,4 mln zł), Teatr Polski we Wrocławiu (9 mln zł) czy nawet kaliski Teatr im. Bogusławskiego (4,931 mln zł). Jeśli nie jest jeszcze za późno, warto byłoby, aby radni przed uchwalaniem budżetu na przyszły rok wzięli pod uwagę zasobność scen łódzkich. Bieda już dawno przestała być cnotą, a Łodzi marzy się tytuł Europejskiej Stolicy Kultury 2016. Warto marzeniom dopomóc.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

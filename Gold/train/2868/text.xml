@@ -1,0 +1,16 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Ileż było radości! ("Toć gdyby nie wiedzieli dokładnie, to by nie napisali!"). Wszystko co w naszych ciałach biło, tęskniło, krążyło - teraz zamierało z raptownej radości na myśl, że zaraz otworzą się drzwi...</p>
+        <p xml:id="p-2">Ale - DO MIŁOSIERDZIA TRZEBA ROZUMU.</p>
+        <p xml:id="p-3">W połowie lipca dozorca korytarzowy posłał pewnego starca z naszej celi do sprzątania klozetu i tam, w cztery oczy (nie zdobyłby się na to przy świadkach) zapytał, patrząc ze współczuciem na jego siwą głowę: "Z jakiego, artykułu, ojciec?" - "Z pięćdziesiątego ósmego" - ucieszył się stary, po którym płakały w domu trzy pokolenia. -"Nie podpadasz... " - westchnął strażnik. Bzdura! - powiedziano w celi. Strażnik po prostu się nie zna.</p>
+        <p xml:id="p-4">W tej celi siedział młody kijowianin, Walenty (nie pomnę nazwiska) o wielkich, pięknych, kobiecych oczach. Był sterroryzowany śledztwem. Był to na pewno jasnowidz, może tylko dzięki ówczesnemu swemu podnieceniu. Nie jeden raz krążył rankami po celi i mówił: dziś wezmą ciebie i ciebie, widziałem we śnie. I brali! Właśnie tych! Zresztą dusza więźnia tak skłonna jest do mistyki, że na jasno widzenie reaguje prawie beż zdziwienia.</p>
+        <p xml:id="p-5">27 lipca Walenty podszedł do mnie: -"Aleksandrze! Dziś kolej na nas". I opowiedział mi swój sen ze wszystkimi atrybutami snów więziennych: most nad ciemną strugą, krzyż. Zacząłem się pakować - i dobrze zrobiłem: po rannej herbacie wywołano nas obu. Cela żegnała nas serdecznymi życzeniami, wielu było przekonanych, że idziemy na wolność (z analizy naszych lekkich spraw to właśnie wynikało).</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

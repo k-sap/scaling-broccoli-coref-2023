@@ -1,0 +1,18 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Starogardzianka przyjęła mandat i poszła sprawę wyjaśnić do siedziby Arsenu. Tam usłyszała, że może wnieść odwołanie. Poszła do dyrektora MZK Henryka Klechy. Ten zadziałał natychmiast.</p>
+        <p xml:id="p-2">- Oczywiście anulowaliśmy ten mandat, jak wszystkie wystawione 2 sierpnia - informuje nas wczoraj dyrektor MZK. - Uczyniliśmy tak w stosunku do osób, które miały skasowane bilety o starych nominałach. Przy podwyżce cen zawsze stosujemy pewien okres „ochronny”, lecz on już się skończył. W sklepie popełniono błąd, stare bilety powinny zostać wycofane, my je wymieniamy. Wymienimy je także pojedynczym osobom, które do nas przyjdą, za niewielką dopłatą.</p>
+        <p xml:id="p-3">Koniec mandatów za legitymacje</p>
+        <p xml:id="p-4">Przy okazji dyrektor podał dobrą informację dla pasażerów MZK. Koniec kar za brak legitymacji! - Jeżeli ktoś jedzie na bilet ulgowy, a nie potrafi tego kontrolerowi udokumentować, jeszcze nic się nie dzieje - zdradza H. Klecha. - Mandat należy przyjąć, ale jeżeli w ciągu 7 dni dostarczy się do firmy Arsen legitymację uprawniającą do zniżki, będzie on automatycznie anulowany. Niestety, pozostanie mała dolegliwość - konieczność uiszczenia opłaty manipulacyjnej w wysokości 10 złotych. Firma Arsen jakieś koszty ponosi.</p>
+        <p xml:id="p-5">Medal ma dwie strony</p>
+        <p xml:id="p-6">Henryk Klecha, dyrektor MZK</p>
+        <p xml:id="p-7">- Docierają do nas sygnały o nie najlepszej pracy kontrolerów, czasami o braku z ich strony kultury. To nie jest tak, że nie mamy wpływu na to, kto z firmy Arsen kontroluje pasażerów. Jeżeli otrzymam konkretny sygnał o złej pracy kontrolera, o jego złym zachowaniu, to go odsuniemy. Ale ich też należy zrozumieć, to ich praca. Medal ma dwie strony...</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

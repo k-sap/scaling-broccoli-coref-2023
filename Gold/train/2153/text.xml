@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Istotne znaczenie w testach użyteczności ma zarówno komputer, jak i monitor. Wystrzegajmy się badań na dużych, 20-calowych i większych monitorach (jakich zwykle używają do pracy projektanci). Wyniki badań mogą być wówczas niemiarodajne, bowiem to, co na dużym monitorze jest łatwo dostrzegalne, może być niewidoczne na mniejszym Ø. Najlepiej skorzystać z takich monitorów, jakie mają użytkownicy projektowanej witryny. Podobne znaczenie ma szybkość łącza internetowego, powinno być zbliżone do tego, którym dysponują użytkownicy. Pamiętajmy także o ustawieniu odpowiednich parametrów urządzenia, na przykład rozdzielczości ekranu, tak by odzwierciedlały ustawienia sprzętu uczestników badania, gdy znajdują się w warunkach domowych.</p>
+        <p xml:id="p-2">Nagrywanie sesji</p>
+        <p xml:id="p-3">Najważniejsza w czasie badań użyteczności jest rejestracja obrazu akcji na monitorze. W tym celu można skorzystać z jednego z wielu dostępnych na rynku programów. Można do tego użyć łatwego w obsłudze Camtasia Studio bądź jakiejś bezpłatnej aplikacji umożliwiającej nagrywanie ekranu, chociażby Jing.</p>
+        <p xml:id="p-4">Należy pamiętać, aby nie ustawiać parametrów programu przy uczestniku badań. Lepiej uruchomić program wcześniej i sprawdzić, czy wszystko działa poprawnie. Uczestnicy badania powinni zapomnieć o tym, że są filmowani, i czuć się swobodnie w czasie testów. Ważne jest również ustawienie kamery w pokoju. Nie chodzi o to, by ją sztucznie maskować. Warto jednak zadbać, aby nie zwracała uwagi. Idealne do tego celu są małe kamery wieszane na ścianie i suficie. Można też użyć zwykłej kamery DVD, postawionej w mało zauważalnym miejscu.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

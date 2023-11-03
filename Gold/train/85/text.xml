@@ -1,0 +1,19 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">- Od jak dawna?</p>
+        <p xml:id="p-2">- Od czasu okupacji...</p>
+        <p xml:id="p-3">- Ale tu je masz z powrotem, w metryce, i musisz ich używać w urzędowych papierach - powiedział oschle dyrektor i podsunął mi nowy blankiet do wypełnienia.</p>
+        <p xml:id="p-4">- Kiedy to jest stara metryka, którą mi odtworzono zaraz po wojnie. Teraz mam już inną, z obecnym imieniem.</p>
+        <p xml:id="p-5">- Gdzie ją masz? Dlaczego jej nie przyniosłeś do szkoły? Co to za niepoważny stosunek! - wołała Melania, znowu wyraźnie rozczarowana.</p>
+        <p xml:id="p-6">Ale i na tym się nie skończyło. W dwa tygodnie później wywołano mnie z lekcji i poproszono do dyskretnego pokoiku, przyległego do gabinetu dyrektora. Siedziało tam dwóch mocno zbudowanych facetów w zielonych płaszczach popelinowych. Przed nimi, na stole, leżały brązowe kapelusze.</p>
+        <p xml:id="p-7">- Potrzebujemy takich młodych ludzi jak wy. Wyrobionych, uświadomionych Ø. Po co wam studia? Niczego szczególnego was tam nie nauczą, tylko męka dla rodziców przez tyle lat. U nas dostaniecie darmo jedzenie, ubranie, spanie. Nie będziecie potrzebowali od starych ani grosza. A za małe dwa latka będziecie samodzielnym człowiekiem z porządną oficerską pensją. Ba, nie musicie nawet stawać tu do matury. No jak, odpowiada wam?</p>
+        <p xml:id="p-8">- Owszem, odpowiada - powiedziałem, niepewny, czy w ogóle miałem prawo powiedzieć co innego. - Nie wiem tylko, co na to moja mama... Bo ona uparła się, żebym poszedł na studia... Jest ambitna. W czasie okupacji bardzo się narażała, żeby mnie uratować...</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

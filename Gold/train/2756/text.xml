@@ -1,0 +1,25 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Jeżeli umowa nie stanowi inaczej, twórcy przysługuje odrębne wynagrodzenie za korzystanie z utworu na każdym odrębnym polu eksploatacji.</p>
+        <p xml:id="p-2">Art. 46.</p>
+        <p xml:id="p-3">Jeżeli umowa nie stanowi inaczej, twórca zachowuje wyłączne prawo zezwalania na wykonywanie zależnego prawa autorskiego, mimo że w umowie postanowiono o przeniesieniu całości autorskich praw majątkowych.</p>
+        <p xml:id="p-4">Art. 47.</p>
+        <p xml:id="p-5">Jeżeli wynagrodzenie twórcy zależy od wysokości wpływów z korzystania z utworu, twórca ma prawo do otrzymania informacji i wglądu w niezbędnym zakresie do dokumentacji mającej istotne znaczenie dla określenia wysokości tego wynagrodzenia.</p>
+        <p xml:id="p-6">Art. 48.</p>
+        <p xml:id="p-7">1. Jeżeli wynagrodzenie twórcy jest określone procentowo od ceny sprzedaży egzemplarzy utworu, a cena ta ulega podwyższeniu, twórcy należy się umówiony procent od egzemplarzy sprzedanych po podwyższonej cenie.</p>
+        <p xml:id="p-8">2. Jednostronne obniżenie ceny sprzedaży egzemplarzy przed upływem roku od przystąpienia do rozpowszechniania utworu nie wpływa na wysokość wynagrodzenia. Strony mogą przedłużyć termin.</p>
+        <p xml:id="p-9">Art. 49.</p>
+        <p xml:id="p-10">1. Jeżeli w umowie nie określono sposobu korzystania z utworu, powinien on być zgodny z charakterem i przeznaczeniem utworu oraz przyjętymi zwyczajami.</p>
+        <p xml:id="p-11">2. Następca prawny, choćby nabył całość autorskich praw majątkowych, nie może, bez zgody twórcy, czynić zmian w utworze, chyba że są one spowodowane oczywistą koniecznością, a twórca nie miałby słusznej podstawy im się sprzeciwić. Dotyczy to odpowiednio utworów, których czas ochrony autorskich praw majątkowych upłynął.</p>
+        <p xml:id="p-12">Art. 50.</p>
+        <p xml:id="p-13">Odrębne pola eksploatacji stanowią w szczególności:</p>
+        <p xml:id="p-14">1) utrwalenie,</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

@@ -1,0 +1,33 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">sp0: nie. wymienione są okna</p>
+        <p xml:id="p-2">sp1: no</p>
+        <p xml:id="p-3">sp0: nie wymienione są okna w tym pokoju</p>
+        <p xml:id="p-4">sp1: no czyli jedno okno. są jedne do wymiany w tym pokoju jakby tak</p>
+        <p xml:id="p-5">sp0: tak</p>
+        <p xml:id="p-6">sp1: ewentualnie gdyby gdyby coś. no ja uważam że po prostu takie rzecz to od razu trzeba odliczać z tej ceny. raz że Mateusz mówił że nie jest w tym. ciągle zapominam tego słowa. no z tą księgą wieczystą</p>
+        <p xml:id="p-7">sp0: nie ma</p>
+        <p xml:id="p-8">sp1: nie ma tak no czyli tutaj już by trzeba było. takie okno też trzeba odliczyć że to. bo to trzeba wymienić od razu. a słuchaj pytaliście liczniki są</p>
+        <p xml:id="p-9">sp0: tak</p>
+        <p xml:id="p-10">sp1: na ogrzewanie tak a jak w ogóle było ciepło jak weszliście. jakie to jest mieszkanie w środku czy szczytowe. jak nasze. bo to jest ilu klatkowy ten. zwróciłeś uwagę</p>
+        <p xml:id="p-11">sp0: nie wiem</p>
+        <p xml:id="p-12">sp1: nie yhym nie wiesz też czy szczytowe czy czy no to też jest ważne</p>
+        <p xml:id="p-13">sp0: ciepłe</p>
+        <p xml:id="p-14">sp1: ciepłnie tak. no ale niewiadomo jak na ful może mieli liczniki rozkręcone</p>
+        <p xml:id="p-15">sp0: nie moje nozdrza</p>
+        <p xml:id="p-16">sp1: ale mają kota</p>
+        <p xml:id="p-17">sp0: poraził zapach. że smród czułem. no moczu czegoś takiego no</p>
+        <p xml:id="p-18">sp1: ale mają kota</p>
+        <p xml:id="p-19">sp0: mają kota</p>
+        <p xml:id="p-20">sp1: no to może ten kot no to</p>
+        <p xml:id="p-21">sp0: no to ten kto ale oni mówią że oni nie czuli nie. Marysia nie czuła i tego bo oni też mają kota. ale u nich tego zapachu nie czułem. a tu czułem</p>
+        <p xml:id="p-22">sp1: no bo u nich jest zimne mieszkanie i wiesz wyższe może i przez to. to jest możliwe to jest całkiem możliwe że się będzie czuło kota ale to jest ich sprawa co się będzie czuło no. Mateusz to się tak śmiał że czułeś zapach moczu. no ale to jest wiesz. no i ta z uniwersytetu</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

@@ -1,0 +1,17 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">— Do końca roku będziemy realizować kilka zadań. Chcielibyśmy bardziej zagospodarować wolny czas młodzieży. Przeszkolić nauczycieli, którzy zgłoszą się dobrowolnie prowadzić zajęcia z uczniami. Chcielibyśmy poznać ich możliwości i chęci współpracy. Mamy w planie także zorganizowanie sesji profilaktycznej dla nowych radnych. Ogólnie chcemy zmienić trochę myślenie i spojrzenie na sprawy profilaktyki. Musimy także wyposażyć prowadzących zajęcia w pakiety programu „Odlot“.</p>
+        <p xml:id="p-2">— Co do tej pory udało się wam zrobić w Nowym Dworze?</p>
+        <p xml:id="p-3">— Od dwóch lat konstruuję Gminny Program Profilaktyki i Rozwiązywania Problemów Alkoholowych. Współpracuję jeszcze z kilkoma gminami, ale w Nowym Dworze mamy najbardziej widoczne efekty. Przeszkoliliśmy sprzedawców alkoholu. Prowadzimy zajęcia z dziećmi z rodzin dysfunkcyjnych. Uczymy je kontaktowania się i doceniania siebie. Działa grupa samopomocowa Anonimowych Alkoholików. Niebawem rozpocznie funkcjonowanie grupa terapeutyczna dla osób, które nie dostrzegają jeszcze u siebie choroby alkoholowej. Przekrój społeczny osób leczących się jest różny. Zahamowaliśmy też wiele przypadków przemocy w rodzinie.</p>
+        <p xml:id="p-4">— Co dalej?</p>
+        <p xml:id="p-5">— Myślę, że sytuacja wygląda lepiej. Coraz więcej osób trzeźwieje. Przerwaliśmy proces przemocy. Powstały i powstają świetlice socjoterapeutyczne i środowiskowe. Zapoczątkowaliśmy pewien proces. Efekty będą widoczne za kilka lat.</p>
+        <p xml:id="p-6">— Dziękuję za rozmowę.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

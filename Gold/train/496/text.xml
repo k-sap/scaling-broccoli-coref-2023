@@ -1,0 +1,37 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">sp0: uhm .</p>
+        <p xml:id="p-2">sp1: no tu jakoś ciasno się zrobiło może las zalesiają nie ?</p>
+        <p xml:id="p-3">sp0: posadzili. posadzili no. tu potem</p>
+        <p xml:id="p-4">sp1: no</p>
+        <p xml:id="p-5">sp0: no tu będzie bardziej sucho</p>
+        <p xml:id="p-6">sp1: no tu może jakieś te . rośnie coś</p>
+        <p xml:id="p-7">sp0: samosiejki to są.</p>
+        <p xml:id="p-8">sp1: a możliwe.</p>
+        <p xml:id="p-9">sp0: czekaj bo też masz tutaj ten. e to nie jest pająk.</p>
+        <p xml:id="p-10">sp1: m hym . oh . oh się mało spało</p>
+        <p xml:id="p-11">sp0: a gdy myśmy ostatniego wieczora szły do przyczepy to która była ?</p>
+        <p xml:id="p-12">sp1: nie wiem druga była chyba nie ?</p>
+        <p xml:id="p-13">sp0: no druga była. a obudziłam się już. o wpół do piątej. patrz jaki ten ludzki umysł jest. jak komputer czasami działa. taką ma pamięć komputerową. raz wstaniesz to potem wstajesz o tej samej porze nie ?</p>
+        <p xml:id="p-14">sp1: no. albo o podobnej porze nie ?.</p>
+        <p xml:id="p-15">sp0: budzi ci się. to samo no. ale się cieszę że sobie ten samochodzik zrobiłam wiesz ?</p>
+        <p xml:id="p-16">sp1: łoo ho .</p>
+        <p xml:id="p-17">sp0: no i się wypogodzi. zobacz i będzie. widoczność lepsza. ale fajny ten mech nie ?</p>
+        <p xml:id="p-18">sp1: uhm</p>
+        <p xml:id="p-19">sp0: jak po pierzynie tak chodzisz.</p>
+        <p xml:id="p-20">sp1: tak. mięciutki. stopy się zapadają.</p>
+        <p xml:id="p-21">sp0: ale ładne te buciki niunia cieszę się wiesz ? na zdjęciu tak wyglądały bardziej. y topornie wiesz ? takie na bardziej y. sportowo.</p>
+        <p xml:id="p-22">sp1: no.</p>
+        <p xml:id="p-23">sp0: Agatka mi uszyła. bombkę. takie to ona do sprzedania miała. nie pamiętasz tych bombek ?</p>
+        <p xml:id="p-24">sp1: no takie spódniczki pamiętam takie bombki</p>
+        <p xml:id="p-25">sp0: nie ona nie miała spódniczek nigdy</p>
+        <p xml:id="p-26">sp1: nie mówię że miała ja mówię że pamięta</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

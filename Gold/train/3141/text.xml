@@ -1,0 +1,26 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">sp0: mnie nikt nie wybierał dziewczyn</p>
+        <p xml:id="p-2">sp1: o jeja no nikt ci nie wybierał i ja nie mówię że masz mu wybierać dziewczyny no ale</p>
+        <p xml:id="p-3">sp0: ale mi też nikt nie mówił czy ta ci się podoba czy ta ci się nie podoba też mi nikt nic takiego nie mówił</p>
+        <p xml:id="p-4">sp1: no dobrze ale to w to nie wnikajmy tylko że że rzeczywiście no ale ona tak po prostu się nie angażuje zupełnie</p>
+        <p xml:id="p-5">sp0: nie no. znaczy niby tak no wiadomo że lepiej by było tu mieszkać niż tam. ale tak traktuje to mieszkanie tak no</p>
+        <p xml:id="p-6">sp1: no może ona nie wiąże z Mateuszem już przyszłości</p>
+        <p xml:id="p-7">sp0: no tak to wygląda jak Boga kocham. jakby w ogóle nie wiem czym wiązała przyszłość. z mieszkaniem na pewno nie. może z Mateuszem na pewno nie</p>
+        <p xml:id="p-8">sp1: no a może oczekuje że Mateusz się wiesz jakoś nie wykazuje wcale. nie chce nie angażuje. też nie wiesz jakto wygląda</p>
+        <p xml:id="p-9">sp0: nie wiem nie wiem. nie wiem</p>
+        <p xml:id="p-10">sp1: no właśnie. no niemniej no wiesz no może dlatego że to nie ona Ø kupuje</p>
+        <p xml:id="p-11">sp0: ta woda jest dla kogo</p>
+        <p xml:id="p-12">sp1: jaka woda</p>
+        <p xml:id="p-13">sp0: w wannie</p>
+        <p xml:id="p-14">sp1: no dla mnie niby sobie puściłam bo się chciałam wykąpać. no ale jak ty będziesz chciał to się możesz pierwszy wykąpać. mnie aż tak nie robi różnicy. ale może dlatego też się nie angażuje że to nie ona kupuje Ø no jak gdyby</p>
+        <p xml:id="p-15">sp0: no niby tak. no jest to maleńka kuchnia w sumie no wiesza jka to kuchnia no taka no nie wiem jaka u Mirki była. pewnie tego samego typu</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

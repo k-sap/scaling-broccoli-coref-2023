@@ -1,0 +1,16 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Bądźmy spokojni i nie demonizujmy faktu podpisania paktu stabilizacyjnego. Jaki będzie jego koniec? Wystarczy przypomnieć słowa o. Rydzyka: "LPR nie wierzę ani 5 sekund. To Judasz przyszedł na ostatnią wieczerzę".</p>
+        <p xml:id="p-2">Liderzy Samoobrony i LPR, to, że jesteście w parlamencie, zawdzięczacie głosom elektoratu, który nie chciał, aby przypadły one PiS. Owo poparcie sprzeniewierzyliście opętani strachem przedwyborczym właśnie na rzecz tej partii. Czy nie jesteście zwykłymi oszustami wyborczymi?</p>
+        <p xml:id="p-3">Wbrew temu, co mówi poseł Gosiewski, trzy ugrupowania, sygnatariusze paktu stabilizacyjnego, stanowią w Sejmie nie 250 szabel, a raczej tyleż kłonic, bo szlachetna broń nie przystoi awanturnikom politycznym i prostakom czyniącym z parlamentu klepisko karczemnych bójek.</p>
+        <p xml:id="p-4">Reformatorzy moralni doszli do pełni władzy. Patrząc w oblicze czołowego przedstawiciela tego nurtu ministra Dorna, wspominając jego karierę i perypetie życiowe widzę człowieka głęboko przesiąkniętego duchem odnowy moralnej RP. Człowieka, który nauczy nas, jak żyć według zasad głoszonych przez Kaczorów. A jak nie będziemy chcieli, to powoła nas w kamasze, lub posłucha rad Giertycha i stworzy obozy reedukacyjne.</p>
+        <p xml:id="p-5">W głowie się nie mieści fenomen popularności PiS i jego dwupostaciowego lidera. Mam wrażenie, że cała sprawa polega na niezrozumieniu przez ich elektorat pojęcia IV RP. Mamione solidaryzmem społecznym i programem socjalnym społeczeństwo uwierzyło, że IV RP przekreśli wypaczenia III RP. Zlikwiduje skutki planu Balcerowicza, rozliczy niewiedzę i niesprawiedliwości postsolidarnościowych rządów. Przywróci ludziom nadzieję i godność. Nic bardziej złudnego. IV RP ograniczy swoje działania do rozliczania i prześladowania lewicy, pilnowania monopolu władzy i gaszenia pożarów społecznych, jakie niewątpliwie nas czekają. Nie wystarczy do tego klerykalizacja kraju, więc ministrowie resortów siłowych będą mieli pełne ręce roboty. Mam tylko nadzieję, że nie ma nic wiecznego.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

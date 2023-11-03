@@ -1,0 +1,20 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">- Kocha!? - Wietnamczyk dyskretnie przedrzeźnił wyszczerzając jeszcze bardziej swe górne zęby. - On kocha swoją chorobę, podagrę, i chce jej się pozbyć.</p>
+        <p xml:id="p-2">- Przy pomocy niedźwiadka?</p>
+        <p xml:id="p-3">- Tak jest. Wychowa go sobie, a potem zabije i żółć użyje na lekarstwo. Żółć niedźwiedzia to najlepszy lek.</p>
+        <p xml:id="p-4">Wiedziałem o tym, jak wysoko w Azji ceniono żółć jako środek uzdrawiający, niemal cudotwórczy, i to żółć ludzką więcej jeszcze niż niedźwiedzią. Do końca dziewiętnastego wieku słynne były wyprawy Taotańczyków przeciw ludom Mojów w Górach Annamskich wyłącznie w tym celu, ażeby zdobyć żółć ludzką na lekarstwa.</p>
+        <p xml:id="p-5">Żal mi się zrobiło, że również i to rozkoszne zwierzątko miało paść ofiarą, ale na to nie było rady, całe me otoczenie uważało za rzecz zupełnie naturalną i słuszną, że żółć niedźwiadka powinna iść na lekarstwo.</p>
+        <p xml:id="p-6">Gdy Taj odprowadzał kudłatego jeńca ciągnąc go na powrozie, Wietnamczyk rzekł:</p>
+        <p xml:id="p-7">- Dawniej tak samo wleczono Puoków...</p>
+        <p xml:id="p-8">Ponieważ w dalszą drogę mieliśmy wyruszyć dopiero w pół godziny po obiedzie, a towarzysze załatwiali formalności w ośrodku administracyjnym, udałem się na miasto sam w towarzystwie młodego Tajo mówiącego trochę po francusku, a będącego posługaczem czy czymś podobnym w ośrodku.</p>
+        <p xml:id="p-9">Mieścina składała się z samych domów o ścianach bambusowych, przy czym zabudowania administracji na wzgórzu były najobszerniejsze, domy wietnamskich kupców wzdłuż samej drogi znacznie mniejsze, a na dolnym skraju osady, u wylotu ku ryżowiskom, sterczały na palach chaty Tajów. Wszystkie zabudowania miały dachy poszyte strzechą.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Wierni widzowie „Ciężko rannych pantofli“ zauważyli zapewne zmiany, jakie wprowadzili niedawno autorzy programu.</p>
+        <p xml:id="p-2">Przede wszystkim zaczyna się nie o godz. 6, lecz pół godziny później. Na początek telewidzowie otrzymują „danie odgrzewane“, czyli „Kropkę nad i“ Moniki Olejnik z poprzedniego dnia. Dopiero dziesięć minut przed godz. 7 właściwą część programu. Honory domu pełnią Sandra Walter (na zdjęciu) i Norbi. Sandra, córka znanej prezenterki i dziennikarki Bożeny Walter oraz Mariusza Waltera, niegdyś gwiazdy TVP, a teraz szefa TVN, poszła w ślady rodziców. Jeszcze dwa , trzy lata temu jej tata zapewniał w wywiadach, że nie liczy na kontynuowanie rodzinnych tradycji przez córkę, ale okazało się, że Sandra postanowiła zarabiać na życie tak samo, jak oni. Nie chciała mi zdradzić, czyje argumenty zdecydowały o podjęciu takiej, a nie innej decyzji. Obiecała rodzicom, że nie będzie publicznie o tym mówić...Norbi to postać dobrze znana fanom muzyki rozrywkowej. Przypadła mu ważna rola, bo w nowej formule programu będzie dużo niespodzianek z branży muzycznej. Od poniedziałku do piątku telewidzowie będą słuchać piosenek gościa, a także utworów, które lubi. W u biegłym tygodniu gościem był Andrzej „Piasek“ Piaseczny, a w nadchodzącym spotkamy się z zespołem Te Love.Prowadzący będą gawędzić przy śniadaniu nie tylko z zaproszonymi gośćmi. Czekają również na telefony od telewidzów!</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

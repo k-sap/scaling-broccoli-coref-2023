@@ -1,0 +1,17 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Michał Rzepkowski prowadzi w Grzybowie gospodarstwo rolne. Przejął po zmarłym ojcu Edwardzie i od stryja Kazimierzu - emeryta 17 hektarów gruntów, dom i zabudowę inwentarską. Wszystko w stanie nie najlepszym.</p>
+        <p xml:id="p-2">Matka rolnika, Danuta Rzepkowska nie ukrywa - gospodarstwo było zadłużone. Edward Rzepkowski, gdy jeszcze żył i gospodarzył, wziął kredyt na zakup ciągnika. Zadłużył się w tym nieszczęśliwym okresie, gdy odsetki wręcz niszczyły kredytobiorców. Grzybowscy ledwie ocaleli, ale stare długi spłacać musiał jeszcze Michał. Młody gospodarz ożenił się, gospodarzy wraz z żoną Agnieszką. Pracują ciężko, starają się gospodarstwo rozwijać, unowocześniać. Nastawili się na hodowlę krów mlecznych, to ma sens w gminie Regimin. Mają kilkanaście krów. Uporządkowali oborę od wewnątrz, zainstalowali dojarkę. Dostarczają mleko do Okręgowej Spółdzielni Mleczarskiej w Ciechanowie. Dochód wystarcza na utrzymanie rodziny, zostaje jeszcze parę złotych na rozwój.</p>
+        <p xml:id="p-3">Wiesław Żebrowski, prezes ciechanowskiej OSM chwali mleko Rzepkowskich: mikrobiologia - na piątkę z plusem, zawartość tłuszczu do 4 procent, białko - znakomite.</p>
+        <p xml:id="p-4">- Rolnik musi mieć młode, zdrowe bydło - twierdzi prezes, analizując rejestry dostaw. - I dba o nie.</p>
+        <p xml:id="p-5">Wejście Polski do Unii Europejskiej powitali Rzepkowscy z nadzieją, ale i zatroskaniem. Na producentów mleka UE nałożyła obowiązki, dotyczące organizacji obór, higieny otoczenia, polegającej m.in. na budowie płyt obornikowych, zbiorników gnojowicy.</p>
+        <p xml:id="p-6">Rzepkowski potraktował problem poważnie - co by nie powiedzieć, unijne rygory są znaczne, niedostosowanie obory i podwórka do zaleceń grozi wstrzymaniem odbioru mleka przez OSM. I to właśnie grozi Rzepkowskiemu. A gdy inspektor weterynaryjny „zamknie” mu oborę, gdy nie będzie mógł odstawiać mleka do mleczarni, to co z nim zrobi? Sam wypije?</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

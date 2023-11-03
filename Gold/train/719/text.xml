@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">2. Jeżeli wniosek o utworzenie uczelni zawodowej nie spełnia wymagań określonych w art. 20, w terminie roku od dnia wejścia w życie ustawy może zostać uzupełniony i podlega rozpatrzeniu w trybie i na zasadach ustalonych w niniejszej ustawie. Po tym terminie niezakończone postępowania w sprawie utworzenia uczelni zawodowych niespełniające wymagań określonych w art. 20 zostają zakończone.</p>
+        <p xml:id="p-2">Art. 260. Uczelnie, które w dniu wejścia w życie ustawy nie spełniają wymagań określonych w art. 56 ust. 2 lub art. 58 ust. 4, nabywają uprawnienia, które przepisy niniejszej ustawy wiążą ze spełnieniem tych wymagań, jeżeli w dniu wejścia w życie ustawy spełniają wymagania określone w art. 12 ust. 1 lub 2 ustawy wymienionej w art. 276 pkt 2. Uczelnie te tracą powyższe uprawnienia z dniem 31 sierpnia 2010 r., chyba że wcześniej spełnią wymagania określone w art. 56 ust. 2 lub art. 58 ust. 4.</p>
+        <p xml:id="p-3">Art. 261. Minister właściwy do spraw szkolnictwa wyższego może, w drodze rozporządzenia, na wniosek organu prowadzącego, działającą w dniu wejścia w życie ustawy publiczną szkołę pomaturalną, realizującą co najmniej dwuletni program nauczania zawodowego, po spełnieniu warunków wymaganych w ustawie dla utworzenia uczelni zawodowej, przekształcić w uczelnię prowadzącą studia pierwszego stopnia. Do tak utworzonej uczelni zawodowej stosuje się przepisy niniejszej ustawy.</p>
+        <p xml:id="p-4">Art. 262. 1. Wnioski dotyczące zmiany struktury wewnętrznej uczelni, zgłoszone, a nierozpatrzone do dnia wejścia w życie ustawy, podlegają rozpatrzeniu w trybie i na zasadach określonych w niniejszej ustawie.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

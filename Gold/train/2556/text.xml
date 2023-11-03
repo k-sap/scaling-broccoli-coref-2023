@@ -1,0 +1,19 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">PKP</p>
+        <p xml:id="p-2">Przez trzy godziny ruch pociągów na trasie Poznań-Wrocław był wczoraj całkowicie wstrzymany. Przez dwie kolejne pociągi jeździły tylko po jednym torze. To skutek awarii trakcji elektrycznej w okolicach Puszczykowa spowodowanej przewróceniem się na tory dwóch drzew.</p>
+        <p xml:id="p-3">Drzewa przewróciły się około godziny piątej, blokując oba tory i uniemożliwiając ruch w obu kierunkach. Pociągi musiały zatrzymać się w okolicach Puszczykowa, a podróżni czekać na usunięcie awarii.</p>
+        <p xml:id="p-4">– Całą noc padał deszcz i woda podmyła korzenie drzew, które prawdopodobnie dlatego się przewróciły. Padając, uszkodziły trakcję – informuje Zbigniew Wolny, rzecznik prasowy PKP PLK w Poznaniu. – Jeszcze przed godziną 8 udało się nam oczyścić jeden tor. Trasa była całkowicie przejezdna już o godzinie 9.20, ale awaria spowodowała opóźnienia 22 pociągów.</p>
+        <p xml:id="p-5">Wczorajsze rekordowe opóźnienie osiągnęło około 200 minut. Najbardziej spóźniały się pociągi z Rawicza do Poznania i z Poznania do Leszna.</p>
+        <p xml:id="p-6">W hali Dworca Głównego w Poznaniu opóźnienia podawane na tablicach informacyjnych wciąż się zwiększały, a z głośników płynęły nowe komunikaty o utrudnieniach.</p>
+        <p xml:id="p-7">Oczekujący na pociąg o 7.35 z Leszna stali na dworcu trzy godziny dłużej niż planowali. Podróżni, którzy wybierali się do Rawicza o 8.11, spędzili tu dodatkowe dwie godziny. Pasażerowie czekający na pociąg do Świnoujścia odjechali z ponad 70-minutowym opóźnieniem.</p>
+        <p xml:id="p-8">– Już od prawie dwóch godzin mogliśmy być w drodze. Jedziemy na wakacje z dziećmi. Po takim długim czekaniu one już są zmęczone, a jeszcze nawet nie wsiedliśmy do pociągu – mówi Katarzyna Markiewicz z Poznania.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

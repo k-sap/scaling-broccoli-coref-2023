@@ -1,0 +1,14 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Nasunął głębiej kapelusz, znowu zapadł w siebie. Marta stała onieśmielona, zanim nie znikł w ulicy. Nie uspokoiły jej słowa ojca, przeciwnie, utwierdziły w poczuciu, że dzień, który właśnie mierzchnął , nie był dniem powszednim.</p>
+        <p xml:id="p-2">Spory kawałek drogi od siebie do matki umyślnie szła piechotą, żeby wzburzenie wywołane przez niezwykły obiad opadło i rozmowa, tak osobliwie zaczęta, mogła toczyć się dalej w nastroju pogodnym. Aczkolwiek Róża zapowiedziała "własne sprawy", Marta, nawykła do nieobliczalności matczynej, robiła rachunek sumienia, aby nie dać się zaskoczyć wymówkom. Przebiegając pamięcią tych lat dwanaście, od dnia pierwszej lekcji śpiewu, w ciągu których z dziecka stała się późno rozwiniętą dziewczyną, a zaraz później żoną Pała, matką Zbyszka i wreszcie doskonałą śpiewaczką - nie znajdowała w nich win przeciwko Róży. W okresie kiedy panny zazwyczaj obojętnieją dla matek, zaprzątnięte oczekiwaniem miłości, ona właśnie w matce to oczekiwanie ziściła. Jej pierwszy sen erotyczny to nie był ani chłopiec, strzelający zza płotu, ani rumak, który tratuje ognistymi kopytami ani nauczyciel polskiego, ani Winicjusz, ani tuberozy. To była Róża w szeleście jedwabiu, w zapachu nokturnów, pochylona nad jej spoconym czołem - sroga, śpiewna, z wielkim liściem palmowym w dłoni.</p>
+        <p xml:id="p-3">Skoro - dzięki głosowi - Marta osiągnęła wywyższenie aż do poziomu przyjaźni z matką, świat odmienił się tak dalece, tyle przybyło zachwytów, niespodzianek, przerażeń, że na tęsknotę nie było już miejsca.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

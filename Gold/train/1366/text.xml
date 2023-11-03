@@ -1,0 +1,25 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Cichym głosem wydał jakieś polecenie swoim towarzyszom i ręką wskazał im kierunek.</p>
+        <p xml:id="p-2">- Dogonimy was! - szepnął. - Jazda... W nogi!</p>
+        <p xml:id="p-3">Czterech dorodnych dryblasów chwyciło Francuza na ramiona i wilczym krokiem pobiegłszy zapadli w mrocznym gąszczu. - Śpieszmy się. Boję się psów... - mówił Adaś, zadyszany.</p>
+        <p xml:id="p-4">Podtrzymaj mnie, bo jeszcze nie czuję nóg. O Staszku, o drogi Staszku. Sam nie wiesz... Ale o tym potem...</p>
+        <p xml:id="p-5">Podpełznęli ku tylnym drzwiom głuchego i milczącego domu. - Pchnij te drzwi!</p>
+        <p xml:id="p-6">Burski rozpędził się i uderzył ramieniem w mizerne drzwi, które rozwarły się szeroko jak ziewająca gęba.</p>
+        <p xml:id="p-7">- Latarkę! - szepnął Adaś. - Ja nie mogę, szukaj ty... Czekaj no... Tu powinien sterczeć jakiś garnek. Jest! Sięgnij ręką do środka. Znalazłeś co?</p>
+        <p xml:id="p-8">- Tak... Małe zawiniątko... Zdaje się, że papiery...</p>
+        <p xml:id="p-9">- Dawaj! Teraz prędko do tej izby na lewo... Szukaj na łóżku pod siennikiem. Czujesz ręką papiery?</p>
+        <p xml:id="p-10">- Są!</p>
+        <p xml:id="p-11">- Dawaj, bracie! - szepnął Adaś.</p>
+        <p xml:id="p-12">Ukrył w zanadrzu sponiewierany rękopis księdza Koszyczka. - Nic więcej? - szepnął Burski.</p>
+        <p xml:id="p-13">- Już wszystko! Teraz uciekajmy. Ale dokąd? - Do nas, do obozu.</p>
+        <p xml:id="p-14">- To wy tu macie obóz? - Za wodą .</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

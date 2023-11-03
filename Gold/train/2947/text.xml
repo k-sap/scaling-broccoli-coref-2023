@@ -1,0 +1,14 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">- Obiecuję.</p>
+        <p xml:id="p-2">W pierwszy dzień jesieni Misia zmełła w młynku porcję prawdziwej kawy, wsypała ją do szklanki i zalała wrzątkiem. Wyjęła z kredensu pierniki. Kuchnię wypełnił cudowny zapach. Przysunęła krzesło do okna i piła kawę drobnymi łyczkami. Wtedy świat w umyśle Misi wybuchł, a jego drobne odłamki posypały się wkoło. Osunęła się na podłogę, pod stół. Rozlana kawa kapała jej na dłoń. Misia nie mogła się ruszyć, więc czekała, niby zwierzę złapane w sidła, aż ktoś przyjdzie i ją uwolni.</p>
+        <p xml:id="p-3">Zawieziono ją do szpitala w Taszowie, gdzie lekarze powiedzieli, że miała wylew. Codziennie przyjeżdżał do niej Paweł z Izydorem i dziewczęta. Siadali przy jej łóżku i mówili do niej cały czas, choć nikt z nich nie był pewien, czy Misia rozumie. Zadawali pytania, a ona czasem kiwała głową na "tak" albo na "nie". Jej twarz zapadła się, a wzrok uciekł do wewnątrz, zmatowiał. Wychodzili na korytarz i próbowali dowiedzieć się od lekarza, co z nią będzie, ale lekarz wyglądał na zaaferowanego czym innym. W każdym oknie szpitala wisiały biało-czerwone flagi, a personel nosił strajkowe przepaski. Stawali więc przy szpitalnym oknie i tłumaczyli sobie to nieszczęście. Może uderzyła się w głowę i uszkodziła te wszystkie ośrodki: mowy, radości życia, ciekawości życia, chęci do życia. Albo jeszcze inaczej: upadła i przeraziła się myśli, jak bardzo jest krucha, jakim cudem jest to, że się żyje, przeraziła się tego, że jest śmiertelna, i teraz, na ich oczach, umiera ze strachu przed śmiercią.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

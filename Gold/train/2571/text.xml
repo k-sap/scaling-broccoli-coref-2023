@@ -1,0 +1,12 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">W swoim piłkarskim życiu wiele przeszedł. Zaczynał w rodzinnym Pucku, w klubie o nazwie Zatoka. Potem były gdyński Bałtyk i ŁKS Łódź, z którego w styczniu 1998 roku trafił na ul. Reymonta. Po krakowskiej przygodzie "zwiedził" chorzowski Ruch, lubińskie Zagłębie, szczecińską Pogoń i łódzki Widzew, by znowu zawitać pod Wawel, gdyż podobno w domu najlepiej. A Wisła stała się dla zawodnika takim właśnie domem, a piłkarz świadomy tego, co dla niego zrobiono przy ul. Reymonta, spłaca jak umie najlepiej swoisty dług. Sam doskonale zdaje sobie sprawę ze swoich sportowych zalet i wad. Wie, że nie był, nie jest i już nie będzie wirtuozem. Ale ambicji, zaangażowania, waleczności, bezkompromisowości i upartości (w dobrym tego słowa znaczeniu) wielu może Dubiemu pozazdrościć. W ostatnim zaś tygodniu zawodnik pokazał, że gdzie by go trener Henryk Kasperczak nie postawił, tam zagra jak tylko potrafi najlepiej. Nie będzie dla niego tzw. straconych piłek, zbyt strasznych przeciwników, słowem będzie zaangażowany na sto procent. W środowy wieczór w Nikozji Daniel Dubicki musiał z konieczności (po czerwonej kartce Macieja Stolarczyka) walczyć także na lewej obronie i czynił to raz lepiej, raz gorzej, ale generalnie nieźle. A że zarobił żółtą kartkę? Cóż, takie ryzyko jest niejako wpisane w tzw. koszt biletu. Z kolei wczoraj desygnowany został na prawą flankę linii pomocy i z zadań wywiązał się przynajmniej na "cztery", przy starej skali ocen, czyli od "dwójki" do "piątki". Ogromne więc brawa dla Daniela Dubickiego za wszystko, co do tej pory zrobił dla Wisły. A wolno przypuszczać, że nie powiedział ostatniego słowa.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

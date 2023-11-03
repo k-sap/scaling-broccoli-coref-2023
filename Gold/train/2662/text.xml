@@ -1,0 +1,18 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Dziewięć miesięcy trwała budowa bloku komunalnego w Kutnie, który oddano miesiąc temu</p>
+        <p xml:id="p-2">Sześćdziesiąt to szczęśliwa liczba</p>
+        <p xml:id="p-3">W nowo wybudowanym bloku przy ulicy Granicznej w Kutnie jest sześćdziesiąt mieszkań. Wszystkie są o wysokim standardzie i bez żadnych usterek.</p>
+        <p xml:id="p-4">- Sześćdziesiąt rodzin otrzymało od miasta wspaniały prezent - mówi Grażyna Wajcowicz, prezes Towarzystwa Budownictwa Społecznego w Kutnie, które było inwestorem zastępczym bloku. - Wszystkie mieszkania są piękne, o wysokim standardzie i doskonale wyposażone.</p>
+        <p xml:id="p-5">W wyposażeniu każdego mieszkania jest kuchnia gazowa, zlewozmywak, umywalka, wanna lub brodzik i sedes. Przy umywalkach, wannach i zlewozmywakach zainstalowano baterie z mieszadłami ciepłej i zimnej wody. W całym budynku wstawiono plastikowe okna. Drzwi wyposażono w estetyczne klamki. Wszystkie mieszkania są pomalowane na biało i czekają na lokatorów. Na dobrą sprawę, wprowadzający się przyszli mieszkańcy nie będą musieli nawet myć okien, które przed oddaniem budynku wymyli pracujący przy budowie robotnicy.</p>
+        <p xml:id="p-6">- Na tę inwestycję miasto przeznaczyło 4,2 miliona złotych - wyjaśnia Zdzisław Ancerowicz, zastępca prezesa TBS-u. - Wiemy już, że zmieściliśmy się w tej kwocie, a nawet, że wyszło trochę taniej. Te pieniądze poszły nie tylko na sam blok, ale także na uzbrojenie terenu. Pomiędzy blokami, które już od kilku lat stoją przy Granicznej, a tym nowym jest uzbrojone miejsce na jeszcze jeden podobny blok.</p>
+        <p xml:id="p-7">Blok budowało konsorcjum dwóch kutnowskich firm "Budimus" i "Urbud". Za sam blok odpowiada w większej części "Budimus", za zagospodarowanie terenu - "Urbud". (bea)</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

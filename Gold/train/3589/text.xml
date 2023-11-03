@@ -1,0 +1,16 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Pozycje to nic innego jak kupione lub sprzedane loty. Ilekroć decydujesz się zakupić lub sprzedać loty danej pary walutowej, tylekroć otwierasz nowe pozycje. Jeżeli zakupiłeś lub sprzedałeś określoną ilość lotów i teraz są one poddawane zmianom kursu, to masz otwartą pozycję. Będzie ona otwarta dopóki nie otworzysz takiej samej pozycji w drugą stronę (jeżeli kupowałeś to sprzedasz, a jeśli sprzedawałeś to kupisz). Przeciwne pozycje znoszą się nawzajem (wyjątek stanowi hedging*) Zamknięta pozycja to taka pozycja, która została zniesiona przez inną (przeciwną) pozycję, lub którą zamknąłeś odpowiednim przyciskiem na platformie (tzw. "square" lub "close"). Rozróżniamy dwa rodzaje pozycji: pozycje krótkie (short) i długie (long).</p>
+        <p xml:id="p-2">Pozycja krótka to pozycja, którą otwarłeś sprzedając loty danej pary walutowej. Odpowiednio pozycja kupna lotów danej pary to pozycja długa.</p>
+        <p xml:id="p-3">Przykład:</p>
+        <p xml:id="p-4">Na Twoim koncie mini sprzedałeś 3 loty EUR/USD. Posiadasz więc otwartą pozycję krótką EUR/USD na -30.000. Następnie zakupiłeś 3 loty EUR/USD - otwarłeś więc pozycję długą na +30.000. Pozycje są przeciwne, czyli się znoszą. Nie masz w tej chwili żadnych otwartych pozycji.</p>
+        <p xml:id="p-5">d Hedging to funkcja proponowana przez niektóre platformy brokerskie - oznacza ona możliwość otwierania przeciwnych pozycji bez ich znoszenia się. Zamykamy je wtedy odpowiednimi przyciskami na platformie, które są również obecne na platformach bez hedgingu.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

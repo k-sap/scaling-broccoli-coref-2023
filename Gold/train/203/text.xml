@@ -1,0 +1,24 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Pojęć pustaki i luksfery używa się bardzo często wymiennie. Tymczasem są to dwa różne materiały.</p>
+        <p xml:id="p-2">Luksfery składają się z jednej grubszej warstwy szkła. Pustaki natomiast mają dwie szklane warstwy, między którymi jest powietrze. Dzięki temu mają lepsze właściwości termoizolacyjne i mogą być stosowane w ścianach zewnętrznych.</p>
+        <p xml:id="p-3">Parametry techniczne</p>
+        <p xml:id="p-4">Nowoczesne pustaki szklane mają dobre parametry techniczne. Współczynnik przewodzenia ciepła wynosi ok. 2,8, co ma znaczenie przy budowaniu ścian zewnętrznych bądź odgradzaniu pomieszczeń mieszkalnych, od np. nieogrzewanych korytarzy.</p>
+        <p xml:id="p-5">Przepuszczalność światła w przypadku zastosowania pustaków białych wynosi ponad 70 proc., zaś w przypadku kolorowych ok. 50 proc. Ściany wykonane z pustaków zapewniają izolację dźwiękową w granicach 40 dB. Klienci o specyficznych potrzebach mogą nawet kupić pustaki kuloodporne.</p>
+        <p xml:id="p-6">Luksfery nieco gorzej chronią przed hałasem i zimnem. Stosowane są zatem głównie we wnętrzach, a dzięki różnym wzorom i wymiarom dają ogromne możliwości aranżacyjne.</p>
+        <p xml:id="p-7">Wzory i kolory</p>
+        <p xml:id="p-8">W ofercie są pustaki kwadratowe, prostokątne (połówkowe), narożne, a nawet trójkątne.</p>
+        <p xml:id="p-9">Najczęściej spotykane wymiary to: 19x19x8 cm (szerokość x wysokość x grubość), 19x19x10, 24x24x8, 24x11,5x8 cm. Jest wiele kolorów do wyboru, są też pustaki przezroczyste i białe.</p>
+        <p xml:id="p-10">Jak budować</p>
+        <p xml:id="p-11">Do murowania szklanych pustaków wykorzystuje się zwykle zaprawy cementowe z dodatkiem mas uplastyczniających.</p>
+        <p xml:id="p-12">Wykorzystane mogą być także kleje do glazury lub specjalne kleje do luksferów.</p>
+        <p xml:id="p-13">Istotną sprawą jest także wypełnienie fug, jednakże i tutaj mogą być z powodzeniem zastosowane zaprawy przeznaczone na fugi między kafelkami.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

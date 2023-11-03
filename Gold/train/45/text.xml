@@ -1,0 +1,18 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Poprawka nr 18 powoduje „przesunięcie“ kwoty 54 mln 600 tys. zł wewnątrz części Obrona Narodowa z wydatków majątkowych na wydatki bieżące w celu sfinansowania remontów samolotów.</p>
+        <p xml:id="p-2">Poprawka nr 19 zwiększa o 5 mln zł wydatki na inwestycję wieloletnią Uniwersytetu Jagiellońskiego w Krakowie – budowa kampusu 600-lecia Uniwersytetu Jagiellońskiego oraz zmniejsza o tę kwotę wydatki na inwestycję wieloletnią Uniwersytetu im. A. Mickiewicza w Poznaniu – budowa Zespołu obiektów dydaktyczno-socjalnych Collegium Polonicum w Słubicach.</p>
+        <p xml:id="p-3">Poprawka nr 20 zwiększa o 1 mln 150 tys. zł wydatki w części – Zdrowie w rozdziale – Inspekcja Sanitarna, kosztem zmniejszenia niektórych wydatków województwa małopolskiego. Poprawka stanowi korektę związaną ze zmianą zasad finansowania Inspekcji Sanitarnej wynikającą z przepisów ustawy z dnia 24 sierpnia 2001 r. o zmianie ustawy o Inspekcji Sanitarnej oraz niektórych ustaw.</p>
+        <p xml:id="p-4">Poprawka nr 21 dotyczy części Zdrowie i polega na zwiększeniu o 25 mln zł wydatków przeznaczonych na staże i specjalizacje medyczne, co ma umożliwić kontynuację systemu specjalizacji lekarzy rodzinnych.</p>
+        <p xml:id="p-5">Poprawka nr 22 dotyczy budżetu Państwowej Agencji Atomistyki i zwiększa o 2 mln zł środki przeznaczone na dotacje na zadania w zakresie bezpiecznego wykorzystania energii atomowej.</p>
+        <p xml:id="p-6">Poprawka nr 23 zwiększa o 30 mln zł wydatki majątkowe przeznaczone na pracownie internetowe w szkołach i zmniejsza o tę kwotę rezerwę celową przeznaczoną na koszty integracji z Unią Europejską.</p>
+        <p xml:id="p-7">Poprawka nr 24 prowadzi do zwiększenia w części – Województwo pomorskie i Województwo warmińsko-mazurskie środków na budowę i utrzymanie urządzeń melioracji wodnych o 17 mln 200 tys. zł. Środki te mają być wykorzystane na poprawę stanu technicznego urządzeń melioracji wodnych na Żuławach.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

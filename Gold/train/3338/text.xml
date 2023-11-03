@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Menedżerowie bez dzieci wybierają na ogół mieszkania w apartamentowcach w dobrych lokalizacjach. - W rezydencji Opera w Warszawie wynajmowana jest prawie połowa apartamentów. Właściciele wykończyli je na ogół w standardzie wyższym niż oferowany przez dewelopera. Za mieszkanie z dwiema sypialniami trzeba zapłacić od 10 do ponad 20 tys. zł. A jednak żadne nie stoi puste. Podobne czynsze jak w Operze są w Willi Monaco - twierdzi Waldemar Kania. Kupno takiego apartamentu na wynajem jest świetnym interesem; tyle że dla nielicznych (m kw. kosztuje około 30 tys. zł).</p>
+        <p xml:id="p-2">Cudzoziemcy z mniejszym pakietem mieszkaniowym szukają tańszych lokali. Czasem wynajmuje je dla nich macierzysta firma. Polskie firmy też wynajmują mieszkania dla swoich pracowników przenoszonych do innych miejscowości. Przedsiębiorstwa budowlane - nawet całe domy. Nie ma wtedy ryzyka, że lokatorzy przywiążą się do mieszkań i nie będą ich chcieli opuścić. Ustawa o ochronie praw lokatorów ich nie dotyczy: stroną umowy jest firma.</p>
+        <p xml:id="p-3">Większość wynajmujących nie ma aż tak komfortowej sytuacji. Ich kontrahenci to osoby fizyczne. - Przez kilka lat wynajmowałam razem z koleżankami trzypokojowe mieszkanie na Żoliborzu. Właściciele, młode małżeństwo, mieszkali u rodziców jednego z nich. Kiedy się wyprowadzałyśmy, zwrócili nam kaucję, jeden czynsz - mówi Magda, absolwentka UW.</p>
+        <p xml:id="p-4">Wynajem mieszkania kupionego na własne potrzeby nazywany jest okazjonalnym i nie podlega większości przepisów ustawy o ochronie praw lokatorów. Stosuje się w jego przypadku przepisy kodeksu cywilnego. W rezultacie łatwiej jest wypowiedzieć umowę, nie ma ograniczeń przy podnoszeniu czynszu i nie trzeba podwyżki uzasadniać. Na ogół strony jednak nieźle się dogadują.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

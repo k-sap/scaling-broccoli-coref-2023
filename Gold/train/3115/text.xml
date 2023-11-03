@@ -1,0 +1,17 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">– Widzisz, ty obesrańcu?! – wrzasnął. – Już cię złapałem na kłamstwie! Przedtem mówiłeś „Udo”! I myślisz, że jestem taki głupi i nie wiem, co to jest „Hermann i Dorothea”?!</p>
+        <p xml:id="p-2">– Każdemu może się pomylić – warknął Mock, patrząc, jak szyja i twarz rewirowego puchnie w więzach ciasnego mundurowego kołnierza.</p>
+        <p xml:id="p-3">Tym razem Mock rozgniewał się na siebie i na swoje głupie przejęzyczenie. Widząc, jak tęgi rewirowy zaciska dłoń w pięść i zbliża się do niego, poczuł pulsowanie rany na głowie i ciepły strumyk krwi za uchem. Przypomniał sobie pazury teściowej doktora Goldmanna. Wściekłość napłynęła jak śliski, zimny i śmierdzący pot. Napiął mięśnie i czekał. W tym momencie na biurku podskoczył telefon i rozdzwonił się blaszanym terkotem. Mundurowy wygładził uniform na brzuchu i podniósł słuchawkę.</p>
+        <p xml:id="p-4">– Naczelnik rewiru, nadkomisarz Schulz – powiedział i słuchał przez chwilę czyjegoś ostrego głosu. – Tak, zgadza się, panie radco – spojrzał szybko na Mocka. – Podał fałszywe nazwisko i był... Tak, tak, rozumiem. Nadwachmistrz Eberhard Mohr, nie, nie... Mock. – Spojrzał krzywo na przesłuchiwanego. – Rozumiem, tak właśnie zrobię... Przekażę mu... Tak, dopilnuję tego... Czekam...</p>
+        <p xml:id="p-5">Odłożył słuchawkę i spojrzał na Mocka przeciągle.</p>
+        <p xml:id="p-6">– Dlaczego nie powiedział pan, kim jest, panie nadwachmistrzu? – zapytał, wciągając brzuch.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

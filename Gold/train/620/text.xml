@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Przyczyną większości wypadków jest niewłaściwe zachowanie ludzi i nieprzestrzeganie przepisów BHP. Zakładowi specjaliści w tej dziedzinie prześcigają się w pomysłach nad poprawą stanu bezpieczeństwa i higieny pracy, zwiększeniem odpowiedzialności za bezpieczeństwo własne i kolegów. Od dwóch lat w kopalni Polkowice-Sieroszowice organizowany jest konkurs na najbezpieczniej pracujący oddział. W tym roku do rywalizacji stanęły 52 oddziały, które w zależności od stopnia zagrożenia wypadkami podzielono na cztery grupy. Punkty karne oddział otrzymuje m.in. za kary regulaminowe udzielone pracownikowi za nieprzestrzeganie przepisów BHP, przebywanie pracownika na terenie zakładu w stanie nietrzeźwym czy posiadanie przez niego na dole kopalni papierosów lub innych środków, mogących wzniecić pożar. Wypadki śmiertelne i ciężkie eliminują oddział z konkursu.</p>
+        <p xml:id="p-2">- Wyłoniła się już czołówka, która pewnie nie zechce oddać prowadzenia do zakończenia konkursu - mówi Światosław Niebylski, główny inż. BHP kopalni Polkowice-Sieroszowice.</p>
+        <p xml:id="p-3">- Największe szanse - w grupie oddziałów o największym zagrożeniu - ma oddział wentylacyjno - drogowy G-9. W drugiej grupie, o dużo mniejszym zagrożeniu, na prowadzenie wyszedł oddział szybowy M-3. W trzeciej grupie, także z czystym kontem jest oddział elektryczny E-5 i oddział łączności E-7. W czwartej od początku pozycję lidera zajmują oddziały mechaniki górotworu i obudowy, geologiczny i wentylacji - dodaje inż. Światosław Niebylski.</p>
+        <p xml:id="p-4">- Cieszymy się z przodownictwa w grupie, choć nie wiem czy dotrwamy z tym wynikiem do końca konkursu. Prócz zaangażowania załogi potrzebne jest jeszcze szczęście górnicze, któremu należy pomagać. Realizując codzienne zadania pamiętamy, że bezpieczeństwo jest sprawą nadrzędną dla każdego z nas - wyjaśnia Władysław Oleksyk, kierownik oddziału G-9.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

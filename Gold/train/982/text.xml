@@ -1,0 +1,20 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Kalendarzyk, termometr, pigułka czy prezerwatywa? Którą z metod antykoncepcji wybrać? Co zrobić, żeby zabezpieczyć się przed nieplanowanym potomstwem? Najlepiej oczywiście wybrać wstrzemięźliwość, ale wtedy też trzeba zrezygnować z przyjemności.</p>
+        <p xml:id="p-2">Czy antykoncepcja jest tylko problemem kobiet? Czy jednak powinien zaangażować się w nią też partner? Jakie wątpliwości mają kobiety przy wyborze odpowiedniej metody antykoncepcyjnej? O co najczęściej pytają ginekologa?</p>
+        <p xml:id="p-3">W środę, 27 lutego, o godzinie 18.00, w programie Rozmowy w Toku Ewa Drzyzga, rozmawiała na temat antykoncepcji - "Czy czujesz się bezpieczny w swoim łóżku?". Bezpośrednio po zakończeniu emisji programu - o godzinie 19.00 - zaprosiliśmy Państwa na czat, w trakcie trwania którego, dr Maria Szczawińska - specjalista ginekolog - położnik odpowiadała na pytania Państwa powiązane z tym tematem.</p>
+        <p xml:id="p-4">Maria Szczawińska - ekspert programu Rozmowy w Toku. Specjalista ginekolog-położnik</p>
+        <p xml:id="p-5">W 1983 roku ukończyła studia na Wydziale Lekarskim Akademii Medycznej w Krakowie.</p>
+        <p xml:id="p-6">Pracuje na oddziale ginekologii i położnictwa w szpitalu in. Narutowicza w Krakowie. Jest kierownikiem Przychodni Zdrowia Rodziny fundacji Pro Humana Vita.</p>
+        <p xml:id="p-7">Od wielu lat prowadzi wykłady w szkole rodzenia oraz kursy metod naturalnego planowania rodziny. Jest inicjatorem i współorganizatorem porodów rodzinnych. Jest instruktorem metody wielowskaźnikowej oraz nauczycielem metody Bilingsa.</p>
+        <p xml:id="p-8">Autorka książki "Razem czy osobno” – poród rodzinny, wydanej w 2000 roku.</p>
+        <p xml:id="p-9">W akcji "Rodzić po ludzku" organizowanej przez Gazetę Wyborczą, otrzymała tytuł „Najżyczliwszego lekarza w kraju 2000”</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

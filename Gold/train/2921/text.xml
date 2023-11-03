@@ -1,0 +1,14 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Szepnąłem tylko: – Nazywam się Diego Carmena, ojcze – lecz tego już chyba nie usłyszał. Być może zresztą mi też się tylko wydawało, że to powiedziałem, a w rzeczywistości, czymkolwiek ona jest, nie byłem już w stanie powiedzieć niczego na tym najlepszym ze światów.</p>
+        <p xml:id="p-2">Czasem, gdy siadałem przy stole z talerzem zupy albo pajdą chleba przed oknem, zza którego roztaczał się widok na morze (memento morie, pamiętaj o morzu), myślałem, że mógłbym spisać albo kazać spisać swoje wspomnienia. Ale ta ochota, która zresztą nie była specjalnie natarczywa, szybko ode mnie odchodziła. Nie mam nic do powiedzenia, nic takiego, co chciałbym, żeby zostało zapamiętane. Moje życie przeżyłem tak, jak inni, jestem tylko alternatywą dla was wszystkich. Od czasu do czasu jednak odczuwam istnienie czegoś, co nie mieści się w życiu, co poza nie wykracza, chciałbym wierzyć, że jest to Bóg, ale, choć nie mówię tego głośno, pogrzebałem Boga w ładowni statku Victoria między szóstym maja a dziewiątym lipca, roku, którego nie jestem w stanie zapomnieć, niezależnie od ilości wypitego alkoholu.</p>
+        <p xml:id="p-3">Nic nie pamiętam z okresu przed pogrzebem Boga. Pamięć płatała mi figle, usuwała się w cień, często po powrocie budziłem się rano z poczuciem, że sen, który wciąż jeszcze trzymałem pod powiekami, miał swoje oparcie w rzeczywistości będącej moim udziałem. Ale potem, gdy patrzyłem na memento morie, uzmysławiałem sobie, że nic się nie stało. Nic takiego nie wydarzyło się w moim życiu, zaś wszystko, o czym śniłem nie było prawdziwsze od jednorożców czy dzikich zebr, ponoć gdzieś żyjących. To błąd dopatrywać się w snach odzwierciedlenia rzeczywistości. Moje sny, zwłaszcza rozpamiętywane podczas wyglądania przez okno, nie miały żadnego realnego odniesienia, bo rzeczywistość przecież dobrze pamiętam.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

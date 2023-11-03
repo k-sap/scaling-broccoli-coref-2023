@@ -1,0 +1,22 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">1. Kontrolujący podlega wyłączeniu od udziału w kontroli, na wniosek lub z urzędu, jeżeli wyniki kontroli mogą dotyczyć jego praw lub obowiązków albo praw lub obowiązków jego małżonka lub osoby pozostającej z nim faktycznie we wspólnym pożyciu, krewnych i powinowatych do drugiego stopnia albo osób związanych z nim z tytułu przysposobienia, opieki lub kurateli. Powody wyłączenia kontrolującego trwają mimo ustania małżeństwa, wspólnego pożycia, przysposobienia, opieki lub kurateli.</p>
+        <p xml:id="p-2">2. Kontrolujący podlega wyłączeniu również w razie zaistnienia w toku kontroli okoliczności mogących wywołać uzasadnione wątpliwości co do jego bezstronności.</p>
+        <p xml:id="p-3">3. O wyłączeniu decyduje jednostka kontrolująca.</p>
+        <p xml:id="p-4">1. Kontrolujący dokonują ustaleń stanu faktycznego na podstawie zebranych w toku kontroli dowodów.</p>
+        <p xml:id="p-5">2. Dowodami są w szczególności: dokumenty i inne nośniki informacji, zabezpieczone rzeczy, opinie biegłych, wyniki oględzin, jak również pisemne wyjaśnienia i oświadczenia.</p>
+        <p xml:id="p-6">3. Zebrane w toku postępowania kontrolnego materiały dowodowe kontrolujący odpowiednio zabezpieczają.</p>
+        <p xml:id="p-7">4. Kontrolujący mogą zabezpieczyć materiały, o których mowa w ust. 3, w szczególności poprzez:</p>
+        <p xml:id="p-8">1) oddanie na przechowanie, za pokwitowaniem, kierownikowi lub upoważnionemu pracownikowi jednostki kontrolowanej;</p>
+        <p xml:id="p-9">2) przechowanie w jednostce kontrolowanej w oddzielnym, zamkniętym pomieszczeniu.</p>
+        <p xml:id="p-10">1. W razie potrzeby ustalenia stanu obiektu, innych składników majątkowych albo przebiegu określonych czynności, kontrolujący mogą przeprowadzić oględziny.</p>
+        <p xml:id="p-11">2. Oględziny przeprowadza się w obecności kierownika komórki jednostki kontrolowanej, odpowiedzialnego za obiekt lub składniki majątkowe poddane oględzinom, a w razie jego nieobecności - osoby wyznaczonej przez kierownika jednostki kontrolowanej.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

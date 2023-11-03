@@ -1,0 +1,14 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">nazaa Związki frazeologicze często mają swoje korzenie i wyjaśnienie w historii. Przysłowiowy stał się przypadek szlachcica Franciszka Zabłockiego, który trudnił się handlem, a pewnego dnia stwierdził, że bycie uczciwym się nie opłaca i został przemytnikiem :twisted: Zabrał więc towar, czyli mydło pod pokład statku i ani myślał płacić cło, a na miejscu bardzo się zdziwił, gdy z mydła zostało tylko trochę mydlin :wink: Frazeologizm "plecie jak Piekarski na mękach" ma swoje źródła w niewesołej historii Michała Piekarskiego, szlachcica z Bieńkowic koło Sandomierza, który został skazany na męki za uderzenie czekanem Zygmunta III Wazy. Podczas cierpień miał stracić rozum i pleść od rzeczy. Znacie jakieś inne przykłady związków fazeologicznych związnych z historią?</p>
+        <p xml:id="p-2">Panna Karolina Bajońskie sumy. Napoleon w 1808 r sprzedał Polakom wierzytelności pruskie (ich suma wynosiła 43 mln franków) za 21 mln franków. Układ został zawarty w Bayonne.” „Bajońskie sumy” oznaczają dziś olbrzymie sumy pieniędzy. Pójść do Canossy Papież Grzegorz VII wyklął Henryka IV. Głównym powodem był spór o inwestyturę. W 1077 Henryk IV upokorzył się przed papieżem, odbył trzydniowa pokutę w Canossie – ostatecznie papież zdjął z króla ekskomunikę. Dziś „pójść do Canossy” oznacza upokorzyć się, przyznać do błędu.</p>
+        <p xml:id="p-3">Tomek91 "Przeciąć węzeł gordyjski" W mieście Gordion we Frygii w świątyni Zeusa znajdował się wóz , którego dyszel połączony był jarzmem skomplikowanym węzłem ; istniało podanie , że ten kto ów węzeł rozwiąże, zostanie panem całego świata . Węzeł gordyjski próbował rozplątać Aleksander Macedoński , kiedy zaś mu się to nie udało - przeciął go mieczem .</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

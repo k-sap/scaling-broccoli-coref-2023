@@ -1,0 +1,16 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Zaskakująca informacja nadeszła przed chwilą z PZU SA. Z zasiadania w zarządzie największej polskiej spółki ubezpieczeniowej zrezygnował Mirosław Panek. Po odwołaniu przez ministra Skarbu Państwa w dniu 29 czerwca z funkcji członka zarządu Jolanty Strzeleckiej i powołaniu na jej miejsce Beaty Kozłowskiej - Chyła to kolejna zmana w zarządzie PZU.</p>
+        <p xml:id="p-2">W rozesłanym w dniu dzisiejszym elektronicznym liście do wszystkich pracowników spółki Mirosław Panek poinformował o wejściu w życie z dniem 3 lipca jego wcześniejszej decyzji o rezygnacji. Panek podziękował w nim za pracę wszystkim a szczególnie swoim bezpośrednim współpracownikom. Nieznany jest jeszcze powód rezygnacji, choć przysłowiowe wróble ćwierkały o niej od pewnego czasu.</p>
+        <p xml:id="p-3">Mirosław Panek jest absolwentem Wydziału Fizyki UW oraz doktorem astrofizyki. Posiada tytuł CFA (Chartered Financial Analyst) oraz licencje maklera (nr 195) i doradcy inwestycyjnego (nr 4). W latach 2002 - 2006 był prezesem zarządu i dyrektorem inwestycyjnym w ING Investment Management (Polska) S.A. oraz ING TFI S.A. Od 1997 do 1998 pełnił funkcję członka zarządu w ABN AMRO Asset Management (Polska) S.A. W latach 1994 – 1996 był doradcą inwestycyjnym w Banku Handlowym w Warszawie S.A.</p>
+        <p xml:id="p-4">Ponadto pełnił funkcję m. in. wiceprzewodniczącego Rady Izby Zarządzających Funduszami i Aktywami, był członkiem Kapituły Inwestorów Instytucjonalnych PID, a także członkiem Komisji Egzaminacyjnej dla Doradców Inwestycyjnych przy KPWiG.</p>
+        <p xml:id="p-5">Jest żonaty, ma dwoje dzieci. Interesuje się historią oraz uprawia biegi długodystansowe.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

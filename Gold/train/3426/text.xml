@@ -1,0 +1,30 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">- Pan mi nie będzie rozkazywał.</p>
+        <p xml:id="p-2">- Bardzo proszę nie zaciskać dłoni w pięści. To brzydki nawyk.</p>
+        <p xml:id="p-3">- Ø Same mi się zaciskają, kiedy o czymś myślę.</p>
+        <p xml:id="p-4">- Proszę nie uciekać wzrokiem i patrzeć mi prosto w oczy.</p>
+        <p xml:id="p-5">- Kiedy pomyślę o Tusku, Komorowskim albo o tym, jak ten Niesiołowski sypał ludzi w śledztwie...</p>
+        <p xml:id="p-6">- Nie może pan myśleć o czymś innym?</p>
+        <p xml:id="p-7">- Jestem przywódcą największej partii opozycyjnej. O czym innym miałbym myśleć?</p>
+        <p xml:id="p-8">- Może o tym, jak prawidłowo zawiązać krawat czy buty. I co zrobić, żeby wyeliminować tę plamę na garniturze.</p>
+        <p xml:id="p-9">- To stara plama, już prawie jej nie widać.</p>
+        <p xml:id="p-10">- Niech pan mówi trochę ciszej. Musi się pan starać całym sobą pokazywać spokój, nie agresję.</p>
+        <p xml:id="p-11">- Jestem spokojny.</p>
+        <p xml:id="p-12">- Doceniamy to, ale proszę pomyśleć o tym, czy nie mógłby pan...</p>
+        <p xml:id="p-13">- ... (tu fragment niezrozumiały)</p>
+        <p xml:id="p-14">- No i znów pan mamrocze pod nosem. Powinien pan mówić wyraźnie i zmienić język na bardziej przyjazny.</p>
+        <p xml:id="p-15">- Na jaki?</p>
+        <p xml:id="p-16">- Przy-jaz-ny. Zgoda?</p>
+        <p xml:id="p-17">- Słucham?</p>
+        <p xml:id="p-18">- Powiedziałem "zgoda". Na następną sesję musi się pan koniecznie nauczyć tego słowa, bo będziemy budować zdania z jego udziałem. A w domu proszę w zeszycie napisać sto razy: "Lubię Stefka Niesiołowskiego i Bronka Komorowskiego".</p>
+        <p xml:id="p-19">Prezes Kaczyński przyznał, że to na razie dla niego za trudne. Ale obiecał, że chętnie doda sobie roboty i napisze dwieście razy "Nie lubię Stefka Niesiołowskiego i Bronka Komorowskiego?".</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

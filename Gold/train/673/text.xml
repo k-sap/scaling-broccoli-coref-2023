@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Istnieje wiele różnych rozwiązań. Jednym z nich jest propozycja współpracy ze szpitalami w sąsiednich miejscowościach.</p>
+        <p xml:id="p-2">Proponuje się, by łowicki szpital wykorzystał wszystkie możliwości i rozpoczął ścisłą współpracę ze szpitalami w Głownie i w Kutnie. To przyniosłoby korzyści wszystkim placówkom. - Wykorzystaliśmy wszystkie rezerwy proste, dotyczące zatrudnienia, leków - mówi Zbigniew Figat, dyrektor łowickiego szpitala.</p>
+        <p xml:id="p-3">W łowickim szpitalu, podobnie jak w szpitalach w całym kraju, robi się oszczędności na czym tylko można. To musi się odbić na poziomie dostępności do leczenia dla szarego pacjenta. Porównanie liczb daje obraz sytuacji. W powiecie łowickim jest zbyt mało lekarzy, zbyt mało pielęgniarek i łóżek. Pensje personelu medycznego, jak wszędzie, są dramatycznie niskie. Pielęgniarka zarabia mniej niż robotnik budowlany, lekarz kilka groszy więcej.</p>
+        <p xml:id="p-4">Długi łowickiego szpitala sięgają ponad 12 mln złotych. Dostawcy coraz bardziej obawiają się o zwrot swoich należności. Do komornika zgłosiło się już pięciu z nich. Chcą, by za dostawy płacono im gotówką. Kontrakty z kasą chorych nie satysfakcjonują nikogo, są zbyt niskie. Szuka się możliwości ratowania szpitala przez poszerzenie usług medycznych. Trwają rozmowy dyrektorów szpitala w Głownie i w Łowiczu. Rozważa się możliwość likwidacji w Głownie oddziałów ginekologicznego, położniczego i noworodkowego. Pacjentki z tych oddziałów, między innymi rodzące kobiety, byłyby przyjmowane do szpitala łowickiego. Szpital w Głownie skoncentrowałby się natomiast na rehabilitacji neurologicznej. Mógłby przejąć miedzy innymi pacjentów ze Stanisławowa. Trwają rozmowy ze szpitalem w Kutnie. To jednak nie wystarczy.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

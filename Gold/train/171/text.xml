@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Czasami warto by był on wręcz koło głowy rodziców, którzy często na tym etapie rodzicielstwa boją się o śmierć łóżeczkową dziecka. Dosyć ryzykowne jest natomiast spanie z dzieckiem (bo można je niechcący przydusić).</p>
+        <p xml:id="p-2">Zarządzanie przestrzenią pozwala racjonalizować czas nie tylko przy nocnym czuwaniu nad noworodkiem (co jest bardzo energochłonne), ale także podczas czynności pielęgnacyjnych. Mam na myśli racjonalne gospodarowanie domową przestrzenią. Najwygodniejszym miejscem kąpieli noworodka bywa... kuchnia. Chodzi o to, by nie tylko wszystko było "pod ręką", ale także wygodnie dla matki (która na tym etapie macierzyństwa może mieć problemy z tym, by pochylać się zbyt nisko). Bardzo wygodne są wanienki na kółkach i Ø na stojakach.</p>
+        <p xml:id="p-3">Okres, kiedy w domu zagości noworodek, to czas wielu stresujących sytuacji. Czasami osoby z najbliższego otoczenia mogą mieć wrażenie, że cała rzeczywistość ich przerasta. Podstawą odniesienia sukcesu w zakresie zarządzania czasem jest wtedy pozytywne myślenie, że uda nam się wyjść z tego okresu funkcjonowania rodziny obronną ręką. Należy cieszyć się z nawet najmniejszych sukcesów. To, że udało się matce noworodka, który - mówiąc obrazowo - wisi cały czas u piersi, wyskoczyć na chwilę do kiosku, to, że ojcu udało się w spokoju przeczytać jeden rozdział książki - to już są powody do zadowolenia i dobre prognozy dla naszych kompetencji w zakresie zarządzania czasem.</p>
+        <p xml:id="p-4">Każdego dnia należy także wyznaczać sobie jakieś nowe cele, osiągając je drobnymi kroczkami. Może po kilku tygodniach od porodu matce uda się wyjść do fryzjera? Ważną rzeczą jest też nierozdrapywanie ran z tego powodu, że dzień się kończy, a nam w głowie tylko obowiązki, obowiązki, no i dziecko, dziecko, dziecko...</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Ustawa mówi, że odpady niebezpieczne "ze względu na swoje pochodzenie, skład chemiczny, biologiczny, inne właściwości i okoliczności stanowią zagrożenie dla życia lub zdrowia ludzi albo dla środowiska". Wielkim problemem w Polsce są odpady pestycydowe, głównie przeterminowane sztuczne nawozy wycofane z rolnictwa jeszcze w latach 70. Nie rozkładają się. Czekają na spalenie albo na koniec świata. Stanisław Stobiecki, dyrektor Instytutu Ochrony Roślin (IOR) z Sośnicowic, oblicza, że samych nieprzydatnych nawozów chemicznych jest w kraju do 60 tys. ton: 10 tys. ton leży w mogilnikach (szczelnych, podziemnych komorach z betonu), reszta wciąż pokutuje w magazynach u rolników. Urządzenie austriackiej firmy Seiler jest reklamowane jako uniwersalna, półmobilna spalarnia odpadów niebezpiecznych. Nie dość, że spala właściwie wszystko, to jeszcze po kilku latach pracy w jednym miejscu można ją rozłożyć na części i przewieźć gdzie indziej. Ma jeszcze jedną zaletę: gmina, w której spalarnia stanie, zarobi.</p>
+        <p xml:id="p-2">Mogło być więc tak: w 1998 r. IOR z Sośnicowic koło Gliwic zgłasza do Narodowego Funduszu Ochrony Środowiska projekt budowy w Polsce spalarni odpadów niebezpiecznych. Ministerstwo Środowiska ogłasza międzynarodowy przetarg na dostawę takiej instalacji. Startują trzy firmy, specjalna komisja w NFOŚ wybiera austriacką spółkę Seiler. W tym samym czasie samorządy Częstochowy, Knurowa, Jaworzna i Choszczna niezależnie od siebie moszczą grunt pod inwestycję. Ministerstwo z góry zakłada, że wybuchną protesty mieszkańców i ekologów, dlatego wskazuje aż cztery lokalizacje. Przynajmniej jedna z nich powinna wypalić. Na koniec firma Seiler montuje tam swój produkt kupiony dla Polski przez fundusz PHARE i spalarnia rozpoczyna utylizację niebezpiecznych śmieci z powiatu, województwa, regionu. Jednak taki happy end dotychczas się nie zdarzył, bo władze Częstochowy i Knurowa odmówiły, a w Jaworznie i Choszcznie mieszkańcy wyciągnęli tajemnicę spalarni z zacisza gabinetów urzędów miasta i zapytali, gdzie tu demokracja.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

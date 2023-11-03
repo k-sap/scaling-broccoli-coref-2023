@@ -1,0 +1,17 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Teraz pozostaje tylko odpowiedzieć na pytania pojawiające się na ekranie, a później ponownie uruchomić komputer i cieszyć się poprzednią wersją sterowników.</p>
+        <p xml:id="p-2">Możliwość przywracania poprzedniej wersji sterowników przydaje się również w sytuacji, gdy po instalacji nowego sterownika pojawią się problemy ze stabilnością lub pracą danego urządzenia. W takiej sytuacji również warto przywrócić poprzednią wersję sterownika.</p>
+        <p xml:id="p-3">Pamiętaj, że warto aktualizować sterowniki, gdyż zazwyczaj rozwiązują one wykryte problemy lub poprawiają stabilność i wydajność komputera. Jednak nie zawsze tak jest i często komputer z nowszymi sterownikami działa wolniej niż miało to miejsce przed aktualizacją. Ten stan rzeczy szczególnie często dotyczy kart graficznych. Dlatego warto śledzić strony WWW i fora dyskusyjne poświęcone tematyce sprzętu PC. Tam bardzo często użytkownicy dzielą się swoimi doświadczeniami związanymi z używaniem różnych sterowników.</p>
+        <p xml:id="p-4">Porada 78. Usuwanie starych wersji sterowników</p>
+        <p xml:id="p-5">Od czasu do czasu każdy komputer przechodzi mniejsze lub większe modernizacje. Często odbywa się to bez reinstalacji systemu operacyjnego i ogranicza się jedynie do usunięcia starego Ø i zainstalowania nowego urządzenia oraz sterowników. Niestety, starsze sterowniki pozostają i zaśmiecają system oraz Rejestr systemowy. Z tego powodu warto po takich zmianach sprzętowych posprzątać w systemie. Bezwzględnie warto uruchomić program do czyszczenia rejestrów oraz narzędzie o nazwie BootVis, o którym pisałem w jednym w poprzednich rozdziałów.</p>
+        <p xml:id="p-6">Niestety, opisane rozwiązania nie pozwalają na fizyczne pozbycie się plików sterownika z katalogu systemowego. Dlatego warto skorzystać z dedykowanej aplikacji do czyszczenia nieużywanych sterowników. Mam tutaj na myśli program o nazwie Driver Cleaner - http://www.driverheaven.net/cleaner Aplikacja umożliwia usunięcie zbędnych sterowników dla sporej grupy urządzeń. Po jej uruchomieniu wybieramy urządzenie, którego sterowniki chcemy usunąć z dysku - rysunek 7.11.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

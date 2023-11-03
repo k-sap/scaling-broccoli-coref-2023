@@ -1,0 +1,18 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Miejscy radni zaproszeni przez dyrektorkę Specjalistycznego Szpitala Wojewódzkiego w Ciechanowie Henrykę Romanow mieli możliwość zapoznania się z nowym sprzętem, który w ostatnim czasie trafił do tej placówki oraz dowiedzenia się o jej zamierzeniach inwestycyjnych. Spotkanie było okazją do poprawy stosunków, panujących dotychczas między dyrekcją placówki a władzami miasta.</p>
+        <p xml:id="p-2">- Choć ciechanowski szpital nie podlega pod miejski samorząd, zależy nam, żeby mógł on jak najlepiej funkcjonować - przekonywał Andrzej Czyżewski, przewodniczący Rady Miasta, deklarując poparcie radnych dla dalszej pomocy finansowej, kierowanej do szpitala w formie umorzenia podatku od nieruchomości.</p>
+        <p xml:id="p-3">Dyrektorka Henryka Romanow zapewniała, że w ostatnich kilku latach nastąpił ogromny postęp w szpitalach, zwłaszcza jeśli chodzi o możliwości diagnostyczne, co jest związane z łatwiejszym dostępem do nowoczesnego sprzętu.</p>
+        <p xml:id="p-4">- Gdybym chcieli pokazać państwu, jakie zmiany zaszły na wszystkich oddziałach, zajęłoby to nam bardzo długo. Tylko z jednego unijnego programu, realizowanego w ciągu ostatnich dwóch lat, pozyskaliśmy specjalistyczną aparaturę wartą prawie 11 mln zł. Jej pojawienie się można uznać za rewolucję w diagnostyce ciechanowskiego szpitala - wyjaśniła.</p>
+        <p xml:id="p-5">Dodała, że dzięki nowoczesnej diagnostyce znacznie został skrócony pobyt pacjentów na oddziałach.</p>
+        <p xml:id="p-6">Przypomniała, że gdy 3 lata temu obejmowała funkcję dyrektora, szpital był mocno zadłużony i trzeba było uporać się z zobowiązaniami, których termin płatności dawno minął.</p>
+        <p xml:id="p-7">- Naszym ogromnym skarbem są pracownicy. Mamy wielki potencjał i chcemy go wykorzystać - zapewniała Henryka Romanow.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

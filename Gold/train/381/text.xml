@@ -1,0 +1,18 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">- Czy pańskie spotkanie z wiceprezydentem m. Łodzi Mirosławem Orzechowskim poprawiło pański nastrój? - pytamy prezesa ŁKS Romana Stępnia</p>
+        <p xml:id="p-2">- Na razie jestem usatysfakcjonowany tym, że do takiego spotkania doszło, na którym mogłem przedstawić ogólną sytuację Stowarzyszenia ŁKS - odpowiada prezes. Oczywiście, mówiłem również o trudnej sytuacji, w jakiej znalazła się piłka nożna w naszym klubie. Muszę w tym miejscu dodać, że te problemy ŁKS nie były obce panu wiceprezydentowi. Wie o tym, że rozwiązać je może tylko znaczna poprawa naszej sytuacji finansowej</p>
+        <p xml:id="p-3">- Udało się wypracować jakieś środki zaradcze?</p>
+        <p xml:id="p-4">- Żadne konkretne rozwiązania nie padły, bo paść nie mogły. Takich spraw nie daje się załatwić od ręki. Wiceprezydent Orzechowski zapewnił mnie natomiast, że dokładnie przemyśli sytuację finansowo-organizacyjną ŁKS i postara się przedstawić na kolejnym naszym spotkaniu, które ma się odbyć w poniedziałek, 27 bm., pewne propozycje, które pozwoliłyby w jakimś stopniu rozwiązać nabrzmiałe problemy w naszym klubie</p>
+        <p xml:id="p-5">- Na co zostaną przeznaczone pieniądze, jakie ŁKS otrzymał za wypożyczenie Pawła Golańskiego do Legii?</p>
+        <p xml:id="p-6">- Na razie jest to dzielenie skóry na niedźwiedziu, ponieważ do tej pory z Legii pieniędzy za Golańskiego jeszcze nie otrzymaliśmy. A jak znajdą się one na naszym koncie, to trzeba będzie przede wszystkim załatwiać wydatki związane z grą naszych piłkarzy w rundzie wiosennej II ligi</p>
+        <p xml:id="p-7">- W takim składzie nie ma właściwie nadziei na utrzymanie drużyny w II lidze, co słusznie zauważył w wywiadzie dla "Expressu Ilustrowanego" Jan Tomaszewski</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

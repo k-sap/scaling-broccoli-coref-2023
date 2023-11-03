@@ -1,0 +1,265 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p>
+        <!--  Herbata czerwona; Ø; Czerwona herbata; Obniża; poprawia; wzmacnia -->
+          <seg xml:id="coreference_1">
+            <fs type="coreference">
+              <f name="type" fVal="ident"/>
+              <f name="dominant" fVal="Herbata czerwona"/>
+            </fs>
+            <ptr target="ann_mentions.xml#mention_1"/>
+            <ptr target="ann_mentions.xml#mention_4"/>
+            <ptr target="ann_mentions.xml#mention_14"/>
+            <ptr target="ann_mentions.xml#mention_20"/>
+            <ptr target="ann_mentions.xml#mention_25"/>
+            <ptr target="ann_mentions.xml#mention_27"/>
+          </seg>
+          <!--  zaliczamy; pijemy Ø; Parzymy; zalewamy -->
+          <seg xml:id="coreference_2">
+            <fs type="coreference">
+              <f name="type" fVal="ident"/>
+              <f name="dominant" fVal="my"/>
+            </fs>
+            <ptr target="ann_mentions.xml#mention_5"/>
+            <ptr target="ann_mentions.xml#mention_29"/>
+            <ptr target="ann_mentions.xml#mention_90"/>
+            <ptr target="ann_mentions.xml#mention_97"/>
+          </seg>
+          <!--  oolong; najbardziej znanych odmian Ø -->
+          <seg xml:id="coreference_3">
+            <fs type="coreference">
+              <f name="type" fVal="indirect_aggregation"/>
+            </fs>
+            <ptr type="source" target="ann_mentions.xml#mention_6"/>
+            <ptr target="ann_mentions.xml#mention_3"/>
+          </seg>
+          <!--  oolong i pu-erh; są -->
+          <seg xml:id="coreference_4">
+            <fs type="coreference">
+              <f name="type" fVal="ident"/>
+              <f name="dominant" fVal="oolong i pu-erh"/>
+            </fs>
+            <ptr target="ann_mentions.xml#mention_7"/>
+            <ptr target="ann_mentions.xml#mention_11"/>
+          </seg>
+          <!--  pu-erh; najbardziej znanych odmian Ø -->
+          <seg xml:id="coreference_5">
+            <fs type="coreference">
+              <f name="type" fVal="indirect_aggregation"/>
+            </fs>
+            <ptr type="source" target="ann_mentions.xml#mention_9"/>
+            <ptr target="ann_mentions.xml#mention_3"/>
+          </seg>
+          <!--  organizm; organizm; organizmowi -->
+          <seg xml:id="coreference_6">
+            <fs type="coreference">
+              <f name="type" fVal="ident"/>
+              <f name="dominant" fVal="organizm"/>
+            </fs>
+            <ptr target="ann_mentions.xml#mention_28"/>
+            <ptr target="ann_mentions.xml#mention_44"/>
+            <ptr target="ann_mentions.xml#mention_79"/>
+          </seg>
+          <!--  Ø; Herbata; herbaty; Staje; jest; Herbata; herbaty; herbaty; jej; herbaty; czarną; czarną herbatę; nadaje; Herbaty; Herbata -->
+          <seg xml:id="coreference_7">
+            <fs type="coreference">
+              <f name="type" fVal="ident"/>
+              <f name="dominant" fVal="Herbata"/>
+            </fs>
+            <ptr target="ann_mentions.xml#mention_30"/>
+            <ptr target="ann_mentions.xml#mention_31"/>
+            <ptr target="ann_mentions.xml#mention_38"/>
+            <ptr target="ann_mentions.xml#mention_40"/>
+            <ptr target="ann_mentions.xml#mention_43"/>
+            <ptr target="ann_mentions.xml#mention_53"/>
+            <ptr target="ann_mentions.xml#mention_57"/>
+            <ptr target="ann_mentions.xml#mention_62"/>
+            <ptr target="ann_mentions.xml#mention_67"/>
+            <ptr target="ann_mentions.xml#mention_77"/>
+            <ptr target="ann_mentions.xml#mention_83"/>
+            <ptr target="ann_mentions.xml#mention_101"/>
+            <ptr target="ann_mentions.xml#mention_106"/>
+            <ptr target="ann_mentions.xml#mention_112"/>
+            <ptr target="ann_mentions.xml#mention_119"/>
+          </seg>
+          <!--  mleko; mleka; Mleko; Ma -->
+          <seg xml:id="coreference_8">
+            <fs type="coreference">
+              <f name="type" fVal="ident"/>
+              <f name="dominant" fVal="mleko"/>
+            </fs>
+            <ptr target="ann_mentions.xml#mention_33"/>
+            <ptr target="ann_mentions.xml#mention_36"/>
+            <ptr target="ann_mentions.xml#mention_45"/>
+            <ptr target="ann_mentions.xml#mention_48"/>
+          </seg>
+          <!--  tak zwana „bawarka”; Herbata + mleko -->
+          <seg xml:id="coreference_9">
+            <fs type="coreference">
+              <f name="type" fVal="supporting_predicative"/>
+            </fs>
+            <ptr type="source" target="ann_mentions.xml#mention_34"/>
+            <ptr target="ann_mentions.xml#mention_32"/>
+          </seg>
+          <!--  napojem o wysokiej wartości odżywczej; herbaty -->
+          <seg xml:id="coreference_10">
+            <fs type="coreference">
+              <f name="type" fVal="supporting_predicative"/>
+            </fs>
+            <ptr type="source" target="ann_mentions.xml#mention_41"/>
+            <ptr target="ann_mentions.xml#mention_38"/>
+          </seg>
+          <!--  owoce; owoców -->
+          <seg xml:id="coreference_11">
+            <fs type="coreference">
+              <f name="type" fVal="ident"/>
+              <f name="dominant" fVal="owoce"/>
+            </fs>
+            <ptr target="ann_mentions.xml#mention_55"/>
+            <ptr target="ann_mentions.xml#mention_58"/>
+          </seg>
+          <!--  specyficzny aromat herbaty; jego -->
+          <seg xml:id="coreference_12">
+            <fs type="coreference">
+              <f name="type" fVal="ident"/>
+              <f name="dominant" fVal="specyficzny aromat herbaty"/>
+            </fs>
+            <ptr target="ann_mentions.xml#mention_61"/>
+            <ptr target="ann_mentions.xml#mention_64"/>
+          </seg>
+          <!--  Połączenie jej z owocami cytrusowymi; przywraca; gasi -->
+          <seg xml:id="coreference_13">
+            <fs type="coreference">
+              <f name="type" fVal="ident"/>
+              <f name="dominant" fVal="Połączenie jej z owocami cytrusowymi"/>
+            </fs>
+            <ptr target="ann_mentions.xml#mention_66"/>
+            <ptr target="ann_mentions.xml#mention_70"/>
+            <ptr target="ann_mentions.xml#mention_72"/>
+          </seg>
+          <!--  owocami cytrusowymi; owoców -->
+          <seg xml:id="coreference_14">
+            <fs type="coreference">
+              <f name="type" fVal="indirect_aggregation"/>
+            </fs>
+            <ptr type="source" target="ann_mentions.xml#mention_68"/>
+            <ptr target="ann_mentions.xml#mention_58"/>
+          </seg>
+          <!--  cytryną; owocami cytrusowymi -->
+          <seg xml:id="coreference_15">
+            <fs type="coreference">
+              <f name="type" fVal="indirect_aggregation"/>
+            </fs>
+            <ptr type="source" target="ann_mentions.xml#mention_75"/>
+            <ptr target="ann_mentions.xml#mention_68"/>
+          </seg>
+          <!--  jabłkiem; owoców -->
+          <seg xml:id="coreference_16">
+            <fs type="coreference">
+              <f name="type" fVal="indirect_aggregation"/>
+            </fs>
+            <ptr type="source" target="ann_mentions.xml#mention_78"/>
+            <ptr target="ann_mentions.xml#mention_58"/>
+          </seg>
+          <!--  herbatę zieloną; Zieloną -->
+          <seg xml:id="coreference_17">
+            <fs type="coreference">
+              <f name="type" fVal="ident"/>
+              <f name="dominant" fVal="herbata zielona"/>
+            </fs>
+            <ptr target="ann_mentions.xml#mention_81"/>
+            <ptr target="ann_mentions.xml#mention_96"/>
+          </seg>
+          <!--  herbatę zieloną; Herbata -->
+          <seg xml:id="coreference_18">
+            <fs type="coreference">
+              <f name="type" fVal="indirect_aggregation"/>
+            </fs>
+            <ptr type="source" target="ann_mentions.xml#mention_81"/>
+            <ptr target="ann_mentions.xml#mention_53"/>
+          </seg>
+          <!--  herbatę zieloną lub czarną; je -->
+          <seg xml:id="coreference_19">
+            <fs type="coreference">
+              <f name="type" fVal="ident"/>
+              <f name="dominant" fVal="herbata zielona lub czarna"/>
+            </fs>
+            <ptr target="ann_mentions.xml#mention_82"/>
+            <ptr target="ann_mentions.xml#mention_91"/>
+          </seg>
+          <!--  czarną; Herbata -->
+          <seg xml:id="coreference_20">
+            <fs type="coreference">
+              <f name="type" fVal="indirect_aggregation"/>
+            </fs>
+            <ptr type="source" target="ann_mentions.xml#mention_83"/>
+            <ptr target="ann_mentions.xml#mention_53"/>
+          </seg>
+          <!--  Ø liściasta; herbatę zieloną lub czarną -->
+          <seg xml:id="coreference_21">
+            <fs type="coreference">
+              <f name="type" fVal="indirect_aggregation"/>
+            </fs>
+            <ptr type="source" target="ann_mentions.xml#mention_86"/>
+            <ptr target="ann_mentions.xml#mention_82"/>
+          </seg>
+          <!--  Ø w torebkach; herbatę zieloną lub czarną -->
+          <seg xml:id="coreference_22">
+            <fs type="coreference">
+              <f name="type" fVal="indirect_aggregation"/>
+            </fs>
+            <ptr type="source" target="ann_mentions.xml#mention_88"/>
+            <ptr target="ann_mentions.xml#mention_82"/>
+          </seg>
+          <!--  Ø; herbatę zieloną lub czarną -->
+          <seg xml:id="coreference_23">
+            <fs type="coreference">
+              <f name="type" fVal="indirect_aggregation"/>
+            </fs>
+            <ptr type="source" target="ann_mentions.xml#mention_94"/>
+            <ptr target="ann_mentions.xml#mention_82"/>
+          </seg>
+          <!--  bardzo gorącą wodą; wrzątkiem -->
+          <seg xml:id="coreference_24">
+            <fs type="coreference">
+              <f name="type" fVal="excluding_contrast"/>
+            </fs>
+            <ptr type="source" target="ann_mentions.xml#mention_98"/>
+            <ptr target="ann_mentions.xml#mention_99"/>
+          </seg>
+          <!--  wrzątkiem; Wrzątkiem -->
+          <seg xml:id="coreference_25">
+            <fs type="coreference">
+              <f name="type" fVal="ident"/>
+              <f name="dominant" fVal="wrzątek"/>
+            </fs>
+            <ptr target="ann_mentions.xml#mention_99"/>
+            <ptr target="ann_mentions.xml#mention_100"/>
+          </seg>
+          <!--  napojów; Herbaty -->
+          <seg xml:id="coreference_26">
+            <fs type="coreference">
+              <f name="type" fVal="excluding_ios"/>
+            </fs>
+            <ptr type="source" target="ann_mentions.xml#mention_118"/>
+            <ptr target="ann_mentions.xml#mention_112"/>
+          </seg>
+          <!--  inne zapachy; ich -->
+          <seg xml:id="coreference_27">
+            <fs type="coreference">
+              <f name="type" fVal="ident"/>
+              <f name="dominant" fVal="inne zapachy"/>
+            </fs>
+            <ptr target="ann_mentions.xml#mention_120"/>
+            <ptr target="ann_mentions.xml#mention_122"/>
+          </seg>
+        </p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

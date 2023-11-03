@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Bret Easton Ellis Księżycowy park Lunar Park Tłum. Maciej Szymański Dom Wydawniczy REBIS, seria: Salamandra Poznań 2006, str. 400</p>
+        <p xml:id="p-2">Sam Ellis przekonuje Czytelników w swej ostatniej książce, że kiedyś celowo epatował seksem, wulgarnością i najwymyślniejszymi formami przemocy. Ale Ellis się zmienił, przeszedł daleką drogę. Mogę tak śmiało powiedzieć, gdyż nie potrafię zniechęcać do sięgnięcia po Księżycowy park.</p>
+        <p xml:id="p-3">Sytuacja wyjątkowa – nieznany mi autor, nic nie mówiący tytuł, współczesna literatura amerykańska, tak inna od zdecydowanie preferowanej przeze mnie prozy brytyjskiej. Ta książka nie powinna trafić w moje ręce i sobą zainteresować. Wręcz z góry skazana była na odrzucenie. A stało się jednak zupełnie inaczej.</p>
+        <p xml:id="p-4">Czy zadziałała jakaś magia? Nic bardziej mylnego. Dałam się skusić czemuś, co nigdy nie wzbudzało mego zaufania – reklamowej notce wydawcy. Zawierzyłam kilkunastu zdaniom, które mogły wprowadzić mnie w świat powieści idealnej – łączącej wiele ulubionych gatunków. Z drugiej strony było ryzyko wielkiego rozczarowania, straty czasu i ostatecznego udowodnienia samej sobie tezy, że póki książki się samemu nie skosztuje, nie można wierzyć recenzjom z okładek. I stała się rzecz niebywała. Książka – zagadka, powieść, w której pokładałam ogromne nadzieje nie tylko nie rozczarowała, ale i stała się jedną z ważniejszych przygód literackich ostatnich miesięcy. Było to równie zaskakujące jak fakt, iż jej autorem jest pisarz, który zasłynął napisaniem kontrowersyjnego i wzbudzającego skrajne emocje American Psycho.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

@@ -1,0 +1,12 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Głuchy łoskot poprzedził wycie alarmu samochodowego. - Odwróciłam się. Samochód za mną miał urwane lusterko i rozbitą maskę - opowiada zdenerwowana blondynka. Późnym wieczorem, w sobotę, kilkukilogramowy kawałek gzymsu odpadł od kamienicy stojącej na rogu ulic Straszewskiego i Jabłonowskich. Szczęśliwie trafił w samochód, który wymagać będzie wizyty u blacharza i lakiernika. Człowiek nie miałby szans. O północy na miejsce przybyli strażacy i policjanci. Akcja odbijania gzymsu trwała niecałą godzinę. W tym czasie ruch na ulicy został zablokowany. - Jak się okazuje, kamienica nie ma prywatnego właściciela. Jednak jej administrator zapewnił nas, że mają wykupione ubezpieczenie. Mam więc nadzieję, że zwrócą nam koszty remontu samochodu - mówi właściciel pechowego auta. - Przepraszam, co się tu stało? - do policjanta kierującego ruchem podchodzi dziewczyna. - A co pani do tego? - odpowiada uprzejmie stróż prawa. - Mieszka tu pani, albo ma pani tu auto? Dziewczyna wskazuje srebrnego renaulta. - No to niech pani je stąd zabiera, bo może zostać uszkodzone - nakazuje policjant. - Ale dlaczego? - dopytuje się właścicielka renaulta. - A to już nie pani sprawa - poucza ją policjant.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

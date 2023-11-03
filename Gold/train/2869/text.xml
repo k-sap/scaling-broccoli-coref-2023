@@ -1,0 +1,22 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Czas dyktatury to wieczna teraźniejszość, ciągłe odtwarzanie tych samych zachowań.</p>
+        <p xml:id="p-2">Ważna rzecz dla polityka: mapa. Każdy prezydent ma w swoim gabinecie mapę. Widziałem to wiele razy. Mapy te mają wspólną cechę - wszystkie są ogromne, wypełniają całą ścianę. Jest zrozumiałe, że każdy prezydent patrząc na taką mapę, zaczyna w końcu myśleć, że stoi na czele wielkiego państwa. Widzi, jak imponujące są jego rozmiary, jak nieskończenie wiele w nim miast, wsi, gór i rzek, dróg i lasów. I z pozycji takiego mocarstwa zaczyna przemawiać do innych, do świata. Ludzie dziwią się dlaczego ma tak donośny głos, skąd w nim tyle pychy? Ale gdyby spojrzeli na mapę w jego gabinecie, zrozumieliby od razu.</p>
+        <p xml:id="p-3">Każdy system posiada własną racjonalność, ona nim kieruje. Nie można mierzyć racjonalności jednego systemu racjonalnością systemu innego. To absurd. Dlatego należy przede wszystkim ustalić, c o jest racjonalnością danego systemu.</p>
+        <p xml:id="p-4">Każdy system jest wydajny w ramach własnej racjonalności. Gdyby tak nie było - nie mógłby istnieć.</p>
+        <p xml:id="p-5">Przyjmując racjonalność jako kryterium, systemy można podzielić na trzy typy:</p>
+        <p xml:id="p-6">1 - głównym celem jest zachowanie równowagi,</p>
+        <p xml:id="p-7">2 - głównym celem jest maksymalizacja dóbr,</p>
+        <p xml:id="p-8">3 - głównym celem jest maksymalizacja władzy.</p>
+        <p xml:id="p-9">Kilka cech systemu maksymalizacji władzy:</p>
+        <p xml:id="p-10">a - energia mas wyładowuje się w walce o zapewnienie elementarnego poziomu życia,</p>
+        <p xml:id="p-11">b - każdy człowiek jest potencjalnym przestępcą i zawsze może być oskarżony i skazany,</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

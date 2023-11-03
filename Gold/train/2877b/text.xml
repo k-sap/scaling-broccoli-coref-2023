@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Komisarze</p>
+        <p xml:id="p-2">Proklamowanie Gdańska Wolnym Miastem pod protektoratem Ligi Narodów formalnie kończyło moje urzędowanie jako delegata generalnego Prezydium Rady Ministrów. Zgodnie z traktatem wersalskim rząd polski zobowiązany był do wyznaczenia komisarza sprawującego swój urząd z ramienia Ministerstwa Spraw Zagranicznych. Nie czyniono jednak żadnych kroków w tym kierunku, chociaż traktat wersalski został podpisany 28 czerwca 1919 roku, a proklamowanie Wolnego Miasta nastąpiło 9 listopada. Stan taki stawiał mnie tak służbowo, jak i osobiście, w dość nieprzyjemnej sytuacji; ani nie odwoływano mnie ze stanowiska delegata generalnego Prezydium Rady Ministrów, ani nie czyniono mi żadnych propozycji, by ewentualnie objąć funkcję komisarza. Służbowo byłoby to pewną degradacją, gdyż będąc w randze podsekretarza stanu spadłbym z trzeciego stopnia służby na czwarty.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

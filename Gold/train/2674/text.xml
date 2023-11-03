@@ -1,0 +1,17 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Na konto na pewno nie wpłynęłaby ani jedna złotówka. W 1991 r. rodzice Janusza rzeczywiście giną w wypadku samochodowym, pozostawiając mu w spadku dom, samochód, obrazy i pieniądze. W 1993 r. Janusz staje się Anną. Rozwód z fikcyjną włoską żoną został przeprowadzony zaocznie, na koszt włoskiego państwa.</p>
+        <p xml:id="p-2">PIEKŁO SAMOTNOŚCI</p>
+        <p xml:id="p-3">W 1994 r. Anna wraca do Polski i rozpoczyna nowe życie. - Pracuję we włoskiej firmie. Nikt tam nie wie, że byłam mężczyzną. Nikt też nie wie, jak jestem samotna. Podrywam facetów, chodzę z nimi do łóżka, ale prawdziwa miłość wymaga przyznania się do swojej przeszłości. A ja się boję, że wtedy zostanę odrzucona. Może dlatego zgodziłam się na wywiad w gazecie. Dowiedzą się od kogoś innego.</p>
+        <p xml:id="p-4">Jej wielkim marzeniem jest dziecko. Transseksualiści są bezpłodni. Polskie prawo nie zabrania ludziom ze zmienioną płcią adoptować dzieci. W praktyce jest to jednak niemożliwe.</p>
+        <p xml:id="p-5">- Mam już 45 lat. Dzięki temu, że byłam i chłopcem, i dziewczyną, rozumiem świat dwa razy lepiej niż najlepszy psycholog. We Włoszech już dawno bym mogła mieć adoptowane dziecko, a w Polsce wciąż biją pedałów.</p>
+        <p xml:id="p-6">Anna mieszka sama. Marzy o mężu. Spała do tej pory z ośmioma mężczyznami. Żaden z nich niczego nie poznał. Orgazm udało jej się osiągnąć dwa razy.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

@@ -1,0 +1,17 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Czy Unia Wolności miałaby w wyborach zrezygnować ze swego logo na rzecz jakiegoś innego, wspólnego szyldu?</p>
+        <p xml:id="p-2">Nikt nie namawia UW do rezygnacji z wartościowego logo, warto namawiać do pewnej dozy pokory i uznania, że to logo, silne w pewnym segmencie wyborczego rynku, nie ma szans w innych jego segmentach, gdyż tam dobre byłoby logo SKL, a temu wszystkiemu dobrze może służyć kampania prowadzona przez osoby wspierające oba znaki firmowe.</p>
+        <p xml:id="p-3">Pierwsze reakcje na pana propozycje były różne; UW - dość ogólna, ale raczej przychylna, SKL raczej negatywna. Jan Rokita chce zmieniać AWS.</p>
+        <p xml:id="p-4">W pierwszych godzinach po wystosowaniu listów nie oczekuję gotowych deklaracji. Moim marzeniem jest wspólna konferencja z Leszkiem Balcerowiczem i Janem Rokitą informująca o powstaniu koalicji wyborczej, na której mógłbym zadeklarować lojalne poparcie dla tej inicjatywy. Jeżeli jednak SKL zdecyduje się na pozostanie w AWS, to będziemy mieli dalej zamazane, nieracjonalne podziały polityczne i skonfundowanych wyborców, którzy mogą mieć pretensje do polityków, że ci nie chcą ich porządnie reprezentować, będziemy też mieli mniejszą frekwencję w wyborach parlamentarnych.</p>
+        <p xml:id="p-5">Jednym z tych celów, których prezydent Aleksander Kwaśniewski jeszcze nie osiągnął, jest doprowadzenie do koalicji SLD-UW. Środek z pana udziałem tę wizję - może paradoksalnie - oddala. Rokita i SLD?</p>
+        <p xml:id="p-6">Taki środek przede wszystkim nie byłby małym dodatkiem do SLD, nie byłby dodatkiem legitymizującym pewnych ludzi w SLD. Nie jest to więc wizja prezydenta Kwaśniewskiego, w której Unia Wolności legitymizuje, ale jest właściwie kwiatkiem do kożucha. To jest wizja dużego partnera, który może być nawet dominujący. To samo zresztą można odnieść do koalicji z AWS. Elektorat środka w warstwie kulturowej jest po stronie wartości Sierpnia, ale nie uważa on podziału: postsolidarność-postpezetpeer za twórczy, wręcz przeciwnie, uważa go za jałowy.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

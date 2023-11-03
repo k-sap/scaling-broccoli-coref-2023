@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Ojciec porzucił pracę w Związku Cukrowni i tuż po wojnie "wyzwolił się" na samodzielnego przedsiębiorcę. Wykorzystując szwajcarskie koneksje macochy, uzyskał kredyt u pewnego zurychskiego finansisty z który zakupił trzy czwarte udziałów w firmie "L. Lourse". Była to fabryka czekolady i słodyczy dysponująca najelegantszą i największą wtedy warszawską cukiernią na rogu Krakowskiego Przedmieścia i Ossolińskich, w gmachu Hotelu Europejskiego. Ponoć założyciel firmy, Francuz L. Lourse był wynalazcą "napoleonki", które to ciasteczko nazwał tak na cześć cesarza, jako przysięgły bonapartysta. Napoleonka "loursowska" liczy więc sobie dobrze ponad półtora wieki (Vive l'Emp reur!)</p>
+        <p xml:id="p-2">Wkrótce też ojciec dokupił drugą cukiernię (od pana Semadeniego), zwaną "Pod Filarami", w zachodnim skrzydle Teatru Wielkiego. Wspólnikiem ojca był włoski Szwajcar, pan Baselgia, nieduży krępy, jowialny, bardzo włoski w typie. Ktoś kiedyś tłumaczył mi, że był taki szwajcarsko - włoski kanton, produkujący tak obficie cukierników, że nadmiar ich opuszczał, z braku pracy, ojczyznę i rozpełzał się po Europie. Docierali miedzy innymi i do Polski, by słodzić życie Polakom. Franboli, Semadeni, Lardelli, ów Baselgia wreszcie byli tego przykładem. Po paru latach ojciec oddał po prostu część swoich udziałów wspólnikowi, żeby mieli "po równo", czyli po połowie. Doszedł do wniosku, że pracowity Helwetczyk więcej firmie z siebie daje, niż mniej emocjonalnie zaangażowany w słodycze Polak. Posunięcie to zdumiewa mnie do dziś. Bo, z jednej strony, ten iście wielkopański gest bezinteresowności jest może i godzien podziwu, ale z drugiej nasuwa się pytanie, dlaczego, zamiast zwiększyć wkład pracy, jeden ze wspólników postanowił sobie zmniejszyć dochody?</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

@@ -1,0 +1,17 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">17-4-89 Maureen Rowmundowa Piłsudska zorganizowała w Instytucie im. Józefa Piłsudskiego inaugurację książki jej Męża pt. "Kronika rodu Piłsudskich".</p>
+        <p xml:id="p-2">19-4-89 W Bibliotece Polskiej w Paryżu odbył się wieczór autorski-koncert Marii Lawińskiej pt. "Polskie bluesy".</p>
+        <p xml:id="p-3">22-4-89 W Bibliotece Polskiej w Paryżu odbyło się uroczyste zebranie i inauguracja wystawy, poświęconej 150-tej rocznicy powstania Biblioteki Polskiej. Nad wystawą objęli patronat: Jacques Chirac, mer Paryża, oraz Jacques Lang, minister kultury.</p>
+        <p xml:id="p-4">27-4-89 W College International de Philosophie w Paryżu prof. Jerzy Wojciechowski wygłosił odczyt pt. "Le savoir comme source de problemes' . · W przyszłym miesiącu odbędzie się w Maastrich (Holandia) Kongres PEN-Clubu, na którym ma być dyskutowana sprawa ewentualnego przyjęcia do PENClubu pisarzy ze Związku Sowieckiego, jak również wybory nowego prezesa Międzynarodowego PEN-u.</p>
+        <p xml:id="p-5">28-4-89 W miesiącu kwietniu w Centre du Dialogue (23, rue Surcouf, Paryż) wygłosili odczyty: 21 kwietnia Zdzisław Najder na temat "Ojczyzna i naród jako wartości" oraz 28 kwietnia Aleksander Hall na temat "Polska '88 wokół 'okrągłego stołu'".</p>
+        <p xml:id="p-6">Fundusz Wieczysty Millenium Polski Chrześcijańskiej rozdzielił w 1988 roku ogółem $c.132.600 (w roku 1987 - $c.115.905). Z sumy tej otrzymali: organizacje polonijne - $ 55.900 (w tym Polsko-Kanadyjski Instytut Badawczy - $ 15.000). Związek Harcerstwa Polskiego na szkolenie kierowników pracy, instruktorów - $ 10.000, Instytut Naukowy w Montrealu na utrzymanie biblioteki - $ 5.000, komórki pomocy i opieki nad nowymi emigrantami w Toronto - $ 7.500, dział slawistyczny Biblioteki University of Toronto - $ 1.500 na skatalogowanie prasy podziemnej. Ponadto mniejsze kwoty przyznano różnych organizacjom, zespołom młodzieżowym i artystycznym we wszystkich ośrodkach polonijnych w Kanadzie.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

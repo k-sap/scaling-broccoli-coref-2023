@@ -1,0 +1,17 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Wyszedł na to z alkierza Boryna, przywiedły go kobiety zgorszone, popatrzył i wnet się we wszystkim pomiarkował, złość go poderwała sroga, zakąsił ino zęby, zapiął pętle kapoty, czapę nacisnął i jął się przebierać do nich.</p>
+        <p xml:id="p-2">Ustępowali mu z drogi, bo blady był kiej ściana i oczami dziko świecił.</p>
+        <p xml:id="p-3">- Do domu! - powiedział głośno, gdy nadlecieli, i chciał ją chycić za rękę, ale w ten mig Antek zakręcił w miejscu i poniósł dalej, że próżno chciała się wyrwać. Podskoczył wtedy Boryna, rozwalił koło, wyrwał ją z Antkowych ramion, nie popuścił i nie spojrzawszy nawet na syna wiódł Ø z karczmy.</p>
+        <p xml:id="p-4">Muzyka raptem ustała, cichość z nagła padła na wszystkich, że stanęli jak wryci, nikt się i słowem nie ozwał, miarkowali bowiem, że staje się coś strasznego, gdyż Antek rzucił się za nimi, roztrącił ciżbę kiej snopki i wybiegł z karczmy, ale skoro go jeno mróz owionął, zatoczył się na drzewo leżące przed domem i padł w śnieg, rychło się jednak podniósł i dognał ich na skręcie drogi koło stawu.</p>
+        <p xml:id="p-5">- Idź swoją drogą i ludzi nie zaczepiaj! - krzyknął stary odwracając się do niego. Jagna z wrzaskiem uciekła do chałupy, a Józka wtykała w garście staremu jakiś kół i wrzeszczała: - Bijcie tego zbója, bijcie, tatulu!...</p>
+        <p xml:id="p-6">- Puśćcie ją, puśćcie! - bełkotał Antek zgoła nieprzytomnie i przysuwał się z pięściami, gotowymi do darcia.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

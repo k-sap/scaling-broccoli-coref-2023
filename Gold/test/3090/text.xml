@@ -1,0 +1,23 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">- Podaj nazwisko, Krechowiak. Za... pięćdziesiąt.</p>
+        <p xml:id="p-2">- Daj pięćdziesiąt, a podam. Kolejność, pułkowniku. Wiedza to konkret. Obietnica forsy to tylko obietnica.</p>
+        <p xml:id="p-3">- Chcę ci zapłacić - westchnął. - Każda kolejna godzina tej imprezy to pewnie więcej niż pięćdziesiąt tysięcy. Opłaca nam się kupić tę cwaną panienkę. Ale nie masz jak sprawdzić, czy przelałem ci forsę na konto. Musisz brać obietnicę. Gotówki nie mam, bo Misza ssie jak odkurzacz. Też nieufny facet. Pomyśl jednak: daję ci szansę albo rzucam na łeb benzynę. Co lepsze?</p>
+        <p xml:id="p-4">- Pawluk ma mnie na oku. Nie mogę stąd wyjść. Więc nie rzucaj benzyny, bo spalisz jedynego informatora, który cię może doprowadzić do cwanej panienki.</p>
+        <p xml:id="p-5">- Jak zabijemy wszystkie, nie będziesz potrzebny.</p>
+        <p xml:id="p-6">- Jej nie zabijecie. Chyba że masz atomówkę.</p>
+        <p xml:id="p-7">Nie miał. Na szczęście. Bo raczej by zrzucił.</p>
+        <p xml:id="p-8">- A po drugie? Mówiłeś, że pałac jest po pierwsze.</p>
+        <p xml:id="p-9">- Szczerość. Udowodnij, że czasem bywasz szczery.</p>
+        <p xml:id="p-10">Marzena wpatrywała się we mnie z niezrozumieniem. Miło było czuć dotyk jej dłoni na łydce. Wolałbym skuteczny proszek od bólu poobijanej głowy czy coś na poharatany i poparzony brzuch - ale i to cieszyło.</p>
+        <p xml:id="p-11">- Słucham - rzucił krótko Wilnicki.</p>
+        <p xml:id="p-12">- Spokojnie, nie boli... Jak go zwerbowałeś? Tego pojeba z młotkiem i nożem.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

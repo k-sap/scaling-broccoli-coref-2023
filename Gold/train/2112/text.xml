@@ -1,0 +1,20 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Ważne jest również wczesne opanowanie umiejętności korzystania z Internetu. Uczniowie już po pierwszym roku nauki powinni umieć wyszukiwać informacje na stronach WWW, napisać i sformatować tekst, wykonać proste obliczenia czy zaprojektować kompozycję graficzną.</p>
+        <p xml:id="p-2">Podczas kolejnego roku treści są poszerzane o operacje na bazach danych, algorytmy i symulacje, co jest związane ze stopniem trudności tych zagadnień. Trzeci rok nauki przeznaczony jest na pogłębianie i aktualizowanie poznanych zagadnień.</p>
+        <p xml:id="p-3">Stosowanie na lekcjach metody ćwiczeń praktycznych, metody problemowej oraz metody projektów umożliwia łączenie określonych treści z daną sytuacją, która nie jest oderwana od rzeczywistości. Przykładowo podczas realizacji projektu "Planujemy wycieczkę klasową" uczeń musi wykonać następujące zadania:</p>
+        <p xml:id="p-4">- sprawdzić w Internecie, dokąd można pojechać,</p>
+        <p xml:id="p-5">- napisać prezentację przedstawiającą atrakcje turystyczne danej miejscowości,</p>
+        <p xml:id="p-6">- skalkulować koszty.</p>
+        <p xml:id="p-7">Podczas nauki poprawnego pisania i formatowania tekstów uczeń powinien doskonalić swoje umiejętności z innych dziedzin - na przykład poprzez redagowanie gazetki szkolnej lub tworzenie folderu o szkole - a nie przepisywać przypadkowe teksty. Poznając możliwości arkusza kalkulacyjnego, powinien bilansować koszty imprezy klasowej, obliczać średnią ocen w klasie itp.</p>
+        <p xml:id="p-8">W celu wykonania założeń programowych szkoła musi zapewnić:</p>
+        <p xml:id="p-9">- właściwe wyposażenie pracowni w sprzęt komputerowy oraz licencjonowane oprogramowanie (stanowiska komputerowe połączone w sieć lokalną, standardowe oprogramowanie: środowisko Windows - system Windows XP lub 98, pakiet Works lub MS Office, Eli 2.0, Logo Komeniusz).</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

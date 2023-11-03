@@ -1,0 +1,14 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Wielkiego sukcesu nie należy też odtrąbić, gdyby na rozbudowę autostrady A-4 przyznano w budżecie państwa w końcu 40 mln zł. Cała inwestycja, czyli wybudowanie autostrady Kraków - Szarów, ma kosztować co najmniej pół miliarda złotych i zostać zakończona w 2008 r. Za 40 mln zł można w praktyce jedynie zacząć budowę tego odcinka autostrady.</p>
+        <p xml:id="p-2">Prawdopodobnie pomyślnie zakończy się sprawa sfinansowania odnowy zabytków Krakowa. Kancelaria Prezydenta Lecha Kaczyńskiego zapisała w projekcie budżetu 37,5 mln zł na ten cel, czyli o 7,5 mln zł więcej niż w roku ubiegłym. Jednak posłowie z innych regionów proponowali, aby zmniejszyć kwoty na rewaloryzację krakowskich zabytków. Na szczęście skończyło się na słowach. - Nikt nie zgłosił konkretnej propozycji uszczuplenia pieniędzy na ten cel - uspokaja poseł Tomasz Szczypiński (PO), członek Komisji Finansów Publicznych.</p>
+        <p xml:id="p-3">Jednak mimo deklaracji złożonej 13 stycznia tego roku przez Lecha Kaczyńskiego władzom Społecznego Komitetu Odnowy Zabytków Krakowa, że prezydent RP będzie zabiegał o coraz hojniejsze finansowanie renowacji dzieł sztuki w stolicy Małopolski, może stać się inaczej. Poseł Szczypiński wyjaśnia, w jaki sposób mogłoby do czegoś takiego dojść. Posłowie z innych regionów, choć oficjalnie nie negują konieczności łożenia na odnowę krakowskich zabytków, to jednocześnie sugerują, aby środki na ten cel nie znajdowały się w Kancelarii Prezydenta RP, ale w budżecie innego resortu, na przykład Ø kultury, w puli przeznaczonej na ochronę zabytków.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<teiHeader xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xml:lang="en">
+  <fileDesc>
+    <titleStmt>
+      <title>Paragraphs: u-1025,u-1026,u-1027,u-1028,u-1029,u-1030,u-1031,u-1032,u-1033,u-1034,u-1035,u-1036,u-1037,u-1038,u-1039,u-1040,u-1041 from NKJP text with id: IPIPAN_7121001303801</title>
+    </titleStmt>
+  </fileDesc>
+  <profileDesc>
+    <textClass>
+      <catRef scheme="#nkjp" target="Quasi-mówione (protokoły sesji parlamentu)"/>
+    </textClass>
+  </profileDesc>
+  <revisionDesc/>
+</teiHeader>

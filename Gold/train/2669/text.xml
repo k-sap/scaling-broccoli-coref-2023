@@ -1,0 +1,12 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Zarząd Powiatu podjął decyzję o wykupieniu w ZOZ Olkusz usług medycznych z zakresu prześwietleń płuc dla mieszkańców całego powiatu. Środki na ten cel pochodzą z nie wykorzystanych jeszcze pieniędzy zarezerwowanych w budżecie samorządu na zadania z zakresu profilaktyki zdrowotnej. Akcja prześwietleń, z której bezpłatnie i bez skierowania mógł skorzystać każdy mieszkaniec powiatu, który ukończył 25 rok życia, cieszyła się ogromnym zainteresowaniem. W dwóch turach przeprowadzonych we wrześniu i połowie grudnia zeszłego roku wykonano prawie półtora tysiąca badań. - Bezpłatne badania radiologiczne cieszyły się chyba największym zainteresowaniem ze wszystkich akcji profilaktycznych organizowanych przez wydział zdrowia i polityki społecznej olkuskiego Starostwa. Dlatego zdecydowaliśmy, że wolne środki powinny zostać przeznaczone właśnie na ten cel - powiedział sekretarz powiatu Wojciech Pawlikowski. Z prześwietleń przeprowadzonych w Poradni Chorób Płuc równie chętnie korzystały kobiety. jak i mężczyźni. Największą grupę przebadanych - prawie 600, stanowiły osoby powyżej 56. roku życia. Najmniejsze zainteresowanie badaniami zanotowano w grupie osób z przedziału wiekowego pomiędzy 25. a 35. rokiem życia. Z prześwietleń skorzystało również 258 mieszkańców powiatu w wieku od 36 do 45 lat. Ogółem spośród 1432 przebadanych u 20 procent wykryto zmiany w obrazie płuc. Osoby te zostały skierowane do dalszej diagnostyki i leczenia. - Choroby płuc, zwłaszcza nowotwory, to wciąż jedna z najczęstszych przyczyn zgonów w naszym kraju. Pomimo licznych działań promocyjnych, mających na celu ochronę zdrowia i profilaktyką antynikotynową, liczba ta od kilku lat wzrasta. Nikogo nie trzeba przekonywać, że wcześnie wykryta choroba daje znacznie większą szansę na całkowite wyleczenie - utrzymuje Anna Dudek, szefowa wydziału zdrowia i polityki społecznej. Najprawdopodobniej akcja bezpłatnych prześwietleń rozpocznie się w połowie września. Badanie będzie można wykonać w Poradni Chorób Płuc przy ul. Żuradzkiej w Olkuszu.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

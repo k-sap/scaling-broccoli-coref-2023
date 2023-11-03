@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Drażnią pana filmy kultywujące klasyczne amerykańskie wartości?</p>
+        <p xml:id="p-2">Niektórzy nazywają mnie specem od dekonstrukcji zła. Moje filmy, zwłaszcza "Siedem", uznawane są za makabryczne i niemoralne. Taka opinia ciągnie się za mną od czasu, kiedy odmówiłem wyrzucenia z tego filmu sceny z obciętą głową Gwyneth Paltrow. To śmieszne. Nie mam nic przeciwko szkółce niedzielnej i ogródkom. Wierzę w amerykański patriotyzm, w rodzinę i w dobro. Tylko kręcąc o tym filmy umarłbym z nudów. Nie chcę nikogo pouczać ani mówić, jaka Ameryka powinna być. Nie jestem kaznodzieją. Nie mam też poczucia winy z tego powodu, że Ameryka jest najbogatszym krajem świata, a gdzie indziej dzieci umierają z głodu. Robię filmy, jakie chcę. Zgodne z wyobraźnią, a nie z tym, czego się ode mnie wymaga. Kto powiedział, że kino ma uczyć żyć? Dlaczego mam się poskramiać i udawać, że interesuje mnie dzień, skoro wolę noc?</p>
+        <p xml:id="p-3">Mówi się, że będzie pan reżyserował trzecią część "Mission Impossible" z Tomem Cruisem. To plotki?</p>
+        <p xml:id="p-4">Nie. Rozmawiam na razie z producentami. Gdybym się podjął tego zadania, oznaczałoby to przełom w mojej karierze. Nigdy jeszcze nie robiłem superprodukcji, która, zanim rozpoczną się zdjęcia, ma już wyznaczoną datę premiery. I która ma przynieść określony precyzyjnie zysk nie mniejszy niż, powiedzmy, 100 mln dol. Jeśli nikt się nie zgodzi na moje pewne, hmm, szokujące pomysły, nie zamierzam jednak w ten projekt wchodzić.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

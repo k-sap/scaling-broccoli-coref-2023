@@ -1,0 +1,16 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Przed godziną 23 ekipa rusza do centrum miasta. Dwa kursy samochodem i wszyscy lądują w pubie „Doom” przy Świętym Marcinie. Mija kilkadziesiąt minut i czterech chłopaków zmienia miejsce. Trafiają do Studio „Jack”. Kurs samochodem ze Świętego Marcina na Działyńskich trwa chwilę.</p>
+        <p xml:id="p-2">— Byłem tam pierwszy raz i nigdy więcej tam nie pójdę — mówił jeden z kolegów Ø dzień później. Nieprzytomny Marcin walczył wtedy o życie. Wszyscy jeszcze mieli nadzieję.</p>
+        <p xml:id="p-3">— Dlaczego tam poszedł? — mama Marcina stawia dziś dziesiątki pytań, na które nie zna odpowiedzi. — Kiedyś o tym lokalu wypowiadał się bardzo źle. Mówił, że kojarzy się z narkotykami. Dlaczego tam się znalazł? — pyta.</p>
+        <p xml:id="p-4">Około północy czterech studentów trafia do „Jacka”. Trwający właśnie Wielki Post ma niewielki wpływ na frekwencję w lokalu. Bawi się tam kilkaset osób. Wśród młodych ludzi dominuje typ Kena i Barbie. Nie brakuje stałych bywalców siłowni. To nie ulega wątpliwości, bo to widzieli koledzy. Około godziny 1 jeden z nich jedzie do domu. Około godziny 2 drugi spieszy się na nocny autobus. W lokalu zostaje Marcin z trzecim kolegą. Co się wydarzyło pół godziny później?</p>
+        <p xml:id="p-5">Tego nikt nie wie na 100 procent. Pewne jest jedno: Marcin został trafiony kilka razy nożem w tętnicę szyjną. Gdzie? Przez kogo? Tego nie ustalono do dziś. W szpitalu nie odzyskał przytomności. Śmierć studenta poruszyła Poznań. Dwa tygodnie później prawie tysiąc młodych ludzi szło w marszu milczenia ze Starego Rynku na Piotrowo.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

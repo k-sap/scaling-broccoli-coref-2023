@@ -1,0 +1,17 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Elbląg. Samochodowe rejestracje DWIE TABLICE PO REFORMIE</p>
+        <p xml:id="p-2">Elblążanie, którzy rejestrują nowy samochód, otrzymają już tablice rejestracyjne z numerami województwa warmińsko-mazurskiego. Nie ma już możliwości otrzymania tablic z elbląskimi numerami.</p>
+        <p xml:id="p-3">- Na początku roku nie wiedzieliśmy jeszcze, jakie tablice mamy wydawać od 4 stycznia - twierdzi Jerzy Chrabąszcz, kierownik referatu ewidencji pojazdów Urzędu Miasta w Elblągu. - Staraliśmy się jednak, aby nie było zapasu tablic elbląskich i już w listopadzie zamówiliśmy olsztyńskie Ø. Wszystkie tablice elbląskie zostały skasowane, a dopiero 7 stycznia dowiedzieliśmy się, że nadal możemy je wydawać. Nie wszyscy są z tego zadowoleni. Elblążanin, który zarejestrował swój samochód wstydzi się jeździć z olsztyńskimi numerami po Elblągu.</p>
+        <p xml:id="p-4">W lepszej sytuacji są mieszkańcy powiatu ziemskiego, którzy otrzymują jeszcze stare tablice elbląskie, mimo że dostarczono już nowe.</p>
+        <p xml:id="p-5">- Zamówiliśmy w ubiegłym roku tysiąc tablic rejestracyjnych byłego województwa elbląskiego i będziemy je wydawać aż do wyczerpania zapasu - mówi Janina Gajewska, pracownik starostwa. - Ci, którzy je odbierają, są bardzo zadowoleni, że otrzymują jeszcze tablice z elbląskimi znakami. Jeśli ktoś jednak będzie chciał, wydamy tablicę z numerami nowego województwa. Dotychczas nikt taki się nie zgłosił.</p>
+        <p xml:id="p-6">W Urzędzie Miasta w Elblągu wydawane są już tablice z oznaczeniami województwa warmińsko-mazurskiego. Tomasz Urbaniak wolałby jednak otrzymać stare, elbląskie tablice.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

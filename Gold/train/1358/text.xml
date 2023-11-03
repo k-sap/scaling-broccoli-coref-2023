@@ -1,0 +1,19 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">- Siadajcie, towarzyszu - wskazał miejsce przy stoliku, gdzie już kulił się chuderlawy Hindus, w okularach, z kopą tłustych włosów, które nosiły wyraźny ślad grzebienia. - To nasz radca od spraw kultury, z nim już resztę będzie pan załatwiał.</p>
+        <p xml:id="p-2">Terey uścisnął zimną dłoń o długich palcach z plamami fioletowego atramentu, obaj nie dali poznać, że już nie jedną odbyli rozmowę. Radca nie uważał za potrzebne powiadomić o zamysłach Hindusa nie tylko ministerstwa, ale nawet ambasadora, tak wydawały mu się bezsensowne.</p>
+        <p xml:id="p-3">- Pan Dżaj Motal jest znanym literatem i chce napisać o nas książkę, żeby pokazać Hindusom nowe, ludowe Węgry, nasze osiągnięcia, zdobycze socjalne... Wprawdzie już zapoznał się z naszymi broszurami, ale to mu nie wystarcza, chciałby przeprowadzić wywiady z dostojnikami, przyjrzeć się naszemu życiu z bliska. Weźmiecie od niego dane i trzeba wysłać szyfrówkę do ministerstwa, ustalić, na jakich warunkach mogą go przyjąć...</p>
+        <p xml:id="p-4">Mówił w sposób namaszczony, pochylił głowę w stronę Hindusa, ten również się odkłonił, czując bliską wygraną.</p>
+        <p xml:id="p-5">- Jak pan sobie wyobraża pobyt, co by pan chciał zwiedzić?</p>
+        <p xml:id="p-6">- Chciałbym napisać grubą książkę, więc musiałbym po Węgrzech podróżować ze trzy miesiące. Chyba sfinansujecie zwiedzenie kraju, hotele, utrzymanie...</p>
+        <p xml:id="p-7">- A droga?</p>
+        <p xml:id="p-8">- Przelot Air India do Pragi byłby najprostszy. Jeżeli okazałoby się to za kosztowne, mógłbym wracać przez Polskę i NRD, rozpytałem się w ambasadach, również obiecano pomoc...</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

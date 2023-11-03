@@ -1,0 +1,12 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Zarząd Oświęcimia rozdysponował blisko 500-tysięczną dotację na 2002 rok wśród miejscowych podmiotów nie zaliczonych do sektora finansów publicznych i nie działających w celu osiągnięcia zysku na realizację zadań własnych gminy. Na rzecz organizacji sportowych i kulturalnych miasto wyłożyło 201 tys. zł. Blisko 300 tys. zł rozdysponowano wśród podmiotów realizujących zadania mające na celu m.in. opiekę nad chorymi w domu i prowadzącymi rehabilitację. Przykładowo, na szkolenie sportowe dzieci i młodzieży w łyżwiarstwie figurowym miasto wyłożyło 19 tys. zł. Stowarzyszenie na Rzecz Wspierania Inicjatyw Kulturalnych Ziemi Oświęcimskiej dostało 4 tys. zł na organizację II Otwartego Festiwalu Zespołów Młodzieżowych Muzyczny Parking, 1,5 tys. zł na III Juwenalia Oświęcimskie oraz 3 tys. zł na organizację II Otwartego Międzynarodowego Turnieju Szachowego. Klub Sportowy Niwa dostał 500 zł dotacji na organizację Memoriału im. Stefana Piotrowskiego w koszykówce. Na wykonywanie zabiegów pielęgniarskich, rehabilitacyjnych Stacja Opieki Caritas dostała 48,6 tys. zł. Fundacja Pomnik-Hospicjum Miastu Oświęcim otrzymała 15 tys. zł na zabiegi pielęgniarskie i rehabilitacyjne. Polski Czerwony Krzyż został wsparty 5-tysięczną pomocą na organizowanie konkursów, olimpiad i prelekcji dotyczących promocji honorowego krwiodawstwa. Stowarzyszeniu Rodziców na Rzecz Dzieci Niepełnosprawnych Zeus przypadnie 122,5 tys. zł. Pieniądze pozwolą zrealizować zadania z zakresu opieki i rehabilitacji dzieci niepełnosprawnych. Najstarszy oświęcimski klub sportowy - Soła, na organizację letniego i zimowego wypoczynku dzieci i młodzieży, szkolenie sportowe dzieci i młodzieży w piłce nożnej oraz organizację imprez sportowych towarzyszących obchodom świąt narodowych, miejskich i rocznic otrzyma ogółem 21,5 tys. zł. Jednocześnie zarząd miasta odrzucił kilkadziesiąt wniosków, które nie spełniały kryteriów formalnych, m.in. nie przewidywały organizacji imprez na terenie Oświęcimia.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

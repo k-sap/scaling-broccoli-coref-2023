@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">„Dziennik Bałtycki” pisze o procesie, który właśnie toczy się w Gdyni: tamtejszy sąd ma ustalić, czy Janusz Szlanta, były prezes tamtejszej stoczni, zwalczał związek zawodowy „Stoczniowiec”, ostatecznie zwalniając (niezgodnie z prawem) jego liderów z pracy.</p>
+        <p xml:id="p-2">Proces budzi wielkie emocje, szczególnie wśród szeregowych członków związku, którzy pytani o swoje oceny działalności byłego prezesa nie przebierają w słowach. Zarzuty prokuratury są poważne: Szlanta oraz była dyrektor personalna stoczni mieli utrudniać związkowcom poruszanie się po terenie zakładu, uniemożliwiać im spotykanie się z załogą oraz wykonywanie zdjęć w miejscach, gdzie nie były przestrzegane przepisy BHP, a także dyskryminować ich związek w dostępie do radiowęzła. Ponadto były prezes miał nie uwzględniać głosu związkowców w decyzjach dotyczących zakładowych stołówek, choć zbiorowy układ pracy go do tego zobowiązywał; jedną z konsekwencji wprowadzenia zakazu wydawania ciepłych posiłków (uzasadnianego tym, że stoczniowcy mają „pracować, a nie przesiadywać w barach”) był fakt, że w zimie na przełomie 2001/2002 roku część stoczniowców pracujących na mrozie nie miała możliwości napicia się ciepłych napojów. Najpoważniejszym jest jednak ostatni zarzut: w lutym 2002 Szlanta bezpodstawnie i nielegalnie zwolnił trzech liderów związku.</p>
+        <p xml:id="p-3">W pierwszym dniu procesu były prezes odmówił składania wyjaśnień, jednak wcześniej zeznał prokuraturze, że w myśl prawa nie musiał konsultować zakazów ze związkowcami – jednak jego poglądu nie podzieliła kontrola Państwowej Inspekcji Pracy.</p>
+        <p xml:id="p-4">„Dziennik Bałtycki” przypomina także, że oskarżający swojego byłego prezesa liderzy „Stoczniowca” byli niedawno oskarżeni o kierowanie w lutym 2002 roku nielegalnym strajkiem, jednak sąd pierwszej instancji uznał te zarzuty za bezpodstawne i uniewinnił związkowców.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

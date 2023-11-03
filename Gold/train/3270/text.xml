@@ -1,0 +1,14 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">- Od dziecka miałem marzenie, żeby mieć swój zespół. Kiedy dorastałem nie było zespołów rockowych. Słuchaliśmy kapel big-bitowych. Śpiewanie wpisane jest w zawód aktora, nie na darmo w szkołach teatralnych uczą śpiewu, ale ja śpiewanie po prostu lubię. Nie mówię, że to umiem, ale sprawia mi ogromną przyjemność.</p>
+        <p xml:id="p-2">Często słyszy się, że teatr w Częstochowie nie ma nic ciekawego do zaoferowania. Czy ma Pan w planach jakieś nowatorskie rozwiązania repertuarowe?</p>
+        <p xml:id="p-3">- Żeby taką opinię wytworzyć, trzeba by było orientować się, co teatr proponuje, a często jest tak, że opinie wydawane są na wyrost przez osoby, które nie chodzą do teatru. Dziś ludzie są nieco znużeni, po pracy albo idą spać, albo włączają telewizor i przeskakują po stu sześćdziesięciu kanałach. Nie ma problemu, kiedy w mieście jest kilka teatrów, ale gdy jest tylko jeden, trzeba skonstruować go tak, żeby nie był jedynie komercyjny. Jest wiele współczesnych i klasycznych dzieł, które trafią do każdego widza. Pyta Pani o moje plany... Odpowiedź jest prosta, chciałbym aby był to teatr różnorodny. Aby współpracowali z nami zarówno młodzi, utalentowani reżyserzy i aktorzy, jak i twórcy doświadczeni z pokaźnym już dorobkiem. Aby klasyka mieszała się tu ze współczesnością, komizm ze wzruszeniem, abyśmy potrafili wspólnie wytworzyć naprawdę twórczą atmosferę i może ... - choć to trochę nieskromne - byśmy unieśli się trochę na skrzydłach.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

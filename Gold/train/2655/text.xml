@@ -1,0 +1,18 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">W zimie 1983 r. koparki zniknęły z wyrobisk, wygaszono trzy gigantyczne piece obrotowe do prażenia rudy i piec łukowo-elektryczny do wytopu żelazoniklu.</p>
+        <p xml:id="p-2">Przez prawie rok załoga niewiele miała do roboty. Czasem uruchamiano obrabiarki, by wykonać zlecenia z innych zakładów. W 1984 r. do Polski przyszła moda na magnez: w pigułkach miał wzmacniać ludzi, jako dodatek do nawozów miał sprawić, że marchew będzie rosła jak na drożdżach.</p>
+        <p xml:id="p-3">W Hucie Szklary zaczęto przerabiać dolomit na nawóz tlenkowo-magnezowy. Znów uruchomiono piec obrotowy. Przyszłość rysowała się różowo.</p>
+        <p xml:id="p-4">Do produkcji dopłacało Ministerstwo Rolnictwa - cena tony nawozu była w sklepie siedem razy niższa niż koszt jej wyprodukowania. Ale w tamtych czasach na takie rzeczy nie zwracano uwagi. Niewielu także zaprzątało sobie głowy warunkami pracy. A inspektor Ligięza alarmował: - Średnio raz w roku wydawałem nakaz wstrzymania produkcji ze względu na olbrzymie zapylenie; przekraczało normę trzy do czterech razy. Pył z obróbki dolomitu jest mniej groźny niż azbest - można go wykrztusić. Ale w połączeniu z nim daje mieszankę wybuchową.</p>
+        <p xml:id="p-5">Francuskie uczone pisały: "Czas ujawnienia się pylicy azbestowej jest długi, średnio 15-20 lat; jej rozwój jest powolny i nieodwracalny, a zaprzestanie przebywania w środowisku skażonym azbestem nie zatrzymuje choroby" .</p>
+        <p xml:id="p-6">W dachach, w ziemi, w lesie</p>
+        <p xml:id="p-7">W 1983 r. stwierdzono w Szklarach 60 zachorowań na pylicę azbestową, rok później kolejne 40. W dziesięć lat po zaprzestaniu eksploatacji złóż niklu, w 1991 r., na azbestozę zapadło 42 pracowników.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

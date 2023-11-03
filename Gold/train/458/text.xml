@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Może ten banalny epizod, który przed chwilą opisałem, więcej mówi na temat życia, aniżeli niejeden uczony artykuł, z którego nic nie wynika? A co wynika z tego opisu? pytałem samego siebie...</p>
+        <p xml:id="p-2">PRAWOŚĆ, POKORA I ŻYCZLIWOŚĆ, CZYLI: JAK SIĘ UBIERAĆ</p>
+        <p xml:id="p-3">Nie jest wcale błahostką sprawą, jak kto się ubiera, szczególnie jeśli chodzi o dziewczęta. Runęły dawne kanony mody. Zwyczaje i tradycja odziedziczone po rodzicach (nie mówiąc już zupełnie o dziadkach) przestały być jakimkolwiek punktem odniesienia. Determinującą rolę zaczęła odgrywać telewizja, a dzięki niej kontakt ze światem europejskim. Zmienił się styl życia. Kobieta wyszła z domu studiuje, pracuje, piastuje funkcje społeczne. Problem na Wschodzie jest tym trudniejszy, że ścierają się tu ze sobą dwie tradycje i dwa sposoby myślenia: koraniczny w którym istnieje szczegółowe określenie, co wolno, a czego nie wolno, dokąd powinien sięgać ubiór, co zakrywać, a co może być odkryte; i ewangeliczny który preferuje ludzką dojrzałość wyrażającą się osobistym wyborem w oparciu o uznane wartości i pryncypia.</p>
+        <p xml:id="p-4">Długo debatowaliśmy na ten temat, bo nie było jednomyślności odnośnie do tego, jaki powinien być stosunek chrześcijanina do mody. Jedni mówili, że najważniejszą rzeczą jest wolność. Jeśli dziewczyna chce się ubierać w określony sposób i nie stoi za tym żadna zdrożna intencja, to ma pełne prawo, aby tak robić.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

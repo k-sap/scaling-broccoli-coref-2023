@@ -1,0 +1,12 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">TEM2 (ros. TЭM2 − skrót od spalinowa lokomotywa manewrowa z przekładnią elektryczną )- ciężki spalinowóz eksploatowany m.in. na PKP (oznaczenie na PKP SM48 ), ale także przez przewoźników prywatnych w Polsce i na kolejach krajów byłego ZSRR, a także Kuby, produkowany od 1960 roku w Briańsku i Ługańsku w ZSRR. Konstrukcja Ø opiera się na rozwiązaniach amerykańskiej lokomotywy ALCO RSD-1 z lat 40., która dostarczana była do ZSRR w ramach pomocy lend-lease. Lokomotywy te przystosowane są do pracy na torach o szerokości 1435 ;mm i 1524 ;mm, a przestawienie na inny tor wykonywane jest poprzez wymianę zestawów kołowych. Dla PKP były sprowadzane w latach 1976-1988 w liczbie 130 sztuk i przeznaczano je głównie do obsługi terenów przy granicy z ZSRR. Pracę dla kolei przemysłowych w Polsce pod oznaczeniem TEM2 rozpoczęły w roku 1974, a do końca lat 80. sprowadzono około 300 sztuk tych maszyn. Znaczna część zakupionych przez przemysł lokomotyw pracuje na kolejach piaskowych. Przeprowadza się także modernizacje (np. poprzez wymianę silników i układu sterowania). Pol Miedź-Trans poddał gruntownej modernizacji kilka maszyn tej serii. Wymieniono silnik spalinowy na bardziej ekonomiczny i spełniający normy Unii Europejskiej. Nowy silnik jest dużo lżejszy, dlatego też zaistniała potrzeba dociążenia lokomotywy balastem. Poza tym gruntownie zmodernizowano kabinę maszynisty, montując komputerowe sterowanie oraz zamontowano monitoring ze względu na znikomą widoczność toru podczas jazdy do przodu (dłuższym przedziałem maszynowym w kierunku jazdy).</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

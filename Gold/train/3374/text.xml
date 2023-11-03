@@ -1,0 +1,14 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Ewa Wilk słusznie napisała [art. "Dramat obowiązkowy", POLITYKA 18], że zadaniem szkoły jest wyrobienie w uczniu "elementarnych kompetencji: odróżniania, selekcjonowania, samodzielności oceny, odporności na propagandę". Redaktor Wilk nie zauważyła jednak, że w projektowanej przez MEN reformie diagnoza stanu edukacji i jej potrzeb jest słuszna, ale rozmija się z proponowanymi rozwiązaniami programowymi. MEN mówi o nowoczesności, o potrzebie uczenia dla przyszłości, ale w propozycjach programowych cofa się do XIX w. Przecież w krajach wysoko rozwiniętych w edukacji odchodzi się od kurczowego trzymania się przedmiotów. Duże znaczenie przywiązuje się do interdyscyplinarnych zadań, do nauczania metodą projektów, do ćwiczenia zespołowego rozwiązywania problemów, do uczenia, jak się uczyć. W projekcie podstaw programowych tego nie widać.</p>
+        <p xml:id="p-2">W tzw. czytaniu ze zrozumieniem polska młodzież jest (od niedawna) na średniej europejskiej, ale w dziedzinie wyszukiwania, selekcjonowania, oceniania, przetwarzania informacji jesteśmy w światowym ogonie. MEN to zauważa, więc, by odfajkować sprawę, przyczepia edukację medialną do... plastyki i tworzy przedmiot "plastyka i edukacja medialna". Jest to kuriozum na skalę światową! Wszędzie o mediach i o informacji uczą absolwenci informacji naukowej. W Polsce korzystania z baz danych i z bibliotek, wyszukiwania i oceniania informacji będą uczyć plastycy! (...)</p>
+        <p xml:id="p-3">A ironią losu jest fakt, że właśnie zakończył się kilkuletni, kosztowny proces wyposażania kilkunastu tysięcy bibliotek szkolnych w pracownie multimedialne. Nauczyciele pracujący w szkolnych bibliotekach są w większości absolwentami kierunku magisterskiego "informacja naukowa". Jest więc zaplecze i kadra, by w polskich szkołach na bazie bibliotek tworzyć szkolne centra informacji. (...)</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

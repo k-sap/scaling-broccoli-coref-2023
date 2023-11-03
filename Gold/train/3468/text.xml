@@ -1,0 +1,17 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Wyborcy szybko zorientowali się, że politycy nie są tymi osobami, którym można zaufać. Efektem jest coraz niższa frekwencja w wyborach parlamentarnych.</p>
+        <p xml:id="p-2">Marszałek Sejmu zauważył, że w tej kadencji częściej niż w poprzednich dochodzi do uchylenia posłom immunitetu. Z podjęciem takiej decyzji w przypadku udowodnionego zarzutu nie ma problemów. Gorzej, gdy parlamentarzysta podejrzany jest o jazdę po wpływem alkoholu. Posła trudno zmusić do tego, by dmuchał w alkomat. Na szczęście media wywlekają takie sprawy na światło dzienne i każą politykom tłumaczyć się z afer, w które są zamieszani.</p>
+        <p xml:id="p-3">Odpowiadając na pytania studentów gość stwierdził, że życzyłby sobie, aby sejmowa komisja etyki miała podobne kompetencje, jak w USA (kongresmena może w tym kraju pozbawić mandatu). Wymagałoby to jednak zmiany zapisów naszej konstytucji. Poza tym mogłoby to ostać wykorzystywane w celach politycznych.</p>
+        <p xml:id="p-4">Marszałek przeciwny jest wzmacnianiu uprawnień prezydenta. Tłumaczył, że naszym kraju mamy do czynienia ze sprawnymi mechanizmami demokratycznymi. Nie funkcjonują one wprawdzie tak dobrze, jak w wielu krajach Europy Zachodniej. W Polsce panuje jednak równowaga między poszczególnymi szczeblami władzy, co sprawia, że prezydenckie rządy „silnej ręki” nie są potrzebne.</p>
+        <p xml:id="p-5">Za bardzo potrzebny mechanizm przeciwdziałający korupcji w elitach politycznych Marek Borowski uznał obowiązek składania oświadczeń o stanie majątkowym.</p>
+        <p xml:id="p-6">- Słyszałem o pośle, który odrzucił propozycję kupna nowego mieszkania spółdzielczego po niższej cenie. Miał obawy, że zostałoby to dostrzeżone w oświadczeniu majątkowym – podał przykład.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

@@ -1,0 +1,18 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Podczas III Ogólnopolskiego Biegu Odlewnika Kłobuck 2003, na 10 km, rywalizowało 236 osób. W biegu głównym triumfowali Elżbieta Jarosz (Śląsk Wrocław) i Ukrainiec Michaił Iweruk inkasując odpowiednio 2 i 5 tys. złotych.</p>
+        <p xml:id="p-2">Uczestnicy mieli do pokonania trzy pętle ulicami Kłobucka. Start i metę wszystkich biegów zlokalizowano na stadionie Ośrodka Sportu i Rekreacji w Kłobucku.</p>
+        <p xml:id="p-3">Magnesem, który przyciągnął tak dużą rzeszę znakomitych zawodników były niewątpliwie niezwykle atrakcyjne nagrody finansowe ufundowane przez organizatorów tj. Odlewnię Wiesława Kuleja z Kłobucka, Powiatowe Zrzeszenie LZS i miejscowy OSiR. Suma nagród finansowych wynosiła aż 29 tys. złotych.</p>
+        <p xml:id="p-4">Uczestnicy wyjeżdżali zadowoleni twierdząc, że przyjadą tutaj za rok. Wszyscy biegacze otrzymali pamiątkowe koszulki i medale oraz posiłek.</p>
+        <p xml:id="p-5">— W Kłobucku jestem po raz pierwszy. Niemniej widać, że w tym małym miasteczku jest odpowiednia atmosfera do biegania: liczna i żywo reagująca publiczność, atrakcyjne nagrody, posiłek, a przede wszystkim znakomita organizacja. Wszystkie te czynniki powodują, że mamy do czynienia z jedną z najlepszych imprez biegowych w Polsce. Tak trzymać — mówił zaraz po biegu jeszcze zmęczony, ale zadowolony biegacz z Kowalewa Pomorskiego.</p>
+        <p xml:id="p-6">Nagrody otrzymali również najstarszy uczestnik biegu głównego Danuta Kondziołka (Siła Ustroń), najlepszy biegacz z Miasta i Gminy Kłobuck Tomasz Sosnowski oraz biegacze niepełnosprawni.</p>
+        <p xml:id="p-7">Zwyciężczyni biegu kobiet Elżbieta Jarosz dodatkowo otrzymała okazały puchar ufundowany przez marszałka województwa śląskiego, który wręczył radny Sejmiku Woj. Śląskiego Krzysztof Nowak. Najlepszych nagradzali również goście honorowi imprezy: dwukrotny mistrz olimpijski w boksie Jerzy Kulej i olimpijka rodem z Kłobucka Małgorzata Rydz.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

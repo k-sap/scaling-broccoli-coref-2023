@@ -1,0 +1,14 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Dziki człowiek</p>
+        <p xml:id="p-2">Przypadków takich w przekazach historycznych odnajdujemy około pięćdziesięciu i wiele z nich znanych już było twórcy systematyki żywych organizmów Karolowi Linneuszowi, który wyróżnił w swej "Systema Naturae" dzikiego człowieka (Homo sapiens ferus) jako odrębny gatunek. Opisał go jako "tetrapus, mutus, hirsutus" - czworonożny, niemy i kosmaty. Zapewne ze względu na brak zręczności ludzkie dzieci rzadko adoptowane były przez małpy, których większość prowadzi nadrzewny tryb życia. Zastępczymi rodzicami dzieci były najczęściej wilki, ale też lamparty oraz rzekomo również owce, psy i niedźwiedzie.</p>
+        <p xml:id="p-3">Historia tych ostatnich jest o tyle interesująca, że dotyczy ziem polsko-litewskich. Tak oto pisał w swej "Historii Polski" Irlandczyk Bernard Connor, który pod koniec XVII w. służył jako nadworny lekarz króla Jana III Sobieskiego: "Żadna część ziem rządzonych przez Króla Polski nie ma więcej lasów i pustyń niż Litwa. Pośród nich jest bór długi na sto mil, w którym żyje lud bardzo dziki i niewykształcony; choć litewska szlachta jest w większości znacznie bardziej uprzejma, mądrzejsza i bardziej w towarzystwie przyjacielska niż nawet Polacy. Często mówiono mi na dworze, że wielekroć małe dzieci karmione są i chowane przez niedźwiedzie, których jest wiele w litewskich lasach. (…) Dziecko takie trzymane było w klasztorze za czasu mego tam pobytu, o czym wspomniałem w mym łacińskim traktacie »O zawieszeniu praw natury«. Chłopiec ten miał lat około dziesięciu (jak wnosić można z jego figury i oblicza); ciało jego było straszliwie zdeformowane i nie władał on ani mową, ani rozumem. Chodził na czworakach i nie przypominał człowieka jak tylko budową ciała".</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

@@ -1,0 +1,20 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Schronisko PTTK na Przełęczy Przegibek - schronisko turystyczne położone w południowo-zachodniej części Beskidu Żywieckiego, na wysokości 1000 m n.p.m. Wybudowane zostało w 1923 roku przez Józefa Pietrusiewicza z Żywca, kilkakrotnie modernizowane przez zmieniających się latami właścicieli. W 1987 roku poszerzono wschodnie skrzydło budynku oraz podniesiono dach. Obecnie schronisko prowadzą Anna i Janusz Frontowie. Schronisko leży na terenie Żywieckiego Parku Krajobrazowego, otoczone widokami na Wielką i Małą Rycerzową oraz Wielką i Małą Raczę.</p>
+        <p xml:id="p-2">Warunki pobytu</p>
+        <p xml:id="p-3">Schronisko oferuje 48 miejsc noclegowych w pokojach 2- Ø, 4- Ø i 12-osobowych. W razie braku miejsc możliwy jest także nocleg poza pokojami na własnej karimacie. Przed schroniskiem wyznaczone jest miejsce do rozbicia namiotów. Można korzystać z telewizora oraz stołu do tenisa stołowego, a także z paleniska do pieczenia kiełbasek. Do dyspozycji turystów jest bufet i jadalnia. Schronisko oferuje także wypożyczalnię rakiet śnieżnych.</p>
+        <p xml:id="p-4">Jak dotrzeć?</p>
+        <p xml:id="p-5">z Rycerki Górnej Kolonii - (1h, 15min)</p>
+        <p xml:id="p-6">z Rycerki Dolnej - Słowianki przez Bendoszkę Wielką (3h)</p>
+        <p xml:id="p-7">z Rycerki Dolnej - Słowianki doliną Rycerki (2h, 15min)</p>
+        <p xml:id="p-8">Atrakcje turystyczne</p>
+        <p xml:id="p-9">W pobliżu schroniska znajdują się ścisłe rezerwaty przyrody Śrubita i Dziobaki. Ze schroniska prowadzą również szlaki do pobliskich schronisk na Wielkiej Raczy, Rycerzowej i Mładej Horze. W odległości 300m od schroniska dostępny jest orczykowy wyciąg narciarski. Na pobliskiej (około kwadransa drogi ) Bendoszce Wielkiej znajduje się Krzyż Milenijny. Przez przełęcz przebiega też Szlak Papieski.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

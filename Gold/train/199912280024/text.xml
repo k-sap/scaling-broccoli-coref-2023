@@ -1,0 +1,48 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">PLUSKWA MILENIJNA</p>
+        <p xml:id="p-2">Minister Marek Biernacki spędzi sylwestra w MSWiA</p>
+        <p xml:id="p-3">Państwo podwyższonej gotowości</p>
+        <p xml:id="p-4">Informatycy nie będą mieć w tym roku sylwestra - tak można podsumować informacje o przygotowaniach do problemu roku 2000, które zebrała "Rzeczpospolita". Nie będą też świętować policjanci, strażacy i wojsko. Służby mundurowe postawiono w stan podwyższonej gotowości. Wszystkie instytucje podkreślają kluczową rolę energetyki. Kogokolwiek spytać - banki, szpitale, firmy telekomunikacyjne - każdy uważa, że będzie dobrze, o ile energetyka nie zawiedzie.</p>
+        <p xml:id="p-5">Rząd twierdzi, że Polska jest dobrze przygotowana do problemu roku 2000 (PR 2000). Premier Jerzy Buzek nie wyklucza, że "mogą się zdarzyć drobne zakłócenia", ale zapewnia, że "wszystkie zasadnicze systemy", takie jak energetyczny czy bankowy, są dobrze przygotowane. Szef Ministerstwa Spraw Wewnętrznych i Administracji Marek Biernacki, który koordynuje te przygotowania, ocenia, że jesteśmy gotowi poradzić sobie z problemem związanym ze zmianą daty "w 92 procentach". Na wszelki wypadek spędzi jednak sylwestra w MSWiA.</p>
+        <p xml:id="p-6">Japonia wita wcześniej</p>
+        <p xml:id="p-7">Ministerstwa, urzędy wojewódzkie i samorządy organizują w sylwestra dyżury sztabów antykryzysowych. Zapewniają też, że - zgodnie z zarządzeniem premiera - przygotowały plany awaryjne na wypadek problemów ze sprzętem elektronicznym w pierwszych dniach 2000 roku.</p>
+        <p xml:id="p-8">Informacje o najważniejszych wydarzeniach będzie zbierać Centrum Zarządzania Kryzysowego.</p>
+        <p xml:id="p-9">- Za przygotowania do PR 2000 odpowiada nie tylko rząd - podkreśla rzecznik MSWiA Marcin Trzciński. - Jesteśmy krajem zdecentralizowanym. Odpowiedzialność ponoszą także samorządy.</p>
+        <p xml:id="p-10">Resort spraw wewnętrznych przygotował plany na wypadek różnych zagrożeń - w sferze obronności i bezpieczeństwa (np. nieoczekiwany atak rakiet "urwanych z uwięzi", awarie sieci energetycznych i rurociągów), gospodarczej (np. brak możliwości korzystania z kart płatniczych, zakłócenia w pracy giełdy, awarie kas fiskalnych w sklepach) i sferze społecznej (np. panika).</p>
+        <p xml:id="p-11">- Nie wiemy, co się stanie, bo PR 2000 nikt jeszcze nie przeżył - mówi Marcin Trzciński. - Ale mamy szczęście, bo kilka godzin przed nami Nowy Rok będą witać np. Japonia, Korea czy Tajwan. Będziemy na bieżąco sprawdzać doniesienia z tych krajów.</p>
+        <p xml:id="p-12">Pojawiają się informacje, że wiele elektrowni nuklearnych w krajach byłego ZSRR nie jest przygotowanych na zagrożenie milenijną pluskwą. Trzciński zapewnia, że rząd i na to jest przygotowany - pracować będą wszystkie placówki badające skażenie radioaktywne.</p>
+        <p xml:id="p-13">Mundurowe gotowe</p>
+        <p xml:id="p-14">Służby mundurowe mają w każdego sylwestra więcej pracy niż na co dzień. W tym roku doszło jeszcze zagrożenie PR 2000.</p>
+        <p xml:id="p-15">W Komendzie Głównej Policji oraz wszystkich komendach wojewódzkich i powiatowych w sylwestra będą działać sztaby kryzysowe. Tak jest co roku, ale tym razem znajdą się w nich dodatkowo specjaliści od łączności i informatyki. Policja zapewniła sobie własne zasilanie i łączność.</p>
+        <p xml:id="p-16">Podobnie zabezpieczyła się straż pożarna. W połowie grudnia zadecydowano też, że ostatniego dnia roku prawie wszyscy strażacy mają się stawić w swych jednostkach.</p>
+        <p xml:id="p-17">Do PR 2000 przygotowane jest wojsko. - Służby dyżurne będą stale gotowe do reagowania w sytuacjach kryzysowych. Współdziałamy w tej dziedzinie z NATO - zapewnia rzecznik MON, płk Eugeniusz Mleczak.</p>
+        <p xml:id="p-18">Do zagrożeń związanych z PR 2000 przygotowują się służby specjalne. Zarówno Wojskowe Służby Informacyjne, jak i UOP przygotowały plany na wypadek awarii w pierwszych dniach stycznia. Specjaliści obu służb będą dyżurować w nocy z 31 grudnia na 1 stycznia.</p>
+        <p xml:id="p-19">Sterowanie ręką</p>
+        <p xml:id="p-20">Większość instytucji zapewnia, że przygotowała i przetestowała plany awaryjne. Ponieważ - jak sądzą - sami zrobili wszystko, za najpoważniejsze zagrożenie uważają przerwy w dostawie energii. W agregaty prądotwórcze wyposażyła swoje obiekty Gazownia Warszawska. Miejskie Przedsiębiorstwo Wodociągów i Kanalizacji w Warszawie ma ręczny system sterowania. Jest też duża rezerwa wody. Gorzej, gdy zabraknie prądu na dłuższy czas i przestaną pracować pompy.</p>
+        <p xml:id="p-21">Takich problemów nie będą mieć wodociągi krakowskie. - Ludzie mogą być spokojni. Produkcja wody nie jest sterowana komputerowo - mówi Wojciech Mamak, główny informatyk krakowskich wodociągów.</p>
+        <p xml:id="p-22">Producenci energii, czyli elektrownie, zapewniają, że w kraju jest 20-procentowa rezerwa i nie będzie skoków napięcia. Przedstawiciele elektrowni, zapewniając o swojej gotowości, pytają, czy tak samo przygotowani są dostawcy energii.</p>
+        <p xml:id="p-23">- Wszyscy spędzają sylwestra w firmie - mówi o kierownictwie Polskich Sieci Elektroenergetycznych rzeczniczka PSE Regina Wegnerowska. Kierownictwo PSE zostało włączone w skład specjalnego sztabu, który będzie czuwał nad pracą systemu.</p>
+        <p xml:id="p-24">Respiratory muszą działać</p>
+        <p xml:id="p-25">Do zmiany daty starannie przygotowują się szpitale. - Będzie większa obsada lekarska, pielęgniarska, dodatkowe dyżury na niektórych oddziałach - mówi dr Marek Migdał z Centrum Zdrowia Dziecka w Warszawie. - Moment zmiany daty przejdziemy na awaryjnym zasilaniu.</p>
+        <p xml:id="p-26">- Szpitale muszą być zawsze przygotowane na awarie, by nie wysiadły respiratory - dodaje Krzysztof Bik, dyrektor Centrum Zdrowia Matki Polki w Łodzi.</p>
+        <p xml:id="p-27">Skomplikowane struktury zabezpieczające przed problemem milenijnym powołał Zakład Ubezpieczeń Społecznych. Pełnomocnicy ds. PR 2000 oraz zespoły antykryzysowe działają w centrali i w każdym z 52 oddziałów Ø. Od dzisiaj zespoły będą pełniły całodobowe dyżury. Czy to oznacza, że nie będzie opóźnień w wypłacie rent i emerytur? - Pieniądze na wypłaty z początku stycznia prześlemy poczcie do 29 grudnia - mówi Anna Warchoł, rzeczniczka ZUS.</p>
+        <p xml:id="p-28">Telekomunikacja Polska ma sztaby kryzysowe w centrali i w terenie. - Zarząd nie jest w to zaangażowany, ale będzie informowany na bieżąco - zapewnia Michał Potocki z Biura Prasowego Telekomunikacji.</p>
+        <p xml:id="p-29">Pełne bankomaty</p>
+        <p xml:id="p-30">Polski system bankowy nie obawia się problemu roku 2000 - twierdzi Związek Banków Polskich.</p>
+        <p xml:id="p-31">Krzysztof Mielnicki, rzecznik NBP mówi, że "w przypadku stanowisk o strategicznym znaczeniu dla NBP zwiększenie dyspozycyjności jest niezbędne".</p>
+        <p xml:id="p-32">W innych bankach też będą dyżury. - Jest to także związane z zamknięciem finansowym roku. Będą i informatycy, i księgowe - mówi Sebastian Łuczak z Pekao SA.</p>
+        <p xml:id="p-33">Na wszelki wypadek 31 grudnia banki nie będą obsługiwać klientów. Każdy klient otrzyma historię i saldo swego tegorocznego rachunku, który bank wydrukuje dzień wcześniej. Cały czas czynne będą bankomaty. Rozliczająca transakcje kartami płatniczymi firma PolCard zapewnia, że nie będzie żadnych problemów.</p>
+        <p xml:id="p-34">Kolej korzysta z 33 źródeł energii i - jak zapewnia - wszystkie będą działać 1 stycznia. Na wszelki wypadek na stacjach przygotowano baterie i agregaty, a do kas trafiły stare bloczki biletowe, na wypadek awarii kas. W rezerwie będą czekać lokomotywy spalinowe.</p>
+        <p xml:id="p-35">W polskich liniach lotniczych działać będzie sztab kryzysowy pod przewodnictwem prezesa LOT. Na 1 stycznia LOT zaplanował jeden rejs czarterowy.</p>
+        <p xml:id="p-36">Bernadeta Waszkielewicz, Andrzej Stankiewicz</p>
+        <p xml:id="p-37">Określeń jest wiele - pluskwa milenijna, problem roku 2000 (PR 2000), Y2K - ale wszystkie oznaczają jedno: o północy z 31 grudnia 1999 na 1 stycznia 2000 wiele setek milionów urządzeń elektronicznych na całym świecie może przestać działać, bo nie będzie w stanie poprawnie odczytać daty. Przez wiele lat programiści kodowali rok w postaci dwóch ostatnich cyfr. Urządzenia wykorzystujące daty mogą zacząć niepoprawnie działać przy przejściu z roku 1999 (zapisanego jako "99") na rok 2000 ("00"). Błędne działania urządzeń cyfrowych wystąpią szczególnie w pierwszych sekundach Nowego Roku - może dojść do katastrof i poważnych awarii. Błędne działanie systemów związane z PR 2000 może objawiać się przez wiele miesięcy.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

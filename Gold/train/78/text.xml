@@ -1,0 +1,14 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Tu Puszkin jest już bliski twórczości i poczuciu humoru Leara, Nasha, czy Carrolla, których niepoważne wiersze ostatnio czytuję z zachwytem w tłumaczeniu Barańczaka.</p>
+        <p xml:id="p-2">Ale nie samą poezją żyje poeta, nawet taki, jak ja (niektórzy nazywają mnie, słowo honoru, "poetą piosenki"). Do moich lektur beletrystycznych szczególnie lubianych, poza tymi obowiązkowymi z lat trzydziestych, jak "Saga rodu Forsyte'ów" i "Przeminęło z wiatrem" należeli dwaj dziewiętnastowieczni "sataniści" jakby nieco, francuscy pisarze Villiers de l'Isle Adam i Barbey d'Aurevilly, chociaż Barbey np. był wierzącym katolikiem. Można by rzec - katolikiem diabolicznym. Oczywiście (bo jak by mi inaczej mogli tak dalece przypaść do gustu) obaj mocno nasycali atmosferę swojej prozy, rzekłbym, transcendentnym, trochę demonicznym erotyzmem. Co w połączeniu z tajemniczością, niesamowitością wręcz tej atmosfery odcisnęło chyba jakieś piętno na mojej, niepoważnej skądinąd, wyobraźni, więc i zapewne i w niepoważny sposób. Mérimée, Maupassant i Pierre Louÿs, autor głośnej powieści "La femme et le pantin", dopełniali listy moich literackich fascynacji. Ten ostatni wsławił się głośnym skandalem. Wydał tomik wierszy rzekomej poetki z kręgu Safony z Lesbos, p.t. "Pieśni Bilitis". Na tę znakomitą fikcję nabrali się co najświetniejsi krytycy.</p>
+        <p xml:id="p-3">Fundamentalne dzieło Bertranda Russella, "Wiek XIX-ty" przeczytałem z zapartym tchem, co przypisać należy lekkości pióra tego wielkiego myśliciela. Zaczął mnie też on zbroić i uodparniać na ewentualne zakusy doktryny, której zresztą nie znałem - marksizmu. Ale wybuch wojny przerwał ten pożyteczny proces. Pozostałem więc tak słabo uzbrojony, że właściwie bezbronny, jak się później miało okazać wobec zbliżającego się natarcia nie tyle doktryny samej, ile praktyki "ustroju sprawiedliwości społecznej".</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

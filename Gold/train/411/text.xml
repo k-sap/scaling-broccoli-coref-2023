@@ -1,0 +1,17 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">direct85 Witam, Możecie dać mi linki do spodni, bluz, kurtek takich zimowych jak i letnich i nie wiem czego jeszcze można do ubrania dla osoby 14-sto letniej (164 wzrostu [wiem - mało]) Z góry dzięki PS. Możecie jeszcze fajne buty rozmiar 42 PS2. Nie piszcie 'szukaj' bo już mnie nogi bolą od chodzenia po sklepach i wyjścia z każdego z niczym ;/ Z góry dzięki</p>
+        <p xml:id="p-2">cruel_woman 14-letnia osobo a ty chłopak czy dziewczyna jesteś? po obuwiu mogę mniemać że chłopak ;&gt;</p>
+        <p xml:id="p-3">Sica_ prosze link : www.allegro.pl Majkel_1991 14 lat chlopak czy dziewczyna? to w koncu jakie zimowe czy letnie ?? jasniej prosze</p>
+        <p xml:id="p-4">Zaharias trudno zeby kobieta w modzie meskiej umiescila takie pytanie</p>
+        <p xml:id="p-5">cruel_woman CYTAT "trudno zeby kobieta w modzie meskiej umiescila takie pytanie" no w sumie faktycznie. nie zauważyłam tego wcześniej Tak czy owak myślę, że temat jest lekko bez sensu bo "fajne" to jest szerokie pojęcie i zależy od gustu. Radzę ci samemu znaleźć własny styl i to co ci się podoba, bo jak będziesz polegał na innych w sprawie całego ubioru to możesz wyglądać jak pajac. Tj. wyżej allegro.pl - to nie boli</p>
+        <p xml:id="p-6">Majkel_1991 aaaaa fakt glupota nie boli ale jej skutki tak ...... jak bede mial czas to moze zarzuce jakims linkiem</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

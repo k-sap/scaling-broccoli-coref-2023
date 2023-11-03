@@ -1,0 +1,14 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Aby narzucić sobie maksymalną w takich wypadkach dyscyplinę, wziąłem na warsztat lirykę i aforyzmy. Niejedna strofa, której uczą się w szkołach na pamięć (przez serce, por. angielski, francuski) swój obecny kształt uzyskała na moim biurku. Szkolne wypracowania opierają się na cytatach, jakich nie uświadczysz w pierwotnej wersji. W werdykcie dorocznej nagrody poetyckiej pojawił się dystych, mający niczym koda streszczać całe dzieło, naniesiony na marginesie w zastępstwie sformułowań nie do końca przekonujących, które zdecydowaliśmy się skreślić. Słownik terminów literackich podaje moją ingerencję jako przykład twórczej aliteracji, nie podejrzewając, że autor Ø chciał nam tylko wygarnąć prawdę, pozbawioną instrumentacji głoskowej. Warto pamiętać, że prawda składa się z morfemów.</p>
+        <p xml:id="p-2">Międzynarodową karierę zrobiła Księga myśli. Pracowałem nad nią przez kilka tygodni, ze szczególnym upodobaniem, choć przyznam, że mam wiele zastrzeżeń do aforyzmów. Przede wszystkim, są za krótkie. Rozumiem, mają porazić błyskiem, jak żarówka, która przepala się, niekiedy eksplodując światłem dwukrotnie jaśniejszym. Ale potem zapada ciemność i trzeba szukać nowej żarówki, o przepisowej liczbie watów. W aforyzmach jest sporo takiej nieodpowiedzialności, a myśl powinna przecież promieniować światłem trwałym, zamiast urządzać jednorazowe fajerwerki.</p>
+        <p xml:id="p-3">Trudno było się oprzeć, czytając brulion Księgi, przykremu uczuciu obcowania z besserwiserstwem. - Oto potrafię zawrzeć w paru słowach głębię - zdawał się mówić autor. Zaproponowałem w kilkunastu miejscach rozbudowane poprawki, tak by czytelnik miał wrażenie, że to on dochodzi do prawdy, a nie że jest mu ona serwowana w pozbawionej wywodu konkluzji, na tacy, na deser, który nie zastąpi kartofli. W ten sposób powstał cykl epigramatów uznany przez krytykę za odnowienie gatunku. Nie tak dawno dostałem egzemplarz japoński Ø z nieco przesadną dedykacją: Autorowi - współautor. Teraz czekam na chiński, który można potraktować jak sprawdzian, zarówno z punktu widzenia tradycji, jak i współczesnej kultury literackiej.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

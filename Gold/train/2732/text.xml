@@ -1,0 +1,17 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Pantery perskie</p>
+        <p xml:id="p-2">W bieżącym roku, w oliwskim zoo przygotowano dla nich nowe pomieszczenie. Mieszka w nim rodzeństwo panter perskich. Czynione są starania o niespokrewnionego z nimi kota tego gatunku, w celach hodowlanych. Pantera, zwana też lampartem, jest wrogiem wielu zwierząt. Koty te napadały także na ludzi. Jeszcze 120 lat temu w Indiach zabiły blisko 2400 osób. To było przyczyną znacznego przetrzebienia panter, więc teraz ratunek dla nich głównie w hodowli, prowadzonej przez ogrody zoologiczne.</p>
+        <p xml:id="p-3">Słonie</p>
+        <p xml:id="p-4">W gdańskim zoo niemal co rano odbywają się bitwy słonic. Nacierają na siebie Mongu rodem z Afryki i Darka pochodzenia indyjskiego. Trzecia, Iki, też z Azji, próbuje je rozdzielać. Mediacje na nic się zdają.</p>
+        <p xml:id="p-5">Mongu ma 32 lata. Jest słonicą afrykańską. Urodziła się prawdopodobnie w którymś z ogrodów zoologicznych. Przybyła do gdańskiego zoo w 1991 roku. Podarowali ją Niemcy. Wcześniej Mongu była w zoo w Lipsku i w Rostoku, gdzie występowała w lokalnym teatrzyku. Niemcy przywieźli Mongu na własny koszt. Pozbyli się jej, mimo że była tam najpiękniejszą słonicą, z długimi, na dwa metry ciosami - zębami.</p>
+        <p xml:id="p-6">Darka - przybyła do Gdańska trzy lata temu. Ma 38 lat. Być może urodziła się w naturalnym środowisku - w Indiach i jako młode zwierzę przez handlarzy sprzedana cyrkowcom. Do gdańskiego zoo trafiła z bazy cyrkowej w Julinku pod Warszawą.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

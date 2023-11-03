@@ -1,0 +1,51 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">zobacz jak mam ładnie foldery porobione</p>
+        <p xml:id="p-2">super no zobacz. ale masz bałagan na tym pulpicie</p>
+        <p xml:id="p-3">no mówię że muszę sobie posprzątać nie wiem gdzie ten plik jest gdzie ja to zapisałam ?</p>
+        <p xml:id="p-4">kawa mi wystygła</p>
+        <p xml:id="p-5">to trzeba było sobie wypić od razu. czy co ?</p>
+        <p xml:id="p-6">no musiałem się ogolić. no nie wiem gdzie ty to zapisałaś może nowe ? albo ten. nie to</p>
+        <p xml:id="p-7">chyba to</p>
+        <p xml:id="p-8">no to</p>
+        <p xml:id="p-9">nie bo ja coś poprawiałam. to jest niepoprawione</p>
+        <p xml:id="p-10">no to ja nie wiem gdzie to ty zapisałaś</p>
+        <p xml:id="p-11">znajdź mi to gdzieś. o jest tutaj</p>
+        <p xml:id="p-12">na pewno to jest to ?</p>
+        <p xml:id="p-13">tak. wszystko mam podpisane widzisz ?</p>
+        <p xml:id="p-14">sprawdź ile zajmuje ten audio</p>
+        <p xml:id="p-15">dobra wszystko jest okej</p>
+        <p xml:id="p-16">sprawdź ile audio zajmuje</p>
+        <p xml:id="p-17">tyle samo Ø</p>
+        <p xml:id="p-18">i co ? wiesz że przez</p>
+        <p xml:id="p-19">to mogę wyrzucić</p>
+        <p xml:id="p-20">przez pocztę tego nie wyślesz nie ?</p>
+        <p xml:id="p-21">to mogę wyrzucić</p>
+        <p xml:id="p-22">ale</p>
+        <p xml:id="p-23">a po co ? po co przez pocztę mam to wysyłać ?</p>
+        <p xml:id="p-24">a jak ?</p>
+        <p xml:id="p-25">ale komu ?</p>
+        <p xml:id="p-26">a no nie wiem</p>
+        <p xml:id="p-27">. trzeba pisać jeszcze inaczej no dobrze. jak ta pianka ?</p>
+        <p xml:id="p-28">dobrze</p>
+        <p xml:id="p-29">dobra ?</p>
+        <p xml:id="p-30">normalna</p>
+        <p xml:id="p-31">nie wiedziałam jaką Ø mam kupić</p>
+        <p xml:id="p-32">ile kosztowała pianka ?. z piętnaście złotych ?</p>
+        <p xml:id="p-33">niee z dziesięć</p>
+        <p xml:id="p-34">łoo no opłacało ci się kupować na raz piankę ?</p>
+        <p xml:id="p-35">dlaczego na raz ?</p>
+        <p xml:id="p-36">a to ty jeszcze też ją będziesz używać później nie ?</p>
+        <p xml:id="p-37">no oszalałeś będzie śmierdzieć męską męskością</p>
+        <p xml:id="p-38">nie no ładnie pachnie zobacz</p>
+        <p xml:id="p-39">no ładnie</p>
+        <p xml:id="p-40">no jak to dżilet tak samo</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

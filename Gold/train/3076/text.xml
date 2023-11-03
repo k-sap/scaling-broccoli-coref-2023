@@ -1,0 +1,21 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">– Przepraszam was na chwilę – powiedział zaniepokojony Henryk. – Muszę sprawdzić. Zostańcie tutaj.</p>
+        <p xml:id="p-2">Byli w kuchni. Betty siedziała przy stole, Marek na krześle obok zwijał się chyba z bólu. Henryk zamarł. Dlaczego ta kobieta nic nie robi, a tylko się uśmiecha?</p>
+        <p xml:id="p-3">– Co się stało? – zapytał świeżo upieczony tata dorosłego mężczyzny, podchodząc do weterana.</p>
+        <p xml:id="p-4">– Nic – odpowiedziała wesoło Beata zwana Betty. – Zaraz wrócimy. Marek musi się tylko wyśmiać.</p>
+        <p xml:id="p-5">Henryk oniemiał. Odszedł kilka kroków i siadł ciężko po drugiej stronie stołu.</p>
+        <p xml:id="p-6">– Może w czymś pomóc? – Sebastian stanął w drzwiach kuchni.</p>
+        <p xml:id="p-7">Marek wyprostował się. Z oczu leciały mu łzy, wytarł je wierzchem dłoni. Popatrzył na obu mężczyzn, nie mogąc opanować śmiechu. Henryk i Sebastian obawiali się najgorszego, podejrzewając załamanie nerwowe lub nawrót choroby psychicznej. Marek nabrał powietrza w płuca i powoli je wypuścił.</p>
+        <p xml:id="p-8">– Już mi lepiej – powiedział, ale kąciki jego ust nadal drżały. – Przepraszam, nie mogłem się powstrzymać. Obaj mieliście takie miny, jakby was wypieprzył milion drewnianych pajacyków.</p>
+        <p xml:id="p-9">Sebastian usiadł przy stole. Chrząknął z zakłopotaniem, jednak też nie mógł powstrzymać śmiechu. Henryk jeszcze zachowywał powagę, ale po chwili nie wytrzymał.</p>
+        <p xml:id="p-10">Jenny, Diana i Pola, zaniepokojone hałasami dochodzącymi z kuchni, pełne obaw, przyszły do kuchni, pytając, co się dzieje. Marek, nieco uspokojony, wyjaśnił, że sytuacja jest jak z telenoweli i nie ma czym się przejmować. Kobiety usiadły i patrzyły zdumione.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">W ostatnim czasie z MSWiA zaczęto zresztą wyłączać różne inne części, na przykład nadzór budowlany przeszedł do nowego resortu rozwoju regionalnego. Rozpoczął się więc demontaż ministerstwa chaosu: teraz powstanie GUAP, później powstaną następne urzędy na przykład Ø Rejestrów Państwowych (tu przejdzie PESEL). Nie oznacza to wcale, że okrojone MSWiA stanie się znacząco mniejszym resortem. Już powstały departamenty nadzoru nad służbami mundurowymi, co jest powrotem do resortu nawet nie z czasów Millera, ale z czasów PRL. Po co więc była ta cała zabawa? Aby paradoksom nie było końca, wypada zauważyć, że obecnie okrawa się MSWiA, a wzmacnia nowymi urzędami premiera, którym - jak wiele wskazuje - będzie Leszek Miller. Tym razem jednak siłę Millera buduje Akcja Wyborcza Solidarność, wspierana przez Unię Wolności.</p>
+        <p xml:id="p-2">Premier przydaje prestiżu</p>
+        <p xml:id="p-3">Premierowi podlega dziś 12 urzędów centralnych. Można zrozumieć, że podporządkowano mu Urząd Służby Cywilnej, Urząd Zamówień Publicznych czy Urząd Administracji Publicznej, ale dlaczego także Wyższy Urząd Górniczy, jeżeli górnictwem zajmuje się Ministerstwo Gospodarki? Dlaczego to premier musi mieć w swej pieczy Urząd Nadzoru Ubezpieczeń Zdrowotnych, a nie minister zdrowia konstytucyjnie odpowiedzialny za ten dział administracji rządowej i politykę państwa w tej dziedzinie? Dlaczego to szef rządu ma mieć pieczę nad Urzędem Nadzoru nad Funduszami Emerytalnymi? W usytuowaniu urzędów centralnych widać wyraźnie działania lobbystyczne i przypadek.</p>
+        <p xml:id="p-4">Nie trzeba jednak żadnych domniemań by stwierdzić, że premier, nawet przy pomocy jeszcze bardziej rozbudowanej kancelarii, nie jest w stanie nawet przejawić zainteresowania nadzorem nad tyloma urzędami. Powstaje więc wymarzona wprost sytuacja, by urzędy centralne zyskiwały nienależną im autonomię, rozrastały się i stawały się państwami w państwie. Faktycznie prezes będzie miał więcej władzy i mniej odpowiedzialności niż minister. Minister ponosi odpowiedzialność konstytucyjną (jeśli oczywiście nadejdą w Polsce czasy, że ktoś tę odpowiedzialność zechce egzekwować), prezes już nie. Za to prezes może zarabiać dużo więcej niż minister czy nawet premier.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

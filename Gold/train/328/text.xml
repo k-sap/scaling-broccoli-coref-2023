@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Zamiary profesora psychologii przemysłowej KUL wobec powołanego przez niego do życia ruchu społecznego zaczęły się klarować po 1998 r., gdy powstał Fundusz św. Jerzego.</p>
+        <p xml:id="p-2">Szczegóły tego pomysłu ujęto w podpisanym przez Bielę 27-stronicowym dokumencie "Program Koncentracji Środków Kapitałowych w oparciu o Powszechne Świadectwa Udziałowe". Projekt stawiał sobie za cel zebranie od jak największej liczby osób Powszechnych Świadectw Udziałowych, z puli 28 mln świadectw NFI, które w ramach Programu Powszechnej Prywatyzacji mieli otrzymać wszyscy obywatele RP. Świadectwa te miały zostać wniesione aportem do specjalnie w tym celu powołanej spółki z ograniczoną odpowiedzialnością - Funduszu św. Jerzego. Po zamianie świadectw na akcje NFI, firma ta nie tylko dysponowałaby olbrzymimi aktywami, ale przede wszystkim mogłaby kontrolować część spośród 512 sprywatyzowanych w programie NFI przedsiębiorstw. Opracowaną przez Bielę koncepcję sfinansowano z grantu Komitetu Badań Naukowych, a zrealizować całą operację miały rzesze społeczników z Obywatelskich Stowarzyszeń Uwłaszczeniowych przy istotnym wsparciu studentów prof. Bieli.</p>
+        <p xml:id="p-3">Nazwa spółki nie została wybrana przypadkowo. W wielu odezwach i artykułach publikowanych przez Bielę profesor wyraża nadzieję, iż "pod patronem św. Jerzego wskrzesimy ducha rycerskości i solidarności w gromadzeniu naszego polskiego kapitału oraz przeciwstawimy się złu w polskim życiu gospodarczym".</p>
+        <p xml:id="p-4">Operacja koncentracji świadectw NFI rozpoczęła się we wrześniu 1997 r. Studenci Bieli - znowu na zaliczenie - zakładali punkty koncentracji, a później wciągali do nich ludzi, którzy mogli społecznie kontynuować zbiórkę. - Ja zorganizowałam cztery punkty koncentracyjne. W przeciągu niecałych dwóch miesięcy zebrałam 2,5 tys. świadectw od 560 osób - opowiada Maria Książek.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

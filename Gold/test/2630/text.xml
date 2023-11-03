@@ -1,0 +1,16 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Obiecanych pieniędzy urząd pracy może nie wykorzystać, bo staże trwać mogą tylko do końca listopada. – Musimy mieć czas na to, aby do końca grudnia rozliczyć się z otrzymanych pieniędzy – mówi Piotr Kopek, kierownik PUP.</p>
+        <p xml:id="p-2">Zainteresowanie stażami absolwenckimi jest duże. Tylko w drugiej połowie sierpnia PUP podpisał umowy na zatrudnienie 24 osób. Właściciele firm (ale także szefowie instytucji) zadeklarowali zatrudnienie 23 z nich. Chętnych na pozyskanie stażystów było jednak więcej.</p>
+        <p xml:id="p-3">Odmowne załatwienie wniosku o opłacenie stażu dla dwóch osób, skierowanego przez Jacka Niewieczerzała, dyrektora Muzeum Regionalnego, spotkało się z jego dezaprobatą. – Najpierw pracownicy urzędu potwierdzają, że mogę składać wnioski o pozyskanie stażystów, później nagle okazuje się, że na staże nie ma już pieniędzy – mówi J. Niewieczerzał. – Zaskoczeniem jest też dla mnie to, że kierownik urzędu pracy jednoosobowo podejmuje decyzje o przyznaniu pieniędzy na staże. Moim zdaniem powinno się tym zajmować szersze gremium.</p>
+        <p xml:id="p-4">Dyrektor PUP twierdzi, że wnioski o przyznanie stażu w pierwszej kolejności rozpatrywane są przez pracowników urzędu pod względem merytorycznym. Dopiero wtedy trafiają na jego biurko.</p>
+        <p xml:id="p-5">– Faktem jest, że później decyzje podejmuję już sam – potwierdza P. Kopek. – Zawsze staram się jednak wynegocjować jak najlepsze warunki dla osoby bezrobotnej, czyli zatrudnienie na jak najdłuższy okres po zakończeniu odbywania stażu. Natomiast pan dyrektor muzeum zadeklarował zatrudnienie jednego ze stażystów na dwa miesiące. Byli pracodawcy, którzy oferowali dłuższy okres. I to oni w pierwszej kolejności podpiszą umowy na staże absolwenckie. Jeśli tylko uda nam się pozyskać dodatkowe pieniądze, wrócimy do tych wniosków, które nie zostały w całości pozytywnie rozpatrzone, w tym także dyrekcji muzeum.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

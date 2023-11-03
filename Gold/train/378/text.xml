@@ -1,0 +1,17 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">— Takie twierdzenie jest niesprawiedliwe, a nawet obraźliwe i dla mnie, i dla senatora Kutza. Nie mamy zamiaru wspólnie reżyserować życia publicznego. Prawdą jest natomiast, że mamy podobną wizję samorządności dla Śląska i Katowic. A za poparcie jestem mu wdzięczny. Za mną kryje się jedynie krytyczny stosunek do władzy, czemu daję upust od lat w swoich publikacjach.</p>
+        <p xml:id="p-2">— Jak to możliwe, że człowiek oświadczający publicznie, że brzydzi się polityką, walczy o fotel prezydenta?</p>
+        <p xml:id="p-3">— Nie powiedziałem, że brzydzę się polityką. Brzydzę się wypaczeniami polityki. Polityka jest nieodłącznym składnikiem zarządzania państwem i nie będę udawać, że da się jej uniknąć. Powtórzę: na szczeblu samorządowym wypaczenia polityki stały się odrażające i z tym właśnie walczę.</p>
+        <p xml:id="p-4">— Ktoś, kto startuje w wyborach, bierze wygraną pod uwagę. Jak pan się dogada z większością w radzie? Po wygranej batalii politycy w samorządzie nie będą już panu przeszkadzali?</p>
+        <p xml:id="p-5">— Pani nie zrozumiała, o co ja gram. U mnie nie będzie żadnych targów. Proszę spojrzeć, co się działo w Katowicach na Młyńskiej: kupowano głosy w Radzie Miejskiej za stanowiska w urzędzie. Ugrupowanie, które miało ledwie dwa głosy w radzie, dostało fotel wiceprezydencki, bo akurat te dwa głosy były chwilowo potrzebne. Gdy stały się zbędne, człowieka usunięto i sprzedano fotel komuś innemu. Tak ma to wyglądać?</p>
+        <p xml:id="p-6">— Jak pan chce w takim razie rządzić miastem? Bez takich targów jest to chyba niemożliwe.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

@@ -1,0 +1,14 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">1. Grafikę może zgłosić autor grafiki lub Wikipedysta zalogowany po raz pierwszy minimum miesiąc przed głosowaniem i mający na swym koncie od czasu pierwszego logowania minimum 100 edycji. 2. Zgłoszenie grafiki powinno być uzasadnione w oparciu o obecne kryteria oceny grafik na medal. 3. Zasady głosowania: głosowanie trwa trzy tygodnie (21 dni). Liczą się głosy wikipedystów spełniających kryterium stażowe, tj. zalogowanych po raz pierwszy minimum miesiąc przed głosowaniem i mających na swym koncie od czasu pierwszego logowania minimum 100 edycji. W głosowaniu nie może brać udział ani Wikipedysta zgłaszający grafikę do odebrania medalu, ani autor grafiki; mogą oni natomiast brać udział w dyskusji. Głosować można za odebraniem medalu, przeciw lub wstrzymać się od głosu. Głosy oddane po terminie oraz głosy użytkowników niespełniających kryterium stażowego i tzw. pacynek nie są liczone. 4. Grafika traci medal jeżeli w głosowaniu brało udział co najmniej 10 wikipedystów, a z pośród wszystkich oddanych głosów (za, przeciw i wstrzymujacych się), 60% głosów zostało oddanych za odbraniem medalu. Po zakończeniu głosowania należy zarchiwizować dyskusję, a w przypadku odebrania medalu usunąć grafikę z galerii, kolejki wyświetlania na stronie głównej oraz na stronie grafiki zamienić szablon "gmedal" na szablon informujący o odebraniu medalu.</p>
+        <p xml:id="p-2">Sposób wprowadzania propozycji po przegłosowaniu</p>
+        <p xml:id="p-3">W razie przyjęcia możliwości odbierania medalu wraz z regulaminem na stronie dodany zostanie podpunkt z zasadami odbierania medalu, wprowadzony zostanie również szablon dla grafik, które utraciły medal. Głosowania za odebraniem medalu będą odbywać się na tej samej stronie co głosowania za przyznaniem medalu. Przyjęty regulamin będzie obowiązywał bez zmian przez okres minimum 3 miesięcy, po czym będzie można dokonywać w nim zmiany na ogólnie przyjętych zasadach wprowadzania zmian w regulaminie grafik na medal.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

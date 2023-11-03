@@ -1,0 +1,14 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">A jak ta partia rządziła, to jest nadal problem do rozjaśnienia i dogłębnego poznania. I wcale nie chodzi tu o jakiś rewanżyzm i zemstę na obozie rządzącym Polską w latach 2005-2007, a o wiedzę, jak to wszystko naprawdę wyglądało, bo przecież widzieliśmy tylko co nieco, w ogólnym zarysie bądź tylko w szczegółach, które ujawniały się nieoczekiwanie w różnych miejscach i w różnych sprawach. Czy to przy okazji taśm pani poseł Beger, czy to wtedy, gdy zaczął swoje Ø opowiadać minister Kaczmarek albo zdymisjonowany po raz pierwszy i po raz drugi wicepremier Lepper.</p>
+        <p xml:id="p-2">Zresztą, gdziekolwiek oko by się zatrzymało, na którymkolwiek resorcie czy froncie działania PiS - czy to w MON, czy w MSZ, w Ministerstwie Sprawiedliwości, w sporcie, czy w telewizji i radiu - wszędzie właściwie dostrzec można było rzeczy bardzo niepokojące. Ale wszystkie te zdarzenia i relacje tworzą tylko kontury obrazu.</p>
+        <p xml:id="p-3">Nauki z lat ostatnich powinny układać się według kilku porządków. Jest porządek instytucjonalny, porządek prawa, Ø zapisanych reguł i Ø procedur. Zobaczyliśmy, jak jest on dziurawy i niepełny, jak łatwo go nadużyć i wykorzystać do swoich politycznych celów, jak mało w nim wewnętrznych gwarancji i zapór uniemożliwiających niecne praktyki, jak łatwo też go zmieniać, odchodząc od rzeczywistych intencji legislacyjnych. Jeśli jest nam potrzebna jakaś lustracja, to na pewno lustracja prawa, przeprowadzona według jednej zasady: jak chronić demokrację przed władzą lub mówiąc inaczej: jak umacniać państwo, by było ono silne w imieniu tejże demokracji, a nie przeciwko obywatelom. Nie chodzi o taką siłę, która rano wywala nam drzwi, uzbrojona w łomy i kamery telewizyjne, a twarz chowa za kominiarką po to, by swoją Ø mógł pokazać na konferencji prasowej pan minister.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

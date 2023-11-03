@@ -1,0 +1,17 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">13 marca 2006</p>
+        <p xml:id="p-2">Przedstawiciele Pi. S złożyli do laski marszałkowskiej projekt uchwały o powołaniu komisji śledczej, która ma zbadać działalność NBP, KNB oraz GINB w latach 1989-2006.</p>
+        <p xml:id="p-3">14 marca 2006</p>
+        <p xml:id="p-4">Francuski kontrakt pierwszego zatrudnienia jest przyczyna starć ulicznych w wielu miastach Francji, głównym jednak miejscem wydarzeń pozostaje Paryż i okolice Sorbony, gdzie manifestowało 4 300 studentów i licealistów. Jacques Chirac, przebywający aktualnie w Berlinie, wyraził swoje całkowite poparcie dla projektu ustawy dot. ww. kontraktu oraz dla polityki prowadzonej przez obecnego premiera Francji, Dominique'a de Villepin. Więcej w . Marszałek sejmu Jurek zwołał w trybie pilnym posiedzenie sejmu, aby rozpatrzyć wniosek o przyjęcie rezolucji wzywającej KNB to działania zgodnie z prawem. Podczas debaty prezes PO, Tusk porównał szefa Pi. S, Jarosława Kaczyńskiego do lidera Samoobrony, Leppera twierdząc, że dziś to Kaczyński mówi "Balcerowicz musi odejść". W odpowiedzi Kaczyński oskarżył posłów PO o "lumpenliberalizm" . .</p>
+        <p xml:id="p-5">15 marca 2006</p>
+        <p xml:id="p-6">Podczas debaty sejmowej premier Marcinkiewicz ujawnił list ABW do przedstawicieli KNB. Tajne służby doniosły, iż Unicredito nakazało funduszom inwestycyjnym związanym z bankiem Pekao aby wstrzymały się od obrotu akcjami banku BPH. Ostrzeżenie było o tyle absurdalne, że zamrożenie obrotu akcjami spółki przejmowanej to wyraźna polityka mająca na celu uniknięcie podejrzeń o posługiwanie się informacjami niejawnymi (tzw. insider trading ) - które jest karane. Sejm przyjął rezolucję wzywającą KNB do poszanowania prawa podczas podejmowania decyzji w sprawie fuzji Pekao oraz BPH. Blokujące działania rządu po raz kolejny spotkały się z potępieniem Komisji Europejskiej. KNB odłożyła na wniosek przedstawiciela Ministerstwa Sprawiedliwości na trzy tygodnie decyzję dotyczącą połączenia banków.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

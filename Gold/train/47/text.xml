@@ -1,0 +1,18 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">4. Minister właściwy do spraw szkolnictwa wyższego odmawia zatwierdzenia statutu w razie stwierdzenia jego niezgodności z prawem. Przed podjęciem decyzji o odmowie zatwierdzenia statutu minister wzywa uczelnię publiczną do usunięcia niezgodności z prawem. Minister zatwierdza statut nie później niż w ciągu sześciu miesięcy od dnia otrzymania statutu w prawidłowym brzmieniu.</p>
+        <p xml:id="p-2">5. Przepisy ust. 1-4 stosuje się odpowiednio do uczelni wojskowych, służb państwowych, artystycznych, medycznych oraz morskich, z tym że uprawnienia ministra właściwego do spraw szkolnictwa wyższego wykonują odpowiednio ministrowie wskazani w art. 33 ust. 2.</p>
+        <p xml:id="p-3">Art. 57. 1. Minister właściwy do spraw szkolnictwa wyższego zatwierdza statut publicznej uczelni teologicznej, niespełniającej wymagań określonych w art. 56 ust. 2, w porozumieniu z właściwymi władzami kościołów i związków wyznaniowych.</p>
+        <p xml:id="p-4">2. Statut publicznej uczelni teologicznej spełniającej wymagania określone w art. 56 ust. 2 jest uchwalany przez właściwy organ uczelni w porozumieniu z właściwymi władzami kościołów i związków wyznaniowych.</p>
+        <p xml:id="p-5">3. Przepisy ust. 1 i 2 stosuje się odpowiednio do innych uczelni publicznych, w których działa teologiczna podstawowa jednostka organizacyjna, z tym że porozumienie z właściwymi władzami kościołów i związków wyznaniowych dotyczy tylko postanowień statutu związanych z funkcjonowaniem teologicznej podstawowej jednostki organizacyjnej.</p>
+        <p xml:id="p-6">Art. 58. 1. Statut uczelni niepublicznej nadaje jej założyciel albo uchwala organ kolegialny uczelni wskazany w statucie, z zastrzeżeniem art. 24 ust. 1.</p>
+        <p xml:id="p-7">2. Statut uczelni niepublicznej określa sposób przejęcia funkcji założyciela w razie jego śmierci, jeżeli jest osobą fizyczną, albo likwidacji, jeżeli jest osobą prawną, oraz zasady i tryb likwidacji uczelni, z uwzględnieniem zobowiązań założyciela uczelni w przypadku jej likwidacji. Przejęcie funkcji założyciela wymaga zgody ministra właściwego do spraw szkolnictwa wyższego wyrażonej w formie decyzji administracyjnej.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

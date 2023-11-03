@@ -1,0 +1,14 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Liczba włamań do obiektów sakralnych od kilku lat nieznacznie rośnie. Co roku policja notuje w całym kraju około 100 kradzieży. W 2004 r. skradziono z kościołów 51 obrazów i 45 przedmiotów kultu religijnego (rzeźby, kielichy, świeczniki, naczynia liturgiczne i monstrancje). Wykrywalność tych przestępstw wyniosła 28 proc. - wynika z oficjalnych statystyk Komendy Głównej Policji.</p>
+        <p xml:id="p-2">Swoisty rekord złodzieje pobili w 2002 r., włamując się aż do 39 kościołów na terenie powiatu wadowickiego. Seria kradzieży trwała do połowy 2003 r. Wówczas w powiecie wadowickim policjanci odkryli dziuplę, w której znajdowało się kilkaset sakraliów, m.in. rzeźby, figurki aniołków, lichtarze, świeczniki, obrazy, ozdobne rozety i lampiony. Część Ø pochodziła z kradzieży z kościołów i kapliczek na terenie Małopolski, ale były też sakralia skradzione w innych rejonach Polski. Przywiozły je do komendy wojewódzkiej w Krakowie... dwie ciężarówki. Kolejne kilkadziesiąt dzieł sztuki znaleziono w antykwariatach. Odzyskano tam m.in. XVII-wieczne kolumny z aniołami, ozdoby ołtarza z wizerunkami świętych oraz figurki aniołków, które znajdowały się na Liście Światowego Dziedzictwa UNESCO. Zatrzymano wówczas 6 osób. Jak ustaliła policja, wszyscy działali na zlecenie pasera, który mieszkał w centralnej Polsce.</p>
+        <p xml:id="p-3">- On dawał zlecenie: w konkretnym kościele trzeba było ukraść konkretne przedmioty, pozostawić je w umówionym miejscu i w ten sposób odebrać pieniądze - mówi mł. insp. Dariusz Nowak, rzecznik małopolskiej policji.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

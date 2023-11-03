@@ -1,0 +1,18 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">3:49 3:48 3:47</p>
+        <p xml:id="p-2">Cyfry na wyświetlaczu metalowego, srebrzystego zegara nieubłaganie zbliżały się do zera. Janusz Czerwiński, prezes firmy Astra Tech, wiedział, że ta skrzynka będzie ostatnią rzeczą, na jaką patrzy. Zostało mu tylko kilka minut.</p>
+        <p xml:id="p-3">- Potrafię to rozbroić, dam radę, na pewno dam radę - szeptał sam do siebie. Jednak w tych słowach więcej było bezradności niż nadziei.</p>
+        <p xml:id="p-4">Nie żeby nie potrafił. O to był spokojny: tak prosty mechanizm zegarowy umiał unieruchomić w dwie, trzy minuty. Zanim został prezesem, przez dwadzieścia lat pracował jako naukowiec, fizyk i elektronik. Był jednym z najlepszych w kraju. Nagroda dla najmłodszego profesora fizyki, stypendium w słynnym Massachusetts Institute of Technology, wykłady w Tokio, Londynie i Paryżu. Nagle wszystkie te wspomnienia przesłoniły mu widok czerwonych cyferek na wyświetlaczu. Już o tym kiedyś słyszał umierającemu przed oczami staje całe życie.</p>
+        <p xml:id="p-5">Słabł coraz bardziej, czuł, że to kwestia zaledwie minut. Ponad godzinę temu został zabity z zimną krwią. Zabójca Ø wstrzyknął mu potężną dawkę akonityny. Trucizny, która działała wolno, lecz nieodwracalnie.</p>
+        <p xml:id="p-6">3:01 3:00 2:59</p>
+        <p xml:id="p-7">We wspomnieniach szybko powrócił do swego ostatniego, największego w karierze sukcesu: lasera fotonowego; wynalazku, który mógł zmienić świat bardziej niż broń atomowa, internet albo telewizja. To z tego powodu leżał na podłodze w laboratorium. Sam, bez szansy na pomoc.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

@@ -1,0 +1,16 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">27 lat - tyle czekaliśmy, aż polski tenisista przebije się do 1/8 finału w Wielkim Szlemie. W 1982 roku po raz ostatni w karierze dokonał tego Wojciech Fibak, który osiągnął identyczny rezultat w Roland Garros. Przegrał wówczas po pięciosetowym maratonie z Francuzem Yanickiem Noahem. Później udawało się to już tylko naszym tenisistkom.</p>
+        <p xml:id="p-2">- W ogóle nie mogę używać bekhendu. Nic bym nie zdziałał. Nie było sensu ryzykować poważniejszej kontuzji - tłumaczył Jużnyj dodając, że uraz to efekt 5-godzinnej batalii w I rundzie z Richardem Gasquetem.</p>
+        <p xml:id="p-3">- Szkoda, nigdy nie cieszy mnie pech moich rywali - przyznał Kubot, którego czekało w 1/8 finału bardzo trudne zadanie. Z Djokoviciem grał do tej pory dwa razy i nigdy nie wygrał. Nie jest jednak bez szans. W maju ubiegłego roku stoczył z Serbem wyrównany pojedynek w finale turnieju w Belgradzie.</p>
+        <p xml:id="p-4">Kubot powalczy o ćwierćfinał również w deblu, w którym dotarł rok temu w Melbourne aż do półfinału. Rywalami Polaka i Austriaka Olivera Maracha będą we wtorek Chorwat Ivo Karlović i Serb Dusan Vemić.</p>
+        <p xml:id="p-5">Niewiele dobrego można za to napisać o grze Agnieszki Radwańskiej, która wciąż nie wyleczyła się z kompleksu Schiavone. To był czwarty mecz z Włoszką i czwarta porażka. Polka gra jeszcze w deblu razem z Marią Kirilenko z Hiszpankami Nurią Llagosterą Vives i Marią Jose Martinez Sanchez (rozstawione z 3.).</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

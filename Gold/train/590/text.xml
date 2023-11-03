@@ -1,0 +1,20 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Odliczaj póki można</p>
+        <p xml:id="p-2">Sejm zaakceptował plan powszechnego cięcia prawie wszystkich ulg podatkowych. Teraz kolejne decyzje zależą od Senatu i prezydenta. Małe są jednak szanse, by cokolwiek się zmieniło. Dlatego powinniśmy postępować tak, jakby sprawa została przesądzona i już teraz wykorzystać istniejące jeszcze możliwości</p>
+        <p xml:id="p-3">Ulga remontowa bez pośpiechu</p>
+        <p xml:id="p-4">Aktualna ulga obowiązuje przez lata 2003-2004-2005. Parlament nie może jej nam odebrać, bo prawo nie może działać wstecz. Warto z niej skorzystać pod koniec roku tylko dlatego, że w 2004 r. do 22 procent ma zostać podniesiony podatek VAT na materiały i usługi budowlane</p>
+        <p xml:id="p-5">Limity są wysokie, bo przez najbliższe trzy lata możemy odliczyć wydatki sięgające 25 tysięcy złotych. Maksymalne odliczenie (19 proc. wydatków) może wynieść 4725 zł przy mieszkaniu lub 5670 zł przy remoncie domu</p>
+        <p xml:id="p-6">Komputer i prenumerata</p>
+        <p xml:id="p-7">Nie będzie ulgi związanej z zakupem przyrządów i pomocy naukowych potrzebnych do pracy zawodowej. Jeżeli zatem prenumerujemy fachowe pisma, lub zamierzamy to robić, koniecznie załatwmy to w tym roku. Również w tym roku wymieńmy komputer na nowszy (nawet na raty lub kredyt, byleby faktura była tegoroczna). Maksymalne odliczenie wynosi 433,20 zł (19 proc. z kwoty 2280 zł poniesionych wydatków). Ulga jest przypisana do każdej osoby pracującej na etacie, a zatem mąż i żona mają prawo do odliczenia w sumie 866,40 złotych</p>
+        <p xml:id="p-8">Kursy i szkolenia</p>
+        <p xml:id="p-9">Podatnicy nie będą mogli w przyszłym roku korzystać z ulg podatkowych z tytułu opłat za kursy językowe, płatne szkolenia i kursy kwalifikacyjne. Jednak można będzie się edukować z ulgą także w przyszłym roku, jeśli rachunek zapłacimy do końca grudnia 2003 r. Ponieważ limit wydatków podlegających odliczeniu wynosi 2280 zł, nie wpłacajmy więcej (możemy to zrobić w przyszłym roku), bo i tak maksymalnie odpiszemy w zeznaniu 19 procent podanej wyżej kwoty</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

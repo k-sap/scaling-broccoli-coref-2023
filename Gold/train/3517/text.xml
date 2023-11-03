@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Ryc. 1. Pierwszy polski wortal prasowy</p>
+        <p xml:id="p-2">Wspomniany „mus” dotyczy tzw. prasy centralnej. Ze zdziwieniem stwierdziłem jednak ostatnio, że w ślad Wielkich Tytułów poszła również masowo tak zwana prowincja, czyli prasa regionalna, także ta niskonakładowa. Piszę z niejakim przekąsem – wyjaśniam od razu – „tak zwana prowincja”, mam bowiem nieodparte wrażenie, że nasze stołeczne życie pod wieloma względami w znacznie większym stopniu zasługuje na ten przymiotnik niż życie w miastach wojewódzkich czy nawet wielu mniejszych; ale to tak na marginesie. Wracając jednak do głównego wątku: otóż jest tych pozawarszawskich tytułów obecnych w Internecie nadspodziewanie wiele. Zrobiwszy bardzo szybką i z konieczności pobieżną kwerendę, naliczyłem ich aż 63, czyli przeciętnie cztery na jedno województwo!</p>
+        <p xml:id="p-3">Zanim jednak kilka z tych witryn Czytelnikom przedstawię na bocznej szpalcie, pragnę zwrócić uwagę na dwie ciekawe witryny „zbiorcze” – a to dlatego, że przez nie można z łatwością dotrzeć do sieciowych produktów prasowych z całej Polski. Nie tylko zresztą z tego powodu witryny owe warte są zainteresowania...</p>
+        <p xml:id="p-4">Pierwsza witryna nazywa się Newspaper.pl ( www.newspaper.pl) i ma podtytuł „Internetowy przegląd prasy”, który dokładnie oddaje jej charakter. Znaleźć tu można każdego dnia aktualizowane odnośniki do tytułów głównych artykułów wybranych dużych gazet i czasopism (ich liczba rośnie), ale także ciekawą ankietę oraz sporą liczbę odnośników do witryn poszczególnych redakcji. Co więcej, witrynę tę można bezpłatnie zaprenumerować i otrzymywać co dzień pocztą elektroniczną. Dla „pożeraczy prasy”, do których należy niżej podpisany, rzecz wręcz bezcenna. Gdyby jeszcze redaktorzy tego pierwszego polskiego wortalu prasowego dodawali do każdego odnośnika choć jedno zdanie o treści sygnalizowanego artykułu... Czegóż na przykład może dotyczyć tytuł „Radźcie sobie sami”? Ot, zgadywanka.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

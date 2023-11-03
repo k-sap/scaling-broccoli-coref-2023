@@ -1,0 +1,19 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">SKOK NA ARCHIPELAG</p>
+        <p xml:id="p-2">Jednym z nielicznych towarów z napisem "Made in Poland" , które można kupić w Dżakarcie, są żarówki Philipsa z Piły. Indonezyjczycy pytają o polskie kryształy, dywany, porcelanę, a nawet sprzęt gospodarstwa domowego.</p>
+        <p xml:id="p-3">- Nasi biznesmeni wiedzą na ogół, gdzie na mapie leży Malezja. Na Indonezję zaś patrzą jakby przez mgłę, a na 190-milionowym rynku zarobić można dużo więcej niż w Malezji - zapewnia Bogusława Barankiewicz, polski radca handlowy w Dżakarcie.</p>
+        <p xml:id="p-4">Kontrakty na "drobnicę" nie zwiększą oczywiście w sposób znaczący naszego eksportu do Indonezji, ale sama obecność polskich towarów rozbudzi zainteresowanie krajem pochodzenia. Po żarówkach, kablach czy wazonach przyjdzie kolej na polskie bloki energetyczne czy maszyny budowlane.</p>
+        <p xml:id="p-5">Choć Indonezję penetrują od lata firmy zachodnie i dalekowschodnie, które rokrocznie lokują tam kilka miliardów dolarów inwestycji, miejsca starczy dla każdego. Warto wpasować się w rynkową lukę, a tych na rozciągniętym między Azją a Australią archipelagu nie brakuje.</p>
+        <p xml:id="p-6">Kawowa dziura</p>
+        <p xml:id="p-7">Jak na razie dużo lepiej radzą sobie w interesach z Polską firmy indonezyjskie. Ich aktywność przewróciła do góry nogami statystyki handlu zagranicznego. Jeszcze przed czterema laty eksportowaliśmy na tamtejszy rynek za blisko 43 mln dolarów, a nasz import sięgał 21,3 mln dolarów. W 1993 r. import wart był prawie 61 mln dolarów, a eksport ledwie 25 mln dolarów.</p>
+        <p xml:id="p-8">Ujemny bilans handlu Polski z Indonezją jest także zasługą naszych prywatnych importerów. - Kiedy dowiedzieli się, że Indonezja ma dobrą i tanią kawę [ok. 1 dolara za kilogram w 1993 r. - przyp. red.] - tłumaczy Bogusława Barankiewicz - import tej używki w zeszłym roku osiągnął kwotę 30 mln dolarów, a więc połowę indonezyjskiego eksportu do Polski.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

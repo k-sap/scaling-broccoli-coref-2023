@@ -1,0 +1,35 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">sp0: wiesz co jeszcze chciałam ?</p>
+        <p xml:id="p-2">sp1: no..</p>
+        <p xml:id="p-3">sp0: żebyś mi dokupiła z pół metra tego bo za mało kupiłam..</p>
+        <p xml:id="p-4">sp1: a gdzie to było. kupowane ?</p>
+        <p xml:id="p-5">sp0: a to w tym sklepie z tkaninami tutaj..</p>
+        <p xml:id="p-6">sp1: na Kilińskiego ?</p>
+        <p xml:id="p-7">sp0: no..</p>
+        <p xml:id="p-8">sp1: ile to kosztuje ?</p>
+        <p xml:id="p-9">sp0: to jest tanie to kosztuje sześć złoty metr..</p>
+        <p xml:id="p-10">sp1: aha a co ty z tego robisz ?</p>
+        <p xml:id="p-11">sp0: no do tej sukienki te pliski i wykończenia. wzięłam za mało i jeszcze mi tak krzywo ucięło wiesz co że ja tego pół metra</p>
+        <p xml:id="p-12">sp1: to ile tego</p>
+        <p xml:id="p-13">sp0: pół metra że nie widziałam. i wiesz co chciałam żebyś dała do obciągnięcia mi guziczki jeszcze. tylko to ci dam..</p>
+        <p xml:id="p-14">sp1: a to sama se szyjesz ?</p>
+        <p xml:id="p-15">sp0: no fastryguję sama no bo jak już naszykuję wszystko to potem przeszycie to będzie chwila nie ?</p>
+        <p xml:id="p-16">sp1: to przeszyć to przecież u nas na maszynie też możesz szyć..</p>
+        <p xml:id="p-17">sp0: tu kawałek ci dam tego. starczy tyle nie na cztery guziki ?</p>
+        <p xml:id="p-18">sp1: ło świat za dużo nawet..</p>
+        <p xml:id="p-19">sp0: no ale mam taki kawałek akurat..</p>
+        <p xml:id="p-20">sp1: a jakie duże ?</p>
+        <p xml:id="p-21">sp0: no zaraz ci powiem. no takie na dwa centymetry. na półtora..</p>
+        <p xml:id="p-22">sp1: no to na pieniądze najpierw mi najlepiej. pięćdziesiąt groszy to było nie ?</p>
+        <p xml:id="p-23">sp0: ja tutaj napiszę średnic no przecież ona będzie wiedziała. średnica półtora centymetra. guziki cztery sztuki..</p>
+        <p xml:id="p-24">sp1: a to na kiedy to mam ci zrobić ? na już ?</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

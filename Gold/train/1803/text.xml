@@ -1,0 +1,14 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Oddzielną grupę symboli szablonów szczególnie chętnie wykorzystywanych przez satyryków stanowi symbolika zwierzęca. Uzwierzęcenie postaw i charakterów ludzkich w karykaturze to rzecz powszechna, dająca artyście większe możliwości podkreślenia, uwypuklenia pewnych cech. Rysunki takie są maską, pod którą kryją się lansowane przez satyryków stereotypy, maską, która je dodatkowo ugruntowuje w świadomości ich odbiorcy. Swoisty bestiariusz w omawianej tutaj karykaturze tworzą takie zwierzęta symbole, jak: świnia, buldog, czarny orzeł, lis czy wilk. Przypomnę choćby rysunek z 1936 roku, odwołujący się do polityki faszystowskich Niemiec wobec państw bałkańskich. III Rzesza uosobiona przez lisa obserwuje stadko gęsi. Czego lis może chcieć od gąsek, wyjaśniać nie trzeba. Jeżeli uświadomimy sobie, że gąski to alegoria Litwy, Łotwy i Estonii, przesłanie karykatury też będzie jasne.</p>
+        <p xml:id="p-2">Oto buldog faszysta i jamnik komunista na wspólnym spacerze. Dobór ras nie był przypadkowy, co uwypukla znaczenie myśli buldoga: Rasa jamników jest parszywa, ale przyjemną czasem bywa. Historia pokazała, że przedstawiony w ten sposób obraz stosunków niemiecko-radzieckich w latach trzydziestych był prawdziwy. Ciekawe jest też zestawienie nacjonalizmu z internacjonalizmem. W ujęciu karykaturzysty obie ideologie, tak charakterystyczne dla tamtych czasów, niekoniecznie w praktyce muszą się tak różnić, jak ich programy. W konformistycznej polityce liczą się tylko korzyści dnia dzisiejszego ("Mucha" 1932)</p>
+        <p xml:id="p-3">Dowcip rysunkowy często bywał niezbyt wybredny. Autor, nie bawiąc się w żadną symbolikę, mówił do swego odbiorcy wprost, jak ocenia Niemca. Przytoczmy chociażby podpis spod obrazka z początku lat dwudziestych: Ech, żeby mi nasz dobry Bóg niemiecki pozwolił ustrzelić na Boże Narodzenie pół kopy Polaków, a na Nowy Rok kopę Francuzów, jakby to było pięknie z jego strony! Trudno o bardziej jasny i dosadny przykład postrzegania Niemców. Natomiast pozytywny stereotyp Niemca w polskiej prasie pojawiał się sporadycznie i dotyczył niemieckiej gospodarności, punktualności, czyli tego wszystkiego, co składa się na tzw. Deutsche Ordnung.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

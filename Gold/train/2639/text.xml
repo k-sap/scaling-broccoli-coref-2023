@@ -1,0 +1,16 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Na parkiecie równie ważna jak umiejętności taneczne jest dumna postawa</p>
+        <p xml:id="p-2">Do sylwestrowej nocy pozostało dokładnie jedenaście dni. Do dobrej zabawy potrzebny będzie humor, efektowny strój i ... znajomość chociażby najbardziej podstawowych kroków. Na każdym parkiecie królować będzie inna muzyka i inne tańce będą tańczone. Na pewno warto umieć wiele, nie mówiąc już o tym, że wypada bezbłędnie rozróżniać walca od tanga, sambę od cha-chy oraz znać charakter światowych standardów. Część z tych, którzy zainwestowali w bal, za sobą ma również sylwestrowy kurs tańca, od dziesięciu lat prowadzony przez Danutę Olendzką w SDK „Tęcza”.</p>
+        <p xml:id="p-3">— Przygotowuję ludzi na bardzo różne sytuacje muzyczne — mówi. — Program Ø obejmuje tańce standardowe i latynoamerykańskie, nie ma bowiem mowy o zatańczeniu tanga, walca wiedeńskiego czy tanga bez znajomości podstawowych kroków i charakterystycznych figur. Oczywiście, zawsze można się pokusić o próbę wytańczenia tych utworów wedle własnego pomysłu, ale jest to trudne. Jeszcze trudniej wydobyć charakter tańców latynoamerykańskich.</p>
+        <p xml:id="p-4">Nauczycielka tańca zapewnia, że z tych ostatnich na pewno na przeciętnym balu zdarzy się nam usłyszeć sambę. Dobry zespół zagra również rumbę.</p>
+        <p xml:id="p-5">Uczestnicy kursów najszybciej jednak uczą się układów do muzyki popularnej. Są to tzw. trójkrok (wersja łatwiejsza) i czwórkrok (trochę bardziej skomplikowana), do których dochodzą bardzo efektowne figury taneczne. Zdaniem Danuty Olendzkiej, z ich znajomością każdy poradzi sobie z tańcem przy ogólnie słyszanej muzyce popularnej.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

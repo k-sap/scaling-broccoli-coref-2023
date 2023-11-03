@@ -1,0 +1,16 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Za miesiąc nie będziemy już mogli wyrzucić starego telewizora czy pralki na śmietnik, ale trzeba je będzie oddać do sklepu (oczywiście jeśli stary telewizor lub pralkę będziemy chcieli zostawić w domu, nikt nam tego nie zabroni). Sklepy będą musiały stary sprzęt od nas przyjąć i zapewnić jego przewóz do zakładu utylizacji. Co ważne, handlowcy nie będą mogli żądać od nas za to zapłaty. Pozbyć się zużytych produktów będziemy mogli tylko i wyłącznie kupując w danym sklepie nowe modele (pralkę za pralkę, lodówkę za lodówkę, telewizor za telewizor).</p>
+        <p xml:id="p-2">Niektórzy już oddają</p>
+        <p xml:id="p-3">Jak ustaliliśmy, większość sklepów w naszym regionie już przyjmuje stary sprzęt od swoich klientów. Niepotrzebne rzeczy oddaje teraz około 10 procent kupujących. Niektóre sklepy odbierają je za darmo, inne liczą sobie za transport. W kołobrzeskim salonie sieci "Euro" te dodatkowe opłaty wahają się - w zależności od rodzaju przewożonego towaru - od 20 do 50 zł. - Wiemy, że od lipca będziemy musieli to robić bezpłatnie. Najpewniej za kilka dni szczegółową instrukcję w tej sprawie dostaniemy z centrali w Warszawie - mówi Rafał Fir, kierownik sklepu.</p>
+        <p xml:id="p-4">Przyjęcie zużytego sprzętu i jego przetworzenie oznaczają dodatkowe koszty dla sklepów. Czy handlowcy przypadkiem nie będą chcieli poszukać tych pieniędzy w kieszeniach klientów?</p>
+        <p xml:id="p-5">- Na razie nie przewidujemy żadnych podwyżek - zapewnia Marlena Imańska, kierowniczka sklepu "Domar" w Koszalinie. Dodaje, że już co najmniej od półtora roku jej pracownicy za darmo przyjmują od klientów zużyte telewizory, pralki i lodówki. - Poradzimy sobie, nawet jeśli sprzętu będzie więcej. Nie sądzę, aby sytuacja okazała się na tyle trudna, że zmusi nas do wprowadzenia wyższych cen - podkreśla.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

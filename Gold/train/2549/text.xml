@@ -1,0 +1,19 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">W trzecim wątku łapówkarskiej afery oskarżone są w sumie 62 osoby. 46 przyznało się do wręczenia w 1999-2000 roku pieniędzy w zamian za zaświadczenia lekarskie i dobrowolnie poddało się karze. Jak ustaliła prokuratura, łapówki przekazywali Annie B., byłej pracownicy służby zdrowia. Ta, po uszczknięciu dla siebie części pieniędzy, przekazywała je dalej lekarzom – psychiatrze Wiesławie K. i chirurgowi ortopedzie Władysławowi Ż.</p>
+        <p xml:id="p-2">– Lekarze fałszowali dokumentację medyczną. Wpisywali rzekome przypadłości i wymyślali historię leczenia – uważa świdnicka prokuratura okręgowa, która skierowała do sądu w sumie cztery akty oskarżenia w medycznej aferze.</p>
+        <p xml:id="p-3">Najmniej, kilkadziesiąt do kilkuset złotych, kosztowało lewe zaświadczenie lekarskie, na którego podstawie skazani zwalniali się z pracy. Około 2 tys. zł trzeba było wyłożyć za fałszywą historię choroby, dzięki której oskarżeni załatwiali sobie odroczenie, bądź zwolnienie z odbycia służby wojskowej. Nawet kilka tysięcy płacili za kompletną dokumentację, którą okazywali lekarzom orzecznikom Zakładu Ubezpieczeń Społecznych. Ci przyznawali im renty.</p>
+        <p xml:id="p-4">– To było wyłudzenie – orzekł sąd.</p>
+        <p xml:id="p-5">Wina bez wątpliwości</p>
+        <p xml:id="p-6">W piątek sąd skazał 46 osób na kary więzienia od pół roku do roku i 10 miesięcy w zawieszeniu – odpowiednio na dwa i trzy lata. Nałożył grzywny od kilkuset do tysiąca złotych, zasądził również kilkusetzłotową opłatę.</p>
+        <p xml:id="p-7">Proces w tej części przebiegł ekspresowo. Mimo że pierwsza rozprawa odbyła się 7 stycznia, w piątek zapadły już wyroki.</p>
+        <p xml:id="p-8">– Wina oskarżonych i ich zachowanie nie budzi wątpliwości – wyjaśnił sędzia Socha.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

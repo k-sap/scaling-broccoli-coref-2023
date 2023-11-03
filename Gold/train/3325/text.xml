@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">To prawda, że głupiemu szczęście sprzyja, że jak dotąd bardzo wiele ciężkich wykroczeń przeciw naturze uszło nam płazem. W końcu Europę ogołociliśmy z wielkich borów i puszcz praktycznie bezkarnie, wiele gatunków zwierząt, nie mówiąc już o roślinach, wytępiliśmy, nie wywołując kataklizmu. Ale, o czym wie każdy hazardzista, im dłuższe pasmo powodzeń, tym prawdopodobniejszy jego kres, tym okrutniejszy, im wyżej podnosimy stawkę po każdym powodzeniu. Tragedia polega na tym, że owocami dotychczasowych wygranych podzieliliśmy się nadzwyczaj niesprawiedliwie i nieprzewidująco.</p>
+        <p xml:id="p-2">Pisałem już o tym w tych felietonach, że - w pierwszym przybliżeniu - miarą dobrobytu jest ilość zużywanej energii: w jedzeniu, opale (klimatyzacji), transporcie, dobrach konsumpcyjnych, usługach, lecznictwie itd. Ciągle tak jest, że 1/6 ludzkości zużywa 5/6 wytwarzanej na świecie energii. Drogę do poprawy losu pokrzywdzonych wskazujemy jedną: intensywniejszy udział w globalnej gospodarce rynkowej. Aby skorzystać z tej drogi, trzeba mieć co sprzedawać. Sprzedaje się więc szlachetne gatunki drewna, choć nie znamy skutecznej metody odnawiania ich zasobów, nawet gdybyśmy dysponowali niezbędnym czasem. Aby mieć co sprzedawać, sadzi się lasy eukaliptusowe, bo przyrost masy jest w nich najszybszy; wiszące nad nimi w każdy upalny dzień chmury oparów związków eterycznych może zapalić byle iskra, byle piorun uderzający, zanim opad burzowy oczyści powietrze. Aby mieć co sprzedawać, rolnicy Kalimantanu i Sumatry wypalają dżunglę i sadzą plantacje palm olejowych. A chłopi kolumbijscy (i nie tylko!) zasiewają pola rośliną o pięknej łacińskiej nazwie papaver somniferum i równie pięknych, choć nietrwałych kwiatach. Żadna inna uprawa nie przynosi im takiego zysku.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

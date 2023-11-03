@@ -1,0 +1,58 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">KAMIL</p>
+        <p xml:id="p-2">Albo liścik. Można dołączyć do kwiatów.</p>
+        <p xml:id="p-3">Zaskoczony Karol przygląda się Kamilowi.</p>
+        <p xml:id="p-4">KAROL</p>
+        <p xml:id="p-5">Wiersz?</p>
+        <p xml:id="p-6">KAMIL</p>
+        <p xml:id="p-7">Wszystkie na to lecą... Mnie się zdarza czasami coś napisać... to wiem, co mówię... Kobiety są romantyczne... A wiersze je strasznie kręcą...</p>
+        <p xml:id="p-8">Karol śmieje się.</p>
+        <p xml:id="p-9">KAROL</p>
+        <p xml:id="p-10">Tylko jest mały problem...</p>
+        <p xml:id="p-11">KAMIL</p>
+        <p xml:id="p-12">Jaki?</p>
+        <p xml:id="p-13">KAROL</p>
+        <p xml:id="p-14">Nie jestem poetą.</p>
+        <p xml:id="p-15">KAMIL</p>
+        <p xml:id="p-16">Mógłbym spróbować coś napisać.</p>
+        <p xml:id="p-17">KAROL</p>
+        <p xml:id="p-18">Za ile?</p>
+        <p xml:id="p-19">KAMIL</p>
+        <p xml:id="p-20">No coś ty! Nie obrażaj mnie! Ja tak, jak pan Lucjan, chętnie popracuję w szczytnym celu.</p>
+        <p xml:id="p-21">KAROL</p>
+        <p xml:id="p-22">Zastanawia się.</p>
+        <p xml:id="p-23">To byłby niezły wypas... Kwiatki plus poezja...</p>
+        <p xml:id="p-24">KAMIL</p>
+        <p xml:id="p-25">Naprawdę ktoś dla waszej naczelnej zastawił cały hol kwiatami?</p>
+        <p xml:id="p-26">KAROL</p>
+        <p xml:id="p-27">Stary, tak tu capiło jak w domu pogrzebowym.</p>
+        <p xml:id="p-28">wraca Lucjan</p>
+        <p xml:id="p-29">KAROL</p>
+        <p xml:id="p-30">Panie Lucjanie, co się stało?!</p>
+        <p xml:id="p-31">LUCJAN</p>
+        <p xml:id="p-32">Przejęty</p>
+        <p xml:id="p-33">Pani Janeczka... Jest w szpitalu... Coś z sercem...</p>
+        <p xml:id="p-34">KAROL</p>
+        <p xml:id="p-35">Cholera! To coś poważnego?</p>
+        <p xml:id="p-36">LUCJAN</p>
+        <p xml:id="p-37">Mówią, że tak... Musze do niej jechać.</p>
+        <p xml:id="p-38">Do siebie.</p>
+        <p xml:id="p-39">Mój Boże... Mój Boże...</p>
+        <p xml:id="p-40">KAMIL</p>
+        <p xml:id="p-41">Panie Lucjanie, czy mogę panu jakoś pomóc?</p>
+        <p xml:id="p-42">LUCJAN</p>
+        <p xml:id="p-43">Zostań w kiosku, Kamilku. Ja nie wiem, kiedy wrócę.</p>
+        <p xml:id="p-44">W oczach Lucjana łzy.</p>
+        <p xml:id="p-45">LUCJAN</p>
+        <p xml:id="p-46">Do Kamila, wzruszony.</p>
+        <p xml:id="p-47">Wiesz, Kamilku... Pani Janeczka... Ona... To jest dla mnie najważniejsza na świecie osoba...</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

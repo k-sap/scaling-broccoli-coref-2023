@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Wstydziłam się, już mogłam spuścić ręce - przeszłam ulicę gen. Zajączka, już spotykałam od czasu do czasu ludzi na ulicy, ale tak się krępowałam, że mimo głodu nie miałam odwagi wziąć kawałka chleba zabranego zwłokom leżącym z szeroko otwartymi oczyma na moście kolejowym.</p>
+        <p xml:id="p-2">Poszłam do domu na wpół już żywa, zmęczona, nerwowo wymęczona, ale tu już nowa czekała na mnie niespodzianka. Przed domem już opowiedziała mi ją Anielcia. Powstańcy zabierają nasze pokoje - urządzą sobie doskonałe strzelnice, sami ukryci, będą czekali na Szwabów, gdy tylko będzie jechała formacja wojskowa, będą strzelali aż miło. Muszę zabrać swoje rzeczy, spakować suknie do waliz, Anielcia mi pomoże, na razie zabierzemy wraz z tłomokiem pościeli, do jej piwnicy. Każdej chwili ona lub Ø siostra wydadzą mi, co mi będzie potrzebne. Najbardziej mi zależało na walizce z listami Józefa - wszystko uporządkowane, przepisane, ponumerowane - rozmówię się z Felą Selcer. Właśnie była w mieszkaniu p. Kulińskiej - okazało się, iż nowa lokatorka jest jej dawną koleżanką - Żydówką, której przyniosła na zmianę bieliznę, buty i ubranie. Nie wtajemniczając jej w szczegóły, powiedziałam, że mam walizkę z robotami stryjenki, bielizną szwajcarską oraz listami. Sama Ci ją zabiorę - i to zaraz, wiesz jak jestem silna, co to dla mnie znaczy? Będę ją trzymała razem z meblami - antykami Romy - pokażę ci gdzie, abyś też wiedziała.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

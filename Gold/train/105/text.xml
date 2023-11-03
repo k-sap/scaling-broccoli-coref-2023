@@ -1,0 +1,23 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">- Tygellinie - rzekł po chwili - ty spaliłeś Rzym! Po zgromadzonych przebiegł dreszcz. Zrozumieli, że cezar tym razem przestał żartować i że nadchodzi chwila brzemienna w wypadki.</p>
+        <p xml:id="p-2">A twarz Tygellina skurczyła się jak paszcza psa gotowego kąsać.</p>
+        <p xml:id="p-3">- Spaliłem Rzym z twego rozkazu - rzekł.</p>
+        <p xml:id="p-4">I poczęli patrzeć na siebie jak dwa demony. Nastała taka cisza, że słychać było brzęk much przelatujących przez atrium.</p>
+        <p xml:id="p-5">- Tygellinie - ozwał się Nero - czy ty mnie kochasz?</p>
+        <p xml:id="p-6">- Ty wiesz, panie.</p>
+        <p xml:id="p-7">- Poświęć się dla mnie!</p>
+        <p xml:id="p-8">- Boski cezarze - odrzekł Tygellinus - czemu mi podajesz, słodki napój, którego mi nie wolno do ust podnieść? Lud szemrze i burzy się, czy chcesz, by poczęli burzyć się i pretorianie?</p>
+        <p xml:id="p-9">Poczucie grozy ścisnęło serca obecnych. Tygellinus był prefektem pretorii i słowa jego miały wprost znaczenie groźby. Sam Nero zrozumiał to i twarz jego oblekła się bladością.</p>
+        <p xml:id="p-10">Wtm wyszedł Epafrodyt, wyzwoleniec cezara, z oznajmieniem, że boska Augusta życzy sobie widzieć Tygellina, albowiem ma u siebie ludzi, których prefekt powinien wysłuchać.</p>
+        <p xml:id="p-11">Tygellin skłonił się cezarowi i wyszedł z twarzą spokojną i pogardliwą. Oto, gdy chciano go uderzyć, pokazał zęby; dał do zrozumienia, kim jest, i znając tchórzostwo Nerona był pewien, że ów władca świata nigdy nie poważy się podnieść przeciw niemu ręki.</p>
+        <p xml:id="p-12">Nero zaś siedział przez chwilę w milczeniu, lecz widząc, że obecni oczekują od niego jakiegoś słowa, rzekł: - Wyhodowałem węża na łonie.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

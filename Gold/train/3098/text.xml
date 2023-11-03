@@ -1,0 +1,50 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">ŁUKASZ</p>
+        <p xml:id="p-2">Dla wszystkich...</p>
+        <p xml:id="p-3">PAWEŁ</p>
+        <p xml:id="p-4">Tu nikogo nie ma! Jestem tylko ja i ty.</p>
+        <p xml:id="p-5">ŁUKASZ</p>
+        <p xml:id="p-6">Nie jestem zbyt wymagający...</p>
+        <p xml:id="p-7">PAWEŁ</p>
+        <p xml:id="p-8">Nie chcę walczyć z tobą.</p>
+        <p xml:id="p-9">ŁUKASZ</p>
+        <p xml:id="p-10">Więc odblokuj mi konto, oddaj kable do komputera i wróć mi władzę w nogach.</p>
+        <p xml:id="p-11">PAWEŁ</p>
+        <p xml:id="p-12">Przecież wiesz, że nie mogę tego zrobić...</p>
+        <p xml:id="p-13">ŁUKASZ</p>
+        <p xml:id="p-14">Oczywiście, że nie, bo potrafisz tylko zabierać!</p>
+        <p xml:id="p-15">PAWEŁ</p>
+        <p xml:id="p-16">Przykro mi...</p>
+        <p xml:id="p-17">ŁUKASZ</p>
+        <p xml:id="p-18">A co ja mam powiedzieć?! Przywiązałeś mnie do tego cholernego fotela. Wiesz, jak się czuję, kiedy codziennie rano próbuję wstać?!</p>
+        <p xml:id="p-19">PAWEŁ</p>
+        <p xml:id="p-20">Twardo</p>
+        <p xml:id="p-21">To nie wstawaj! Czołgaj się, pełzaj, ale zacznij żyć! Spróbuj chociaż!</p>
+        <p xml:id="p-22">ŁUKASZ</p>
+        <p xml:id="p-23">Trochę zdezorientowany słowami Ø ojca, nadrabia miną.</p>
+        <p xml:id="p-24">Po co?</p>
+        <p xml:id="p-25">PAWEŁ</p>
+        <p xml:id="p-26">Pochyla się nad nim, mówi cicho, dobitnie</p>
+        <p xml:id="p-27">Żeby sprawdzić jak to jest, być żywym!</p>
+        <p xml:id="p-28">Scena</p>
+        <p xml:id="p-29">PLENER. NOC. ULICE WARSZAWY. TERESA, KACPER</p>
+        <p xml:id="p-30">Teresa z Kacprem wolno idą wzdłuż parku. Oboje ubrani wieczorowo. Trzymają dystans.</p>
+        <p xml:id="p-31">TERESA</p>
+        <p xml:id="p-32">Wyjątkowo nadęta impreza.</p>
+        <p xml:id="p-33">KACPER</p>
+        <p xml:id="p-34">Żałujesz, że tam byłaś?</p>
+        <p xml:id="p-35">TERESA</p>
+        <p xml:id="p-36">podniecona</p>
+        <p xml:id="p-37">Nie! Wręcz odwrotnie. Jestem zachwycona, że udało mi się coś takiego zobaczyć! Dyskretny urok polityków. Targowisko próżności. Krygowanie się, puszenie... Niekończące się peany... Ochy i achy...</p>
+        <p xml:id="p-38">KACPER</p>
+        <p xml:id="p-39">W czasie takich rautów wychwalanie przeciwników należy do dobrego tonu.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

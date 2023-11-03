@@ -1,0 +1,20 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Jeśli obiekt jest w rejestrze, mamy obowiązek współpracy ze służbą ochrony zabytków. Jedyne co możemy sami zrobić bez obowiązku powiadamiania konserwatora zabytków, to posprzątać i usunąć suche drzewa. Inne prace dotyczące zmian w układzie przestrzennym ogrodu oraz wszelkie planowane dosadzenia czy wycinki należy uzgadniać z konserwatorem.</p>
+        <p xml:id="p-2">I co dalej</p>
+        <p xml:id="p-3">Musimy sobie odpowiedzieć na pytanie, czy sami sobie z kupionym ogrodem poradzimy. A może powinniśmy zwrócić się do fachowca, np. architekta krajobrazu. Zna się on zarówno na dendrologii, jak i ochronie środowiska, dobrze, gdy ma jakieś doświadczenie.</p>
+        <p xml:id="p-4">Jeśli sami podołamy tej pracy, zaczynamy od dokumentacji, która powinna zawierać dwie części: aktualny stan drzewostanu i wszystkich naniesień oraz projekt rewaloryzacji. Wskazane jest uzyskanie jak najwięcej informacji na temat ogrodu. Może znajdziemy jakieś dokumenty, odszukamy ogrodników, którzy go pielęgnowali. Są też katalogi zabytkowych ogrodów. Najlepiej byłoby takie dokumenty otrzymać przy kupowaniu nieruchomości.</p>
+        <p xml:id="p-5">Inwentaryzacja</p>
+        <p xml:id="p-6">Wszelkie prace rozpoczynamy od inwentaryzacji drzewostanu. Pomoże nam ona w uzupełnieniu szaty roślinnej ogrodu – dowiemy się, które drzewa są do usunięcia, przycięcia, leczenia. Dowiemy się także, jak cenne okazy mamy w naszym ogrodzie.</p>
+        <p xml:id="p-7">Przy okazji inwentaryzacji dobrze jest wykonać analizę gleby, która pozwoli zastosować odpowiednie nawozy, np. przed zakładaniem trawnika bądź sadzeniem roślin.</p>
+        <p xml:id="p-8">Rewaloryzacja ogrodu</p>
+        <p xml:id="p-9">Przy rewaloryzacji ogrodu powinniśmy pamiętać, by uzupełniając szatę roślinną, nie zatracić stylu, w którym go założono.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

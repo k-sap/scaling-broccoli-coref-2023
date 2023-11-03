@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Inną ciągle poszukiwaną cząstką jest szósty kwark t, oczekiwany w modelu standardowym. Znamy dość dobrze jego własności przewidywane przez teorię i w niedawnych eksperymentach przeprowadzonych w Laboratorium Fermiego w USA otrzymano pośredni dowód jego istnienia, pozwalający nawet na określenie jego masy na około 174 GeV. Ciągle brak jest jednak bezpośredniej obserwacji hadronu, w który kwark ten byłby wbudowany.</p>
+        <p xml:id="p-2">Kwantowa chromodynamika przewiduje - jak już wspominaliśmy - że silne oddziaływanie między gluonami, związane z ich kolorem, powinno prowadzić do pojawienia się konglomeratów gluonowych nazwanych kulami gluonowymi, glueballami. Jakkolwiek co jakiś czas obiektom zaobserwowanym w fizyce cząstek przypisuje się cechy glueballi, to jednak ciągle jest brak pewnego eksperymentalnego dowodu ich występowania i nadal poszukiwane są one doświadczalnie.</p>
+        <p xml:id="p-3">Teoria silnych oddziaływań przewiduje, że przy dużym zgęszczeniu i wzbudzeniu do wysokich energii materii jądrowej zaczną zanikać granice między zawartymi w niej hadronami, w których uwięzione są kwarki, i powinniśmy otrzymać stan materii w postaci zupy czy plazmy gluonowo-kwarkowej. Powinno to być związane z przejściem fazowym w tej materii, podobnym do przejść między różnymi stanami skupienia. Takich przejść poszukuje się ciągle w zderzeniach ciężkich jonów przy bardzo wysokich energiach. Ma to duże znaczenie nie tylko dla fizyki cząstek, lecz również dla astrofizyki, gdyż teoretycznie taki stan materii przewidywany jest w różnych obiektach kosmicznych i wczesnych stadiach ewolucji Wszechświata.</p>
+        <p xml:id="p-4">Dowodu słuszności Teorii Wielkiej Unifikacji oczekujemy z rozpadu protonu. Niestety w wykonanych obecnie pomiarach takiego rozpadu jeszcze nie zaobserwowano, a wynikający stąd czas życia protonu zaczyna się niepokojąco wydłużać poza obszar wartości przewidywanych przez teorię.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

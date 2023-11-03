@@ -1,0 +1,14 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">W maleńkiej mieścinie umierał staruch, któremu sławę zapewniło parzenie herbaty. Przy łożu konającego zgromadzili się krewni. Czekają, aż mistrz zdradzi im sekret przyrządzania napoju. Trochę go nawet tarmoszą, by wreszcie się odezwał. Po kolejnym ponagleniu rozległ się szept: - Wsypujcie do czajniczka więcej listków.</p>
+        <p xml:id="p-2">Zacząłem od cudzych sekretów, żeby wyjawić swój Ø. Wiem, że to okoliczność obciążająca, ale niech tam: wiele lat życia przesiedziałem w kawiarni. To znaczy w różnych kawiarniach, cukierniach, cukierenkach. Początkowo bez świadomości, że są to instytucje skazane na zagładę - kawiarnia przegrała z knajpą. Dzisiaj w porównaniu z byle pubem jest redutą, z której Ordon ewakuował się pierwszy. Nie czekając aż coś mu zaszkodzi. Najpewniej rachunek.</p>
+        <p xml:id="p-3">Kawiarnia musiała przegrać. Wyobraźnia stolikowców nie dorównuje temu, co za oknem. Nie tylko u nas szwankująca wyobraźnia wywołuje wzruszenie. Wzruszenie ramionami. Gdzie? - w Nowym Jorku Woody Allen zanotował na kawiarnianej serwetce: "Pomysł na opowiadanie: facet się budzi i widzi, że jego papuga jest sekretarzem stanu w ministerstwie rolnictwa..." To ma być pomysł, to ma być groteska? Widzieliśmy bardziej zaskakujące kariery. Gdyby wspomniana papuga należała do AWS i powtarzała po kim trzeba, mogłaby dolecieć jeszcze wyżej. Wypełniając radosnym trzepotem gabinety. Inny przykład - podobno Joanne K. Rowling napisała w kawiarni pierwszy tom cyklu przygód Harry’ego Pottera. Mugole Mugolami, lecz czy pisarka kawiarnianej proweniencji przewidziała, że wymyślone przez nią postacie i rekwizyty zaczną żyć własnym życiem? W sklepie oferującym sprzęt z dziedziny gospodarstwa domowego pańcia poprosiła o miotłę do zamiatania. Sprzedawca spojrzał na nią i grzecznie spytał: - Zapakować czy poleci pani sama?</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

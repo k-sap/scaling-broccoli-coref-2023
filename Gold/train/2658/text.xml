@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Podczas pobytu w Wandzie Czyżycki wykorzystywał każdą chwilę, aby ogrywać się przy stole. Na efekty nie trzeba było czekać długo. W wieku 13 lat odniósł pierwszy sukces - został trzykrotnym mistrzem Polski - w grze pojedynczej, grze podwójnej (z Markiem Migaczem) i drużynowo (wraz z Wiesławem Leśnikiem i Arturem Samkiem) - w kategorii juniorów młodszych.</p>
+        <p xml:id="p-2">- To był początek mojej reprezentacyjnej drogi. Dzięki zwycięstwom w mistrzostwach Polski juniorów młodszych zostałem zakwalifikowany do kadry Polski i pojechałem na mistrzostwa Europy do Czechosłowacji. Niesamowitym przeżyciem było ubranie po raz pierwszy koszulki z orzełkiem na piersi. Tego nie da się opisać. Miałem wtedy 14 lat - wspomina z rozrzewnieniem.</p>
+        <p xml:id="p-3">Czyżycki w mistrzostwach Starego Kontynentu w Czechosłowacji zajął wówczas miejsca 17-24 w grze pojedynczej, zaś w turnieju drużynowym reprezentacja Polski, z myśleniczaninem w składzie, uplasowała się na 13. pozycji. Wtedy w kategorii, w której startował Bogdan grali wszyscy najlepsi szwedzcy tenisiści stołowi - Jan-Ove Waldner (późniejszy wielokrotny mistrz świata, wielokrotny mistrz Europy i mistrz olimpijski z 1992 roku z Barcelony) czy Mikael Appelgren (późniejszy czterokrotny mistrz świata i ośmiokrotny mistrz Europy w kategorii seniorów).</p>
+        <p xml:id="p-4">- To był ogromny sukces, że udało mi się, trenując w takich warunkach, przebić do kadry juniorów. Do Nowej Huty miałem przecież kawałek na treningi. Mogłem trenować góra dwa, trzy razy dziennie. Uzupełniałem je ogrywaniem młodzieży szkolnej przy stole w internacie. Chodziło przecież o to, aby mieć częsty kontakt ze stołem, z rakietką, z piłeczką - dopowiada Czyżycki.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

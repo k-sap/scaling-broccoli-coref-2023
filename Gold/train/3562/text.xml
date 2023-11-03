@@ -1,0 +1,26 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">- Aby uruchomić kwerendę, naciśnij znajdującą się na pasku narzędzi kwerendy ikonę Uruchom ( |). Na ekranie zostaną wyświetlone dane przypominające te pokazane na rysunku 4.4.</p>
+        <p xml:id="p-2">- Przełącz się do Widoku SQL. Tworząca kwerendę instrukcja języka SQL powinna wyglądać następująco:</p>
+        <p xml:id="p-3">- Zamknij okno kwerendy i zapisz ją pod nazwą Film_Zysk.</p>
+        <p xml:id="p-4">Literały SZBD Access umożliwia również dodawanie do wyniku kwerend dodatkowych kolumn, zawierających we wszystkich polach tę samą, określoną wartość.</p>
+        <p xml:id="p-5">Aby utworzyć kwerendę, w której tytuł filmu zostanie oddzielony od daty jego produkcji ciągiem znaków "nakręcony w ":</p>
+        <p xml:id="p-6">- Utwórz nową kwerendę w widoku projektu.</p>
+        <p xml:id="p-7">- Jako tabelę źródłową wybierz tabelę Film.</p>
+        <p xml:id="p-8">- Jako pierwszą kolumnę kwerendy wybierz kolumnę Tytuł, jako trzecią - kolumnę DataPr.</p>
+        <p xml:id="p-9">- W polu drugiej kolumny kwerendy wpisz ciąg znaków "nakręcony w " (w programie Access ciągi znaków muszą być umieszczane w cudzysłowach, w innym wypadku będą traktowane jako identyfikatory obiektów, nazwy zmiennych lub zastrzeżone słowa kluczowe). Gotowy projekt kwerendy został pokazany na rysunku 4.5.</p>
+        <p xml:id="p-10">- Uruchom kwerendę, a następnie przełącz się do Widoku SQL. Definicja kwerendy powinna wyglądać następująco:</p>
+        <p xml:id="p-11">- Zamknij okno kwerendy i zapisz ją pod nazwą FilmJDataPr.</p>
+        <p xml:id="p-12">ćwiczenie</p>
+        <p xml:id="p-13">4.4</p>
+        <p xml:id="p-14">Łączenie ciągów znaków</p>
+        <p xml:id="p-15">Zgodnie z regułami teorii relacyjnych baz danych, projektując tabelę, w poszczególnych kolumnach zapisaliśmy niepodzielne, atomowe informacje. Czasami jednak chcielibyśmy połączyć w jednej kolumnie dane przechowywane w kilku kolumnach.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

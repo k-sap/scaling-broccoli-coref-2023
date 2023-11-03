@@ -1,0 +1,17 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">- Pisz na tablicy - żąda nauczyciel.</p>
+        <p xml:id="p-2">- Ale co, przecież nie mam żadnego wzoru do wyprowadzenia - broni się Gośka.</p>
+        <p xml:id="p-3">- Pisz, mówię ci, głupia babo - rozkazuje fizyk. Uczennica zaczyna się plątać. Nauczyciel otwarcie z niej szydzi. Ktoś wybucha histerycznym śmiechem. Gośka rzuca kredę i wybiega z płaczem do toalety.</p>
+        <p xml:id="p-4">- Powiedział mi potem, że córka nic nie umiała, aż cała klasa ryczała ze śmiechu - opowiada pani Pierzchałowa, mama Gośki. - Wiem, że wszystko byłoby inaczej, gdybym posłała córkę do niego na korepetycje. Od 20 lat wszyscy w M. tak robią. Kwiatkowski wybierał sobie kilka osób w klasie, nastawiał im dwój, potem długo nie pytał i wreszcie przed końcem semestru sugerował, że dziecku potrzebne są korepetycje. Wszyscy wiedzieli, że uznaje tylko materiał "przerobiony" przez siebie. Nawet wychowawcy nie chcieli się wstawiać za uczniem, bo mówili, że to tylko pogorszy sprawę. Do dyrektorów Zawadzkiego i Lewickiego nie warto było chodzić na skargę, bo i tak nie wierzyli, a może nie chcieli uwierzyć? Mówili, że pan Kwiatkowski jest trochę surowy, ale uczy dzieci myśleć. Ale on uczył myśleć rodziców.</p>
+        <p xml:id="p-5">Lekcja rozsądku</p>
+        <p xml:id="p-6">W czerwcu ub. roku do kieleckiego kuratorium przyszło niezależnie od siebie sześcioro rodziców prosząc o egzamin sprawdzający dla ich dzieci. Rodzice przebąkiwali o niesprawiedliwym ocenianiu, wymuszaniu korepetycji, psychicznym znęcaniu się nad dziećmi. Kiedy kurator poprosił ich, aby złożyli pisemne oświadczenia, odmówili.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

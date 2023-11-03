@@ -1,0 +1,16 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">W Ustroniu udało się przygotować około 16-17 piosenek.</p>
+        <p xml:id="p-2">- Część z nich jest już w takiej formie, że można nagrywać w studiu, bez specjalnego grzebania w nich. Część zaś wymaga pracy zespołu z producentem, przede wszystkim w kwestii aranżacji. I na tym zamierzamy się skupić w tym pierwszym tygodniu, który Myslovitz spędzi w Ustroniu - zdradził nam wczoraj Artur Rojek, wokalista Myslovitz.</p>
+        <p xml:id="p-3">- Potem niektórzy z zespołu pojadą najpierw do Lubrzy, tam będzie nagrywana sekcja rytmiczna, a potem do Wrocławia. Samo nagrywanie płyty Myslovitz będzie przebiegać etapowo: najpierw sekcja, potem gitary i tak dalej - dodał lider grupy.</p>
+        <p xml:id="p-4">Partie wokalne będą nagrywane na końcu, około września, już po zakończeniu Off Festivalu w Katowicach, którego Rojek jest pomysłodawcą i dyrektorem artystycznym. Teksty do nowych piosenek Myslovitz dopiero powstaną. Muzycy będą je pisać podczas pobytu w studiu, w dobrze sprawdzonym trzyosobowym składzie: Wojtek Powaga, Przemek Myszor i Artur Rojek. Prace w studiu przy realizacji nowego albumu (pod czujnym okiem Marcina Borsa - producenta płyt m.in. Pogodno, Katarzyny Nosowskiej, HEY, Biff i NO!NO!NO!) zespół Myslovitz zamierza połączyć z normalną działalnością koncertową, która - jak podkreślają członkowie zespołu - najbardziej intensywnie będzie przebiegać w maju, czerwcu i do połowy lipca.</p>
+        <p xml:id="p-5">Zgodnie ze wstępnym założeniem, proces realizacji następcy albumu "Happiness Is Easy" ma się zakończyć na początku października. Nie oznacza to jednak, że nowa płyta Myslovitz ukaże się jeszcze w 2010 roku.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

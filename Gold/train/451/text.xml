@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Dziś jest to także muzeum, muzeum sztuki współczesnej. Nie wiadomo co tu bardziej podziwiać, czy prześliczny ogródek z zadziwiające skomponowanymi kwiatami i kwietnymi krzewami, czy też sale, w których odnajduje się takie piękne obrazy. Zwłaszcza parę obrazów impresjonistycznych (między innymi "mój" Sisley zbliżony do atmosfery niektórych moich opowiadań)...</p>
+        <p xml:id="p-2">Jakież to żywe wszystko, to chodzenie śladami Chopina po tym pięknym mieście. Zwłaszcza że oprowadza mnie jeden z najzagorzalszych chopinologów czeskich i tłumaczy z polskiej literatury Jarosław Simonides. (To ten, wiesz, co tłumaczył mojego Chopina i moje Lato w Nohani).</p>
+        <p xml:id="p-3">Simonides jest jednym z najzagorzalszych admiratorów Chopina - Chopin ma na całym świecie takich przyjaciół, oddanych mu duszą i ciałem. Chyba żaden inny kompozytor nie ma takiej zgrai wielbicieli i admiratorów. Ale tylko jeden Jarosław Simonides odbył wędrówkę do... Poturzyna. Nie zdobył się na to żaden z naszych muzykologów. On jeden przy pomocy kolei, autobusu i własnych nóg dotarł do tej wsi, gdzie mieszkał Tytus Woyciechowski i gdzie parę tygodni spędził Frycek przed wyjazdem za granicę. Dotarł i mimo wszystko wiele jeszcze zobaczył. Między innymi resztki brzozy posadzonej na miejscu tej, o której pisał Chopin w liście do Tytusa. I dopilnował, aby na tym miejscu, obok resztek spalonego dworu, posadzono nową brzozę...</p>
+        <p xml:id="p-4">Obecnie Simonides jest bardzo zajęty. Wraca właśnie z Marjanskych Łaźni, gdzie utworzono małe muzeum chopinowskie. Wbrew wszystkiemu, a zwłaszcza wbrew czasowi przemijającemu i tak bardzo zacierającemu ludzkie ślady na tym padole, raz po raz odnajdujemy jakieś niewiarygodne pozostałości, naprawdę ślady na piasku - które opierają się wszystkim burzom, wszystkim kataklizmom.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

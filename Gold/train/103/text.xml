@@ -1,0 +1,17 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Cieszyła się ze swoich zdolności. Bała się słowa "talent". Ale w najszczerszych rozmowach z samą sobą jednak przyznawała, że tak, nie ma wątpliwości, musi mieć odrobinkę prawdziwego talentu. Inaczej nie byłoby tego wszystkiego. Zośka zresztą, a i jej mąż Adam, utwierdzali ją w tym przekonaniu. To oni przecież wystarali się dla niej o pracę w wydawnictwie. Była im za to dozgonnie wdzięczna.</p>
+        <p xml:id="p-2">Z Zośką zbliżyła się bardzo w ostatnich miesiącach. Przestało jej wreszcie tak dojmująco przeszkadzać, jak to bywało wcześniej, gadulstwo i pogoń myśli przyjaciółki.</p>
+        <p xml:id="p-3">To właśnie Zośka zaproponowała jej przejściowe lokum. U swojej młodszej siostry - Zuźki.</p>
+        <p xml:id="p-4">Rodzice ładnie je nazwali. Zośka i Zuźka. Ładnie.</p>
+        <p xml:id="p-5">To do Zośki i Adama dowlokła się wtedy, po tej koszmarnej nocy w lesie. Wzdrygnęła się na samo wspomnienie. Minęło już od tamtej pory sporo czasu, a ona do dzisiaj nie mogła się uspokoić. Przypomniała sobie przerażenie malujące się w oczach Zośki w chwili, gdy otwierała jej drzwi, i opanowane rzeczowe pytania Adama. Była wtedy w stanie regularnego szoku. Nie potrafiła wykrztusić żadnego sensownego zdania. Stała w progu i nie mogła powstrzymać dygotania całego ciała.</p>
+        <p xml:id="p-6">Dotarła do nich chyba o trzeciej czy czwartej w nocy. Roztrzęsiona nie mogła w windzie trafić palcem w guzik piątego piętra. Wyrwała ich ze snu. Adam jej później powiedział, że był po prostu na sto procent przekonany, iż ktoś ją pobił i zgwałcił. Wprowadzili ją do mieszkania, kazali się rozebrać i umyć, pomagali jej w każdej czynności. Już wtedy, u nich w łazience, kiedy po umyciu twarzy spojrzała w lustro, przeszył ją głęboki lęk. Znów ten głuchy, prawdziwy Ø.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

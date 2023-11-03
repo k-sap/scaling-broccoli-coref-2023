@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Aż tu rządcy po trzydzieści kopiejek od kubika wydało się znienacka za wiele. Zwąchał, że nie każdy się złakomi od świtu do nocy w błocie gmerać, że im tam widać dobrze dojadło, kiedy bez namysłu do takiej roboty się kwapią; po dwadzieścia kopiejek - powiada - to dobrze, a nie, to nie...</p>
+        <p xml:id="p-2">Po chłopach w taki czas nie zarobi, dwór się swoimi ludźmi przy młockarniach i maszynach obywa - przebierać nie ma w czym. Walek po takiej zapowiedzi poszedł do karczmy i schlał się ze złości jak bydlę. Na drugi dzień rano babę wyprał i pojął ze sobą do roboty.</p>
+        <p xml:id="p-3">Od tego czasu - na małym dniu - te same dwa kubiki wyrzucają, od rannego brzasku do szczerej nocy nie ustępując w robocie.</p>
+        <p xml:id="p-4">I teraz oto z dala noc idzie. Dalekie, jasnoniebieskie lasy sczerniały i rozpływają się w pomroce szarej, na wodach blask przygasa, od stojących przed zorzą świerków padają niezmierne cienie, na szczytach wzgórz, po porębach czerwienią się tylko jeszcze gdzieniegdzie to pniaki, to kamienie. Od tych punktów świecących odbijają się małe i nikłe promyki, wpadając w głębokie pustki, jakie tworzy pośród przedmiotów ciemność niezupełna, wibrują w nich, łamią się, drżą przez mgnienie oka i gasną, gasną po kolei. Drzewa i krzewy tracą wypukłości, bryłowatość, kolor naturalny i tkwią w szarej przestrzeni tylko jako płaskie kształty o dziwacznych zarysach, czarne zupełnie.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

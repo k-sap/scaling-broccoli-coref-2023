@@ -1,0 +1,44 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Urszula słodko śpi w swoim pięknym łóżku. Otwierają się drzwi. Wchodzi Szmelc. Ogląda się za siebie i lekkim pstryknięciem palców daje komuś sygnał. Po chwili do pokoju wchodzą we dwóch - Miki i Szmelc.</p>
+        <p xml:id="p-2">MIKI</p>
+        <p xml:id="p-3">podchodzi do łóżka Urszuli, dokładnie ogląda wszystko, co stoi na szafce nocnej,</p>
+        <p xml:id="p-4">szeptem do Szmelca</p>
+        <p xml:id="p-5">Możesz po swojemu. Nie widzę tu nic kardiologicznego.</p>
+        <p xml:id="p-6">SZMELC</p>
+        <p xml:id="p-7">wyciąga broń, zbliża do twarzy Urszuli (która wtedy gwałtownie się budzi) i wrzeszczy</p>
+        <p xml:id="p-8">Ile zrobić dziur w głowie???!!!!!</p>
+        <p xml:id="p-9">Miki krótko śmieje się z Szmelca. Urszula jest przerażona, łapie szybko powietrze.</p>
+        <p xml:id="p-10">SZMELC</p>
+        <p xml:id="p-11">przykłada jej lufę do policzka</p>
+        <p xml:id="p-12">Tylko nie wrzeszcz, rozumiesz?</p>
+        <p xml:id="p-13">Urszula śmiertelnie przerażona potakuje</p>
+        <p xml:id="p-14">MIKI</p>
+        <p xml:id="p-15">spokojnie</p>
+        <p xml:id="p-16">Ma pani pewną szansę przeżyć... Tylko musi pani powiedzieć, kto jest w domu.</p>
+        <p xml:id="p-17">pauza - zbliżenie Urszuli</p>
+        <p xml:id="p-18">URSZULA</p>
+        <p xml:id="p-19">Tylko ja.</p>
+        <p xml:id="p-20">MIKI</p>
+        <p xml:id="p-21">Kogo pani nie wymieniła, to go nie ma. Dobrze rozumiem? Czyli jeśli kogoś znajdziemy, możemy go zabić, bo to nikt.</p>
+        <p xml:id="p-22">URSZULA</p>
+        <p xml:id="p-23">natychmiast</p>
+        <p xml:id="p-24">Na górze jest Ryszard.... W sypialni... To mój zięć... Nikogo więcej nie ma.</p>
+        <p xml:id="p-25">SZMELC</p>
+        <p xml:id="p-26">do Mikiego</p>
+        <p xml:id="p-27">Ale kłamczucha, nie?</p>
+        <p xml:id="p-28">Miki nie może się nie uśmiechnąć</p>
+        <p xml:id="p-29">zbliżenie Urszuli w panice</p>
+        <p xml:id="p-30">cięcie</p>
+        <p xml:id="p-31">Scena</p>
+        <p xml:id="p-32">WNĘTRZE. NOC. HOTEL. POKOJ. MARIA, LESZEK, LAURA.</p>
+        <p xml:id="p-33">drzwi pokoju otwierają się, wchodzi Laura</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

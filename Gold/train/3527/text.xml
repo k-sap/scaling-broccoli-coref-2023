@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Oferta przetargowa, która trafiła do biura fundacji, była adresowana do dyrektora CBŚ a w dodatku została sporządzona, zanim fundacja wysłała oferty kupna do dilerów. Maciej Socha, prezes Fundacji PZU tłumaczy, że Plichtę wyznaczyła Skoda Auto Polska. Diler otrzymał też dodatkowe wsparcie handlowe, jakiego nie uzyskali inni dilerzy skody. Plichta odmówił odpowiedzi na pytanie, czy zna Jarosława Marca.</p>
+        <p xml:id="p-2">Przed tygodniem „Rz” napisała, że zgodę na tak wysoką darowiznę na prośbę ówczesnego szefa KGP Konrada Kornatowskiego podpisał sam ówczesny prezes PZU Jaromir Netzel. Wersją Skoda Elegance z nawigacją miał jeździć dyrektor Marzec. Aby wywiązać się z tak wielkiego zakupu dla policji, zarząd Fundacji PZU w czerwcu zdecydował o sprzedaży jednostek Towarzystwa Funduszy Inwestycyjnych PZU.</p>
+        <p xml:id="p-3">Dwa miesiące wcześniej Fundacja PZU przekazała CBŚ komputery i laptopy wartości 1,3 mln zł netto. Oferty firm wybierano w ramach licytacji ustnej poprzedzonej zapytaniem ofertowym o cenę. Zarząd Fundacji PZU nazywa to przetargiem ustnym. Wygrała firma Consortia, mimo iż od początku były wątpliwości co do realizacji zamówienia. Tydzień później zarząd wycofał się z podpisania umowy i wybrał inną firmę - Action.</p>
+        <p xml:id="p-4">Według informacji "Rz" do końca roku Fundacja PZU podaruje Komendzie Głównej Policji kolejne dziesięć aut, tym razem fordy (dziewięć mondeo i jeden luksusowy galaxy), wartych prawie milion złotych. Zdaniem zarządu fundacji najlepszą cenę zaproponował inny gdański diler - Big AutoHandel. W licytacji ustnej wygrały dwie firmy: Big AutoHandel (na sześć aut) i EuroCar (cztery).</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

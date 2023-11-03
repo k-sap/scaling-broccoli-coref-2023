@@ -1,0 +1,14 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Ale Hanka nie cisnęła się do ludzi, poszła w boczna nawę, pustą całkiem i tak mroczną, że jeno gdzieniegdzie żółciły się złocenia o lodowych, skąpych smugach światła, chciała ostać sam na sam z duszą własną i Bogiem, przyklękła przed ołtarzem Wniebowzięcia, pocałowała ziemię, rozłożyła ręce i wpatrzona w słodką twarz Matki litościwej, zatopiła się w modlitwie.</p>
+        <p xml:id="p-2">Tutaj dopiero wybuchnęła żalami, u tych świętych nóżek Pocieszycielki złożyła przekrwioną ranami duszę w pokorze najgłębszej a dufności bezgranicznej i czyniła spowiedź serdeczną. Przed Matką i Panią całego narodu kajała się z win wszelkich, bo juści, grzeszna była, skoro ją tak Pan Jezus pokarał, grzeszna! A to nieużyczliwa la drugich, a to wynosząca się nad inne, a to kłótliwa a niechluj, a to lubiła i zjeść dobrze, i polenić się, a to w służbie Bożej opieszała - grzeszną była. Krzyczała w sobie rozpalonym, opłyniętym krwią żalem skruchy, że dziw jej serce nie pękło, i błagała o zmiłowanie, za Antkowe ciężkie grzechy i przewiny żebrała miłosierdzia, i tłukła się w serdecznej prośbie jako ten ptaszek, co przed śmiercią ucieka i bije skrzydełkami w szyby, trzepocze się, piuka żałośnie, bych go zratowali.</p>
+        <p xml:id="p-3">Płacz nią wstrząsał i przepalał żar próśb i błagań, z duszy jakby raną otwartą płynął strumień modłów i płakań, co się kiej te krwawe perły rozsuwały po zimnej podłodze.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

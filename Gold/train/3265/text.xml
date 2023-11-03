@@ -1,0 +1,17 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Senator ma jeden żal do Ostrowskiego, bo wkrótce dowiedział się, że jego nowy asystent posługuje się wizytówką z logo Senatu o treści: Marek Ostrowski, doradca przewodniczącego senackiej komisji obrony. O wizytówkach senator dowiedział się dodatkowo w sposób nieprzyjemny - Kancelaria Senatu wystąpiła doń z oficjalnym zapytaniem, czy zezwolił na druk tego typu wizytówek.</p>
+        <p xml:id="p-2">Na cudze konto</p>
+        <p xml:id="p-3">Jeden z byłych senatorów wspomina asystenta społecznego swojego kolegi posła z tego samego okręgu: - Lubił wymachiwać swoją legitymacją. Do mojego biura dochodziły złe sygnały, wymachiwał nią przed nosem policji, kiedy zatrzymała go za przekroczenie prędkości, pokazywał nawet przy wejściach do nocnych lokali, żeby nie płacić za bilet.</p>
+        <p xml:id="p-4">Poseł obecnej kadencji: - Na posiedzeniu komisji siedzą jacyś goście, nie wiem kto i skąd się wzięli, podtykają jakieś papiery, analizy. Raz nawet jeden zakrzyknął: No nie, no co pan robi, jak pan głosuje, panie pośle. Asystent społeczny kolegi - okazuje się później.</p>
+        <p xml:id="p-5">Większość posłów, którzy mieli podejrzanych asystentów, jak Jaskiernia lub Gruszka, nie chcą ich wspominać. Nie mają chwili na rozmowę o nich, zajęci, zabiegani. Inni bagatelizują. Poseł Długosz z posłem Kałamagą zgodnie: - Jak można nawet podejrzewać, że w czasach rządów AWS my, posłowie eseldowskiej opozycji, mogliśmy być w stanie załatwić z szefami Colloseum jakieś interesy!</p>
+        <p xml:id="p-6">Kilka lat temu na jaw wyszły przedziwne układy Ireneusza Sekuły i jego asystenta społecznego. Tylko dlatego, że się pokłócili i skoczyli sobie do gardeł. Wzajemnie podali się do sądu. Mówiło się, że nawet bili się na pięści.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

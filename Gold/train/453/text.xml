@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Od autora</p>
+        <p xml:id="p-2">Zebrane w tej książce szkice i rozmowy powstały w latach 1985-1990. Łączy je wspólny temat: zdrowienie z alkoholizmu za pomocą metody dwunastu kroków, wypracowanej najpierw przez wspólnotę Anonimowych Alkoholików, a następnie zastosowanej w wielu profesjonalnych ośrodkach leczenia uzależnień. Właśnie wzajemne stosunki między profesjonalną służbą zdrowia a wspólnotą AA są drugim głównym tematem tej książki.</p>
+        <p xml:id="p-3">Anonimowi Alkoholicy zadziwili świat przede wszystkim skutecznością. Znaleźli sposób na beznadziejną i nieuleczalną chorobę. I chociaż dzięki AA alkoholizm nie stał się uleczalny, przestał być śmiertelną chorobą. Okazało się, że można z nią żyć, i to nawet szczęśliwie, pod warunkiem zaakceptowania własnej choroby oraz zmiany sposobu życia.</p>
+        <p xml:id="p-4">Anonimowi Alkoholicy odkryli, metodą prób i błędów, że alkoholizm nie jest grzechem ani chorobą woli. Przekonali się, że alkoholizm to nie tylko fizyczne uzależnienie od alkoholu, ale również choroba myślenia i uczuć, na którą mogą skutecznie pomagać metody edukacyjno-terapeutyczne i rozwój duchowy. Doszli do wniosku, że alkohol wcale nie jest głównym problemem alkoholika, toteż leczenie nie kończy się w momencie zaprzestania picia; wręcz przeciwnie, ono się wtedy dopiero zaczyna. Problemem każdego alkoholika jest niedojrzałość emocjonalna, nieumiejętność radzenia sobie z własnymi uczuciami, ze stosunkami z innymi ludźmi. Alkohol jest, skądinąd destrukcyjnym, środkiem do radzenia sobie z życiem. A ponieważ zaprzestanie picia samo przez się nie rozwiązuje żadnych problemów chorego, niemal nieuchronnie prowadzi ono do kolejnego zapicia.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

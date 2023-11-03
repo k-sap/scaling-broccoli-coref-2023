@@ -1,0 +1,18 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Legi Ej no ? Nikt nie gral w to ? No co Wy w takiego kozaka ? Wasza strata</p>
+        <p xml:id="p-2">Sunray CYTAT(Legi @ 1.09.2008, 02:09) "Ej no ? Nikt nie gral w to ? No co Wy w takiego kozaka ? Wasza strata" PS3 kupiłem dopiero jak GTA4 wyszło, a choć DMC4 było na mojej liście zainteresowań, to w najbliższych 3-4 miesiącach wychodzi zbyt wiele tytułów ażebym wracał do tego z tematu</p>
+        <p xml:id="p-3">Morion Nie mam PS3, 3 pamiętam i po tym co widziałem na necie mam pewność że i ta część jest świetna. BTW jak jest jakiś znawca, w którym miejscu w grach można umieścić anime devil may cry?</p>
+        <p xml:id="p-4">labla Devil May Cry 3: Dante's Awakening, Devil May Cry (anime), Devil May Cry, Devil May Cry 4, Devil May Cry 2 - w kolejności chronologicznej.</p>
+        <p xml:id="p-5">Morion hmmm... myślałem że 4 jest ostatnia wyjątkowo i że chociaż tyle poukładane... no ale bardziej pomieszanej serii chyba nie ma Dzięki</p>
+        <p xml:id="p-6">Mathew No jak nie ma a Blood Omen ? Tez pokrecona jak cholera, ale w sumie to nie wazne. Wazniejsza jest gra DMC 4 i jestem ciekaw waszych opinii bo poki co nikt nic nie mowi o samej grze a moze sie skusze po przeczytaniu 1 posta</p>
+        <p xml:id="p-7">labla Gra jest dobra, jeśli ktoś lubi typowe konsolowe siekanki. świetna grafika, chociaż te cienie mogły by być lepsze, no ale przecież nie o to w grach chodzi (przynajmniej dla mnie). Również do sterowania na klawiaturze idzie przywyknąć, ale zdecydowanie polecam zakup pada, nawet takiego za 20 zeta bo i tak wibracje będą tylko w wspieranych padach (pad x360 o ile dobrze pamiętam). No i gra trochę krótka jak dla mnie. Ogólnie mi się nawet podobałą mimo iż nie przepadam za tego typu grami.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

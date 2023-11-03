@@ -1,0 +1,19 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Młodzi jak baranki</p>
+        <p xml:id="p-2">Dom pana Gerharda stoi na samym końcu wsi. Budynek jest stary i stylowy, ale przy oknach odpada tynk. Furtka zamyka się prowizorycznie kawałkiem czarnej gumy.</p>
+        <p xml:id="p-3">- Mam czterech synów - zaczyna siwiutki pan Gerhard. - Wszyscy mądrzy, ułożeni, a Michał, to już w ogóle cichy. Nic nie chce mówić, więc mało wiem. Do szkoły teraz pojechał - dodaje.</p>
+        <p xml:id="p-4">Mężczyzna opiera się o ganek domu i zapala papierosa. Przez 30 lat pracował w leśnictwie. Dziś jest na emeryturze. 916 zł musi wystarczyć na utrzymanie żony i dwóch synów, którzy nadal mieszkają w rodzinnym domu.</p>
+        <p xml:id="p-5">- Jak chciał parę groszy na dyskotekę, to dałem, jak chciał do Słupska, to też znalazły się pieniądze - mówi o najmłodszym synu rozgoryczony sołtys. - Nie wierzę, by połakomił się na 6 zł, które płacą strażakom z OSP za godzinę akcji gaśniczej. W ogóle w to wszystko nie wierzę...</p>
+        <p xml:id="p-6">Pan Gerhard ma żal do słupskiej policji za to, że po zatrzymaniu syna, nie podała prawdziwego powodu zatrzymania. W czwartek, gdy doszło do interwencji policjanci poinformowali, że syn składa wyjaśnienia w charakterze świadka.</p>
+        <p xml:id="p-7">- Mogli powiedzieć, że go podejrzewają - krzyczy pan Michał. - Jeśli taka jest prawda, to chcę ją znać.</p>
+        <p xml:id="p-8">Michał wbrew zapewnieniom policji nie wrócił na noc. Przyjechał do domu w piątek. Całe popołudnie przespał.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

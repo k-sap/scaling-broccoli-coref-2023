@@ -1,0 +1,16 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Przestać bać się o dziecko albo bać się, ale oddalić. Wyrzec się kontroli, iluzji, że ta kontrola w życiu dorosłego dziecka cokolwiek zmieni. Usunąć podpórki, na których dziecko oplata się jak powój. Niech ono naprawdę dorośnie. Nawet upadnie. Upadek na kamieniste dno nie musi oznaczać, że zginie. Doświadczenie dwudziestu lat uczy mnie, że to nieprawda, iż człowiek nie może wykorzystać kolejnej szansy, nawet jeśli pierwszą, drugą, być może dziesiątą zaprzepaścił.</p>
+        <p xml:id="p-2">Pracownica jednego z ośrodków adopcyjnych radzi rodzicom, którym się z dziećmi nie udało, że trzeba przy nich, ale gdzieś w tle, w oddali, stać czekając cierpliwie, aż wreszcie którąś szansę wykorzystają. I że te dzieci muszą o tym staniu wiedzieć.</p>
+        <p xml:id="p-3">Wówczas także przed rodzicami otwiera się szansa. Mogą oni opuścić swoje długoletnie więzienie, którego murami był lęk o dzieci, kratami - wstyd, celami - samotność w cierpieniu, a czas odsiadki często całym ich dotychczasowym życiem. Wyjście z więzienia zbiega się czasem z tą wspaniałą sytuacją, że dziecko bierze w końcu odpowiedzialność za swoje życie rozumiejąc, że ma je tylko jedno. Tak zwykle dzieje się w serialach telewizyjnych. Ale znam prawdziwe rodziny, którym się to zdarzyło.</p>
+        <p xml:id="p-4">Zdjąć włosiennicę?</p>
+        <p xml:id="p-5">I stanąć przed dziećmi twarzą w twarz. Jeśli rodzicielskie winy są rzeczywiste, a nie wymyślone, może prowadzić to do pojednania i odrodzenia się miłości.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

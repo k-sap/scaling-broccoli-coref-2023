@@ -1,0 +1,16 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Kobiety, które nie miały czasu na kwiaty, bo naprawdę ważne były ogrody warzywne po drugiej stronie domostwa, a kwiatowe - to jak Bóg dał, przychodziły latem prosić o zerwanie kwiatów z ogródka do bukietu dla pani na koniec roku szkolnego. Wręczanie kwiatów polnych, choćby najpiękniejszych, nie uchodziło.</p>
+        <p xml:id="p-2">Albo do sypania przez dziewczynki na procesję Bożego Ciała - tu płatki polnych były, owszem, do przyjęcia, lecz musiały w nich być Ø pochodzące z róży i georginii - na okrasę. I co? Kiedy urządzano wiejski ogród Zosi przy ekranizacji "Pana Tadeusza", sprowadzono rośliny w doniczkach wprost z Holandii. Rzadziej buduje się teraz piwnice przy nowych domach, w których można by przechowywać karpy dalii i ubywa starych kobiet do dalii nawykłych.</p>
+        <p xml:id="p-3">Jeszcze się jednak czasem je spotyka - georginie i takie kobiety. Bartosz Dankiewicz, jeden z najlepszych projektantów ogrodów, a zdaniem Mai Popielarskiej mamy w Polsce co najmniej kilkunastu Ø na znakomitym poziomie, zatrzymawszy się po drodze w jakimś zajeździe, został rozpoznany (pokazywał się w telewizji) i poproszony o radę, jak by zmienić ogród przy firmie na miły dla oczu gości. Patrzy i widzi - dalie, mieczyki, malwy, dawne bractwo ogródkowe w pełnej krasie. Proszę, nic nie zmieniajcie - powiedział - ogród macie śliczny.</p>
+        <p xml:id="p-4">Ta mizerota?</p>
+        <p xml:id="p-5">Joanna Wierchowicz, pani sędzia z Gorzowa Wielkopolskiego, zobaczyła w ogrodzie botanicznym w Toronto malwę o kwiatach czarnych jak węgiel. Jako rasowa maniaczka ogrodowa pani Joanna woli odwiedzać miejsca botaniczne niż sklepy z martwym towarem w formie butów, ubrań etc., tak było i tym razem.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

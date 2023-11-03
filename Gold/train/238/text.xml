@@ -1,0 +1,18 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Light-r 2x@up Wcale nie ! @up 13 a co ??</p>
+        <p xml:id="p-2">Stassy 13...To Ø rodzicom powiedz jakie masz problemy na "imprezach". A nawiasem mówiąc co wy za imprezy urządzacie, że "podejrzani mężczyźni" sie tam kręcą?</p>
+        <p xml:id="p-3">KOSMITEK hmm wiec tak (od wiec sie nie zaczyna ale ja zaczne): jak juz bedziesz na imprezie i ci pedofile zaciagna cię w jakis ciemny rog to zasac im kopa w jadra i sie od:cenzura:ia hmm co tam jeszcze sie pytales... a ze dostaniesz ataku dobra zmyslasz wszystko masz jakas manie wlasnego siebie i pewnie nudzi ci sie a wnioskujac z wczesniejszego tematu to bys chcial zeby ktos ci mowil ze jestes ladny. Nie martw sie tez tak kiedys mialem ale mi przeszlo heloł</p>
+        <p xml:id="p-4">Light-r OK...Temat do zamknięcia P.S. Na serio nie zmyślałęm</p>
+        <p xml:id="p-5">KOSMITEK oby wiecej takich tematów skoro nie zmyslales to czemu do zamkniecia? uwazasz ze nie udzielimy ci odpowiedzi na twe pytania? ja juz cie dawno rozkminilem,w koncu chce isc na psychologie</p>
+        <p xml:id="p-6">Stassy KOSMITEK daj spokój on ma 13 lat wyobraźnia dobra rzecz A skoro sobie sam problemy wymysla to znaczy tylko tyle, że prawdziwych nie ma. Cieszmy się jego szczęsciem.</p>
+        <p xml:id="p-7">Duda W innym temacie piszesz co zmienić w wyglądzie żeby się podobać ludziom a tutaj piszesz że jesteś piękny, normalnie powalasz mnie na kolana. Pewnie Noce Elfy z Ashenvale Cię śledzą, uważaj bo niedługo wpadną do Ciebie Orkowie a potem Nieumarli, wtedy będziesz miał przewalone na całej linii.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

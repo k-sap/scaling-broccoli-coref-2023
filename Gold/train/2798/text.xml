@@ -1,0 +1,18 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">damian-tibia Witam! Przedstawiam nowy keylogger Wartibia do gry o nazwie "tibia". Posiada on następujące funkcje : - Kompilowany w delphi. - FWB Omija systemowego Firewala w windowsie xp (Sp2). - Wyciąga dane z pamięci gry (Tibii). - Hasła wysyła na maila. - Banalna konfiguracja, wystarczy wpisać Tylko maila. Instrukcja: Chyba zbędna ale napisze... 1.Odpalamy plik Wartibia 2.Wpisujemy naszego maila 3.Klikamy Generuj 4.Pojawi wam się plik o nazwie Serwer.exe ,którego należy nie otwierać tylko wysłać ofiarze. Pokaże wam kilka fotek jak działa. To jest Ikona generatora: A to są funkcje generatora: Link do pobrania:</p>
+        <p xml:id="p-2">Jutolobu skoro to napisales to moze udostepnisz kod?..cobaczymy co jestwart tek "keylog" przed sciagnieciem go..</p>
+        <p xml:id="p-3">Capellini cr3ator, o ja nie mogę, ale masz długą sygnaturkę!!</p>
+        <p xml:id="p-4">wini_007 Ludzie jak grać to grać fair. Takie jest moje hasło wyborcze xD Myślicie że jesteście najlepsi jak gracie na haxach. Lecz w rzeczywistości jesteście oszustami i kłamcami.</p>
+        <p xml:id="p-5">Nookie Tak samo jak w CS jakieś WH czy coś tam podobnego, cheaterzy normalnie grać nie potrafią. Żałosne.</p>
+        <p xml:id="p-6">wini_007 Dokładnie. Ale ostatnio i Steam,a schackowali. Że normalnie tworzysz se za friko konta ze wszystkimi cs,a mi</p>
+        <p xml:id="p-7">trent KAżdy kto grał w sieciową i jest w miare normalny, nienawidzi ludzie którzy grają na kodach lub hakują... PSujecie gry idioci.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

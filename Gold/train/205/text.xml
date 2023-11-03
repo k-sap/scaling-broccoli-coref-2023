@@ -1,0 +1,22 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">– Dostał pan szansę gry w Manchesterze i zbiera pochlebne opinie. Czy teraz zostanie pan numerem jeden w reprezentacji Polski?</p>
+        <p xml:id="p-2">Tomasz Kuszczak:</p>
+        <p xml:id="p-3">– Zagrałem kilka meczów i selekcjoner zobaczył, w jakiej jestem formie. To dobry moment, by w końcu zagrać w reprezentacji. Pojawiam się tu, żeby grać, a nie, by się tylko przejechać.</p>
+        <p xml:id="p-4">– Chyba dziękuje pan Bogu za szansę, jaką ma w „Czerwonych Diabłach”?</p>
+        <p xml:id="p-5">– Nikomu nie życzę źle i choć teraz, gdy Van der Sar jest kontuzjowany i mam okazję grać, to i tak życzę mu szybkiego powrotu do zdrowia.</p>
+        <p xml:id="p-6">– Ile może potrwać przerwa Holendra?</p>
+        <p xml:id="p-7">– Na to pytanie znają odpowiedź członkowie sztabu medycznego klubu.</p>
+        <p xml:id="p-8">– Czego może się pan jeszcze nauczyć od Van der Sara?</p>
+        <p xml:id="p-9">– Cały czas z nim trenuję i podpatruję, choćby grę nogami, ustawienie w bramce, zachowanie i przygotowanie do meczów. Edwin ma inny styl bronienia niż ja, więc nie mogę od niego „zgapić” wszystkiego. Mam do Holendra olbrzymi szacunek, zagrał setki meczów. Jest to taki „Oscar”, gdy chodzi o piłkę nożną.</p>
+        <p xml:id="p-10">– A podpatruje pan Artura Boruca? Wasz styl też się trochę różni...</p>
+        <p xml:id="p-11">– O Arturze wolałbym się nie wypowiadać. Po prostu nie mnie go oceniać. Chcę uniknąć jakichkolwiek spekulacji. Staram się pokazać wszystko, co mam do powiedzenia poprzez zaangażowanie w trening.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

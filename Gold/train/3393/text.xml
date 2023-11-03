@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Bez większych oporów przyjęto za to regulamin dostarczania wody i odprowadzania ścieków. Bez głosu sprzeciwu przeszły też projekty uchwał w sprawie odpłatności za świadczenie w Publicznym Przedszkolu w Doruchowie, sprzedaży nieruchomości gruntowej w Przytocznicy, ustalenia odpłatności za zajęcie pasa drogowego dróg gminnych oraz zmian w tegorocznym budżecie.</p>
+        <p xml:id="p-2">Temperatura obrad ponownie wzrosła pod ich koniec. Wówczas głos zabrał wójt Józef Wilkosz, który postanowił ustosunkować się do zarzutów skierowanych do niego przez radnego Zbigniewa Broniszewskiego na poprzedniej sesji. Zarzuty dotyczyły koleżeńsko-rodzinno-partyjnych układów, jakie rzekomo mają panować w gminie. Trzeba przyznać, że wójt przyjął dość interesującą linię obrony. Wymieniając z nazwisk znaczną część uczestników obrad, wskazywał bowiem swoje z nimi związki. Raz miały one charakter rodzinny, raz zawodowy, innym razem przybierały formę wspomnień dotyczących wspólnych działań w różnego rodzaju organizacjach i strukturach. Wywody te wywoływały nierzadko wesołość na sali. Manewr ten miał zapewne na celu udowodnienie, że w małej społeczności, jaką niewątpliwie jest Doruchów, trudno o całkowity brak jakichkolwiek powiązań. Wnioskując jednak z wypowiedzi niektórych radnych, efekt było odwrotny od zamierzonego, ponieważ słowa J. Wilkosza odebrali jako potwierdzenie zarzutów Z. Broniszewskiego. Mimo to wszyscy odśpiewali wójtowi chóralne "100 lat" z okazji przypadających kilka dni później imienin, a przew. Joanna Blewąska i jej zastępca Stefan Trzciński wręczyli mu wiązankę kwiatów. Tym uroczystym akcentem zakończyła się, momentami niezwykle gorąca, XXXV sesja Rady Gminy w Doruchowie.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

@@ -1,0 +1,24 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">- początkujący, którzy dopiero uczą się pracy z programem graficznym i popełniają wiele błędów.</p>
+        <p xml:id="p-2">Oczywiście, zadowoli on również użytkowników o średnim stopniu wtajemniczenia.</p>
+        <p xml:id="p-3">Kolaż powstaje przez połączenie obrazków. W tej technice można używać fragmentów grafik. Kłopot może sprawić wyodrębnienie elementu o nieregularnych kształtach. Przydatne Ø okazują się narzędzia umożliwiające zaznaczanie obszarów na podstawie koloru.</p>
+        <p xml:id="p-4">Innym rozwiązaniem jest nakładanie na siebie obrazów i nadanie temu znajdującemu się na wierzchu atrybutu przezroczystości. Tutaj możliwości komputera okazują się nieocenione. Czy wyobrażasz sobie uzyskanie takiego efektu podczas wykonywania kolażu na papierze?</p>
+        <p xml:id="p-5">Jak usunąć tło z obrazka?</p>
+        <p xml:id="p-6">Aby usunąć tło z obrazka:</p>
+        <p xml:id="p-7">1. Uruchom program Corel Paint Shop Pro Photo X2.</p>
+        <p xml:id="p-8">2. Odszukaj w Organizerze zdjęcie, z którego chcesz usunąć tło.</p>
+        <p xml:id="p-9">3. Kliknij dwukrotnie miniaturę zdjęcia.</p>
+        <p xml:id="p-10">4. W Centrum edukacyjnym kliknij przycisk Kolaże (rysunek 5.1).</p>
+        <p xml:id="p-11">5. Kliknij przycisk Usuwanie tła (rysunek 5.2). Twórcy programu ułatwili pracę początkującym użytkownikom, nazywając narzędzia zgodnie z uzyskiwanym po ich użyciu efektem. 6. Umieść gumkę elektroniczną przy krawędzi obiektu, który chcesz pozostawić na obrazku (rysunek 5.3). 7. Wciśnij i przytrzymaj lewy przycisk myszy.</p>
+        <p xml:id="p-12">8. Przesuwaj kursor wzdłuż krawędzi obiektu (rysunek 5.4). Usuwane są wszystkie piksele w identycznym kolorze jak ten znajdujący się w środku końcówki narzędzia.</p>
+        <p xml:id="p-13">9. Na pasku właściwości narzędzia rozwiń listę kształtów końcówki gumki (rysunek 5.5). Wybierz z niej taką, która umożliwi szybsze usunięcie pozostałej części tła.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

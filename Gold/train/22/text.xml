@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Na potrzeby nowej pracowni przystosowano dawne warsztaty techniczne znajdujące się w bocznym budynku liceum. Sprzęt potrzebny do jej wyposażenia szkoła otrzymała z Ministerstwa Edukacji Narodowej. I LO, jako jedyne w mieście, zostało objęte programem „Projekt 2001”. W sumie pracownia posiada cztery komputery multimedialne, 14 stanowisk uczniowskich i jedno Ø nauczycielskie. Wszystkie komputery są podłączone do wspólnej sieci i mają stały dostęp do Internetu.</p>
+        <p xml:id="p-2">— Z dwoma już wcześniej istniejącymi salami mamy w sumie 42 stanowiska komputerowe. Daje to wspaniałe warunki do nauki. Nareszcie podczas lekcji jeden uczeń ma do dyspozycji jeden komputer. Do tej pory przy jednym stanowisku pracowały zwykle dwie osoby — mówi Ewald Kolarczyk, dyrektor I LO.</p>
+        <p xml:id="p-3">Choć pracownia nie jest jeszcze ostatecznie wyposażona, już odbywają się w niej zajęcia. Najbardziej z nowego sprzętu cieszą się ci licealiści, którzy na co dzień stykają się z komputerem. Informatycznym „ignorantom” w zasadzie jest obojętne, na czym się uczą. Zależy im tylko na poznaniu podstaw obsługi komputera. Tadeusz Szyszka, nauczyciel informatyki w I LO zapowiada jednak, że nawet osoby niezbyt orientujące się w nowych systemach poczują różnicę pracy na nowym sprzęcie.</p>
+        <p xml:id="p-4">— Oprócz zwykłych komputerów, mamy tu cztery multimedialne Ø — dodaje Tadeusz Szyszka. — Można z nich będzie korzystać na każdej lekcji, nie tylko informatyki. Nawet w czasie przerwy uczeń może przyjść i poszperać w Internecie. Teraz na lekcjach informacje z sieci są bardzo przydatne.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

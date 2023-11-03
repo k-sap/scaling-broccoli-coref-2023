@@ -1,0 +1,23 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Nic, nic, do kolegi mówiłem, że oczywiście jak najbardziej...</p>
+        <p xml:id="p-2">Jak na strażników to jesteście jacyś tacy za bardzo wystraszeni.</p>
+        <p xml:id="p-3">Na strażników...</p>
+        <p xml:id="p-4">Na klawiszy, znaczy.</p>
+        <p xml:id="p-5">Inaczej sobie to wyobrażałem. Wyobrażałem sobie, że jak jest wina, to jest i kara. Kajdany, terror, prześladowania, psy bez kagańców, brutalność, a tymczasem to wy wyglądacie, jakbyście coś mieli na sumieniu.</p>
+        <p xml:id="p-6">A to pan ma mieć, tak? Właśnie!</p>
+        <p xml:id="p-7">A co mianowicie?</p>
+        <p xml:id="p-8">...Tutaj pojawia się pewien kłopot... Bo mianowicie mam głębokie poczucie, że żyłem szybko oraz pragnąłem umrzeć młodo, ale wszystkie winy, które przychodzą mi do głowy, są dość ogólnej natury. Innymi słowy wiem, że powinienem siedzieć, ale nie wiem, za co konkretnie. Po prostu czuję, że powinienem zgnić w kryminale i jestem z tego dumny.</p>
+        <p xml:id="p-9">Cholera... Kto to mógł przewidzieć...</p>
+        <p xml:id="p-10">Cha! W dodatku mam ochotę rozpierdolić to więzienie, żeby nie został kamień na kamieniu! Własnymi rękami! Podpalić!</p>
+        <p xml:id="p-11">No to ładnie... Nasze małe Bałkany... Co za idiota mówił, że to tylko mięsień... Że to jest to samo, co wszyć komuś cudzą nerkę...</p>
+        <p xml:id="p-12">Patrzeć, jak się pali, i nawet jak będą prosili na kolanach, żebyś naszczał w płomienie, to nie naszczać!</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

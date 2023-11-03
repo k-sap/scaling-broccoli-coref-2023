@@ -1,0 +1,19 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">To nie zostało przewidziane, smutno stwierdził Galileusz. 0 tym nie pomyślałem.</p>
+        <p xml:id="p-2">Mówisz, że bez imienia nic nie istnieje, a nie pomyślałeś, że samym imieniem niemowlęcia nie nakarmisz.</p>
+        <p xml:id="p-3">Masz rację, zgodził się przyjąwszy mój zarzut.</p>
+        <p xml:id="p-4">To, co miałem na myśli, odnosi się do żywiołów i przedmiotów martwych.</p>
+        <p xml:id="p-5">Dziecko powinno jeść, żeby istnieć. Co teraz zrobimy? Miałem pomysł. Zrodził się jak natchnienie i wydał się nam wyjściem jedynym. W kuchni wprawdzie było mleko, ale jak mieliśmy to mleko wlać w niego bez smoczka? Natomiast olśnił mnie inny plan. U sąsiadów okociła się kotka. Tam była mała dziewczynka, Basia, która mi to opowiedziała. Opiekowała się kociętami i mogła podłożyć do kociego kosza naszego Phosphorosa. Romulusa i jego brata wykarmiła wilczyca, a Phosphorosa wykarmi kocica.</p>
+        <p xml:id="p-6">Powierzyłbyś to stworzenie małej dziewczynce? - oburzył się Galileusz.</p>
+        <p xml:id="p-7">Dobrze, zachowamy tajemnicę, masz rację. Coś się wymyśli, ale teraz jednak wyraźnie musimy zaryzykować. Wezmę i zaniosę go sam, przyłożę do kocicy, niech się nakarmi.</p>
+        <p xml:id="p-8">Galileusz zgodził się nie bez obawy i tak, przed chwilą jeszcze mało przygotowany do roli niańki, zostałem obarczony dzieckiem, które wydzierało się i wyrywało z rąk, fikając nóżkami, jak to prosię w pieluszkach na rękach Alicji w krainie czarów. Nie były to jednak czary. Dziecko było autentyczne, w dodatku świeciło tak, że i w ten niezwykły sposób zwracało na siebie uwagę.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

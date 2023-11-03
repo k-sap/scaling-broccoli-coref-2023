@@ -1,0 +1,21 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">- Jak to trują?!</p>
+        <p xml:id="p-2">- Po prostu chcą, abym szybciej umarła. Dosypują małe dawki trucizny do jedzenia. Dlatego wolę jeść w restauracji. Jeśli proszą, bym u nich coś zjadła, wyczuwam smakiem, kiedy coś dosypują.</p>
+        <p xml:id="p-3">A może ona jest pomylona? - myślę.</p>
+        <p xml:id="p-4">- Proszę nie uważać, że jestem pomylona, ja to wiem naprawdę.</p>
+        <p xml:id="p-5">- Dlaczego pani nie pójdzie z tym do znajomych, rady miejskiej, milicji?</p>
+        <p xml:id="p-6">- Znajomych za dużo nie mam. Prawie wszyscy przez minione piętnaście lat albo zmarli, albo zostali zamordowani, albo się przenieśli. Z tych co pozostali, niewielu chce utrzymywać znajomość z niewidomą kobietą, na dodatek byłą “kapitalistką”. W urzędach myślą to samo, co i pan pomyślał.</p>
+        <p xml:id="p-7">- Ależ, ja...</p>
+        <p xml:id="p-8">- Proszę się nie tłumaczyć... Najważniejsze, by pan mi wierzył: będzie pan odwiedzał różne kraje, te odległe też. Myślę, że będzie to z pożytkiem również dla tego, co pan będzie robił...</p>
+        <p xml:id="p-9">Wydarzenia jesienią 56 roku przytłumiły mi pamięć tego spotkania.</p>
+        <p xml:id="p-10">W lipcu 1957 roku wyjechałem po raz pierwszy. Na Węgry, do Budapesztu i nad Balaton. Rozstrzelane czołgowymi karabinami maszynowymi i działami domy w centrum Budapesztu, spory: kontrrewolucja czy rewolucja; imperialistyczna interwencja czy braterska pomoc; oszołomienie pięknem tego miasta, a potem jeszcze większe Balatonem i największe - cudownością Margit - węgierskiej maturzystki, nie pozwoliły mi pomyśleć o Znajomej z Chełmna.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

@@ -1,0 +1,16 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">- Dla mnie z kolei idolem był i pozostał Austriak "Goldi" Goldberger, postanowiłam więc pójść w jego ślady - mówi Aneta</p>
+        <p xml:id="p-2">Przed kilku miesiącami cała trójka przeszła swój pierwszy chrzest sportowy startując w skokach narciarskich o mistrzostwo okręgu uczniowskich klubów sportowych. Rywalizowały o palmę pierwszeństwa razem z chłopcami</p>
+        <p xml:id="p-3">- Koledzy byli od nas lepsi, ponieważ trenują dłużej - tłumaczą. - My zaczęłyśmy naszą przygodę ze skokami narciarskimi dużo później. Ale ta pierwsza, nieudana, konfrontacja jeszcze bardziej zmobilizowała nas do pracy szkoleniowej. Na następnych zawodach postaramy się im zrewanżować</p>
+        <p xml:id="p-4">- Jak patrzą na wasze upodobanie sportowe koledzy z klubu, koleżanki w szkole i nauczyciele, nie mówiąc już o rodzicach? - Z pełnym zrozumieniem, a nawet podziwem. Niektóre z koleżanek szkolnych nawet nam zazdroszczą, ale nie mają odwagi spróbować swych sił na skoczni narciarskiej. Z kolei koledzy w klubie nie patrzą na nas jak na dziwolągi, ale starają się wykazać, że nie mamy szans, aby im dorównać. Jeżeli chodzi o rodziców, to tolerują nasze hobby pod warunkiem, że nie odbija się to na naszych wynikach w nauce. Ale z tym dajemy sobie, w miarę dobrze, radę</p>
+        <p xml:id="p-5">- Jesteście zdecydowane kontynuować swą karierę sportową w skokach narciarskich? - Jak najbardziej. Dlaczego mamy być pod tym względem gorsze od Skandynawek czy Austriaczek, które w skokach narciarskich odnoszą coraz większe sukcesy? Walczą one, aby skoki narciarskie kobiet weszły na stałe do programu zimowych igrzysk olimpijskich. Może którejś z nas, albo naszym następczyniom, uda się zdobyć złoty medal olimpijski? Zaczynało osiem..</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

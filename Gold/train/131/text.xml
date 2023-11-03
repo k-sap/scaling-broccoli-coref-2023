@@ -1,0 +1,14 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Gdyby Jarosław Kaczyński wytrzymał psychicznie i cierpliwie rozgrywał swoją grę jeszcze przez jakiś czas, choćby rok, dwa, zdążyłby dokonać wielu ustawowych zmian, z których wygrzebać się byłoby bardzo trudno. Lepper i Giertych popieraliby wszystko, byleby dalej jeździć limuzynami rządowymi i niewiele dałoby się zrobić. Ale Kaczyński nie wytrzymał, bo uznał, że po przyspieszonych wyborach pozycja PiS będzie zdecydowanie silniejsza. Zresztą stała się silniejsza poparciem społecznym, które ta partia uzyskała, i tu lider PiS się nie pomylił. Pomylił się, nie doceniając nie tylko swojego głównego przeciwnika, czyli Donalda Tuska, ale przede wszystkim nie doceniając wyborców.</p>
+        <p xml:id="p-2">Z tej porażki PiS płynie taka oto nauka, że jednak polscy wyborcy znaleźli w sobie siłę i determinację, by odrzucić politykę awanturniczą, zatrzymać postępujące zmiany w państwie, w jego instytucjach, tak w sferze - powiedzmy po staroświecku - bazy jak i nadbudowy. Wybory miały swój dramatyczny sens, były po prawdzie plebiscytem organizowanym wokół nadrzędnego pytania: za Kaczyńskim czy przeciwko?</p>
+        <p xml:id="p-3">Czy tak silna korekta wyborcza w stosunku do praktyki i ideologii IV RP będzie już zawsze gwarantowana, tego oczywiście nie wiemy. Pięciomilionowa armia PiS jest faktem, a przeciwstawienie jej bardziej masowego, ale jednak pospolitego ruszenia na pewno nigdy nie będzie łatwe. Zwłaszcza że Jarosław Kaczyński w opozycji nie będzie już odpowiadał za praktykę, a czysta ideologia dla wielu rozczarowanych i zawiedzionych ma zawsze nieodparty urok. Jeśli na wyniki ostatnich wyborów parlamentarnych duży wpływ miała prowadzona przez dwa lata wielka kampania obnażania i nazywania meandrów polityki rządzących, to także dzisiaj i jutro nie powinna ona słabnąć, gdyż walka o świadomość obywatelską trwa, co widać choćby we wszystkich wystąpieniach publicznych prezesa PiS i jego podwładnych.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

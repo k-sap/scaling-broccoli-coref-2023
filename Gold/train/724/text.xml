@@ -1,0 +1,20 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">DANE URZĘDU MIEJSKIEGO W RZYMIE</p>
+        <p xml:id="p-2">Ponad 20.000 osób, spośród pracowników miejskich, pracowników instytucji publicznych i wolontariuszy, we współpracy z Urzędem Miejskim w Rzymie, poświęciło swoją pracę na rzecz tak wyjątkowego wydarzenia, jakim była uroczystość pogrzebowa Ojca Świętego Jana Pawła II.</p>
+        <p xml:id="p-3">Pracownicy miejskiego transportu publicznego (Trambus) zawiesili system zmianowy, podobnie jak obsługa zieleni miejskiej, która wraz z obroną cywilną pracowała bez przerwy. Również taksówkarze wykonali wiele kursów ponadplanowych, a liczne rodziny rzymskie przyjęły pielgrzymów do swoich domów.</p>
+        <p xml:id="p-4">Przez 24 godziny na dobę było otwarte społeczne centrum operacyjne oraz biuro Straży Miejskiej, które koordynowało wszystkimi działaniami.</p>
+        <p xml:id="p-5">Zostało zamontowanych 8 km barierek ochronnych.</p>
+        <p xml:id="p-6">Gdy chodzi o transport publiczny, zwiększony o 40%, rzymskie autobusy i tramwaje przewoziły każdego dnia o 1.100.000 pasażerów więcej niż zazwyczaj, tak więc można przypuszczać, że w ciągu tygodnia wykonały ok. 7 milionów kursów ponadplanowych.</p>
+        <p xml:id="p-7">Metro przewoziło codziennie 1.200.000 osób, to znaczy dodatkowo ok. 290.000 pasażerów, co daje ogólną liczbę korzystających z metra przewyższającą 8 milionów, i ponad 2 miliony dodatkowych kursów na przestrzeni siedmiu dni.</p>
+        <p xml:id="p-8">Gdy chodzi o telekomunikację, wykorzystano całą sieć informacyjną miasta i firm.</p>
+        <p xml:id="p-9">Z inicjatywy Urzędu Miasta, w niedzielę, 3 kwietnia, nad ranem, mieszkańców Rzymu przywitało 3.500 billboardów z napisem: "Dziękujemy - Rzym opłakuje i żegna swojego Papieża" oraz dwa olbrzymie transparenty (9 x 6 i 22 x 10 m) rozwieszone na trasach przelotowych po obu stronach Tybru.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

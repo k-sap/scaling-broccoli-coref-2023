@@ -1,0 +1,14 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Usiadła w rozkroku na mnie i moja tajemnica zniknęła gładko w mokrej i gorącej szczelinie jej ciała. To wszystko różniło się całkowicie od wszystkiego, co do tej pory przeżyłem podczas różnych prywatek. To nie była czternastolatka podniecona tym, że chłopiec głaszcze jej piersi albo tym, że włożył rękę w jej majtki i palcem dotyka łechtaczki. To, co mnie tu spotkało, to kobieta w akcji.</p>
+        <p xml:id="p-2">Znów wakacje. Skończyłem dziewiątą klasę. Razem z Marianem, kolegą z klasy, postanowiliśmy uciec z domu i pojechać nad morze. Wiele się na tę decyzję złożyło. Ø Ojciec wywierał na mnie zbyt wielką (z mojego punktu widzenia) presję, obawiając się, że z niskimi ocenami mogę mieć kłopoty z przyjęciem do liceum. Ja zaś twierdziłem, że "człowiek ma prawo uczyć się tego, co go interesuje, a nie wszystkiego, co mu wciskają". Z miesiąca na miesiąc gromadziła się negatywna energia, narastał konflikt, aż moja burzliwa natura nakazała mi uniezależnić się od pieniędzy, którymi ojciec (w dobrej przecież według niego wierze) manipulował mną, starając się, żebym wyrósł na "człowieka", tak jakbym na razie nie był jeszcze człowiekiem.</p>
+        <p xml:id="p-3">Matka Mariana pochodziła z małej wsi w Kieleckiem i była nauczycielką w naszej podstawówce. Jego ojciec to też "wsiok", ale teraz był gdzieś "ważną szychą", bo należał do partii i został dyrektorem czegoś tam w górnictwie. Już tylko z tych względów zarabiał nieźle, a do tego przeprowadzał jakieś transakcje dolarowe, w owych czasach uznane oficjalnie za nielegalne, które uczyniły z nich na tyle bogatą rodzinę, że - mieszkając tam, gdzie przebywali od zakończenia wojny - musieli stale kryć się ze swoim bogactwem. To wszystko wiedziałem od Mariana. Zawsze miał on przy sobie dużo pieniędzy, które sobie po prostu brał z szafy i nikt nawet nie zauważał braku kilkuset złotych.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

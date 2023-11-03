@@ -1,0 +1,14 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">W zeszłej kadencji była posłanką PiS, dziś pracuje dla prezydenta Lecha Kaczyńskiego, ale o Małgorzacie Gosiewskiej zrobiło się głośno, gdy Przemysław Gosiewski, szef klubu PiS, jej były mąż, upominał Ludwika Dorna w sprawie alimentów na dzieci. Wtedy ona wyznała publicznie, że sądzi się z Gosiewskim o wyższe niż 600 zł miesięcznie pieniądze na ich 13-letniego syna. Wielu zarzuca jej, że w ramach alimentów były mąż załatwił jej posadę u prezydenta jako eksperta w gabinecie Szefa Kancelarii. Ona zapewnia, że jest inaczej: - Nigdy w życiu nie załatwił mi żadnej pracy.</p>
+        <p xml:id="p-2">Jej pierwszym szefem na początku lat 90. był Jarosław Kaczyński. Prowadziła mu biuro poselskie. Kiedy w 1997 r. rozpadło się jej małżeństwo, zaczęła pracować u Ludwika Dorna. - Znalazłam się w trudnej sytuacji i Ludwik zatrudnił mnie w swoim biurze poselskim, bo miałam doświadczenie w tej pracy. W 2005 r. została posłanką PiS.</p>
+        <p xml:id="p-3">Jej sukcesem było Przywrócenie Funduszu Alimentacyjnego. Reprezentując stanowisko klubu na sali plenarnej mówiła: "Staję przed państwem w imieniu tysięcy polskich kobiet pokrzywdzonych podwójnie. Najpierw przez swoich mężów, którzy porzucili je wraz z małymi dziećmi...". W 2007 r. bez powodzenia ubiegała się o sejmową reelekcję. - Do czynnej polityki na pewno już nie wrócę - mówi Gosiewska. U prezydenta zajęła się koordynacją akcji pomocy gruzińskim dzieciom, pisze też opinie, odpowiada na pisma, czasami reprezentuje Kancelarię na posiedzeniach komisji sejmowych i senackich.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

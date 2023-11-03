@@ -1,0 +1,18 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">sp1: ponieważ dobrze. dobrze byłoby żeby takie w. pisać w pewnym namyśle pisać i konsultować się z konstytucjonalistami. a nie pisać tego że tak powiem. w gronie które jak widać ma ma wizję ustroju bardzo bardzo centralistycznego</p>
+        <p xml:id="p-2">sp4: jeszcze przede wszystkim trzeba napisać. wciąż Platforma nie napisała</p>
+        <p xml:id="p-3">sp1: ja wolę żebyśmy spokojnie dopisali do końca stycznia dobry projekt niż przyjąć</p>
+        <p xml:id="p-4">sp0: czyli do końca stycznia będzie projekt Platformy ?</p>
+        <p xml:id="p-5">sp1: taki projekt do dyskusji przyjąć który mówi o budowaniu cesarstwa</p>
+        <p xml:id="p-6">sp0: ale zaraz bo to nie jest to nie jest koniec posłów. y pomysłów dlatego że z kolei PSL chciałby wzmocnić znacznie rolę samorządów. jeżeli miałaby być reforma konstytucji to właśnie w tym duchu</p>
+        <p xml:id="p-7">sp3: tak i na przykład przekształcić drugą izbę wybieraną w oparciu o czyli senat w oparciu o kryteria polityczne w oparciu jako reprezentacje samorządów zawodowych terytorialnych ale to co jest najistotniejsze tego typu pomysły rozstrzelane. de facto nawet widać już po tych zapowiedziach że PiS przebił Platformę jeśli chodzi o ograniczenie liczby parlamentarzystów. bodajże o trzydzieści. sztuk a w senacie o dwudziestu tak ? czy o szesnastu. i pewnie w tym najłatwiej będzie pod potrzeby publiczne iść. otóż sądzę że kampania prezydencka to jest kampania wizji. wizji ustrojowej państwa w związku z tym to jest paliwo do tej kampanii bardzo politycznej. i nie mówmy że te projekty mają. zakończyć się zmianą konstytucji. na pewno nie w tej kadencji a więc. są to często będą bardzo przeciwstawne wizje państwa PiS</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

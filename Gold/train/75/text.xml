@@ -1,0 +1,20 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Był to szczególny Taj, cieszący się wielkim poważaniem we wsi i względami u władz: szedł z postępem czasu, a jedną ze swych córek wydał bez eze - "robienia zięcia" - za urzędnika ośrodka administracyjnego prowincji. Przyjmując moją odmowę z powściągliwą uprzejmością oświadczył, że chata jego zaczeka, dopóki nie dokonamy zdjęć.</p>
+        <p xml:id="p-2">Tymczasem ludzie schodzili się, lecz mało pojawiało się głównych bohaterów han kuongu, młodzieży, a ona była przecież najważniejsza. Tłumaczyło to się częściowo jej pracą na polu do późnej pory i koniecznością wykąpania się. Więc na razie właziły na podium same starsze panie z kulistymi kokami na czubkach głowy. Wnosiły kołowrotki i kłęby bawełny w koszyczkach i siadając na niskich zydelkach przędły nici. Miny miały jakieś niewyraźne i w swych czarnych sukniach wyglądały niby nadąsane sowy.</p>
+        <p xml:id="p-3">Zwróciłem na nie uwagę tłumacza Tunga;</p>
+        <p xml:id="p-4">- Jakieś smętne te niewiasty! Pewnie wolałyby siedzieć w swych chatach przy wieczerzy?</p>
+        <p xml:id="p-5">Tung sumiennie zasięgnął wiadomości u Kujena, po czym wyjaśnił:</p>
+        <p xml:id="p-6">- Nie, camarade Kujen zaręcza, że one nie są smętne. To tylko pozory mylą.</p>
+        <p xml:id="p-7">- A te ich smutne oblicza?</p>
+        <p xml:id="p-8">- Camarade! - uśmiechnął się Tung jak człowiek głębszej świadomości. - One nie są smutne, lecz skupione nad pracą...</p>
+        <p xml:id="p-9">Więc zjawiały się powoli starsze roczniki męskie i żeńskie i zabawiały się dzieci. Młodzież dojrzalsza jeszcze się kąpała, przebierała w lepsze odzienie i jak nie przychodziła, tak nie przychodziła. Nareszcie ukazały się dwie wystrojone dzierlatki - wystrojone, bo miały świeże bluzki ze srebrnymi sprzączkami na przedzie, których to ozdób nie noszą przy pracy w polu. Ale dzierlatki nie były w sosie.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

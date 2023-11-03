@@ -1,0 +1,14 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Musimy się jeszcze zastanowić, jak pobudzić do ruchu periodycznego ładunki elektryczne. Możemy to zrobić w obwodzie elektrycznym złożonym z kondensatora i wielozwojowej cewki (rys. 3.25a). Jeżeli na płytkach kondensatora umieścimy ładunki elektryczne przeciwnych znaków i połączymy je z cewką, to w obwodzie zaczyna płynąć prąd (rys. 3.25 b). Ładunki na płytkach maleją w miarę tego, jak przepływają w obwodzie, a natężenie płynącego prądu wzrasta. Wzrasta stopniowo, gdyż ten narastający prąd wytwarza w cewce zmienny strumień magnetyczny, który z kolei indukuje prąd zapobiegający zbyt szybkiemu narastaniu natężenia.</p>
+        <p xml:id="p-2">W momencie gdy cały ładunek spłynie z kondensatora, prąd w obwodzie osiąga maksimum i wartość maksymalną będzie miał też strumień pola magnetycznego w cewce. Teraz prąd i pole z cewce zacznie maleć. Ze względu jednak na zjawisko indukcji nie zmaleje gwałtownie. Płynący ciągle w tym samym kierunku prąd będzie teraz ładował kondensator w kierunku przeciwnym do ładunku początkowego. W momencie gdy prąd i strumień magnetyczny zmaleją do zera, kondensator będzie maksymalnie naładowany w kierunku przeciwnym niż na początku (rys. 3.25c). Rozpocznie się znowu proces rozładowania kondensatora przez cewkę ze zmienionym kierunkiem prądu (rys. 3.25d) i proces ten powtarzać się będzie periodycznie (rys. 3.25e,f), dopóki straty energii w obwodzie nie wytłumią powstających drgań.</p>
+        <p xml:id="p-3">Otrzymaliśmy zatem obwód drgający, który będzie wytwarzać periodycznie zmienny ruch ładunków, potrzebny do wzbudzenia fali. Pola jednakże w takim układzie zamknięte są w kondensatorze i cewce indukcyjnej, i nie mogą wydostać się na zewnątrz w postaci fali. Wyobraźmy sobie jednak, że cewkę naszego układu sprzęgamy indukcyjnie z inną cewką połączoną z anteną w postaci rozpiętych nad ziemią drutów. Zmienne pole w cewce obwodu będzie indukować zmienne prądy w cewce antenowej, które z kolei ładując periodycznie antenę dadzą rozchodzącą się w przestrzeni falę (rys. 3.26).</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

@@ -1,0 +1,14 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Gdy tak leżę w łóżku i próbuję zasnąć, liczę miarowy stukot kroków na korytarzu - to pielęgniarki, lekarze, salowe. Wolnym krokiem idzie tylko magazynierka Renata Biskupowa, pracująca tu przeszło 20 lat. Wydaje bieliznę, pościelową, zmienia poduszki i koce, wysyła brudną bieliznę do pralni w Gdyni. Czasem w korytarzu zrywa się nagła bieganina - znak, że dzieje się coś niedobrego, że trzeba szybkiej interwencji całego zespołu, bo czyjeś życie jest zagrożone. Nocą, mimo obecności lekarza dyżurnego, dzwoni się do ordynatora i dr Sławiński przyjeżdża. Interna to największy oddział w szpitalu, na męskim i kobiecym oddziale są 63 łóżka.</p>
+        <p xml:id="p-2">Ciągłe pogotowie</p>
+        <p xml:id="p-3">Praca wymaga 24-godzinnego pogotowia. Na etatach pracuje czworo lekarzy, kolejnych czworo dochodzi na dyżury. W tej dochodzącej ekipie jest dr Halina Zagórska, przybyła z Kazachstanu, której losy warte są osobnej opowieści. Personel medyczny liczy 25 osób oraz 11 salowych. Oddziałowa, pielęgniarka dyplomowana Jolanta Czerwińska pracuje z zegarkiem w ręku i bez pomyłek, bo w grę wchodzi życie ludzkie. Góruje nad innymi wzrostem, energią i zaradnością. Do niej należy merytoryczny nadzór nad personelem oddziału, prowadzenie apteki oddziałowej, troska o higienę pomieszczeń i zgłaszanie niezbędnych remontów. Przy okazji: niedawno wyremontowano sanitariaty, czyste i piękne, dostosowane do potrzeb chorych, wymienione są też okna na plastikowe. Gdybyż udało się jeszcze wymienić stare łóżka na nowe. Ostatnio chore ucieszyły się z nowej lodówki dla pacjentów. Odżywianie szpitalne jest skromniutkie, ale obiady smacznie przyrządzone.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

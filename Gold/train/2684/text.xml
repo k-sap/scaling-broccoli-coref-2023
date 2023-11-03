@@ -1,0 +1,16 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Recepty Ojca Szeligi.Wszystkie informacje wg „Aprendemos a Curar con Plantas. Equipo de salud Parroquia Jesus Obrero“, Lima 1991.</p>
+        <p xml:id="p-2">RAK - profilaktyka</p>
+        <p xml:id="p-3">Ojciec Edmund Szeliga twierdzi, że stosując niektóre rośliny można powstrzymać rozwój nowotworów! Szczególnie wiele roślin mogących znaleźć zastosowanie w terapii antyrakowej rośnie na terenach Amazonii. Profilaktyka antyrakowa polega na zażywaniu preparatu z „Kociego Pazura“ albo zamiennie ze „Smoczej Krwi“ („sangra de dragon”). O tych środkach pisaliśmy już w poprzednich odcinkach. „Koci Pazur”, sprowadzany jest do Polski przez zwolenników medycyny naturalnej. Na razie sama „Smocza Krew” nie jest dostępna w sprzedaży w Polsce. Na indywidualne zamówienie sprowadzana jest z USA sproszkowana mieszanka ziołowa w kapsułkach o nazwie „Iluminacja”. Zawiera ona „sangre de dragon”. Według ojca Szeligi nie należy zażywać obu preparatów jednocześnie, lecz zamiennie. Wystarczy więc „Koci Pazur”. Korę „Kociego Pazura“ o wadze 1/3 kg zalać 3/4 litra spirytusu. Nalewkę odstawić na trzy dni. Potem codziennie, przed jedzeniem, przez miesiąc pić kieliszek nalewki. Po miesiącu przerwy, kurację powtórzyć.</p>
+        <p xml:id="p-4">„Smocza Krew“</p>
+        <p xml:id="p-5">Rozpuścić 3-5 kopli soku odwirowanego z „sagre de dragon” w wodzie lub w soku owocowym i przez miesiąc pić przed jedzeniem. Po trzydziestu dniach zrobić przerwę na trzy miesiące i następnie kurację powtórzyć. Krople mogą być zastąpione przez „Iluminację”, ale dawkowanie jej musi być uzgodnione z naturoterapeutą.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

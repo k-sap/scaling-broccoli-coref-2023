@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">sp0: publicysta ostatnio związany z dziennikiem Fakt i Andrzej Stankiewicz. Neewsweek</p>
+        <p xml:id="p-2">sp3: dzień dobry witam</p>
+        <p xml:id="p-3">sp0: no właściwie. to już drugi raz jest taka sytuacja. wcześniej tym gestem otwarcia też były dokumenty katyńskie umieszczone w internecie. no o o dość szybko okazało się że są to te same dokumenty które kiedyś przywiózł do polski Borys Jelcyn. teraz również historycy mówią. te akta które Dmitrij Miedwiediew przekazał to są akta które już znamy nawet zostały już opublikowane w formie książkowej. czekamy na te dokumenty których dotąd nie znamy o które wielokrotnie występowaliśmy no więc. ponawiam to pytanie czy rzeczywiście. jest to poważna zmiana nieodwracalna ? czy to tylko gest chwilowy który w każdej chwili odwrócony może zostać ?</p>
+        <p xml:id="p-4">sp1: ja czytałam wywiad prezydenta Miedwiediewa z Izwiestii. cały w odróżnieniu do bardzo niestety wielu komentatorów którzy skupili się na trzech zdaniach w dodatku nieszczęśliwie połączonych bo fałszu. to to połączenie fałszowało przekaz no ale o tym może powiemy później. natomiast jeżeli chodzi o odtajnienie akt. to jest bardzo ważny. gest dlatego że za nim co. prezydent Rosji zapowiedział jednoznacznie. pójdzie odtajnienie dalszych. kilkuset bodajże tomów i on to zapowiedział i on to zrobi znaczy tu jestem pewna że tu nie będzie żadnych. żadnych niespodzianek. pytanie tylko. jaką cenę w stosunkach polsko-rosyjskich będziemy płacić za tak ważne i realne gesty to znaczy żeby nie umniejszać tego co się stało to jest bardzo ważne</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">NorthAngel: Odejście J.P. II jest tylko kwestią czasu, jak pana zdaniem będzie wyglądała wtedy sytuacja w Polsce? Papież jest dla Polaków dużym autorytetem - co będzie gdy ten autorytet przestanie istnieć?</p>
+        <p xml:id="p-2">Jarosław Makowski: Wydaje się, że jest to jeden z głównych problemów, przed jakim stanie polski Kościół. Papież odcisnął na polskim katolicyzmie tak duże piętno, że dziś wielu księży i wiernych nie wyobraża sobie, by nie było Jana Pawła II, który w krytycznych chwilach pokazywał Kościołowi w Polsce drogę, którą ten ma kroczyć. Wydaje się więc, że nie pozostanie nic innego jak dorosnąć i Kościół w Polsce już bez Jana Pawła II będzie musiał podejmować wyzwania, jakie z pewnością przed nim staną po śmierci papieża.</p>
+        <p xml:id="p-3">Nie_zabijaj: Jakiego rodzaju trudne decyzje miał Pan na myśli? Czy chodzi chociażby o zniesienie celibatu wśród duchownych, czy kwestie tak kontrowersyjne, jak chociażby zakaz używania prezerwatyw przez wiernych, czego owocem jest dramatycznie wysoka liczba osób, które zarażone zostają wirusem HIV w Afryce?</p>
+        <p xml:id="p-4">Jarosław Makowski: Nauczanie moralne Jana Pawła II jest konsekwencją stanowiska, jakie Kościół zajmuje od zawsze, ale dziś w samym Kościele trwa ożywiona dyskusja na temat stosowania środków antykoncepcyjnych, zniesienia celibatu dla księży, czy kapłaństwa kobiet. Oczywiście są to wszystko sprawy, których nie da się rozwiązać z dnia na dzień one potrzebują czasu i czasami żmudnych i długich dyskusji. Mądrość Kościoła polega na tym, że nigdy nie podejmował ważnych dla siebie decyzji pochopnie, dobrze jednak się dzieje ,że możemy być uczestnikami tych wszystkich sporów.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">- Uzbrojenie władzy wykonawczej w taki instrument to niebezpieczny precedens, sprzeczny z zasadą podziału władz. Dotąd decyzję o zawieszeniu mógł wydać prezes, będący zawsze sędzią. Teraz możliwość tę ma mieć polityk. A przecież niedawno widzieliśmy, jak politycy - parlamentarzyści - próbowali zatrzymać czynności urzędowe komornika... Zresztą dziś, wobec siły opinii publicznej, żaden prezes nie odważy się nie zawiesić sędziego, który popełnił przestępstwo bądź postąpił niegodnie - komentuje rzecznik Stowarzyszenia Sędziów Iustitia sędzia Waldemar Żurek.</p>
+        <p xml:id="p-2">Jakby nie było tego dość, sejmowa komisja sprawiedliwości, zajmująca się rządowym projektem nowelizacji prawa o ustroju sądów, zaakceptowała radykalną poprawkę 29-letniego posła PiS Łukasza Zbonikowskiego, dotyczącą drażliwej sprawy immunitetu sędziowskiego. Otóż jeśli prokurator złoży wniosek o odebranie immunitetu sędziemu, którego podejrzewa o poważne przestępstwo (zagrożone co najmniej ośmioma latami więzienia), sąd będzie musiał wydać decyzję w ciągu 24 godzin. Propozycja ta idzie nawet dalej niż pomysł rządowy - ten dawał sądowi 14 dni. Poseł chce też, by kiedy prokurator żąda uchylenia immunitetu w celu zatrzymania sędziego, postępowanie prowadzone było bez udziału zainteresowanego i jego pełnomocnika. Więcej: prokurator ma mieć prawo do nieudostępniania akt sędziemu, którego sprawę prowadzi.</p>
+        <p xml:id="p-3">Znów chodzić ma o walkę z uchylaniem się sędziów od odpowiedzialności. Zastępca prokuratora generalnego Przemysław Piątek w trakcie sejmowej dyskusji posunął się wręcz do tezy, że wśród sędziów mogą być seryjni zabójcy.</p>
+        <p xml:id="p-4">- Orzekając o immunitecie, sąd ma ustalić, czy rzeczywiście istnieje wystarczająco duże prawdopodobieństwo popełnienia przestępstwa. W ciągu doby często nie da się tego ocenić. Bo nie zawsze chodzi o sędziów złapanych na prowadzeniu auta po pijanemu, gdzie dowody nie budzą ani faktycznych, ani prawnych wątpliwości - zauważa sędzia Żurek. I dodaje: - Z kolei pozbawienie w sprawach o immunitet prawa do obrony prowokuje nadużycia. Przecież sędziowie są często pomawiani przez strony - w celu przewlekania procesu albo z zemsty za niekorzystny wyrok.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

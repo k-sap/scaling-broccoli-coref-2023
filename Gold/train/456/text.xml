@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Prolog Prawa Bawarów jest prawdziwym popisem średniowiecznej erudycji. Osnowa została zapożyczona z Etymologii Izydora z Sewilli. Na początku figuruje poczet antycznych prawodawców, od Mojżesza do Teodozjusza, po czym następuje stwierdzenie, że z czasem rozmaite ludy wybrały sobie prawa wedle własnego zwyczaju. „Stary zwyczaj traktowany jest bowiem jak prawo (longa enim consuetudo pro lege habetur). Prawo są to rozporządzenia ustanowione na piśmie, zwyczaj zaś jest sprawdzonym od dawna obyczajem, czyli prawem niepisanym. Albowiem prawo bierze nazwę od czytania (nam lex a legendo vocata), gdyż jest spisane . Zwyczajem zaś nazywamy to, co jest zwykle w użyciu".</p>
+        <p xml:id="p-2">W tym miejscu kompilator odstąpił od Izydora, by przedstawić pogląd na kodyfikację prawa Bawarów: „Gdy król Franków, Teodory, bawił w Chalon, wybrał mędrców, którzy byli w jego królestwie znawcami starodawnych praw (elegit viros sapientes qui in regno suo legibus antiquis eruditi erant). Król polecił im, by według jego wskazań spisali prawa Franków, Alemanów i Bawarów oraz wszystkich [innych] ludów podlegających jego władzy, zgodnie ze zwyczajem każdego z nich; dodał to, co należało dodać i usunął to, co nieporządne; to zaś, co było według zwyczaju pogan, zmienił zgodnie z prawem chrześcijan. A czego król Teodoryk ze względu na starodawny zwyczaj pogan nie zdołał naprawić, to później zaczął [zmieniać] król Childebert, król Chlotar zaś doprowadził do końca. Wszystko to przesławny król Dagobert przez jaśnie oświeconych mężów Klaudiusza, Chadoinda, Magnusa i Agilulfa odnowił, ulepszył wszystkie stare prawa i przekazał je na piśmie każdemu ludowi w takiej postaci, w jakiej trwają do dziś".</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

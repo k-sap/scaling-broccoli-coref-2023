@@ -1,0 +1,17 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">#SenatorPiotrAndrzejewski: ...do Unii i cofnięte fundusze...</p>
+        <p xml:id="p-2">#PodsekretarzStanuwMinisterstwieSrodowiskaMaciejTrzeciak: Jeśli inwestycja jest legalna, przechodzi wszelkie procedury i jest znamię znaczącego negatywnego działania, to kompensacja musi być zaproponowana w raporcie, a organ orzekający musi w decyzji nakazać tę kompensację, jej odpowiednie wykonanie, miejsce i określić okres monitoringu tego, czy ona zadziała. Ja nie wiem, o jakich konkretnych sytuacjach pan senator mówi...</p>
+        <p xml:id="p-3">#SenatorPiotrAndrzejewski: Na Półwyspie Helskim. Proszę o szczegółową analizę...</p>
+        <p xml:id="p-4">#PodsekretarzStanuwMinisterstwieSrodowiskaMaciejTrzeciak: Panie Senatorze, ale proszę powiedzieć, o co konkretnie chodzi, o jakie inwestycje na Półwyspie Helskim. Bo to jest tak, że kompetencje są głównie samorządowe, a ponieważ tam jest również obszar chronionego krajobrazu, niektóre kwestie, na przykład warunki zabudowy i zagospodarowania terenu czy decyzje z art. 53 i 60 ustawy o planowaniu przestrzennym, czyli ustalenia lokalizacji celu publicznego bądź warunki zabudowy i zagospodarowania terenu, przechodzą również uzgodnienia z wojewodą i wykonującym w jego imieniu te zadania wojewódzkim konserwatorem przyrody, ale teraz nie potrafię odpowiedzieć nawet na piśmie, jakie inwestycje, w jakim miejscu, kiedy się zdarzyły. Pan senator pyta dokładnie... To nie jest tak, że minister środowiska wie wszystko na temat tego, na co wójt się zgodził w swojej gminie.</p>
+        <p xml:id="p-5">#WicemarszalekKrystynaBochenek: Panie Senatorze, to nie jest dyskusja, proszę się...</p>
+        <p xml:id="p-6">#SenatorPiotrAndrzejewski: Oczywiście. Ja proszę tylko o wdrożenie mechanizmu kontrolnego i udzielenie odpowiedzi, bo stwierdzam, że skutek sprzeczny z planem Natury 2000 na Półwyspie Helskim nastąpił w trakcie obowiązywania unijnych dyrektyw, które wiążą Polskę.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

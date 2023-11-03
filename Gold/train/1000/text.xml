@@ -1,0 +1,18 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">- Socjologia nic mi nie mówiła, ale ja nie chciałem iść do wojska. Wziąłem więc w swoje ręce przewodnik po wyższych uczelniach i otworzyłem Ø na chybił trafił. Znalazłem kierunek, na który trzeba było zdawać przedmiot ścisły, co nie bardzo mi pasowało, więc otworzyłem przewodnik jeszcze raz i trafiło na socjologię. Dopiero po wyborze tego kierunku zacząłem sobie racjonalizować, co to jest. Tak więc zdając wiedziałem, że to nauka o społeczeństwie - mówi Kazik.</p>
+        <p xml:id="p-2">Staszewskiego ominęło wojsko, wykręcił się "chorobą psychiczną" - Cerebrastenią pourazową. Artysta twierdzi, ze do dziś nie wie co to za choroba.</p>
+        <p xml:id="p-3">W 1979 r. założył polską punkową kapelę - POLAND. Z tą grupą nie nagrał jednak płyty. Kazik twierdzi, że granie POLAND z muzyką miało niewiele wspólnego. Mówi, że został wówczas wokalistą ponieważ nie potrafił na niczym grać. Dopiero w 1982r. założył Kult. W latach dziewięćdziesiątych rozpoczął działalność solową. Powstał też nowy projekt - Kazik Na Żywo.</p>
+        <p xml:id="p-4">Tak mówi o przyczynie założenia tych zespołów:</p>
+        <p xml:id="p-5">- Po prostu chciałem robić to, co do tej pory, ale oprócz tego jeszcze coś.</p>
+        <p xml:id="p-6">Mimo wszystko zawsze powtarza, że Kult jest dla niego najważniejszy i najbardziej lubi grać jego repertuar.</p>
+        <p xml:id="p-7">Menadżerem zespołów w których gra Kazik jest Piotr Wieteska, niegdyś basista Kultu. Natomiast wydawcą jest niezależna firma fonograficzna SP Records, której szefem jest Sławek Pietrzak - przyjaciel Kazika.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Ojciec wyjaśnił mi pochodzenie nazw wielu ulic starej Warszawy. Na przykład, na Starym Mieście jest ulica Freta. Ja się zawsze pytam: "Czy ty wiesz, kto to był ten Fret?". "Ano nie wiem". A to nie był żaden Fret, tylko po prostu mówiło się: "Idź wyrzuć śmiecie na tę fretę", czyli są to nieużytki miejskie. Jest ulica Agrikola, która prowadzi od Alei Ujazdowskich w dół, wzdłuż Parku Łazienkowskiego. I znów pytam: "A co to jest ta Agrikola?". "To jakaś agrotechniczna". Nie, to pułkownik wojsk inżynieryjnych - Agrikola, Włoch z pochodzenia, który Stanisławowi Augustowi Poniatowskiemu wykopał zjazd właśnie od Traktu Królewskiego. Przekopał tę ulicę w dół, żeby powozy mogły tam zjeżdżać. Na ówczesne możliwości inżynieryjne było to wielkie osiągnięcie, wielki wyczyn. Jest też ulica Bagatela. Włoch założył tam kawiarnię w czasach stanisławowskich, którą nazwał "Bagatela" i tak już.</p>
+        <p xml:id="p-2">Tak. Potem przyszło powstanie warszawskie. Mimo że byłem dzieckiem, doskonale pamiętam te 63 dni, bowiem takie sprawy niesłychanie mocno utrwalają się w pamięci dzieciaka. To były tragiczne obrazy. Oczyma 11-letniego chłopczyka widziałem jak zrywają chodniki nie po to, żeby sadzić tam kartofle, tylko chować zmarłych. Cała Warszawa była właściwie jednym wielkim cmentarzem. W nasz dom uderzyło kilkanaście rozmaitych pocisków. Ginęli ludzi, mnóstwo ludzi! Na podwórku, już tak po 15 sierpnia, praktycznie codziennie był pogrzeb przed kapliczką. Warszawa była bardzo pobożna, dlatego na podwórkach czynszowych kamienic niemal wszędzie były kapliczki, przed którymi zbierano się na wspólnej modlitwie. W okresie powstania nasza kapliczka stała się kościołem, przed którego ołtarzem żegnaliśmy naszych zmarłych.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

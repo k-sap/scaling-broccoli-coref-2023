@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Od początku istnienia zespół zaczął odnosić sukcesy. Spółdzielnia Pracy zabezpieczała potrzeby finansowe zespołu, wyposażając go w stroje ludowe oraz opłacając instruktorów. W pierwszym okresie zespół był prowadzony kolejno przez: Marię Sędziwą, Alojzego Kubickiego, Edwarda Gajdę, a konsultantem był Edward Mąkosza. Początkowo zespół ten uczestniczył w imprezach lokalnych, następnie wyjeżdżał na przeglądy i festiwale rejonowe i wojewódzkie. Dokonał również nagrania radiowego, transmitowanego 1 grudnia 1974 r. w cyklu "Wędrówki muzyczne po kraju".</p>
+        <p xml:id="p-2">Po śmierci T. Sędziwego i przejściu pod patronat Gminnego Ośrodka Kultury nastąpiło zakłócenie w pracy zespołu. Pozbawiony kapeli, pod kierunkiem Ryszarda Strojca zespół od 1983 r. podjął nowe działania. W 1984 r. akompaniatorem został Grzegorz Ciejpa. Zespół na przeglądzie rejonowym w Myszkowie zajął I miejsce. Wkrótce miejsce R. Strojca zajął G. Ciejpa.</p>
+        <p xml:id="p-3">G. Ciejpa odbudował kapelę, w 1986 r. powołał grupę baletową, która uczestniczyła w występach zespołu w audycji telewizyjnej z okazji "Dnia Matki". Następnie zespół zakwalifikował się do przeglądu krajowego w Kielcach, który wskutek zmian polityczno-gospodarczych w kraju nie odbył się.</p>
+        <p xml:id="p-4">Od 1990 r. zespół podjął akcję gromadzenia funduszy na zakup własnego autobusu. Zakupiony autobus począł zarabiać na przewożeniu dzieci do szkół oraz pracowników do ZBM w Osinach. Choreografem zespołu został Jan Kubica, a od połowy 1990 roku małżeństwo Jana i Zofii Czechlewskich z Zespołu Pieśni i Tańca "Śląsk". Zespół koncertował na licznych imprezach prestiżowych w regionie częstochowskim, a także na występach w Austrii, Czechach, Danii, Grecji, Hiszpanii i w Niemczech. Poza tym zaspół prowadził działalność gospodarczą - kawiarnia, piwiarnia i usługi przewozowe.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

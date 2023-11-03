@@ -1,0 +1,14 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">2. Materiały i metody badań</p>
+        <p xml:id="p-2">Pracę nad niniejszą, regionalną listą zagrożonych gatunków roślin naczyniowych rozpoczęto w roku 1994, opierając się na materiałach własnych oraz pochodzących z literatury, które zostały zgromadzone w kartotece roślin naczyniowych północnej części Wyżyny Śląsko-Krakowskiej (Hereźniak 1974). Kartoteka ta składa się z ok. 1200 kart perforowanych dla poszczególnych gatunków roślin, na które naniesiono sieć rzeczną, ośrodki miejskie oraz siatką kwadratów o boku 2 km, skorelowaną z krajowym kartogramem polowym ATPOL-u (Hereźniak 1976). Najstarsze daty florystyczne, pochodzące głównie z pracy F. Karo (1881) pt. " Flora okolic Częstochowy " (802 taksony), były podstawą do porównania ich z notowaniami współczesnymi, zaczerpniętymi w znacznej części z własnych badań florystyczno-fitosocjologicznych omawianego terenu (Hereźniak 1993 i cytowana tam literatura oraz Hereźniak i in. 1996). Do analizy tej włączono również najnowsze materiały florystyczne, pochodzące z najczęściej dotąd badanej Wyżyny Krakowsko-Częstochowskiej (Szęląg 2000) - oznaczono je w tabeli I znakiem *.</p>
+        <p xml:id="p-3">Pierwszą wersje regionalnej listy zagrożonych gatunków roślin naczyniowych północnej części Wyżyny Śląsko-Krakowskiej przedstawiono na konferencji naukowej zatytułowanej " Gatunkowa i obszarowa ochrona przyrody Polski Środkowej " , zorganizowanej w Uniwersytecie Łódzkim w dniach 7-9 kwiecień 1995r. (Hereźniak 1995a), a następnie na sympozjum 50. Zjazdu PTB w Krakowie (Hereźniak 1995b). Została ona sporządzona w oparciu o kategorie zagrożeń gatunków roślin i zwierząt, opracowane przez Unię Ochrony Przyrody i Zasobów Naturalnych - IUCN (Lucas, Synge 1978, Olaczek 1985), które stanowiły również podstawę do innych opracowań, w tym do dwóch wyżej wspomnianych wydań list roślin zagrożonych w Polsce (Zarzycki 1986, Zarzycki _AND_ Szeląg 1992).</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

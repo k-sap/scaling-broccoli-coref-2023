@@ -1,0 +1,14 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Rozrywki były o wiele ciekawsze. Kluby, takie jak Stodoła, Hybrydy, Medyk albo łódzkie Pod Siódemkami, były ośrodkami kulturalnymi. Tam spotykało się bardzo ciekawych ludzi, działały kabarety, przychodzili ich twórcy – Pietrzak na przykład, Kofta, Friedman. Były pełne uroku dyskoteki prowadzone przez Adama Halbera i innych DJ-ów, którzy świetnie znali muzykę i tworzyli niepowtarzalny klimat. Jak spojrzy się na czołówkę ludzi, którzy tworzyli kabarety, animowali życie kulturalne w latach 70. i 80., to można zauważyć, że wszyscy oni wywodzą się z Hybryd i Stodoły. Wieczór w jednym z tych klubów nie był tylko zabawą w tancbudzie. To były ośrodki życia kulturalnego – ciekawego i z wartościami. Teraz tego już nie ma. Dzisiaj królują dyskoteki i muzyka, którą trudno zidentyfikować.</p>
+        <p xml:id="p-2">Za to na uczelnianych korytarzach królują nieśmiertelne anegdoty o profesorach i egzaminach. Pan też jakieś zna?</p>
+        <p xml:id="p-3">Przypomina mi się sytuacja studenta, który rzadko pojawiał się na wykładach. Przychodził tylko na ćwiczenia, ponieważ na nich można było mieć tylko trzy nieobecności. Zdawaliśmy egzaminy wspólnie ze studentami zaocznymi, którzy czasem mieli po 50–60 lat. W związku z tym na korytarzu kłębił się wymieszany wiekowo tłum. No i ten kolega, niezorientowany, podchodzi do 60-latka wychodzącego z gabinetu, w którym urzędował profesor, i konfidencjonalnym szeptem pyta: „Jak ci poszło? Słyszałem, że ta stara pierdoła mści się na tych, których nie widziała na wykładach”. Jakież było zdziwienie tego chłopaka, gdy wszedł na egzamin i za biurkiem ujrzał owego 60-latka, czyli profesora. Albo historia z profesorem Karolem Koranyim. Podeszła do niego studentka i spytała, czy może się z nim umówić na egzamin. A on na odparł: „A co ja kurwa, żeby się ze mną umawiać?”.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

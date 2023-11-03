@@ -1,0 +1,18 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Otrząsnęła się z obrzydzenia i tym usilniej myślała o Antku, i już się nie broniła przed wspominkami, i nie uciekała od tych kuszących, słodkich szeptów!</p>
+        <p xml:id="p-2">A dzień się dłużył ogromnie, nie do wytrzymania, że co chwila wychodziła na ganek, to do sadu za dom i przez drzewa patrzyła na pola... albo wspierała się o chruściany płot, dzielący sad od drogi, biegnącej za wsią wzdłuż sadów i zabudowań, i tęskliwymi oczami leciała we świat, na białe, śnieżne pola, do borów ciemniejących, jeno że nic nie rozeznawała, tak ją całą przejmowała głęboka radość, że za nią się ujął i skrzywdzić nie dał!</p>
+        <p xml:id="p-3">- Taki dałby radę wszystkim? Mocarz ci on, mocarz!- myślała z tkliwością.</p>
+        <p xml:id="p-4">Gdyby się zjawił teraz, w tym oczymgnieniu! nie oparłaby mu się, nie!...</p>
+        <p xml:id="p-5">Bróg stał niedaleczko, zaraz za drogą, w polu nieco, wróble w nim świerkały i całymi bandami chroniły się do wielkiej dziury, jaka była wybrana w sianie; parobkowi nie chciało się włazić i z wierzchu zrucać, choć tak Boryna przykazywał, to skubał se po ździebku, kłakami, aż i jamę wyskubał, że parę ludzi mogło się w niej pomieścić.</p>
+        <p xml:id="p-6">- Wyjdź! za bróg! Wyjdź! - powtarzała bezwiednie Antkową prośbę.</p>
+        <p xml:id="p-7">Uciekła do chałupy, bo zaczęli dzwonić na nieszpory, a jej się zachciało samej iść do kościoła, w głuchej, niejasnej nadziei, że go tam spotka.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

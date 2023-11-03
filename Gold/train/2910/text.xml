@@ -1,0 +1,22 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Patrzyła na Istvana z troską, aż uśmiechnął się do niej.</p>
+        <p xml:id="p-2">- No, nie bądź taka zmartwiona, dam sobie radę.</p>
+        <p xml:id="p-3">Jednak nie odpowiedziała uśmiechem, widział, że coś rozważa. Trójkąt w wykroju sukienki polśniewał od potu. Okno zasłonięte paliło się żółto, na dworze czekała spiekota przejmująca odrazą.</p>
+        <p xml:id="p-4">Gdy wszedł pod namiot pnączy porastających werandę, usłyszał w mieszkaniu tupot bosych, zrogowaciałych stóp i wrzaski.</p>
+        <p xml:id="p-5">- Sab! Sab przyjechał!</p>
+        <p xml:id="p-6">Kucharz otwierał drzwi - długa postać w pocerowanej koszuli, wyrzuconej na wierzch - na nogach miał półbuty, które nigdy nie zaznały łaski pasty i szczotki, i dla wygody wypruł z nich sznurowadła. Rozkosznie wygodne spadały z nóg, dlatego Pereira nie chodził, tylko suwał stopami z godnością.</p>
+        <p xml:id="p-7">- Przyszedł list - meldował. - Były dwa telefony, od tego malarza, on jeszcze zadzwoni.</p>
+        <p xml:id="p-8">Nawet nie musiał pytać, list leżał przy nakryciu oparty o flakonik z kwitnącą gałązką. Był pewny, że z Budapesztu, od Ilony, aż zdziwił go znaczek indyjski.</p>
+        <p xml:id="p-9">Znowu jakieś zaproszenie czy prośba? List wypadł mu z palców na stół. Poszedł się najpierw wykąpać.</p>
+        <p xml:id="p-10">Dopiero jedząc pomału kleistą, żółtozieloną potrawę z patatów, ryżu i cebulowego sosu, sięgnął po kopertę i rozciął nożem. Kucharz opowiadał rozwlekle o sporze z Sikhami z sąsiedztwa. Wysypywali z dachu śmiecie na podwórko i sikali na świeżo obsadzone rabatki.</p>
+        <p xml:id="p-11">- A to, sab, pali kwiaty - już był gotów posłać sprzątacza po parę sflaczałych i pocętkowanych floksów na dowód.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Szkolenia odbywają się wg następującego harmonogramu: Europejskie Programy Edukacyjne (Młodzież, Socrates, Leonardo da Vinci)</p>
+        <p xml:id="p-2">Data szkolenia: 13 września (wtorek), Godziny szkolenia: 9.00 – 15.00 Miejsce szkolenia: Rybnik, Ośrodek BUSHIDO, ul. Floriańska 1 Prowadzący: Izabela Moczko - specjalistka Programu EURO-NGO w woj. śląskim Wiedza przekazywana podczas szkolenia dotyczy możliwych źródeł finansowania wszelkich inicjatyw oświatowych. Na szkolenie zapraszamy szczególnie liderów młodzieżowych i pracowników młodzieżowych, nauczycieli, szkolne kluby europejskie, organizacje działające w sferze edukacji, organizacje młodzieżowe oraz wszystkich chętnych do wzięcia udziału w szkoleniu. Zintegrowany Program Operacyjny Rozwoju Regionalnego Data szkolenia: 15 września (czwartek) Godziny szkolenia: 9.00 – 15.00 Miejsce szkolenia: Wodzisław Śląski, ul. Marklowicka 17 (siedziba TCH Rodzina) Prowadzący: Anna Skiba – specjalistka Programu EURO-NGO w woj. śląskim Celem tego programu jest m.in. rozwój społeczeństwa informacyjnego, inwestycje w ochronę środowiska, kulturę i turystykę, wzmocnienie systemu edukacji i szkoleń, wspieranie zakładania własnych przedsiębiorstw. Szkolenie poświęcone jest typom projektów dla organizacji pozarządowych wraz z praktycznymi wskazówkami dotyczącymi wdrażania i zarządzania projektem. Na szkolenie zapraszamy zainteresowanych przedstawicieli wszystkich organizacji pozarządowych i innych instytucji. Sektorowy Program Operacyjny Rozwój Zasobów Ludzkich i SPO Wzrost Konkurencyjności Przedsiębiorstw Data szkolenia: 17 września (sobota) Miejsce szkolenia: Rybnik, Ośrodek BUSHIDO, ul. Floriańska 1 Godziny szkolenia: 9.00 – 15.00 Prowadzący: Marek Wystyrk – specjalista Programu EURO-NGO w woj. śląskim Celem tego programu jest poprawa konkurencyjności przedsiębiorstw i organizacji i instytucji okołobiznesowych. Na szkolenie zapraszamy przedstawicieli instytucji otoczenia biznesu, a także przedstawicieli wszystkich zainteresowanych organizacji pozarządowych i innych instytucji.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

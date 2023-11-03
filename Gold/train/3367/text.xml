@@ -1,0 +1,16 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">- A to ja się pytam: jak mam to rozumieć? - irytuje się dr Józef D., chirurg z jednego ze szpitali klinicznych w centralnej Polsce, który podkreśla, że dzisiejsi pacjenci są zdecydowanie mniej rozgarnięci, co jest prawdopodobnie skutkiem upadku szkolnictwa.</p>
+        <p xml:id="p-2">Według pacjentów, winni są przede wszystkim lekarze. Wielu skarży się, że chociaż podczas wizyt tłumaczą lekarzom, na co są chorzy i jakie lekarstwa powinny zostać im przepisane, ci sprawiają wrażenie głuchych i przepisują zupełnie co innego. - Im się wydaje, że lepiej ode mnie wiedzą, na co ja choruję - narzeka pani Wanda, pacjentka z Ostrołęki, której lekarze od lat próbują wmówić, że jest zupełnie zdrowa.</p>
+        <p xml:id="p-3">Oczywiście tego rodzaju arogancja wpędza pacjenta w jeszcze gorszy stan, w wyniku czego potrzebuje on jeszcze więcej leków, aby ten stan poprawić, co z kolei nieuchronnie uderza go po kieszeni - mocno, jak wiadomo, nadwerężonej koniecznością dostarczania dowodów wdzięczności, które wielu lekarzy chętnie przyjmuje.</p>
+        <p xml:id="p-4">Czynność ta od lat dowodziła, że zrozumienie między lekarzami a pacjentami jest jednak możliwe. Niestety nawet na tym odcinku od jakiegoś czasu pojawiają się konflikty i nieporozumienia. Pacjenci skarżą się, że wielu lekarzy mocno krzywi się na widok należnych im dowodów wdzięczności, co stawia pod znakiem zapytania ich kwalifikacje nie tylko medyczne, ale i umysłowe.</p>
+        <p xml:id="p-5">Lekarze ze swojej strony zapewniają, że to kolejne nieporozumienie, zniekształcające ich utrwalony w społeczeństwie wizerunek. - Oczywiście jako lekarze musimy być na ludzką wdzięczność otwarci, ale wymagamy odrobiny dyskrecji. Nie możemy zgodzić się na tak prymitywne formy zachowania jak wręczanie kopert bezpośrednio na korytarzach przy ludziach - tłumaczy dr D.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

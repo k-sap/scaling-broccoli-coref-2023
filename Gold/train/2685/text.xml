@@ -1,0 +1,18 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Skarby i niedzielna gala</p>
+        <p xml:id="p-2">Kończy się w Elblągu V Festiwal Filmów dla Dzieci i Młodzieży Dziecięce Oskary. W sobotę odbędzie się wielkie szukanie skarbów, zaś w niedzielę uroczysta gala.</p>
+        <p xml:id="p-3">Od początku festiwalu, czyli od 1 czerwca, najmłodsi widzowie obejrzeli w kinie Światowit już jedenaście filmów. Przed nami jeszcze tylko dwa konkursowe obrazy. Obydwa filmy wyświetlone zostaną w sobotę o godz. 11 „Droga do El Dorado”, zaś o 16.30 „Uciekające kurczaki”.</p>
+        <p xml:id="p-4">Bohaterami „Drogi do El Dorado” są Tulio i Miguel, para kanciarzy, dla których znalezienie mapy do mitycznego El Dorado jest równoznaczne z odnalezieniem drogi do fortuny i chwały. Jest tylko jeden problem — zostali uwięzieni pod pokładem statku hiszpańskiego odkrywcy Cortesa. Przed seansem w kinie Światowit ukryte zostaną rozmaite niespodzianki. Ci, którzy przyjdą na film, będą mogli zabawić się w poszukiwaczy. To, co znajdą, zabiorą ze sobą do domu.</p>
+        <p xml:id="p-5">W niedzielę o godz. 16 rozpocznie się uroczysta gala, podczas której poznamy werdykt jury i wyniki głosowania publiczności. W programie gali znajdą się m.in.: projekcja filmu „Nowe szaty króla”, występy zespołów wokalnych i tanecznych oraz pokaz clowna-iluzjonisty. Wszystkim dzieciom, które wybierają się na galę, organizatorzy proponują, by przebrały się za króla lub królową. Dziecięce jury wybierze królewską parę gali.</p>
+        <p xml:id="p-6">Jarosław Grabarczyk</p>
+        <p xml:id="p-7">Dziecięce Oskary od początku cieszą się zainteresowaniem najmłodszych elblążan.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

@@ -1,0 +1,17 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Zawodnicy Stowarzyszenia Dalekowschodnich Sztuk Walki Tao z Radlina uczestniczyli w Ogólnopolskim Turnieju WuShu Juniorów. Impreza odbyła się w Warszawie. Wojownicy Tao stanowili reprezentację województwa śląskiego. – W sumie wystawiliśmy 22 zawodników w wieku od 7 do 17 lat. Nasza ekipa zdobyła 21 miejsc medalowych. 9 złotych krążków, 7 srebrnych i 5 brązowych – mówi Mirosław Barszowski z Tao.</p>
+        <p xml:id="p-2">Zawodnicy rywalizowali z przeciwnikami z całej Polski w ramach konkurencji „qingda“ (walki sportowe). Dwie zawodniczki stowarzyszenia Tao otrzymały puchary dla najlepszych uczestniczek turnieju, ufundowane przez Yuana Guisena, ambasadora Chin w Polsce. Wyróżnienia te otrzymały: Katarzyna Muras, najlepsza zawodniczka turnieju w wieku do 17 lat i Patrycja Wawoczny, najlepsza w wieku do 12 lat.</p>
+        <p xml:id="p-3">Na szczególną pochwałę zasłużyli zawodnicy: Tomasz Stencel, Sebastian Baron, Katarzyna Muras, Marcin Korycki, Kamil Widawski, Paulina Mika, Krzysztof Cieślak. Choć nie zwyciężyli w ramach swoich kategorii wiekowych i wagowych, zaprezentowali bardzo wysoki poziom zaangażowania w walce, odwagę i hart ducha.</p>
+        <p xml:id="p-4">Aktualnie zawodnicy przystępują do intensywnych treningów i przygotowań, by móc tak dobrą formę zaprezentować podczas następnych turniejów, które odbędą się w czerwcu w Warszawie.</p>
+        <p xml:id="p-5">pięć lat historii</p>
+        <p xml:id="p-6">Stowarzyszenie Dalekowschodnich Sztuk Walki Tao istnieje od 2001 roku. Głównym celem organizacji jest rozwój dalekowschodnich sztuk walki na terenie województwa śląskiego oraz podnoszenie poziomu wyszkolenia i sprawności Ø członków w aspekcie fizycznym oraz psychicznym.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

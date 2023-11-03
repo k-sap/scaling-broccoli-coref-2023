@@ -1,0 +1,14 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Dopiero pracujemy nad ustanowieniem naszej wspólnej polityki energetycznej. Musimy mieć naprawdę prawdziwie zintegrowany rynek wewnętrzny w Europie. Wtedy będziemy mieli spójne stanowisko wobec Rosji. Nie można żądać spójnego stanowiska wobec Rosji i równocześnie nie wspierać prawdziwego zintegrowanego rynku. Pierwszym warunkiem jest bezpieczeństwo energetyczne. Przecież to absurdalne, byśmy w UE mieli 27 odrębnych polityk energetycznych. I za to jesteśmy w Komisji odpowiedzialni - za wprowadzenie zasad rynku wewnętrznego, np. zniesienie ograniczeń w obrocie kapitałem. O tym rozmawiałem z waszym premierem. Nie mam nic przeciwko rosyjskim inwestycjom w Unii, wręcz przeciwnie, ale musi być też stosowana zasada wzajemności. Nie chcemy nikogo dyskryminować dopóty, dopóki przestrzegane są zasady konkurencyjności. Rosja może działać i na naszym rynku unijnym.</p>
+        <p xml:id="p-2">Czy Polska na forum Unii nie powinna mieć "ważniejszego" głosu na temat wschodnich sąsiadów Unii, w tym Rosji?</p>
+        <p xml:id="p-3">Ależ ma. Kiedy w Unii omawiamy kwestie związane z Afryką, to nie oczekujemy, by Polska, może z wyjątkiem Ryszarda Kapuścińskiego, w tych dyskusjach dominowała. Oczywiście, Polska może zabierać głos na wszystkie tematy, ale jest coś na kształt specjalizacji poszczególnych członków. Niech i Polska ma swoją specjalizację. Ale ważna uwaga: zabierając głos w Unii, nie powinno się prezentować tylko i wyłącznie interesu krajowego. Stanowisko musi też obejmować interes wspólny. I wspólne stanowisko jest najlepszym sposobem na chronienie stanowiska i interesu narodowego. Niech to stanowisko narodowe zawsze występuje w kontekście wspólnego projektu, jakim jest Unia Europejska. Mówiłem o tym i z premierem, i z prezydentem: tak, stójcie na straży interesów narodowych, ale róbcie to w ramach interesu całej Unii Europejskiej.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

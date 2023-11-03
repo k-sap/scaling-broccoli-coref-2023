@@ -1,0 +1,18 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Możemy tam obejrzeć m.in. pochodzący z 1787 roku kościół z rokokowym wyposażeniem i prawdziwą perłę turystyczną - ruiny zamku Ogrodzieniec.</p>
+        <p xml:id="p-2">Duży gród na szczycie góry Birów został zniszczony w XIII wieku, prawdopodobnie dopiero wówczas zbudowano zamek na sąsiedniej Górze Janowskiego. Badacze lokują najwcześniejszą osadę Ogrodzieniec między tymi właśnie założeniami zamkowymi. Ruiny ogrodzienieckie mają fragmenty murów z XIV w. Najstarsze jest skrzydło wschodnie i baszta z elementami murów na skrzydle południowym.</p>
+        <p xml:id="p-3">Pierwotnie zamek był w posiadaniu Włodków. W latach 1530 - 1545 Seweryn Bonera rozbudował go na rezydencję renesansową.</p>
+        <p xml:id="p-4">Kolejnymi właścicielami byli Firlejowie, Męcińscy i Jaklińscy. Budowlę zamieszkiwano, pomimo zniszczeń, do roku 1810. - Ø Należy bezsprzecznie do najpiękniejszych zamków na świecie. Tak zespoliły się tu resztki dzieła rąk ludzkich z ruinami przyrody - ostańcami - pisał o twierdzy Ogrodzieniec A. Dygasiński.</p>
+        <p xml:id="p-5">I rzeczywiście, w wielu miejscach mur tak zlewa się ze skałą, że trudno znaleźć linię podziału. A Janowskiego ruiny zachwyciły do tego stopnia, że postanowił stworzyć organizację chroniącą takie zabytki. Dzięki niemu w 1906 r. powstało Polskie Towarzystwo Krajoznawcze, które w swojej odznace umieściło ruiny ogrodzienieckiego zamku, otoczone kręgiem z herbami stolic ówczesnych zaborów: Warszawy, Krakowa, Poznania. Aby lepiej poznać historię Ogrodzieńca trzeba się wybrać do Podzamcza - warto.</p>
+        <p xml:id="p-6">Trasy wycieczek</p>
+        <p xml:id="p-7">Kiedy już obejrzymy ruiny możemy wyruszyć na krótką wędrówkę do Ryczowskiego Regionu Skałkowego. Dotrzemy tam przez las, szlakiem niebieskim i żółtym. U kresu 7 km wędrówki czeka nas przepiękny widok na wzgórze ze Straszkowskimi Skałami. Liczą sobie one 494 m i są jednym z najwyższych wzgórz pasma Smoleńsko - Niegowonickiego. Na lewo od nich znajdują się zalesione wzgórza Ruskiej Góry ze skalnym labiryntem. Po stronie prawej wznoszą się dumnie grzbiety Wielkiego Grochowca, Łysej Pałki, Wielkiego Cisownika i Księżej Góry - niezwykły widok. Aby go obejrzeć trzeba się wybrać na niezapomnianą wycieczkę do Podzamcza.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

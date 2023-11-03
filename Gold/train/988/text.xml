@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Prof. Władysław Bartoszewski ukończył w lutym br. 80 lat. Jest współtwórcą i inicjatorem pojednania polsko-niemieckiego, przyczynił się także do zbliżenia polsko-żydowskiego.</p>
+        <p xml:id="p-2">Historyk, publicysta, polityk. W latach 1940-1941 więzień obozu koncentracyjnego Oświęcim (nr obozowy 4427), żołnierz Armii Krajowej i pracownik Biura Informacji i Propagandy (BIP) oraz Delegatury Rządu (w której wraz z W. Bieńkowskim prowadził referat żydowski) współzałożyciel Rady Pomocy Żydom "Żegota", uczestnik powstania warszawskiego 1944. Członek “Nie”, następnie Delegatury Sił Zbrojnych na Kraj. W 1946 roku wstąpił do PSL, był redaktorem Gazety Ludowej. Dwukrotnie więziony przez władze komunistyczne: 1946-1948 i 1949-1954.</p>
+        <p xml:id="p-3">W 1956 r. zaczął "karierę" historyka i kronikarza okupacji niemieckiej, a także zagłady Żydów i powstania w getcie. Przełomem stały się: referat w Klubie Krzywego Koła (1961) "Polacy - Żydzi - okupacja" oraz wydana kilka lat później w "Znaku" (razem z Z. Lewinówną) książka "Ten jest z ojczyzny mojej. Polacy z pomocą Żydom 1939-1945" o Polakach spieszących Żydom z pomocą kosztem życia swojego i najbliższych. Od 1982 w redakcji Tygodnika Powszechnego. Po wprowadzeniu stanu wojennego 13 grudnia 1981 r. Bartoszewski został internowany.</p>
+        <p xml:id="p-4">Wykładowca KUL i Uniwersytetu Latającego oraz uniwersytetów niemieckich w Monachium, Augsburgu i Eichstätt. Wielokrotnie występował przeciwko bezprawnym działaniom komunistycznych władz, m.in. podpisując listy protestacyjne intelektualistów do rządu i sejmu PRL. W 1986 r. otrzymał z rąk Prezydenta Rzeczypospolitej na Uchodźstwie Krzyż Komandorski z gwiazdą Orderu Odrodzenia Polski, m.in. za działalność w sprawach polsko-żydowskich. 1990-1995 ambasador w Austrii. W 1995 roku i od 2000 do 2001 minister spraw zagranicznych RP. W 2001 odznaczony Wielkim Krzyżem Orderu Zasługi RFN za pracę na rzecz pojednania między Niemcami, Polakami i Żydami.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

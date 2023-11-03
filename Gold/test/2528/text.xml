@@ -1,0 +1,21 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">PODKARPACKIE. Nie wiadomo, kto zapłaci za wymianę amalgamatów z naszych zębów</p>
+        <p xml:id="p-2">Krzysztof Kaniuczak: - Pacjenci nie chcą czarnych plomb, bo szpecą uśmiech</p>
+        <p xml:id="p-3">Minister zdrowia chce, abyśmy w ciągu 4 - 5 lat pozbyli się z zębów amalgamatowych plomb. Zawierają one rtęć, nieobojętną dla zdrowia. Tymczasem wielu mieszkańców ma w ustach właśnie czarne plomby, bo takie refunduje Narodowy Fundusz Zdrowia.</p>
+        <p xml:id="p-4">- Amalgamat to mieszanina srebra, cyny, miedzi, cynku i niewielkiej ilości rtęci - tłumaczy Marcin Grzesiuk, stomatolog z centrum medycznego "Promedica" w Rzeszowie.</p>
+        <p xml:id="p-5">Przeciwnicy i zwolennicy</p>
+        <p xml:id="p-6">Pod koniec marca ministerstwo zdrowia przyjęło projekt w sprawie wyrobów medycznych zawierających rtęć. Wraz z plombami amalgamatowymi mają zniknąć z przychodni, szpitali i aptek także m. in. termometry rtęciowe. Kto zapłaci za wymianę plomb? Na razie nie wiadomo.</p>
+        <p xml:id="p-7">Co do szkodliwości tych czarnych plomb lekarze mają różne opinie. Jedni uważają, że to bezpieczne wypełnienia, bo rtęć stanowi śladowe ilości. Inni przekonują, że rtęć to trucizna, szkodzi zdrowiu, zwłaszcza alergikom, osobom chorym na nerki i kobietom w ciąży. Nawołują, aby z amalgamatów zrezygnować.</p>
+        <p xml:id="p-8">- Rtęć zawsze szkodzi - uważa Halina Compała - Kuśnierz, stomatolog. - To dobry pomysł, że amalgamaty mają zniknąć. Pacjenci ich nie chcą, bo są brzydkie. Jest przecież tyle nowoczesnych estetycznych rodzajów plomb.</p>
+        <p xml:id="p-9">Maksymalnie siedem</p>
+        <p xml:id="p-10">Co się nam należy w ramach ubezpieczenia zdrowotnego</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

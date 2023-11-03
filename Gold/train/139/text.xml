@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Gośćmi Klubu byli Adam Krzemiński z "Polityki" - współautor, wraz z Adamem Michnikiem, listu otwartego do premierów Polski i Niemiec w sprawie Centrum - oraz Michael Ludwig, korespondent "Frankfurter Allgemeine Zeitung". Prowadził dyskusję red. Krzysztof Mroziewicz. Dyskusja, która w założeniu miała być dyskusją o przyszłości, szybko przerodziła się w dyskusję o historii. Red. Krzemiński mówił o konieczności upamiętnienia niezafałszowanej części historii ziem zachodnich Polski, a Michael Ludwig o odczuwalnym w Polsce strachu przed próbą reinterpretowania przez Niemców historii II wojny światowej. Na sali widać było wyraźny podział pokoleniowy. Działacze organizacji kresowych i stowarzyszeń Polaków wysiedlonych przez Niemców z Kraju Warty mówili o niezgodzie na obciążanie Polaków winą za los wypędzonych ze Śląska Niemców.</p>
+        <p xml:id="p-2">"My sobie będziemy umieli ułożyć stosunki z Niemcami pod warunkiem, że nikt nie będzie nam przeszkadzał" - mówił ich przedstawiciel Marian Janicki. "Nie potrzebujemy pośredników" - wtórował poseł Ligi Polskich Rodzin Antoni Stryjewski.</p>
+        <p xml:id="p-3">Młodzi studenci i pracownicy uczelni, mówili raczej o wspólnej Europie i szansie na pojednanie, jaką byłoby utworzenie Centrum we Wrocławiu. Ktoś podniósł nawet, że Centrum można byłoby wykorzystać w promocji kandydatury Wrocławia jako organizatora EXPO 2010. - Tragedii takich jak wypędzenia nie wolno używać w marketingu - zaprotestowano natychmiast.</p>
+        <p xml:id="p-4">Sesja nie przyniosła konkluzji. Większość była jedynie zgodna, że najgorszym rozwiązaniem byłoby powstanie Centrum wyłącznie w Berlinie. - Tam stałoby się pomnikiem wzniesionym Niemcom przez Niemców, chcących pielęgnować niemieckie krzywdy.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

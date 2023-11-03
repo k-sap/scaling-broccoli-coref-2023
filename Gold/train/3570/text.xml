@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Przede wszystkim należy rozważyć, w których kategoriach produktowych zagrożenie ze strony marek handlowych jest największe.</p>
+        <p xml:id="p-2">Okazuje się, że w przypadku dóbr o znacznym ładunku symbolicznym wykreowanie silnej marki handlowej jest nieporównanie trudniejsze niż przy produktach czysto użytkowych, takich jak papier toaletowy, śniadaniowy czy worki na śmieci. Marki handlowe tradycyjnie mają silną pozycję w produktach prostych, niedrogich, łatwych do wyprodukowania z użyciem masowych surowców i nieskomplikowanych procesów produkcyjnych.</p>
+        <p xml:id="p-3">Branże, w których pojawiają się marki handlowe, charakteryzuje zwykle nadwyżka mocy produkcyjnych, a na rynku dominują producenci drobni i średniej wielkości. Także określona postawa producentów sprzyja łatwemu zdobywaniu przez marki handlowe silnej pozycji rynkowej. Przede wszystkim sieciom detalicznym łatwo przychodzi wprowadzenie własnych marek w te branże, w których inwestycje producentów w prace badawczo-rozwojowe są nieznaczne (rzadko wprowadzane innowacje są łatwe do skopiowania). Branżami zagrożonymi są także te, w których nikłe jest wsparcie marketingowe udzielane markom producenta. Zagrożenie rośnie, jeśli te skromne budżety marketingowe przeznaczane są głównie na obniżki cen. Zbyt częste redukcje cen obniżają podatność konsumentów na markę. Sprawiają także, że ceny marek producentów stają się mniej wiarygodne. Taka sytuacja zachęca konsumentów do zmiany marki (np. na markę handlową).</p>
+        <p xml:id="p-4">W związku z tym w komfortowej sytuacji znajdują się marki, które nie muszą konkurować na rynku opanowanym przez marki handlowe oraz tanie oferty z segmentu economy. Jak wynika z niektórych analiz, na rynkach opanowanych przez oferty z segmentu premium nawet marki o niewielkich udziałach generują satysfakcjonujące zyski. Tymczasem nawet duży udział w rynku zdominowanym przez tanie oferty (w tym marki handlowe) nie gwarantuje wysokiej zyskowności.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

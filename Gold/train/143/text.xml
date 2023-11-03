@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Pisząc list do jednego z miesięczników filmowych posłużyłem się bardzo archaicznym terminem niegodziwość, bo nie wiedziałem, jak inaczej określić fakt, że redakcja gołosłownie przypisała mi złe intencje (w stosunku do młodych twórców). Gołosłowność jest często bezkarna i trudno ją określić innym słowem, stąd ten podniosły archaizm. Odkąd go użyłem na piśmie, zacząłem regularnie śledzić różne przejawy klasycznej niegodziwości. Ktoś na przykład przyjął na stancję studenta, dał mu bezpłatnie dach nad głową, płacił ogrzewanie, elektryczność i przyjmował od obdarowanego wyrazy wdzięczności, jakim było przystrzyganie przez niego trawy czy zimowe odgarnianie śniegu. Po roku student wrócił do swoich rodzinnych pieleszy i tam ktoś mu doradził, by złożyć skargę na to, że przebywając na stancji był wykorzystywany do pracy, a nie płacono mu za nią i nie zgłoszono go do ZUS. Klasyczna niegodziwość płynąca zresztą z głupoty: rzeczony student przyznał, że był w potrzebie i liczył, że wyrwie jakieś pieniądze od swego dobroczyńcy, o którym wiedział, że jest dość zamożny.</p>
+        <p xml:id="p-2">W amerykańskim społeczeństwie, cywilizowanym przez prawników, cudzoziemców ostrzega się, by nie biegli za głosem sumienia, bo wylądują na ławie oskarżonych. Nieopatrznie udzielona pomoc na ulicy może zaowocować oskarżeniem, że ten, któremu staraliśmy się pomóc, poniósł uszczerbek na zdrowiu z powodu naszych niefachowych działań. Stąd roztropny nie rwie się do pomagania, tylko wzywa odpowiednie służby. Przy sprawnym działaniu takich służb społeczeństwo może lepiej wyjść na tym, że nikt nie próbuje komuś zahamować cieknącej krwi czy podnosić przewróconego na ulicy (zawsze można uszkodzić kręgosłup). Moralnie postawa obojętności jest naganna, medycznie natomiast nadgorliwość może być przyczyną większego nieszczęścia aniżeli zaniedbanie działań.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

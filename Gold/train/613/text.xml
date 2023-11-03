@@ -1,0 +1,18 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Kłopoty handlowców zaczęły się w sierpniu ub. roku, gdy w biały dzień kilka złodziejek ukradło ozdoby do włosów, kolczyki oraz korale. Wszystko warte było 650 zł.</p>
+        <p xml:id="p-2">Kradzież zarejestrowały kamery. Na nagraniu widać, jak sprawczynie wchodzą kolejno do sklepu, robią sztuczny tłok, a następnie kradną, co popadnie. Prym wiedzie kilkuletnia dziewczynka. Łupy upychają m.in. do torby i za pazuchę.</p>
+        <p xml:id="p-3">– Już 15 minut po kradzieży zawiadomiliśmy policję – opowiada pan Janusz. Nie udało się jednak zatrzymać złodziejek. Nie pomogło nagranie z monitoringu. Dochodzenie umorzono w październiku.</p>
+        <p xml:id="p-4">Inne zdarzenie: z półki zniknął zegarek, kolczyki i bransoletki warte prawie 150 zł. I znowu wszystko zarejestrowały kamery. Kradła młoda dziewczyna.</p>
+        <p xml:id="p-5">I tym razem właściciel sklepu przekazał policji nagranie. I znów umorzenie "z powodu niewykrycia sprawcy”. – Ręce opadają – denerwuje się handlowiec. Po tej kradzieży wywiesił na ścianie zdjęcie podejrzewanej dziewczyny z adnotacją "Uwaga! Złodziej”.</p>
+        <p xml:id="p-6">– I niech tę fotografię natychmiast zdejmie, by go nie oskarżyła o zniesławienie. Dopóki nie zapadł wyrok, jest niewinna – radzi dr Piot Kładoczny z Helsińskiej Fundacji Praw Człowieka. I żałuje, że handlowiec nie odwołał się od decyzji o umorzeniu postępowań do sądu.</p>
+        <p xml:id="p-7">Tymczasem, policja twierdzi, że robi wszystko, by schwytać złodziei. – Choć dochodzenie umorzyliśmy, to nadal wykonujemy czynności pozaprocesowe – zapewnia Milena Wardach z biłgorajskiej policji. Dodaje, że wszystkim funkcjonariuszom pokazano zdjęcia podejrzewanych, ich podobizny trafiły nawet na przejścia graniczne.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

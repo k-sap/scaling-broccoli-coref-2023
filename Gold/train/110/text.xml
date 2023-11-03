@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Gliwice są trendi. zawsze lubiłem to miasto. Gliwice są kul.</p>
+        <p xml:id="p-2">tak myślisz ?</p>
+        <p xml:id="p-3">no.</p>
+        <p xml:id="p-4">ja tu jestem może pierwszy drugi raz w życiu.</p>
+        <p xml:id="p-5">tu jest około czternastu tysięcy studentów. więc wiesz polibuda na czternaście tysięcy studentów.</p>
+        <p xml:id="p-6">czternaście tysięcy aż ?</p>
+        <p xml:id="p-7">tak. no. więc wiesz to jest miesteczko akademickie i tu są zawsze fajne imprezy.</p>
+        <p xml:id="p-8">dlatego teraz jest pusto.</p>
+        <p xml:id="p-9">no. no jest pusto bo bo nie ma roku akademickiego. nie ? ale naprawde jak się idzie na impre to zazwyczaj do Gliwic. my na przykład do Gliwic jeździmy na lodowisko z Asią często.</p>
+        <p xml:id="p-10">tak ?</p>
+        <p xml:id="p-11">no.</p>
+        <p xml:id="p-12">no proszę.</p>
+        <p xml:id="p-13">i ono jest do czerwca czynne.</p>
+        <p xml:id="p-14">do czerwca ? !</p>
+        <p xml:id="p-15">od września do czerwca.</p>
+        <p xml:id="p-16">och.</p>
+        <p xml:id="p-17">do października. do czerwca. tak jak rok akademicki. bez studentów tam nic nie ma.</p>
+        <p xml:id="p-18">no proszę.</p>
+        <p xml:id="p-19">także wiesz jak dobrze chcieć. ty słuchaj a ty masz to prawo jazdy na ten motor ?</p>
+        <p xml:id="p-20">no mam.</p>
+        <p xml:id="p-21">tylko ja już ten motor sprzedałem.</p>
+        <p xml:id="p-22">ja wiem. już w czerwcu powiedziałes że go sprzedałeś.</p>
+        <p xml:id="p-23">ale co to twoi rodzice nie wiedzą o tym ?</p>
+        <p xml:id="p-24">nie.</p>
+        <p xml:id="p-25">to jak oni ci to zrobili ?</p>
+        <p xml:id="p-26">no wiesz pojechałam. zdałam i koniec ale po co mi to prawo jazdy jak ja nie mam wiesz no ja na niczym ne jeżdże teraz i jeszcze długo nie pojeżdże.</p>
+        <p xml:id="p-27">dlaczego ? nie masz kasy.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

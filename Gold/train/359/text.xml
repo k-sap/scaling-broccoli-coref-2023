@@ -1,0 +1,23 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">4. Sprawdź, czy możesz podłączyć się do nowo utworzonej bazy:</p>
+        <p xml:id="p-2">Tworzenie kopii zapasowej</p>
+        <p xml:id="p-3">Ćwiczenie 2.8.</p>
+        <p xml:id="p-4">Tworzenie kopii zapasowych jest jednym z podstawowych obowiązków administratora bazy danych. Niezależnie od tego, ile wydano pieniędzy na niezawodny sprzęt, zawsze istnieje możliwość jego awarii i utraty danych. Ponadto, niedoświadczony użytkownik może usunąć lub zmodyfikować wszystkie dane przechowywane w pewnej tabeli niezgodnie ze swoimi zamierzeniami. Wreszcie, każdy nawet najlepiej zabezpieczony system po podłączaniu do internetu może stać się przedmiotem udanego ataku pirata komputerowego. W każdej z tych sytuacji najszybszą (a czasami jedyną) metodą ponownego uruchomienia bazy danych jest jej odtworzenie z aktualnej kopii zapasowej.</p>
+        <p xml:id="p-5">SZBD PostreSQL umożliwia tworzenie logicznych kopii zapasowych baz danych bez konieczności wyłączania systemu. Służą do tego polecenia pgjdump oraz pgjdumpall.</p>
+        <p xml:id="p-6">Najprostszym sposobem wykonania kopii zapasowej bazy danych jest wydanie polecenia pgjdump:</p>
+        <p xml:id="p-7">1. Upewnij się, że SZBD PostgreSQL został pomyślnie uruchomiony.</p>
+        <p xml:id="p-8">2. Zaloguj się na konto użytkownika postgres:</p>
+        <p xml:id="p-9">3. Utwórz kopię zapasową wybranej bazy danych:</p>
+        <p xml:id="p-10">4. W katalogu domowym użytkownika, który wykonał kopię bazy danych utworzony został plik test.bak.</p>
+        <p xml:id="p-11">Działanie narzędzia pgdump polega na utworzeniu skryptu złożonego z poleceń SQL oraz wewnętrznych poleceń programu psql, które po wykonaniu odtworzą całość bazy danych. Skrypt wynikowy jest zapisany w postaci tekstowej.</p>
+        <p xml:id="p-12">Oprócz wykonywania kopii bezpieczeństwa baz danych użytkownika należy zabezpieczyć się na wypadek uszkodzenia systemowej bazy danych template1. Za pomocą polecenia pgdumpall można wykonać kopię zapasową wszystkich baz danych w całej instalacji (włącznie z bazą systemową i tabelami systemowymi). Operację tę może przeprowadzić jedynie administrator SZBD PostgreSQL (a nie administrator poszczególnych baz danych):</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

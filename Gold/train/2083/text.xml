@@ -1,0 +1,14 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Podjęliśmy decyzję, że w tej grupie może być jedna osoba z doświadczeniem z innej firmy farmaceutycznej i najwyżej jedna osoba po studiach medycznych. Preferowani byli absolwenci Akademii Wychowania Fizycznego, ewentualnie innych kierunków przyrodniczych (np. biologia). Chcieliśmy, żeby to byli przedstawiciele wcześniej niepracujący w tym charakterze, dla których nowa rzeczywistość będzie BAAARDZO porywająca. Chcieliśmy mieć kilka osób z branży FMCG (Fast Moving Consumers Goods - dobra szybkozbywalne, głównie żywność i chemia gospodarcza).</p>
+        <p xml:id="p-2">Grupie tej zaoferowaliśmy znakomite, intensywne szkolenia i własne zaangażowanie w tworzenie tzw. ducha zespołu. Okazało się, że to działa - nasi ludzie odbywali z własnej woli, bez mrugnięcia okiem po kilkanaście wizyt dziennie, mimo wytycznych od 8 do 10, co było klasyką branży w tamtych dniach. No i najważniejsze, że naprawdę doganialiśmy rywala. Dzisiaj większość firm farmaceutycznych sięga po ludzi z FMCG, po techniki Trade Marketing (tzw. marketingu handlowego), ale my byliśmy pierwsi.</p>
+        <p xml:id="p-3">Znowu zmieniłem firmę - tym razem "wessała" mnie firma FMCG (spożywcza), w której zostałem dyrektorem kategorii produktów. Rynek naszej kategorii produktów właśnie się załamał, m.in. z powodu kryzysu gospodarczego w Rosji. Wśród tzw. normalnych ludzi można było ciągle słyszeć zdanie: "Ludzie nie mają pieniędzy". Nasze znakomite marki (nazwijmy je "O", "W", "B"), z których sztandarowa "O" miała wcześniej około 20% udziału w rynku, traciły sprzedaż i - co gorsza - udziały. Sztandarowa marka "O" osiągnęła w końcu 8,7%. Trzeba było jak najszybciej wyhamować spadek sprzedaży i udziałów - a następnie odzyskać na rynku, co się da z tego, co utraciliśmy.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

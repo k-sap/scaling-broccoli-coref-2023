@@ -1,0 +1,19 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Kobiety także mają prawo do takiej wolności. Na Zachodzie najczęściej pobierają się ludzie około trzydziestoletni, ustawieni życiowo i niezależni, kobiety dopiero wtedy rodzą dzieci. Na założenie rodziny decydują się więc ludzie bardziej dojrzali i świadomi.</p>
+        <p xml:id="p-2">- Kilka lat bez rodziców i bez męża to szansa, by poznać inne modele życia?</p>
+        <p xml:id="p-3">- Dla kobiet szczególnie ważne jest w tym czasie, aby przyjaźnić się z kobietami. Większość matek jest negatywnie nastawiona do swoich córek, dlatego dobrze, by młoda kobieta poznała inne młode kobiety i przekonała się, że nie wszystko musi być tak, jak było w rodzinnym domu. Dzięki przyjaźniom i bliskim związkom uczy się różnorodności życia, zaczyna rozumieć, co to znaczy być osobą cenioną i kochaną.</p>
+        <p xml:id="p-4">- Dopóki nie oderwiemy się od rodziny, nie ma na to szans?</p>
+        <p xml:id="p-5">- Dopóki nie staniemy obok i nie zobaczymy, jaka pieczęć odcisnęła się w dzieciństwie w naszym sercu i umyśle, nie będziemy wolni.</p>
+        <p xml:id="p-6">- I nie wyrwiemy się z zaklętego kręgu powtarzających się sytuacji i emocji?</p>
+        <p xml:id="p-7">- Niestety najbardziej ze wszystkiego zależy nam na tym, aby potwierdzało się to, co wyobrażamy sobie na temat świata. Gdy myślimy: "męczę się tak, jak zawsze się męczyłam, jak męczyła się moja matka i wszystkie kobiety, tak już jest", wtedy będziemy żyć tak, by potwierdzać to przekonanie.</p>
+        <p xml:id="p-8">- Ciekawe, że wiemy, jakich mężczyzn nie chcemy - jeśli ojciec pił, chcemy Ø trzeźwego, jeśli był tyranem - chcemy Ø opiekuńczego, i tak dalej. Ale po czasie okazuje się, że Ø trzeźwy też jest uzależniony, a Ø opiekuńczy to tyran. Nie wystarczy chcieć?</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

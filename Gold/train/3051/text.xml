@@ -1,0 +1,56 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">MARTA</p>
+        <p xml:id="p-2">No, no... Jakaś poważna impreza...</p>
+        <p xml:id="p-3">RYSZARD</p>
+        <p xml:id="p-4">Po czym tak sądzisz?</p>
+        <p xml:id="p-5">MARTA</p>
+        <p xml:id="p-6">Maria od pół godziny okupuje łazienkę, ty widzę też masz problemy z wybraniem krawata...</p>
+        <p xml:id="p-7">RYSZARD</p>
+        <p xml:id="p-8">Który byś radziła?</p>
+        <p xml:id="p-9">Marta podchodzi, wybiera,</p>
+        <p xml:id="p-10">MARTA</p>
+        <p xml:id="p-11">Jeżeli już, to ten...</p>
+        <p xml:id="p-12">zaczyna wiązać krawat Rysiowi.</p>
+        <p xml:id="p-13">Idziecie do opery?</p>
+        <p xml:id="p-14">RYSZARD</p>
+        <p xml:id="p-15">Nie... Do Klubu Lekarza na spotkanie autorskie.</p>
+        <p xml:id="p-16">MARTA</p>
+        <p xml:id="p-17">Od kiedy to interesują cię takie spotkania?</p>
+        <p xml:id="p-18">RYSZARD</p>
+        <p xml:id="p-19">Mnie? W ogóle. Marysia chciała. Dostała zaproszenie.</p>
+        <p xml:id="p-20">MARTA</p>
+        <p xml:id="p-21">No jak?</p>
+        <p xml:id="p-22">Ryszard spogląda w lustro, poprawia krawat.</p>
+        <p xml:id="p-23">RYSZARD</p>
+        <p xml:id="p-24">Niech będzie.</p>
+        <p xml:id="p-25">MARTA</p>
+        <p xml:id="p-26">Postanowiłeś nie puszczać jej samej?</p>
+        <p xml:id="p-27">Ryszard rozgląda się za spodniami i zakłada je. Zapina Ø.</p>
+        <p xml:id="p-28">RYSZARD</p>
+        <p xml:id="p-29">Zazdrosna?</p>
+        <p xml:id="p-30">Marta podchodzi blisko, dopina mu pasek.</p>
+        <p xml:id="p-31">MARTA</p>
+        <p xml:id="p-32">To raczej ty boisz się zostać rogaczem...</p>
+        <p xml:id="p-33">Nadal stoją bardzo blisko siebie.</p>
+        <p xml:id="p-34">RYSZARD</p>
+        <p xml:id="p-35">Nie rozśmieszaj mnie...</p>
+        <p xml:id="p-36">MARTA</p>
+        <p xml:id="p-37">Odkąd twoja żona została redaktorem naczelnym wydaje mi się, że inaczej na nią patrzysz... Mylę się?</p>
+        <p xml:id="p-38">RYSZARD</p>
+        <p xml:id="p-39">Bzdury...</p>
+        <p xml:id="p-40">MARTA</p>
+        <p xml:id="p-41">W każdym razie bardzo się przejęła swoim nowym zajęciem.</p>
+        <p xml:id="p-42">RYSZARD</p>
+        <p xml:id="p-43">Owszem.</p>
+        <p xml:id="p-44">MARTA</p>
+        <p xml:id="p-45">Zaczęła się stawiać w sprawie tego Kornackiego. I nie podoba mi się to. Nie po to ją tam posłaliśmy. Musisz jej wyjaśnić, że nie robi swojej gazety... Pilnuj jej, to twoja rola.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

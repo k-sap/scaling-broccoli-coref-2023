@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Po obejściu biega dziesięć psów, obszczekują obcych. Kilka z nich to psy miejscowych, które były przywiązane do drzew w lesie. - Tego białego odcięłam dosłownie w ostatniej chwili, bo ktoś go powiesił - pani Joanna głaszcze dużego kundla.</p>
+        <p xml:id="p-2">Pan Krzysztof od dawna interesował się zastosowaniem konopi przemysłowych w kosmetyce, medycynie, ale przede wszystkim w budownictwie. Od 1995 r. prenumerował wydawane w Lyonie pismo producentów konopi "Les echos du Chanvre". Tam trafił na opis technologii produkcji kanosmozy - włókien konopnych mieszanych z wapnem, z których robi się m.in. płyty izolacyjne - estetyczne, ekologiczne i niepalne. Postanowił spróbować. Na razie na własny użytek, bo dom w Strzałkowie wymagał ocieplenia, a potem może na większą skalę.</p>
+        <p xml:id="p-3">- W okolicy bieda aż piszczy, bezrobocie, więc może byłaby to jakaś szansa - mówi. - Zwłaszcza że w tym regionie to bardzo stara tradycja. Pobliska wieś nazywa się Konopki, tędy przebiegał szlak bursztynowy, a załogi przejeżdżających karawan zaopatrywały się tu prawdopodobnie we włókno konopne, może także gotowe wyroby.</p>
+        <p xml:id="p-4">Nie przewidywał większych trudności, technologia wykorzystania konopi jako materiału budowlanego jest popularna w Unii Europejskiej. Jego projektem zainteresowało się także AIDECO, Stowarzyszenie Pomocy Krajom Europy Centralnej w Integracji Ekonomicznej z siedzibą w Genewie. Nawiązał kontakt z Instytutem Włókien Naturalnych w Poznaniu, od którego kupił 40 kg konopnych nasion odmiany Białobrzeskie i obsiał nimi pół hektara.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Drobni hodowcy i przetwórcy czekają biernie, aż konsument sam się nawróci. Trudno im się dziwić, skoro nawet rząd z ich dość marnej sytuacji usiłuje uczynić cnotę i przekonuje świat do polskich produktów jako "pośrednich pomiędzy rolnictwem biologicznym o superwymogach a produkcją masową".</p>
+        <p xml:id="p-2">Tymczasem z faktu, że świat przestraszył się masowej produkcji żywności, nie wynika wcale, że przerzuci się na produkty polskie tylko dlatego, że nasze rolnictwo jest biedne, zacofane, a więc prawie ekologiczne. Dla konsumenta unijnego żywność naturalna to taka, której metody uzyskiwania są certyfikowane, czyli dokładnie kontrolowane.</p>
+        <p xml:id="p-3">Przed wybuchem BSE uważano, że ekologiczne metody upraw i hodowli zwierząt pozostaną marginesem dla hobbystów. Obecnie ten margines z każdym rokiem rozszerza się coraz bardziej. - W malutkim Liechtensteinie obroty żywnością ekologiczną przekroczyły 17 proc. rynku, w Austrii ponad 10 proc., w Szwecji 11 proc. W Niemczech jest to 3 proc., ale w pieniądzach to już 640 mln euro rocznie - mówi Dorota Matera ze stowarzyszenia Ekoland. - W Polsce ten rynek to zaledwie 0,06 proc. obrotów żywnością.</p>
+        <p xml:id="p-4">"Szacuje się, że w Europie jest już 80 mln konsumentów, chcących kupować żywność smaczną i zdrową, i gotowych płacić za nią drożej niż dotychczas - pisze Paweł Klewin w liście do "Polityki". - Tymczasem od kilku już lat na rynku rolnictwa ekologicznego występuje przewaga popytu nad podażą".</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

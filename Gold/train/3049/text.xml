@@ -1,0 +1,18 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Jakby ją to nazwisko w pierś uderzyło, Marta wyprostowała się i ze szczególnym połączeniem śmiechu i tego samego, co wprzódy, wewnętrznego warczenia wybuchnęła:</p>
+        <p xml:id="p-2">- Cha, cha, cha! No, to już u nich familijne! Wiecznie bukiety wiążą, a co który zwiąże, to miotła. Czysta miotła! Widywałam ja kiedyś takie bukiety często, a ten do tamtych podobny jak dwie krople wody! Ależ pachnie, aż się po całej sali rozeszło! Znałam ja kiedyś i te zapachy... Uf... nie mogę...</p>
+        <p xml:id="p-3">I nie mogła już wstrzymać się, zakaszlała; pomarszczone jej czoło nabiegło krwistym rumieńcem. Z tym rumieńcem na czole i krztusząc się jeszcze wymówiła znowu:</p>
+        <p xml:id="p-4">- Justyna!</p>
+        <p xml:id="p-5">- Co, ciotko?</p>
+        <p xml:id="p-6">Stała teraz przed młodą panną prosta i ciężka, podobna do słupa umieszczonego na wielkich, w kwieciste pantofle obutych stopach, i wprost jej w twarz ostro patrzała. Po chwili wskazujący palec do wysokości swej twarzy podniosła i poruszyła nim w powietrzu prawie groźnie.</p>
+        <p xml:id="p-7">- Cóż ty sobie myślisz, panienko"... - z cicha zaczęła. - Może ty myślisz, że jednym ludziom Pan Bóg daje serca, a drugim kamienie"... Pewno tak myślisz, ha? U ciebie serce, bo ty panienka, a u niego kamień, bo to chłop! ha? Pobaw się z kamuszkiem, pobaw się, co to szkodzi? z nudy, z melancholii! Na pociechę po pańskich karmelkach chłopskie miotły, tymczasem, póki Pan Bóg znowu jakiego panicza nie ześle, ha?</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

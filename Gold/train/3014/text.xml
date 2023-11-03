@@ -1,0 +1,14 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">- Dobrze, opowiem ci.</p>
+        <p xml:id="p-2">Ania zaczęła swoją opowieść. Historia Lądowania Przybyszów była jedną z pierwszych rzeczy, o których uczyły się dzieci po pójściu do szkoły. Większość z nich słyszała zresztą wcześniej tę historię, przynajmniej jej fragmenty. Ania przez trzy lata uczyła w szkole. Była dobrą nauczycielką i umiała opowiadać tak, by dzieci słuchały z zapartym tchem. Tę Historię umiał zresztą opowiadać każdy mieszkaniec Miejsca. Tym razem trochę zmodyfikowała swoją opowieść mając świadomość, że mówi do osoby nieprzygotowanej, dla której pewne szczegóły są mniej interesujące. Karolina słuchając jej miała wrażenie, że słucha kanonu podobnego do Bibli Na początku stworzył Bóg Niebo i Ziemię ; czegoś, co jednocześnie jest traktowane jak rzeczywistość i jak mit.</p>
+        <p xml:id="p-3">Dnia 5 maja 1897 roku z portu Plymouth w Zjednoczonym Królestwie wypłynął parostatek SS Butterfly w kierunku kontynentu amerykańskiego. Jego celem były porty Halifax w Kanadzie oraz Boston i Norfolk w Stanach Zjednoczonych. Tego samego dnia zarzucił kotwicę w Breście we Francji, po drugiej stronie Kanału La Manche. Po przyjęciu na pokład Ø towarów i pasażerów, następnego dnia wyruszył w kierunku Ameryki. Nigdy jednak do swego celu nie dopłynął. Statek miał na pokładzie 87 marynarzy i 340 pasażerów. Od momentu opuszczenia Kanału pogoda była znakomita. Świeciło słońce. Fala była niezbyt wysoka, nawet pasażerowie czuli się dobrze i spacerowali po pokładzie. Po pięciu dniach niczym nie zakłóconego rejsu statek minął archipelag Azorów. Nic nie zapowiadało zbliżającej się tragedii.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

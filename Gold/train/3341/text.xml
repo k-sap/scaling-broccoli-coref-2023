@@ -1,0 +1,16 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">KWIDZYN. Budowa mostu przez Wisłę w okolicy Kwidzyna powinna rozpocząć się w 2009 r. Do końca marca gotowa będzie dokumentacja. Przekonywał o tym wojewoda pomorski Roman Zaborowski w Kwidzynie. Jest małe „ale” w tej sprawie. Warunkiem sukcesu jest znalezienie pieniędzy na most w budżecie państwa...</p>
+        <p xml:id="p-2">- Chcę przekazać samorządowcom coś, co moim zdaniem jest już pewne. Ta inwestycja na pewno będzie wykonana, nie może być odkładana. W planach na ten rok jest dokończenie dokumentacji i wydanie pozwolenia na budowę. W tych przygotowaniach uczestniczą moje służby. Rozpoczęcie inwestycji leży po stronie Generalnej Dyrekcji Dróg Krajowych i Autostrad i wiem, że przymierzają się do budowy mostu w 2009 r. Nie znam żadnej osoby, w tym ministra infrastruktury i szefa GDDKiA, które miałby inne zdanie niż to, że należy rozpocząć budowę mostu przez Wisłę w 2009 r. Nie znam też żadnej osoby, która negowałaby potrzebę budowy tego mostu. To sztandarowa inwestycja, która pozwoli m.in. obniżyć koszty działalności przedsiębiorstw, które znajdują się w Kwidzynie. Most będzie transportowym oknem na kraj - uważa Roman Zaborowski.</p>
+        <p xml:id="p-3">Wojewoda podkreślił, że przez dziewięć lat pracował w samorządzie.</p>
+        <p xml:id="p-4">- Samorząd jest tym organem, który w największy sposób zmienia oblicze regionu, a w szczególności naszego województwa. Pozostanę wierny ideałom samorządności i będę sprzyjał wszystkim samorządowym inicjatywom - zapewnia Roman Zaborowski.</p>
+        <p xml:id="p-5">Wojewoda pomorski spotkał się z Andrzejem Krzysztofiakiem, burmistrzem miasta, oraz Jerzym Godzikiem, starostą kwidzyńskim, rozmawiając między innymi na temat planowanych inwestycji, które mają być finansowane ze środków unijnych. Roman Zaborowski zwiedził miasto oraz zakłady papiernicze International Paper Kwidzyn S.A.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

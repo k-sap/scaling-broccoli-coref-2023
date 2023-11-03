@@ -1,0 +1,56 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">sp5: no trudno</p>
+        <p xml:id="p-2">sp2: zanieść odłóż</p>
+        <p xml:id="p-3">sp5: nie</p>
+        <p xml:id="p-4">sp3: no dajta ni jej się pobawi ona o</p>
+        <p xml:id="p-5">sp2: ze psem się będzie bawić</p>
+        <p xml:id="p-6">sp5: co piesku ? piesku yyy ale masz mordę. ale grubas yyy</p>
+        <p xml:id="p-7">sp3: ale tłuściutki jest</p>
+        <p xml:id="p-8">sp2: jak Ø matkę jeszcze doi</p>
+        <p xml:id="p-9">sp3: no</p>
+        <p xml:id="p-10">sp5: no bo na mleku Ø matki jest</p>
+        <p xml:id="p-11">sp2: ale źre łon ? jak nie będzie żarł to zdechnie</p>
+        <p xml:id="p-12">sp8: taak</p>
+        <p xml:id="p-13">sp5: dwa trzy dni i musi</p>
+        <p xml:id="p-14">sp1: jak mu się żryć za chce to będzie żarł</p>
+        <p xml:id="p-15">sp8: jo</p>
+        <p xml:id="p-16">sp2: weź no sobie przynieś o patrz</p>
+        <p xml:id="p-17">sp8: co ?</p>
+        <p xml:id="p-18">sp2: taborek i usiądź</p>
+        <p xml:id="p-19">sp1: a niech stoi</p>
+        <p xml:id="p-20">sp8: babcia ja sześć godzin siedziałem w samochodzie wczoraj ja</p>
+        <p xml:id="p-21">sp2: a jo jak bym nie usiadła</p>
+        <p xml:id="p-22">sp8: zobacz zobacz jak ja wyglądam ? jak małpa po prostu</p>
+        <p xml:id="p-23">sp3: ty jak byś nie usiadła to by było dopiero</p>
+        <p xml:id="p-24">sp2: to już. o czkawka mnie męczy</p>
+        <p xml:id="p-25">sp5: chcesz mleka chcesz mleka chcesz mleka</p>
+        <p xml:id="p-26">sp1: druga</p>
+        <p xml:id="p-27">sp2: wlej se jeszcze tego picia i pij</p>
+        <p xml:id="p-28">sp1: no co jedziemy Leszek ?</p>
+        <p xml:id="p-29">sp3: o już bedzieta jechać</p>
+        <p xml:id="p-30">sp8: jedziem</p>
+        <p xml:id="p-31">sp1: druga</p>
+        <p xml:id="p-32">sp2: a do czego</p>
+        <p xml:id="p-33">sp8: no to akurat</p>
+        <p xml:id="p-34">sp3: to już o drugiej musita być ?</p>
+        <p xml:id="p-35">sp1: nie tam nie musim tylko patrze na zegarek że jest druga nie ? bo mówię ciekawe która godzina jest</p>
+        <p xml:id="p-36">sp2: acha. posiedźta jeszcze trochę</p>
+        <p xml:id="p-37">sp0: co ?</p>
+        <p xml:id="p-38">sp2: no uciekają już</p>
+        <p xml:id="p-39">sp1: no bo za dużo ludzi a wy ma musita mieć spokój a nie ?</p>
+        <p xml:id="p-40">sp2: ja muszę mieć co jak nieraz wyglądam i mówię żeby choć się ktoś</p>
+        <p xml:id="p-41">sp0: tak dzisiaj telefon od rana i jęczą że takie samotne</p>
+        <p xml:id="p-42">sp5: zabieram go</p>
+        <p xml:id="p-43">sp8: co ?</p>
+        <p xml:id="p-44">sp5: zabieram go</p>
+        <p xml:id="p-45">sp9: jeszcze jest jeden taki nie ? ale jaki kudłaty nie ? taka kulka</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

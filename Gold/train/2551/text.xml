@@ -1,0 +1,18 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">- To ciężka praca - mówi Tadeusz Klebba, układając granitową kostkę wokół pomnika Jana III Sobieskiego w Gdańsku. - Trzeba się schylać. Nieraz cały dzień. Gdy układa się duże krawężniki, np. te uliczne, trzeba tony dźwigać. To średnio płatne zajęcie. Gdy trzeba coś szybko skończyć - to także po godzinach pracujemy.</p>
+        <p xml:id="p-2">Gdzie uderzyć</p>
+        <p xml:id="p-3">Tadeusz Klebba jest brukarzem już 32 lata. - Trzeba się na tym znać - mówi. - Dobry fachowiec zwykłym młotkiem rozbije nawet duży głaz. Jeśli wie, gdzie uderzyć: tam, gdzie kamień ma żyłę. Jaśniejszy i ciemniejszy piaskowiec - każdy z nich inne ma żyły. Kostki trzeba równo kłaść i „wiązać” - jak murarz cegły. Wzór - zależy od inspektora, jak sobie życzy. My jesteśmy z firmy Drogomed. Ja, Tadeusz Klebba i Janusz Piątek. W latach siedemdziesiątych było dużo brukarzy. Jeszcze sprzed wojny. Byłem wtedy pomocnikiem. Od przedwojennych fachowców się uczyłem tego zawodu. Teraz prawdziwych brukarzy znających się na układaniu kostki kamiennej jest niewielu.</p>
+        <p xml:id="p-4">W tym fachu raczej nie ma bezrobocia.</p>
+        <p xml:id="p-5">Zrównoważony rynek</p>
+        <p xml:id="p-6">Rynek pracy brukarzy jest raczej zrównoważony. To znaczy, że fachowców jest tylu, ilu potrzeba. Potwierdza to Ewa Dąbrowska, zastępca kierownika Powiatowego Urzędu Pracy w Gdańsku. W tym urzędzie nie zarejestrowano żadnego bezrobotnego brukarza.</p>
+        <p xml:id="p-7">Nie było też zapotrzebowań na fachowców z tej branży. Nie wpłynęła żadna oferta pracy.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

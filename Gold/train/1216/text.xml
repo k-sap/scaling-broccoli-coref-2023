@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">To, że mściciele mieli prawo bezkarnie zabić nie tylko mordercę, ale i jego synów, zostało zapisane czarno na białym. Ale nie koniec na tym. Sens formułki et ille ac filii eius soli sint faidosi polega na zawężeniu kręgu osób, które mścicielom wolno zabić. Wiąże się to z poprzednią częścią zdania: ośmiokrotność zwykłego wergeldu morderca ma zapłacić sam, bez udziału dalszych krewnych. Wolno stąd wnosić, że gdyby nie zapłacono "zwykłego" wergeldu in simplo, którego trzecią część musieli pokryć boczni krewni zbrodniarza, byliby oni razem z mordercą i jego domownikami wystawieni na wróżdę strony poszkodowanej.</p>
+        <p xml:id="p-2">Tytuł XVIII Prawa Sasów poświęcony jest odpowiedzialności karnej pana za zabójstwo popełnione przez lita, a właściwie temu, jak można się od tej odpowiedzialności uwolnić: „Jeżeli lit z rozkazu lub z poduszczenia swojego pana zabije jakiegoś człowieka, na przykład nobila, to pan płaci główszczyznę lub podlega wróżdzie; jeżeli zaś [lit] popełni ten czyn bez wiedzy pana, to ma być przez pana wyzwolony, i [wtedy] krewni ofiary mają się mścić na nim samym [to jest sprawcy] i na pozostałych siedmiu jego krewnych, a pan lita musi przysiąc z jedenastoma współprzysiężnikami, że nie był wtajemniczony w zbrodnię" (Litus si per iuissum vel consilium domini sui hominem occiderit, ut puta nobilem, dominus conpositionem persolvat vel faidam portet; si autem absque conscientia domini hoc fecerit, dimittatur a domino, et vindicetur in illo et aliis VII consanguineis eius a propinquis occisi, et dominus liti se in hoc conscium non esse cum XI iuret).</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

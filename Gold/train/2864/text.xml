@@ -1,0 +1,22 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">- Akurat.</p>
+        <p xml:id="p-2">- Akurat tak. Na przykład jak szedłem na dwór, żeby pograć w piłkę, to zawsze musiałem go brać ze sobą.</p>
+        <p xml:id="p-3">- Chyba żartujesz - zaperza się ojciec. - To niemożliwe. Na pewno ktoś z nas zawsze z wami był.</p>
+        <p xml:id="p-4">- Bardzo mi przykro, ale niestety nie. I mówię ci, że strasznie tego nie lubiłem, bo... - chętnie bym opowiedział, jak nienawidziłem zabierać młodszego brata na boisko. Jak musiałem prosić kolegów, żeby podawali do niego piłkę, bo inaczej się znudzi, zacznie płakać albo będzie chciał iść do domu, a ja nie będę mógł pograć.</p>
+        <p xml:id="p-5">Naprawdę bardzo chciałem to powiedzieć, ale nie mogłem, bo Tośka wybiegła na dwór, a na dworze deszcz.</p>
+        <p xml:id="p-6">- Dziecku trzeba mówić zdecydowanie, czego się od niego chce. I ono to akceptuje - mówi ojciec, gdy tylko udaje mi się namówić Tośkę do powrotu.</p>
+        <p xml:id="p-7">- Chyba nie do końca.</p>
+        <p xml:id="p-8">- Mówię ci, że tak.</p>
+        <p xml:id="p-9">- Akurat w tym przypadku to ja jestem tym dzieckiem, o którym mówisz, i mówię ci, że nie akceptowałem całej masy rzeczy... - już, już chcę powiedzieć jakich, gdy dzwoni telefon.</p>
+        <p xml:id="p-10">To Agnieszka.</p>
+        <p xml:id="p-11">Roztrajam więc uwagę między Tośkę, rodziców i to, co mówi Aga. A w zasadzie o co pyta. A pyta, czy Tosia zrobiła kupę. Bo z tego, co ona wie, to już kilka dni nie robiła, więc dobrze by było, gdyby wreszcie zrobiła.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

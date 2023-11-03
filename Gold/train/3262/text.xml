@@ -1,0 +1,14 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">BADANIA GENETYCZNE PRZECZĄ BLISKIEMU POKREWIEŃSTWU DZISIEJSZYCH LUDZI I NEANDERTALCZYKÓW.</p>
+        <p xml:id="p-2">Odkąd w 1857 roku odkryto grubokościsty szkielet ludzki w dolinie Neandra - Neanderthal (dziś Neandertal) - tożsamość owego człowieka budzi wiele kontrowersji. Początkowo widziano w nim schorowanego kozackiego dezertera z czasów wojen napoleońskich. Wkrótce okazało się, że należy do rodu, który zamieszkiwał Europę, północną Afrykę i Bliski Wschód przed dziesiątkami tysięcy lat. Od tego czasu trwa spór o to, czy neandertalczycy byli naszymi przodkami, czy odrębnym gatunkiem, boczną gałęzią rodowodu człowieka (Skąd pochodzimy, "WiŻ" nr 3/1995). I oto, 140 lat po odnalezieniu pierwszych szczątków w Neandertal, ów właśnie szkielet dostarczył nowych, tym razem genetycznych, argumentów do dyskusji.</p>
+        <p xml:id="p-3">Neandertalczycy byli w początkach ostatniego zlodowacenia jedynymi Europejczykami. Jeszcze 40 tys. lat temu mieszkali pod dzisiejszym Krakowem i w krajach śródziemnomorskich. Mieli wówczas za sobą około 100 tys. lat zasiedlenia terenów ciągnących się od Atlantyku po góry Iranu. Byli doskonale przystosowani do życia w mroźnym klimacie. Mieli krępe, muskularne ciała, wydatne nosy, mocne szczęki. Atletyczna budowa neandertalczyków obojga płci służyła zapewne m.in. intensywnemu wytwarzaniu ciepła w mięśniach. Rozbudowany nos umożliwiał zaspokojenie głodu tlenowego tychże mięśni przez intensywne oddychanie suchym, lodowatym powietrzem, które ogrzewało się i nawilżało przed trafieniem do płuc. Potężne szczęki i zęby nadawały się nie tylko do jedzenia, lecz także np. do obróbki skóry upolowanych zwierząt. Ich mięso dostarczało tak potrzebnej energii, nie tylko jako paliwa dla mięśni, ale i dla innego, wielce energochłonnego narządu - mózgu. Półtoralitrowy mózg neandertalczyków był nawet nieco większy od naszego. Bardzo mocne szczęki wymuszały utrzymanie wydatnych wałów nadoczodołowych, przenoszących wokół oczodołów naprężenia powstające przy zaciskaniu szczęk, co nadawało neandertalczykom prymitywny, "małpi" wygląd.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

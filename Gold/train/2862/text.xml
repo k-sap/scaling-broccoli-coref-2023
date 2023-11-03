@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Przyjęci serdecznie i nakarmieni, wypoczęli w ciągu dnia, by wieczorem udać się wraz z Hudecem jego wysłużoną tatrą do granicy słowacko-polskiej. Tam pożegnali się z uczynnym Słowakiem i ruszyli pieszo na najbardziej niebezpieczny odcinek drogi. Warunki marszu były wyjątkowo ciężkie. Niespodziewana odwilż, która nastąpiła rankiem, rozmroziła śnieg. Idąc, zapadali się co chwila po kolana w tę lepką masę. Było ciepło. Hanka szła w swetrze, Wojciuch w narciarskim skafandrze, a mimo to pot spływał im ciurkiem po twarzach. Ostrożnie skradając się i nasłuchując pokonali granicę. Wojciuch szedł przodem. Zmęczyli się już porządnie, ale żadne z nich nie myślało o odpoczynku, chcieli szybko oddalić się od granicy. O czwartej nad ranem znaleźli się w Siedzinie. Wyczerpani, chcąc nie chcąc, musieli zatrzymać się na odpoczynek. Janek przypomniał sobie, że tu właśnie mieszka jego kolega, Staszek Grodzicki. Wiedział nawet, gdzie znajduje się jego dom. Razem wracali z kampanii wrześniowej i Wojciuch nocował wówczas u niego. Oby tylko zastał go w domu.</p>
+        <p xml:id="p-2">Zagroda Grodzickich znajdowała się na uboczu wsi. Podeszli ostrożnie pod dom, zapukali w okno. Za szybą ukazała się twarz matki kolegi. - Ja do Staszka! - powiedział głośno, żeby usłyszała. - Niech go pani zawoła! Podreptała w głąb mieszkania. Za chwilę w oknie pojawiła się zaspana twarz kolegi. Po chwili utrudzeni podróżnicy odpoczywali w ciepłym pokoju. Okna zasłonięto szczelnie kocami. Było czysto i przytulnie. Pili gorącą herbatę, pałaszowali z apetytem odgrzane przez panią Grodzicką ruskie pierogi. Swym gospodarzom powiedzieli, że ukrywają się przed gestapo, są ścigani listami gończymi i nie mają innego wyjścia, jak przedrzeć się do Słowacji. Pobyt w gościnnym domu Grodzickich nie trwał długo - godzinę, najwyżej dwie i już trzeba było ruszać w dalszą drogę.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

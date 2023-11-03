@@ -1,0 +1,18 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Choć istnieje duże prawdopodobieństwo, że tak właśnie było, na oficjalne potwierdzenie musimy jeszcze poczekać. Jak wynika z wypowiedzi R. Ciomka, efekty prac komisji możemy poznać już w tym tygodniu.</p>
+        <p xml:id="p-2">Poza Powiatowym Inspektorem Nadzoru Budowlanego okoliczności katastrofy budowlanej, bo tak zakwalifikowano zdarzenie, badają przedstawiciele Policji oraz Państwowej Inspekcji Pracy. W razie potrzeby powołani mogą zostać również biegli rzeczoznawcy.</p>
+        <p xml:id="p-3">Halę w Doruchowie buduje firma z Czermina. Funkcję kierownika budowy pełni Piotr J.</p>
+        <p xml:id="p-4">- Ja bezpośrednio przy tym zdarzeniu nie byłem, więc nie potrafię powiedzieć, jakie były jego przyczyny - powiedział nam.</p>
+        <p xml:id="p-5">Dopuszcza więc każdą możliwość, łącznie z błędem ludzkim, nie chce snuć domysłów na ten temat. Według niego prace przebiegały tak samo jak na wielu innych budowach prowadzonych przez jego firmę.</p>
+        <p xml:id="p-6">- Wiązar został zwolniony z dźwigu, ale był zabezpieczony odciągami założonymi w kalenicy - wyjaśnia, przyznając jednocześnie, że tym razem najwidoczniej okazało się to być zbyt słabym zabezpieczeniem.</p>
+        <p xml:id="p-7">Zdaje sobie sprawę, iż w ostatecznym rozrachunku znaczna część odpowiedzialności za wypadek może spaść właśnie na niego. Nie kryje więc swoich obaw związanych z efektami prac komisji. A trzeba zaznaczyć, że konsekwencje mogą być naprawdę poważne. W najlepszym razie zakończy się na mandatach wydanych przez PINB i PIP, których maksymalna wysokość to odpowiednio 500 i 1.500 zł. Taka kara bez wątpienia nie byłaby zbyt uciążliwa. W grę wchodzi jednak także nakazanie zmiany kierownictwa budowy, a przede wszystkim odebranie uprawnień budowlanych i postępowanie prokuratorskie. Przerwa w robotach budowlanych potrwa do końca prac komisji. O werdykcie poinformujemy niezwłocznie po jego zapadnięciu.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

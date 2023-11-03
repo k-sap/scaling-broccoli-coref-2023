@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Pakt z Borutą</p>
+        <p xml:id="p-2">O zakup Gaz Regionu wraz z należącą do niego Eko-Borutą starało się kilka przedsiębiorstw. WFOŚ sprzedał go jednak spółce Med-Serwis.</p>
+        <p xml:id="p-3">Trudno do niej dotrzeć. W biurze numerów nie ma jej telefonu. Z dokumentów sądowych wynika, że ma siedzibę w centrum Łodzi - w kamienicy przy ul. Jaracza 17, lokal 2B. Ale pod podanym adresem nie ma żadnego szyldu, drzwi są zamknięte na cztery spusty. Dozorczyni i pracownicy firm mieszczących się w tej samej kamienicy zapewniają, że lokal od dawna stoi pusty. Jak ustaliliśmy, kamienica należy do Marka K., byłego prezesa WFOŚ. Sam zaś Med-Serwis - do Andrzeja Kubisa, prezesa Gaz Regionu, i Sławomira Iwanowicza. Pierwszym prezesem spółki był Witold Patriarcha, wcześniej dyrektor Wydziału Rozwoju w Urzędzie Miasta Łodzi.</p>
+        <p xml:id="p-4">Chociaż cena za Gaz Region nie była wygórowana (przypomnijmy - 1 mln 15 tys. zł), Fundusz zgodził się, by Med-Serwis zapłacił za nią w trzech ratach: 26 lipca, 30 września i 23 grudnia 2002 r. Okazuje się, że Med-Serwis kupił Gaz Region za pieniądze... należącej do niego Eko-Boruty. Najpierw pożyczył od niej 416 tys. zł. Później, dokładnie trzy dni przed przekazaniem Funduszowi drugiej raty - dostał od Eko-Boruty 449 tys. zł. W zamian Eko-Boruta objęła udziały w Med-Serwisie. Z własnych pieniędzy Med-Serwis musiał dołożyć do interesu tylko 150 tys. zł.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

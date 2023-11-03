@@ -1,0 +1,22 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Belka: Nie, nie znam.</p>
+        <p xml:id="p-2">Skowronski: To jest jakaś pierwsza transakcja między BIG Bankiem a PZU. Nie zna pan w ogóle tego dokumentu?</p>
+        <p xml:id="p-3">Belka: Bo nie muszę znać.</p>
+        <p xml:id="p-4">Skowronski: Jak ktoś jest w radzie nadzorczej, to nie musi znać?</p>
+        <p xml:id="p-5">Belka: Nie, dlatego że to przecież to było we wczesnej fazie negocjacji czy jakiejś propozycji. Jeżeli w ogóle nie jest to jakiś dokument, który sprokurowano na potrzeby dzisiejszej dyskusji...</p>
+        <p xml:id="p-6">Skowronski: Dokument jest podpisany: Zbigniew Sobolewski, wiceprezes zarządu BIG Banku, i Andrzej Betlej.</p>
+        <p xml:id="p-7">Belka: To z jednej strony.</p>
+        <p xml:id="p-8">Skowronski: Bo to jest propozycja złożona przez BIG Bank.</p>
+        <p xml:id="p-9">Belka: Rozumiem, że jak jest propozycja, to się o niej dyskutuje.</p>
+        <p xml:id="p-10">Skowronski: To prawda, ale istota tej propozycji polega mniej więcej na tym, że PZU Życie miałoby wykupić 49% akcji dwóch spółek z ograniczoną odpowiedzialnością i właściwie zamrozić tam pieniądze przeznaczone na zarządzanie.</p>
+        <p xml:id="p-11">Belka: Skoro tak, to chcę powiedzieć, że prawdopodobnie PZU zrobiłoby na tym dobry interes, choć trudno mi w tym momencie się wypowiadać, bo nie znam tej umowy ani tych dwóch organizmów, tych instytucji czy też spółek, które powstały. Natomiast PZU i PZU Życie od wielu miesięcy w gruncie rzeczy zajmują się inwestowaniem w różnego rodzaju przedsięwzięcia. Swoją drogą, te dwie instytucje przez ostatnie półtora roku przekształciły się w fundusz inwestycyjny wysokiego ryzyka. Warto by było prześledzić, ile pieniędzy te dwie instytucje zainwestowały " czy, jak pan woli, zamroziły " w różnego rodzaju przedsięwzięcia w całej polskiej gospodarce, w przemyśle, w NFI. Jakoś nie budzi to niczyjego " a już najmniej panów prezesów PZU i PZU Życie " oburzenia. Myślę, że jeżeli taka propozycja została skierowana, to zdaje się, wynikła z tego, że tym się ostatnio, niestety, prezesi zajmowali, zamiast porządkować działalność ubezpieczeniową swojej firmy.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

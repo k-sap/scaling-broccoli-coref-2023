@@ -1,0 +1,26 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">a wszędzie nie było..</p>
+        <p xml:id="p-2">bo nawet w Szczyrku na dole we wsi nie było tego śniegu wiesz a na górze był..</p>
+        <p xml:id="p-3">no widzisz..</p>
+        <p xml:id="p-4">więc jak ja już wjechałam do tego Szczyrku i zobaczyłam że kurna wstałam o piątej rano i nie ma śniegu..</p>
+        <p xml:id="p-5">yhm..</p>
+        <p xml:id="p-6">powiem ci Karol najlepszy numer Arek kupił narty ale tych nart nie ma w domu więc Gocha się cały czas zastanawia gdzie je schował i u kogo..</p>
+        <p xml:id="p-7">skąd wiesz że kupił Gosia ?</p>
+        <p xml:id="p-8">no bo teściowa mi powiedziała. a teściowej powiedział że kupił. a on mamuni nie okłamuje..</p>
+        <p xml:id="p-9">mało tego pożyczył od Gochy pieniądze na rachunek</p>
+        <p xml:id="p-10">ta i teraz nie wie za co przyjdzie upomnienie..</p>
+        <p xml:id="p-11">ale dziwne ż e nie zadzwonił wiesz. może się bał że się wygadam..</p>
+        <p xml:id="p-12">słuchaj zadzwoni może dzisiaj może jutro bo jest sam w domu. a nie dzisiaj ma służbę przepraszam tak że jak zadzwoni to jutro wieczorem..</p>
+        <p xml:id="p-13">zapytać się Karol czy dobrą twardość kupił. bo to go ostatnio męczyło. co to jest RS ?</p>
+        <p xml:id="p-14">mówię ci on po prostu jak rozmawia z Karolem to się zamyka w łazience żebym nie słyszała jak Boga kocham. gdzie dzwoniłeś a w łazience do Karola dobrze. ale po co masz się kochanie denerwować on z takim tekstem no to wtedy mam go ochotę zabić na pewno..</p>
+        <p xml:id="p-15">a słyszałaś o nowej gazecie. jak ostatnio go za kupował sobie. zamówił sobie to są Narty czy Ski ?</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

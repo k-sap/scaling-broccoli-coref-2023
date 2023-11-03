@@ -1,0 +1,17 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Producenci półproduktów i gotowych dań podkreślają, że swoimi działaniami wychodzą naprzeciw oczekiwaniom konsumentów i chcą im ułatwić codzienne życie.</p>
+        <p xml:id="p-2">Na stronie internetowej jedna z firm zachęca m.in. do spróbowania błyskawicznych naleśników i gofrów. Do ciasta w plastikowych butelkach wystarczy dolać mleko. – To świetne wyjście dla młodych i zabieganych – uważa pracownica firmy. – Opakowanie, z którego można przygotować sześć, siedem sztuk, kosztuje około 3 zł. Oferujemy także inne ciasta, np. karpatkę, keks. Ułatwiamy życie kobietom, które albo nie potrafią upiec ciasta albo nie mają na to czasu. Stosujemy naturalne składniki.</p>
+        <p xml:id="p-3">Z popytu na gotowe dania cieszy się także Wojciech Tomczak, rzecznik prasowy producenta sosów w słoikach, pizzy w kartonie i zup z papierka. – Widać wyraźnie, że życie w ostatnim czasie przyspieszyło – zauważa Wojciech Tomczak. – Naszym klientom, oprócz obiadu, sprzedajemy również wolny czas.</p>
+        <p xml:id="p-4">Alarm dla żołądka</p>
+        <p xml:id="p-5">Babcia Katarzyny Pawłowskiej apeluje: – Wnusiu, nie jedz tego świństwa, bo ci się od tego żołądek popsuje. Mogę ci nawet codziennie gotować, gdybyś tylko miała czas mnie odwiedzić.</p>
+        <p xml:id="p-6">– Czasem zastanawiam się nad słowami babci – przyznaje Katarzyna Pawłowska. – Produkty przed dopuszczeniem do sprzedaży przechodzą liczne testy, ale ciągle słyszy się o różnych rzeczach, które miały pomagać, a tak naprawdę szkodziły. Skoro dotyczy to nawet lekarstw, to co dopiero mówić o gotowym jedzeniu?</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

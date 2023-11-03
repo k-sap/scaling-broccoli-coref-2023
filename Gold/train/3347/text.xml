@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Proszę o podchodzenie do podanych w artykule ["Warchoły i mniejsze rury", POLITYKA 26] liczb osób biorących udział w manifestacjach potępiających "warchołów" z Radomia z należnym i niezbędnym dystansem, podobnie jak do zawartości teczek w IPN, gdyż panowała wówczas zasada, aby plusy mnożyć kilkakrotnie. Jako były, a wówczas początkujący pracownik aparatu PZPR uczestniczyłem w służbie porządkowej na stadionie Tarnovii, gdzie odbyła się ta spędomanifestacja. Mogło być tam 2-3 tys. ludzi, zwiezionych autobusami z całego województwa tarnowskiego, wśród których przeważała kadra kierownicza i partyjni aktywiści. Nie należy więc wierzyć w to, co podał teleksem partyjny sprawozdawca w swojej informacji do KC. Bo to nieprawda. Cała wojewódzka organizacja partyjna liczyła wówczas trochę więcej niż 20 tys. osób. Być może sprawozdawcy chodziło o taką właśnie liczbę, by brzmiało to wiarygodnie i pochlebnie o całej organizacji. Z tego, co wiem, niektórzy potępiający "warchołów" radomskich werbalnie otrzymywali potem bardzo nieprzyjemne telefony. Jeden z tych wiecowych mówców żalił się do mnie na ten temat, mówiąc, że go wyrolowano.</p>
+        <p xml:id="p-2">Zdarzały się też przypadki nadgorliwości. Podczas dyżuru w kancelarii I sekr. KW otrzymałem też list, oczywiście adresowany do I sekretarza KC, w którym ktoś zapewniał tow. Gierka o swej pełnej z nim solidarności, a także z KC PZPR. Jak się okazało, był to pracownik Urzędu Wojewódzkiego w Tarnowie, który parę miesięcy potem wyjechał do USA i już stamtąd nie wrócił. Być może paszport i list wiernopoddańczy miał świadczyć o jego lojalności wobec władz. Więcej o "Ludziach tarnowskiej władzy" w moich wspomnieniach, które przekazałem na dyskietce Bibliotece Jagiellońskiej.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

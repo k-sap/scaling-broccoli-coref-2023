@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Piotr Ikonowicz kandydat na prezydenta: "- Polsce potrzebna jest dziś sprawna, mała armia z poboru, z dobrze wyszkoloną zawodową kadrą o wysokim poziomie wykształcenia. Konieczne do modernizacji armii środki powinniśmy wydrzeć z Pentagonu. Nasz akces do NATO pogorszył naszą sytuację w Europie, gdzie przez wiele rządów jesteśmy postrzegani jako amerykański "koń trojański". Staliśmy się państwem frontowym systemu rządzonego przez USA. Zostaliśmy na życzenie Amerykanów wmieszani w haniebną awanturę w Kosowie, sądzę, iż Amerykanie powinni nam to w jakiś sposób wynagrodzić. Dobrym sposobem byłoby, gdyby Pentagon zapłacił za przezbrojenie polskiej armii. (...) Uważam, że polski przemysł zbrojeniowy powinien mieć szansę eksportować na różne rynki i nie przejmować się stanowiskiem Departamentu Stanu. Zwłaszcza że amerykańscy handlarze bronią są święci. Broń sprzedaje się tam, gdzie strzelają, w związku z czym Polska nie może być bardziej papieska niż papież". (Forum "Jaka armia potrzebna Polsce", "Polska Zbrojna", 11 VIII)</p>
+        <p xml:id="p-2">Prof. Leon Kieres prezes Instytutu Pamięci Narodowej: "- Kiedy będziemy mogli zajrzeć do teczek? - Nikt w Polsce nie jest w stanie z dokładnością nawet do miesiąca na nie odpowiedzieć. (...) Jeśli pierwsze dokumenty udostępnimy w połowie przyszłego roku, to powiem, że dobrze nam poszło. (...) W Instytucie Gaucka po 10 latach od rozpoczęcia działalności od zgłoszenia wniosku o udostępnienie materiałów do uzyskania w nie wglądu przez pokrzywdzonego mija około pięciu lat. A w NRD mieszkało tylko 17 mln osób, dwa razy mniej niż w Polsce". (W rozmowie z Agnieszką Kuchcińską-Kurcz, "Głos Szczeciński - Magazyn", 5-6 VIII)</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

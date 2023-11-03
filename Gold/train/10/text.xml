@@ -1,0 +1,12 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Już niebawem ulica Mysia powinna przestać kojarzyć się z poprzednim ustrojem i wszechobecną wówczas cenzurą. Budynek, w którym cenzorskie nożyczki okaleczyły niejeden tekst, przestał istnieć. Powstanie tu za to nowoczesny biurowiec z parkingiem podziemnym i szybkobieżnymi windami. Niewątpliwym atutem biurowca przy Mysiej 5 jest jego lokalizacja, w bezpośrednim sąsiedztwie Giełdy oraz instytucji rządowych. Ciekawa będzie jego elewacja - zostanie on pokryty piaskowcem w dwóch kontrastujących kolorach. We wnętrzach recepcyjnych budynku znajdą się zaś ozdobne fragmenty, pochodzące z rozebranego gmachu cenzury. Nowy budynek będzie podzielony na dwie niezależne części. W pierwszej, siedmiokondygnacyjnej, będzie miała swoją siedzibę Polska Agencja Prasowa. Część druga, licząca osiem kondygnacji, będzie w całości przeznaczona na wynajem. Łączna powierzchnia użytkowa nowego gmachu wyniesie ponad 8 tys. mkw., z czego będzie można wynająć ponad 5.7 tys. mkw. Biura na poszczególnych piętrach to pomieszczenia liczące od 650 Ø do 750 mkw. Inwestorzy zapowiadają, że pomieszczenia użytkowe będą całkowicie wykończone. Znajdą się w nich podwieszane sufity i podnoszone podłogi. Dla wygody przyszłych użytkowników zostanie zainstalowana klimatyzacja oraz doprowadzone wszelkie przyłącza, jak np. linie telefoniczne i okablowanie komputerowe. Nie będzie także najmniejszych trudności z dostaniem się z parteru na poszczególne piętra. W budynku zostaną bowiem zainstalowane cztery szybkobieżne windy, w których pomieści się jednorazowo 13 osób. Projektanci nie zapomnieli także o posiadaczach samochodów. Pod gmachem znajdzie się dwupoziomowy parking, na którym będzie mogło zaparkować 75 samochodów. Nie wiadomo jeszcze, ile trzeba będzie zapłacić za wynajęcie 1 mkw. powierzchni biurowej. Najemcy mogą zatem negocjować ceny z wynajmującym. Wiadomo jedynie, że wynajem miejsca parkingowego to wydatek rzędu 150 USD miesięcznie. W nowym biurowcu użytkownicy z pewnością będą czuć się bezpiecznie, ponieważ zostanie on objęty całodobową ochroną. Budowa tego obiektu powinna zakończyć się za dwa lata, a pierwsi najemcy najprawdopodobniej wprowadzą się tam w marcu 2003 r.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

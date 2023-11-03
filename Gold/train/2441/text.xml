@@ -1,0 +1,21 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">FOT. MARCIN OLIVA SOTO</p>
+        <p xml:id="p-2">- Nasi klienci są tak ubodzy, że nie stać ich często na nic. Być może więc padniemy bez pomocy pana ministra Belki - mówi Kazimierz Lewkowicz.</p>
+        <p xml:id="p-3">FOT. MARCIN OLIVA SOTO</p>
+        <p xml:id="p-4">- Jest wolny rynek i to on powinien decydować o tym, czy jakieś sklepy są potrzebne - uważa Roman Wiecha. Obok Irena Lewkowicz z „lumpeksu” w Jeleniej Górze.</p>
+        <p xml:id="p-5">Nieuczciwa konkurencja?</p>
+        <p xml:id="p-6">Rozmowa z Eugeniuszem Szopą - wiceprezesem Kamodexu - producenta odzieży w Kamiennej Górze.</p>
+        <p xml:id="p-7">- Co pan sądzi o rządowych planach doprowadzenia do likwidacji sklepów z używaną odzieżą z importu?</p>
+        <p xml:id="p-8">- Z mojego punktu widzenia, sklepy z używaną odzieżą to nieuczciwa konkurencja. Nie brakuje ubrań importowanych na podstawie nieuczciwie sporządzonych dokumentów celnych, w których podaje się zaniżoną wartość towaru. Odzież taka jest tania, co prowadzi do utraty miejsca na krajowym rynku przez polskich producentów, których uczciwa praca obciążona jest kosztami podatków i ZUS-u. Z powodu wydatków na takie cele nie jesteśmy w stanie zaoferować równie niskich cen. Automatycznie zmniejsza się zbyt naszego towaru w kraju.</p>
+        <p xml:id="p-9">- Ale państwa firma znana była przecież z mocnej pozycji w eksporcie.</p>
+        <p xml:id="p-10">- Tak, eksport stanowi ponad 95 procent naszej sprzedaży. Zmniejsza się jednak z powodu przewartościowanego złotego. W sumie więc firmy takie jak nasza tracą zarówno na rynku krajowym, jak i zagranicznym. W Kamodexie, zatrudniającym około 600 osób, musieliśmy obniżyć płace. Załoga jest rozgoryczona. Nielegalny import odzieży należy więc zahamować. Trzeba też pamiętać, że jakość używanej odzieży z importu pozostawia czasem sporo do życzenia. Zachodnie firmy upłynniają w Polsce zapasy, których nie mogą sprzedać u siebie.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

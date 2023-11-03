@@ -1,0 +1,14 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Jest to działanie, które możemy rozpatrywać albo na poziomie ogólnym, czyli nastawienia do partnera dyskusji i sposobu, w jaki będziemy się z nim komunikować, albo jako pojedynczy chwyt w dyskusji, tak jak każdy inny wzięty z tej listy. W każdym bowiem wypadku, kiedy stykamy się z argumentem intencjonalnie pozornym, możemy zastosować podobny manewr argumentacyjny, czyli odpowiedzieć innym argumentem pozornym. Chwyt sofistyczny nie zawsze musi być chwytem erystycznym, dodajmy za Arystotelesem (1990: 171b). Staje się nim wówczas, gdy celem argumentującego jest odniesienie zwycięstwa w sporze. Gdy natomiast celem argumentacji jest uzyskanie poklasku u słuchaczy z powodu biegłości w pozornym dowodzeniu, mamy do czynienia z sofistyką.</p>
+        <p xml:id="p-2">Załóżmy, że jesteśmy przygotowani na rzeczową dyskusję, zebraliśmy merytoryczne argumenty i chcielibyśmy je przedstawić rozmówcy i audytorium. Tymczasem nasz oponent ucieka od tematu, próbując sprowadzić rozmowę do zaczepno-obronnej potyczki słownej. Co wówczas należałoby zrobić?</p>
+        <p xml:id="p-3">Otóż najlepiej zdemaskować intencje przeciwnika i skarcić go za to, że próbuje narzucić rozmowie niewłaściwy, niemerytoryczny ton. Dobrym zabiegiem byłoby zwrócenie się do audytorium jako sędziów i świadków odmowy współpracy ze strony naszego rozmówcy. Zwrot w stylu: "Sami państwo widzą, że... a. w tej atmosferze trudno o rzeczową dyskusję"; b. mojemu rozmówcy bardziej odpowiada klimat wzajemnych ataków, niż..."; c. z panem X rozmowa byłaby może przyjemnością, natomiast nas interesuje dobro sprawy A"; d. dalsza dyskusja na tym poziomie nie prowadzi do celu. Gdybym nie szanował swoje go Ø i państwa czasu, chętnie podjąłbym z panem X polemikę. Jednak projekt, o którym dyskutujemy jest dla mnie poznawczo bardziej interesujący niż potyczki słowne, dlatego pozwolę sobie zignorować uwagi pana X i przejść do meritum..."</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

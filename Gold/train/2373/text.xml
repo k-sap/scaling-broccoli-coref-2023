@@ -1,0 +1,17 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Kontrola po tragedii w kopalni „Jas-Mos” miała odpowiedzieć na pytanie: czy wypadki to efekt świadomych zaniedbań, czy braku należytej staranności. Tymczasem sami inspektorzy Okręgowych Urzędów Górniczych przyznali, że kontrola polegała na wytykaniu błędów, o których wszyscy w kopalniach wiedzą.</p>
+        <p xml:id="p-2">W „Murckach” stwierdzono, że przy przenośnikach ścianowych brak linek hamulców bezpieczeństwa, które pozwalają wyłączyć urządzenie.</p>
+        <p xml:id="p-3">W tej samej kopalni hydranty na rurociągu przeciwpożarowym były tylko ozdobnikami. Górnicy nie mieli do nich dostępu. Podobny przypadek wykryto w kopalni „Jas-Mos” zaraz po tragicznym wypadku.</p>
+        <p xml:id="p-4">W marcu, po serii tragedii Wojciech Bradecki, szef Wyższego Urzędu Górniczego zapewniał na łamach „TŚl. ” o działaniach kontrolnych. – Już przeprowadzamy wzmożone, niezapowiedziane kontrole. W zeszłym tygodniu przeprowadziliśmy taką w KWK „Krupiński” i jej wyniki są zadowalające. Widać, że załogi kopalń są mocno zmobilizowane po ostatnich wydarzeniach – mówił w rozmowie z Jackiem Bomborem 25 marca.</p>
+        <p xml:id="p-5">Raport, który właśnie ujrzał światło dzienne, wymienia 184 nieprawidłowości w 36 kopalniach. Co trzecie zaniedbanie wykryto w kopalniach Katowickiego Holdingu Węglowego. A jednak Okręgowy Urząd Górniczy nie ruszył ani jednego przedstawiciela kierownictwa kopalń wchodzących w skład KHW. W drugiej pod względem liczby nieprawidłowości Rybnickiej Spółce Węglowej OUG wszczął postępowania wobec siedmiu osób.</p>
+        <p xml:id="p-6">Postępowania wyjaśniające objęły w sumie 96 pracowników kopalń. Zaledwie co trzeci z nich to członek kierownictwa, lub wyższego dozoru ruchu. Reszta to dozór średni i niższy oraz pracownicy fizyczni.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

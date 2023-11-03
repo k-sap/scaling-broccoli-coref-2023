@@ -1,0 +1,16 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Manipulacja polega tu na przekazie fałszywych informacji w postaci kłamstwa bądź informacji implikowanej. Przekazywane informacje, gdyby je powiedzieć wyraźnie, brzmiałyby na przykład tak: Jestem bardzo zmęczony trudną nauką. Jestem niezbyt rozgarnięty. To zadanie jest dla mnie za trudne. Jestem śpiący. Nie potrafię sam zapiąć guzików.</p>
+        <p xml:id="p-2">Strategia nierealnych gróźb</p>
+        <p xml:id="p-3">Strategia nierealnych gróźb (szantaży) jest komplementarna w stosunku do strategii bezradności i stanowi jej logiczne uzupełnienie. Podobnie jak przy strategii bezradności, używane są tu wypowiedzi, które w tym przypadku przekazują groźby - jawne bądź implikowane. Różnica polega na tym, że informacja może być prawdziwa lub fałszywa, zaś groźba (podobnie jak każda obietnica) co najwyżej mniej lub bardziej realna (niezależnie zresztą od szczerości zamiaru). Wprowadzanie w błąd, będące istotą każdej manipulacji, dotyczy tutaj właśnie stopnia realności groźby. Książę wykorzystuje sprawdzony mechanizm o nazwie "strach ma wielkie oczy". Zgodnie z tym mechanizmem matka panicznie boi się utraty miłości dziecka i dlatego groźby dotyczące tego obszaru są traktowane jako realniejsze niż w rzeczywistości.</p>
+        <p xml:id="p-4">Cały powyższy mechanizm jest w istocie bardzo prosty. Oto parę przykładów takich gróźb:</p>
+        <p xml:id="p-5">Przestanę kochać mamusię. Będę robił, co będę chciał. Nikt mnie nie zmusi do niczego. Zatruję wszystkim życie tak, że im się odechce. Każdą osobę, która ogranicza moją swobodę, będę traktował jak osobistego wroga. Służba u księcia jest zasadniczym obowiązkiem matki i będzie z niego surowo rozliczana. Zacznę chodzić na wagary.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

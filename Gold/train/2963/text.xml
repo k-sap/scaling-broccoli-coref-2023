@@ -1,0 +1,25 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">- Nie rozumiem.</p>
+        <p xml:id="p-2">- Dywan istnieje tylko w przepowiedni.</p>
+        <p xml:id="p-3">- Niekoniecznie.</p>
+        <p xml:id="p-4">- Teraz ja nie rozumiem. Masz ten dywan?</p>
+        <p xml:id="p-5">- Jeszcze nie. Właśnie po niego idziemy. - Do sklepu z dywanami?</p>
+        <p xml:id="p-6">Puzon zaśmiał się cicho. Ale w jego śmiechu nie było zakłopotania.</p>
+        <p xml:id="p-7">- Kilka tygodni temu podsłuchałem rozmowę dwóch chłopaków. Stali przy wybiegu i jeden opowiadał drugiemu o pewnym zdarzeniu.</p>
+        <p xml:id="p-8">- Wywrotce na rolkach?</p>
+        <p xml:id="p-9">- Jego rodzice właśnie kupili stary dom. I się do niego przeprowadzili. I w tym domu był strych. Podczas porządków na tym strychu chłopak znalazł pod podłogą dziwny rulon. Kiedy go rozwinął, okazało się, że jest to dywan. Żółty. W dziwne kółka.</p>
+        <p xml:id="p-10">Torba nic nie powiedział, tylko jego oczy zrobiły się dziwnie okrągłe.</p>
+        <p xml:id="p-11">- I na tym nie koniec. Jest jeszcze coś. Jak go położył na podłodze, to okazało się, że... dywan się nad nią lekko unosi. Rozumiesz? Unosi!</p>
+        <p xml:id="p-12">Torba milczał. Znał Puzona od lat. Puzon nie był zwierzakiem, który wymyśliłby sobie taką historię po to tylko, żeby mieć pretekst do działania. Puzon tysiąc razy zastanawiał się, zanim podjął jakąś decyzję. Do tego dochodził jeszcze Opiekun.</p>
+        <p xml:id="p-13">On nigdy nie wypuściłby Puzona, gdyby nie miał do niego zaufania.</p>
+        <p xml:id="p-14">- No dobrze, skoro nawet znalazł ten dywan, to dlaczego nie wsiadł na niego i nie poleciał?</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

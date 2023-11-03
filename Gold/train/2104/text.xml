@@ -1,0 +1,20 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Niepokój, pieczenie i bóle w moczowodzie, mętny mocz, utrudnione oddawanie moczu, uczucie strachu, wzdęcie w dolnej części brzucha, częste oddawanie moczu.</p>
+        <p xml:id="p-2">OGIEŃ II - układ potrójnego ogrzewacza i osierdzia regulującego i kontrolującego procesy organizmu - sylaba - Si.</p>
+        <p xml:id="p-3">Zrównoważenie energii meridianów ciepła - Potrójnego ogrzewacza czy Jelita cienkiego, warto stosować nawet profilaktycznie, gdyż odgrywają one dużą rolę w organizmie. Także: zaburzenia krążenia, trudność w oddychaniu, wzdęcia brzucha, obstrukcje, problemy w oddawaniu moczu.</p>
+        <p xml:id="p-4">Choroby związane z niedoborem energii</p>
+        <p xml:id="p-5">W tym przypadku zastosować można podwójną terapię dźwiękiem: kamertony i sylaby.</p>
+        <p xml:id="p-6">DRZEWO - zaburzenia narządów głównych meridianów, ciemność przed oczami (mgiełki, mroczki), skurcze naczyniowe i mięśni, drętwienie kończyn, skąpe menstruacje, depresja, beznadzieja, apatia, blady język, żółta cera.</p>
+        <p xml:id="p-7">OGIEŃ I - zaburzenia narządów głównych meridianów, ucisk w sercu, piersiach, zimne kończyny, biały nalot na języku, niechęć, uczucie gorąca w stopach dłoniach, fale gorąca z "oblewankami", blada twarz, trudności z wyrażeniem siebie, przygnębienie, obojętność w stosunku do siebie i innych.</p>
+        <p xml:id="p-8">ZIEMIA - zaburzenia narządów głównych meridianów, mały apetyt, zwiotczenie lub zanik mięśni, wzdęty brzuch, krew w kale, myśli destrukcyjne i przygnębiające, żółta cera, słabość kończyn, opuszczenie narządów wewnętrznych, obfite menstruacje, jasny obfity mocz, depresja.</p>
+        <p xml:id="p-9">METAL - zaburzenia narządów głównych meridianów, przyspieszony oddech, suchy kaszel, flegma (ew. z krwią), suchość w ustach i gardle, osłabienie, zmęczenie, smutek, znudzenie, blada twarz z sinymi wargami, cichy głos, chrypka, fale gorąca, wypieki na policzkach, nadwrażliwość na zimno.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

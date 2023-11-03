@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Jak już zaznaczono powyżej - spektrum ukraińskich kontaktów Giedroycia było bardzo szerokie. Wśród jego korespondentów byli socjaliści, chadecy, liberałowie, narodowcy, a nawet zadeklarowani nacjonaliści. W tym wypadku redaktor "Kultury" szedł w ślady Piotra Dunina-Borkowskiego (1890-1949), który będąc przez kilka miesięcy wojewodą lwowskim (lipiec 1927 - maj 1928) odrzucił dominującą wcześniej postawę bojkotowania ukraińskich liderów politycznych i nawiązał z nimi bezpośrednie i ożywione kontakty, bez prób wyszukiwania "wygodnych" dla polskiej strony polityków. Choć Dunin-Borkowski bardzo szybko został odwołany ze swojego stanowiska, to jego działalność zyskała uznanie w środowisku ukraińskim. Również w działalności Giedroycia widoczna jest zasada, którą niegdyś kierował się Borkowski, że to nie Polacy wybierają Ukraińcom ich przywódców, ale powinni się umieć z nimi porozumieć. Szacunek dla ukraińskiego partnera nie oznaczał jednak schlebiania mu. Partnerstwo proponowane przez Giedroycia Polakom i Ukraińcom wymagało od obu stron nie tylko wzajemnego szacunku, ale również dojrzałości i odpowiedzialności.</p>
+        <p xml:id="p-2">Koncepcja polityki wschodniej i normalizacji stosunków polsko-ukraińskich sformułowana w środowisku "Kultury" miała przemożny wpływ na kształtowanie polityki zagranicznej III Rzeczpospolitej. Wysiłek redaktora "Kultury" w tym względzie został, jeszcze za jego życia, doceniony w kraju. Inaczej wygląda ukraińska recepcja jego dokonań. "Kultura" i sam Giedroyć byli znani i doceniani przez ukraińską emigrację (przynajmniej znaczące jej odłamy), natomiast świadomość dokonań Giedroycia dla normalizacji stosunków ukraińsko-polskich, oraz dla Ukrainy i kultury ukraińskiej dopiero toruje sobie drogę do ukraińskiego odbiorcy nad Dnieprem. Nie miał Giedroyć szczęścia do ukraińskich czynników oficjalnych: kiedy prezydent Leonid Kuczma zdecydował się go wyróżnić, to przyznał mu najniższe ukraińskie odznaczenie (medal za zasługi).</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

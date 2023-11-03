@@ -1,0 +1,26 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">2. Osoby obejmujące akcje towarzystwa są obowiązane do udokumentowania źródeł pochodzenia gotówki i złożenia oświadczenia o wywiązywaniu się z obowiązków podatkowych, pod rygorem odpowiedzialności za fałszywe zeznania.</p>
+        <p xml:id="p-2">3. Dokumenty, o których mowa w ust. 2, załącza się do wniosków:</p>
+        <p xml:id="p-3">1) o zezwolenie na utworzenie towarzystwa,</p>
+        <p xml:id="p-4">2) o wpis towarzystwa do rejestru handlowego.</p>
+        <p xml:id="p-5">Art. 38.</p>
+        <p xml:id="p-6">Akcje towarzystwa są akcjami imiennymi i nie mogą być zamieniane na akcje na okaziciela.</p>
+        <p xml:id="p-7">Art. 39.</p>
+        <p xml:id="p-8">1. Nabycie przez jednego akcjonariusza akcji lub praw z akcji towarzystwa w liczbie, która spowoduje przekroczenie 20%, 33% lub 50% ogólnej liczby głosów na walnym zgromadzeniu akcjonariuszy towarzystwa, wymaga uprzedniego zezwolenia Komisji. Czynności dokonane bez zezwolenia Komisji są nieważne.</p>
+        <p xml:id="p-9">2. Nabycie akcji towarzystwa przez podmiot będący w rozumieniu przepisów o publicznym obrocie papierami wartościowymi podmiotem zależnym uważa się za nabycie akcji przez podmiot dominujący.</p>
+        <p xml:id="p-10">Art. 40.</p>
+        <p xml:id="p-11">Do wniosku o wydanie zezwolenia na utworzenie towarzystwa załącza się:</p>
+        <p xml:id="p-12">1) statut towarzystwa,</p>
+        <p xml:id="p-13">2) zgodę założycieli na zawiązanie spółki akcyjnej i na brzmienie statutu oraz na objęcie akcji przez założycieli - samych lub łącznie z osobami trzecimi,</p>
+        <p xml:id="p-14">3) schemat organizacji towarzystwa oraz regulamin zapobiegania ujawnianiu informacji, których wykorzystanie mogłoby naruszać interes uczestników funduszu inwestycyjnego lub interes uczestników publicznego obrotu papierami wartościowymi,</p>
+        <p xml:id="p-15">4) dane osobowe członków zarządu, rady nadzorczej i komisji rewizyjnej towarzystwa, jeżeli komisja rewizyjna została ustanowiona, wraz z opisem ich kwalifikacji i doświadczeń zawodowych, a także zaświadczenia o niekaralności tych osób,</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

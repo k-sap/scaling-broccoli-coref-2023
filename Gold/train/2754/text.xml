@@ -1,0 +1,20 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Art. 20. Właściwość rzeczową organu administracji państwowej ustala się według przepisów o zakresie jego działania.</p>
+        <p xml:id="p-2">Art. 21. § 1. Właściwość miejscową organu administracji państwowej ustala się:</p>
+        <p xml:id="p-3">1) w sprawach dotyczących nieruchomości - według miejsca jej położenia; jeżeli nieruchomość położona jest na obszarze właściwości dwóch lub więcej organów, orzekanie należy do organu, na którego obszarze znajduje się większa część nieruchomości,</p>
+        <p xml:id="p-4">2) w sprawach dotyczących prowadzenia zakładu pracy - według miejsc, w którym zakład pracy jest, był lub ma być prowadzony,</p>
+        <p xml:id="p-5">3) w innych sprawach - według miejsca zamieszkania (siedziby) w kraju, a w braku zamieszkania w kraju - według miejsca pobytu strony lub jednej ze stron; jeżeli żadna ze stron nie ma w kraju zamieszkania (siedziby) lub pobytu - według miejsca ostatniego ich zamieszkania (siedziby) lub pobytu w kraju.</p>
+        <p xml:id="p-6">2. Jeżeli nie można ustalić właściwości miejscowej w sposób wskazany w § 1, sprawa należy do organu właściwego dla miejsca, w którym nastąpiło zdarzenie powodujące wszczęcie postępowania, albo w razie braku ustalenia takiego miejsca - do organu właściwego dla obszaru dzielnicy Śródmieście w m. st. Warszawie.</p>
+        <p xml:id="p-7">Art. 22. § 1. Spory o właściwość rozstrzygają:</p>
+        <p xml:id="p-8">1) Ø między organami gmin w jednym województwie w sprawach należących do zadań własnych gmin - wspólne dla nich samorządowe kolegium odwoławcze,</p>
+        <p xml:id="p-9">2) Ø między organami gmin w różnych województwach w sprawach należących do zadań własnych gmin - właściwe samorządowe kolegia odwoławcze, działające wspólnie,</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

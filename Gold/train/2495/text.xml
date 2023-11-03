@@ -1,0 +1,18 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Wystawi je nam przed wyjazdem ZUS (tylko na nasz wniosek), a przed powrotem do Polski – tamtejszy ubezpieczyciel, odpowiednik naszego ZUS.</p>
+        <p xml:id="p-2">Jeżeli zachorujemy na saksach, a wypełnionego formularza E 104 nie mamy – też nieszczęścia nie będzie. Do naszego ZUS zwróci się jego odpowiednik w danym państwie. Wszystko to jednak trwa, a zasiłek chorobowy czy macierzyński przydałby się jak najszybciej. To samo dzieje się po naszym powrocie do kraju – weźmy więc E 104 z państwa zatrudnienia. W razie choroby czy macierzyństwa w Polsce także w naszym kraju sumowane są okresy ubezpieczenia. Powinniśmy zadbać o udowodnienie opłacania składek z tytułu pracy za granicą, by wypłata zasiłku lub świadczenia odbyła się bez zwłoki.</p>
+        <p xml:id="p-3">Z życia wzięte</p>
+        <p xml:id="p-4">Obowiązująca zasada równego traktowania spowodowała, że znalazły się sposoby na objęcie ochroną socjalną ludzi w różnych sytuacjach życiowych.</p>
+        <p xml:id="p-5">Ewa Kowalska, obywatelka polska – zawarła umowę o pracę z pracodawcą niemieckim, podlega ustawodawstwu niemieckiemu. Urodziła za Odrą dziecko, toteż nabyła prawo do świadczeń z tytułu macierzyństwa na podstawie przepisów niemieckich.</p>
+        <p xml:id="p-6">Janusz Nowak, obywatel polski – rozpoczął wykonywanie pracy na własny rachunek we Francji, podlega ustawodawstwu francuskiemu. Kiedy zachorował, otrzymał świadczenia chorobowe przewidziane w przepisach obowiązujących we Francji.</p>
+        <p xml:id="p-7">Joachim Möller, obywatel niemiecki – zatrudnił się w polskiej szkole językowej, podlega ustawodawstwu polskiemu. W związku z dłuższą chorobą jego polski pracodawca najpierw wypłaca mu wynagrodzenie chorobowe za okres pierwszych 33 dni w bieżącym roku kalendarzowym, a następnie otrzyma zasiłek chorobowy z ZUS.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

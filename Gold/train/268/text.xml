@@ -1,0 +1,46 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">BARTEK nie odwracając się wychodzi. ŁUKASZ uśmiecha się sam do siebie.</p>
+        <p xml:id="p-2">45. PILATES. WN. POPOŁUDNIE.</p>
+        <p xml:id="p-3">MAGDA i AGATA rozkładają maty i rozciągają się.</p>
+        <p xml:id="p-4">AGATA:</p>
+        <p xml:id="p-5">Po prostu, powiedz mu, że ma się odczepić. Bo następnym razem, wezwę policję.</p>
+        <p xml:id="p-6">MAGDA:</p>
+        <p xml:id="p-7">(z uśmiechem)</p>
+        <p xml:id="p-8">Pierwszy raz widzę, żebyś uciekała przed facetem.</p>
+        <p xml:id="p-9">AGATA:</p>
+        <p xml:id="p-10">(zastanawia się)</p>
+        <p xml:id="p-11">Naprawdę?</p>
+        <p xml:id="p-12">MAGDA:</p>
+        <p xml:id="p-13">(żartem)</p>
+        <p xml:id="p-14">Jak dotąd to oni uciekali przed tobą.</p>
+        <p xml:id="p-15">AGATA krzywi się obrażona.</p>
+        <p xml:id="p-16">AGATA:</p>
+        <p xml:id="p-17">Kochana! Ty nie masz pojęcia, do czego Bartek jest zdolny.</p>
+        <p xml:id="p-18">MAGDA:</p>
+        <p xml:id="p-19">(lekko)</p>
+        <p xml:id="p-20">Może się wreszcie dowiem. Co?</p>
+        <p xml:id="p-21">AGATA:</p>
+        <p xml:id="p-22">Oj… Nie chodzi o to. Tylko ścigał mnie przez pół miasta. Przekroczyłam wszystkie możliwe przepisy, żeby mu zwiać. A potem…</p>
+        <p xml:id="p-23">MAGDA:</p>
+        <p xml:id="p-24">A potem Romeo sterczał pod twoim balkonem, Julio.</p>
+        <p xml:id="p-25">AGATA nie odzywa się, bo nie znalazła zrozumienia. Koncentruje się na rozciąganiu na dużej piłce.</p>
+        <p xml:id="p-26">MAGDA:</p>
+        <p xml:id="p-27">Agata, sama powinnaś to załatwić. Wiesz o tym, prawda?</p>
+        <p xml:id="p-28">Tak jak ja sama napisałam do Piotra. Tak robią duże dziewczynki.</p>
+        <p xml:id="p-29">W tej chwili staje przy nich KAROLINA.</p>
+        <p xml:id="p-30">KAROLINA:</p>
+        <p xml:id="p-31">Cześć. Co robią duże dziewczynki?</p>
+        <p xml:id="p-32">MAGDA:</p>
+        <p xml:id="p-33">Bartek ściga Agatę. A ona chce, żebym to ja przemówiła mu do rozumu.</p>
+        <p xml:id="p-34">AGATA:</p>
+        <p xml:id="p-35">Czy do czegokolwiek, czego używa do myślenia!</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

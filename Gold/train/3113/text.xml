@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Nie wiem, czy episkopat radzi się przełożonych zgromadzeń żeńskich w kwestiach duszpasterskich. To pytanie winien Pan skierować do sióstr wchodzących w skład Konsulty Żeńskich Zgromadzeń Zakonnych w Polsce. Być może pyta.</p>
+        <p xml:id="p-2">Czy irytuje mnie fakt, że program duszpasterski dla kobiet układają mężczyźni? Zacznę od tego, że konsultacje w tym względzie byłyby niezwykle potrzebne, czasem bowiem odnoszę wrażenie, że księża niespecjalnie wiedzą, jak rozmawiać z kobietami. Kiedy spotykam księdza, który z zapałem wieszcza tłumaczy mi, jak kobiety myślą i reagują, to nie tyle mnie to irytuje, ile Ø Ø bawi. Nie twierdzę, że nie ma w tym nigdy ani odrobiny racji, ale tyle samo na podstawie obserwacji i lektury kobieta może powiedzieć o zachowaniu mężczyzny, co mężczyzna Ø o zachowaniu kobiety.</p>
+        <p xml:id="p-3">Proszę więc pokusić się o ogólną charakterystykę polskich księży. Jacy są, zdaniem Siostry, nasi kapłani?</p>
+        <p xml:id="p-4">Nie pokuszę się. Znam wspaniałych księży, bez reszty oddanych swej pracy, którzy nie przechodzą obojętnie obok żadnej ludzkiej biedy; znam i takich, którzy wygłaszają płomienne mowy, ale prócz tego zajmują się głównie własnymi sprawami, a od ludzkiej nędzy odgrodzili się książkami lub wysokim płotem wystawnej plebanii. Nie proponuję zamiany książek na telenowele ani plebanii na ziemiankę, chodzi mi tylko o to, by nie zagubić w tym drugiego człowieka, który zazwyczaj przychodzi nie w porę, bywa nudny, nieskładnie tłumaczy własne niepokoje, nie czyta książek, tylko kradnie czas na ich czytanie, ale tak bardzo chciałby być wysłuchany.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

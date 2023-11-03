@@ -1,0 +1,16 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Ulica, zacieśniona na chwilę do tego zaimprowizowanego dworca, pełnego zmierzchu i tchnienia dalekich dróg - rozwidnia się znowu, rozszerza i przepuszcza znów swym korytem beztroski monotonny tłum spacerowiczów, który wędruje wśród gwaru rozmów wzdłuż wystaw sklepowych, tych brudnych, szarych czworoboków, pełnych tandetnych towarów, wielkich woskowych manekinów i lalek fryzjerskich.</p>
+        <p xml:id="p-2">Wyzywająco ubrane, w długich koronkowych sukniach przechodzą prostytutki. Mogą to być zresztą żony fryzjerów lub kapelmistrzów kawiarnianych. Idą drapieżnym, posuwistym krokiem i mają w niedobrych, zepsutych twarzach nieznaczną skazę, która je przekreśla; zezują czarnym, krzywym zezem lub mają usta rozdarte, lub brak im koniuszka nosa.</p>
+        <p xml:id="p-3">Mieszkańcy miasta dumni są z tego odoru zepsucia, którym tchnie Ulica Krokodyli. Nie mamy potrzeby niczego sobie odmawiać - myślą z dumą stać nas i na prawdziwą wielkomiejską rozpustę. Twierdzą oni, że każda kobieta w tej dzielnicy jest kokotą. W istocie wystarczy zwrócić uwagę na którąś - a natychmiast spotyka się to uporczywe, lepkie spojrzenie, które nas zmraża rozkoszną pewnością. Nawet dziewczęta szkolne noszą tu w pewien charakterystyczny sposób kokardy, stawiają swoistą manierą smukłe nogi i mają tę nieczystą skazę w spojrzeniu, w której leży preformowane przyszłe zepsucie.</p>
+        <p xml:id="p-4">A jednak - a jednak czy mamy zdradzić ostatnią tajemnicę tej dzielnicy, troskliwie ukrywany sekret Ulicy Krokodyli?</p>
+        <p xml:id="p-5">Kilkakrotnie w trakcie naszego sprawozdania stawialiśmy pewne znaki ostrzegawcze, dawaliśmy w delikatny sposób wyraz naszym zastrzeżeniom. Uważny czytelnik nie będzie nie przygotowany na ten ostateczny obrót sprawy. Mówiliśmy o imitatywnym, iluzorycznym charakterze tej dzielnicy, ale słowa te mają zbyt ostateczne i stanowcze znaczenie, by określić połowiczny i niezdecydowany charakter jej rzeczywistości.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

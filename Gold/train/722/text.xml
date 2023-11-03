@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Paryż, 12 XI [19]59</p>
+        <p xml:id="p-2">Kochana Marysieńko!</p>
+        <p xml:id="p-3">Ucieszyliśmy się bardzo twoim listem, który przyszedł dzisiaj. Po dwóch tygodniach pobytu tutaj była to pierwsza wiadomość z domu (nie licząc listu od Śliwińskiej, który przyszedł w trzecim dniu naszego tu pobytu) - jak się jest daleko od domu, to każda wiadomość ważna, niepokoiliśmy się i niepokoimy o Stawisko, Teresę, Magdusię i ciocię Helę - a stamtąd żadnej wieści jeszcze nie mieliśmy. Pobyt nasz na ogół udany, oczywiście nigdzie nie chodzimy, śpimy już o dziesiątej - a mama nie rozstaje się z Ireną Łempicką, która dla mnie jest coraz antypatyczniejsza, a po wczorajszym wybuchu nienawiści do Polski - nie mogę na nią wprost patrzeć. Byliśmy oczywiście u Żuławskich, u Ochęduszków, a dziś jedliśmy prawdziwe francuskie śniadanie u Jurków Lisowskich. Ich mieszkanko w strasznej dziurze, ale samo mieszkanie bardzo miłe, ładne i składne, tylko do komórki trzeba chodzić po schodkach na drugie podwórze.</p>
+        <p xml:id="p-4">W teatrze nigdzie nie byliśmy, bo bardzo drogo, a w kinie tylko na Popiele i diamencie. Bardzo nam było przykro, że autorzy tego filmu nie przyjechali - no, ale cóż robić! Pogodę mamy moim zdaniem bardzo ładną, chociaż mama narzeka i chodzi w zimowych butach. Wczoraj - na dzień armistis - przypadkiem znalazłem się wieczorem na ulicy, cudownie wyglądała wieża Eiffla i Inwalidzi oświetleni reflektorami. Zwłaszcza kopuła Inwalidów we mgle jesiennej, to było coś cudownego.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

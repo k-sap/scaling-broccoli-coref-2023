@@ -1,0 +1,19 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Inne banki zapewne szybko pójdą w ślady śląskiego potentata.</p>
+        <p xml:id="p-2">Konkurencja ze strony... ministerstwa</p>
+        <p xml:id="p-3">Tymczasem Ministerstwo Finansów oferuje klientom indywidualnym stosunkowo wysokie odsetki. Za trzyletnie obligacje skarbowe o zmiennej stopie procentowej płaci 5,55 proc. w skali roku, a za dwuletnie – 4,5 proc. w skali roku. Warto dodać, że w przypadku dwulatek jest to stałe oprocentowanie w okresie dwóch lat. Po pierwszym roku odsetki naliczane są od wartości obligacji powiększonej o oprocentowanie. Tak więc po dwóch latach każda zakupiona obligacja przyniesie 9,20 zł zysku.</p>
+        <p xml:id="p-4">Trochę powyżej inflacji</p>
+        <p xml:id="p-5">W lipcu w ofercie znalazły się też czteroletnie indeksowane oszczędnościowe obligacje skarbowe (COI0709), a także dziesięcioletnie emerytalne oszczędnościowe obligacje skarbowe (EDO0715). W przypadku czterolatek oprocentowanie liczone jest jako suma wskaźnika wzrostu cen towarów i usług konsumpcyjnych w ciągu 12 miesięcy poprzedzających każdy roczny okres odsetkowy – czyli inflacji – oraz marży. W pierwszym okresie odsetkowym stopa procentowa czterolatek wynosi 4,75 proc. w skali roku. W następnych latach stopa procentowa obligacji czteroletnich COI0709 będzie równa inflacji i marży w wysokości 2,5 proc.</p>
+        <p xml:id="p-6">(mu)</p>
+        <p xml:id="p-7">Liczba</p>
+        <p xml:id="p-8">305 miliardów złotych zaoszczędzili Polacy do końca ubiegłego roku. W 2004 r. wartość naszych oszczędności zwiększyła się – jak wynika z badań – aż o 17 miliardów złotych, czyli o ok. 6 procent w porównaniu z rokiem 2003. Warto jednak podkreślić, że dzieje się tak głównie za sprawą zapobiegliwości najbogatszych i najbardziej obrotnych Polaków. Ubiegłoroczny przyrost oszczędności spowodowany był głównie dobrą koniunkturą na giełdzie oraz zwiększonym zainteresowaniem funduszami inwestycyjnymi. Kto inwestuje w akcje i fundusze inwestycyjne? Najczęściej mieszkańcy miast z wykształceniem wyższym o miesięcznym dochodzie osobistym przekraczającym 2 tys. zł – wynika z badań SMG/KRC. Wśród osób ze średnim wykształceniem, a tym bardziej z niższym udział posiadaczy akcji i lokat w funduszu inwestycyjnym jest niewielki, nie przekracza 3 proc.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

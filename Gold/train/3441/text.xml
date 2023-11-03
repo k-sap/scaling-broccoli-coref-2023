@@ -1,0 +1,14 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">W Sejmie trwało właśnie jedno z kolejnych głosowań. Wychodzącym na szczęście w wychodzeniu to nie przeszkadzało, natomiast niewychodzącym wychodzenie wychodzących nie pomagało. Wszystko było więc tak, jak być powinno, bo to już Szekspir nam wytłumaczył, że "ktoś nie śpi, aby spać mógł ktoś".</p>
+        <p xml:id="p-2">Po spontanicznym wyjściu wszystkich 141 dopadła spontaniczna refleksja, że jednak szkoda tych trzech stów. Jakich? Zwykłych naszych polskich trzech stów, które zgodnie z regulaminem Sejmu potrąca się każdemu posłowi nieuczestniczącemu w głosowaniu - chyba że jakieś ważne okoliczności to nieuczestniczenie usprawiedliwiają. I oto 141 parlamentarzystów spontanicznie sobie takie okoliczności przypomniało. Każdy inne, choć niektórzy podobne. Posypały się pisemne usprawiedliwienia. - Pamiętam, że po jednym bojkocie napisałem, że nie było mnie ze względów politycznych. Nie wykluczam, że za drugim razem zapomniałem, że to był bojkot i napisałem usprawiedliwienie z powodów rodzinnych - powiedział były marszałek Sejmu Ludwik Dorn.</p>
+        <p xml:id="p-3">Na szczyty dobrego samopoczucia wzniósł się i na nich pozostał poseł Andrzej Ćwierz, też spontaniczny z PiS. On 13 czerwca był w Sejmie nieobecny, ale usprawiedliwiony "nieprzewidzianą sytuacją związaną z odsłonięciem tablicy poświęconej Andrzejowi Mazurkiewiczowi". Okazało się jednak, że odsłonięcie tablicy było 16 czerwca. Ćwierz spokojnie więc wyjaśnił, że po prostu 16 czerwca też go w Sejmie nie było i stąd pomylił daty. Rzecz w tym, że 16 czerwca żadnych obrad nie było. Wtedy Ćwierz przygwoździł wszystkich oświadczeniem: "Kiedy pisałem to usprawiedliwienie, byłem przekonany, że piszę prawdę. A że teraz okazuje się, że jest to nieprawda, to inna rzecz".</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

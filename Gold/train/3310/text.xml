@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Ja rozumiem, że marzy się Zanussiemu - za chwilę powoła się na przeciwstawioną Telimenie Zosię z "Pana Tadeusza" - dziewczę boże z grubym jasnym warkoczem przechadzające się naiwnie rozmarzone wśród rumianków i bławatek. Też bym może podzielał jego tęsknoty. Tyle że gatunek ten dawno już wyginął. Owszem, katolicki i siermiężny lud nasz reprezentowany w Sejmie przez PSL przejął już z amerykańskiego źródła wszelkiej kultury McDonald´sy i psa Pluto. Nie doszły do niego jednak jeszcze zatrważające wieści o naganności tak zwanego molestowania seksualnego. Każda urodziwa dziewka będzie więc ustnie lub ręcznie poinformowana o swoich walorach najpóźniej przed bierzmowaniem. Niestety wiedzy tej nie wykorzysta, bo i skąd by miała wziąć natchnienie? Przed jej domem z kopertowym dachem obok gruzowiska leżą śmiecie i zardzewiałe beczki. Kiedyś może rosły malwy, ale i to było przed potopem. Rozwalony przystanek autobusowy, klejąca się od brudu gospoda, tonące w błocie corso - czyli zdewastowana droga państwowa trzeciej kolejności odśnieżania. Wszystko się niestety łączy. To są wzorce. Więc nasza Zosia - ledwo odkryła - już staje się zgorzkniałą myszką, która po cichu może chciałaby jeszcze wyjechać do miasta, ale nie wie już po co, za co, do kogo, a zresztą wszystko jej obojętne.</p>
+        <p xml:id="p-2">Pisma kobiece takie jak "Elle", "Twój Styl", "Uroda" etc. starają się tutaj robić, co mogą. Są to jednak periodyki w znacznej mierze elitarne. Trafią do myszek być może utytłane już i podarte w poczekalni u ginekologa, czyli w przypadku nadzwyczajnym, gdyż w braku edukacji seksualnej ginekolog nie jest dla myszek stałym konsultantem, a tylko strażakiem w przypadku groźnego pożaru (jak się tli, to można poczekać). Pozostaje siermiężnawa i ongiś (nie mam dzisiejszych danych) wielkonakładowa "Przyjaciółka". Ale "Przyjaciółkę" też trzeba przeczytać nie zadowalając się wykrojami. A to już wygórowane zadania.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

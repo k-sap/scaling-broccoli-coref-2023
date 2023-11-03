@@ -1,0 +1,49 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">IREK</p>
+        <p xml:id="p-2">Kapitalne... Coraz bardziej mi się podoba ta twoja kobitka...</p>
+        <p xml:id="p-3">LESZEK</p>
+        <p xml:id="p-4">Mnie też. Ale ma męża.</p>
+        <p xml:id="p-5">Cięcie.</p>
+        <p xml:id="p-6">Scena</p>
+        <p xml:id="p-7">WNĘTRZE. NOC. DOM MARII. SALON. MARTA, MARIA, RYSZARD, URSZULA</p>
+        <p xml:id="p-8">Kolacja w domu Marysi. Wszyscy siedzą przy stole.</p>
+        <p xml:id="p-9">MARTA</p>
+        <p xml:id="p-10">Coś nowego w redakcji?</p>
+        <p xml:id="p-11">MARIA</p>
+        <p xml:id="p-12">Rozmawiam z ludźmi... Powoli się poznajemy... Myślę, że będzie dobrze.</p>
+        <p xml:id="p-13">URSZULA</p>
+        <p xml:id="p-14">Jakie masz wrażenia?</p>
+        <p xml:id="p-15">MARIA</p>
+        <p xml:id="p-16">W porządku... Podoba mi się Janina, chociaż jest nieufna. Myślę, że to jest dobry duch redakcji. Ona i pan Lucjan.</p>
+        <p xml:id="p-17">URSZULA</p>
+        <p xml:id="p-18">Dziennikarka?</p>
+        <p xml:id="p-19">MARIA</p>
+        <p xml:id="p-20">Janina nie jest dziennikarką. Sprząta... A Lucjan pracuje w kiosku.</p>
+        <p xml:id="p-21">URSZULA</p>
+        <p xml:id="p-22">No to rzeczywiście znalazłaś sobie odpowiednie towarzystwo.</p>
+        <p xml:id="p-23">MARIA</p>
+        <p xml:id="p-24">Nie widzę w tym nic złego.</p>
+        <p xml:id="p-25">URSZULA</p>
+        <p xml:id="p-26">A ja tak. Zbratasz się ze sprzątaczkami, stracisz szacunek u dziennikarzy. Zawsze tak jest. Ale oczywiście nie zamierzam cię przekonywać. I tak mnie nie posłuchasz.</p>
+        <p xml:id="p-27">Wyciera usta</p>
+        <p xml:id="p-28">Dziękuję.</p>
+        <p xml:id="p-29">Urszula wstaje od stołu.</p>
+        <p xml:id="p-30">Przepraszam was, ale umówiłam się z przyjaciółkami w kawiarni... Nie czekajcie na mnie...</p>
+        <p xml:id="p-31">Urszula wychodzi.</p>
+        <p xml:id="p-32">RYSZARD</p>
+        <p xml:id="p-33">Nie wiem skąd w niej tyle energii. Wszystkich nas przeżyje.</p>
+        <p xml:id="p-34">MARTA</p>
+        <p xml:id="p-35">DO MARYSI</p>
+        <p xml:id="p-36">A wracając do redakcji. Myślę, że powinnaś dokonać pewnych zmian personalnych.</p>
+        <p xml:id="p-37">MARIA</p>
+        <p xml:id="p-38">Zmian personalnych? Co masz na myśli?</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

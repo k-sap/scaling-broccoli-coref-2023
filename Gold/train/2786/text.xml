@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">agar Rz 8:34 "Kto może wydać wyrok potępienia? Czy Chrystus Jezus, Ten, który za nas umarł, co więcej: zmartwychwstał, zasiada po prawicy Ojca i wstawia się za nami?" śmierć Jezusa bez zmartwychwstania byłaby klęską Shalom!</p>
+        <p xml:id="p-2">Brave coz wielkanoc - pamiec o zmartwychwstaniu - chwala panu czwartek, piatek meczenstwo etc.. coz ja niestety jestem aliturgicznyjak dla mnie kazda "oprawa" w jakis sposob degeneruje istote zjawiska jestem w stanie przyjac jakas forme drobnego odejscia od codzinnej surowosci wizualnej - ale nic wiecej....</p>
+        <p xml:id="p-3">NatashaM Dla mnie okresy wszystkich świąt chrześcijańskich, są doskonałą okazją do pogłębienia wiedzy. Nie zastanawia mnie już w tak wielkim stopniu, jak poprzednio, prawdziwość tego, co jest zapisane w Ewangeliach. Interesuje mnie raczej zachowanie wierzących w tych szczególnych dla nich okresach. Zwykle jest to samo: - Obżarstwo - Pijaństwo - Wiara na wszelki wypadek - Demonstracja swojej pobożności jak się da i w czym się da - Wszystko, zawsze ma piękne opakowanie – gorzej z zawartością - Komercjalizacja - Ponad 90% katolików nie zna znaczeń symbolów Dlaczego? Czy nie macie w sobie tyle samodyscypliny, aby sprawdzić i dowiedzieć się czegoś więcej o najważniejszym święcie w roku chrześcijańskim?</p>
+        <p xml:id="p-4">Kaznodzieya CYTAT(NatashaM @ 20.03.2008, 12:37) "- Obżarstwo - Pijaństwo - Wiara na wszelki wypadek - Demonstracja swojej pobożności jak się da i w czym się da - Wszystko, zawsze ma piękne opakowanie – gorzej z zawartością - Komercjalizacja - Ponad 90% katolików nie zna znaczeń symbolów" Dużo w tym racji. Ale obiektywnie rzecz biorąc nie napisałaś nic o tych pozytywnych stronach i tych którzy więdza co, jak i dlaczego obchodzą gdyż są zaprzeczeniem tych pozostałych. Chcesz wrzucić ich do jednego wora z tymi pierwszymi ? Nieładnie.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

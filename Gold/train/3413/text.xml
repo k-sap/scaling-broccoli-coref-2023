@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Bułgaria wyróżnia się tym spośród innych państw Europy, że mieszka tu bardzo wielu wiekowych ludzi. Na każde 10 tys. mieszkańców przypada 250 ponad 80-latków. Wielu z nich dożywa setki. A wszystko - podobno - za sprawą diety. Bułgarzy piją dużo mleka i jogurtu. Zwłaszcza jogurt jest wysoko cenionym przysmakiem i podstawą wielu dań. Ot choćby najsłynniejszej tutejszej zupy - taratora, czyli chłodnika. Bułgarski jogurt swój smak i właściwości regenerujące czy wręcz odmładzające zawdzięcza bakteriom. Lacto bacillus bulgariensis żyją tu i tylko tu dzięki właściwościom klimatycznym.</p>
+        <p xml:id="p-2">Gwoli prawdy należy dodać, że w Bułgarii zjada się znacznie więcej owoców i warzyw niż w Polsce. Wśród nich zaś królują wspaniałe pomidory, cudowne bakłażany, kabaczki, papryka i fasolka szparagowa. Mięsa Bułgarzy jedzą znacznie mniej niż mieszkańcy terenów nadwiślańskich. A jeśli już, to przede wszystkim smakowitą jagnięcinę.</p>
+        <p xml:id="p-3">Burzliwa historia tej części Bałkanów miała wpływ na to, co można znaleźć na bułgarskim stole. Wpływy bizantyjskie, tureckie, greckie czy wreszcie niemieckie zaowocowały obcymi potrawami przystosowanymi do miejscowego smaku. I tak narodziły się kebabczeta, czyli kotleciki z rusztu, liczne rodzaje czorby, czyli zawiesistej zupy, piperki pilmieni - papryka faszerowana, czy giuvecz - wspaniała zapiekanka z warzyw i baraniny.</p>
+        <p xml:id="p-4">Giuvecz jadano nie na co dzień. Musiała być specjalna przyczyna, by potrawę wymagającą sporo przygotowań i dość kosztowną przyrządzić dla całej, zwykle dość licznej, rodziny oraz gości. Bułgarzy bowiem są co najmniej tak gościnni jak Polacy.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

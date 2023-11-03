@@ -1,0 +1,43 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">(po chwili, serio)</p>
+        <p xml:id="p-2">Jadę do moich rodziców. Pooddychać wiejskim powietrzem. Chciałem powiedzieć ci to osobiście, w razie gdybyś znowu... Chciała wpaść do szpitala.</p>
+        <p xml:id="p-3">MAGDA:</p>
+        <p xml:id="p-4">(po chwili)</p>
+        <p xml:id="p-5">Mogę cię zapewnić, że nie chciałam.</p>
+        <p xml:id="p-6">PIOTR:</p>
+        <p xml:id="p-7">Rozumiem.</p>
+        <p xml:id="p-8">MAGDA:</p>
+        <p xml:id="p-9">Wcale nie jestem tego pewna. Powiedz mi, czy ty jesteś w stanie przyznać się do jakiejkolwiek słabości?</p>
+        <p xml:id="p-10">PIOTR milczy.</p>
+        <p xml:id="p-11">MAGDA:</p>
+        <p xml:id="p-12">No, jasne! Co ja sobie wyobrażałam!</p>
+        <p xml:id="p-13">PIOTR:</p>
+        <p xml:id="p-14">(czule)</p>
+        <p xml:id="p-15">Powiedz... Co takiego?</p>
+        <p xml:id="p-16">MAGDA:</p>
+        <p xml:id="p-17">(po chwili)</p>
+        <p xml:id="p-18">Nieważne. Może oprócz oddychania, przy okazji spróbujesz się dogadać ze swoim ojcem.</p>
+        <p xml:id="p-19">PIOTR patrzy na nią zdziwiony.</p>
+        <p xml:id="p-20">PIOTR:</p>
+        <p xml:id="p-21">Pamiętałaś?</p>
+        <p xml:id="p-22">MAGDA:</p>
+        <p xml:id="p-23">O, tak. Bardzo dobrze pamiętam, że cię zawiódł. Teraz ja mogłabym to samo powiedzieć o tobie.</p>
+        <p xml:id="p-24">PIOTR czuje się dotknięty słysząc to z ust MAGDY, bo najbardziej może zranić bliska osoba. Ale zaciska usta, po czym próbuje się uśmiechnąć.</p>
+        <p xml:id="p-25">PIOTR:</p>
+        <p xml:id="p-26">Nie znasz go. I proszę cię, nie porównuj mnie z nim. Nie wiesz, do czego jest zdolny.</p>
+        <p xml:id="p-27">MAGDA:</p>
+        <p xml:id="p-28">(po chwili, serio)</p>
+        <p xml:id="p-29">Za to już wiem, do czego ty jesteś zdolny.</p>
+        <p xml:id="p-30">PIOTR patrzy na nią przez chwilę.</p>
+        <p xml:id="p-31">PIOTR:</p>
+        <p xml:id="p-32">Madziu... Kocham cię. I zawsze będę cię kochał. Jesteś najwspanialszą kobietą, jaką spotkałem w życiu. Ale gdybym mógł jeszcze raz wybierać...</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

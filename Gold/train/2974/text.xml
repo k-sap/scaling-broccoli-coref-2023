@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">– A chuj kurwa – Opel wkłada sobie bukiet w kieszeń i idzie się wyszczać za rogiem – chuuuj – charczy jak knur w czasie uboju.</p>
+        <p xml:id="p-2">A pamiętasz, jak żeśmy głupki walili na żelbetonie za pasem startowym, za kościołem, za pawilonem, przy hałdzie? Albo jak żeśmy na styropianie pływali w kanałach, styropianie zajumanym z nieefektywnej budowy? Albo jak żeśmy tynk wdupcali ze ścian, bo nam wapna za młodu brakowało w kościach? Albo wtedy jak żeśmy siedzieli na klatce jak te karły smutne, a kontakt był otwarty, no i mówisz: dawaj zawody, kto dłużej przytrzyma ręką otwarty kontakt, i potem jak cię, Opel, nie pierdolnęło, pamiętasz? Że aż pół godziny na schodach siedziałeś i się trząsłeś jak mokry pies? O Jezu, Opel, co to były za historie z tego pogańskiego dzieciństwa.</p>
+        <p xml:id="p-3">Wszystko mi się naraz otwiera jak kanał. Wpływam. Nad łóżkiem cały ikonostas czasu minionego. Szpulowce, słone masło z kościoła, relaksy, gumiaki, gołe baby, niespełniony amerykański sen w pustym opakowaniu po marlborasach, jakie się to z kosza przy hotelu, ech... dajmy pokój wspomnieniom. Idź, Opel, wykorzystaj dziś swoją kreskę w barze, przedłuż ją nienaturalnie, zrób do niej kreski prostopadłe, kreski równoległe, podziel na odcinki, nie ma lekko. Basia kredytu nie udzieli.</p>
+        <p xml:id="p-4">Basia pochylona nad wnioskiem kredytowym nie dostrzega poza nim świata. Jest w nim zagłębiona jak w lekturze programu telewizyjnego na nadchodzący przedświąteczny tydzień. Przebiera między papierami, wyciąga coś, przekłada, patrzy, zbliża do twarzy, oddala od twarzy, odkłada, notuje, oblicza, w końcu mówi niezdrowo podekscytowana:</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

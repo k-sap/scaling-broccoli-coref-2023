@@ -1,0 +1,50 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">sp0: to nie jest tylko to jest chlebek</p>
+        <p xml:id="p-2">sp1: chciałem suchy prowiant</p>
+        <p xml:id="p-3">sp0: masz</p>
+        <p xml:id="p-4">sp1: to też jest suchy prowiant ?</p>
+        <p xml:id="p-5">sp0: yhm</p>
+        <p xml:id="p-6">sp1: a ja nie lubię</p>
+        <p xml:id="p-7">sp2: no to chcesz ?</p>
+        <p xml:id="p-8">sp1: nie nie będę</p>
+        <p xml:id="p-9">sp2: on jest niepoważny ten chłopak</p>
+        <p xml:id="p-10">sp0: to niech nie pije. będzie na jutro.</p>
+        <p xml:id="p-11">sp2: no uff. co to ? aha. Beata</p>
+        <p xml:id="p-12">sp0: yhm</p>
+        <p xml:id="p-13">sp2: wiesz tu będzie trzeba ten</p>
+        <p xml:id="p-14">sp0: yhm.</p>
+        <p xml:id="p-15">sp2: ale za</p>
+        <p xml:id="p-16">sp0: to ja .</p>
+        <p xml:id="p-17">sp2: to co ?</p>
+        <p xml:id="p-18">sp0: rośnie Zosia rośnie Stasiek rośnie Mikołajek. żeby dzieci zdrowo rosły potrzebują mycia zębów ! tak ? czego potrzebują ?</p>
+        <p xml:id="p-19">sp1: bajek i jedzenia</p>
+        <p xml:id="p-20">sp0: bajek i jedzenia. jesteś takim słodkim robalem !</p>
+        <p xml:id="p-21">sp1: wyjmij mnie !</p>
+        <p xml:id="p-22">sp0: słodkim robalem !</p>
+        <p xml:id="p-23">sp2: i liże !</p>
+        <p xml:id="p-24">sp0: robalem ! potrzebujesz. bajek i chleba</p>
+        <p xml:id="p-25">sp1: mycia zębów</p>
+        <p xml:id="p-26">sp0: dwudziesta druga dwie a ty nie śpisz najjaśniejszy panie ?</p>
+        <p xml:id="p-27">sp1: nie jestem zmęczony</p>
+        <p xml:id="p-28">sp0: otóż nie !</p>
+        <p xml:id="p-29">sp1: nie jestem zmęczony nie</p>
+        <p xml:id="p-30">sp0: jesteś nieznośniakiem</p>
+        <p xml:id="p-31">sp1: nie jestem zmę. czony</p>
+        <p xml:id="p-32">sp0: o ! jak ty to robisz bo ja jestem zmęczona. o !</p>
+        <p xml:id="p-33">sp2: ale chyba nie spał. Marysia nic nie mówiła</p>
+        <p xml:id="p-34">sp0: ja go wystraszę teraz uwaga. będę teraz bardzo groźna. a ! go nastraszyłam i pójdzie spać a !</p>
+        <p xml:id="p-35">sp1: nie. jestem zmęczo. ny</p>
+        <p xml:id="p-36">sp0: a królewiczu ty ! no już tatuś ! myj mu ząbki</p>
+        <p xml:id="p-37">sp1: nie nie myjmy dziś ze</p>
+        <p xml:id="p-38">sp0: zęby trzeba myć i basta ! chyba że się chce mieć sztuczną szczękę. chciałbyś mieć sztuczną szczękę ? takie sztuczne ząbki ? na noc się je wkłada do szklanki</p>
+        <p xml:id="p-39">sp0: módlmy się żebyśmy tego nie doczekali nie że nas to nie spotka. chyba nas spotka</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

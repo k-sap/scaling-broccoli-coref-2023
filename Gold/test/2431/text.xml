@@ -1,0 +1,16 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Tydzień temu ruszyła pierwsza inwestycja Fundacji - mała hydroelektrownia w Turtulu na terenie Suwalskiego Parku Krajobrazowego. Wystarczyło 150 mln zł grantu od GEF, bo Fundacja wykorzystała pozostałości po przedwojennym młynie: uregulowany spadek wody i kilka części mechanizmu napędowego.</p>
+        <p xml:id="p-2">Cała elektrownia mieści się w drewnianej skrzyni obitej blachą. Prąd 10 KW przesyłany jest do sieci państwowej. - Za zarobione na tym pieniądze wyremontujemy młyn i otworzymy tu ośrodek ekologiczny Suwalskiego Parku Krajobrazowego - planuje Osiniak. - Pod takim warunkiem dostaliśmy dotację z GEF.</p>
+        <p xml:id="p-3">Dwie kolejne hydroelektrownie powstaną w Gawrych Rudzie, w Ośrodku Zarybieniowym Polskiego Związku Wędkarskiego. Prowadzi go Mieczysław Hus, który chce ponownie wprowadzić do tamtejszych wód troć jeziorową. Jak w Turtulu, zostanie tu wykorzystany naturalny spadek wód dawnego młyna. Hydroelektrownie będą ogrzewać budynek ośrodka i wodę w basenie do hodowania narybku. Fundacja otrzymała na to od GEF 340 mln zł. Gdy o dotacji dowiedział się szef suwalskiego Funduszu Ochrony Środowiska, dodał 200 mln zł.</p>
+        <p xml:id="p-4">nie wchodzić w szkodę</p>
+        <p xml:id="p-5">Dzięki Fundacji turyści będą mogli wkrótce zwiedzać rezerwat Głazowisko Bachanowo w Suwalskim Parku Krajobrazowym. Jego atrakcją jest 10 tys. głazów naniesionych przez lodowiec ze Skandynawii. Rezerwat wyznaczono w 1973 r., ale ponieważ znajduje się na terenie prywatnym i jest otoczony polami uprawnymi, dotychczas nie było do niego dojścia. Na tych, którzy mimo wszystko docierali do rezerwatu, wściekał się właściciel terenu, bo tratowali mu uprawy. Fundacja wykupi kawałek pola, by wyznaczyć ścieżkę. GEF dał 30 mln zł i geodeci rozpoczęli pomiary.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

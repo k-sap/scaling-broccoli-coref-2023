@@ -1,0 +1,18 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Rzuca mi wyzwanie.</p>
+        <p xml:id="p-2">Czy mogła to być zemsta odtrąconego kochanka? Wątpliwe. Kto by aż tak ryzykował? A może rzeczywiście jacyś ultraprawicowcy wyłowili tych chłopaków z jakiegoś klubu, a potem zabawili się z nimi zbyt ostro? Ten trop nie był zły. Tak czy inaczej morderca, zostawiając trójkąty, powiedział: "Ja wiem, kim oni są. I teraz wy się dowiecie, że ja to wiedziałem".</p>
+        <p xml:id="p-3">Heinz usłyszał brzęczenie. Do żarówki podleciała mucha, tłukąc skrzydełkami to o rozgrzane szkło, to o tandetny abażur.</p>
+        <p xml:id="p-4">Jeszcze jedna sprawa - pomyślał. - Godzina śmierci papieża wypisana na folii. To, co tak zaniepokoiło CBŚ. Różowe trójkąty to już ostentacja, a tu na dodatek liczby. Dwudziesta pierwsza trzydzieści siedem. Śmierć papieża i śmierć kleryków. A jeśli jednak podwójne morderstwo to dzieło kolejnego nawiedzonego wizjonera? Śmierć nie każdemu wydaje się końcem. Może być także początkiem.</p>
+        <p xml:id="p-5">Śmierć jako odrodzenie i odkupienie - notował nerwowo. Czy dla dwóch grzesznych kleryków może być lepsza forma odkupienia niż śmierć? Czy można lepiej rozpocząć naprawianie świata? Nie można. Koniec końców dwaj homoseksualiści zostali nawróceni, przeszli na jasną stronę.</p>
+        <p xml:id="p-6">Mucha biła skrzydłami o żarówkę. Przypomniał mu się dźwięk przeskakującej iskry elektrycznej. Na ułamek sekundy stanęła mu przed oczyma twarz Inkwizytora. Zamrugał.</p>
+        <p xml:id="p-7">To byłoby najgorsze. Jeśli mają do czynienia z mścicielem psychopatą, znowu uderzy. Zabójstwo dwóch chłopaków to dopiero początek. Zwłaszcza, że poszło tak łatwo. Jakby splunąć.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

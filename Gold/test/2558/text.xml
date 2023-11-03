@@ -1,0 +1,18 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">– Co to za dyslektyk, który w pracy pisemnej robi 7 – 8 błędów? – pyta polonista z Rawy. – Dyslektyk może zrobić 50 błędów lub więcej i nawet tego nie zauważy. On zna zasady, ale nie ma dla niego różnicy czy napisze „kwiatek” czy „kfjatek”.</p>
+        <p xml:id="p-2">Dyrektorzy szkół są bardziej powściągliwi. – Oficjalnie z dokumentów wynika, że dzieci mają dysleksję – mówi dyrektor Klimas. – A nieoficjalnie... Nie będę się wypowiadać na ten temat.</p>
+        <p xml:id="p-3">Pracownicy poradni i kuratorium problemu z naciąganymi opiniami nie widzą. – Przychodzi do nas więcej dzieci, ale to wynika ze wzrostu świadomości ich rodziców – zapewnia Jolanta Gajewska-Banasiak, dyrektor Poradni Pedagogiczno-Psychologicznej na Bałutach w Łodzi. – O dysleksji mówi się coraz więcej i rodzice wiedzą, że mogą pomóc dzieciom. Wolą przyjść do poradni niż usłyszeć, że ich dziecko jest tępe.</p>
+        <p xml:id="p-4">Czy, pomimo że uczniowie są badani przez specjalistów, mogą się zdarzyć oszustwa?</p>
+        <p xml:id="p-5">– Ludzie są omylni, ale to chyba nie jest normą – dodaje Barbara Łaska, starszy wizytator w Kuratorium Oświaty w Łodzi. – Kontrolerzy z ministerstwa nie stwierdzili uchybień.</p>
+        <p xml:id="p-6">Nauczyciele żartują jednak, że sprawdzane były dokumenty, a nie uczniowie i ich problemy w nauce.</p>
+        <p xml:id="p-7">– Myślę, że nauczyciele podważają opinie o dysleksji dzieci, bo z nimi pracują – mówi Barbara Łaska. – Być może w tych wątpliwościach jest ziarenko prawdy, ale badań na ten temat nie ma – dodaje wizytatorka.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

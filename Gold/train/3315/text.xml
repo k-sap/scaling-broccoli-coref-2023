@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">1) Eur-Lex – zapewnia bezpłatny dostęp do Dziennika Urzędowego Wspólnot Europejskich z ostatnich 45 dni, dyrektyw, rozporządzeń, traktatów, decyzji, orzeczeń Europejskiego Trybunału Sprawiedliwości. Ta baza danych jest uzupełniana codziennie. Dokumenty w tej bazie są zapisane głównie w formacie HTML, a więc często bez tabel, załączników, wykresów, co stanowi wyraźny mankament dla użytkowników. Niektóre dokumenty są w formacie PDF, zaś otrzymanie dokumentu w formie wordowskiej czy w formacie TIFF wymaga odrębnego zamówienia (są niekiedy kłopoty z wejściem na adres podany przez Eur-Lex po złożeniu zamówienia). Wyszukując dany dokument możemy posłużyć się albo pełnym numerem (rodzaj dokumentu, rok i numer), co jest najlepszym rozwiązaniem, lub skorowidzem alfabetycznym (jeśli nie znamy numeru dokumentu, a możemy ustalić grupę tematyczną według podanego skorowidza). Więcej informacji o bazie Eur-lex: http://europa.eu.int/eur-lex;</p>
+        <p xml:id="p-2">2) CELEX – korzystanie z tej bazy wymaga rejestracji i opłacenia subskrypcji w wysokości 1140 euro rocznie (możliwe jest opłacanie za poszczególne dokumenty). Baza ta zawiera zarówno traktaty, jak i dyrektywy, rozporządzenia, projekty aktów prawnych publikowanych w serii C Dziennika Urzędowego Wspólnot Europejskich oraz niektóre orzeczenia Europejskiego Trybunału Sprawiedliwości. Korzystanie z tej bazy wymaga znajomości numeracji poszczególnych dokumentów. Numer CELEX składa się z 10 znaków (pierwszy oznacza rodzaj aktu prawnego tj. prawnie wiążący 3, cyfra 5 dla dokumentów przygotowawczych, 6 dla orzeczeń; po nim rok wydania oraz litera określająca rodzaj aktu. czyli L – dyrektywa, R – rozporządzenie, D – decyzja oraz 4-cyfrowy numer dokumentu). Poprzez bazę CELEX możemy dotrzeć do nowelizacji wcześniejszych aktów prawnych a nawet znaleźć odniesienie do krajowych przepisów wykonawczych. Więcej informacji o bazie CELEX: http://europa.eu.int/celex;</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

@@ -1,0 +1,18 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">A jednak, gdy nałożyć na siebie pojedyncze i zbiorowe portrety tych, którzy PiS zawierzyli, wyłania się kilka rysów, które przez swą powtarzalność jawią się jako rodzaj wspólnego konturu cech, które sobie przypisują. Najwyraźniejszy z nich można określić głodem akcji.</p>
+        <p xml:id="p-2">Podopieczni</p>
+        <p xml:id="p-3">- No chyba jednak coś się ruszyło - tłumaczy Barbara Gregorek, która mimo zniechęcenia znów zakreśli krzyżyk przy nazwisku pisowskiego kandydata. - Pokazali ten cały układ, że nic nie jest z przypadku. Zbigniew Ziobro robi na mnie dobre wrażenie - wydaje się szczery.</p>
+        <p xml:id="p-4">- Wzięli się za prokuraturę, walczą z korupcją - wtóruje Maria, lat 39, nauczycielka z gminy Pilawa w powiecie garwolińskim. - Te macki wciąż są silne, system powiązań się broni. Ale wierzę, że w końcu będzie nam się żyło lepiej, że moje dzieci będą bezpieczne.</p>
+        <p xml:id="p-5">- Działania CBA, sądy 24-godzinne, zapoczątkowanie prawdziwej lustracji - to hity tego rządu - wymienia Tomasz Kapuściński. - Wiadomo, że się nie da, żeby wszystko od razu funkcjonowało bezbłędnie. Teraz jest nawał afer, a przez to sporo chaosu. Coś widać było nie tak - a teraz się zmienia.</p>
+        <p xml:id="p-6">Jarosław Kaczyński zaspokaja zapotrzebowanie na ruch, ferment, akcję. Odpala kolejne fajerwerki, detonuje bomby, nie dając chwili wytchnienia i okazji do zapomnienia o sobie. Ruch przyciąga uwagę. Ruch to dowód czujności.</p>
+        <p xml:id="p-7">Wyborcy PiS badani przez dr. Wojciecha Cwalinę, psychologa społecznego, odczuwali słabą kontrolę nad własnym życiem. - Mieli raczej wrażenie, że ich los zależy od innych - tłumaczy badacz. Gdy czujemy się od kogoś zależni, naturalne, że odpowiada nam, gdy ten ktoś jest aktywny, gdy działa - zwłaszcza w trosce o nas. - Ten elektorat traktuje partię jako reprezentanta swoich interesów, który jest w stanie dokonać tego, co obiecuje, zadbać o wyborców, także: odzyskać, co zawłaszczone - wyjaśnia psycholog. Jeśli nie teraz, to kiedyś.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

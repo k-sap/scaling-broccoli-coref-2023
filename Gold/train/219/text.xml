@@ -1,0 +1,26 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">ZUŻYCIE PALIWA:</p>
+        <p xml:id="p-2">— w mieście 11,1 l/100 km;</p>
+        <p xml:id="p-3">— poza miastem 6,1 l/100 km;</p>
+        <p xml:id="p-4">— w cyklu mieszanym 7,9 l/100 km.</p>
+        <p xml:id="p-5">NADWOZIE:</p>
+        <p xml:id="p-6">— długość 4278 mm;</p>
+        <p xml:id="p-7">— szerokość 1696 mm;</p>
+        <p xml:id="p-8">— wysokość 1475 mm;</p>
+        <p xml:id="p-9">— masa własna 1110 kg;</p>
+        <p xml:id="p-10">— pojemność bagażnika 500/1630 l;</p>
+        <p xml:id="p-11">— pojemność zbiornika paliwa 50 l.</p>
+        <p xml:id="p-12">— Podobnie jak w wielu innych samochodach, tak i w Astrach zdarza się, iż wobec polskich dróg „kapituluje” zawieszenie. Po około 80—100 tys. kilometrów trzeba liczyć się z koniecznością wymiany tulei wahacza przedniego, końcówek drążków kierowniczych oraz samych drążków. Trudno podać jakiś średni przebieg dla amortyzatorów — ich stan i trwałość zależy oczywiście od tego, w jaki sposób auto jest eksploatowane. W samochodach kombi, którymi przewożone są ciężkie towary, wymiana tylnych amortyzatorów zazwyczaj następuje wcześniej niż w pojazdach jeżdżących na co dzień bez obciążenia.</p>
+        <p xml:id="p-13">Czasami zdarza się, iż tylne hamulce zaczynają słabiej i nierównomiernie działać. Z reguły odpowiedzialne są za to korektory siły hamowania. Na szczęście usunięcie tej usterki nie jest zbyt pracochłonne ani kosztowne.</p>
+        <p xml:id="p-14">Jeżeli chodzi o klocki hamulcowe, to wytrzymują one ok. 40—60 tys. kilometrów, tylne bębny zaś bez problemu pokonują 100-120 tys.</p>
+        <p xml:id="p-15">Warto jeszcze wspomnieć o układzie rozrządu. W Astrach wyprodukowanych przed 1997 rokiem, co 60 tys. kilometrów należy wymienić pasek oraz rolki napinacza. W młodszych pojazdach wymiana następuje już znacznie później — po 90 tys. kilometrów. Koszt takiego „zabiegu” to ok. 850—900 zł.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

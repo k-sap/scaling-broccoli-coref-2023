@@ -1,0 +1,16 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">#PodsekretarzStanuwMinisterstwieSprawiedliwosciJanuszNiemcewicz: - obowiązek poinformowania konsumenta na piśmie o powyższym prawie przez przedsiębiorcę zawierającego czy proponującego umowę;</p>
+        <p xml:id="p-2">#PodsekretarzStanuwMinisterstwieSprawiedliwosciJanuszNiemcewicz: - obowiązek potwierdzenia tożsamości i charakteru działania przez osobę występującą jako kontrahent konsumenta, przy czym obowiązek ten jest wzmocniony odpowiedzialnością uregulowaną w Kodeksie wykroczeń.</p>
+        <p xml:id="p-3">#PodsekretarzStanuwMinisterstwieSprawiedliwosciJanuszNiemcewicz: Przechodząc do kolejnej kwestii, muszę stwierdzić, że polski Kodeks cywilny zawiera jedynie szczątkową, niewystarczającą regulację problematyki wzorców umownych. Kodeksowe przepisy o tzw. wzorcach umownych, kwalifikowanych, to jest tych, do których wydania upoważnia ustawa, nie spełniły swojej funkcji ochronnej, ponieważ wydawanie wzorca w praktyce nie wiązało się z przeprowadzaniem kontroli jego treści z punktu widzenia interesów konsumenta.</p>
+        <p xml:id="p-4">#PodsekretarzStanuwMinisterstwieSprawiedliwosciJanuszNiemcewicz: Przepisem martwym okazał się wprowadzony do Kodeksu cywilnego w 1990 r. art. 3852, przewidujący sądowe ubezskutecznienie klauzuli zaczerpniętej z wzorca, gdy zastrzegała ona rażąco nieuzasadnione korzyści dla tej strony, która tę klauzulę stosowała i umieściła w umowie. Okazało się, że sądy błędnie przyjmują, że klauzule tego typu muszą być wyraźnie wskazane w ustawie jako niedozwolone czy krzywdzące, a nadto często przewlekłe postępowania sądowe czyniły tę ochronę iluzoryczną.</p>
+        <p xml:id="p-5">#PodsekretarzStanuwMinisterstwieSprawiedliwosciJanuszNiemcewicz: W przedkładanym projekcie ustawy zdecydowano się więc na radykalną reformę Kodeksu cywilnego w tej kwestii, przyjmując jako model rozwiązania dyrektywę europejską nr 9313. Zrezygnowano z wzorców normatywnych obecnie uregulowanych w art. 384 Kodeksu cywilnego i wzorców kwalifikowanych, pozostawiając, gdy idzie o regulację sposobu zawarcia umowy z użyciem wzorca, wymóg jego doręczenia. Zachowano przy tym możliwość uproszczonego zapoznania się z wzorcem stosowanym zwyczajowo, ale w przeciwieństwie do obecnego stanu prawnego wyłączono tę możliwość w umowach z konsumentami. Tutaj wymóg doręczenia Ø ma charakter bezwzględny, z wyjątkiem umów powszechnie zawieranych w sprawach życia codziennego.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

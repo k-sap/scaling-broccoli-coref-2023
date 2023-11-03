@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Po 4 czerwca 1989 r. trwała bezpardonowa walka o nową hierarchię, o nowy polski panteon. Nie oszczędzono nikogo. Przypomnijmy pożałowania godne ataki na Wisławę Szymborską, którą próbowano zniszczyć po otrzymaniu Nagrody Nobla, jako że jej adwersarze uważali, że nagroda naprawdę należała się Zbigniewowi Herbertowi. Takich skandali i zachowań, często niegodnych, było bardzo wiele. Równolegle zaistniało zjawisko inne. Otóż jak gdyby w obronie przeciwko nagonkom wiele autorytetów w obozach i środowiskach im bliskich zostało na trwałe immunizowanych i wyjętych spod jakiejkolwiek krytyki. Można wręcz powiedzieć, że powstało obok siebie kilka konkurencyjnych zestawów tak zwanych autorytetów.</p>
+        <p xml:id="p-2">I tak w jednym słupku zostali pomieszczeni obok siebie, przykładowo, żeby dla wygody trzymać się środowiska historyków: Jerzy Robert Nowak, Ryszard Bender, Jan Maria Jackowski, w drugim: Andrzej Paczkowski, Andrzej Friszke czy Bronisław Geremek. Takich układanek można próbować więcej, do każdego ze słupków dałoby się dopisać artystów, poetów, malarzy, a i muzyków chyba też. Skutek Ø jest taki, że oczywiście nie ma nic świętego i każdy z autorytetów jest bezpardonowo atakowany tak silnie, że wszystkie wartości zostały wystawione na sprzedaż. Z drugiej zaś strony - autorytet dla swojego środowiska, które uważa, że trzeba bronić okopów, jest świętym i co najwyżej po cichu przyznaje się, że może nie zawsze i wszędzie ma rację, czy z równą i nieprzemijającą siłą pokazuje talent. Czy do pomyślenia są jakiekolwiek słowa krytyki na łamach "Gazety Wyborczej" skierowane przeciwko Czesławowi Miłoszowi czy Janowi Nowakowi-Jeziorańskiemu?</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

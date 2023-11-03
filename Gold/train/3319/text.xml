@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">3) osoby, będące przed 15 listopada 1991 r. emerytami i rencistami uprawnionymi do wzrostów lub dodatków z tytułu pracy w szczególnych warunkach lub w szczególnym charakterze na podstawie przepisów wymienionych w art. 1 ustawy z 17 października 1991 r. o rewaloryzacji emerytur i rent, o zasadach ustalania emerytur i rent oraz o zmianie niektórych ustaw, które utraciły prawo do wzrostów lub dodatków lub którym nie ustalono emerytury lub renty na podstawie ustaw: – ustawy z 17 października 1991 r. o rewaloryzacji emerytur i rent, o zasadach ustalania emerytur i rent oraz o zmianie niektórych ustaw, – ustawy z 1 lutego 1983 r. o zaopatrzeniu emerytalnym górników i ich rodzin; – ustawy z 30 czerwca 1994 r. o zmianie ustawy o zaopatrzeniu emerytalnym górników i ich rodzin oraz o zmianie niektórych innych ustaw.</p>
+        <p xml:id="p-2">W okresie od 1 lipca 1991 r. do 28 czerwca 1992 r. nie stosowano przepisów w zakresie kształtowania środków na wynagrodzenia i uposażenia w sferze budżetowej, zaś w drugim półroczu 1991 roku pozbawiono niektóre grupy emerytów i rencistów wzrostów lub dodatków z tytułu pracy w szczególnych warunkach lub w szczególnym charakterze. Trybunał Konstytucyjny aż trzema orzeczeniami stwierdził niezgodności z Konstytucją Rzeczypospolitej Polskiej przepisów pozbawiających waloryzacji wynagrodzeń w sferze budżetowej i odbierających wzrosty i niektóre dodatki do emerytur i rent. Konsekwencją tego jest ustawa z 6 marca 1997 r. o zrekompensowaniu okresowego niepodwyższania płac w sferze budżetowej oraz utraty niektórych wzrostów lub dodatków do emerytur i rent, czyli – program wypłat rekompensat.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

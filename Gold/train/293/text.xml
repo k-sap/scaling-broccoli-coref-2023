@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Tymczasem zarówno odcinki Latającego Cyrku MP, filmy grupy, jak choćby Monty Python i Św. Graal wciąż żyją (bardziej niż wiecznie żyw Włodzimierz Iljicz), nieustannie obrastając w rzesze nowych fanów, starych tracą jedynie w wyniku przenoszenia się ich w zaświaty. Powinno to zastanawiać, ale niekoniecznie.</p>
+        <p xml:id="p-2">Prawdziwa, a nie wydumana kultowość MP powoduje, że wielkim ryzykiem jest próba naśladownictwa, czy tworzenia swoich "montych", i to jeszcze na papierze. Ba, zadrukowanym! Zapewne wiedząc o zagrożeniach, zaryzykował jednak Szymon Piszczek pisząc Śmiej się na poważnie. Warto przekonać się, czy słusznie postąpił? Już sama lektura zamieszczonych na ostatniej stronie okładki fragmencików recenzji tej solidnie wydanej książki daje odpowiedź. Dowodnie przekonuje nawet absolutnie sekciarsko zatwardziałych wyznawców jedynie słusznej, a podstawowej wykładni wiary stworzonej przez MP "wieki temu".</p>
+        <p xml:id="p-3">By nie odbierać czytelnikowi radości, pozwolę sobie zacytować tylko dwie z opinii reklamujących Śmiej się…: Ta książka przypomina mi stan wojenny, bowiem nic co ludzkie nie jest mi obce" ocenia W. Jaruzelski. Generałowi wtóruje wielki autorytet w sferze absurdu, Kamilla Parker-Bowles, twierdząc iż nobel albo bubel, innego wyjścia nie ma.</p>
+        <p xml:id="p-4">Po tak prosto z mostu po żołniersku i parakrólewsku postawionych diagnozach, otwieramy książkę i zanurzamy się w opary absurdu. Strona po stronie napotykamy kłębiące się stada zupełnie nielogicznych opowieści purnonsensowej treści oraz zderzenia tychże absolutnie czytelnych nieprawdopodobieństw ze swymi zwierciadlanymi odbiciami, czyli logicznymi ciągami zdarzeń treści zupełnie realnej oraz kompletnie nieczytelnych prawdopodobieństw. Przesłanie powyższego zdania zrozumieć mogę tylko ja – jego autor, a i to nie jest to całkiem pewne.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

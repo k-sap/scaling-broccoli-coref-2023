@@ -1,0 +1,23 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">§ 3. Ograniczenia wymienione w § 1 i 2 trwają także po ustaniu małżeństwa, przysposobienia, opieki lub kurateli.</p>
+        <p xml:id="p-2">Rozdział 2</p>
+        <p xml:id="p-3">Tryb dokonywania czynności notarialnych</p>
+        <p xml:id="p-4">§ 1. Przy dokonywaniu czynności notarialnej notariusz jest obowiązany stwierdzić tożsamość osób biorących udział w czynności.</p>
+        <p xml:id="p-5">§ 2. Stwierdzenie powinno nastąpić na podstawie prawem przewidzianych dokumentów, a w braku takich dokumentów - w sposób wyłączający wszelką wątpliwość co do określenia tożsamości osoby biorącej udział w czynności notarialnej.</p>
+        <p xml:id="p-6">§ 3. Sposób stwierdzenia tożsamości Ø notariusz określi w sporządzonym dokumencie.</p>
+        <p xml:id="p-7">Notariuszowi nie wolno dokonywać czynności notarialnej, jeżeli poweźmie wątpliwość, czy strona czynności notarialnej ma zdolność do czynności prawnych.</p>
+        <p xml:id="p-8">§ 1. Jeżeli osoba biorąca udział w czynnościach:</p>
+        <p xml:id="p-9">1)nie zna języka polskiego i do czynności nie jest dołączony przekład na inny znany tej osobie język, notariusz powinien przetłumaczyć akt lub inny dokument osobiście albo przy pomocy tłumacza; przepis art. 2 § 3 stosuje się,</p>
+        <p xml:id="p-10">2)jest głucha lub głuchoniema, notariusz jest obowiązany przekonać się, że treść czynności jest jej dokładnie znana i zrozumiała, z tym że notariusz może przywołać do czynności biegłego,</p>
+        <p xml:id="p-11">3)jest niewidoma, głucha, niema lub głuchoniema, notariusz na życzenie takiej osoby powinien przywołać do czynności wskazaną przez nią zaufaną osobę; o powyższym notariusz powinien uprzedzić osoby zainteresowane,</p>
+        <p xml:id="p-12">4)nie umie lub nie może pisać, powinna na dokumencie złożyć tuszowy odcisk palca; obok tego odcisku zaś inna osoba wpisze imię i nazwisko osoby nie umiejącej lub nie mogącej pisać, umieszczając swój podpis,</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

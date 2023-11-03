@@ -1,0 +1,16 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Wydrążona dynia ze światełkiem w środku dla irlandzkich chłopów oznaczała błędne ogniki uważane za dusze zmarłych. W czasie tajemniczych obrzędów miano uwalniać ludzkie dusze z ciał czarnych kotów, psów i nietoperzy. Obecnie w wyeksponowanych miejscach domów umieszcza się wydrążone i podświetlone od wewnątrz dynie z wyciętymi kształtami różnych postaci oraz, w zależności od wyobraźni domowników, imitacje ludzkich czaszek, szkieletów, manekinów znanych postaci z horrorów, itp. W Irlandii obowiązuje zasada, że po 1 listopada nie zbiera się dzikich owoców, bo mogą być zatrute. W regionach Szkocji, Anglii, Walii i Irlandii sprząta się mieszkanie, gasi ogień pod kuchnią, a gospodynie wykładają jedzenie i napoje, po czym wszyscy idą spać. Kolorami święta Halloween są czarny i pomarańczowy.</p>
+        <p xml:id="p-2">Halloween w Polsce</p>
+        <p xml:id="p-3">Halloween w naszym kraju stało się popularne pod koniec lat 90. Z tej okazji dla dorosłych organizowane są liczne imprezy kulturalne w nocnych klubach, występy teatralne oraz projekcje filmowe w kinach. Szkoły i przedszkola organizują z tej okazji dodatkowe atrakcje dla swoich wychowanków. W Halloween dzieci przychodzą do szkoły przebrane za straszne postacie filmowe. Chodzenie od domu do domu i zbieranie przez dzieci cukierków zdarza się sporadycznie.</p>
+        <p xml:id="p-4">Kontrowersje</p>
+        <p xml:id="p-5">W związku z pogańską genezą tego święta , Halloween spotyka się z krytyką ze strony niektórych duchownych Kościoła rzymskokatolickiego, Prawosławnego, Episkopalnego i Luterańskiego (krytyka) . Jednocześnie od obchodzenia Halloween w Polsce, odcinają się również słowiańskie rodzimowiercze związki wyznaniowe – opowiadające się za kultywowaniem rodzimych zwyczajów, związanych z tradycją Dziadów .</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

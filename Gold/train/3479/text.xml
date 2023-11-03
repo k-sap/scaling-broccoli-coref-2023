@@ -1,0 +1,14 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Astronomowie, w odróżnieniu od fizyków, nie mogą wykonywać laboratoryjnych doświadczeń, aby zrozumieć zachowanie badanych układów. Jednak przeogromna mnogość wszelkiego rodzaju obiektów na rozgwieżdżonym niebie pozwala obserwować wiele podobnych układów, znajdujących się w różnej fazie rozwoju. Astrofizyk zatem postępuje jak biolog, który, miast hodować przez kilkadziesiąt lat jedno drzewo, idzie do lasu, gdzie znajdzie wiele drzew tego samego gatunku, w różnym wieku, żyjących w różnych warunkach. Obserwacje młodych gwiazd pozwoliły wniknąć w proces formowania się układów planetarnych.</p>
+        <p xml:id="p-2">Słabość emitowanego światła nie jest jedyną przeszkodą utrudniającą dojrzenie dalekich planet. Problemem jeszcze poważniejszym jest oślepiający blask sąsiadującej gwiazdy. Okazuje się jednak, że dramatyczna różnica jasności gwiazdy i planet jest znacznie mniejsza w podczerwieni niż w obszarze światła widzialnego. Dzieje się tak dlatego, że gwiazda nie tylko oświetla, ale i ogrzewa pobliskie planety, dzięki czemu stają się one, jak każde nagrzane ciało, źródłem promieniowania podczerwonego.</p>
+        <p xml:id="p-3">Dzięki zastosowaniu najnowszych technologii udało się zbudować teleskopy podczerwieni o rozdzielczości pozwalającej zaobserwować obiekty znajdujące się w najbliższym sąsiedztwie gwiazd. Teleskopy te skierowano ku młodym gwiazdom, liczącym od kilku do kilkuset mln lat. Wkrótce, w kwietniu 1998 r., doniesiono o wykryciu planetarnych dysków wirujących wokół trzech stosunkowo nam bliskich gwiazd - Fomalhaut, Beta Pictoris, Wega - odległych o zaledwie kilkadziesiąt lat świetlnych i jednej - HR 4796 - nieco dalszej. Na wykonanych w podczerwieni zdjęciach dobrze widać obwarzanki świecącej materii, odpowiadające pasowi Kuipera z naszego Układu Słonecznego. Pas ten, rozciągający się za orbitą Plutona, jest zwałowiskiem lodowych brył, które nieraz w postaci komet przybywają w okolice Ziemi. W przypadku Fomalhaut i HR 4796 obszar najbliższy obserwowanej gwieździe jest dobrze oczyszczony z gruzu i pyłu, co wskazuje, że uformowały się już tam planety takie jak Merkury, Wenus lub Mars.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

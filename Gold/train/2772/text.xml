@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Deebilka Wszyscy proponują jazdę na rowerze... A ja nie za bardzo mogę w ogóle wychodzić z domu, że o jeździe na rowerze już nie wspomnę, ze względu na upały, które bardzo trudno znoszę... Ale ja mam rowerek stacjonarny, ustawiam go przed telewizorem, kieruję na siebie wiatrak i jazda... A ogólnie to korzystając z wolnego czasu można właśnie fotografować, oglądać filmy, zwłaszcza stare, zwiedzać sklepy, rysować, malować, zrobić remont pokoju, tresować psa... A jeśli chce sie zarobić, można to zrobić np roznosząc ulotki.</p>
+        <p xml:id="p-2">Pati 13.5latek:) CYTAT(K@mil@@ 22.06.2008, 23:22) "No i mnie ten problem też dotyczy Jesli jest ładna pogoda to jakieś zajęcie zawsze się znajdzie, ale co robić kiedy pada? Dodam że mieszkam na wsi i wypady do kina czy różne warsztaty odpadają..." hej jeśli pada to nie jest tak zle jeśli masz komputer i internet a widze ze masz to mozna przecież weiść w jakieś strony albo poszukać czegoś ciekawego w googlach ja często jak się nudze to w google wpisuje pierwsze słowo jakie mi przyjdzie na mysl lub jakieś imiona i nazwiska twoich znajomych u nas jak się znajdzie coś ciekawego to wszyscy się smieją mozna tez pograć, popatrzeć z modą i wile wiele innych spraw porobić pozdrawiam</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

@@ -1,0 +1,17 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">na tak na pewno się nieco zwalnia przestaje się gonić za czymś co winnych okolicznościach wydawałoby się bardzo godne pożądania tutaj jak się patrzy na ludzi pogrążonych w żałobie raptem się okazuje że naprawdę nie ma znaczenia czy to był doceniany naukowiec czy to był wielki biznesmen który zwiedził cały świat czy ta rodzina pod cmentarz podjechała najdroższym Ø czy najtańszym samochodem zaczynają być ważne relacje międzyludzkie zaczyna być ważne to czy ten człowiek nacieszył się życiem nie ile zdobył ale ile przeżył ile miał radości z tego że chodził po tym świecie</p>
+        <p xml:id="p-2">a pro po relacji międzyludzkich mówi pani że yy w tej chwili yy pani docenia wagę tych relacji yy mówi też pani o rodzinach yy osób zmarłych yy a co jeśli pochodzi do takiego pogranicza świata prywatnego i Ø zawodowego w życiu mistrza ceremonii yy że umiera ktoś bliski lalbo ktoś bliski prosi o o poprowadzenie pogrzebu tu już wcześniej mówiliśmy że yy wielką zaletą yy yy mistrza ceremonii jest jego brak zaangażowania emocjonalnego</p>
+        <p xml:id="p-3">i tutaj oczywiście nie może być o tym mowy ubiegłej zimy na początku tego roku zmarł nasz przyjaciel wspomniany już przeze mnie wcześniej ów prezes Polskiego Stowarzyszenia Funeralnego i jego koledzy będący zarazem naszymi kolegami poprosili nas o przygotowanie takiego wspomnienia i pożegnania Wojtka no i to było wyzwanie</p>
+        <p xml:id="p-4">poczuliście na własnej skórze co to znaczy być zaangażowanym</p>
+        <p xml:id="p-5">tak na pewno</p>
+        <p xml:id="p-6">oczywiście że tak co nam zresztą bardzo dobrze zrobiło bo raz na jakiś czas przypomnieć sobie co czuje rodzina z jaką rozmawiamy to jest też bardzo ważne ale właśnie przy pogrzebie tego naszego przyjaciela dowiedzieliśmy się co to znaczy męczyć się nad tekstem co to znaczy nie chcieć go pisać nie dlatego że jest to trudne tylko dlatego</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

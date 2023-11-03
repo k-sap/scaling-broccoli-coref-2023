@@ -1,0 +1,50 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">sp3: potem zjadł cały cały ten y danio</p>
+        <p xml:id="p-2">sp1: aha</p>
+        <p xml:id="p-3">sp3: danio co on jeszcze. to wcześniej to tam to już u mnie no to tak. kawałek piccy zjadł</p>
+        <p xml:id="p-4">sp1: aha</p>
+        <p xml:id="p-5">sp3: i potem tego rosołku i co on tam jeszcze pojadał ? co</p>
+        <p xml:id="p-6">sp1: a ostatnio co jadł ?</p>
+        <p xml:id="p-7">sp3: a kanapki im robiłam kanapki. Zosia cały</p>
+        <p xml:id="p-8">sp1: a to koło której było ?</p>
+        <p xml:id="p-9">sp3: a wiem. po szóstej</p>
+        <p xml:id="p-10">sp1: po szóstej aha</p>
+        <p xml:id="p-11">sp3: po szóstej po szóstej już było</p>
+        <p xml:id="p-12">sp1: coś tam by jeszcze zjedli coś</p>
+        <p xml:id="p-13">sp3: no tak no teraz ale tak to ładnie dziś dużo ładnie zjadł</p>
+        <p xml:id="p-14">sp1: aha</p>
+        <p xml:id="p-15">sp3: no i wysikał się no</p>
+        <p xml:id="p-16">sp1: no. no tak</p>
+        <p xml:id="p-17">sp3: no i nie było problemu dzisiej cały dzień jak tylko</p>
+        <p xml:id="p-18">sp2: puścisz bieliznę</p>
+        <p xml:id="p-19">sp3: jak tylko to szedł do tego to szedł i robił siku jak teraz tata przyszedł to już nie da mi się ruszyć no</p>
+        <p xml:id="p-20">sp2: bielizna się suszy</p>
+        <p xml:id="p-21">sp3: Zosieńka już chce spać tak</p>
+        <p xml:id="p-22">sp2: bielizna się</p>
+        <p xml:id="p-23">sp3: tylko cyca byś jeszcze chyba chciała tak ?</p>
+        <p xml:id="p-24">sp0: nie</p>
+        <p xml:id="p-25">sp3: chciałabyś ?</p>
+        <p xml:id="p-26">sp0: nie nie</p>
+        <p xml:id="p-27">sp3: co byś chciała ? włożyć cię do łóżka ?</p>
+        <p xml:id="p-28">sp0: tak</p>
+        <p xml:id="p-29">sp3: tak ? ale</p>
+        <p xml:id="p-30">sp1: och ale zostaw jej to !</p>
+        <p xml:id="p-31">sp3: pójdziesz spać ?</p>
+        <p xml:id="p-32">sp2: to jest mój</p>
+        <p xml:id="p-33">sp1: nie ! zostaw już ten . no nie wiem czy ona tak zaśnie</p>
+        <p xml:id="p-34">sp2: to jest mój</p>
+        <p xml:id="p-35">sp3: no właśnie próbuje położyć cię do łóżka ? tak !</p>
+        <p xml:id="p-36">sp1: ale chciała ? tak ?</p>
+        <p xml:id="p-37">sp3: no tak i położyłam ją nie było protestu</p>
+        <p xml:id="p-38">sp1: tak ? a tu masz te. zabaweczki tak ? o. Izydor Hipolit</p>
+        <p xml:id="p-39">sp3: dała się położyć jakby się nie dawała to by o</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

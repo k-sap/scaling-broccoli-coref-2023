@@ -1,0 +1,21 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">czasami sama przyroda nawet zapewnia wspaniałe sklepienie świerków</p>
+        <p xml:id="p-2">wspaniała oprawę</p>
+        <p xml:id="p-3">tak</p>
+        <p xml:id="p-4">tak Powązki stare na przykład</p>
+        <p xml:id="p-5">państwo yy oboje wykonują yy zawód mistrza ceremonii yyy w pogrzebach świeckich yy od czego zależy czy pani czy pan yyy prowadzi ? czy ja dobrze rozumiem że czasami pani wygłasza przemowę czasami pan ? czyli klienci mają różne zapatrywania ?</p>
+        <p xml:id="p-6">tak tak oboje jesteśmy mistrzami ceremonii oboje prowadzimy pogrzeby z tym że oboje to nie znaczy razem podczas jednej ceremonii pogrzeb świecki</p>
+        <p xml:id="p-7">nie ma koncelebry</p>
+        <p xml:id="p-8">nie nie nie wymaga koncelebry yy od czego to zależy ? często jest to wybór rodziny yyy często jest to jest to zastana sytuacja jeżeli yy na tę samą godzinę przyjmujemy drugą ceremonię wtedy rodzina jest uprzedzona że na przykład Jacek już ten termin ma zajęty że zostaję tylko ja do dyspozycji a czasem yy rodzina która nie wiem widziała uczestniczyła w takim pogrzebie yy czasem wręcz prosi w zakładzie pogrzebowym żeby to była konkretnie ta osoba celebrująca pogrzeb</p>
+        <p xml:id="p-9">jak państwo yy nauczyli yy się tego zawodu ponieważ zawód jest owiany pewną tajemnicą przez to że nowy przez to że nieznany przez to że temat jest yy bardzo trudny nie dla państwa bo państwo są już oswojeni yy ale yy no jednak domyślam się że dla wielu słuchaczy to jest yyy zu zu zupełne nowum i świat którego yy nie znają yy a jak państwo okiełznali tę profesję ?</p>
+        <p xml:id="p-10">można byłoby powiedzieć w pewnym sensie zadecydował o tym przypadek dlatego że ja grając na organach yy na pogrzebach świeckich widziałem tysiące pogrzebów świeckich i kiedy mistrz ceremonii nie dojechał ale uprzedził telefonicznie że nie dojedzie i żeby ekipa domu pogrzebowego jakoś ratowała</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

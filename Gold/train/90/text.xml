@@ -1,0 +1,16 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Wiosłowali z tysiącem ostrożności; zacisnęli zęby i nikt nie wymówił słowa. Błyskawice dawno już pogasły i mokra otaczała ich ciemność.</p>
+        <p xml:id="p-2">- Szostak macha latarką! - oznajmił z radością Burski. Nie może nas widzieć, ale daje znaki. Machaj, machaj, chłopaczku, bo nie wiesz, kogo powitasz. Uda się, uda się! Adasiu, strasznie cię kocham! - krzyknął ni stąd, ni zowąd.</p>
+        <p xml:id="p-3">Adaś uścisnął mu rękę w ciemności.</p>
+        <p xml:id="p-4">I jego rozpierała radość. Wspaniałym jelenim skokiem przeskoczył - któż to wie? - może własny grób. Wydobył się z grząskiego sopotu rozpaczy, w którym ugrzązł po szyję; jest wolny i wśród dobrych towarzyszów, z których jeden skoczy dla niego do tej zbełtanej wody, a drugi, ten co tam na brzegu udaje morską latarnię, skoczy dla odmiany w ogień. Awantura wprawdzie nie skończyła się jeszcze i teraz dopiero stać się może prawdziwie groźna . Nie ulega wątpliwości, że "towarzystwo" z Żywotówki wpadnie w zrozumiałą wściekłość zastawszy puste gniazdo po nim i po Francuzie. Zaczną tropić i wytropią; Francuzowi należy przeto wytłumaczyć, aby uciekał czym prędzej, co zapewne uczyni bez wahania, a samemu trzeba będzie otoczyć się gwardią mołojecką, złożoną z tego świetnego zastępu dzielnych chłopców.</p>
+        <p xml:id="p-5">- Co się stało? - krzyknął Adaś przerwawszy rozmyślania. - Nieszczęście! - zdławionym głosem odkrzyknął Burski. Już po nas!</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

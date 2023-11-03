@@ -1,0 +1,16 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Kochani Podróżnicy!</p>
+        <p xml:id="p-2">27 września 2008 roku pożegnałam Was na lotnisku Okęcie w Warszawie. Czułam się tak, jakbym wyprawiała w świat, w daleką nieznaną podróż gromadkę swoich szalonych i niezwykłych Dzieci. Przepraszam, że tak czasem myślę sobie o Was. Może nie mam do tego prawa ani zrozumiałego dla wszystkich powodu. Może nie życzycie sobie, żebym Was tak traktowała. Inaczej jednak nie potrafię!</p>
+        <p xml:id="p-3">Podczas długiej odprawy bagażowo-biletowej i ostatnich rozmów przebiegały mi przez głowę różne myśli, a moje serce pełne było emocji i wzruszeń. Patrzyłam na Wasze skupione twarze, zmęczenie, podniecenie... Tak bardzo chciałam każdego przytulić, coś ważnego powiedzieć jeszcze na drogę, lecz nie znalazłam już słów.</p>
+        <p xml:id="p-4">Wiem o Was bardzo dużo: o Waszych zmaganiach z przeciwnościami losu, o cierpieniu, porażkach, marzeniach. Rozmawialiśmy o tym w programie Spotkajmy się, a także przy innych okazjach. Wiem, co w Was drzemie, dlatego nie miałam żadnych wątpliwości, że właśnie Wam mogę rzucić to śmiałe wyzwanie. Nikt z Was nie odmówił jego przyjęcia!</p>
+        <p xml:id="p-5">To Wy wiecie lepiej niż ktokolwiek inny, jak ważny dla każdego z nas jest drugi człowiek - gdy obok ma się Przyjaciela, można wyjść z każdej ciemności, można nauczyć się na nowo kochać życie, biegać bez nóg, widzieć bez oczu... I normalnie żyć.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

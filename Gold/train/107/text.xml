@@ -1,0 +1,20 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Zanim zdołał wymówić myśl swoją, rycerz chwycił jego ręce i potrząsając nim wołał:</p>
+        <p xml:id="p-2">- Prowadź mię do tej dziewki, prowadź mię natychmiast! Nic ci złego nie zrobię, jeżeli mi będziesz posłuszny, albo ci łeb rozetnę na dwoje, gdybyś mi się sprzeciwiać zamierzał.</p>
+        <p xml:id="p-3">Wtem stary pustelnik wyrwał się z rąk siłacza, dźwignął swe schylone ramiona, szybko podszedł do ściany i zerwawszy z niej mały krzyż żelazny stanął przede drzwiami chaty i piorunującym głosem zawołał:</p>
+        <p xml:id="p-4">- Oto jest krzyż Zbawiciela świata! Przez niewinną jego mękę przeklnę cię, rozwiążę sługi twe, poddanych i chłopów z posłuszeństwa, odłączę cię od społeczeństwa szlachty, zakażę ci uczestnictwa w kościele, ażebyś zdechł z głodu i przez psy był rozszarpany jako niewierny!</p>
+        <p xml:id="p-5">- Ty mnie przeklniesz? Ty mnie? - wołał Rudolf trupio blady. - Ty, chłopie...</p>
+        <p xml:id="p-6">- Tum aż zaszedł uciekając od waszych zbrodni, zbóje i łupieżcy! Tu Bogu służę w tej puszczy. Jeżeli nie uczynisz pokuty publicznej...</p>
+        <p xml:id="p-7">Rycerz tyłem wycofał się z izby i usiłował wskoczyć na siodło. Trwoga śmiertelna jak wilk rzuciła się na niego, kiedy starzec wspomniał o pokucie publicznej.</p>
+        <p xml:id="p-8">- Nie, nie ucieczesz! - wołał dziad idąc za nim. - Wróć się natychmiast i uczyń pokutę, inaczej grozi ci klątwa.</p>
+        <p xml:id="p-9">W przerażeniu i wściekłości Rudolf chwycił za rękojeść miecza i ze złowrogim błyskiem w oczach szedł z wolna ku starcowi.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">W programie Ø, nieprezentowane w Rybniku od 20 lat, sławne dzieła Piotra Czajkowskiego: I Suita z baletu „Dziadek do orzechów” op. 71a oparta na bajce E. T. A. Hoffmanna pełna jest oryginalnych i pięknych melodii oddających nastrojową atmosferę baśniowych przygód i Koncert Skrzypcowy D – dur op. 35 należy do największych dzieł muzyki skrzypcowej.</p>
+        <p xml:id="p-2">Od pierwszego wykonania w 1981 r. datuje się ogromna światowa popularność tej niezwykle wirtuozowskiej kompozycji, która reprezentuje wszystkie najbardziej znamienne cechy tego gatunku i stylu Piotra Czajkowskiego.</p>
+        <p xml:id="p-3">Solistą koncertu jest ADAM MOKRUS – znakomity, polski skrzypek młodego pokolenia. Absolwent Akademii Muzycznej im. K. Szymanowskiego w Katowicach. Występował jako solista z orkiestrą Filharmonii Śląskiej w Katowicach, orkiestrą Filharmonii Częstochowskiej, a także Polską Filharmonią Kameralną Sopot. Obecnie jest koncertmistrzem Orkiestry Symfonicznej w Częstochowie. Obok działalności artystycznej zajmuje się także działalnością pedagogiczną, pracując jako asystent Akademii Muzycznej w Katowicach. Od kilku lat związany jest z rybnicką szkołą muzyczną.</p>
+        <p xml:id="p-4">Orkiestrę Symfoniczną Szkoły Szafranków poprowadzi PAWEŁ PRZYTOCKI - absolwent Akademii Muzycznej w Krakowie w klasie Dyrygentury prof. J. Katlewicza. Współpracował z Filharmonią Krakowską, Teatrem Wielkim w Łodzi, Teatrem Wielkim w Warszawie. Był dyrygentem, a także dyrektorem artystycznym Filharmonii Bałtyckiej w Gdańsku, Filharmonii im. A. Rubinsteina w Łodzi. Maestro Przytocki współpracuje z większością orkiestr filharmonicznych w Polsce, a także z orkiestrami symfonicznymi i kameralnymi za granicą. Obecnie dyrygent Teatru Wielkiego Opery Narodowej w Warszawie.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

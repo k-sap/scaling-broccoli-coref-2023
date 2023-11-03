@@ -1,0 +1,14 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Kiedyś Aristide cieszył się tu dużym poparciem. Dziś niewielu zachowało wiarę, choć brak tu otwartej wrogości w stosunku do prezydenta, jaka panuje w miastach.</p>
+        <p xml:id="p-2">Jeszcze 18 lat temu Aristide był księdzem i pracował przy tworzeniu społeczności kościelnych na prowincji kraju. W 1986 r. stał po przeciwnej niż dziś stronie barykady, walcząc z dyktaturą Duvaliera. Wyjątkowo ciekawa okazuje się lektura jego pracy dyplomowej, napisanej w katedrze psychologii Uniwersytetu Haitańskiego w 1979 r. Analizuje działalność Misji Krzyża Chrystusowego, która zajmowała się krzewieniem wiary na wiejskich obszarach kraju. "Haitańczycy od wieków karmieni są iluzjami przez smoczek akceptacji", "Po obaleniu niewolnictwa zmienił się pan, ale struktura pan-podwładny wciąż pozostała", "Utrzymanie takiej zależności jest możliwe tylko przy wykorzystaniu pewnej formy religii" - pisał młody Aristide.</p>
+        <p xml:id="p-3">Aristide ostrzegał, że "ludzie, którzy wychodzą z niekończącej się biedy, od razu zaczynają formować nową klasę rządzącą, która jest często jeszcze gorsza od prawdziwej burżuazji". Szczególnie teraz wydaje się to wyjątkowo trafnym spostrzeżeniem dotyczącym również tego byłego "księdza ubogich", oskarżanego przez lokalną hierarchię i Watykan o zbyt lewicowe poglądy. Analiza kończy się sloganem - "tak dla wolności - nie zombifikacji". To nawiązanie do czarnej magii wudu, pod wpływem której ludzie tracą własną wolę pozostając pod wpływem złych mocy, wraca do prezydenta jak bumerang. W zeszłym roku Aristide, licząc na zwiększenie poparcia, ogłosił wudu oficjalną religią.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

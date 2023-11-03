@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">– Ależ proszę sobie nie robić kłopotu, to nie są sumy, o jakie będzie się spierało dwóch gentlemanów. Jest pan moim gościem.</p>
+        <p xml:id="p-2">Prezes uśmiechnął się, trochę z zakłopotania, trochę z zadowolenia – miał w zwyczaju podliczać koszty, zanim dostał rachunek, kwota 84 złotych kołatała mu się po głowie przez całe spotkanie i zastanawiał się, czy doliczyć 8,40, co dałoby 92,40, czy też musi rozstać się, po prezesowsku, z okrągłą setką. To, że sprawa się rozwiązała, było na tyle wygodne, że przeważyło niewygodę bycia czyimś gościem, do czego prezes nie przywykł – chyba że płacił inny prezes i obiad był wpuszczany w koszty innej firmy. Zaczął się zastanawiać, czy Helsztyński też wpuszcza to w koszty, czy tort Sachera, szarlotka i dwie herbaty po 18 złotych sztuka, czy stały rachunek w hotelu B. jest wpuszczany – i na tym upłynęło mu pożegnanie, przejście do samochodu i pół drogi do biura „Poldrobexu”. Przez drugą połowę drogi zastanawiał się nad umową z bułgarskim dostawcą koniny na kabanosy, od czego zależało rozszerzenie produkcji o wędliny niedrobiowe. Czy należy zmienić nazwę firmy?</p>
+        <p xml:id="p-3">III</p>
+        <p xml:id="p-4">– ...ależ nie, nie powinniśmy popadać w rutynę, czemu cały czas obstawać przy B., jakby w Warszawie nie było gdzie pójść... A gdzie pani zazwyczaj bywa?</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

@@ -1,0 +1,17 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Ponieważ trudno mi ukryć niedowierzanie, z ust komisarza Goździewskiego słyszę: - Policjanci mogą interweniować o każdej porze. A pojechali tam nie z własnej woli, tylko w związku ze zgłoszonymi interwencjami. I nie ma znaczenia kto interwencję zgłosił. Najważniejsze, że postąpili zgodnie z procedurą tj. zapobiegli eskalacji konfliktu, który tam nastąpił. Strony powinny być dorosłe i rozwiązać spór na drodze postępowania cywilnego.</p>
+        <p xml:id="p-2">A szok, który przeżyli członkowie rodziny W. i jego skutki? Pani Marzena wieczorem siódmego listopada doznała zapaści i znalazła się na pogotowiu. Wykres EKG wykazuje na niektórych odcinkach prawie płaską linię. A stres i nadpobudliwe zachowanie młodszego z synów, u starszego zaś reakcje lękowe trwające do tej pory?</p>
+        <p xml:id="p-3">- Świadkowie czyli państwo S. byli zdziwieni. Zeznali, że podczas zajścia chłopcy spokojnie siedzieli na kanapie w pokoju na górze. - replikuje nadkomisarz Andres.</p>
+        <p xml:id="p-4">Natomiast fakt niepodjęcia konkretnych działań służbowych przez kierownika posterunku w Opinogórze tłumaczy oficer prasowy: - Przecież pani W. nie powiedziała, że została wyrzucona z domu. Nie prosiła też o podjęcie czynności przez policję. Ona tylko chciała się dowiedzieć, czy S. mogą ją wyrzucić. Była świadoma tego, że jej przebywanie w tym lokalu jest zagrożone i na podstawie obowiązujących przepisów powinno być uregulowane umową.</p>
+        <p xml:id="p-5">Przeprosin nie będzie</p>
+        <p xml:id="p-6">Z najważniejszą konkluzją oficjalnego, sformułowanego na piśmie, stanowiska KPP w Ciechanowie, zapoznaliśmy naszych czytelników na wstępie reportażu: interweniujący działali zgodnie z procedurą. W dalszej części pisma dowiadujemy się, że „zadaniem policjantów obecnych na miejscu było zapewnienie porządku i zapobieżenie rękoczynom między zwaśnionymi stronami, które wybrały inny wariant rozwiązania sytuacji w jaką weszły. Nie można rzucać oskarżeń na policjantów, gdy na miejscu zdarzenia wszystkie strony krzyczą, a policjant nie musi wcale używać środków przymusu bezpośredniego, by spowodować zachowanie osoby, tej wobec której podjęta jest interwencja czy też obecnej na miejscu interwencji, aby zachowywała się spokojnie”.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

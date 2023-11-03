@@ -1,0 +1,58 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">MAREK</p>
+        <p xml:id="p-2">Przeczytaj to jeszcze raz i zastanów się czy śródtytuły są trafione. Dwa pierwsze są okej, ale te następne... mam wątpliwości.</p>
+        <p xml:id="p-3">KRZYSIEK</p>
+        <p xml:id="p-4">A to co zaznaczyłeś?</p>
+        <p xml:id="p-5">MAREK</p>
+        <p xml:id="p-6">Coś mi zazgrzytało. A tak ogólnie to dobry tekst.</p>
+        <p xml:id="p-7">KRZYSIEK</p>
+        <p xml:id="p-8">Zabiera tekst Markowi i wychodzi</p>
+        <p xml:id="p-9">Do jutra.</p>
+        <p xml:id="p-10">MAREK</p>
+        <p xml:id="p-11">Cześć</p>
+        <p xml:id="p-12">DO ANDRZEJA</p>
+        <p xml:id="p-13">Andrzej, czytałeś tekst Agnieszki o obozach językowych?</p>
+        <p xml:id="p-14">ANDRZEJ</p>
+        <p xml:id="p-15">Jakiej Agnieszki?</p>
+        <p xml:id="p-16">MAREK</p>
+        <p xml:id="p-17">Naszej... Agnieszki Dunin.</p>
+        <p xml:id="p-18">ANDRZEJ</p>
+        <p xml:id="p-19">Udaje, że zna</p>
+        <p xml:id="p-20">Aaa... O to chodzi...</p>
+        <p xml:id="p-21">Tak, przeglądałem. Chcesz go puścić?</p>
+        <p xml:id="p-22">MAREK</p>
+        <p xml:id="p-23">Jutro.</p>
+        <p xml:id="p-24">ANDRZEJ</p>
+        <p xml:id="p-25">Jak jest miejsce, to nich idzie.</p>
+        <p xml:id="p-26">Z boksu dodatku wchodzi Gośka. Podchodzi do swojego biurka. Wyjmuje z komputera dyskietkę i chowa ją do kieszeni.</p>
+        <p xml:id="p-27">MAREK</p>
+        <p xml:id="p-28">Gosiu, skończyłaś?</p>
+        <p xml:id="p-29">GOŚKA</p>
+        <p xml:id="p-30">Prawie. Na jutro będziesz go miał.</p>
+        <p xml:id="p-31">MAREK</p>
+        <p xml:id="p-32">To co ty robiłaś tyle czasu?</p>
+        <p xml:id="p-33">GOŚKA</p>
+        <p xml:id="p-34">Ale ty zrzęda jesteś. Żebym całą noc miała siedzieć to rano będziesz go miał na biurku.</p>
+        <p xml:id="p-35">Gośka wzrusza ramionami.</p>
+        <p xml:id="p-36">MAREK</p>
+        <p xml:id="p-37">Gosiu, dla ciebie rano, to od której się zaczyna ?</p>
+        <p xml:id="p-38">GOŚKA</p>
+        <p xml:id="p-39">Nie bój się. Zanim ty wejdziesz do redakcji to ja już będę po drugiej kawie.</p>
+        <p xml:id="p-40">MAREK</p>
+        <p xml:id="p-41">Bardzo bym chciał.</p>
+        <p xml:id="p-42">Gośka zabiera swoje rzeczy i wychodzi.</p>
+        <p xml:id="p-43">GOŚKA</p>
+        <p xml:id="p-44">Dobrej nocy...</p>
+        <p xml:id="p-45">MAREK / ANDRZEJ</p>
+        <p xml:id="p-46">Cześć... Do jutra.</p>
+        <p xml:id="p-47">Marek przygląda się Andrzejowi dłuższą chwilę.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

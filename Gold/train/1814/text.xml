@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Znakomite rzeźby, zwłaszcza ogromna bryła bazaltu, z której „wyłania” się tajemnicza ręka, jakby chciała uścisnąć ludzkie dłonie, a może napisać słowa „Mane tekel fares”, stoją na chodniku przed Miejskim Domem Kultury w Przasnyszu, podziwiane przez przechodniów. Są akcentami dużej wystawy plastycznej, prezentującej twórczość Jana Stępkowskiego, artysty ze Strzegowa.</p>
+        <p xml:id="p-2">Właściwie artysty przedstawiać nie trzeba; to jeden z najwybitniejszych na północnym Mazowszu rzeźbiarzy, a jednocześnie znakomity malarz.</p>
+        <p xml:id="p-3">Jako rzeźbiarz - sięga po różne techniki i materiały, nawet tak trudne do obróbki i kształtowania, jak bazalt i granit. Ma przede wszystkim fenomenalną wyobraźnię, widzi w bryle materiału przyszły kształt. Zaczynał jako samouk, współpracował z Klubem Pracy Twórczej przy Domu Kultury w Ciechanowie. Uczył sie i rozwijał, w końcu zabrał się za studia - ukończył Akademię Sztuk Pięknych w Gdańsku. Jego prace prezentowano na licznych wystawach, znajdują sie w kolekcjach na wszystkich kontynentach. W miastach stoją wykonane przez niego pomniki, w obiektach sakralnych - jego rzeźby i ołtarze. Równie ciekawe i oryginalne jest malarstwo artysty ze Strzegowa.</p>
+        <p xml:id="p-4">Bogusław Kruszewski, dyrektor MDK w Prasznyszu, decydując się na pokazanie bodaj części dorobku Jana Stępkowskiego, Wernisaż, na który przyjechało wielu twórców z Ciechanowa, kolegów Stępkowskiego, zbiegł się i znakomicie korelował z przasnyską „odsłoną” IV Światowych Dni Poezji, organizowanych przez Aleksandra Nawrockiego, pochodzącego z okolic Przasnysza poety i wydawcy, redaktora naczelnego literackiego pisma „Poezja dzisiaj”. Swoją twórczość i życiową drogę prezentował sam Nawrocki oraz poeta z Kamerunu Simon Moll.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

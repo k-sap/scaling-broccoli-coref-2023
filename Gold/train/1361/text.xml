@@ -1,0 +1,14 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Tak samo chciałem wołać do ludzi na ulicach, ale nie śmiałem. Ich nastrój był znowu zupełnie przeciwny niż mój Ø. Znikł entuzjazm i nikt nie szturmował już sklepów. Nikt nie śmiał się w knajpach i nie śpiewał w tramwajach. Pijanych było tak samo dużo, a może jeszcze więcej, ale nie obejmowali się, nie całowali i nie ustępowali nikomu z drogi. Twarze ich były znowu ponure.</p>
+        <p xml:id="p-2">Okazało się, że tam w górze, nad naszymi głowami, znów zaszła radykalna zmiana. Gruby Nikita w ostatniej chwili podwinął ogon i kazał rozmontować rakiety, a długi John nawet nie kopnął go przy tej sposobności w zadek, choć mógł przecież wiedzieć, że po raz drugi już mu się taka okazja nie nadarzy. Radio chwaliło rozwagę wielkich mężów stanu, którzy nadludzkim wysiłkiem odwrócili śmiertelne niebezpieczeństwo, jakie zagrażało ludzkości, i zawrócili świat znad skraju przepaści, ale jakoś nikt się z tego nie cieszył. Przeciwnie, uważano, że teraz niebezpieczeństwo było już beznadziejnie śmiertelne, bo, jak się okazało, nikt nie miał odwagi powstrzymać świata, który od dłuższego czasu staczał się nieuchronnie w przepaść. Kościoły zapełniały się znowu, ale każdy się modlił po cichu, tylko dla siebie. A pierwszego listopada zapłonęły świece na wszystkich cmentarzach na znak powszechnej żałoby (po pogrzebanej nadziei). Nigdy jeszcze nie było takiej pożogi świec.</p>
+        <p xml:id="p-3">Zaraz po Zaduszkach zjawił się u mnie Sałata.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

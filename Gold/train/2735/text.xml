@@ -1,0 +1,19 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">2. Nakładca jest obowiązany przejawiać troskę o bezpieczne i higieniczne warunki wykonywania pracy, wydawać polecenia usuwania stwierdzonych uchybień w tym zakresie i kontrolować wykonanie tych poleceń oraz współdziałać przy wykonywaniu zarządzeń i zaleceń wydawanych przez organy nadzoru nad warunkami pracy.</p>
+        <p xml:id="p-2">1. Jeżeli praca nakładcza wykonywana jest w lokalu mieszkalnym wykonawcy, nakładca nie może powierzać prac, których wykonywanie jest szkodliwe dla zdrowia wykonawcy lub jego współmieszkańców.</p>
+        <p xml:id="p-3">2. Dostarczane przez nakładcę surowce, materiały, maszyny i inne urządzenia techniczne powinny odpowiadać wymaganiom bezpieczeństwa i higieny pracy.</p>
+        <p xml:id="p-4">3. Jeżeli praca nakładcza wykonywana jest w pomieszczeniach pracy należących do nakładcy, stosuje się przepisy działu dziesiątego Kodeksu pracy, z zastrzeżeniem § 23-25.</p>
+        <p xml:id="p-5">W zakresie ochrony zdrowia stosuje się odpowiednio przepisy art. 220 § 1, art. 221 § 1-3, art. 222 § 1 i 3, art. 223, 226, 229 § 1, 2, 4, 5 i 6, art. 234, 235, 2373, 2374 i art. 2376 § 1 i 3 Kodeksu pracy.</p>
+        <p xml:id="p-6">1. (skreślony).</p>
+        <p xml:id="p-7">2. W razie konieczności stwierdzonej orzeczeniem lekarskim nakładca powinien powierzyć wykonawcy inną pracę nie narażającą go na działanie czynnika, który wywołał objawy powstawania choroby zawodowej. Jeżeli wskutek powierzenia innej pracy wykonawca nie może uzyskać dotychczasowego wynagrodzenia, przysługuje mu dodatek wyrównawczy przez okres do 3 miesięcy i najwyżej do wysokości najniższego wynagrodzenia.</p>
+        <p xml:id="p-8">3. Dodatek, o którym mowa w ust. 2, przysługuje przez okres do 6 miesięcy, jeżeli dotychczasowy przebieg leczenia rokuje odzyskanie przez wykonawcę zdolności do pracy poprzednio wykonywanej lub podobnej.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

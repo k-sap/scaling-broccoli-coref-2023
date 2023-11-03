@@ -1,0 +1,17 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">- Do pewnego momentu polski zespół znakomicie realizował grę wzmocnionej defensywy z kontrami. Ten konsekwencji zabrakło do końca....</p>
+        <p xml:id="p-2">- Bo mamy bardzo młody zespół. Zabrakło kilku rutyniarzy zwłaszcza w obronie (Zamojskiego, Łabuza, Borzęckiego). Młodzi gracze jak Sokół, Smeja, Mejka, mają zadatki na dobrych hokeistów, ale dzisiaj nie są jeszcze w stanie przejąć ciężaru gry na siebie. Popełniali błędy. Ale innej drogi nie ma, jeśli myślimy przyszłościowo o naszym hokeju, reprezentacji, to trzeba dawać szanse młodym. Na razie robią błędy, ale grając z tak silnymi rywalami jak Białoruś, wiele uczą się. To będzie procentować w przyszłości</p>
+        <p xml:id="p-3">- Kogo chciałby Pan wyróżnić indywidualnie?</p>
+        <p xml:id="p-4">- Bardzo dobrze bronił Jaworski, wysokie noty wystawiam Gonerze, Garboczowi, Parzyszkowi, L. Laszkiewiczowi. Mamy już szkielet reprezentacji, 23-25 graczy. Do tego dojdą zawodnicy występujący za granicą, wspomniany obrońca Borzęcki, być może Szczepaniec, napastnicy Płachta, Patryk Pysz, Zaręba. Oczywiście liczę, że będą mógł skorzystać z usług Czerkawskiego, warunek jest jeden, jego zespół Islanders nie zakwalifikuje się do Pucharu Stanleya.</p>
+        <p xml:id="p-5">- Mistrzostwa Dywizji 1 w kwietniu w Polsce, w Gdańsku. Liczy Pan na 1. miejsce i awans?</p>
+        <p xml:id="p-6">- Tak, jesteśmy na dobrej drodze do stworzenia mocnej drużyny. W lutym czeka nas jeszcze jeden turniej z cyklu EIHC na Białorusi, ale zagramy tam chyba składem młodzieżowym, bo czołowi gracze z Dworów, Wojasa, Tych będą mieli za sobą serię trudnych spotkań w play off w Interlidze. W kwietniu, przed turniejem w Gdańsku, czekają nas ostatnie sprawdziany ze Słowacją (na wyjeździe) i z Węgrami, chyba w Krynicy.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<teiHeader xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xml:lang="en">
+  <fileDesc>
+    <titleStmt>
+      <title>Paragraphs: p-491,p-492,p-493,p-494,p-495,p-496,p-497,p-498,p-499,p-500,p-501,p-502,p-503,p-504,p-505,p-506,p-507,p-508,p-509,p-510,p-511,p-512,p-513,p-514,p-515,p-516,p-517,p-518,p-519,p-520,p-521,p-522,p-523,p-524,p-525,p-526 from NKJP text with id: IJPPAN_k1231181</title>
+    </titleStmt>
+  </fileDesc>
+  <profileDesc>
+    <textClass>
+      <catRef scheme="#nkjp" target="Literatura piękna"/>
+    </textClass>
+  </profileDesc>
+  <revisionDesc/>
+</teiHeader>

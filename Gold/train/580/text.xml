@@ -1,0 +1,16 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Wcześniej pozbawieni byli całego pakietu ulg przysługujących innym poznaniakom. Decyzją miejskich radnych w 2002 roku pozostawiono im tylko 20 - procentową bonifikatę z tytułu zapłaty za mieszkanie gotówką, podczas gdy zniżki przysługujące pozostałym lokatorom sięgają nawet 90 procent! Rzecznik Praw Obywatelskich uznał, że jest to ,,nierówność konstytucyjna’’. Wojewódzki Sąd Administracyjny wydał wyrok, w którym zobowiązał władze Poznania do równego traktowania wszystkich osób starających się o wykup komunalnego ,,M’’.</p>
+        <p xml:id="p-2">- Podjęliśmy już odpowiednie działania i wszyscy lokatorzy starający się o wykup mieszkania będą mogli nabyć je na takich samych zasadach - zapewnia Piotr Puszczykowski, p/o zastępca dyrektora Zarządu Komunalnych Zaosbów Lokalowych.</p>
+        <p xml:id="p-3">Czy najemcy, którzy wykupili mieszkania na niekorzystnych warunkach będą mogli domagać się zwrotu części pieniędzy? Jak twierdzi P.Puszczykowski, w tej sprawie będą się musieli wypowiedzieć prawnicy</p>
+        <p xml:id="p-4">- W treści sądowego wyroku nie znalazła się informacja o tym, że tak ma się stać - dodaje. - Nie ma więc chyba podstaw do takich roszczeń.</p>
+        <p xml:id="p-5">W 2002 roku Rada Miasta podjęła decyzję o zmianach zasad sprzedaży mieszkań komunalnych w budynkach, w których jest od jednego do czterech lokatorów. Nie chodziło o ich stan techniczny, ale o wielkość budynku . Innym z argumentów było to, że domy te stoją zazwyczaj w atrakcyjnych dzielnicach o niskiej zabudowie, na bardzo ładnych działkach. Rada ograniczyła ulgi także potencjalnym kupcom komunalnych lokali płacącym czynsz wolny, którzy zajmują duże najczęściej ponad 100-metrowe mieszkanie.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

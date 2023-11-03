@@ -1,0 +1,39 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Za to, że zakochałem się w twojej córce...</p>
+        <p xml:id="p-2">MOCNIEJ</p>
+        <p xml:id="p-3">Za to, że jej to powiedziałem.</p>
+        <p xml:id="p-4">Zbliżenie Jerzego, zbliżenie Łukasza. Obaj są napięci.</p>
+        <p xml:id="p-5">Po chwili</p>
+        <p xml:id="p-6">JERZY</p>
+        <p xml:id="p-7">HAMUJĄC EMOCJE</p>
+        <p xml:id="p-8">No co ja mam ci powiedzieć? Oczywiście, że nie tak sobie to wyobrażałem, że nie stało się dobrze... ale przecież wiem, że ty sam tego żałujesz. Przecież chciałeś dla Agnieszki zawsze jak najlepiej... chcesz dla niej jak najlepiej. To dlaczego mam być na ciebie zły? Ważne jest jak teraz będzie, czy...</p>
+        <p xml:id="p-9">ŁUKASZ</p>
+        <p xml:id="p-10">BARDZO MOCNO</p>
+        <p xml:id="p-11">Przyrzekam ci, że nigdy z mojej strony Agnieszki nie spotka nic złego, że zawsze... jak tylko mi pozwoli, to dla niej i dla Kasi... One są dla mnie najważniejsze...</p>
+        <p xml:id="p-12">JERZY</p>
+        <p xml:id="p-13">Wiem. Nie musisz mi tego mówić.</p>
+        <p xml:id="p-14">Przez chwilę milczą</p>
+        <p xml:id="p-15">JERZY</p>
+        <p xml:id="p-16">Chcesz wiedzieć dokładnie co mi...</p>
+        <p xml:id="p-17">Patrzy na drzwi od gabinetu</p>
+        <p xml:id="p-18">Kuczyński powiedział?</p>
+        <p xml:id="p-19">ŁUKASZ</p>
+        <p xml:id="p-20">Nie. Poczekam niech sam mi powie.</p>
+        <p xml:id="p-21">JERZY</p>
+        <p xml:id="p-22">Ta dziewczyna to...</p>
+        <p xml:id="p-23">ŁUKASZ</p>
+        <p xml:id="p-24">Poznaliśmy się przed momentem. Zaczęła od tego, że mam fajny wózek.</p>
+        <p xml:id="p-25">JERZY</p>
+        <p xml:id="p-26">A co jej jest?</p>
+        <p xml:id="p-27">ŁUKASZ</p>
+        <p xml:id="p-28">Nie wiem. Wiem tylko, że jeździła na wózku cztery lata i że ten jej był okropny. Mówiła, że wolała się czołgać niż na nim jeździć.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

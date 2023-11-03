@@ -1,0 +1,19 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">#WicemarszalekAleksanderMalachowski: Nie ma, niestety, posła sprawozdawcy, pana posła Kaniewskiego... Może zarządzę przerwę do godz. 20 i postaramy się może jakoś odnaleźć pana posła. To jest punkt porządku dziennego wprowadzony do porządku obrad na wniosek posłów, a posła sprawozdawcy nie ma.</p>
+        <p xml:id="p-2">#WicemarszalekAleksanderMalachowski: Ogłaszam przerwę do godz. 20.</p>
+        <p xml:id="p-3">#WicemarszalekAleksanderMalachowski: (Przerwa w posiedzeniu od godz. 19 min 45 do godz. 20)</p>
+        <p xml:id="p-4">#WicemarszalekAleksanderMalachowski: Proszę państwa posłów o zajmowanie miejsc, chciałbym wznowić obrady.</p>
+        <p xml:id="p-5">#WicemarszalekAleksanderMalachowski: Pan poseł sprawozdawca jest gotowy do podjęcia pracy, wznawiam zatem obrady.</p>
+        <p xml:id="p-6">#WicemarszalekAleksanderMalachowski: Przystępujemy do rozpatrzenia punktu 9 porządku dziennego: Sprawozdania Komisji Nadzwyczajnej o rządowych projektach ustaw: 1) o wpłatach z zysku netto przez jednoosobowe spółki skarbu państwa (druki nr 1170 i 1380), 2) o zmianie ustawy o gospodarce finansowej przedsiębiorstw państwowych oraz ustawy o przedsiębiorstwach państwowych (druki nr 1171 i 1381).</p>
+        <p xml:id="p-7">#WicemarszalekAleksanderMalachowski: Proszę o zabranie głosu sprawozdawcę komisji pana posła Zbigniewa Kaniewskiego.</p>
+        <p xml:id="p-8">#PoselZbigniewKaniewski: Panie Marszałku! Wysoka Izbo! W imieniu komisji paktowej mam zaszczyt przedłożyć sprawozdanie z jej prac. W pakcie o przedsiębiorstwie państwowym znalazło się podstawowe ustalenie oraz zapowiedź likwidacji obligatoryjnej dywidendy w przedsiębiorstwach państwowych i oprocentowania kapitałów w jednoosobowych spółkach skarbu państwa jako obciążeń majątkowych nie posiadających charakteru dywidendy w sensie ekonomicznym. W konsekwencji tego założenia rząd zaproponował dwa projekty ustaw: ustawy o zmianie ustawy o gospodarce finansowej przedsiębiorstw państwowych oraz ustawy o przedsiębiorstwach państwowych, a także ustawy o wpłatach z zysku netto przez jednoosobowe spółki skarbu państwa. Podstawowym celem tych ustaw jest wyeliminowanie w przedsiębiorstwach państwowych płatności majątkowej, zwanej dywidendą obligatoryjną, a w jednoosobowych spółkach skarbu państwa także płatności o charakterze majątkowym - oprocentowania kapitału, i przejście na rozwiązanie quasi-kodeksowe. Chodzi o zapewnienie właścicielowi udziału w zysku netto. Komisja zgodziła się z tym założeniem. Dyskusja wywiązała się jednak przy wysokości udziału właściciela, czyli państwa, w zysku.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

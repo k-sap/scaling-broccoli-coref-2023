@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Obok drenażu mózgów nasila się również amerykanizacja Kanady. Ottawa powoli traci kontrolę nad gospodarką. Obecnie aż 31,5 procent gospodarki kanadyjskiej jest kontrolowane przez zagraniczne korporacje (głównie amerykańskie Ø). Kontrolują one 64 proc. przemysłu chemicznego, 59 proc. transportu, 58 proc. przemysłu elektronicznego.</p>
+        <p xml:id="p-2">Swoją siedzibę w USA ma 6819 kanadyjskich przedsiębiorstw, a aż 84 procent kanadyjskiego eksportu trafia do USA.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

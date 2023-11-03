@@ -1,0 +1,45 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">ZDUMIONY</p>
+        <p xml:id="p-2">Dlaczego nagle trzy tysiące?!</p>
+        <p xml:id="p-3">KNAPIK</p>
+        <p xml:id="p-4">Tysiąc oddaje, no i tracę moje dwa...</p>
+        <p xml:id="p-5">ANTEK</p>
+        <p xml:id="p-6">Zwariowałeś?! Skąd ci wezmę trzy tysiące?!</p>
+        <p xml:id="p-7">KNAPIK</p>
+        <p xml:id="p-8">No właśnie, ciężko zdobyć taką kasę. Teraz rozumiesz, nie mogę odpuścić. Po prostu nie mogę!</p>
+        <p xml:id="p-9">Zbliżenie Antka.</p>
+        <p xml:id="p-10">Scena</p>
+        <p xml:id="p-11">WNĘTRZE. NOC. ŁEBA. HOTEL. BIBLIOTEKA. LAURA, LESZEK.</p>
+        <p xml:id="p-12">Leszek wchodzi do pokoju bilardowego zastaje tam samotnie grającą Laurę.</p>
+        <p xml:id="p-13">LAURA</p>
+        <p xml:id="p-14">Zagrasz?</p>
+        <p xml:id="p-15">LESZEK</p>
+        <p xml:id="p-16">Nie jestem w nastroju... Nie wiesz, gdzie jest Maria? Nie ma jej w pokoju...</p>
+        <p xml:id="p-17">LAURA</p>
+        <p xml:id="p-18">Poszła na plażę, odetchnąć świeżym powietrzem.</p>
+        <p xml:id="p-19">LESZEK</p>
+        <p xml:id="p-20">Powinnaś ją zatrzymać, pod wieczór zrobiło się bardzo zimno...</p>
+        <p xml:id="p-21">LAURA</p>
+        <p xml:id="p-22">A tu w środku nie do wytrzymania... Moja siostra, jak zwykle skwasiła atmosferę...</p>
+        <p xml:id="p-23">Leszek nie odpowiada od razu. Widać, że komentarze Matyldy sprawiły mu przykrość...</p>
+        <p xml:id="p-24">LESZEK</p>
+        <p xml:id="p-25">Powinnaś za to obwiniać raczej mnie... Matylda przyjechała tu z mojego powodu...</p>
+        <p xml:id="p-26">LAURA</p>
+        <p xml:id="p-27">Nie może ci wybaczyć, że zrezygnowałeś z Waszyngtonu?</p>
+        <p xml:id="p-28">LESZEK</p>
+        <p xml:id="p-29">To tylko jeden z wielu punktów na jej liście...</p>
+        <p xml:id="p-30">LAURA</p>
+        <p xml:id="p-31">Rozumiem... A pozostałe Ø brzmią: Maria, Maria, Maria...</p>
+        <p xml:id="p-32">Leszek próbuje zaprzeczyć ruchem głowy.</p>
+        <p xml:id="p-33">LAURA</p>
+        <p xml:id="p-34">Nie próbuj mi wmówić, że nie zgadłam, bo i tak nie uwierzę... Dobrze znam moją siostrę... Rzadko się widujemy, ale jej poglądy są niezmienne od stuleci... Wiesz jak brzmi jej kredo życiowe: "Cierp i daj cierpieć innym".</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

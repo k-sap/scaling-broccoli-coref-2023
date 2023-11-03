@@ -1,0 +1,16 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">- Teraz jest z tym lepiej, ale było bardzo źle - mówi dr Andrzej Waniek, dyrektor szpitala. - Osoby niepełnosprawne mają kłopoty z dojazdem do poradni rehabilitacyjnej i neurologicznej. Do polikliniki dociera mniej pacjentów. Lekarze dyżurni mogą parkować na naszym wewnętrznym parkingu, ale osoby dowożące pacjentów mają z tym duże kłopoty</p>
+        <p xml:id="p-2">Dyrekcji szpitala udało się jednak "skorzystać" na drogowych perturbacjach - wykonawca robót ma zrekompensować poniesione straty i sfinansuje wymianę wszystkich szpitalnych okien od strony ul. Kopcińskiego. Przed wejściem do budynku powstaną specjalne zatoczki dla aut przywożących chorych</p>
+        <p xml:id="p-3">Hałaśliwie jest też na ul. Nowomiejskiej, gdzie trwa wymiana torowiska. Nowe tory pozwolą na wyciszenie tramwajów, tymczasem jednak okoliczni mieszkańcy chronią się w pobliskim parku przed hałasem. Następstwem działań ekip remontowych są korki na ul. Lutomierskiej między pl. Kościelnym a ul. Zachodnią</p>
+        <p xml:id="p-4">Kierowca, który jadąc na Retkinię zapędzi się ul. Krzemieniecką w okolice ul. Retkińskiej, będzie musiał zawracać. Przejazdu nie ma! W miejscu dawnej jezdni ryją buldożery. Bez problemu można dojechać ul. Bandurskiego, a że nawierzchnia Retkińskiej były znana jako jedna z najbardziej dziurawych w mieście nikt nawet specjalnie nie skarży się na utrudnienia w ruchu. Nowa Retkińska będzie miała i sygnalizację u zbiegu z ul. Krzemieniecką i chodnik (spory odcinek ulicy był go całkowicie pozbawiony)</p>
+        <p xml:id="p-5">Przekleństwa kierowców nader często słychać za to na ul. Wólczańskiej na odcinku od ul. Pabianickiej do ul. Skorupki. Tutaj śmiało poczynają sobie wodociągowcy, którzy urozmaicili jezdnię dołami wykopanymi co kilka metrów. Trzeba jechać slalomem. Miejscami jest bardzo wąsko, a ul. Wólczańska w okolicach "Górniaka" jest i tak pełna zasadzek (szczególnie zaś dla niewprawnych kierowców), nawet wtedy gdy nie ma tam "wykopków". Korki tworzą się na skręcie przy ul. Sieradzkiej, a wjazd i wyjazd z rynku graniczy z cudem</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

@@ -1,0 +1,12 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">- W rozporządzeniu Ministra Pracy i Polityki Społecznej z dnia 21 maja 2002 roku w sprawie orzekania o stopniu niepełnosprawności (Dz. U. nr 66 poz. 604) stwierdza się, że znaczny stopień niepełnosprawności orzeka się w przypadku naruszenia sprawności organizmu powodującego: - niezdolność do podjęcia zatrudnienia poza zakładem aktywności zawodowej lub zakładem pracy chronionej, - całkowitą zależność od innej osoby w pełnieniu ról społecznych, właściwych dla każdego człowieka, zależnych od wieku, płci, czynników społecznych i kulturowych, - niezdolność do samodzielnej egzystencji polegającą na niezdolności do zaspokajania podstawowych, codziennych potrzeb życiowych, takich jak: samoobsługa, samodzielne poruszanie się, komunikowanie z otoczeniem, powodującą całkowitą zależność od innej osoby lub konieczność zapewnienia specjalistycznej opieki instytucjonalnej.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Życie religijne osób niepełnosprawnych to jedna wielka tajemnica. W schronisku od początku przyjęliśmy zasadę, że w tygodniu nie będzie osobnych Mszy dla podopiecznych. Są normalne Msze dla wszystkich, w których niepełnosprawni mogą, ale nie muszą uczestniczyć. Jest grupa podopiecznych, którzy chodzą na Msze codziennie, inni - okazyjnie, jeszcze inni - tylko w niedzielę. W niedzielę jest specjalna Msza dla podopiecznych o jedenastej trzydzieści, ale mogą na nią też oczywiście przychodzić osoby z zewnątrz. Jest trochę ludzi z wioski, którzy lubią te Msze, odpowiada im godzina albo atmosfera, jaką stwarzają niepełnosprawni.</p>
+        <p xml:id="p-2">Jednej rzeczy zawsze broniłem: że uczestnictwo w Mszy ma być dobrowolne. Nie może być tak, żeby niepełnosprawni nie mieli w tej kwestii możliwości wyboru. To by znaczyło, że odmawiamy im prawa do posiadania sumienia. Mieliśmy kiedyś na ten temat spór w zarządzie. Jeden z panów opowiadał, że pracował kiedyś w zakładzie prowadzonym przez zakon. Tam o odpowiedniej godzinie wywoływano na korytarz każdą salę i po kolei prowadzono do kaplicy. "I było bardzo pięknie". A ja mówię: "Zaraz, zaraz, jak to było bardzo pięknie? Czy ich ktoś w ogóle pytał o zdanie? A jak ktoś nie chciał iść, to co robili?". Okazało się, że wtedy dwóch pielęgniarzy brało delikwenta za bety i prowadziło z innymi. I pięknie było...</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

@@ -1,0 +1,16 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">d) wyszukiwarki służące do odnajdywania stron o żądanej tematyce i wiele, wiele innych, które poznasz już niebawem. Tymczasem zapraszam Cię do kolejnego rozdziału, poświęconego podstawowemu narzędziu, bez którego surfowanie w Internecie nie byłoby możliwe.</p>
+        <p xml:id="p-2">2. Internetowe drzwi wejściowe</p>
+        <p xml:id="p-3">Chcąc dostać się do swojego domu albo mieszkania, musisz zazwyczaj skorzystać z drzwi wejściowych. Jedne są mocne i masywne, a inne zbudowane z dykty, którą z łatwością można uszkodzić. Bezpieczeństwo domostwa jest więc w dużej mierze uzależnione od rodzaju drzwi, które są wmontowane w futrynę, dlatego warto poświęcić im trochę uwagi, aby wybrać te w miarę najlepsze, choć nie zawsze wyglądające pięknie.</p>
+        <p xml:id="p-4">Czym jest przeglądarka?</p>
+        <p xml:id="p-5">Jest ona zwyczajnym programem, który służy do przeglądania stron internetowych. W krótkim wstępie do tego rozdziału porównałem przeglądarkę do drzwi wejściowych, gdyż spełnia ona praktycznie taką samą rolę jak one. Bez niej przeciętny użytkownik wirtualnego świata nie posiadałby do niego pełnego dostępu. To jest trochę tak jak z jazdą samochodem: kierowca nie musi się zbytnio interesować działaniem poszczególnych modeli samochodów, ponieważ wie, że każdy z nich uruchamiany jest poprzez przekręcenie kluczyka w stacyjce, a prowadzenie maszyny możliwe jest dzięki zmianie biegów oraz odpowiedniemu używaniu sprzęgła, gazu i hamulca. Przeglądarka internetowa jest więc swoistym skrótem do wejścia w świat wirtualny, bo gdyby nie ona, każdy użytkownik chcący przejrzeć jakąkolwiek stronę WWW musiałby posiadać całkiem sporą wiedzę programistyczną.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

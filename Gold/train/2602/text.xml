@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">- To był niesamowity widok - słyszymy od Roberta Ratajczyka, komendanta rejonowego policji w Gdyni. - W magazynie znajdował się bardzo drogi, profesjonalny sprzęt służący do przepakowywania tabletek. W sumie było blisko szesnaście milionów rozmaitych pastylek!</p>
+        <p xml:id="p-2">Zatrudniono do tego celu właśnie obywateli zza wschodniej granicy. Tam też miały trafiać leki. Tyle że już nie w opakowaniach zbiorczych, a detalicznych i z odpowiednimi etykietami oraz instrukcjami w języku rosyjskim. Z informacji na etykietach miało wynikać, że tabletki produkowano w kilku znanych firmach farmaceutycznych w Polsce. Można wymienić choćby starogardzką „Polpharmę”, poznańską i pabianicką „Polfę”. To miała być oczywiście tak zwana przykrywka dla oszustów. Dowiedzieliśmy się, że pastylki trafiły do gdyńskiego magazynu z dalekich Indii.</p>
+        <p xml:id="p-3">Wskazują na to napisy na opakowaniach zbiorczych. Najwięcej było tabletek o nazwie „Biseptol” oraz „Metronidazol” (po rosyjsku napisano: „Trihozol”). Farmaceutyki przekładano z dużych kartonów i beczek do malutkich paczek. Wcześniej specjalna maszyna „wkładała” tabletki w listki (w każdym znajdowało się 10 sztuk Ø). Trudno powiedzieć, ile wart jest ten cały towar. Przyjmując, że za jeden listek trzeba zapłacić w aptece około 5 nowych złotych, 16 milionów tabletek kosztowałoby, bagatela, 8 milionów zł.</p>
+        <p xml:id="p-4">Reporterzy „WW” byli wczoraj przy Hutniczej. To duży budynek, w którym swoje siedziby ma kilkanaście spółek. Obiekt jest własnością firmy „A”, która nie ma nic wspólnego z przemytem.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

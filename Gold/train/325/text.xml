@@ -1,0 +1,14 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Podróżuj z głową</p>
+        <p xml:id="p-2">"Kto myśli latem o jesieni? Ci, którzy podróżują z głową?" - radzi w internetowej reklamie Wizzair, promując swoje bilety po 1 zł. Za tego rodzaju hasłami często czai się podstęp. Nie tym razem. Tanich biletów było sporo, ale chętnych na nie wielokrotnie więcej. Trzeba je kupować, jak tylko pojawią się w internetowym systemie rezerwacji. Szczęśliwcy, którzy w lipcu polecą za grosze z Ryanairem, swoje bilety kupili na początku listopada. - Kiedy zaczyna się promocja, już po godzinie są telefony z pretensjami, że oferta z przyczyn technicznych jest niedostępna. Tymczasem to nie komputer się zawiesił, tylko najtańsze bilety się skończyły - wyjaśnia Tomasz Kułakowski, szef marketingu Ryanair na Europę Środkową.</p>
+        <p xml:id="p-3">Podobne doświadczenia mają inne tanie linie, np. Centralwings. W ciągu kilku godzin promocji crazy night sprzedaje 3-4 tys. biletów. Wśród łowców okazji nie brakuje i takich, którzy kupują tanie bilety wyłącznie po to, żeby na internetowej aukcji odsprzedać je z zyskiem. Jednym z nich jest internauta VIP, który obok seksownych biustonoszy na aukcji Allegro wystawił podwójny bilet Wizzair na przelot z Gdańska do Liverpoolu na 10 czerwca. Za jedną sztukę chciał 500 zł, czyli o 390 zł taniej niż tego dnia oferował węgierski przewoźnik. Wprawdzie kupujący musiał jeszcze za zmianę nazwiska na liście pasażerów zapłacić linii Wizzair równowartość 30 euro, ale i tak dzięki transakcji na Allegro mógł oszczędzić 270 zł.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

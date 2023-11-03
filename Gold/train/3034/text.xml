@@ -1,0 +1,20 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">- Pan Cedzyna! - zawołał młody człowiek obrzucając gościa ognistym spojrzeniem - pan Cedzyna z Kozikowa?</p>
+        <p xml:id="p-2">- Tak, niegdyś...</p>
+        <p xml:id="p-3">- Cóż znowu? Już pana wyleli. Cha, cha!... To dopiero pogrom na ziemiaństwo! Koleje pan dobrodziej teraz budujesz?...</p>
+        <p xml:id="p-4">- Pracuję - odpowiedział skromnie pan Dominik.</p>
+        <p xml:id="p-5">- Phy!... a no, cóż robić!... piszmy ten kontrakt. Będzie przynajmniej co wsadzić jutro w zęby panom starozakonnym. Spisano kontrakt - i późno w noc przedsiębiorcy opuścili folwark.</p>
+        <p xml:id="p-6">Po upływie kilkunastu dni u podnóża góry funkcjonowała maszyna do wyrabiania cegły, a na skałach roiły się ludzkie postacie. Inżynier zjawiał się na szczycie góry i rozciągający się u stóp jej obszar ciekawym i zamyślonym obejmował okiem.</p>
+        <p xml:id="p-7">Był koniec sierpnia, czas orki. Na polach Polichnowicza panował zupełny spokój. Bijakowski nie znał się na gospodarce rolnej, z mozołem odróżniał pszenicę od jęczmienia w kłosie, zastanawiała go wszakże szczególna predylekcja dziedzica Zapłocia do ugorów. Te długie, szare smugi gruntu, pokarbowanego niegdyś przez równe zagony, sprawiały wrażenie jak cmentarz smutne. Gdzieniegdzie jednostajną barwę odłogu przerywało pólko ścierniska albo kartofli - za nimi ukazywał się on znowu i ginął aż w oddali, jednocząc się z nieużytkami i pastwiskiem.</p>
+        <p xml:id="p-8">Młody dziedzic przychodził codziennie na górę, siadał na kamieniu, ćmił papierosa za papierosem i gawędził.</p>
+        <p xml:id="p-9">- Pański folwark - mówił do niego Bijakowski pewnego razu - widziany z tej góry, podobny jest do trupa.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

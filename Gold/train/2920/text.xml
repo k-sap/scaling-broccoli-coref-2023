@@ -1,0 +1,14 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">W Michniowcu nie udaje nam się odszukać tubylca, u którego leżakuje klucz do świątyni, w Bystrem też zamknięte. Może i lepiej? Majestatyczną bryłę cerkwi makabrycznie szpecą powybijane szyby, poszczerbione deski i pordzewiała blacha kopuł. Tuż obok Ø zarośnięty cmentarzyk unicki, z resztkami nagrobków krzyczącymi z trawy wyrosłej po pas. Nieopodal bogata posiadłość prywatna i kilka nowych w budowie. Bez trudu znajdujemy wspólny język z pasącymi się owcami. Po przeciwnej stronie drogi pieni się rottweiler, na płocie napis: Pies jest miły. Nie sprawdzamy.</p>
+        <p xml:id="p-2">Cerkiew w Hoszowie. Tę pominąć – rzecz niedopuszczalna! Chyba nie można umieścić świątyni w bardziej urokliwym otoczeniu: mostkiem przez potok, potem krętymi schodkami na wzgórek. Pękatość cerkiewki "łamie" mnóstwo daszków i daszeczków, wnętrze Ø jeszcze chyba pachnie żywicą – świeżutkie jasne deski. Tyle widać przez kratę. Na skraju wzgórza – trzy wysokie krzyże w otoczeniu starych buków o amputowanych gałęziach. Kiedy się na nie patrzy z mostka – okaleczone drzewa konwulsyjnie okalają krzyże, jakby chcąc je chronić pogiętymi resztkami konarów, prawie bez liści. Syn robi najpiękniejsze zdjęcia, jakie stąd zabierzemy.</p>
+        <p xml:id="p-3">Jak zwykle nie starcza nam dnia i zmrok zastaje nas w połowie planowanej trasy, w Ustrzykach Dolnych nad pizzami wielkości młyńskich kół. Tuczymy się nieopodal skweru w centrum miasta. Ciekawa rzecz – jest tu pomnik żołnierzy, tablica na nim stosunkowo świeża, a udało się nie zapomnieć o berlingowcach, pamiętając tylko o "obecnie słusznych", jak to w modzie dzisiaj.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

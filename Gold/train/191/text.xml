@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Kontrolerzy mieli zastrzeżenia do wielu dziedzin działania fundacji, jednak wyjątkowo dużo uwag budziła gospodarka finansowa. Zwrócono m.in. uwagę na nieprawidłowe wykorzystanie pieniędzy napływających do ozorkowskiej fundacji z międzynarodowych funduszy wspierających przedsiębiorczość. Były też krytyczne uwagi co do organizacji wewnętrznej inkubatora, zasad jego funkcjonowania, formy zatrudniania i zwalniania pracowników oraz wykorzystania wyposażenia przekazanego fundacji przez ministerstwo. O nieprawidłowościach poinformowana została prokuratura</p>
+        <p xml:id="p-2">- Wyniki kontroli nie są dla nas zaskoczeniem - mówi burmistrz Ozorkowa Piotr Giziński. - Od dawna mieliśmy solidne podstawy, by sądzić, że w fundacji doszło do do wielu nadużyć. W najbliższym czasie zwołane zostanie posiedzenie rady fundacji, która ma zdecydować, co dalej. Do tej pory mówiło się, że sytuację uzdrowi zmiana prezesa. Z dotychczasowym nie można rozwiązać stosunku pracy, gdyż od kilku miesięcy przebywa na zwolnieniu lekarskim. Teraz pojawiają się opinie, że inkubator zostanie zlikwidowany w ogóle, bo jest już tak skompromitowany, że jego dalsze działanie przyniosłoby więcej szkody niż pożytku</p>
+        <p xml:id="p-3">- Nie wiem, jakie zapadną decyzje na spotkaniu rady fundacji - mówi burmistrz Giziński. - Jestem natomiast zdania, że w takim kształcie jak do tej pory inkubator dalej działać nie może. Niewykluczone także, że fundację z powodu stwierdzonych nadużyć wykreśli z rejestru sądowego sam minister gospodarki. Ma takie uprawnienia i wcale bym się nie zdziwił, gdyby z nich w tym przypadku skorzystał</p>
+        <p xml:id="p-4">tekst i fot. (jaz)</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

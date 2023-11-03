@@ -1,0 +1,16 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">A rzuciłoby się coś na słodki ząbek – kak gawariat’ Angliki.</p>
+        <p xml:id="p-2">Nawet kupiłam ciasteczka w takiej jednej cukierni, ale były paskudne. Moja kotka Nikita, która lubi słodycze – nie dała atestu. Robiła takie wielkie mainkunie oczy, jakby chciała zapytać: – I ty to jesz?!</p>
+        <p xml:id="p-3">I co tu robić. Na zrobienie czeka praca, ale termin nie jest na wczoraj. Oj, ciężko pracować nie na wczoraj, ciężko jak cholera. Można wysprzątać szafkę pod zlewem. Albo umyć podłogi. A żesz, pies drapał szafkę, i te małe pieski toże. To może chociaż ciasto czekuladowe? 3/4 szklanki śmietanki kremówki, 3 łyżki kakao i pół szklanki cukru ubić i zagotować mieszając, po czym wystudzić, wkładając garnek do większego z zimną wodą. Ja się nie obcyndalam, wstawiam do zlewu albo wanny. Przy czym nie mam pojęcia, po co to się wcześniej ubija. Mogę się tylko domyślać, że po to, żeby się nie zwarzyło w czasie gotowania. Ale to robocza hipoteza.</p>
+        <p xml:id="p-4">Piekarnik nagrzać do 175°, blachę keksową wysmarować masłem i wysypać mąką albo bułką. Ja wysypałam utartymi biszkoptami. 12 dag masła utrzeć z połową szklanki cukru i dodawać po jednym jajcu, a ma być ich aż dwa.</p>
+        <p xml:id="p-5">Do tego wsypać 17 dag mąki i półtorej łyżeczki proszku do pieczenia, wlać przestudzoną śmietankę i dobrze ubić.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

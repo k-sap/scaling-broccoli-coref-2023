@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<teiHeader xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xml:lang="en">
+  <fileDesc>
+    <titleStmt>
+      <title>Paragraphs: p-3043,p-3044,p-3045,p-3046,p-3047,p-3048,p-3049 from NKJP text with id: PELCRA_6203010000555</title>
+    </titleStmt>
+  </fileDesc>
+  <profileDesc>
+    <textClass>
+      <catRef scheme="#nkjp" target="Internetowe nieinteraktywne (statyczne strony, Wikipedia)"/>
+    </textClass>
+  </profileDesc>
+  <revisionDesc/>
+</teiHeader>

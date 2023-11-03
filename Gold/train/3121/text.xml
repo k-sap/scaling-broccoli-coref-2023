@@ -1,0 +1,16 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Rzepa wszedł do chaty i z początku ani słowa nie mógł przemowie, tylko siadł na ławie i patrzył w ziemię. Ale kobieta zaczęła pytać i dopytała wreszcie wszystkiego. "Zaprzedali mnie" - rzekł w końcu. Wówczas ona z kolei uderzyła w lament wielki; on za nią; dzieciak w kołysce zaczął wrzeszczeć; Kruczek we drzwiach wył tak żałośnie, że aż z innych chałup powylatywały baby z łyżkami w ręku, pytając jedna drugiej:</p>
+        <p xml:id="p-2">- Co się tam u Rzepów stało?</p>
+        <p xml:id="p-3">- Musiał ją bić czy co?</p>
+        <p xml:id="p-4">A tymczasem Rzepowa lamentowała jeszcze bardziej niż Rzepa, bo miłowała ona jego, nieboga, nad wszystko w świecie.</p>
+        <p xml:id="p-5">Nazajutrz było posiedzenie sądu gminnego. Ławnicy poschodzili się z całej gminy, z wyjątkiem panów, alias szlachty, z której jakkolwiek kilku w powiecie było ławnikami, ale tych kilku, nie chcąc różnić się od ogółu, trzymało się polityki angielskiej, to jest zasady nieinterwencji, tak zachwalanej przez znakomitego męża stanu Johna Bright. Nie wyłączało to jednak pośredniego wpływu "inteligencji" na losy gminne. Jeśli bowiem ktoś z "inteligencji" miał sprawę, wówczas w wigilię posiedzenia zapraszał pana Zołzikiewicza do siebie; przynoszono następnie do pokoju przedstawiciela inteligencji wódeczkę, podawano cygara i wtedy obgadywała się rzecz z łatwością. Potem następował obiad, na który zapraszano pana Zołzikiewicza uprzejmymi słowami: "Ano siadaj, panie Zołzikiewicz! siadaj!"</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

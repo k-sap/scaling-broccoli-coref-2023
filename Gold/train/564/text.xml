@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">RELIGIA PLEMIENNA</p>
+        <p xml:id="p-2">Analogiczny schemat postrzegamy w Bergsonowskiej analizie dwóch niesprowadzalnych wzajem rodzajów religii. Religia statyczna, podobnie jak moralność zamknięta, jest organem przez naturę wynalezionym na potrzeby wspólnoty stworzeń, którym dano zdolność myślenia i wolnego wyboru. Uderzają nas nieraz niedorzeczności lub okrucieństwa, jakie odkrywamy w różnych mitologiach i rytuałach religii prymitywnych. Nie musimy zakładać, jak Lévy-Bruhl, że ludzie w tych społeczeństwach mieli zasadniczo odmienną mentalność, albo jak Durkheim, że ich świadomość zbiorowa była z istoty różna od naszej Ø. Powinniśmy natomiast wejrzeć w naturalne funkcje wierzeń i obyczajów religijnych. Podstawowa funkcja religii ma charakter fabulacyjny ( fonction fabulatrice ); jej zadaniem jest przeciwdziałanie społecznie niszczycielskim działaniom inteligencji i ograniczanie ich. Ponieważ pszczoła nie ma inteligencji, nie potrzebuje również zabobonów, podczas gdy i ta pierwsza, i te drugie zostały dane człowiekowi łącznie, jako że inteligencja, gdyby zabobony jej nie ograniczały, prowadziłaby do dezintegracji zarówno społecznego, jak indywidualnego życia. Wyobrażenia mitologiczne są w ludzkich zbiorowościach substytutem instynktu: zapewniają stabilność i ład. Zarówno inteligencja, jak i zdolność do życia społecznego są pochodzenia biologicznego, i służą ostatecznie tym samym celom. Jednakowoż bez nieustannego między nimi napięcia gatunek ludzki nie mógłby podążać drogą swojego przeznaczenia. Po pierwsze, nie ma w naszej inteligencji niczego, co by przeszkadzało nam myśleć wyłącznie o swoich własnych interesach; inteligencja zachęca do egoizmu. Natura wynalazła rozmaite mityczne stwory - bogów, którzy chronią, grożą i karzą - ażeby bronić ładu społecznego przed tym niszczycielskim wpływem inteligencji, przy czym mity religijne nigdy nie odróżniają jasno porządku fizycznego i moralnego. Te formy percepcji prymitywnej bynajmniej nie ulotniły się ze świadomości nowoczesnej:</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">– Po godz. 10 policjanci przyszli do nas i ostrzegli, żeby nie wychodzić na ulicę – opowiada Ewa Dolacińska, dyrektor salonu optycznego Vision Express. – Zamknęłam drzwi i ewakuowałam pracowników na zaplecze. Gdyby doszło do wybuchu, ich pobyt w salonie, tuż przy ulicy, byłby niebezpieczny. Jedna z klientek nie zdążyła wyjść i została z nami. Wskutek blokady ponieśliśmy straty, ale trudno je oszacować. Jednak ważniejsze było nasze bezpieczeństwo.</p>
+        <p xml:id="p-2">Podobnie było w pobliskich sklepach i biurach, m.in. turystycznych. Właściciele Ø narzekali, że przez alarm bombowy i blokadę Piotrkowskiej stracą klientów i pieniądze. Podkreślali, że to pierwszy taki alarm w tym rejonie.</p>
+        <p xml:id="p-3">Przy policyjnych blokadach ustawiły się tłumy łodzian. – „Proszę mnie przepuścić. Ja tam mieszkam. Wyszłam tylko na zakupy”. „Ja muszę się dostać do domu. Czeka na mnie chora matka, którą miałem odwieźć do szpitala”. „Panowie, przecież przez tę waszą blokadę spóźnię się do pracy”. „Ja to mam pecha. Właśnie szłam do Lukas Banku wpłacić ratę kredytu. Czy długo będziemy tu sterczeć?”.</p>
+        <p xml:id="p-4">Policjanci bezradnie rozkładali ręce i... nikogo nie przepuszczali. – Taki rozkaz – tłumaczyli. O godz. 12.05 otrzymali sygnał, że żadnej bomby nie znaleziono i natychmiast usunęli blokady. Na Piotrkowską wróciło życie.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

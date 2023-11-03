@@ -1,0 +1,20 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Mieszkają na osiedlu, które z listy zabytków może usunąć tylko minister kultury.</p>
+        <p xml:id="p-2">Minister tego nie zrobi. Miejski konserwator zabytków wystąpił o skreślenie z tej listy tylko tych budynków, w których i tak nikt nie mieszka, bo walą się ze starości.</p>
+        <p xml:id="p-3">To oznacza, że na wybudowanie ubikacji w mieszkaniu na własny koszt powinni uzyskać zgodę wojewódzkiego konserwatora zabytków.</p>
+        <p xml:id="p-4">Ludzie śmieją się, że sprawa ich wychodków trafiła aż do Warszawy i marzą o własnych łazienkach w mieszkaniach. Na razie jednak pilnują kluczy do przydzielonych im kabin toaletowych ustawionych między familokami i będąc w potrzebie biegną na dwór.</p>
+        <p xml:id="p-5">– Czasami człowiek musi, nie ma na to siły. Nawet jak mróz jest, trza lecieć przez plac, a wie pan jakie to nieprzyjemne – mówi Krystian Kolarczyk.</p>
+        <p xml:id="p-6">Można wstawić wiadro</p>
+        <p xml:id="p-7">Mieszkańcy familoków przy Andersa radzą sobie jak mogą. Kilku z nich zdecydowało się za własne pieniądze przebudować mieszkania tak, żeby znalazło się w nich miejsce na ubikację.</p>
+        <p xml:id="p-8">– Miałem wybór – biegamy za potrzebą na dwór, wstawiamy wiadro do domu, albo robię ubikację na własną rękę – wyjaśnia Jan Myszka, który razem z żoną i pięciomiesięczną córką mieszka w jednym z familoków. – Niech pan popatrzy na dzieciaka i powie co miałem zrobić?</p>
+        <p xml:id="p-9">A inni czekają na łaskę rybnickiego Zakładu Gospodarki Mieszkaniowej, który administruje zabytkowym osiedlem. Jan Podleśny, dyrektor ZGM przepowiada jednak, że choć mamy już XXI wiek, plastikowe wychodki pozostaną przy Andersa jeszcze długo.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

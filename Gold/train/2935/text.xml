@@ -1,0 +1,22 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">I "Purpura" tonęła naprawdę, a załoga, odwykła od trudów i żeglugi, nie wiedziała, jak ją ratować!</p>
+        <p xml:id="p-2">Lecz po pierwszej chwili przerażenia wściekłość zawrzała w sercach, bo kochali jednak swój statek ci marynarze.</p>
+        <p xml:id="p-3">Więc zerwali się wszyscy i poczęli bić z dział do wichrów i fal spienionych, a potem chwyciwszy, co kto miał pod ręką, poczęli chłostać morze, które chciało zatopić "Purpurę".</p>
+        <p xml:id="p-4">Wspaniała była walka tej rozpaczy ludzkiej z tym żywiołem. Lecz fale były silniejsze od żeglarzy. Działa zalane umilkły. Olbrzymie wiry porwały wielu walczących i uniosły w odmęt wodny. Załoga zmniejszała się z każdą chwilą - ale walczyła jeszcze. Zalani, na wpół oślepli, pokryci górą pian, żeglarze walczyli do upadłego.</p>
+        <p xml:id="p-5">Chwilami sił im brakło, ale po krótkim spoczynku znów zrywali się do walki.</p>
+        <p xml:id="p-6">Na koniec ręce im opadły. Poczuli, że śmierć nadchodzi.</p>
+        <p xml:id="p-7">I nastała chwila głuchej rozpaczy. I poglądali na się ci żeglarze jak obłąkani.</p>
+        <p xml:id="p-8">Wtem te same głosy, które poprzednio ostrzegały już o niebezpieczeństwie, podniosły się znowu, silniejsze, tak silne, że ryk fal nie mógł ich zagłuszyć.</p>
+        <p xml:id="p-9">Głosy te mówiły:</p>
+        <p xml:id="p-10">- O, zaślepieni! Nie z dział wam bić do burzy, nie fale chłostać, ale statek naprawiać! Zstąpcie na dno. Tam pracujcie. "Purpura" jeszcze nie zginęła.</p>
+        <p xml:id="p-11">Na owe słowa drgnęli ci na wpół umarli i rzucili się wszyscy na spód, i rozpoczęli pracę od spodu.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

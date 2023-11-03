@@ -1,0 +1,22 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Ta miłość małżeńska, rodzicielska, rodzinna jest ciągle uszlachetniana, jest doskonalona przez wspólne troski i radości, przez wspieranie się wzajemne w chwilach trudnych.</p>
+        <p xml:id="p-2">Zapomina o sobie samym dla dobra umiłowanego człowieka.</p>
+        <p xml:id="p-3">Prawdziwa miłość nigdy nie wygasa.</p>
+        <p xml:id="p-4">Staje się źródłem siły i wierności małżeńskiej.</p>
+        <p xml:id="p-5">Homilia podczas Mszy św., Kalisz, 4 czerwca 1997 r.</p>
+        <p xml:id="p-6">Płciowość, poprzez którą mężczyzna i kobieta oddają się sobie wzajemnie we właściwych i wyłącznych aktach małżeńskich, nie jest bynajmniej zjawiskiem czysto biologicznym, lecz dotyczy samej wewnętrznej istoty osoby ludzkiej jako takiej.</p>
+        <p xml:id="p-7">Urzeczywistnia się ona w sposób prawdziwie ludzki tylko wtedy, gdy stanowi integralną część miłości, którą mężczyzna i kobieta wiążą się z sobą aż do śmierci.</p>
+        <p xml:id="p-8">Całkowity dar z ciała byłby zakłamaniem, jeśliby nie był znakiem i owocem pełnego oddania osobowego, w którym jest obecna cała osoba, również w swym wymiarze doczesnym.</p>
+        <p xml:id="p-9">Jeżeli człowiek zastrzega coś dla siebie lub rezerwuje sobie możliwość zmiany decyzji w przyszłości, już przez to samo nie oddaje się całkowicie.</p>
+        <p xml:id="p-10">Adhortacja apostolska "Familiaris consortio", Rzym, 22 listopada 1981 r.</p>
+        <p xml:id="p-11">Tym, którzy w naszych czasach uważają za trudne lub niemożliwe wiązanie się z jedną osobą na całe życia, i tym, którzy mają poglądy wypaczone przez kulturę odrzucającą nierozerwalność małżeństwa i wręcz ośmieszającą zobowiązanie małżonków do wierności, należy na nowo przypomnieć radosne orędzie o bezwzględnie wiążącej mocy owej miłości małżeńskiej, która w Jezusie Chrystusie znajduje swój fundament i swoją siłę.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

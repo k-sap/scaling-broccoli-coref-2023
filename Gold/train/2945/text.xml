@@ -1,0 +1,41 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">O nic.</p>
+        <p xml:id="p-2">ROBERT</p>
+        <p xml:id="p-3">Posłuchaj... To się robi jakieś bez sensu. Staram się. Przyszedłem wczoraj wieczorem. Zabrałem cię ze sobą... A ty co?</p>
+        <p xml:id="p-4">IWONA</p>
+        <p xml:id="p-5">Dla Edyty szampan był za ciepły, to dla ciebie też. A od kiedy jesteś takim znawcą szampana?</p>
+        <p xml:id="p-6">ROBERT patrzy na nią zdziwiony.</p>
+        <p xml:id="p-7">IWONA</p>
+        <p xml:id="p-8">Poza tym...</p>
+        <p xml:id="p-9">ROBERT</p>
+        <p xml:id="p-10">To właśnie jest dla ciebie typowe. Narozrabiasz, a potem się obrażasz. Gratulacje.</p>
+        <p xml:id="p-11">IWONA</p>
+        <p xml:id="p-12">Ja? To ty się nabzdyczyłeś na kelnera.</p>
+        <p xml:id="p-13">ROBERT</p>
+        <p xml:id="p-14">Ja tylko stwierdziłem fakt, że szampan był za ciepły. Podobnie, jak stwierdziłem fakt, że okłamałaś mnie z mieszkaniem. A ty się zachowujesz jakbym to ja ciebie oszukiwał.</p>
+        <p xml:id="p-15">IWONA patrzy na niego.</p>
+        <p xml:id="p-16">IWONA</p>
+        <p xml:id="p-17">(po chwili)</p>
+        <p xml:id="p-18">Przepraszam...</p>
+        <p xml:id="p-19">ROBERT</p>
+        <p xml:id="p-20">Podobało ci się pole? Czy może go nie zauważyłaś?</p>
+        <p xml:id="p-21">IWONA</p>
+        <p xml:id="p-22">(po chwili uśmiecha się)</p>
+        <p xml:id="p-23">Podobało. Ale jeszcze bardziej by mi się podobało, gdybyśmy poszli do mnie. Zrobiłabym obiad. Kolację. A nawet śniadanie...</p>
+        <p xml:id="p-24">ROBERT patrzy na nią.</p>
+        <p xml:id="p-25">TAJEMNICZY OGRÓD. WN. DZIEŃ.</p>
+        <p xml:id="p-26">KAROL patrzy na MICHAŁA. Stojący w drzwiach biura MICHAŁ patrzy z kolei na butelkę whisky, którą KAROL ma w ręce.</p>
+        <p xml:id="p-27">MICHAŁ</p>
+        <p xml:id="p-28">Już wiadomo?</p>
+        <p xml:id="p-29">KAROL</p>
+        <p xml:id="p-30">Nie. Ale od rana czekam na telefon od Anety. I chcę, żebyś był pierwszym, z którym wypiję za nasze dziecko.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

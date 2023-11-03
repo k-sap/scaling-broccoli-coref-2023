@@ -1,0 +1,34 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Diety są różne, ścisłe i urozmaicone, eliminacyjne, dziwne, racjonalne i wreszcie te zalecane przez lekarzy. Dziś dieta burgundzka.</p>
+        <p xml:id="p-2">Jak wygląda przykładowe tygodniowe menu?</p>
+        <p xml:id="p-3">1 dzień</p>
+        <p xml:id="p-4">- obiad: pierś kurczaka pieczona w folii, sałatka z czerwonej kapusty doprawiona octem winnym i oliwą, pieczone jabłko</p>
+        <p xml:id="p-5">- kolacja: 2 sadzone jajka, pomidor, trójkąt serka topionego, gruszka</p>
+        <p xml:id="p-6">2 dzień</p>
+        <p xml:id="p-7">- obiad: królik w potrawce, surówka z marchewki i chrzanu, brzoskwinia</p>
+        <p xml:id="p-8">- kolacja: befsztyk z polędwicy usmażony bez tłuszczu, zielona sałata z sosem vinegrette, 2 mandarynki</p>
+        <p xml:id="p-9">3 dzień</p>
+        <p xml:id="p-10">- obiad: kura z rosołu, gotowana kapusta bez zasmażki, mały grejpfrut</p>
+        <p xml:id="p-11">- kolacja : ryba w warzywach, surówka z buraczków, pomarańcza</p>
+        <p xml:id="p-12">4 dzień</p>
+        <p xml:id="p-13">- obiad: pieczona wieprzowina, brokuły ugotowane na parze, jabłko</p>
+        <p xml:id="p-14">- kolacja: szklanka ugotowanego ryżu zalana chudym mlekiem, plaster białego chudego sera, kiść winogron</p>
+        <p xml:id="p-15">5 dzień</p>
+        <p xml:id="p-16">- obiad – sztuka mięsa, gotowane buraczki, kilka suszonych śliwek</p>
+        <p xml:id="p-17">- kolacja - 2 jajka na miękko, serka brie, banan</p>
+        <p xml:id="p-18">6 dzień</p>
+        <p xml:id="p-19">- obiad: ryba pieczona w folii, surówka z białej kapusty i marchewki, gruszka w sosie waniliowym</p>
+        <p xml:id="p-20">- kolacja: pieczeń z królika, sałatka z pomidorów i papryki, trójkąt serka topionego, kiwi</p>
+        <p xml:id="p-21">7 dzień</p>
+        <p xml:id="p-22">- obiad: cielęcina pieczona z dodatkiem ziół, fasolka szparagowa z odrobiną masła, jogurt</p>
+        <p xml:id="p-23">- kolacja: zapiekanka z ziemniaków, odrobiny startego żółtego sera i szynki, sałata zielona z rzodkiewkami, pomarańcza</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

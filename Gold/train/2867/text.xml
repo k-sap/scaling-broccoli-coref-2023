@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Pozostaje wyjaśnić brak indeksu ze zdjęciem i danymi osobistymi.</p>
+        <p xml:id="p-2">Jak już wyżej wspomniałem, fuzja dwóch uczelni spowodowała, że indeksów z nową nazwą jeszcze nie mieliśmy i wszystkie zaliczenia i egzaminy wpisywane zostały na listę u każdego z profesorów z osobna. Składano je w sekretariacie dopiero po terminie egzaminów poprawczych.</p>
+        <p xml:id="p-3">Moje pojawienie się w pracowni rzeźby drugiego roku przywitane zostało oklaskami, a na pytanie, gdzie bąblowałem cały miesiąc, powiedziałem, że musiałem chorej matce obsiać pięć hektarów, bo ciężko zachorowała, a robotnik musi przecież jeść chleb. To wystarczyło. Gorzej było z przedstawicielką ZMP. Długo "truła" o mojej nieświadomości społecznej.</p>
+        <p xml:id="p-4">Tadzik, mój sublokator, wyszedł z Montelupich po dziesięciu miesiącach maltretowania na przesłuchaniach; był już innym człowiekiem. Pozostał przystojniakiem o greckich rysach, ale coś go dręczyło. Zaciągnął się do pracy w Nowej Hucie i choć był kiedyś absolutnym abstynentem, zaczął pić. W czasie jego pobytu na Montelupich narzeczona Ewa urodziła mu uroczą córeczkę - wypisz wymaluj uroda ojca. Z "wilczym biletem" nie mógł liczyć na studia. Poszedł więc do pracy, gdzie jako wybitnie inteligentny został zauważony przez inżynierów, którzy uczynili go brygadzistą grupy elektryków. Co sobota wypłata i góralskie "no to chlapniem". Kiedy wymawiał się, stwierdzili, że nimi gardzi. Żeby pokazać, że się mylą, wypił raz, drugi. I tak się zaczęło.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Opodatkowaniu PIT nie będzie jednak podlegał każdy przypadek nabycia środków z OFE. małżonek zmarłego członka funduszu może liczyć na podatkową preferencję. Piotr Wróbel, doradca podatkowy w Kancelarii Doradztwa Podatkowego P. Wróbel i S. Reising wyjaśnia, że wolne od podatku dochodowego są wypłaty z OFE na rzecz byłego współmałżonka członka tego funduszu, przekazane na rachunek tego współmałżonka w OFE</p>
+        <p xml:id="p-2">Zgodnie z ustawą o organizacji i funkcjonowaniu funduszy emerytalnych, jeżeli w chwili śmierci członek otwartego funduszu pozostawał w związku małżeńskim, fundusz dokonuje wypłaty transferowej połowy środków zgromadzonych na rachunku zmarłego w OFE, w zakresie, w jakim środki te stanowiły przedmiot małżeńskiej wspólności majątkowej (art. 131 ustawy). Jeżeli zmarły członek funduszu wskazał osobę uprawnioną do otrzymania zgromadzonych przez niego środków, to fundusz dokona na rzecz tej osoby wypłaty 50-proc. środków. Otrzymana kwota zostanie pomniejszona o zryczałtowany podatek w wysokości 19 proc. Podatek odprowadza jako płatnik Otwarty Fundusz Emerytalny, który dokonuje wypłaty środków. Opodatkowaniu nie będzie natomiast podlegała połowa środków przekazanych na rachunek w OFE małżonka zmarłego członka. Piotr Wróbel dodaje, że nabycie w drodze spadku środków zgromadzonych na rachunku zmarłego członka OFE nie podlega podatkowi od spadków i darowizn. Wyraźne wyłączenie z opodatkowania takiego nabycia zawiera art. 3 pkt 5 ustawy z dnia 28 lipca 1983 r. o podatku od spadków i darowizn (Dz.U. z 2004 r. nr 142, poz. 1514 z późn. zm.).</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

@@ -1,0 +1,19 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Podziwiam ich. Jest ich tak dużo, a nie ma chaosu. Każdy wie, co ma robić. Działają szybko - mówi Marek Głodnicki, mieszkaniec ul. Zygmunta Starego, przy której stał dom państwa Dłubaków.</p>
+        <p xml:id="p-2">Chodzi o strażaków, którzy brali udział w akcji ratowania ofiar wybuchu gazu. Nikt dokładnie ich nie policzył. Według naszych szacunków było ich ponad stu. Na miejscu tragedii gapie mogli zobaczyć strażaków także w galowych mundurach, obwieszonych medalami. Przybyli na zaplanowane w niedzielne przedpołudnie zawody pożarnicze.</p>
+        <p xml:id="p-3">Niepewna instalacja</p>
+        <p xml:id="p-4">- Większość jednostek OSP była już w drodze właśnie na tę imprezę, gdy otrzymaliśmy zgłoszenie o wybuchu. Zamiast zabawy, zetknęliśmy się z prawdziwym nieszczęściem. Skierowaliśmy wszystkich do akcji. Moment i byliśmy tu w pełnym składzie - opowiada mł. kpt. Janusz Leszczewski, rzecznik prasowy komendanta powiatowego Państwowej Straży Pożarnej.</p>
+        <p xml:id="p-5">Przyczyną katastrofy było prawdopodobnie rozszczelnienie instalacji gazowej. Jedna z hipotez zakłada, że w garażu państwa Dłubaków wybuchł samochód. Ratownicy nie zgadzają się z tą wersją.</p>
+        <p xml:id="p-6">- Za duża siła uderzenia. Proszę spojrzeć: części auta wbiły się w mury sąsiednich budynków, wyleciały okna z okolicznych domów, a brama przeleciała przez kilka budynków i wylądowała kilkadziesiąt metrów dalej. Eksplodujący zbiornik auta nie zrobiłby takiego spustoszenia - tłumaczy Roman Chorzępa, strażak z Malborka.</p>
+        <p xml:id="p-7">Marne szanse</p>
+        <p xml:id="p-8">Strażacy szybko wydobyli czterech domowników. Byli przytomni. Z piątą osobą, synem właścicieli, od pierwszych chwil po wybuchu nie mieli kontaktu. - Z relacji wiemy, że prawdopodobnie schodził do garażu. Musi być więc gdzieś głęboko pod ruinami - wyjaśnia Stanisław Chabel, dowódca akcji, komendant powiatowy Państwowej Straży Pożarnej w Malborku.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

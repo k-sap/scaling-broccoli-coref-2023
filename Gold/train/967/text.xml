@@ -1,0 +1,17 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">W 1969 r. ukończył Wydział Handlu Zagranicznego SGPiS w Warszawie. Studiował na Wydziale Prawa Porównawczego na uniwersytetach w Strasburgu i Pescarze. Jest doktorem ekonomii. Od 1969 roku był pracownikiem naukowym w SGPiS, a następnie SGH.</p>
+        <p xml:id="p-2">W 1968 roku wstąpił do PZPR. Od 1977 r. pracował m. in. w Wydziale Pracy Ideowo - Wychowawczej KC PZPR. Od 1981 r. kierował Biurem Centralnej Komisji Rewizyjnej PZPR (do końca istnienia partii). W latach 1987-89 był sekretarzem Komitetu Wojewódzkiego PZPR w Białej Podlaskiej.</p>
+        <p xml:id="p-3">Uczestniczył w obradach przy "okrągłym stole". W 1989 r. został ministrem ds. współpracy ze związkami zawodowymi w rządzie Mieczysława F. Rakowskiego.</p>
+        <p xml:id="p-4">Od 1990 r. należał do Socjaldemokracji Rzeczpospolitej Polskiej, od 1993 r. będąc jej wiceprzewodniczącym, a w latach 1996-97 przewodniczącym. Od 1999 r. jest członkiem Zarządu Krajowego Sojuszu Lewicy Demokratycznej.</p>
+        <p xml:id="p-5">W latach 1995 - 96 był premierem. Podał się do dymisji po tym, jak prokuratura Warszawskiego Okręgu Wojskowego wszczęła śledztwo w sprawie jego domniemanego szpiegostwa. Postępowanie umorzono, ale w 2000 r. Sąd Lustracyjny orzekł, że jest "kłamcą lustracyjnym", ponieważ w latach 1970 - 78 świadomie i tajnie współpracował z wywiadem wojskowym PRL. W 2001 r. sąd wyższej instancji zdecydował, że jego proces lustracyjny odbędzie się od początku.</p>
+        <p xml:id="p-6">Od 1989 r. jest posłem. Jest członkiem Klubu Parlamentarnego Sojuszu Lewicy Demokratycznej.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

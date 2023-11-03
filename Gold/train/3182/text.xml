@@ -1,0 +1,39 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">sp2: ja ci powiem że ja to tak od razu zawsze robiłam</p>
+        <p xml:id="p-2">sp3: a ja z tą a z nią</p>
+        <p xml:id="p-3">sp0: a mogę twój grzebień do Ewy pożyczyć ?</p>
+        <p xml:id="p-4">sp2: możesz</p>
+        <p xml:id="p-5">sp0: bo my będziemy udawać że że Ewa jest</p>
+        <p xml:id="p-6">sp2: klientką a ty fryzjerką</p>
+        <p xml:id="p-7">sp0: ehe</p>
+        <p xml:id="p-8">sp2: załóż buciki bo masz troszeczkę kaszelek lepiej załóż</p>
+        <p xml:id="p-9">sp0: mamusia ja sama nie założę załóż mi</p>
+        <p xml:id="p-10">sp3: będzie chciała cyca ona będzie w skowronkach i jest zdrowa</p>
+        <p xml:id="p-11">sp0: a mamusia jakiego skowronka ?</p>
+        <p xml:id="p-12">sp3: a widziałam skowronka ptaszka takiego</p>
+        <p xml:id="p-13">sp2: no i człowiek martwi się ci powiem i myśli</p>
+        <p xml:id="p-14">sp0: ale to tam na huśtawce ?</p>
+        <p xml:id="p-15">sp3: tak i ja z Kinga tak a teraz wiesz co że całkiem tak jest inaczej</p>
+        <p xml:id="p-16">sp2: inaczej się odporniłaś też</p>
+        <p xml:id="p-17">sp3: tak się gdzieś zrobiłam też sama widzę po sobie że no gdzie to mi z Kingą Boże to taka też tą buzią to taka byłam przejęta że matko boska co to się nie wyrabia co ona ma na tej buzi</p>
+        <p xml:id="p-18">sp2: ale ty też znowu tak jak ci coś powiedziałam to takie było bez odzewu nie wiedziałam czy ty słyszysz nie słyszysz</p>
+        <p xml:id="p-19">sp3: bo ja sama nie chciałam tak myśleć</p>
+        <p xml:id="p-20">sp2: nie ten czy tak</p>
+        <p xml:id="p-21">sp3: bo ja sama nie chciałam tak</p>
+        <p xml:id="p-22">sp2: ja se myślę tak no lepiej powiedzieć niż nie powiedzieć no w sumie trudno</p>
+        <p xml:id="p-23">sp3: no</p>
+        <p xml:id="p-24">sp2: jak ty to odbierasz no bo no bo ja nie wiedziałam w końcu</p>
+        <p xml:id="p-25">sp3: no ja nie wiem jak to też odebrać no tak mi było jakoś dziwnie i ja</p>
+        <p xml:id="p-26">sp2: no tak ani skrytykować ani przytaknąć</p>
+        <p xml:id="p-27">sp3: no no</p>
+        <p xml:id="p-28">sp2: tak bezpłciowo że tak powiem</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

@@ -1,0 +1,14 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Rzeczywiście do tej pory nie istniała w Polsce spójna baza procedur medycznych - mimo kontraktowania ich przez NFZ ten sam zabieg mógł być wykonywany w różnych szpitalach w rozmaity sposób i w różnych wskazaniach, a nawet mógł być inaczej nazywany i raportowany do Funduszu. Teraz minister zdrowia otrzymał z AOTM kilkunastotysięczną listę procedur. Udało się to dzięki temu, że Agencja otrzymała udostępnioną jej przez Naczelną Izbę Lekarską amerykańską klasyfikację procedur medycznych CPT (Current Procedural Terminology), z opisem całej oferty współczesnej medycyny, co ułatwiło polskim ekspertom związanie poszczególnych badań i zabiegów z konkretnymi wskazaniami.</p>
+        <p xml:id="p-2">Zdaniem autorów koszyka, lwia część tego wykazu bezwarunkowo wymaga finansowania przez NFZ, ale bez uzupełnienia jej precyzyjną wyceną poszczególnych świadczeń i bez przybliżonych choćby szacunków, jakie jest na nie zapotrzebowanie, nie da się ustalić, co Fundusz może z tego finansować, a czego nie.</p>
+        <p xml:id="p-3">AOTM opracowała już system ewidencjonowania i przetwarzania danych, umożliwiających zliczanie kosztów operacji i wycenianie wkładu pracy lekarzy. - Poznamy je w odniesieniu do wszystkich procedur za 6-10 miesięcy - zapowiada dyrektor Agencji Waldemar Wierzba. To będzie jakiś kolejny krok w stronę owego mitycznego koszyka. Kłopoty zaczną się wtedy, gdy trzeba będzie jakieś pozycje usunąć z listy bezpłatnych świadczeń, gdy okaże się, że procedury są wycenione za nisko w stosunku do rzeczywistych kosztów albo że na zakup niezbędnych świadczeń nie starcza owych 40 mld zł, jakimi dysponuje NFZ. W przygotowanym koszyku na pewno nie znajdzie się odpowiedzi, jak powinny być finansowane świadczenia zdrowotne.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

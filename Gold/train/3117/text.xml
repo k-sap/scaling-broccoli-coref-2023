@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Pisarzy, w szczególności młodych, wyjątkowo interesuje aktualny spis adresowy polskich czasopism literackich, w większości niestety nieregularników.</p>
+        <p xml:id="p-2">Numer trzynasty nazywany jest przez niektórych „Listą obecności literatury polskiej”, jeśli nie z powodu samego tylko indeksu Autorów – choć obejmuje on cała plejadę świetnych piór – to przynajmniej ze względu na spis recenzji i opracowań, które raczej nie ronią niczego wartościowego, co w literaturze polskiej w danym roku się pojawiło. Są też tacy autorzy, którzy „wymuszają” co roku druk swoich utworów na łamach „Akantu”, aby znaleźć się na tej „liście obecności”. Sprzyjamy tym tendencjom, jeśli oczywiście poparte są one dobrymi utworami, bo dobra literatura to dla nas sprawa najważniejsza.</p>
+        <p xml:id="p-3">Szanując osoby, nie mamy więc względu na osoby, kwalifikując bądź nie dany utwór do druku. A że świat idzie do przodu, nowe pokolenia zastępują stare, to „Akant” nie boi się nowych nazwisk, choć równie starannie przecedza debiuty jak utwory „starych”. W 2006 roku debiutowało u nas 20 autorów. Tak mniej więcej było w poprzednich latach, co świadczy o stałym rytmie wymiany literackich pokoleń.</p>
+        <p xml:id="p-4">Pismo jest realnie współredagowane przez Autorów i Czytelników, więc zachęcamy do wypowiedzi na temat dziesięciu wspólnie przeżytych lat. Mogą to być enuncjacje bardzo osobiste, jak i bardzo uogólniające. Z wdzięcznością przyjmiemy też krytykę i satyrę (jak niżej).</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

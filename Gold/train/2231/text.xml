@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Ludzie w ten sposób zbawieni przechodzą dwa stany: najpierw Ø potępienia, a potem Ø usprawiedliwienia i błogosławieństwa. Ten rodzaj rewiwalistycznej transformacji osiągany jest - zauważa James - poprzez sugestię i naśladownictwo wzorów w zgromadzeniach religijnych (ibidem, s. 209). Konwersja ma więc - podkreślmy - charakter kolektywny, jeśli chodzi o formę. Ideologia konwersji wzmocniona jest skodyfikowanym, a nawet stereotypowym sposobem postępowania w tych wspólnotach.</p>
+        <p xml:id="p-2">W o wiele większym stopniu, aniżeli James, społeczny wymiar konwersji uwzględniał wcześniej Edwin Starbuck, którego pionierski wkład do badań nad tym zjawiskiem został przysłonięty wkrótce przez poczytne dzieło Jamesa. Obaj myśliciele zgadzali się, że poddanie jaźni (ang. self-surrender), czyli zaniechanie woli osobistej, jest warunkiem konwersji jako regeneracji jaźni (Starbuck 1905, s. 99). Starbuck uważał jednak, że konflikt jaźni pogłębia się w toku rozwoju normalnej, a nie tylko chorej czy rozdwojonej jaźni, jak to widział James. Dlatego Starbuck wyróżnił dwa typy konwersji: progresywną i nagłą. Konwersja progresywna ma charakter "przebudzenia". Pojawia się na tym etapie rozwoju, gdy jednostka uświadamia sobie swą niekompletność i niedoskonałość. Konwersja nagła polega na zupełnym zerwaniu ze starymi nawykami i na nieoczekiwanym skierowaniu życia na nowe tory. Istotą kryzysu jaźni jest świadomość kontrastu pomiędzy tym, czy ona jest, a tym, czym mogłaby być, a więc kontrast pomiędzy Ja teraźniejszym a Ja idealnym (ibidem, s. 155-158). Starbuck przyjmuje, że jedność i harmonia świadomości są nieustannie zagrożone przez przebieg życia jednostki i czynniki działające w jej środowisku.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

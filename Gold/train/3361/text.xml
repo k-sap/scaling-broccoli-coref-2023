@@ -1,0 +1,14 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">W poszukiwaniu piękna miasta mińszczanie radzą udać się na Troickie Przedmieście - maleńki fragment Mińska, któremu wojna i radzieccy planiści pozwolili przetrwać. Z placu Październikowego pójdziemy najpierw w kierunku Górnego Miasta. Opcjonalnie możemy na tyłach Pałacu Republiki poszukać kawałka muru i trzepaka, gdzie powstał zaułek pamięci Wiktora Coja, lidera grupy Kino. Coj dla dzieciaków epoki pierestrojki był niczym Jim Morisson dla pokolenia’68. Zginął w 1990 r., ale przewidział wszystko, co było potem.</p>
+        <p xml:id="p-2">Wracając na główną trasę, zobaczymy na placu Wolności zrekonstruowany ratusz, niemal naprzeciwko pojezuicki kościół Najświętszej Marii Panny, a po drugiej stronie - sobór katedralny św. Ducha, siedzibę metropolity Filareta - głowy białoruskiej Cerkwi. Ta siedemnastowieczna budowla wznoszona była jako kościół bernardynek. To tu na Górnym Mieście w jednym z domów żył Stanisław Moniuszko, a swoją siedzibę miał ród Wańkowiczów. Dziś są tu drogie restauracje i kawiarnie, w których przesiaduje bananowa młodzież oraz właściciele grubych karków, złotych zegarków i luksusowych limuzyn. Wszystko to wzdłuż ul. Lenina, której architektura, owszem, nie jest pozbawiona uroku. Paradoksem historii jest bar McDonald’s przy rogu ul. Lenina. Kapitalizm i komunizm jakoś dało się pożenić.</p>
+        <p xml:id="p-3">Ulica kończy się wiaduktem, z którego można obejrzeć ul. Niemiga. Takiego nagromadzenia architektonicznych potworków na tak małej przestrzeni próżno szukać na całym świecie. Jeśli komuś mało monstrualnego bloku i płaskorzeźby na jednym z okropnych domów towarowych, to ostatnie lata przyniosły nową atrakcję: imitacje kamienic, tyle tylko że zawieszonych dwa piętra nad ziemią na betonowych słupach. Zagubiona w tym morzu betonu pouinicka cerkiew św. Piotra i Pawła uświadamia tylko rozmiary architektonicznej tragedii, jaka dotknęła to miejsce.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

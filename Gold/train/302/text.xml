@@ -1,0 +1,22 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">ale książka. zarypiasta. ale wracając do Łodzi u nas to wiesz. bieda ten co ty mówiłeś o tym phillipsie to ja o phillipsie nie słyszałem wiem że powstał teraz gillette ten taki koncern na całą Europę. to tak to się zgadza</p>
+        <p xml:id="p-2">ale ale nie phillips też miał tam budować całe centrum właśnie takie. to o tyle tam nagłaśniali że. że to wreszcie wiesz nie jakaś tam prosta taka produkcja tam czegoś tylko że właśnie to miało być takie centrum finansowo księgowe na całą Europę generalnie. nawet czy na ten region Europy środkowo wschodniej ale chyba na całą Europę o ile się nie mylę nawet</p>
+        <p xml:id="p-3">a to budują zgadza się tylko ja myślałem że ty mówisz o jakiejś fabryce gdzie będą wiesz produkowali sprzęt phillipsa</p>
+        <p xml:id="p-4">nie nie nie nie nie to właśnie takie te te wiesz</p>
+        <p xml:id="p-5">to budują koło kościoła jezuitów przy Piłsudskiego rzeczywiście tak to tylko to nie będzie jakiś taki wiesz. strasznie wielki gmach</p>
+        <p xml:id="p-6">no ale to znaczy wiesz ja tam znaczy gmach jak gmach ale reklamowali że to będzie wiesz całą Europę obsługiwać że</p>
+        <p xml:id="p-7">być może</p>
+        <p xml:id="p-8">to mi utkwiło w pamięci i to taka zadyma była</p>
+        <p xml:id="p-9">herbatka zwykła razy dwa</p>
+        <p xml:id="p-10">w Łodzi skanska to buduje</p>
+        <p xml:id="p-11">to wszędzie bo tam ta w Warszawie też teraz ten cały. ten przy dworcu centralnym nie wiem czy byłeś kurcze. to tam całe teraz jakiś taki ten dworzec centralny jest obudowany jakimiś właśnie takimi. niby to drapaczami i inną architekturą więc tam to to wszystko też to skanska chyba. tam widziałem to buduje oni generalnie wygrywają wszystko ta skanska w Kaliszu to teraz znowu bo to są takie wielkie cwaniaki korporacje które wygrywają wszelkie przetargi bo tam. podają ceny które potem są. oczywiście nieaktualne bo pewno jakieś mają aneksy i tak dalej i oni wszystko praktycznie biorą. tak że ze skanską nikt nie wygra panie</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

@@ -1,0 +1,18 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Zygmunt Chabowski:</p>
+        <p xml:id="p-2">Dziś Rada Polityki Pieniężnej prawdopodobnie obniży stopy procentowe. Tego oczekuje rząd, a politycy koalicji wciąż straszą radę ograniczeniem jej niezależności. Jednak prezydent chyba nie popiera takich pomysłów?</p>
+        <p xml:id="p-3">Witold Orłowski:</p>
+        <p xml:id="p-4">- Prezydent jest zdania, że mamy dobrą konstytucję, że nasza demokracja jest zbyt młoda, by na podstawie kilku lat doświadczeń próbować zmieniać prawny kręgosłup państwa. A niezależność banku centralnego jest wartością nadrzędną. I tylko dlatego, że politykom nie podobają się bieżące decyzje RPP, nie można podawać w wątpliwość zasady jej suwerenności. Poza tym, doświadczenia wszystkich rozwiniętych krajów podpowiadają, że nasze rozwiązania prawne są dobre. Bębnienie na alarm, że RPP nie zmieniając oprocentowania, nie pozwala rozwijać się naszej gospodarce, jest przesadne. Naprawdę winne są błędy popełnione kilka lat temu. Ale w pewnym stopniu rozumiem też i tych, którzy chcą poluzowania polityki pieniężnej.</p>
+        <p xml:id="p-5">Byłby więc pan za obniżeniem stóp procentowych w kwietniu?</p>
+        <p xml:id="p-6">- Nie widzę większego ryzyka dla takiej decyzji. Wystąpienie tzw. impulsu inflacyjnego na skutek podwyżek cen ropy na świecie jest mało realne. Również duże bezrobocie i konkurencja na rynku będą dyscyplinować nasze ceny. Ale pamiętajmy, że ta obniżka - jeśli do niej dojdzie - przełoży się na ożywienie gospodarcze dopiero za 6 - 8 miesięcy. Takie są sprawdzone reguły ekonomiczne i my ich nie zmienimy.</p>
+        <p xml:id="p-7">Projekt przyszłorocznego budżetu, który przedstawił wicepremier Marek Belka, opiera się - tak się wydaje - na ekonomicznym optymizmie. Czy są ku temu rzeczywiste powody?</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

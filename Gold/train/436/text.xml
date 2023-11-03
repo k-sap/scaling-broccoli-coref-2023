@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Oczywiście, że można kochać, jeśli zobaczy się, że ta miłość nie wzięła się z niczego, że ona miała do niej prawo. To, że czasami coś mamy, coś osiągamy, nie wynika z tego, że zabieramy to komuś. Sposób myślenia sióstr był zero-jedynkowy; skoro Książę wybrał Kopciuszka, to znaczy, że im został zabrany. Nie widzą, że on dokonał wyboru. Gdyby nie było Kopciuszka i tak nie wybrałby żadnej z nich, z ich negatywnym nastawieniem do świata, z egocentryzmem, z zapatrzeniem w siebie i liczeniem się tylko ze swoimi potrzebami. Nie rozumieją, że mają swój udział w tym, że nie są wybierane do tego, by być kochane. Sama mówisz, że Kopciuszek nie miał specjalnych atrybutów czy zasług, żeby być wybranym - można by powiedzieć, że był kochany dzięki samemu faktowi bycia sobą. Coś Księcia urzekło w tej dziewczynie - może jej kobiecość, może zgoda na siebie, może. Na pewno coś, czego nie miały siostry, a czego on szukał w kobiecie.</p>
+        <p xml:id="p-2">Spójrz na tę historię z drugiej strony: Kopciuszek ma wszystko, siostry i macocha nie mają nic. Powiem więcej, po raz kolejny straciły męża, ojca, żywiciela rodziny, gwaranta dobrobytu i pozycji społecznej (pierwszy mąż macochy i ojciec córek, drugi mąż macochy i ojczym jej córek i trzeci raz - Książę). To dopiero tragedia!</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

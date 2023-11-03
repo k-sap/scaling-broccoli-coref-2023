@@ -1,0 +1,14 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Reżyseria, dzieło Bogusławy Czosnowskiej, jest sprawna, postaci zarysowane są wiarygodne, wszelkie wątki humorystyczne są podkreślone, ale nie przeszarżowane. Znać rękę profesjonalisty w dziedzinie operetki. Scenografia nieżyjącego już Bolesława Kamykowskiego ładna, również ładne kostiumy Zuzanny Piątkowskiej, także już zmarłej wieloletniej współpracownicy krakowskiej operetkowej sceny. Balet w układach Krystyny Gruszkówny prezentował się dobrze, choć mała scena nie pozwala w pełni cieszyć się tanecznymi popisami. Dopisali też soliści.</p>
+        <p xml:id="p-2">W partii tytułowej wystąpiła niezawodna Krystyna Tyburowska pięknie wahająca się pomiędzy głosem serca i poczuciem obowiązku. Partnerowali jej: w roli ocalałego z wojennej zawieruchy ukochanego Jan Wilga, a w roli szlachetnego, lecz opuszczonego w końcu męża - Jan Migała (to bardzo dobra rola wciąż rozwijającego się artysty). Śmialiśmy się z całego serca, gdy na scenie pojawiały się pary: Joanna Rakoczy (urocza Japoneczka) i Wojciech Wróblewski (jej narzeczony, a potem mąż) oraz Karin Kałucka (pokojówka) i Aleksander Żurawiecki (ordynans). Wszyscy czworo obdarzeni są wdziękiem, dobrze śpiewają i tańczą, sprawiają wrażenie, że obecność na scenie sprawia im radość. Cieszyliśmy się więc i my. Jedyny smutek rodziła świadomość, że obaj panowie występują gościnnie. A może by tak Wojciech Wróblewski powrócił na scenę, na której niegdyś zaczynał swą karierę?</p>
+        <p xml:id="p-3">Całość zespołu wykonawczego mogła zadowolić z jednym małym, choć ważnym wyjątkiem. Akustyka operetkowej sali dość mocno podkreśla brzmienie instrumentów dętych. Warto więc, by grały przypisane im dźwięki. Zastanawiałam się też nad dziwnymi chwilami harmoniami w walcu w III akcie. Ale może to przypadek. Wychodziłam w sobotę z dusznej sali operetki, nucąc sobie pod nosem. A o to przecież chodzi.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

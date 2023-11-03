@@ -1,0 +1,19 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">– Nie możemy uwierzyć w to, co się stało – mówili wczoraj uczniowie Gimnazjum nr 2 w Świebodzicach. – Marta była pełna życia i radości, kochała sport i miała tyle planów na przyszłość</p>
+        <p xml:id="p-2">Małgorzata Moczulska</p>
+        <p xml:id="p-3">W szkole zapalono wczoraj znicze, nie odbyły się lekcje. Rano uczniowie spotkali się z pedagogami, przed południem w pobliskim kościele w intencji dziewczynki odbyło się modlitewne czuwanie.</p>
+        <p xml:id="p-4">– Trudno nam o tym mówić, dla wszystkich to ogromne przeżycie i ciężko będzie po tym zacząć normalnie pracować – mówi Izabela Trawińska, dyrektor szkoły.</p>
+        <p xml:id="p-5">Marta umarła w czwartek. Pojechała razem z reprezentacją szkoły na Gimnazjadę Lekkoatletyczną. Brała udział w skoku w dal. Była w tej konkurencji bardzo dobra. Miała przywieźć medal. Zaraz po oddaniu skoku zasłabła. Reanimowano ją ponad pół godziny, po czym przewieziono do szpitala Latawiec w Świdnicy. Tam zmarła.</p>
+        <p xml:id="p-6">– Pracuję przy organizacji zawodów wiele lat i, owszem, były przypadki omdleń po długim biegu, ale nigdy takiej tragedii – mówi Waldemar Kurek z Ośrodka Sportu i Rekreacji w Świdnicy, który był świadkiem zdarzenia. – Przecież skok w dal nie jest nawet dyscypliną wysiłkową. To niewytłumaczalne.</p>
+        <p xml:id="p-7">Wczoraj pojawiły się informacje, że dziewczynka chorowała na serce i że być może nie powinna w ogóle brać udziału w zawodach.</p>
+        <p xml:id="p-8">– Wszczęliśmy w tej sprawie śledztwo – przyznaje Monika Kowalska, prokurator rejonowy w Świdnicy. – Będziemy z pewnością sprawdzać, czy wszystkie wymogi związane z organizacją takich zawodów zostały spełnione, ale musimy zacząć od wyjaśnienia przyczyn śmierci tego dziecka, bo wciąż nie wiemy, dlaczego umarła. Zarządzona została sekcja zwłok i dopiero, kiedy w sprawie wypowie się biegły, będziemy decydować o dalszych czynnościach.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

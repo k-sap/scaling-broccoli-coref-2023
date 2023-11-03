@@ -1,0 +1,22 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">- Co za swój?!</p>
+        <p xml:id="p-2">- Swój, niech pani otworzy, pani Janowska, niech pani się nie boi, to ja...</p>
+        <p xml:id="p-3">- Jezusie Nazareński! - zawołała Janowska. To Abramowa jeszcze żyje?! O Jezu miłościwy...</p>
+        <p xml:id="p-4">- Niech mi pani pomoże, pani Janowska, mnie i mojemu dziecku, niech mi pani pomoże, bo zginę.</p>
+        <p xml:id="p-5">- A toć na pewno pomożemy, jakżeby nie... Co tylko będzie można. Ale co też my, biedne ludzie, możemy na takie skaranie boskie pomóc?... Obudzę mojego Ø.</p>
+        <p xml:id="p-6">- Niech pani nikogo nie budzi, pani Janowska, chodzi tylko o trochę pieniędzy z tego, co Ø mąż u was zostawił. Lepiej, żeby nikt o tym nie wiedział...</p>
+        <p xml:id="p-7">Ale z alkierza wychodził już w sznurowanych kalesonach Janowski, a za nim starszy syn, Wicek, i wszyscy zaczęli się mamie przyglądać i dziwić, że żyje.</p>
+        <p xml:id="p-8">- Pieniędzy? Jakich? Aaa, tamtych... Mój Boże, kiedy już dawno ich nie ma!... Dalibyśmy, jakżeby nie, przecieśmy uczciwe ludzie, ale kiedy nic już nie zostało. Abramek zabrał, zabrał wszyściutko. Był chyba ze trzy razy...</p>
+        <p xml:id="p-9">- Albo i cztery...</p>
+        <p xml:id="p-10">- Albo i cztery razy. I wszystko zabrał.</p>
+        <p xml:id="p-11">- A jak przyszedł, to i ogrzał się, i chleba na drogę daliśmy. A zabrał wszystko, co do grosza. Oddaliśmy, bo jakże, kiedy człowiek w takiej potrzebie. My cudzej krzywdy nie chcemy...</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

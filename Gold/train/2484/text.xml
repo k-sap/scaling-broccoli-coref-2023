@@ -1,0 +1,17 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Deszcz zalał odnowione mieszkanie.Właściciel Ø szuka winnych zaniedbań</p>
+        <p xml:id="p-2">Najpierw pojawił się lekki zaciek, pęknięcie na suficie, a w rezultacie mieszkanie zostało zalane. Kilka dni po remoncie dachu w budynku, przy ul. Osowskiej w Gdyni Chyloni, deszcz zamiast do rynny spłynął na podłogę.</p>
+        <p xml:id="p-3">- W lipcu zauważyliśmy przeciek na ścianie. Od razu poinformowaliśmy o tym firmę, która remontowała dach. Kilka dni później przyjechał do nas jeden z pracowników Ø i stwierdził, że przeciek jest wynikiem źle założonego opierzenia, które wykonali ociepleniowcy. Dach bez opierzenia miał jednak gwarancję na 10 lat - wyjaśnia Łukasz Sitarski, który remontowane mieszkanie chciał przeznaczyć na przedszkole.</p>
+        <p xml:id="p-4">Firma dachu naprawić nie chciała, więc pan Łukasz postanowił zrobić to na własną rękę. Wynajął inną ekipę budowlaną, która dach zalepiła papą ochronną. - W międzyczasie zrobiłem "doktorat" z pokryć dachowych. Założyłem kominki wentylacyjne, które służą do odprowadzania wilgoci - to przez nią powstają bąble - z warstwy izolacyjnej. Jak się dowiedziałem, powinny być zainstalowane podczas zakładania pierwszej warstwy papy - podkreśla pan Łukasz.</p>
+        <p xml:id="p-5">W trakcie naprawy dachu przez ekipię zatrudnioną przez Czytelnika, po rozpięciu folii izolacyjnej z sufitu wylała się woda. Mieszkanie wypełnione było po kostki. Bez wypożyczenia specjalnego urządzenia nie dałoby się go osuszyć. Konieczne było założenie nowej waty ochronnej.</p>
+        <p xml:id="p-6">- Trudno mi stwierdzić, czyja to była wina. Pan Łukasz niepotrzebnie zabierał się za remont. Nie jest budowlańcem, więc mógł łatwo zepsuć coś w trakcie naprawy. Gdyby od razu zgłosił się do nas, a nie zamawiał inną firmę, łatwiej byłoby całą sprawę rozwiązać - wyjaśnia Krzysztof Bald, właściciel Przedsiębiorstwa Usługowego "Contra", które remontowało dach.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

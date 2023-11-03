@@ -1,0 +1,22 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">- Panie Józefie, niech pan będzie spokojny, wszystko jest dobrze.</p>
+        <p xml:id="p-2">Zresztą wszyscy pracujący w kurii, i księża, i my, staraliśmy się żyć jak w jednej wielkiej rodzinie, którą kardynał Wojtyła nazywał "swoją parafią". Służyłem im wiernie i naprawdę cenili mnie. Arcybiskup Baziak to tak troszczył się o mnie, że jak raz jechaliśmy gdzieś zimą w tej naszej nieogrzewanej chevrolecie, to ni stąd, ni zowąd pyta mnie:</p>
+        <p xml:id="p-3">- A co panu?</p>
+        <p xml:id="p-4">A ja tak stukałem nogą o podłogę, bo mi z zimna całkiem stopy zdrętwiały, a z takimi nogami zamarzniętymi to ciężko auto prowadzić. Więc mówię Arcybiskupowi:</p>
+        <p xml:id="p-5">- A noga mi marznie, to próbuję ją jakoś rozgrzać. Przyjechaliśmy do Krakowa, wysiadamy z samochodu, a arcybiskup Baziak mówi do swojego kapelana:</p>
+        <p xml:id="p-6">- Księże Kapelanie, ja teraz wyjeżdżam na parę dni, ale jak wrócę, to pan Józef ma mieć kożuch i buty porządne! A pieniądze Ksiądz ma?</p>
+        <p xml:id="p-7">- Noo.</p>
+        <p xml:id="p-8">- Ma Ksiądz pieniądze?</p>
+        <p xml:id="p-9">- Mam, mam, tak, Księże Arcybiskupie, mam. Musiały być i buty, i kożuch. I kupili mi wszystko ks. Czartoryski z kapelanem. Ksiądz Arcybiskup wrócił i mówi:</p>
+        <p xml:id="p-10">- No! Teraz to jest kierowca!</p>
+        <p xml:id="p-11">A ten kapelan to był taki "śmieciarz"! Jego pokój to był istny magazyn śrub, śrubeczek, imadeł, imadełek, wiatraczków, wszystko tam było! Miał nawet malutką tokareczkę!</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

@@ -1,0 +1,19 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Wykształcenie: Ukończyła studium filmowe na kierunku animator kultury ze specjalnością film. Obecnie jest studentką prawa</p>
+        <p xml:id="p-2">Marzenia: Największe to ukończenie studiów i zrobienie aplikacji. Oprócz tego chce mieć wielu przyjaciół</p>
+        <p xml:id="p-3">- Jesteś jedyną ratowniczką na tej plaży. Członkowie twojej ekipy wychwalają twoją pracę i osiągnięcia. Dlaczego przyszła pani prawnik zdecydowała się na uprawianie takiej profesji?</p>
+        <p xml:id="p-4">- Moją pasją jest sport i pływanie, które trenuję już od 10 lat. W szkole podstawowej zrobiłam pierwszy kurs. Później postanowiłam dalej rozwijać się w tym kierunku. Obecnie jestem ratownikiem.</p>
+        <p xml:id="p-5">- Co lubisz najbardziej w swojej pracy?</p>
+        <p xml:id="p-6">- Prawdę mówiąc, najbardziej odpowiada mi praca na plaży, gdyż jest to wyzwanie dla każdego ratownika. Pracę na basenie traktuję jako formę zastępczą, bo dopiero nad morzem można sprawdzić swoje umiejętności i w pełni docenić siły. Praca w Łebie jest trudna, ale satysfakcji z pomocy potrzebującemu nie można z niczym porównać.</p>
+        <p xml:id="p-7">- Co uważasz za swój największy sukces?</p>
+        <p xml:id="p-8">- Cieszę się z tego, że zdobyliśmy drużynowe mistrzostwo Polski w ratownictwie, co potwierdza sprawność i dobre przygotowanie naszej ekipy. Dużo radości sprawiło mi także drugie miejsce na 2 km, które zdobyłam w ubiegłym roku na zawodach w Niemczech. W sierpniu tego roku będziemy brać udział w zawodach w Ustce. Mam nadzieję, że dobrze się spiszemy, choć i tak najbardziej liczy się sport, zabawa oraz wewnętrzna satysfakcja.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

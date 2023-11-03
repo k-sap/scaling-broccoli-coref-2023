@@ -1,0 +1,16 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Fundamentaliści jednak nie rezygnowali.</p>
+        <p xml:id="p-2">Organizowali strajki i manifestacje, dochodziło do starć. Pod presją ulicy rząd zgodził się na wolne i przyspieszone wybory parlamentarne latem 1991 r. A potem, w czerwcu 1991 r., armia postanowiła usunąć z budynków rad gminnych zdominowanych przez IFO tabliczki z napisem "gmina islamska" . Nic ważnego, chodziło jedynie o to, żeby przypomnieć, kto tu mimo wszystko rządzi. Przypomniano aż nadto dobrze: w walkach ulicznych zginęło oficjalnie 55 osób (opozycyjna Liga Praw Człowieka twierdzi, że trzy tysiące). Znów stan wojenny, odroczenie wyborów, aresztowanie przywódców Islamskiego Frontu. Siedzą w więzieniu do dziś.</p>
+        <p xml:id="p-3">Prezydent Bendżedid uznał zapewne, że ta lekcja wystarczy. Wybory, choć opóźnione, jednak się odbyły. Resztę znamy.</p>
+        <p xml:id="p-4">Kim są zwycięzcy? Nie bardzo wiadomo. Islamski Front Ocalenia przypomina trochę polską ,Solidarność': to wielkie pospolite ruszenie rozmaitych sił, które łączy nieubłagana wrogość wobec skorumpowanej dyktatury FWN. Są tam młodzi: na 25 milionów Algierczyków, 11 milionów ma poniżej dwudziestki i nie ma żadnych perspektyw.</p>
+        <p xml:id="p-5">Bezrobocie] jest prawie półtora miliona, inflacja sięga 50 proc., poziom życia spadł o 8 proc. w porównaniu z rokiem 1990. Chłopi, robotnicy, urzędnicy - wszyscy, którzy liczyli na dobrobyt obiecywany w programach FWN - zrozumieli, że ich praca służy jedynie bogaceniu się nielicznych. Islamscy ideologowie pomogli ludziom zdesperowanym i upokorzonym odzyskać poczucie godności.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

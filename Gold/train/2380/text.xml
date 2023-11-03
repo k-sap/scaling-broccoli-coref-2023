@@ -1,0 +1,17 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Aż 150 dzieci, w wieku od pięciu do 10 lat, uczestniczyło w pikniku „Tenisowe asy”, który w sobotę odbył się na kortach Posnanii. Niektóre z nich mają szansę na rozpoczęcie darmowej nauki gry w tenisa.</p>
+        <p xml:id="p-2">„Tenisowe asy” – tak nazywa się programu który w trzech miastach – Warszawie, Wrocławiu i Poznaniu – zainicjował w minioną sobotę Bank Zachodni WBK i Polski Związek Tenisowy.</p>
+        <p xml:id="p-3">– Tenis uchodzi za sport dla ludzi bogatych i tą akcją chcemy to zmienić – wyjaśnia Jacek Muzolf, wiceprezes PZT. – Zamierzamy wyłowić najzdolniejsze dzieci, które będą szkolone za darmo. Najlepiej byłoby, gdyby pochodziły one z biednych rodzin, bo są one ambitne.</p>
+        <p xml:id="p-4">Pierwsza z zaplanowanych imprez, która odbyła się w sobotę na kortach Posnanii, spotkała się z dużym zainteresowaniem. Uczestniczyło w niej około 150 dzieci. Przez kilka godzin wykonywały one różne ćwiczenia: od tańca, poprzez podbijanie, łapanie i rzucanie piłeczką tenisową, po biegi oraz skoki.</p>
+        <p xml:id="p-5">– Zwracamy uwagę przede wszystkim na koordynację dzieci, a także na to, jak współpracują w grupie, czy są zadowolone i jak znoszą trudy dnia, bo przecież mecze tenisowe trwają po kilka godzin – powiedział Jacek Zieliński, koordynator programu „Tenisowe asy”. – Niektóre próby były wymierne, jak na przykład skoki, czy rzuty, a inne ocenią subiektywnie metodycy na podstawie swojego doświadczenia.</p>
+        <p xml:id="p-6">– Pierwszy piknik przeszedł moje oczekiwania, cieszę się, że zgłosiło się tak dużo dzieci – ocenił J. Muzolf. – Będziemy mieli kłopot z wyborem, bo niemal wszystkie są uzdolnione.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

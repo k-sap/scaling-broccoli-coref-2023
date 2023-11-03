@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Tymczasem świat stawał się coraz bardziej mglisty. Niczym bezbarwne tło, na którym mróz zaczął malować fantastyczne kwiaty z długimi łodygami, bujny bluszcz wyciągał swoje pożądliwe dłonie ku miejskim murom. Biała roślinność, ubarwiona przez pryzmat słonecznej kuli, oplątywała miasteczko. Wokoło zamarzniętych mieszkańców domy i sklepy, uliczne lampy i ławki zmieniały się w ogród. Ratusz przykryły czapy mchu, skrzynka pocztowa wystrzeliła pąkiem róży, która spąsowiała natychmiast w wieczornym słońcu. Przystanek zakwitł magnoliowym kwieciem, piekarnia wypuściła pąki i przypominała wierzbę płaczącą. W powietrzu unosiły się tulipany, stokrotki, hiacynty, tworząc fruwające bukiety, z których opadały aksamitne płatki. Wystarczyło sięgnąć ręką, by pod palcami poczuć ich kruchość. Pełni zaciekawienia, wpinaliśmy kwiaty w ubranie, we włosy. Kumpel zrobił sobie wianek i nałożył go na głowę. Hasaliśmy po białych alejkach niczym beztroskie grudniowe rusałki. Pośród rozłożystych drzew muskaliśmy dawne kosze na śmieci - teraz srebrzyste kule krzewów - strącając z nich dźwięczące diamentowe oczka.</p>
+        <p xml:id="p-2">Smutny Pan zdążył wrócić pustym już żukiem. Zapakował kolejną partię Gorliwych i ruszył znowu w siną dal. Ślady kopyt i kół urywały się tuż za ogrodem, tak samo jak tętent i obłoczki pary z rozdętych końskich chrap. My jednak, pogrążeni w białej bujności ogrodu, pląsaliśmy uciesznie, patrząc na urzekające lodowe girlandy, kolczaste sople i śnieżne kobierce, wyrastające z gęstych traw. Zima zachłannie malowała własny świat.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

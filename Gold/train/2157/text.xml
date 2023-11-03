@@ -1,0 +1,20 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">- używa szczegółów, aby wzbogacić i uwiarygodnić opowiadanie.</p>
+        <p xml:id="p-2">- w tym co pisze, nie odbiega od tematu i nie traci wątku.</p>
+        <p xml:id="p-3">- zarówno w mowie jak i w piśmie posługuje się bogatym słownictwem.</p>
+        <p xml:id="p-4">- lubi zapisywać swoje myśli i pomysły.</p>
+        <p xml:id="p-5">- potrafi sprawić, że postacie przez nie stworzone wydają się prawdziwe.</p>
+        <p xml:id="p-6">- jest bystrym i wnikliwym obserwatorem ludzkich zachowań, jest wrażliwe na uczucia innych i potrafi rozpoznać ukryte intencje ludzkich zachowań.</p>
+        <p xml:id="p-7">Jeśli dostrzegasz w swoim dziecku wiele z powyższych cech, to nie pozostaje nic innego jak pogratulować. Z Twojej pociechy może wyrosnąć wielki pisarz, którego książki będą rozchwytywane wśród dzieci lub dorosłych. Kto wie, może kolejny noblista. Uważasz, że bujam w obłokach? Coś Ci więc powiem:</p>
+        <p xml:id="p-8">NIGDY, przenigdy nie mów, że coś jest niemożliwe, że to fantazjowanie. Nie zawężaj dziecku pola osiągnięć, nie ograniczaj jego możliwości własnym sposobem myślenia i sceptycznym nastawieniem. W żaden sposób nie pomożesz tym swojemu maluchowi, a wręcz możesz bardzo zaszkodzić. Jest to taka dygresja, która równie dobrze może pojawić się także w rozdziałach opisujących inne typy inteligencji. Jest ona zawsze prawdziwa i aktualna...</p>
+        <p xml:id="p-9">Myślę, że wiesz już mniej więcej, czym jest inteligencja językowa i jak się przejawia w praktyce. Pytanie - jak ją rozwijać? Jakie zabawy i ćwiczenia stosować? Na które umiejętności szczególnie zwracać uwagę? W kolejnych podrozdziałach znajdziesz odpowiedź na te pytania.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

@@ -1,0 +1,21 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">- Cały świat idzie w kierunku socjalizacji, państwo przejmuje wielkie koncerny, ogranicza dochody. Powiecie, że na zachodzie Europy przemysłowcy sami dzielą się zyskiem z robotnikiem, dobrowolnie. Bo widzą, że u nas robotnik ma i udział we władzy, w rządzeniu państwem. Muszą ustąpić, dać, żeby trochę opóźnić nieuniknione procesy dziejowe - tłumaczył żarliwie. - Przypatrzcie się, jak jest u was, ile krzywdy niezawinionej, którą dostaliście w spadku po Anglikach. Przed waszym pokoleniem stoją olbrzymie zadania. Przestąpiliście dopiero próg: niepodległość.</p>
+        <p xml:id="p-2">- Jesteśmy krajem technicznie opóźnionym - przyznawali. - Jeszcze nie rozpoznaliśmy własnych bogactw naturalnych.</p>
+        <p xml:id="p-3">- Trzeba ogromnych środków, a kto je da? Amerykanie czy Rosja? A jeśli pomogą, czym każą sobie zapłacić? - głosy były pełne zwątpienia. - My lękamy się zbyt gwałtownych zmian.</p>
+        <p xml:id="p-4">- Przywykliśmy do tradycji, religii, dawnych obyczajów - dorzucił bas w mroku, jednak nie brzmiało to szyderstwem. - Lubimy spokój.</p>
+        <p xml:id="p-5">- U nas ludzie są dobrzy, nie chcą cudzego - zaśpiewał kobiecy alt, łagodny i ciepły.</p>
+        <p xml:id="p-6">- Jeżeli pana atakujemy, to nie z wrogości do reform - częstowano go papierosami - tylko żeby wiedzieć, co nas czeka.</p>
+        <p xml:id="p-7">- Bo socjalizm do nas przyjdzie.</p>
+        <p xml:id="p-8">- Chińczycy - syknął starczy głos.</p>
+        <p xml:id="p-9">- Jeszcze, na szczęście, daleko. Nasi chłopi są cierpliwi.</p>
+        <p xml:id="p-10">- Jednak domagają się ziemi - powiedział Terey twardo.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

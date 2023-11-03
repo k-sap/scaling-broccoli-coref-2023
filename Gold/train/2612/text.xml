@@ -1,0 +1,18 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Dawny czar kresowych miast</p>
+        <p xml:id="p-2">Obecnie na Podzamczu Muzeum w Elblągu można oglądać ciekawą ekspozycję pn. „Grodno i Wołkowysk w II Rzeczypospolitej”. Jak mówi Krystyna Laskowska, komisarz wystawy, jest to ekspozycja, która wcześniej prezentowana była w Muzeum Etnograficznym w Gdańsku-Oliwie. Elbląska edycja wystawy poszerzona została o obiekty, które dodatkowo napłynęły już po jej otwarciu w Muzeum Etnograficznym w Gdańsku-Oliwie.</p>
+        <p xml:id="p-3">— Gdańskie muzeum, w cyklu wystaw „Podróże sentymentalne po dawnych kresach”, w ostatnich latach podjęło trud przybliżenia mieszkańcom tamtych kresowych stron i tamtego czasu — mówi Krystyna Laskowska. — Jest to zarazem próba zrozumienia tego, za czym niejednokrotnie tęskni mieszkający teraz w Elblągu, Trójmieście czy w Toruniu, a pochodzący stamtąd, ojciec czy dziadek.</p>
+        <p xml:id="p-4">Muzeum w Elblągu skorzystało z możliwości zaprezentowania obrazków z kolejnej podróży sentymentalnej, tym razem do Grodna i Wołkowyska, dwóch kresowych miast dawnego województwa białostockiego.</p>
+        <p xml:id="p-5">Wystawa powstała według scenariusza kustosz Wiktorii Blacharskiej. Składa się głównie z pamiątek i dokumentów, użyczonych przez osoby prywatne, zarówno niezrzeszone, jak i zrzeszone w różnych stowarzyszeniach kresowian.</p>
+        <p xml:id="p-6">— Wśród użyczających są również mieszkańcy Elbląga — dodaje Krystyna Laskowska.</p>
+        <p xml:id="p-7">Podzielona na dwie części ekspozycja w podobnym ujęciu przedstawia sylwetki międzywojennych miast — Grodna i Wołkowyska. Na wystawie można zobaczyć m.in. panoramy miast, widokówki, fotografie przedstawiające mieszkańców w różnych miejscach i sytuacjach. Są tutaj dokumenty i rozmaite pamiątki — szkolne sztandary, żołnierski mundur i wiele innych.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

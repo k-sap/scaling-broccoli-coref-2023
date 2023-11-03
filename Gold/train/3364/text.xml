@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Transfer pod myszką</p>
+        <p xml:id="p-2">Już w momencie pierwszego transferu składek do OFE – w maju 1999 r. – pojawiły się problemy – nie wszyscy członkowie funduszy dostali swoje pieniądze na konta. Ówczesny prezes ZUS, Stanisław Alot wytłumaczył to, chwilowymi problemami z uruchamianiem nowego systemu informatycznego oraz licznymi błędami w deklaracjach popełnianymi przez płatników składek. Tymczasem zaległości zaczęły narastać z miesiąca na miesiąc i obecnie po dwóch latach funkcjonowania reformy ZUS jest winien funduszom ok. 3,5 mld zł składek wraz z odsetkami (fundusze emerytalne szacują ten dług na 5-6 mld zł). W końcu nie można było dłużej ukrywać, że nowy system informatyczny ZUS jest na tyle nie wydolny, że nie radzi sobie z bieżącą identyfikacją ubezpieczonych. Część składek po prostu nie mogła i do tej pory nie może trafić na konta uczestników w OFE. Ale czy tylko zawinił system ZUS? Może gdyby w trakcie prac nad reformą nie zrezygnowano z pomysłu nadania każdemu ubezpieczonemu tzw. numeru ubezpieczeń społecznych, nie byłoby całego bałaganu. Czas pokazał, że wbrew zapewnieniom, numery NIP i PESEL nie były wystarczające, zwłaszcza, że przy zapisywaniu do funduszy emerytalnych wielu akwizytorów nawet nie pamiętało, a może nawet nie wiedziało, że klienci powinni podać te identyfikatory. A może takie działanie było celowe? Wiadomo przecież, że zmiana systemu emerytalnego początkowo jest olbrzymim obciążeniem finansowym dla budżetu państwa. Trzeba choćby na bieżąco wyrównać niedobór w ZUS, który powstaje na skutek przekazywania części składek do OFE. Na ten cel miały być przeznaczone środki uzyskane z prywatyzacji. W momencie, kiedy budżet państwa jest w poważnych kłopotach ponad 3 mld zł, których – jak się tłumaczy – nie można przekazać do OFE z uwagi na brak możliwości identyfikacji kont, może go podreperować. Niemniej jest to najdroższy kredyt, jaki państwo może zaciągnąć. Mamy przecież zagwarantowane, że w przypadku opóźnień w przekazywaniu składek, OFE ustawowo należą się 30 odsetki w skali roku.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

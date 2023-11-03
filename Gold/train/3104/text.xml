@@ -1,0 +1,54 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">SEBASTIAN:</p>
+        <p xml:id="p-2">W czym?</p>
+        <p xml:id="p-3">MAGDA:</p>
+        <p xml:id="p-4">W mówieniu: nie chcę go!</p>
+        <p xml:id="p-5">SEBASTIAN i KAROLINA patrzą na siebie z powątpiewaniem, potem na MAGDĘ.</p>
+        <p xml:id="p-6">SEBASTIAN:</p>
+        <p xml:id="p-7">Z tym sama sobie doskonale radzisz.</p>
+        <p xml:id="p-8">CIĘCIE.</p>
+        <p xml:id="p-9">29. SCHRONISKO. WN. WIECZÓR.</p>
+        <p xml:id="p-10">TOMASZ i PIOTR siedzą przed kominkiem. Patrzą w ogień.</p>
+        <p xml:id="p-11">TOMASZ:</p>
+        <p xml:id="p-12">(po chwili)</p>
+        <p xml:id="p-13">Powiedz mi... Czy ty uważasz, że my jesteśmy dobrym małżeństwem?</p>
+        <p xml:id="p-14">PIOTR patrzy na ojca zdziwiony.</p>
+        <p xml:id="p-15">PIOTR:</p>
+        <p xml:id="p-16">(uśmiecha się)</p>
+        <p xml:id="p-17">Chyba nie macie jakichś problemów?</p>
+        <p xml:id="p-18">TOMASZ:</p>
+        <p xml:id="p-19">Odpowiedz.</p>
+        <p xml:id="p-20">PIOTR:</p>
+        <p xml:id="p-21">Nie wiem... To znaczy, jak jesteście razem tyle lat, to pewnie dobrym.</p>
+        <p xml:id="p-22">TOMASZ patrzy wciąż w ogień.</p>
+        <p xml:id="p-23">PIOTR:</p>
+        <p xml:id="p-24">(po chwili, dodaje)</p>
+        <p xml:id="p-25">Czasem jesteś nieznośny, ale jak mamie to nie przeszkadza...</p>
+        <p xml:id="p-26">TOMASZ:</p>
+        <p xml:id="p-27">Przeszkadza. Pewnie, że jej przeszkadza.</p>
+        <p xml:id="p-28">PIOTR:</p>
+        <p xml:id="p-29">Może nie tak bardzo, skoro cię nie zostawiła.</p>
+        <p xml:id="p-30">Potwierdza słowa PIOTRA.</p>
+        <p xml:id="p-31">TOMASZ:</p>
+        <p xml:id="p-32">A wiesz dlaczego?</p>
+        <p xml:id="p-33">PIOTR patrzy na ojca.</p>
+        <p xml:id="p-34">TOMASZ:</p>
+        <p xml:id="p-35">Zosia jest mądrzejsza ode mnie.</p>
+        <p xml:id="p-36">PIOTR teraz jest bardzo zdumiony, ale milczy. TOMASZ uśmiecha się nieznacznie.</p>
+        <p xml:id="p-37">TOMASZ:</p>
+        <p xml:id="p-38">Nie spodziewałeś się, że kiedykolwiek to ode mnie usłyszysz, co?</p>
+        <p xml:id="p-39">PIOTR:</p>
+        <p xml:id="p-40">(po chwili, uśmiecha się)</p>
+        <p xml:id="p-41">Nie spodziewałem się, że kiedykolwiek na to wpadniesz.</p>
+        <p xml:id="p-42">TOMASZ:</p>
+        <p xml:id="p-43">Wiesz, co mi nie pozwoliło wcześniej tego zobaczyć? Pycha.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

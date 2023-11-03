@@ -1,0 +1,21 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Testując algorytm funkcji przeładowanego operatora, &amp; możemy samodzielnie stwierdzić, iż powtórne wykorzystanie jednoargumentowego operatora adresowego &amp; w celu pobrania adresów poszczególnych elementów zainicjowanej odpowiednimi wartościami tablicy tab z oczywistych względów okaże się czynnością niemożliwą do zrealizowania. Wynika to z faktu, iż tablica tab w istocie została zadeklarowana w funkcji main() jako pewien obiekt klasy array, w której uprzednio zdefiniowano już jednoargumentową funkcję operator &amp;() przeładowanego operatora &amp;.</p>
+        <p xml:id="p-2">Przeładowywanie operatora indeksowania tablic II</p>
+        <p xml:id="p-3">Operator indeksowania tablic [] podczas przedefiniowywania traktowany jest jako operator dwuargumentowy i z powodzeniem może być przeładowany za pomocą funkcji składowej klasy bez potrzeby posługiwania się funkcją zaprzyjaźnioną.</p>
+        <p xml:id="p-4">Ćwiczenie 3.9.</p>
+        <p xml:id="p-5">Jako praktyczny przykład wykorzystania funkcji operator[][() przeładowanego operatora [] rozpatrzmy prostą klasę array, w której zadeklarowano jednowymiarową tablicę tablica o pięciu elementach typu double.</p>
+        <p xml:id="p-6">Konstruktor array() przypisuje każdemu z jej elementów odpowiednią wartość początkową.</p>
+        <p xml:id="p-7">Wartością powrotną funkcji przeładowanego operatora [] jest wartość elementu tablicy o numerze (indeksie) jednoznacznie określonym poprzez argument funkcji:</p>
+        <p xml:id="p-8">Na listingu 3.6 pokazano praktyczny przykład zastosowania w programie omawianych funkcji.</p>
+        <p xml:id="p-9">Ćwiczenie 3.10.</p>
+        <p xml:id="p-10">Pokazaną w poprzednim ćwiczeniu funkcję przeładowanego operatora [] można zdefiniować również w ten sposób, aby operator [] mógł być używany zarówno po lewej, jak i po prawej stronie instrukcji przypisania. W tym celu wystarczy zastosować typ odwołaniowy wartości powrotnej funkcji operator[]():</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

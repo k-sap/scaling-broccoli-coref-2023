@@ -1,0 +1,14 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Liedtke i Battel byli zgodni, że należy bezzwłocznie podjąć jakąś kontrakcję. Na zwołanej w trybie alarmowym naradzie z udziałem pozostałych oficerów Ortskommandantury major przedstawił zaistniałą sytuację, wskazując na niebezpieczeństwo załamania się zaopatrzenia południowego frontu. Zwrócił też uwagę na to, że przesiedlenie oznacza dla Żydów pewną śmierć. Wówczas Battel wystąpił z propozycją zablokowania mostu na Sanie, by uniemożliwić policji i SS przedostanie się z lewobrzeżnej części miasta, zwanej Zasaniem. Liedtke to zaakceptował, mówiąc: "Panowie, ja wiem, że ryzyko jest duże, gdyż ten plan wykracza przeciw wyraźnemu rozkazowi Himmlera, ale dla nas ważniejsze jest zapewnienie siły roboczej dla potrzeb Wehrmachtu".</p>
+        <p xml:id="p-2">Od tego momentu wydarzenia toczą się błyskawicznie. Por. Battel zarządza ostre pogotowie Feldgendarmerie, a major Liedtke wydaje rozkaz zamknięcia mostu na Sanie. Żołnierze z kompanii wartowniczej uzbrojeni w karabiny z ostrą amunicją i erkaem obsadzają most i nie przepuszczają żadnego z pojazdów policyjnych i Waffen-SS (zbrojne oddziały SS).</p>
+        <p xml:id="p-3">Z relacji Stanisława Dąbrowy-Kostki, w owym czasie w oddziale dywersyjno-wywiadowczym KO AK Przemyśl: "Blokadę mostu w dniu 26.07.1942 r. widziałem na własne oczy. (...) Podjechałem tam na rowerze i z niewielkiej odległości byłem świadkiem incydentu między funkcjonariuszami Sipo a oficerem Wehrmachtu, stojącym przy kaemie usytuowanym u wylotu mostu w kierunku placu Konstytucji i ul. 3 Maja. Obsługa kaemu - celowniczy i amunicyjny - leżała w pozycji bojowej. Od strony ulicy Krasińskiego nadjechał terenowy samochód policyjny. Oficer zatrzymał pojazd ruchem ręki i okrzykiem: Halt! Umundurowani Sipowcy wysiedli i usiłowali podejść, lecz on nie pozwolił, a ci przy kaemie groźnie trzaskali zamkiem. Wywiązała się głośna pyskówka. Starcie trwało co najmniej kilkanaście minut. W końcu rozwścieczeni Sipowcy odjechali na ul. Krasińskiego (...). Dosyć szybko uzyskaliśmy informację, że stronom konfliktu poszło o Żydów".</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

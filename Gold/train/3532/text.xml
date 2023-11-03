@@ -1,0 +1,14 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Na filmach hollywoodzkich agentów CIA oglądamy jako dzielnych, bystrych i kierujących się patriotyzmem twardzieli, skutecznie rozpracowujących wszelkie siatki zbrodniarzy imperium zła. Tragedia 11 września pokazała, że prawda jest bliższa złośliwym karykaturom amerykańskiej prasy, na których funkcjonariusze CIA portretowani są jako przykute do biurek gapowate matołki.</p>
+        <p xml:id="p-2">Jeszcze przed zamachem prasę obiegła cytowana i przez nas wypowiedź Reuela Marca Gerechta, specjalisty od wywiadu (w miesięczniku "Atlantic Monthly"), podkreślająca słabość CIA w penetracji kół terrorystycznych: "CIA zapewne nie ma ani jednego naprawdę wykwalifikowanego, mówiącego po arabsku oficera, pochodzącego z Bliskiego Wschodu, który mógłby wiarygodnie udawać islamskiego fundamentalistę i to takiego, który by na ochotnika spędził całe lata swego życia w górach Afganistanu na gównianym jedzeniu i bez kobiet. Na miłość Boską, przecież większość oficerów mieszka w willowych dzielnicach Wirginii ".</p>
+        <p xml:id="p-3">Walka z terroryzmem stała się teraz całym programem rządu amerykańskiego, który 16 lipca przesłał Kongresowi 90-stronicowy dokument streszczający "nową doktrynę obrony wewnętrznej kraju". Są w nim zadania nawet dla burmistrzów i zwykłych obywateli, jednak gros obowiązków spada oczywiście na służby jak Centralna Agencja Wywiadowcza, której dyrektor, George J. Tenet zażądał wzrostu zatrudnienia w Dyrektoriacie Operacji (najtajniejszej służbie) o 25 proc. i wzrostu liczby nowych szpiegów aż o 70 proc. Zmobilizowali się również spontanicznie sami Amerykanie. CIA - po 11 września - otrzymała aż sto tysięcy nowych zgłoszeń do służby, prawie dwa razy więcej niż normalnie. Minister obrony Donald Rumsfeld rozważa, jak rozbudować zadania amerykańskich sił specjalnych w świecie, by agenci mogli brać udział w zaplanowanych na długi czas tajnych operacjach za granicą, gdzie mogą się kryć wrogowie Ameryki, zaś lokalne rządy nie potrafią ich zneutralizować.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

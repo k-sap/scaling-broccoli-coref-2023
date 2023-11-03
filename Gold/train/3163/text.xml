@@ -1,0 +1,20 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">sp1: kurwa bo nie wiem o czego zacząć czekajcie mmm. To naprawdę nie jest naciągane, poważnie to wyszło coś takiego że</p>
+        <p xml:id="p-2">sp2: zacznij od tego którym pociągiem przyjedziesz w sobotę</p>
+        <p xml:id="p-3">sp0: hehe</p>
+        <p xml:id="p-4">sp1: co ?</p>
+        <p xml:id="p-5">sp2: zacznij od tego którym pociągiem przyjedziesz w sobotę</p>
+        <p xml:id="p-6">sp1: a hehe no tak</p>
+        <p xml:id="p-7">sp1: no więc to wyszło tak że ja mówię jedźmy ona mówi że no nie bo jestem chora coś tam coś tam i mówi tak do mnie dlaczego ty masz zawsze takie parcie żeby gdzieś wychodzić wyszło na to że ja powiedziałem że nie chcę żebyśmy siedzieli w domu</p>
+        <p xml:id="p-8">sp2: bo masz dwadzieścia lat powiedziałeś</p>
+        <p xml:id="p-9">sp1: nie tego nie powiedziałem hehe nie chcę żebyśmy siedzieli w domu na ona dobra to ja się nie chcę z tobą widzieć skoro uważasz że tak spędzany czas ze mną jest do dupy nie taki popływ no ja mówię że nie no to nie tak że ja mówię żebyśmy po prostu gdzieś wyszli i lubię z nią siedzieć ona nie nie tak to zrozumiałam i coś tam coś tam wyszło że generalnie jestem chujem. potem jeszcze raz wyszło że jestem chujem potem na mnie nakrzyczała na coś potem ja coś nakrzyczałem to odłożyła w ogóle telefon na na biurko nie ona na mnie tam coś tam się wypruła ja jej odpowiedziałem przez sekundę odłożyła telefon na biurko tak z trzydzieści sekund nie nic nie słyszałem co się dzieje w ogóle podniosła i co już mówię kurwa się wkurwiłem trochę. no i ten no i wyszło że jak do ciebie pojadę to będę tak głupim chujem że jej rodzina zacznie mnie nienawidzić ona mnie będzie nienawidzić będę miał przejebane przez cztery tygodnie nie no i heh kurwa</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

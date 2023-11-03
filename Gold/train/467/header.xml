@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<teiHeader xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xml:lang="en">
+  <fileDesc>
+    <titleStmt>
+      <title>Paragraphs: p-2510,p-2511,p-2512,p-2513,p-2514,p-2515,p-2516,p-2517,p-2518,p-2519,p-2520 from NKJP text with id: PWN_3102000000009</title>
+    </titleStmt>
+  </fileDesc>
+  <profileDesc>
+    <textClass>
+      <catRef scheme="#nkjp" target="Literatura faktu"/>
+    </textClass>
+  </profileDesc>
+  <revisionDesc/>
+</teiHeader>

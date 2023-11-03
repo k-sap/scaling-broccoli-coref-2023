@@ -1,0 +1,19 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Bimbola94 CYTAT(Olcia-94 @ 1.09.2007, 09:45) "też bym tak chciała ale ja nie jestem taka szczupła jak ty... &lt;najbardziej lubię Prince polo classic &gt;" Olka ty niejesteś szczupła? No wiesz cco?</p>
+        <p xml:id="p-2">kasissa ja nie jem ich wiele a i tak jestem gruba lubię lody i ciasteczka holenderskie ciekawostka: nie lubię czekolady (prócz białej)</p>
+        <p xml:id="p-3">czasowstrzymywaczka a ja staram się nie jeść słodyczy... ale jak już jakieś dorwę to najczęściej jest: czekolada biała, sernik, galaretki w czekoladzie i batony Liony</p>
+        <p xml:id="p-4">Bimbola94 CYTAT(czasowstrzymywaczka @ 2.09.2007, 13:22) "a ja staram się nie jeść słodyczy... ale jak już jakieś dorwę to najczęściej jest: czekolada biała, sernik, galaretki w czekoladzie i batony Liony" ooo ... sernik, makowiec, babka marmurkowa i galaretki w czekoaldzie, śliwki w czekoladzie ( śliwka nałęczowska), rodzynki w czekoladzie (z jutrzenki)</p>
+        <p xml:id="p-5">Insomnia A ja jestem słodką dziewczyną i kocham wszystkie słodycze. Jedynym wyjątkiem jest gorzka czekolada.</p>
+        <p xml:id="p-6">Rainingman Uwielbiam, ale nie jadam często. Owoce, pączki, czekoladę z orzechami lub bakaliami...</p>
+        <p xml:id="p-7">amy92 Lubię. Głównie Knopersy, Kinder Bueno i mleczne czekolady.</p>
+        <p xml:id="p-8">Wiola :-) Wszystkie słodycze Najlepiej te w których jest czekolada. no nie lubie tylko białej i gorzkiej. Fe No i żelki odpadają</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

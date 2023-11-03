@@ -1,0 +1,17 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Niewiele brakowało, a kariera pani minister potoczyłaby się w zupełnie inny sposób. W 2002 roku postanowiła walczyć o stanowisko wójta w rodzinnej gminie – Somiance. A właśnie tam przez siedem lat (1990-1997) rządził Jarosław Kalinowski. Elżbieta Jakubiak poniosła porażkę, wójtem nie została, zainstalowała się więc w stołecznym magistracie. Dała się tam poznać jako kompetentny urzędnik. Kierowała przygotowaniami do obchodów 60. rocznicy powstania warszawskiego i pilotowała budowę muzeum. Zdaniem pracowników magistratu, to w dużej mierze jej zasługa, że cała operacja nie zakończyła się klapą i kompromitacją władz stolicy.</p>
+        <p xml:id="p-2">Szybko okazało się, że świetnie dogaduje się z prezydentem. Jak opowiadają jej znajomi, matkowała mu, dbała, żeby wypoczywał i by niepotrzebnie się nie denerwował. Szczególnie chroniła go w czasie kampanii prezydenckiej. Lech Kaczyński docenił ją i po wygranych wyborach mianował szefową gabinetu Prezydenta RP.</p>
+        <p xml:id="p-3">Ciepła i kompetentna</p>
+        <p xml:id="p-4">Aleksandra Natalli-Świat pamięta spotkanie z Elżbietą Jakubiak. – Raz zaprosiła mnie, by wyjaśnić jakąś sprawę – opowiada. – Świetnie się z nią rozmawiało, przegadałyśmy chyba z godzinę –mówi wrocławska posłanka PiS.</p>
+        <p xml:id="p-5">W pochwałach wobec Elżbiety Jakubiak aż rozpływa się Jolanta Szczypińska: niezmiernie ciepła, a przy tym konkretna i wymagająca, ale też od siebie.</p>
+        <p xml:id="p-6">Podobną opinie mają osoby, które współpracowały z nią w ratuszu. – Jest niesamowicie zdeterminowana, ukierunkowana na cel. Nie istnieje dla niej stwierdzenie, że czegoś nie da się zrobić. To taki taran pracy za wszelką cenę, któremu powierza się najtrudniejsze zadania – mówi anonimowo jedna z nich. – Nie dziwi ta nominacja, od dawna się przecież mówiło, że ma być ministrem od organizacji Euro 2012. Cały sport dostała przypadkiem, po wymuszonej dymisji Tomasza Lipca – dodaje.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

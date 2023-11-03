@@ -1,0 +1,14 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Zarżały konie, zagrzmiała podkowa. Trzej to rycerze jadą wzdłuż parowa; Zjechali, stają — a pierwszy z rycerzy Krzyknie i w trąbkę mosiężną uderzy; Uderzył potem raz drugi i trzeci — Strażnik mu baszty rogiem odpowiada — Brzękły wrzeciądze, pochodnia zaświeci I most zwodzony z łoskotem opada.</p>
+        <p xml:id="p-2">Na tętent koni zbiegli się strażnicy, Chcąc bliżej poznać i męże i stroje. Pierwszy mąż jechał w zupełnej zbroicy, Jaką zwykł Niemiec przywdziewać na boje; I krzyż miał czarny na białej kapicy, I krzyż na piersiach u złotej pętlicy, Trąbkę na plecach, kopiję u toku, Różaniec w pasie i szablę u boku.</p>
+        <p xml:id="p-3">Poznali męża Litwini z tych znaków, Więc cicho jeden do drugiego szepce “To jakiś urwisz od psiarni Krzyżaków, Tuczny, bo pruską krew codziennie chłepce. O, gdyby nie był nikt tu więcej z warty, Zarazby w bagnie skąpał się ten plucha, Aż pod most pięścią zgiąłbym łeb zadarty!” — Tak oni mówią; on niby nie słucha, Lecz musiał słyszeć, bo się bardzo zdumiał, “Książę jest w zamku?” — “Jest, lecz o tej porze Bardzoście wasze poselstwo spóźnili; Dziś nie możecie stawić się we dworze, Chyba na jutro”. — “Jutro? Ani chwili! Zaraz, natychmiast, choć w spóźnioną porę, Litaworowi o posłach donieście; Niebezpieczeństwo na mą głowę biorę, A wy dla znaku pierścień tylko weźcie! Nie trzeba więcej: skoro ujrzy godło, Pozna, kto jestem i co nas przywiodło”.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

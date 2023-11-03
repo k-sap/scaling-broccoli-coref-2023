@@ -1,0 +1,14 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Wykaz linii o znaczeniu państwowym ustanawia rząd specjalnym dekretem. Linie o takim znaczeniu pełnią ważne funkcje gospodarcze, obronne, społeczne lub ekologiczne. Finansowa odpowiedzialność za dobry stan tych linii spoczywa właśnie na państwie – ustawa mówi, że ma ono pokrywać wszelkie koszty remontów i inwestycji. Tymczasem praktyka jest dużo gorsza – w ostatnich 3 latach z budżetu Ø sfinansowano zaledwie jedną czwartą wydatków poniesionych na taki cel. Spółka zależna PKP Polskie Linie Kolejowe musiała pokryć z innych środków 3/4 kosztów tych napraw, remontów, modernizacji i nowych inwestycji, jakie zostały dokonane na liniach o znaczeniu państwowym.</p>
+        <p xml:id="p-2">Taki status ma 12 tysięcy kilometrów linii kolejowych – mniej więcej połowa ogólnej długości linii w Polsce. W ubiegłym roku na inwestycje na nich PKP przeznaczyło ponad miliard złotych, z czego z budżetu państwa pochodziło niespełna 300 milionów. Chcąc załatać dziurę powstałą w ten sposób, PKP musi przesuwać środki z innych źródeł.</p>
+        <p xml:id="p-3">Ta sprawa jest ważna nie tylko w kontekście traktowania przez państwo transportu kolejowego, który jest zaniedbywany. Jest ważna także z punktu widzenia samych podróżnych. Jeśli państwo nie przekazuje stosownych kwot na linie kolejowe, to niszczeją one i m.in. pociągi jeżdżą wolniej, więcej jest awarii itp. Jeśli kolei naprawia czy unowocześnia te linie własnym kosztem, to musi przesunąć niezbędne kwoty z innej działki, np. z dofinansowania zakupów czy remontu taboru, subsydiowania mniej popularnych połączeń itp. Czyli de facto mamy błędne koło – i warto pamiętać, że nie tylko sama PKP jest winna tego, że transport kolejowy działa w Polsce coraz gorzej.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

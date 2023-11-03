@@ -1,0 +1,18 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Kto zapłaci odszkodowanie?</p>
+        <p xml:id="p-2">Stwierdzono, że przeciek, w wyniku którego sąsiadowi zalało korytarz, nastąpił w moim mieszkaniu. PZU SA wezwał mnie więc do zapłaty odszkodowania, które wypłacił sąsiadowi, z tytułu umowy ubezpieczenia. Nie zgadzam się jednak z tą decyzją, bo sam o całej sprawie dowiedziałem się dopiero z pisma PZU. Co powinienem zrobić? – pyta Czytelnik.</p>
+        <p xml:id="p-3">Ubezpieczyciel musi wyjaśnić</p>
+        <p xml:id="p-4">Marian Jacczak, radca prawny, odpowiada: – Każdy, kto wyrządza drugiemu szkodę z własnej winy, zobowiązany jest do jej naprawienia. Skoro zakład ubezpieczeń, w ramach umowy ubezpieczenia mieszkania, wypłacił sąsiadowi odszkodowanie, to z tym dniem roszczenie przeciwko osobie trzeciej – sprawcy szkody – przechodzi na PZU. Zatem zasadnie domaga się on od Czytelnika zwrotu wypłaconego odszkodowania. Jednak Czytelnik, jak twierdzi, nie był przy ocenie szkody i przy ustaleniu wysokości jej naprawienia – likwidator szkód zakładu ubezpieczeń podjął decyzję jedynie w obecności pracowników działu technicznego spółdzielni mieszkaniowej. Jeżeli więc o wyrządzeniu szkody Czytelnik dowiedział się dopiero z wezwania do zapłaty wystawionego przez PZU, przysługuje mu prawo żądania wyjaśnień oraz ustalenia wszystkich okoliczności i wysokości odszkodowania – dane musi udostępnić zakład ubezpieczeń.</p>
+        <p xml:id="p-5">O ile zaś Czytelnik ma zawartą z PZU umowę ubezpieczenia mieszkania, zobowiązanym do naprawienia szkody będzie ubezpieczyciel.</p>
+        <p xml:id="p-6">Przed zawarciem umowy</p>
+        <p xml:id="p-7">Zawierając umowę ubezpieczenia mieszkania powinniśmy zawsze domagać się doręczenia ogólnych warunków ubezpieczenia mieszkań i dokładnie się z nimi zapoznać. Wtedy, gdy nastąpi zdarzenie powodujące szkodę, będziemy wiedzieli, w jakim terminie należy zawiadomić ubezpieczyciela i jakie zdarzenia są objęte jego odpowiedzialnością, a jakie nie. MIKO</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

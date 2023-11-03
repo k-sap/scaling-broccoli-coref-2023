@@ -1,0 +1,23 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">A co to ma wspólnego ze sprawą GPEC? - Po takiej kompromitacji władzę w mieście przejmą inni. A im teraz zależy na tym całym zamieszaniu - mówi nasz informator.</p>
+        <p xml:id="p-2">Czekamy na decyzje</p>
+        <p xml:id="p-3">- Sprawa GPEC może mieć właśnie taki podtekst - powiedział nam Zbigniew Czepułkowski. - Chodzi o miliony dolarów. Chociażby dlatego, że w momencie kiedy złożymy pozew w Holandii i poinformujemy o tym tamtejsze media, wartość akcji Heinekena po prostu musi spaść.</p>
+        <p xml:id="p-4">- To niepotrzebne mieszanie. GPEC nie ma nic do browaru i odwrotnie. Osoby zamieszane w obie sprawy po prostu starają się bronić - powiedział nam jeden z członków zarządu Grupy Żywiec.</p>
+        <p xml:id="p-5">Na decyzje prokuratury czekają także urzędnicy w gdańskim magistracie. - Każdy, kto dostanie prokuratorskie zarzuty wie, że jego kariera polityczna się kończy. Tu właśnie polityka wkracza na scenę - mówią urzędnicy.</p>
+        <p xml:id="p-6">A spektakl trwa.</p>
+        <p xml:id="p-7">Iwona Rodziewicz</p>
+        <p xml:id="p-8">Łukasz Wróblewski</p>
+        <p xml:id="p-9">Kłopoty w mieście</p>
+        <p xml:id="p-10">Paweł Adamowicz zaproponował w weekend UW wejście do koalicji rządzącej. Do obsadzenia był stołek Zbigniewa Czepułkowskiego, wiceprezydenta Gdańska, który na początku miesiąca podał się do dymisji oraz miejsce w prezydium. Unia odmówiła.</p>
+        <p xml:id="p-11">Unia natomiast zwołała wczoraj konferencję poświęconą sytuacji w mieście i GPEC. Był na niej Janusz Lewandowski, przewodniczący regionu pomorskiej UW.</p>
+        <p xml:id="p-12">- Kryzys w GPEC jest odzwierciedleniem szerszego zjawiska. To nie tylko trudności wewnętrzne, jakie ma w obecnej chwili klub radnych AWS i niemożliwość dogadania się rajców z tego ugrupowania - mówił Lewandowski. - To przede wszystkim głód nomenklaturowy, styl zarządzania, który się mści przez powoływanie do zadań osób niekompetentnych.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

@@ -1,0 +1,17 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Misiek04 no w sumie fakt... kobieta podejmujaca taka decyzje na pewno musi byc dojrzala. Szczerze to wątpie zeby zrobili komus taki zabieg w wieku 18 lat bo osoba taka nie jest tak naprawde przygotowana emocjonalnie, jej pewnie chodzi o to ze bedzie sie mogla kochac i nie bac sie ze wpadnie, a gdy dorosnie bedzie chciala miec jeszcze dzieci a wtedy bedzie juz za pozno... mysle w wieku okolo 35 lat na prewno kobieta jest przygotowana do swojej decyzji..</p>
+        <p xml:id="p-2">nika i o to chodzi, bo w wieku 37 lat kobieta nie ma juz wachan czy chce czy nie, ma juz pol zycia za soba , dzieci lub dziecko odchowane i bala by sie nastepnego macierzynstwa, wiec wybieraja takie kobiety metode podwiazania i spokoju juz do konca zycia, i mysle ze to madre rozwiazanie</p>
+        <p xml:id="p-3">motylek No w sumie..... powoli to do mnie dociera, ale tylko jeśli kobieta tego chce</p>
+        <p xml:id="p-4">nika oczywiscie bo przeciez nikt nie moze jej do tego zmusic, chyba ze ze wzgledow zdrowotnych lekarz uzna ze trzeba</p>
+        <p xml:id="p-5">motylek no tylko, ze to jest metoda tyylko dla dorosłych kobiet, a co do nastolatków to odpada... i bardzo dobrze.</p>
+        <p xml:id="p-6">Misiek04 no dokladnie, przeciez nikt nie moze cie zmusic do niczego.... wkoncu nie zyjemy juz w dawnych czasach ze kobiety nie maja prawa glosu. hehe teraz to mezdzczyzni pomalu je tracą</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

@@ -1,0 +1,16 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">- Nie. To prawdopodobnie Muongowie jeszcze.</p>
+        <p xml:id="p-2">Jeśli Muongowie, to chaty świadczyły o tym, jak potężny wpływ wywierał naród Tajów na swych sąsiadów.</p>
+        <p xml:id="p-3">Była to przyjemna wioska o kilkunastu solidnych, przeważnie nowych chatach bambusowych, rozrzuconych malowniczo na stoku nieco z dala od gościńca. Poranne słońce różowiło magicznym blaskiem wzgórze, na którym spośród chat wystrzelały palmy areki. Widziałem w tej podróży już niejeden zachwycający krajobraz, ale tu było nad wyraz ładnie. Takie bogactwo piękna chwytało: więc gotów byłem przysiąc sobie, że w drodze powrotnej postoję tu przez kilka dni i będę nurzał się w rozkoszy. Oczywiście chwalebny zamiar spalił na panewce, nie było potem czasu, ba, rajski zakątek minęliśmy w drodze powrotnej jakoś nie zauważony: jeszcze jeden raj utracony.</p>
+        <p xml:id="p-4">W tej wiosce żył lud przemyślny i dowcipny. Strumyk, toczący się szumnie przez wieś ze wzgórza ku dolinie, wykorzystano jako wydajne źródło energii mechanicznej. Brzegi strumienia po prostu usiane były co kilka lub kilkanaście kroków młynkami wodnymi wszelakich kształtów, stęporami do łuszczenia ryżu, tłukami samoczynnie i bez przerwy wykonującymi różną robotę za ludzi. To podpatrzyła wieś niezawodnie też u Tajów, mistrzów wysługiwania się cudzą pracą.</p>
+        <p xml:id="p-5">Z moimi bezpośrednimi towarzyszami podróży w gaziku, tłumaczem Tungiem, kierownikiem Dienem, duchem opiekuńczym Chungiem i kierowcą Hoajem, szybko się zaprzyjaźniłem, ale wcale nie mniej polubiłem resztę członków naszej wyprawy. Jeden w drugiego bycze to były chłopaki. Głęboko mnie ujął nigdy nie zmącony nastrój życzliwości i koleżeństwa, panującego między nami wszystkimi, i chociaż ja, kreatura niewdzięczna, w duchu czasem z lekka żartowałem sobie z mej cnotliwej, dziewczęcofobowej drużyny, przecież szczerym podziwem przejmował mnie ich duch solidarności i wręcz braterstwa. Jeden drugiemu ochoczo szedł na rękę i zawsze pomagał. Gdy tylko coś tam się psuło w ciężarówce, wszyscy wyskakiwali jak jeden mąż, reperowali i nie można było powiedzieć, że robili to indywidualnie.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

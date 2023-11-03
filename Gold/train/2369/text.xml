@@ -1,0 +1,16 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Bój o ostatnią kadencję</p>
+        <p xml:id="p-2">Nie wszystkim mieszkańcom Kenii udało się bez problemów wziąć udział w wyborach prezydenckich i parlamentarnych, jakie wczoraj odbyły się w tym kraju. W wielu punktach brakowało kart do głosowania, w innych - członków komisji. Wydaje się jednak, że ci mieszkańcy Mombasy (na zdjęciu), którzy pośpiesznie ruszyli do jednego z lokali, zdołali oddać głosy.</p>
+        <p xml:id="p-3">Kenijczycy poszli w poniedziałek do urn, by wybrać prezydenta kraju, deputowanych do parlamentu oraz przedstawicieli władz lokalnych. Według przedwyborczych sondaży duże szanse na reelekcję ma 73-letni prezydent Daniel arap Moi. W wyborach parlamentarnych zaś mogą zwyciężyć członkowie rządzącego Afrykańskiego Związku Narodowego Kenii (KANU), jedynego ugrupowania, którego kandydaci są obecni na listach wyborczych we wszystkich 8 prowincjach tego wschodnioafrykańskiego kraju. O 188 miejsc parlamentarnych ubiegały się 883 osoby z 23 partii.</p>
+        <p xml:id="p-4">Według DPA nie obyło się bez aktów przemocy, w których wyniku śmierć poniosły co najmniej trzy osoby. Według kenijskiej telewizji byli to członkowie rządzącego KANU. Od 1 grudnia, kiedy oficjalnie rozpoczęła się kampania wyborcza, w zamieszkach zginęło 14 osób.</p>
+        <p xml:id="p-5">Aby umożliwić 9 milionom uprawnionych do głosowania Kenijczyków udział w wyborach, władze ogłosiły poniedziałek dniem wolnym od pracy. Z powodu licznych problemów logistycznych głosowanie postanowiono przedłużyć do wtorku do godz.18.00, co spotkało się z krytyką partii opozycyjnych. Kandydat opozycji na prezydenta, Mwai Kibaki, powiedział, że partia rządząca manipuluje wyborami, by uzyskać jak najlepsze rezultaty. Wczoraj obserwatorzy zanotowali nieprawidłowości w większości z niemal 13 tysięcy punktów wyborczych - relacjonowały agencje. W stolicy kraju, Nairobi, niewiele lokali otworzono o czasie. Najczęściej powodem opóźnień było to, że do punktów nie zdołano dostarczyć kart do głosowania. Spóźniali się też członkowie komisji wyborczych. W wielu miejscach utworzyły się zatem długie kolejki.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

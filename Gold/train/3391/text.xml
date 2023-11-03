@@ -1,0 +1,14 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Droga, która czekała 23 lata</p>
+        <p xml:id="p-2">Po 23 latach sprawa uregulowania własności drogi prowadzącej na cmentarz parafialny w Żalnie doprowadzona została do pozytywnego finału. Jest ona teraz własnością gminy.</p>
+        <p xml:id="p-3">Droga na cmentarz parafialny w Żalnie, która funkcjonuje obecnie, została wytyczona umownie, jednak nieprawnie wiele lat temu. Celem Ø miało być ułatwienie dojazdu do działki, na której umiejscowiony jest cmentarz. Wyznaczona trasa zahaczała o dwie działki rolnicze będące w posiadaniu dwóch miejscowych gospodarzy: obecnie Jerzego Żmicha i Tadeusza Kłosowskiego. Sprawa uregulowania sytuacji na drodze prawnej ciągnęła się, jak informuje wójt Radosław Januszewski, przez 23 lata. Przez ten czas nie znaleziono konsensusu w związku ze sposobem prawnego przejęcia przez gminę części działek pod drogą. Problem ten wielokrotnie zgłaszany był podczas obrad sesji Rady Gminy w Kęsowie. Jednak dopiero od ubiegłego roku podjęto się radykalnych działań, by sprawę uregulowania własności doprowadzić do końca. Podczas lutowej sesji radni zagłosowali za uchwałą w sprawie zamiany i nabycia nieruchomości położonych w Żalnie. Dzięki niej urząd gminy mógł zawrzeć umowy przedwstępne z właścicielami gruntów oraz wystąpić do sądu o wpis notarialny. I tak gmina przekazała w użytkowanie Jerzemu Żmichowi i Tadeuszowi Kłosowskiemu działki o powierzchni 281 m2 i 289 m2 stanowiące drogę rolniczego użytkowania. W zamian za to otrzymała działki o powierzchni 644 m2 i 676 m2, które składają się na obecną drogę dojazdową do cmentarza. Różnica w metrażu działek została oszacowana i właściciele otrzymali dodatkowo pieniężną rekompensatę w wysokości 1500 zł i 1650 zł.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

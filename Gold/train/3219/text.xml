@@ -1,0 +1,17 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">sp0: ale panie pośle wiele zeznań mimo wszystko. na wiel. było wiele zeznań ciekawych i myślę że opinia publiczna która. dzięki transmisjom. z tych komisji mogła sobie wyrobić zdanie bez względu na późniejsze komentarze. polityków Platformy Obywatelskiej i sprzyjających im dziennikarzy</p>
+        <p xml:id="p-2">sp1: być może</p>
+        <p xml:id="p-3">sp0: taki był pewnie sens komisji śledczej</p>
+        <p xml:id="p-4">sp1: być może. ja ja ja doceniam ja doceniam pana punkt widzenia w tej sprawie ale chcę zwrócić uwagę na coś jeszcze innego jest tylu ludzi bardzo kompetentnych. mających olbrzymią wiedzę. na temat tego co się naprawdę zdarzyło w Polsce. i poza Polską. a są ludzie którzy pełnią bardzo wysokie funkcje na przykład w Stanach Zjednoczonych. w Kanadzie. którzy chcieliby podzielić się swoją wiedzą. z jakimś organem który byłby kompetentny i który by naprawdę serio w sposób długotrwały. i skuteczny zajmował się tą sprawą tymczasem po stronie polskiej nikogo takiego nie ma po stronie polskiej nikt się do niczego nie nie czuje zobowiązany myślę że powołanie tej komisji tego zespołu. jest z tego punktu widzenia celowe na pewno poprzemy komisję śledczą jeżeli. jeżeli będzie na to szansa z pewnością tak jak każdą inną formę działania ale. nikt nie chciał palcem kiwnąć przez cztery miesiące. teraz gdy powołaliśmy zespół. przerażanie wśród niektórych posłów jest tak wielkie że gotowi są użyć każdego słowa</p>
+        <p xml:id="p-5">sp0: no przerażenie panie pośle tak tak</p>
+        <p xml:id="p-6">sp1: żeby tylko. próbować zdyskredytować tę pracę jaką chcemy poświęcić. dla wyjaśnienia tej sprawy</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

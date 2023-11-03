@@ -1,0 +1,18 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">No, może jednak, skoro tu już jest, pod samym wysokościowcem, wjedzie i spróbuje. Może smarkata jeszcze nie dostała po uszach za brak świadectwa, lepiej nie zwlekać.</p>
+        <p xml:id="p-2">Wszedł po wewnętrznych schodkach i zatrzymał się przed tablicą z listą lokatorów. Jest! Jedwabiński Eugeniusz. Trzecie piętro.</p>
+        <p xml:id="p-3">Kiedy czekał, aż zjedzie winda, z wahadłowych drzwi parteru wyszedł wysoki cwaniak z grubą, bezczelną gębą.</p>
+        <p xml:id="p-4">- Jarek?! - wrzasnął za nim głos kobiety, pewnie Ø matki. Ale on tylko machnął ręką, splunął i przeszedł, potrącając stojącego spokojnie koło windy pana Jankowiaka. Tak jakby był on tylko przedmiotem zawadzającym w przejściu.</p>
+        <p xml:id="p-5">Z uczuciem goryczy w ustach, ze ściśniętym sercem, pan Jankowiak dotarł na trzecie piętro windą obdrapaną i poobtłukiwaną , aż przykro. Unikał patrzenia w lustro, przyśrubowane do ścianki na wysokości oczu. Stary człowiek, brzydki. Po co to oglądać.</p>
+        <p xml:id="p-6">Na trzecim piętrze było pusto i szaro - już wolał, prawdę mówiąc, swoją rozwalającą się kamienicę, bo tu człowiek czuł się po prostu jak w szpitalu. Długi korytarz z dwoma szeregami szarych drzwi doprowadził go pod mieszkanie Jedwabińskich. Postał chwilę niepewnie na wycieraczce, nasłuchując odgłosów, ale nic nie było słychać. Wyjął z portfela rozprostowane świadectwo. Zadzwonił. Nic. Cisza zupełna. Zadzwonił jeszcze raz, a że dzwonek był dosyć słaby - zastukał mocno.</p>
+        <p xml:id="p-7">Od razu otworzyły się drzwi po drugiej stronie korytarza, wychyliła się kobieta w szlafroku, popatrzała na niego ciekawie.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

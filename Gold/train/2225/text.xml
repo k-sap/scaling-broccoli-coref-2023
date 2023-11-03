@@ -1,0 +1,14 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Gdybyśmy nawinęli bardzo długi solenoid o małym przekroju, wtedy jeden jego koniec bardzo odległy od drugiego zachowywałby się w przybliżeniu jak pojedynczy biegun magnetyczny. Pole jego byłoby zbliżone do pola ładunku punktowego. Ale tylko zbliżone. Mianowicie wewnątrz solenoidu pole ma kierunek przeciwny niż na zewnątrz (rys. 3.16). Jeżeli byśmy obliczyli strumień tego pola przez zamkniętą powierzchnię obejmującą biegun cewki, to otrzymalibyśmy wartość zero! Przez powierzchnię tę bowiem tyle samo linii wychodzi na zewnątrz, co wchodzi do wnętrza solenoidu. Jest to zasadnicza różnica między polem elektrycznym i magnetycznym. Prawo to, zwane prawem Gaussa dla pola magnetycznego, jest słuszne dla dowolnej powierzchni zamkniętej w polu magnetycznym.</p>
+        <p xml:id="p-2">Inną klasę zjawisk wynikających z powiązania pól elektrycznego i magnetycznego stanowią zjawiska indukcji. Faraday stwierdził, że poruszając magnesem w pobliżu zamkniętej pętli z przewodnika, wytworzy w niej prąd elektryczny (rys. 3.17a). Oczywiście ten sam efekt otrzymamy, jeżeli pole magnetyczne będzie pochodzić od innej cewki z prądem poruszanej w pobliżu pętli (rys. 3.17b). Istotny jest przy tym zmienny strumień magnetyczny przechodzący przez pętlę. Zamiast zatem poruszać cewką z prądem, moglibyśmy zmieniać w niej natężenie prądu, indukując przez to również prąd w drugiej, ustawionej obok pętli (rys.3.17c).</p>
+        <p xml:id="p-3">Prawo rządzące tym zjawiskiem indukcji elektromagnetycznej zostało odkryte również przez Faradaya. Wiąże ono szybkość zmian strumienia magnetycznego z wielkością indukowanego prądu. Aby jednak mógł wystąpić ruch ładunków w pętli, muszą tam działać siły pochodzące od pola elektrycznego. Stwierdzamy zatem, że zmienny w czasie strumień magnetyczny wytwarza dokoła siebie wir pola elektrycznego, który wywoła prąd elektryczny, jeżeli w tym miejscu umieścimy pętlę z przewodnika (rys. 3.18). Krążenie tego pola po zamkniętej krzywej, obliczone podobnie jak uprzednio dla pola magnetycznego, jest teraz proporcjonalne do szybkości zmian strumienia magnetycznego objętego przez tę krzywą.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

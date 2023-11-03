@@ -1,0 +1,16 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Koszykarki RMKS UTEX awansowały do ekstraklasy. W finałowym meczu pokonały przeciwniczki z Poznania 71:59.</p>
+        <p xml:id="p-2">Miniony weekend był niezwykle szczęśliwy dla rybnickiego basketu.</p>
+        <p xml:id="p-3">Wyśmienicie spisały się podopieczne trenera Mirosława Orczyka, które w turnieju finałowym o awans do ekstraklasy nie przegrały żadnego meczu i w przyszłym sezonie rywalizować będą w najwyższej klasie rozgrywkowej koszykówki kobiet. Awansowali również koszykarze MKKS–u, tyle tylko, że o szczebel niżej.</p>
+        <p xml:id="p-4">Dziewczyny z charakterem</p>
+        <p xml:id="p-5">Od piątku do niedzieli w boguszowickiej hali ostro rywalizowały zespoły z Poznania, Bydgoszczy, Warszawy i Rybnika o prawo gry w ekstraklasie koszykówki kobiet w nadchodzącym sezonie. W przedmeczowych wypowiedziach trener Mirosław Orczyk nie ukrywał, że jego podopieczne czeka niezwykle zacięta rywalizacja. Przeczucia szkoleniowca potwierdziły się już w piątkowym meczu. Młoda i ambitna drużyna Kadusu Bydgoszcz mocno napędziła strachu rybniczankom, które musiały się napracować, żeby wygrać to spotkanie. Po obiecującym początku zakończonym rezultatem 19:7 nic nie wskazywało na późniejsze emocje. Bydgoszczanki w drugiej kwarcie zdobyły pod rząd 13 punktów, później ostro wymieniały „ciosy” i po 20 minutach prowadziły 29:27. Po przerwie kibicie zobaczyli zupełnie odmieniony zespół RMKS-u. Agresywna gra w obronie i lepsza skuteczność w ataku dała efekt w postaci bezpiecznej przewagi 52:33. Wystarczyło jednak kilka nieprzemyślanych akcji i bydgoszczanki sukcesywnie zaczęły odrabiać straty, jednak na całkowite odrobienie zabrakło czasu. Ostatecznie RMKS UTEX Rybnik pokonał Basket 25–Kadus Bydgoszcz 61:52.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

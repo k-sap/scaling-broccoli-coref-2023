@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Zdaniem przewodniczącego Wydziału II Karnego Sądu Rejonowego w Jędrzejowie Anatola Smorąga, nie było podstaw do wydania zakazu wykonywania przez podsądnego zawodu.</p>
+        <p xml:id="p-2">Podobnego zdania jest prezes Sądu Okręgowego w Kielcach Mirosław Gajek. - Jaki ma związek to, że oskarżony dopuścił się gwałtu z tym, że jest kierowcą i prowadzi działalność gospodarczą? Przecież bus jedynie posłużył mu jako miejsce do popełnienia przestępstwa. Takim samym miejscem mógł być pociąg. Czy wobec tego sąd powinien zakazać skazanemu jeździć pociągami? - pyta prezes. - Ten człowiek powinien stracić koncesję z racji posługiwania się bronią, a nie z powodu gwałtu. Ale o tym przecież nie sąd decyduje, tylko organa wydające zezwolenia na przewóz osób.</p>
+        <p xml:id="p-3">Karany? Nie szkodzi!</p>
+        <p xml:id="p-4">W Urzędzie Marszałkowskim w Kielcach, wydającym zezwolenia na przewóz osób, dowiedzieliśmy się, że nie ma przepisów, które osobom karanym nakazywałyby odbierać koncesje czy licencje. - Wiem, że to może wydawać się dziwne, ale tak stanowią przepisy. "Pyskówka" z policjantem, rzucenie niedopałka na ulicy to nie powód, by firma przewozowa nie mogła wozić ludzi - mówi Wiesław Młynarczyk, dyrektor Departamentu Infrastruktury Urzędu Marszałkowskiego w Kielcach. - Nawet gwałt nie jest do tego powodem. Chyba, że sąd zdecyduje o zakazie wykonywana zawodu czy prowadzenia działalności gospodarczej przez daną osobę, a tu tak się nie stało. Poza tym wyrok nie jest prawomocny. Nic nie stoi na przeszkodzie, by ten pan dalej jeździł i woził pasażerów.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

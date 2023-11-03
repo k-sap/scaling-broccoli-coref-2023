@@ -1,0 +1,19 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Zatwierdzony został także plan przebudowy sal intensywnej opieki kardiologicznej na tym oddziale.</p>
+        <p xml:id="p-2">Ciechanowski szpital znalazł się w ogólnopolskiej sieci szpitali promujących zdrowie. O związanych z tym działaniach opowiadała Agnieszka Kadecka, zastępca dyrektora ds. pielęgniarstwa.</p>
+        <p xml:id="p-3">- Niestety jesteśmy wciąż społeczeństwem wydającym ogromne kwoty na leczenie, a zapominającym o zdrowym stylu życia - skomentowała H. Romanow.</p>
+        <p xml:id="p-4">Przedstawiciele ciechanowskiego samorządu i miejscowych władz, z prezydentem na czele, zwiedzili Pracownię Hemodynamiki, Zakład Diagnostyki Obrazowej i Centrum Rehabilitacji. W tej pierwszej mogli zobaczyć przez szybę wykonywaną właśnie koronarografię, wykonywaną u pacjentów z niewydolnością wieńcową. Badanie na monitorze komputera nadzorował Dominik Wretowski ze Szpitala Bielańskiego.</p>
+        <p xml:id="p-5">- Od pierwszych dni marca, gdy pracownia została uruchomiona, w ciechanowskim wykonano już ponad 240 takich badań i ok. 100 zabiegów anglioplastyki - wyjaśnił lekarz.</p>
+        <p xml:id="p-6">Po oddziale kardiologicznym oprowadzał jego ordynator Bogdan Zbyszyński, który opowiadał o nowych zakupach sprzętowych i mającym się wkrótce rozpocząć remoncie sal intensywnej opieki kardiologicznej, powiązanym z zakupem nowego wyposażenia. Szacował, że na ten cel potrzeba ok. 1 mln zł.</p>
+        <p xml:id="p-7">Radni podziwiali także wyposażenie Centrum Rehabilitacji oraz Pracowni Diagnostyki Obrazowej, z najdroższym jej urządzeniem, niezwykle wszechstronnym w diagnostyce 16-rzędowym tomografem komputerowym.</p>
+        <p xml:id="p-8">- Na takie badanie w naszym szpitalu czeka się maksymalnie 2 tygodnie. Nic dziwnego, że przyjeżdżają do nas pacjenci nawet z Warszawy. Tłumaczą, że oczekiwanie na taką usługę w ich mieście, wykonywaną bezpłatnie w ramach kontaktu z Narodowym Funduszem Zdrowia, trwa kilka miesięcy - wyjaśniła Janina Ślączka, kierownik Pracowni Diagnostyki Obrazowej.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

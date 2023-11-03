@@ -1,0 +1,12 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Nabierają tempa przygotowania Sygnału Włosienicy do rundy wiosennej. Po jesiennych zmaganiach sytuacja klubu w tabeli A klasy nie jest ciekawa. Sygnał zajmuje przedostatnie, 13. miejsce i ma zaledwie sześć punktów przewagi nad Zaborzanką Zaborze. Jesienią w 13. kolejkach zdołał wygrać zaledwie trzy pojedynki, w tym tylko jeden na własnej murawie. 4:3 pokonał Zaborzankę. W wyjazdowych meczach zwyciężył Zatorzankę 1:0 oraz Brzezinę Osiek 2:0. Wiosną sytuacja podopiecznych Kazimierza Studzińskiego może być mniej ciekawa. Wiele wskazuje na to, że drużynę, przynajmniej na czas rundy wiosennej, opuści jeden z lepszych zawodników, Przemysław Szpiegla. – Zgłosiła się do nas po niego Iskra Brzezinka. Wypożyczyliśmy zawodnika. Do końca lutego będzie trenował z nowym klubem. Jeśli się sprawdzi, to zostanie w Iskrze na czas całej rundy. W nowym zespole spisuje się nieźle. W sparingach z Garbarzem Zembrzyce strzelił bramkę, a w kolejnym teście Brzezinki z LKS Porąbka był czołową postacią na murawie – wyjaśnia Mieczysław Grubka z LKS Sygnał Włosienica. Innych ruchów kadrowych działacze Sygnału nie przewidują. Już wiadomo, że drużyna nie będzie miała żadnych wzmocnień. Ekipę nadal trenuje Kazimierz Studziński, który w połowie ubiegłego roku ponownie objął drużynę. Przygotowania do zbliżających się rozgrywek piłkarze Włosienicy rozpoczęli w połowie stycznia. Trenują trzy razy w tygodniu w sali gimnastycznej. Ponadto zaliczyli już kilka sparingów. – Te są lepsze niż ćwiczenia, bo zespół ma okazję się zgrać – zapewnia Mieczysław Grubka. Dwa mecze Sygnał rozegrał w trudnych warunkach na ośnieżonym boisku. Kolejny w sali gimnastycznej. Ten ostatni z Głębowicami. Padł remis 1:1. W Harmężach Włosienica pokonała miejscowych 2:1, a w Rajsku zremisowała 1:1. W najbliższą niedzielę o godzinie 14 podejmie na własnej murawie Głębowice. – Do rozpoczęcia rozgrywek mamy zaplanowane sparingi w każdą sobotę lub niedzielę – dodaje Grubka. (taj)</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

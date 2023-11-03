@@ -1,0 +1,22 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Trudno jednak przewidzieć, czy to się uda. Najbardziej skuteczni kontrolerzy przed podwyżką kar za jazdę na gapę zarabiali bowiem nawet kilka tysięcy złotych miesięcznie.</p>
+        <p xml:id="p-2">- Czasami można było zarobić nawet sześć tysięcy złotych, mimo że podstawa wynosiła niewiele ponad tysiąc. Nasza praca należy do mało przyjemnych i jest niebezpieczna. Rekompensatą były zarobki i to się opłacało - opowiada jeden z poznańskich kontrolerów, pragnący zachować anonimowość.</p>
+        <p xml:id="p-3">Pracownicy MPK, którzy zajmują się sprawdzaniem biletów w poznańskich pojazdach, są najczęściej atakowaną grupą przez niezadowolonych pasażerów. W 2006 roku doszło do 45 incydentów z udziałem kontrolerów MPK, rok później - do 30.</p>
+        <p xml:id="p-4">- Kiedyś zostałem rozpoznany w pubie przez pasażera, któremu kilka dni wcześniej wypisałem mandat. Nie było to miłe doświadczenie - wspomina inny kontroler.</p>
+        <p xml:id="p-5">Coraz mniej osób jeździ bez ważnego biletu</p>
+        <p xml:id="p-6">Połowa z 60 "kanarów" chora lub na urlopie</p>
+        <p xml:id="p-7">Jak to jest w innych miastach</p>
+        <p xml:id="p-8">Zupełnie inny system wynagradzania kontrolerów zastosowali w swoich przedsiębiorstwach przewoźnicy miejscy z Łodzi, Krakowa, Wrocławia czy Gdańska.</p>
+        <p xml:id="p-9">Krakowskie MPK w drodze przetargu wyłoniło trzy firmy, które zajmują się kontrolami w pojazdach. Pracownicy miejskiego przewoźnika jedynie szkolą i rozliczają kontrolerów, którzy są zatrudniani przez jedną z tych trzech firm.</p>
+        <p xml:id="p-10">- My płacimy danej firmie stałą wcześniej uzgodnioną kwotę i to oni zajmują się wynagradzaniem kontrolerów - wyjaśnia Marek Gancarczyk, rzecznik prasowy krakowskiego MPK.</p>
+        <p xml:id="p-11">Podobnie jest w Gdańsku. Tamtejszy Zarząd Transportu Miejskiego wyłonił jednak w drodze przetargu jedną firmę, której powierzył kontrole biletowe. Całkowity zysk z mandatów wpływa do kasy Zarządu Transportu Miejskiego, który z kolei płaci tej firmie ustaloną kwotę. Tak samo sytuacja wygląda w Łodzi.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

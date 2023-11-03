@@ -1,0 +1,16 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Ten program powstaje. Dzięki pomysłowi Sławka Nowaka rozpisywany jest na 100, 300, 1000 i 3000 dni. O 2015 r. trzeba mówić w innych kategoriach niż o 2010 r., ale przy okazji stu dni rządu premier i o tym horyzoncie powie. Wzrost gospodarczy też nie jest dla nas złotym cielcem. Warunkiem wzrostu jest produktywność, warunkiem produktywności są kapitały społeczne, a ich tworzenie wymaga pieniędzy, których źródłem jest wzrost. Nie da się tego rozdzielić.</p>
+        <p xml:id="p-2">Ale jak przejść Rubikon myślenia resortowego?</p>
+        <p xml:id="p-3">Z pokorą mówię, że odpowiedzi szukam głównie analizując doświadczenia rządów Blaira. Ciągle słyszę, że na coś prawo nie pozwala. Więc fajerwerków nie będzie. Ale jeżeli popracujemy nad nową formułą rządzenia, to ją zbudujemy z pożytkiem dla Polski. Ministerstwa spisały już swoje zamierzenia w tych czterech horyzontach. Teraz trzeba zacząć się spotykać, żeby przemyśleć różne interakcje. Potrzeba pewnie kilku dobrych lekcji - Ø dyskusji, Ø wymiany zdań, Ø wspólnego uczenia się.</p>
+        <p xml:id="p-4">Czego PO nie zrobiła w opozycji.</p>
+        <p xml:id="p-5">W polskich warunkach tego się nie da zrobić w opozycji. A jeżeli nie zaczniemy się uczyć nowego rządzenia, myślenia o cenie i zyskach realizowanych zadań, to będzie tak jak zawsze. W związku z Euro 2012 poprosiłem np. o bilans zasobów ludzkich. Przyjęto to ze zdziwieniem. Ale już się robi. Wcześniej mówiło się, że do pracy przyjadą Ukraińcy. Potem, że się przywiezie Chińczyków. To były pomysły z kapelusza. Żadna firma nie może tak działać. Państwo też. A potem zapytam: jak przy Euro mogą się przydać spółdzielnie socjalne, czyli ludzie trudniej wchodzący na rynek pracy.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

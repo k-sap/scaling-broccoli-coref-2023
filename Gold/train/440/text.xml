@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Temat aniołów powraca także w najważniejszym obecnie katechizmie, którym jest Katechizm Kościoła Katolickiego, zatwierdzony przez papieża Jana Pawła II 11 października 1992 roku. Uczy on, że "istnienie istot duchowych, niecielesnych, które Pismo święte nazywa zazwyczaj aniołami, jest prawdą wiary. Świadectwo Pisma świętego jest tak oczywiste, jak jednomyślność Tradycji" (328). Trosce aniołów powierzony został przez Bożą Opatrzność kosmiczny, społeczny i religijny porządek wielości narodów (por. 57). Katechizm przypomina stałą prawdę Kościoła, że "aniołowie są obecni od chwili stworzenia i w ciągu całej historii zbawienia, zwiastując z daleka i z bliska to zbawienie oraz służąc wypełnieniu zamysłu Bożego. Oto niektóre przykłady: zamykają raj ziemski (por. Rdz 3, 24), chronią Lota (por. Rdz 19), ratują Hagar i jej dziecko (por. Rdz 21, 17), powstrzymują rękę Abrahama (por. Rdz 22, 11), pośredniczą w przekazywaniu Prawa (por. Dz 7, 53), prowadzą lud Boży (por. Wj 23, 20-23), zwiastują narodziny (por. Sdz 13) i powołania (por. Sdz 6, 11 24; Iz 6, 6), towarzyszą prorokom (por. 1 Krl 19, 5)". Kiedy natomiast "nadeszła pełnia czasów", "archanioł Gabriel zwiastuje narodzenie Poprzednika oraz narodzenie samego Jezusa (por. Łk 1, 11. 26)" (332).</p>
+        <p xml:id="p-2">Papież Jan Paweł II wyliczał cały szereg zadań, jakie pełnią aniołowie, zarówno w odniesieniu do Boga, jak również w relacji do człowieka. Papież uczył, że aniołowie adorują Boga, ujawniają Bożą Opatrzność, pośredniczą między Bogiem a ludźmi, są stróżami człowieka, zwiastują ludziom wolę Boga, uczestniczą w dziejach zbawienia ludzkości itd. Nawiązując do posługi adoracji Boga, mówił:</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

@@ -1,0 +1,16 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Wczoraj p. Kowalczyk potwierdził wiadomość Anielki. Polska ma należeć do strefy wpływów angielskich. Województwo lwowskie, tarnopolskie i stanisławowskie mają należeć do Polski. Nie spałam całą noc. Całą noc mówiłam: "Te Deum Laudamus". Biedny, męczeński Lwów zatopiony w beznadziejności.</p>
+        <p xml:id="p-2">16 II [1945]</p>
+        <p xml:id="p-3">Krowa się cieli, więc nie mamy mleka, od dwu tygodni nie mamy też cukru i słoniny. Jerzy bardzo schudł, ja również trochę. Widać, że nawet najlepszy obiad nie wystarcza. Wciąż jeszcze nie ma kontaktu z Krakowem, mimo że są tu ludzie zainteresowani i obrotni. Pozostawałaby droga przez Lublin, gdzie może u jakiegoś profesora można by odpocząć. [...] Rozcięłam moje płótno i wyprałam połowę na plecak. Jutro zabiorę się do szycia.</p>
+        <p xml:id="p-4">19 [II 1945]</p>
+        <p xml:id="p-5">Zima. Mróz. Sytuacja dość beznadziejna. Ludzie, którzy wybrali się byli w drogę do Lublina - wracają z połowy drogi. Dotąd nikt jeszcze nie przybył z Krakowa. Szoferzy bolszewicy, którzy zabierają ludzi na auta, podwożą ich kilkanaście kilometrów, następnie obrabowują. [...] J. wczoraj powiedział: "Czuję, że już mnie nie kochasz. To młodość opuściła cię, razem z możnością żywego odczuwania." Nigdy się nikt więcej nie mylił. Cierpienie jest najżywszą formą odczuwania, a w ciągu tych dwu lat, cierpiałam wszystko, co człowiek nieszczęśliwy w miłości przecierpieć może. [...]</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Zdaniem Andrzeja Szymkowiaka, dyrektora Zarządu Dróg Miejskich, postawienie progu spowalniającego na Młynarskiej nie było możliwe technicznie. Urzędnicy znaleźli inne wyjście – wprowadzili latem 2006 roku ruch dwukierunkowy na sąsiedniej ul. Paderewskiego. Jej mieszkańcy są oburzeni, bo teraz jeszcze trudniej im rano wyjechać do pracy. Samochody dostawcze utrudniają wyjazd z parkingu.</p>
+        <p xml:id="p-2">– To cud, że jeszcze nie było wypadków – dziwi się Jan Piotrowski z ul. Paderewskiego. – Ruch jednokierunkowy wprowadzono tu w latach 70. właśnie po serii stłuczek. Chyba teraz też musimy poczekać, aż urzędnicy się opamiętają.</p>
+        <p xml:id="p-3">Interpelację o przywrócenie ruchu jednokierunkowego obiecał złożyć Adam Wierzbicki. – Jeśli mieszkańcy chcą powrotu do poprzedniej organizacji, a takie dostaję sygnały, to będę popierał tę inicjatywę i szybko przekażę interpelację prezydentowi – mówi Robert Kropiwnicki, przewodniczący rady miejskiej.</p>
+        <p xml:id="p-4">– Chcemy zmniejszenia ruchu i ulicy jednokierunkowej – domagają się Anna i Mateusz Bensz oraz Mirosława Abrolat.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

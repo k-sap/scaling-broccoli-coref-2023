@@ -1,0 +1,18 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Primera División - Asociación Argentina de Football</p>
+        <p xml:id="p-2">Mistrzem Argentyny w roku 1923 w ramach rozgrywek organizowanych przez federację piłkarską Asociación Argentina de Football został klub Boca Juniors Buenos Aires, natomiast tytuł wicemistrza Argentyny zdobył klub Huracán Buenos Aires. W tym sezonie udało się rozegrać jedynie około 2/3 przewidzianych meczów (aż 182 mecze nie zostały rozegrane) i w końcu by wyłonić mistrza konieczne było rozegranie w 1924 roku aż czterech meczów barażowych. Kluby Estudiantes La Plata i Sportivo Palermo przeszły do konkurencyjnej federacji Asociación Amateurs de Football . Na ich miejsce do pierwszej ligi awansował klub Sportsman. Liga zmniejszyła się z 23 do 22 klubów.</p>
+        <p xml:id="p-3">Mecze chronologicznie</p>
+        <p xml:id="p-4">Końcowa tabela sezonu 1923 ligi Asociación Argentina de Football</p>
+        <p xml:id="p-5">Ponieważ do końca roku 1923 zdołano rozegrać około 2/3 meczów w styczniu 1924 roku dwa najlepsze w tabeli kluby zgodziły się rozegrać na nautralnym terenie mecze barażowe o tytuł mistrza Argentyny. Mistrzem Argentyny został klub Boca Juniors Buenos Aires.</p>
+        <p xml:id="p-6">Primera División - Asociación Amateurs de Football</p>
+        <p xml:id="p-7">Mistrzem Argentyny w roku 1923 w ramach rozgrywek organizowanych przez federację piłkarską Asociación Amateurs de Football został klub San Lorenzo de Almagro Buenos Aires, natomiast tytuł wicemistrza Argentyny zdobył klub Independiente Buenos Aires. Przed następnym sezonem z konkurencyjnej federacji Asociación Argentina de Football dołączyły dwa kluby - Estudiantes La Plata i Sportivo Palermo, ponadto awansował Liberal Argentino. Ponieważ nikt nie spadł liga powiększyła się z 21 do 24 klubów.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

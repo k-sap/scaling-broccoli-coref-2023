@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">- To idealny samolot dla aeroklubów - przekonuje Tomek. - Pali zaledwie 11 litrów na godzinę i jest w eksploatacji kilkakrotnie tańszy niż stosowane obecnie maszyny. Pochwały fachowców nie gwarantują jednak sukcesu na rynku. Polskie aerokluby są niezwykle biedne, zakup informacyjnej serii pięciu AT-3 sponsorowała Telekomunikacja Polska. Powoli jednak dochodzi do pierwszych transakcji, po jednym samolocie kupiły aerokluby warszawski i wrocławski, a dębliński i pilski szykują się do zamówienia, podpisywane są umowy za granicą. Potencjalny rynek jest olbrzymi, z 48 tys. latających na świecie maszyn tej klasy 15-18 proc., a więc ponad 7 tys., wymienia się co roku na nowe. - Zdobyć choćby tylko 5 proc. tego rynku! - marzy Antoniewski.</p>
+        <p xml:id="p-2">Patriotycznie czy praktycznie?</p>
+        <p xml:id="p-3">Przebić się na zachodni rynek jest bardzo trudno. Dlatego wielu konstruktorów porzuca narodową dumę, rezygnuje z plakietki Made in Poland i handluje swoimi produktami pod zachodnimi markami. Na Zachodzie wolno sprzedawać samoloty nie ponosząc horrendalnych kosztów ich certyfikacji pod warunkiem, że nabywca będzie używał maszyny wyłącznie do celów prywatnych.</p>
+        <p xml:id="p-4">Centralna Szkoła Lotniczo-Techniczna Aeroklubu Polskiego w Krośnie jest największym w Polsce producentem i eksporterem samolotów w najpopularniejszej wśród amatorów klasie ultralight (UL - ultralekkie). - W 1989 r. nawiązaliśmy współpracę z niemiecką firmą B+F Technik GmbH i zaczęliśmy dla niej produkować samolot FK-9, potem doszły kolejne modele: dwupłatowy FK-12 Comet i dolnopłat FK-14 - wyjaśnia dyrektor CSLT Zenon Bałaga. - Dotychczas wyprodukowaliśmy już ponad 260 maszyn, praktycznie wszystkie trafiły do Niemiec. Gdy przekroczymy próg 300 sztuk, otworzy się lukratywny rynek części zamiennych.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

@@ -1,0 +1,16 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">- Dziękuję, panie Lituńczak. Zaraz przyjdę z narzeczoną. Głowa znikła. Zocha zapytała, co to za jeden, czego chce? - Właściwie nazywa się on inaczej: Li Tuo... i jeszcze coś nie do wymówienia. Dlatego wołamy na niego zwyczajnie: Lituńczak. Chodźmy, zobaczysz grę, taką grę, że karty czy wyścigi to szczeniak!</p>
+        <p xml:id="p-2">W niewielkiej izbie, także podobnej do celi, gdzie pod ścianą piętrzyły się prycze i czerwony czworokątny lampion zwisał nad okrągłym stołem - przywitał ich Lituńczak i kilku Chińczyków tak samo grzecznych i cichych.</p>
+        <p xml:id="p-3">Na stole leżały srebrne złotówki, a pośrodku sterczała piramidka bilonu.</p>
+        <p xml:id="p-4">Chińczycy ustawili się dookoła stołu w równych odstępach, trzymając na krawędzi maleńkie pudełeczka jak do zapałek, oklejone zielonym papierem z czarnymi znaczkami na wierzchu.</p>
+        <p xml:id="p-5">Lituńczak cicho gwizdnął. Na to hasło gracze błyskawicznym ruchem wyrzucili z pudełek po karaluchu. Karaluchy pobiegły na wyścigi do monet, a spotkawszy się zaczęły się bić. Stół zamienił się w pole walki. Od czasu do czasu wyciągały się ręce z długimi paznokciami, chwytały monetę bezszelestnie szeleściły tylko karaluchy po stole. Ta cisza dławiła. Żeby choć jeden odezwał się, coś zawołał! Ale usta graczy były zaciśnięte, twarze skamieniałe, tylko oczy płonęły coraz mocniej i ciemniejsze plamy wypieków występowały na zapadniętych policzkach - i to wszystko po stokroć bardziej podniecało niż wszelki hazard, jaki dotychczas Zocha widziała w kinie.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

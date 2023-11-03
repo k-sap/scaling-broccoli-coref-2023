@@ -1,0 +1,19 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Czy bezdech w czasie snu może być niebezpieczny?</p>
+        <p xml:id="p-2">– Konsekwencją bezdechu sennego jest niedotlenienie organizmu w czasie snu, co w następstwie daje zmianę metabolizmu na beztlenowy. Organizm domaga się diety węglowodanowej, co w rezultacie doprowadza do otyłości, przedwczesnej miażdżycy, nadciśnienia, cukrzycy, niewydolności mięśnia sercowego. Jak najszybciej należy zgłosić się na konsultację u lekarza laryngologa.</p>
+        <p xml:id="p-3">Jakie zabiegi laryngologiczne stosuje się w leczeniu bezdechu?</p>
+        <p xml:id="p-4">– U dzieci są to zabiegi: zmniejszenia masy migdałków podniebiennych oraz usunięcie migdałka gardłowego, w wyjątkowych sytuacjach – operacje plastyczne przegrody nosa. U dorosłych usuwa się migdałki podniebienne, przeprowadza operacje przegrody nosa, operacje plastyczne podniebienia miękkiego oraz operacje zmniejszające masę języka. W większości przypadków zabiegi te dają znaczącą poprawę.</p>
+        <p xml:id="p-5">Jednym z poważniejszych problemów związanych ze snem jest bezdech. Często towarzyszy chrapaniu. Niedotlenienie spowodowane bezdechem jest przyczyną zaniku komórek mózgowych, zwiększa się ryzyko powstania chorób serca, nadciśnienia, cukrzycy typu II. O bezdechu mówimy, kiedy przerwy w oddychaniu w czasie snu zdarzają się od 5 do 15 razy w ciągu godziny i trwają dłużej niż 10 sekund. Bezdech koniecznie trzeba leczyć. Stosuje się zabiegi laryngologiczne, redukcję nadwagi, a także podawanie powietrza ze specjalnego aparatu.</p>
+        <p xml:id="p-6">Jak przestać chrapać?</p>
+        <p xml:id="p-7">Śpij na boku, aby drogi oddechowe były otwarte. Dobrym pomysłem jest przyczepienie do pleców pidżamy małej piłeczki, uniemożliwiającej obrót na wznak w czasie snu.</p>
+        <p xml:id="p-8">Unikaj układania wysokich poduszek.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

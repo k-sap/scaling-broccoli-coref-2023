@@ -1,0 +1,16 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">- Sporadycznie. Większość uważa, że jeśli zęby są wyleczone, to już jest dobrze. Rzadko ktoś decyduje się na to, by zrobić sobie wszystkie zęby porcelanowe w odcieniu, jaki sobie zażyczy. Zabieg ten polega na oszlifowaniu własnych zębów i nałożeniu na nie porcelanowych koron. Są to drogie usługi. W zależności od zastosowanej technologii jeden taki ząb kosztuje 600 lub 1000 złotych. Decydują się na to osoby, które mają brzydkie zęby, z diastemami, czyli dużymi przerwami. Efekt Ø jest bardzo dobry. Niefachowiec nie pozna, że to nieprawdziwe zęby.</p>
+        <p xml:id="p-2">- Kto najczęściej decyduje się na poprawę wyglądu zębów?</p>
+        <p xml:id="p-3">- Głównie są to kobiety w średnim wieku, ale także mężczyźni. Ta decyzja jest często związana z pracą. Ludzie coraz częściej doceniają, jak ważny jest wygląd, kiedy się reprezentuje firmę. Najpierw kupuje się porządniejsze ciuchy, potem myśli o tym, by mieć ładniejszy uśmiech.</p>
+        <p xml:id="p-4">- Czy służyć ma też temu modna na Zachodzie biżuteria nazębna?</p>
+        <p xml:id="p-5">- To typowa ekstrawagancja. Decydują się na to osoby o pięknym uzębieniu, które w ten sposób chcą jeszcze bardziej podkreślić ładny uśmiech. Jest to dosłownie biżuteria: złote serduszka czy łezki, czasem z diamentem, czy rubinem w środku, naklejane na zęby za pomocą środków używanych w stomatologii. Dla zębów jest to nieszkodliwe i jeśli tylko posiadaczowi tych ozdób znudzą się, bez problemu można je usunąć. Sporo młodych łodzian pyta się o to, ale jak dotąd, nikt się jeszcze nie zdecydował.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

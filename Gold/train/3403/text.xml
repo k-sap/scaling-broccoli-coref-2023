@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Chato powtarza w pamięci złożoną w Moskwie po rosyjsku przysięgę Hipokratesa. Kiedy sekretarka wywozi Loco z gabinetu, Chato rzuca na pożegnanie: - Tym razem to pan będzie do mnie wracał.</p>
+        <p xml:id="p-2">Akcja na Teoponte</p>
+        <p xml:id="p-3">Strzelać musieli wszyscy. Tak uczył Che Guevara, którego boliwijski dziennik znali niemal na pamięć. Zdezerterowali, ukradli jedzenie, porzucili rannych, więc musieli zginąć. Ale jednak nie było łatwo strzelić przyjacielowi w głowę. A Chato i Peruchino - jego osobisty adiutant - byli przyjaciółmi. Były takie chwile w poprzednich miesiącach, kiedy tylko oni wiernie trwali przy gevarystowskiej idei. We dwóch napadali na banki, żeby zdobyć pieniądze na organizację. Od przeszło dwóch miesięcy błądzili razem po selwie. Razem na śmierć i życie. Obserwowali załamania i dezercje kolejnych towarzyszy. Nasłuchiwali komunikatów cenzurowanego radia, żeby wyłowić nazwiska schwytanych. Nazwisko podane w radiu było jak nekrolog, bo wojsko zabijało złapanych partyzantów.</p>
+        <p xml:id="p-4">Kiedy we wrześniu 1969 r. Inti został zabity, kierownictwo partii uciekło do Argentyny. Chato - szeregowy członek - odmówił wyjazdu. Postanowił samotnie wykonać testament brata pisany na krótko przed śmiercią. Tytuł testamentu "Volvimos a las montanas" - "Powróćmy w góry". Stopniowo odnajdowali się kolejni towarzysze. W końcu się okazało, że zostało dwunastu. Jedenastka zdecydowała, że Chato będzie dowódcą. Postanowili działać całkiem na własną rękę. Bez poparcia partii i zagranicznych przyjaciół, którzy zdradzili Coco, Che i Intiego. W La Paz napadli na konwój pieniędzy z Narodowego Browaru Boliwijskiego. Robili ekspropriacje w różnych lokalnych bankach. Po roku, 19 sierpnia 1970 r., zajęli górnicze miasto Teoponte.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

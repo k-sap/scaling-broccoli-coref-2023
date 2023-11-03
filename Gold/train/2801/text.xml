@@ -1,0 +1,14 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Jarpen Zigrin Czy zginął zabity przez polskich chłopów, czy z ręki jednego z polskich rycerzy, co wiemy na ten temat?</p>
+        <p xml:id="p-2">Kadrinazi A dlaczego miałby zginąć z ręki chłopow? Piechota polska nie brała przecież udziału w bitwie...</p>
+        <p xml:id="p-3">Tofik CYTAT "A dlaczego miałby zginąć z ręki chłopow? Piechota polska nie brała przecież udziału w bitwie..." I na tym kończy się dyskusja. Nie można zginąć bowiem z ręki kogoś, kogo w danym miejscu (gdzie się aktualnie przebywa) nie ma. W bitwie uczestniczyła piechota krzyżacka, ale ta piechota to czeladź obozowa, wykorzystana w (nieudanej skądinąd) obronie obozu. Innego rodzaju piechoty po obydwu stronach nie było. Pogląd, ażeby mistrza zabili zwykli chłopi spopularyzował przede wszystkim Matejko, ale wątek chłopski na jego obrazach nie jest rzadki, vide wprowadzenie chłopa przez Modrzewskiego w trakcie zawierania unii lubelskiej ("Unia lubelska"). I tutaj także, chciał podkreślić i nieco wywyższyć rolę chłopstwa ws. Grunwaldu. Nie wiadomo jak jest z Sienkiewiczem, ten co prawda napisał, że ciało mistrza pokryło "mrowie przybranych w skóry wojowników", co sugerowałoby, że to chłopi, choć mogli to być Litwini lub Tatarzy (ci najbiedniejsi), którzy na chwilę zeszli z koni lub po prostu przejechali się po mistrzu konno... Ale takie dywagacje są pozbawione sensu. IMHO Ulryk mógł zginąć z ręki powracającego Witolda lub którejś z chorągwi prawego skrzydła koronnego (gończa lub czeska).</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

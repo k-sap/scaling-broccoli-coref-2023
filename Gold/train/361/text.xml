@@ -1,0 +1,32 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">2. Zaznacz wszystkie dostępne sterowniki i kliknij OK.</p>
+        <p xml:id="p-2">3. Zaznacz pole Zaznacz dla wejścia, z którego chcesz nagrywać.</p>
+        <p xml:id="p-3">Rejestracja właściwa</p>
+        <p xml:id="p-4">Co prawda o zaawansowanej rejestracji napiszemy w dalszej części, jednak jedną "zaawansowaną" opcję powinieneś poznać. Niebagatelną informacją dla Cubase jest to, czy chcesz dokonać nagrania mono ( ELI) czy stereo (|Q).</p>
+        <p xml:id="p-5">Ćwiczenie 4.2.</p>
+        <p xml:id="p-6">Nagrywamy próbkę audio.</p>
+        <p xml:id="p-7">1. Stwórz ścieżkę audio.</p>
+        <p xml:id="p-8">2. Nagrywać będziesz w stereo.</p>
+        <p xml:id="p-9">3. Upewnij się, że przycisk aktywacji nagrywania ścieżki jest włączony.</p>
+        <p xml:id="p-10">4. Ustaw obydwa lokatory na początku ścieżki. (Zapomniałeś, jak to zrobić? Ustaw więc linię czasu na początku ścieżki i naciśnij Ctrl+1 oraz Ctrl+2).</p>
+        <p xml:id="p-11">5. Upewnij się, że wszystkie przyciski na panelu Transport Panel są wyłączone.</p>
+        <p xml:id="p-12">6. W Transport Panel kliknij Rec lub naciśnij * na klawiaturze numerycznej.</p>
+        <p xml:id="p-13">7. Powiedz "Grzegorz Brzęczyszczykiewicz".</p>
+        <p xml:id="p-14">8. Naciśnij Spację, wspomnianą gwiazdkę (*) lub kliknij Stop.</p>
+        <p xml:id="p-15">Kontrola jakości</p>
+        <p xml:id="p-16">Pozostaje odsłuchać rezultat Twojego nagrania. Udało się? Gratulacje!</p>
+        <p xml:id="p-17">Nagrywanie MIDI</p>
+        <p xml:id="p-18">Ponieważ nie wiemy, czy dysponujesz instrumentem MIDI, opiszemy dwa sposoby "wprowadzania danych" MIDI:</p>
+        <p xml:id="p-19">- za pomocą tegoż instrumentu;</p>
+        <p xml:id="p-20">- za pomocą myszy - zapisem "taśmy perforowanej".</p>
+        <p xml:id="p-21">Nawet jeśli posiadasz instrument MIDI, zalecamy lekturę drugiej części - wiedza ta najprawdopodobniej okaże się przydatna.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

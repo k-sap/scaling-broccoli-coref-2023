@@ -1,0 +1,14 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Byłam załamana i u kresu wytrzymałości. Półroczny okres zwolnień lekarskich upływał, więc zdecydowałam się na szpital, uwierzyłam we wszystko i poddałam się dalszemu leczeniu. W maju 1991 r, a więc po półtora roku leczenia ambulatoryjnego zostałam przyjęta na oddział reumatologii. Trwające przez ten okres leczenie nie przyniosło żadnego efektu. Do szpitala przyjęta byłam z wynikami OB - 42/57. Nie stwierdzano dodatniego odczynu Walera-Rosego w żadnym badaniu, ani podwyższonego ASO. W szpitalu dawkę leku podstawowego zwiększono z dwóch tabletek dziennie na cztery. Dostałam zabiegi, rehabilitację, a po tygodniu leczenia w szpitalu efekt był taki, że chyba niewiele brakowało, by skończyło się to tragicznie.</p>
+        <p xml:id="p-2">Najpierw dostałam wylewu podspojówkowego. Zaliczyłam wizytę u okulisty, a po powrocie na mój oddział nastąpił atak, podczas którego miałam odczucie, że odchodzę z tego świata. Zrobiło się trochę zamieszania wokół mnie. Obecna była przy mnie tylko pielęgniarka, która dostała wskazówki co ma zrobić w takim przypadku. Lekarz nie przyszedł, nie miał czasu.</p>
+        <p xml:id="p-3">Dostałam jakiś zastrzyk i nakazano mi spokojnie leżeć przy szeroko otwartym oknie i wysoko podniesionym podgłówku. Dostawałam drgawek i na przemian robiło mi się zimno i gorąco. Potem zasnęłam, a gdy się obudziłam, czułam się tak, jakbym wróciła z innego świata. Kręciło mi się w głowie, z ledwością mogłam utrzymać się na nogach. Pęcherz moczowy miałam tak wypełniony, że z wielkim trudem i przy pomocy moich współtowarzyszek dotarłam do toalety. Kryzys minął, a ja nigdy nie dowiedziałam się, co się wówczas ze mną działo. Dopiero po wielu latach znajoma pielęgniarka zasugerowała mi, że takie objawy są przy zapaści. Leczenie szpitalne jeszcze bardziej pogorszyło mój stan. Trzy tygodnie leczenia kompleksowego i efektów pozytywnych żadnych.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

@@ -1,0 +1,18 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Drugim szczęśliwcem (bratem) stał się Michał Beck.</p>
+        <p xml:id="p-2">List gratulacyjny przysłał do królewskiej mości kapelan bractwa, ksiądz dziekan Krystian Janko, który nie stawił się na imprezie z powodu wyjazdu. Nie zapomniał o pszczyńskich kurkach brat Tomasz Tomczykiewicz, który jakiś czas temu poszedł w posły. W przeciwieństwie do szanownych braci „miejskich”: burmistrza Henryka Studzieńskiego i sekretarza Wojciecha Mikołajca, którzy nie wiedzieć czemu zawiedli.</p>
+        <p xml:id="p-3">Nieobecnych ominęła najprzyjemniejsza część intronizacji: królewski toast. Ogromne czary z ognistymi trunkami krążyły wśród zgromadzonych podawane z ust do ust.</p>
+        <p xml:id="p-4">Do bractwa kurkowego w Pszczynie należą: Michał Beck, Jan Brudny, Aleksander Dudek, Eryk Figołuszka, Władysław Frydel, Włodzimierz Gwóźdź, Mirosław Jacek, ks. dziekan Krystian Janko, Edward Kania, Krzysztof Latko, Janusz Midura, Wojciech Mikołajec, Andrzej Nikiel, Marek Słota, Bolesław Staniak, Jerzy Staniak, Henryk Studzieński, Grzegorz Sztoler, Sebastian Szymkowski, Stanisław Świderski, Tomasz Tomczykiewicz.</p>
+        <p xml:id="p-5">Niepisanym „bratem” kurkowym jest Mirosława Wojciech. Na zaprzysiężenie czeka jeszcze kilku kandydatów. (gs)</p>
+        <p xml:id="p-6">Edward Kania, tegoroczny król kurkowy:</p>
+        <p xml:id="p-7">— Każdy na moim miejscu cieszyłby się ze zdobycia po raz trzeci takiego tytułu. Do tego poza wprawą strzelecką, nad którą z pewnością trzeba jeszcze popracować (to postanowienie na ten rok), potrzebny jest jeszcze przysłowiowy łut szczęścia. Wygrałem przecież z najlepszymi strzelcami w bractwie! Naprawdę, nie liczyłem na to, choć po cichu każdy ma nadzieję, że a nuż się uda. No i trafiłem najbliżej. Były gratulacje żony, rodziny, braci. Król kurkowy reprezentuje bractwo na wszelkiego rodzaju imprezach strzeleckich, zlotach. To przede wszystkim zaszczyt. O czym marzę? By ustrzelić tytuł króla kurkowego okręgu śląskiego, a potem króla zjednoczenia. (gs)</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

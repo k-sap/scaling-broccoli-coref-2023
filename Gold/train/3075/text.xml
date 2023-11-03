@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">W jego oczach podniecenie mieszało się ze strachem. Patrzył prosto w moje Ø. Nie mówił nic. Jeszcze chwila, jeszcze moment i się stanie.</p>
+        <p xml:id="p-2">Szum drzewa był tak cichy, tak tajemniczy. Łechtał nasze najgłębsze uczucia. Przerażał i jednocześnie ciekawił. Uwielbialiśmy to uczucie narastającego napięcia, to wyczekiwanie. Finał się nie liczył... Liczyło się czekanie.</p>
+        <p xml:id="p-3">Dzieciństwo to wspomnienie miękkiego i puszystego misia, absolutnej ciszy, gdy budziłam się w nocy, i zapachu rąk mojej matki. Teraz już wiem, że był to zapach cebuli. Moje ręce pachną podobnie.</p>
+        <p xml:id="p-4">Dzieciństwo jest mglistym wrażeniem tego, co chcieliśmy zapamiętać. Nieważne jak bardzo złe czy dobre były te wspomnienia. Z czasem nabierają one innego smaku, zapachu i kolorów. Niektóre blakną, a niektóre wyostrzają się nienaturalnie. Są jednak momenty w naszym życiu, gdy zupełnie niespodziewanie coś sobie przypominamy. Przerażeni autentycznością tego wspomnienia, z całą pewnością stwierdzamy, że to nie mogło się wydarzyć. Wmawiamy sobie, że to tylko wytwór naszej wyobraźni. Przecież byliśmy inni, grzeczniejsi, sprytniejsi, mądrzejsi, bardziej łobuziarscy... mieliśmy inne dzieciństwo. Inne, lepsze. Odrzucamy takie wspomnienie daleko w kąt, chcąc dalej wierzyć w przerysowany naszym wyobrażeniem sen o dzieciństwie... Niewielu z nas, zatrzymując się przy tych niespodziewanych wspomnieniach, z pokorą przyjmuje fakt, że było inaczej, niż chcieliśmy to zapamiętać.. I czasem w duchu żałujemy, że pozwolili zhańbić święty sakrament dzieciństwa. Bo teraz już nic nie jest takie dziewiczo białe.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

@@ -1,0 +1,44 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">(śmieje się) Świadkiem? Pan żartuje. Świadkowie jego morderstw nie żyją.</p>
+        <p xml:id="p-2">Prokurator</p>
+        <p xml:id="p-3">Są jednak tacy, którzy widzieli, jak strzelał.</p>
+        <p xml:id="p-4">Kobieta II</p>
+        <p xml:id="p-5">Ja też widziałam. Na przykład na placu - strzelał w tłum. Po prostu.</p>
+        <p xml:id="p-6">Prokurator</p>
+        <p xml:id="p-7">Pani wie, kogo wówczas zabił?</p>
+        <p xml:id="p-8">Kobieta II</p>
+        <p xml:id="p-9">Nie wiem. Na placu było nas ponad tysiąc osób. Ale widziałam - latał jak opętany i strzelał. On i inni także. Bendke na przykład.</p>
+        <p xml:id="p-10">Prokurator</p>
+        <p xml:id="p-11">Kiedy to było?</p>
+        <p xml:id="p-12">Kobieta II</p>
+        <p xml:id="p-13">Rano. Przed selekcją. Ale możliwe, że podczas selekcji także. Nie pamiętam. Wiem, że strzelali w tłum. Po prostu.</p>
+        <p xml:id="p-14">Prokurator</p>
+        <p xml:id="p-15">Kto wyczytywał z listy nazwiska?</p>
+        <p xml:id="p-16">Kobieta II</p>
+        <p xml:id="p-17">Esesman. Nie wiem, jak się nazywał.</p>
+        <p xml:id="p-18">Prokurator</p>
+        <p xml:id="p-19">Jak to się odbywało?</p>
+        <p xml:id="p-20">Kobieta II</p>
+        <p xml:id="p-21">Po prostu. Wywoływano nazwiska, jedni szli na prawo, drudzy na lewo. Na lewo oznaczało śmierć.</p>
+        <p xml:id="p-22">Prokurator</p>
+        <p xml:id="p-23">Kto przeprowadzał selekcję?</p>
+        <p xml:id="p-24">Kobieta II</p>
+        <p xml:id="p-25">Wszyscy tam byli: Kiper, Bendke, Hamm, Rosse...</p>
+        <p xml:id="p-26">Prokurator</p>
+        <p xml:id="p-27">Który z nich przeglądał arbeitskarty?</p>
+        <p xml:id="p-28">Kobieta II</p>
+        <p xml:id="p-29">Nie pamiętam.</p>
+        <p xml:id="p-30">Prokurator</p>
+        <p xml:id="p-31">Kto pani kazał pójść na prawo? Kiper? Bendke? Hamm? Rosse?</p>
+        <p xml:id="p-32">Kobieta II</p>
+        <p xml:id="p-33">Nie pami?tam. W takiej chwili... pan wie... w takiej chwili, gdy nie wiadomo - orze? czy reszka... Nie patrzyłam im w twarze. Wszyscy mieli dla mnie jedną i tę samą twarz. Wszyscy! Jaka to różnica, czy Kiper, czy Bendke, Hamm czy Rosse.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

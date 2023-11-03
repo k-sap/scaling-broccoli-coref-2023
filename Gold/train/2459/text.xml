@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">- Jaka to była kadencja?</p>
+        <p xml:id="p-2">- Mnie się dobrze pracowało, dużo zrobiliśmy. Z sekretarzem partii Gustkiem dobrze mi się współpracowało. Miałem większe zaufanie do niego niż do Bafii, którego się bałem.</p>
+        <p xml:id="p-3">- Bracia Jerzy, profesor prawa, były minister sprawiedliwości, i Lech Bafiowie pochodzili z Zakopanego?</p>
+        <p xml:id="p-4">- Rodem byli z Gliczarowa, Leszek ożenił się w Kościelisku. Ich matka pochodziła z Pachów, a Ø babcia była z domu Krzeptowska. Jurek był o 10 lat starszy od Leszka, ożenił się z dziewczyną, która była w obozie w Oświęcimiu i znała się z Cyrankiewiczem. To mu pomogło w karierze. Obaj byli bardzo pracowici i ambitni. Osobiście jednak bardziej niż Lechowi Bafii ufałem I sekretarzowi Stefanowi Gustkowi. Pamiętam takie wydarzenie. Mieliśmy na Hali Pisanej odsłonięcie tablicy pamiątkowej radzieckich partyzantów. Na uroczystości przyjechali goście ze Związku Radzieckiego, w tym generałowie. Posadzili mnie w czasie popijawy, na której musieliśmy się ratować, dolewając wodę do szklanek - bo towarzysze radzieccy pili wódkę szklankami - koło jednego generała. Nasłuchałem się wtedy, kogo tu należy słuchać, a kogo nie. Towarzysze wiedzieli więcej ode mnie na temat układów we władzy, nawet tej lokalnej. Chciałem się potem komuś wyspowiadać z tej rozmowy, więc poszedłem do Gustka, nie do Leszka. Opowiedziałem mu wszystko, co usłyszałem. On zapytał mnie tylko, czy to wszystko. Nie było żadnych konsekwencji. To był porządny człowiek. Po 1990 roku spotkałem go kiedyś przy ulicy Kościuszki w Zakopanem, jak gazety w kiosku sprzedawał. Niczego się nie dorobił - no, może mieszkanie dostał na Krupówkach.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

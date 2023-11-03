@@ -1,0 +1,12 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Skomplikowana historia powstania katedry obejmuje trwające ponad 500 lat budowy i przebudowy. Dokładne początki katedry pozostają niejasne. Pierwotny kościół karoliński, tzw. kościół Haitona, został wzniesiony w pierwszej połowie IX w. przez sprawującego urząd w latach 805-823 biskupa Bazylei o imieniu Haito, opata Reichenau nad Jeziorem Bodeńskim. Kształt rzutu katedry został zrekonstruowany na podstawie badań archeologicznych. Prawdopodobnie kościół Haitona składał się z jednej sali, wielu pomieszczeń bocznych wzdłuż dłuższej strony i dwóch okrągłych wież po zachodniej stronie. Wysunięta część zachodnia spowodowała wygięcie biegu prowadzącej z południowego wschodu Rittergasse . Od południa sąsiadował z kaplicą pałac biskupi – palatium. Nie wiadomo jak wyglądały partie wschodnie kościoła. Wiadomo natomiast, że posiadał kryptę pod prezbiterium. Także z wyposażenia nic nie ocalało. Jak na swoją epokę katedra Haitona była nietypowa, gdyż w owych czasach w nowo wznoszonych kościołach zaczęły przeważać układy trójnawowe. Ponieważ budowla była kościołem salowym, zaliczała się do dawnego stylu, z drugiej strony jednak fasada dwuwieżowa należała do wcześniejszych fasad tego typu. W 917 katedra została zdemolowana podczas najazdu Węgrów. Nie jest jasne, w jakim stopniu ucierpiała – znany z przekazów pisanych fakt zniszczenia katedry nie znalazł jak na razie potwierdzenia przez badania archeologiczne. Po ostatecznym ustaniu najazdów, które trwały jeszcze do 932, powstał zapewne całkowicie nowy budynek, tzw. katedra Wicharda, nazwana od imienia biskupa z lat ok. 940-950.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

@@ -1,0 +1,22 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">- To prawda. Zginęło bardzo dużo ptaków. I to bardzo dobrych ptaków. Przecież na tej wystawie znalazły się najlepsze gołębie z wystaw okręgowych. To największa doroczna wystawa gołębi pocztowych w kraju.</p>
+        <p xml:id="p-2">Co dzieje się teraz z tymi gołębiami, które przetrwały?</p>
+        <p xml:id="p-3">- Wszystkie są zarejestrowane. Wiele z nich wyjęto razem z klatkami i oddano hodowcom. Te, które wydostały się z rumowiska, powoli wracają do swoich gołębników. Ale część z nich na pewno zginie. Lot utrudniają między innymi zimowa aura, brak pożywienia i polujące jastrzębie.</p>
+        <p xml:id="p-4">Czy katastrofa mogła w jakiś sposób oszołomić ptaki i sprawić, że straciły orientację?</p>
+        <p xml:id="p-5">- Raczej nie. Były zamknięte w klatkach. Zresztą krótko przed zawaleniem dachu wszystkie ponoć patrzyły w górę. One dużo lepiej wyczuwają zagrożenie niż ludzie.</p>
+        <p xml:id="p-6">Mogły słyszeć, że coś złego zaczyna się dziać?</p>
+        <p xml:id="p-7">- Jakoś to odczuwały, ale trudno powiedzieć, którym zmysłem.</p>
+        <p xml:id="p-8">Obiektywy kamer pokazywały siedzące na rumowisku gołębie. Dlaczego nie wszystkie od razu zaczęły wracać?</p>
+        <p xml:id="p-9">- To nie były gołębie pocztowe. To rasowe gołębie ozdobne. Te już nigdy stamtąd nie odejdą. Chyba, że zostaną zwabione i wyłapane. Ale w tej chwili nikt nie ma głowy o tym myśleć.</p>
+        <p xml:id="p-10">Czyli nie zostanie tam żaden gołąb pocztowy.</p>
+        <p xml:id="p-11">- Na pewno nie. Kiedy klatka się otwiera, on wylatuje i od razu zaczyna zmierzać w kierunku swojego gniazda.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

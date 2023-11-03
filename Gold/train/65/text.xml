@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">I zdawałoby się, że to jest rzecz oczywista, że mówimy banały, że wiek XX dorósł do tego stwierdzenia. Ale gdy przyglądniemy się obecnej sytuacji, to wygląda to zupełnie tragicznie.</p>
+        <p xml:id="p-2">Prawie każde małżeństwo, które startuje do życia wspólnego, ma zamiar zbudować niebo na ziemi dla swojego dziecka. Niebo - w odróżnieniu od swoich domów rodzinnych, w których było piekło, jak mówią. A bywa, że w krótkim czasie stwarzają piekło tak dla siebie, jak dla swojego dziecka. Bo kłócą się i awanturują przy dziecku. Bywa, że prawie nie ma dnia bez kłótni. Nie liczą się z tym, że te awantury, względnie godziny czy nawet dnie wrogiego milczenia, kształtują ich dziecko i zaowocują w najgorszym tego słowa znaczeniu.</p>
+        <p xml:id="p-3">A przecież to swoje dziecko przynieśli do kościoła, aby przyjęło chrzest. Ale chrzest oznacza również zobowiązanie się rodziców do wychowania dziecka w miłości. Bo czymże jest chrzest? Jest decyzją człowieka na życie w miłości - tak jak tego uczy Jezus Chrystus. Ale małe dziecko jest na tej drodze uzależnione od swoich rodziców. Oni powinni mu stworzyć atmosferę serdeczności, czułości, pogłaskań, przytuleń. Ale nie tylko. Istotą jest atmosfera domu, klimat jaki panuje między ojcem i matką. I to wychowuje dziecko do miłości przede wszystkim.</p>
+        <p xml:id="p-4">Oczywiście, atmosfera miłości nie ogranicza się tylko do głaskania, ale musi ze strony dziecka rodzić odruchy miłości - czułość względem swojej matki, czułość względem swojego ojca, chęć niesienia im pomocy. I to stwarza właściwy klimat domu. Klimat prawdziwej miłości.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

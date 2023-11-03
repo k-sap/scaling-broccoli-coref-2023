@@ -1,0 +1,20 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Znana teatromanom i telewidzom („Złotopolscy”) aktorka - Ewa Kasprzyk zagrała na deskach macierzystego Teatru „Wybrzeże” ostatnie przedstawienie. Niebawem opuści Gdańsk i przeniesie się do Warszawy.</p>
+        <p xml:id="p-2">Trudno było aktorom rozstać się z Ewą, najlepszym kumplem, jak mówią o niej. Dlatego w ostatnim spektaklu „Biederman i podpalacze” przemycali do tekstu sztuki własne teksty. Zbigniew Olszówka w pewnym momencie ni w pięć ni w dziewięć wrzasnął: Ewo! Nie odchodź!</p>
+        <p xml:id="p-3">Aktorka „się ugotowała”, czyli ją zamurowało, tak że z wrażenia</p>
+        <p xml:id="p-4">zapomniała tekstu roli!</p>
+        <p xml:id="p-5">Zupełnie ją zaskoczył! Publiczność przyłączyła się do błagań aktora gromkimi brawami.</p>
+        <p xml:id="p-6">Ale największe niespodzianki zgotowano jej po przedstawieniu. Do ukłonów Ewa wtargała ogromną walizę, z napisem „Powrócisz tu”... W środku była dwulitrowa butla szampana którą artystka otworzyła w towarzystwie publiczności - brawurowo! - tak jak to robią zwycięzcy rajdu samochodowego na podium.</p>
+        <p xml:id="p-7">Na uroczysty, wydany przez aktorkę bankiet, przybyli jej przyjaciele. I fani.</p>
+        <p xml:id="p-8">- Po co będzie pani wyjeżdżać stąd do Warszawy, skoro my przyjechaliśmy do pani ...warszawą? - spytali wywołując zdumienie zgromadzonych gości. Rzeczywiście, pod teatrem czekał już na gwiazdę stary, piękny samochód marki Warszawa</p>
+        <p xml:id="p-9">Błękitny! Autorzy niespodzianki posadzili swoją ulubienicę na lazurowej masce, wręczyli kieliszek z szampanem i karmili truskawkami. Także specjalnie przygotowany wielki jak prześcieradło transparent, na którym wierni wielbiciele napisali: Pani Ewo! Dziękujemy za wszystko!</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

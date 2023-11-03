@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<teiHeader xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xml:lang="en">
+  <fileDesc>
+    <titleStmt>
+      <title>Paragraphs: u-109,u-110,u-111,u-112,u-113,u-114,u-115,u-116,u-117,u-118,u-119,u-120,u-121,u-122,u-123,u-124,u-125 from NKJP text with id: PELCRA_7113000000008</title>
+    </titleStmt>
+  </fileDesc>
+  <profileDesc>
+    <textClass>
+      <catRef scheme="#nkjp" target="Mówione medialne"/>
+    </textClass>
+  </profileDesc>
+  <revisionDesc/>
+</teiHeader>

@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">- Zawody z roku na rok są coraz lepiej zorganizowane. Wzrasta nie tylko zainteresowanie nimi samych „koniarzy”, ale też publiczności</p>
+        <p xml:id="p-2">- mówi Michał Saganek, luzak z zaprzęgu Lasocki-Saganek z Będzymina, którego zaprzęg zajął w zawodach 5 miejsce.</p>
+        <p xml:id="p-3">W Malinowie najlepsze zaprzęgi otrzymały ogłowia, nagrodami dla pozostałych uczestników były kantary. Przygotowano też puchary i statuetki.</p>
+        <p xml:id="p-4">- Interesuję się końmi, bo jestem lekarzem weterynarii. Zawody w takiej formie organizujemy od trzech lat, ale także m.in. „Hubertusa”, aby zachęcić ludzi do obcowania z końmi, z naturą. To nasza idea. Tak proponujemy ludziom inny sposób spędzania czasu, zamiast np. przed telewizorem. O ile uda nam się pozyskać sponsorów, staramy się to robić. Jutro np. jadę na konkurs skoków, gdzie powiat działdowski reprezentowała będzie zawodniczka z Kiełpin. W przyszłym roku w Malinowie planujemy do południa przeprowadzić konkurs skoków, a po południu konkurs powożenia - mówi Władysław Kubiński z Działdowskiego Towarzystwa Jeździeckiego, które zorganizowało zawodów. Sponsorami konkursu byli burmistrz miasta Działdowa Ryszard Duchna, wójt gminy Działdowo Paweł Cieśliński, Warmińsko - Mazurski Fundusz „Poręczenia Kredytowe”, Sp. z o. o., Przedsiębiorstwo Gospodarki Komunalnej i Mieszkaniowej Sp. Z o. o., Przedsiębiorstwo Ciepłownicze Sp. z o. o., Działdowska Agencja Rozwoju S.A i Warmińsko Mazurski Związek Hodowców Koni. Patronat medialny nad imprezą objął „Tygodnik Ciechanowski”. Następne zawody już za rok. Oby impreza była równie udana, jak w tym roku.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

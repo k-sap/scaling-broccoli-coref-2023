@@ -1,0 +1,14 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">(...) Czytelnicy nieobeznani z tematem skłonni będą przywrócić do łask DDT, żeby uratować piękne polskie lasy. Nie zapominajmy, że ten toksyczny środek insektobójczy uszkadzał nie tylko skorupki jaj kormoranów, przez co przyczyniał się przez dziesiątki lat do spadku populacji, ale równie skutecznie niszczył nasze komórki. Przytaczanie więc takich argumentów jest co najmniej śmieszne.</p>
+        <p xml:id="p-2">Kormorany zawsze niszczyły drzewa w miejscu swoich siedlisk i nie ma co lamentować nad stratami, jakie ponoszą Lasy Państwowe. Nikt nie cieszy się, że więcej jest ptaków, które były ściśle chronione. Lamentujemy nad ginącymi gatunkami, czy to roślin, czy zwierząt, a kiedy udaje się je odratować, okazuje się, że lepiej było, jak stanowiły nieliczną grupę, ponieważ teraz zaczęły nam, ludziom, przeszkadzać. Tak jest przecież z bobrami. (...)</p>
+        <p xml:id="p-3">Z artykułu wynika, że niemalże potykamy się o kormoranie guano, a gdzie nie spojrzy biedny polski rybak i równie upokorzony leśnik, tam na drzewie czarne ptaszysko z rybą w dziobie widzi. Co jeszcze przeszkadza autorowi? Ano to, że po polskich lasach jeżdżą ornitolodzy, których w bezczelny sposób dofinansowuje Unia Europejska. Co zatem jest najlepszym rozwiązaniem? Wynika z tego, że usankcjonowane prawem "sterowanie populacją kormoranów", czyli zwykły, tylko ładnie nazwany, odstrzał. (...) W artykule zabrakło drugiego autora, który stanąłby w obronie kormoranów.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

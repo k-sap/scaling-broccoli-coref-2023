@@ -1,0 +1,19 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Był to krok rzeczywiście rozpaczliwy, bo jak dotąd składaliśmy się tylko na butelkę.</p>
+        <p xml:id="p-2">- Wiecie...- kontynuował Macioła, nie zważając na to, że nie unieśliśmy głów i nadal ryliśmy w szeleszczącej kupie.</p>
+        <p xml:id="p-3">- Wiecie, że mamy teraz nowy słownik?</p>
+        <p xml:id="p-4">Paweł, nie odrywając się oczywiście od gazet, mruknął „Jaki?”i to Maciole wystarczyło, aby objawił swe wiekopomne odkrycie:</p>
+        <p xml:id="p-5">- Nie mówi się, że współpracował, tylko uwikłał się, nie mówi się donosił, tylko przekazywał nic nie znaczące informacje, zamiast kontaktów z funkcjonariuszem SB mamy nawracanie błądzącej owieczki, a donoszenie jest tylko zwykłą a raczej niezwykłą, bo ratującą nieśmiertelny Kościół, grą.</p>
+        <p xml:id="p-6">- Ale śmieszne! – zareagował Janusz, najbardziej z nas religijny, a raczej kościółkowy, bo te dwa pojęcia należy przecież odróżnić.</p>
+        <p xml:id="p-7">- Śmieszne ?... Tak, śmieszne, bo kiedy TW o 23 – letnim stażu dowodzi, że jego współpraca nikomu nie zaszkodziła, to nic, tylko się śmiać – stwierdził, wciąż rozentuzjazmowany, sobą Macioła.</p>
+        <p xml:id="p-8">- Śmiać nie śmiać, mnie od tego wszystkiego aż mdli. Dobrze, że zmieniono już temat na przegląd ministrów – powiedziałem przeciwko Żydowi Maciole, bo lustracja wcale mnie aż tak nie nudziła, gdyż dawała możliwość, tak miłego mi przecież psychologizowania, a doraźne rozgrywki w rządzie kończące się jak zwykle wymianą ministrów, były zbyt doraźnie, aby się nimi poważnie zajmować. Poza tym przypomniały mechaniczne przestawianie pionków na szachownicy niż coś interpersonalnego. Mówi się: stracił zdolność sterowania, wyczerpał swoje możliwości, a nie, że się upił, czy powiedział premierowi coś niemiłego do słuchu.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

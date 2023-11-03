@@ -1,0 +1,17 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">— To dobrze, że nie przyjechałam — ucieszyła się. — Tam u pana zawsze tak długo trzeba czekać, panie Adasiu!</p>
+        <p xml:id="p-2">Cichutko, bardzo, bardzo cichutko zaklął pod nosem. Gdyby to nie była matka Zbyszka, chybaby się nie opanował. Było dużo ludzi, więc ONA miała szczęście, że nie przyjechała. Wcale nie mówi, że nie mogła przyjechać. Miała szczęście, bo ONA nie musiała długo czekać. Lepiej się nudzić w domu! A co mam powiedzieć JA, moja żona, dzieci? Czy to dla mnie też szczęście? W przychodni załatwić można pacjenta za te 10–15 minut, na wizycie domowej zawsze zejdzie około pół godziny.</p>
+        <p xml:id="p-3">Nie wdając się w zbędne dyskusje, nieco nastroszony, czuł to, ale nie potrafił się opanować, szybko zebrał wywiad. Zbadał. Typowe starcze dolegliwości. Nic, co wymagałoby leżenia w łóżku czy nawet stałego przebywania w domu. Mogła przyjechać nawet sama, tym bardziej gdyby Zbyszek ją podwiózł. Szybko przepisał leki. Trochę na serce, trochę na stawy.</p>
+        <p xml:id="p-4">— Może napije się pan barszczyku, panie Adasiu — Pawłowska usiłowała być miła, może nawet nie zauważyła nastroju Adama. Chwała Bogu!</p>
+        <p xml:id="p-5">— Dziękuję, uprzejmie dziękuję. Muszę jeszcze pojechać do Frankowic, do rodziców. Trochę się spieszę.</p>
+        <p xml:id="p-6">— Ach, wy młodzi! Ciągle się spieszycie. Zbyszek też. Myślałam, że przynajmniej z panem sobie porozmawiam. Tak tu smutno samej...</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

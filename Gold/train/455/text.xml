@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Z kolei prof. Kazimierz Braun (State University of New York, Buffalo, USA) w swoim wykładzie plenarnym, którego tytuł brzmiał: " International Integration Through Art: The Case of Ignacy Paderewski " podkreślił - na przykładzie wielkiego polskiego pianisty i dyplomaty - rolę sztuki, jako czynnika integrującego jednostki i grupy niezależnie od poglądów na otaczającą rzeczywistość.</p>
+        <p xml:id="p-2">Wątek sztuki - a zwłaszcza literatury - oraz kultury popularnej i ich roli w nauczaniu pojawił się również podczas panelu " American Studies - Transatlantic Studies: Integrated Approach to Research on and Teaching of American Studies " , któremu przewodniczyła prof. Agnieszka Salska. Przedstawione w nim referaty stanowiły rodzaj refleksji nad doświadczeniami nabytymi w trakcie pracy dydaktycznej poświęconej problematyce amerykanistycznej. Elżbieta H. Oleksy mówiła o różnorodnych reakcjach studentów na prowadzone przez nią zajęcia z problematyki płci kulturowej (gender) oraz zmiany w sposobie postrzegania kodowanych w przekazach wizualnych wizerunków kobiet i mężczyzn. Tatiana Venediktova zwróciła uwagę na fakt, że wybór podmiotu zainteresowań badawczych (czyli bycie amerykanistą w Rosji) wciąż wiąże się z koniecznością światopoglądowego określenia oraz świadomego poruszania się w różnych, mieszczących się na dwóch przeciwległych krańcach, dyskursach. Wystąpienie trzeciego prelegenta - Bohdana Szklarskiego - wywołało niezwykle gorącą dyskusję. Politolog i znawca historii Stanów Zjednoczonych mówił początkowo o trudnościach w nauczaniu, wynikających z nieprzekładalności pewnych nazw i pojęć koniecznych dla zrozumienia charakteru amerykańskiej demokracji oraz odmiennościach w rozumieniu nawet tych terminów, które funkcjonują i w języku angielskim, i języku polskim, ale niosą ze sobą odmienne konotacje. Potem zaś zarzucił ośrodkom zajmującym się nauczaniem problematyki amerykanistycznej brak szerszej wizji procesu dydaktycznego i przedkładanie zajęć dotyczących literatury, sztuki i filmu nad te, traktujące o historii i społeczeństwie Stanów Zjednoczonych.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

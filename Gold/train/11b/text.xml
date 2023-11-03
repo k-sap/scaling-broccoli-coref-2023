@@ -1,0 +1,14 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Bronikowo</p>
+        <p xml:id="p-2">Były budynek szkoły sprzedany</p>
+        <p xml:id="p-3">Budynek, w którym niegdyś mieściła się szkoła podstawowa został sprzedany prywatnemu przedsiębiorcy za 57 tys. 665 zł. Informacja taka znalazła się w sprawozdaniu z prac Zarządu, które podczas ostatniej sesji Rady Miasta i Gminy Śmigiel przedstawił burmistrz Jerzy Cieśla. Przypomnijmy, że władze gminne od dawna zabiegały o sprzedaż nie użytkowanego budynku. Do pierwszego przetargu, który ogłoszony został na początku tego roku, jednak nie doszło wskutek braku chętnych do kupna nieruchomości.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

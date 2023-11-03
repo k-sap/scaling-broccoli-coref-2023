@@ -1,0 +1,12 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Tygrysy, choć groźne, ale na arenie posłuszne jak anioły, egzotyczne wielbłądy, zdumiewające swoją inteligencją i niezwykłym poczuciem humoru, dostojne konie - to tylko początek programu artystycznego cyrku Zalewski. Największy cyrk w Polsce przez kilka dni zaskakuje krakowską publiczność zupełnie nowym widowiskiem. Zorganizowanie występów w Krakowie nie należy do prostych wyzwań - przyznają organizatorzy Ø. - Chcieliśmy tylko na kilka dni wydzierżawić plac przy rondzie Grunwaldzkim. Okazało się, że procedury nie są takie łatwe. Załatwianie formalności, dostarczanie dokumentów, zaświadczeń, potwierdzeń. Krakowska machina biurokracyjna jest ciężka do przebrnięcia. Jakbyśmy chcieli kupić ten plac, a nie wydzierżawić. Na szczęście wszystko skończyło się pomyślnie - cieszy się Stanisław Zalewski. Jak co roku, na przełomie sierpnia i września, zawitał pod Wawel cyrk Zalewski. Tym razem w Krakowie artyści są krótko. Na rondzie Grunwaldzkim - jeden wystep. Drugi Ø w najbliższy piątek odbędzie się w Nowej Hucie. - Popełniliśmy wielki błąd, że zorganizowaliśmy tylko jeden występ. Zainteresowanie jest ogromne, publiczność chętnie zakupuje bilety. Niestetety, plany nie mogą ulec zmianie. Na dłużej przyjedziemy w następnym roku - dodaje szef cyrku. Czym zaskoczyli artyści w tym roku? Nowy spektakl nosi tytuł "Intermedium". Zawiera cechy cyrku klasycznego, jak i nowoczesnego. Podziwiać można kunszt akrobatów, żonglerów, gimnastyków. Swój nowy program przygotowali również artyści z Kenii. Tańczą, śpiewają, skaczą - na scenie jest ich pełno. Reprezentują cyrk nowoczesny. Z klasycznego widowiska zostały zwierzęta. Konie, tygrysy i wielbłądy. W następnym roku organizatorzy zapewniają, że przywiozą ze sobą foki i sporo atrakcyjnych niespodzianek.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

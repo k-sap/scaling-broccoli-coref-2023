@@ -1,0 +1,17 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Międzyrządowa Konferencja Unii Europejskiej w Turynie</p>
+        <p xml:id="p-2">Start maratonu</p>
+        <p xml:id="p-3">Unia Europejska podejmuje się reformy swych instytucji, by przyjąć nowych członków - głównie z Europy Wschodniej</p>
+        <p xml:id="p-4">W pełnym słońcu w stolicy Piemontu, u podnóża Alp, przywódcy Piętnastki otworzyli wczoraj konferencję, której znaczenie przyrównuje się do upadku muru berlińskiego. Od rezultatu konferencji, określanej jako Maastricht II (będzie kontynuacją umów z Maastricht sprzed pięciu lat), zależy m.in., kiedy i na jakich warunkach Polska będzie mogła przystąpić do Unii. Piętnastka obiecała nam, że sześć miesięcy po pomyślnym zakończeniu Maastricht II (zapewne pod koniec 1997 r.) zaczną się negocjacje.</p>
+        <p xml:id="p-5">- Trzeba odnowić struktury. Porażka konferencji lub brak konkretnych rezultatów poda w wątpliwość rozszerzenie Unii z katastrofalnymi konsekwencjami dla przyszłości całego kontynentu - ostrzegał w przemówieniu inauguracyjnym przewodniczący Komisji Europejskiej Jacques Santer. - To ostatnia szansa przygotowania Unii do wyzwań XXI wieku. W deklaracji końcowej turyńskiego szczytu napisano, że rozszerzenie Unii jest "misją historyczną" i "ogromną szansą dla Europy" .</p>
+        <p xml:id="p-6">Premier Szwecji Goran Persson przypomniał jednak, że Maastricht II nie rozwiązuje wszystkich problemów z przyjęciem nowych członków, np. co zrobić, by przyjęcie biednych krajów z naszego regionu nie rozbiło budżetu Unii. Ale już te kwestie, którymi zajmie się Unia, wystarczą, by doszło do kłótni między państwami chcącymi ściślejszej europejskiej integracji (Stanów Zjednoczonych Europy) i preferującymi luźniejsze związki (Europa narodów).</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

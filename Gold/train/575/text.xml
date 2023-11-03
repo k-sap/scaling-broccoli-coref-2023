@@ -1,0 +1,16 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">— Dla ludzi z zewnątrz może występ Marka był zawodem. Dla mnie nie. Uważam, że półfinał to sukces Marka. Komentujmy jego występ bez paniki. To jeszcze bardzo młody zawodnik i przyszłość dopiero przed nim. W finale zabrakło mistrza olimpijskiego, Amerykanina Angelo Taylora i kilku innych bardzo dobrych płotkarzy. Statystycy nie pamiętają takiego przypadku, by junior po przejściu do seniorów od razu znalazł się w finale mistrzostw świata. Mógł dokonać tego mój podopieczny, ale tak się nie stało.</p>
+        <p xml:id="p-2">— Dlaczego?</p>
+        <p xml:id="p-3">— Zabrakło mu szybkości. Kiedy próbowaliśmy ten element dopracować przed startem w Edmonton Markowi odmówiły posłuszeństwa dwugłowe mięśnie ud. Trzeba było przerwać trening szybkościowy. Byliśmy na obozie w Sankt Moritz i tylko osiemnaście dni dzieliło zejście z wysokich gór od startu w Kanadzie. Fachowcy twierdzą, że to za mało. Potrzeba przynajmniej dwudziestu pięciu dni, by organizm doszedł do normy. Pierwszy raz Marek był w górach na wysokości prawie dwóch tysięcy metrów. Wciąż uczymy się jak na wysokie góry reaguje jego organizm, więc nie ma tego złego... Nie wolno tragizować. Trzeba wyciągnąć wnioski na przyszłość i tyle.</p>
+        <p xml:id="p-4">— A jednak wynik 49,80 w półfinale był o wiele gorszy od rekordu Polski z Osaki, gdzie Marek osiągnął 48,16.</p>
+        <p xml:id="p-5">— Potrzebna jest szczegółowa analiza treningów i startów w tym sezonie. To prawda, że czułbym się o wiele lepiej, gdyby Marek przegrał finał, ale z wynikiem poniżej 49 sekund. Jednak jest tak jak mówię: on dopiero się uczy biegania z seniorami i jest przed nim przyszłość.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

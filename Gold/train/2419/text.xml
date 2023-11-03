@@ -1,0 +1,18 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Mszyce</p>
+        <p xml:id="p-2">Ochojnik sosnowy atakuje sosnę górską i inne gatunki dwuigielne. Umiejscawia się na korze młodszych gałęzi i pędach, które wyrosły w maju. Tworzy skupienia otoczone dużą ilością białej woskowej wydzieliny.</p>
+        <p xml:id="p-3">Larwy Ø zimują i wiosną (w marcu) żerują i dojrzewają, przemieniając się w założycielki rodu. Założycielki rodu składają w maju grupami owalne, pomarańczowe jaja. Larwy po wylęgnięciu zasiedlają nowe przyrosty. Od końca maja do końca czerwca osiągają dojrzałość i przekształcają się zarówno w formy bezskrzydłe, jak i uskrzydlone. Uskrzydlone przemieszczają się na inne sosny. Tam rozwijają się kolejne pokolenia mszyc. Samica bezskrzydła jest prawie kulista, długości 1 – 1,2 mm , barwy brązowej do ciemnoczerwonej.</p>
+        <p xml:id="p-4">Zwalczanie</p>
+        <p xml:id="p-5">W okresie wzrostu pędów majowych należy wykonać oprysk sosny insektycydami układowymi, np. Lannate 20 L (0,2%) lub kontaktowymi, np. Sumi-alpha 050 EC (0,04%) lub uniwersalnym preparatem Alpha-Combi 26,25 EC (0,05%).</p>
+        <p xml:id="p-6">Ochojnik wejmutkowy występuje na sośnie wejmutce i innych sosnach pięcioigielnych. Tworzy na pniach i młodych gałęziach liczne skupiska okryte białą woskową wydzieliną.</p>
+        <p xml:id="p-7">Na skutek żerowania tego szkodnika igły żółkną, a także brudzone są wełnistym, obfitym nalotem. Larwy Ø zimują na korze pni i gałęzi. Wiosną, po krótkim okresie żerowania, z larw rozwijają się założycielki rodu. Mają barwę żółtawozieloną. W kwietniu rozpoczyna się składanie jaj. Każda założycielka rodu składa ich 200 – 300.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

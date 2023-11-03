@@ -1,0 +1,33 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">- Skąd to wiesz?</p>
+        <p xml:id="p-2">- Bo wiem - ucięła Szprycha. - Widziałam, jak przerobiłeś dupa.</p>
+        <p xml:id="p-3">- To nie ja.</p>
+        <p xml:id="p-4">- Ciekawe kto?</p>
+        <p xml:id="p-5">- Co się przyczepiłaś, czy tylko ja piszę po murach?</p>
+        <p xml:id="p-6">- Padupadupadupad deszczyk sobie pada - tak jest napisane tam na murze, chyba że deszcz wszystko spłukał.</p>
+        <p xml:id="p-7">Pająk stojący bez ruchu i bez słowa wtrącił się nagle.</p>
+        <p xml:id="p-8">- Przestańcie już gadać te głupoty.</p>
+        <p xml:id="p-9">- A Szprycha też ma grzech, jak tak powiedziała Najdusowi.</p>
+        <p xml:id="p-10">- Niech każdy patrzy na swoje grzechy.</p>
+        <p xml:id="p-11">- Ma grzech - Mira była ekspertem od grzechów, zawsze wiedziała, jakie Ø są śmiertelne, a jakie Ø powszednie - nie czyń drugiemu, co tobie niemiłe.</p>
+        <p xml:id="p-12">- Nie myślałam, że on się tak łatwo da nabrać.</p>
+        <p xml:id="p-13">- Kłamiesz.</p>
+        <p xml:id="p-14">- Ona nie kłamie, tylko mija się z prawdą.</p>
+        <p xml:id="p-15">- Nie wiedziała, udaje niewiniątko, a jak Nince poradziła lekarstwo na krosty, to co?</p>
+        <p xml:id="p-16">- Ale poskutkowało.</p>
+        <p xml:id="p-17">- To nie od tego, na pewno nie.</p>
+        <p xml:id="p-18">- Etam, Nince to co innego, Ninka jest prymuską, ale Najdusowi z naszego podwórka, co to, to nie.</p>
+        <p xml:id="p-19">- Nince powiedziała, że ma nasikać do miski z wodą i się w tym umyć.</p>
+        <p xml:id="p-20">- Ale jej zniknęły - upierała się Szprycha. - Poskutkowało.</p>
+        <p xml:id="p-21">- Ninka zawsze się przypodchlebia pani.</p>
+        <p xml:id="p-22">- No, stale chodzi śmieci wyrzucać do niej do domu, mleko kupuje i wszystko donosi, co się tylko powie, to zaraz Kostusia wie.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

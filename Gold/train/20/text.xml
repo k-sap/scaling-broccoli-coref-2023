@@ -1,0 +1,14 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Grażyna F. - starsza, samotna kobieta - boi się mieszkać sama w pustym domu. Mówi, że wieczorami do rudery schodzą się okoliczni chuligani, biegają po pustych korytarzach, dobierają się do strychu i komórek. - Nieraz siedzę po ciemku, żeby udać, że mnie nie ma w domu - mówi Grażyna F. - Chodzą tu, pukają mi w okna, chcą pożyczyć szklankę, albo parę groszy na wino. Czasem słyszę wyzwiska i groźby, na przykład, że podpalą dom. Raz zbir podał się za listonosza, wszedł mi do domu i próbował okraść..</p>
+        <p xml:id="p-2">- Proponowaliśmy tej pani już kilka razy lokale zastępcze w innych obiektach komunalnych, ale odmówiła - wyjaśnia Zbigniew Piwoński z Miejskiego Przedsiębiorstwa Gospodarki Mieszkaniowej. - Ludziom wysiedlanym z ledwie stojących domów wydaje się, że należy im się co najmniej luksusowe mieszkanie w nowym bloku. Tymczasem prawda jest taka, że mogą otrzymać to, co akurat się zwalnia, a jeśli odmawiają, muszą nadal mieszkać w starym domu, sprawiając kłopoty i nam, i sobie</p>
+        <p xml:id="p-3">- Proponowali mi taką samą ruderę, jak tutaj - żali się pani Grażyna. - Ubikacja na podwórku, brak wody. Jestem schorowana, bolą mnie nogi i nie będę chodziła zimą na podwórko. Tutaj co prawda też jest ustęp na zewnątrz, ale jak już mam się przeprowadzać, to chociaż do czegoś lepszego..</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

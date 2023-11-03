@@ -1,0 +1,19 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">2. Każdą rozpoczętą godzinę czynności liczy się za pełną.</p>
+        <p xml:id="p-2">W razie wydania opinii przez jednostkę organizacyjną akademii medycznej, instytutu naukowo-badawczego lub zakład służby zdrowia wynagrodzenie tych jednostek za wykonaną pracę określa się według taryfy stanowiącej załącznik nr 2 do rozporządzenia, przy czym stosuje się przepisy § 4 ust. 2 i 3 i § 5.</p>
+        <p xml:id="p-3">W razie wydania opinii przez jednostkę organizacyjną inną niż wymienione w § 7 wynagrodzenie tej jednostki za wykonaną pracę określa się zgodnie ze stawkami w niej stosowanymi.</p>
+        <p xml:id="p-4">Wynagrodzenie za udział w czynności sądowej przedstawiciela jednostki organizacyjnej wymienionej w § 7 i 8 określa się według zasad ustalonych w § 6.</p>
+        <p xml:id="p-5">Jeżeli rozporządzenie ustala dolną i górną granicę stawki wynagrodzenia, przy określaniu wynagrodzenia należy mieć na uwadze w szczególności kwalifikacje biegłego lub innych osób biorących udział w opracowaniu opinii lub w czynności sądowej, stopień złożoności problemu będącego przedmiotem opinii oraz warunki, w jakich opracowano opinię lub dokonano czynności sądowej.</p>
+        <p xml:id="p-6">Jeżeli praca została wykonana wadliwie, niezgodnie z zaleceniem sądu lub ze znacznym nie usprawiedliwionym opoźnieniem, wynagrodzenie ulega odpowiedniemu obniżeniu.</p>
+        <p xml:id="p-7">Jeżeli wynagrodzenie określa się w całości lub w części według stawki wynagrodzenia za godzinę pracy, należy przedstawić sądowi wraz z rachunkiem dwa egzemplarze karty pracy sporządzonej według wzoru ustalonego odrębnie.</p>
+        <p xml:id="p-8">1. Biegłym (jednostkom organizacyjnym wymienionym w § 7 i 8) niezależnie od wynagrodzenia za wykonaną pracę przysługuje zwrot kosztów zużytych materiałów oraz innych wydatków niezbędnych do wydania opinii.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

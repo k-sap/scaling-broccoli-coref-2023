@@ -1,0 +1,20 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Właściciele kamienic podnoszą opłaty i liczą na to, że jeszcze w tym roku będą mieli całkowicie wolną rękę</p>
+        <p xml:id="p-2">Czynsze w górę</p>
+        <p xml:id="p-3">W wielu prywatnych kamienicach właściciele podnieśli czynsze. Na razie o 10 procent, maksymalny dopuszczalny wskaźnik. Dla wielu lokatorów to katastrofa, tymczasem niewykluczone, że na tym się nie skończy.</p>
+        <p xml:id="p-4">Henryk Cupryn, lokator kamienicy przy ulicy Więckowskiego 31 w Łodzi, za 35-metrowe mieszkanie na trzecim piętrze płacił do tej pory 240 zł, po podwyżce ponad 260 zł.</p>
+        <p xml:id="p-5">– A przecież trzeba jeszcze kupić węgiel, zapłacić za prąd – narzeka Henryk Cupryn.</p>
+        <p xml:id="p-6">Lokatorka łódzkiej kamienicy przy ul. 1 Maja, która chce pozostać anonimowa, mówi, że w jej 76-metrowym mieszkaniu czynsz wynosi teraz 438 zł, o 40 zł więcej niż w grudniu.</p>
+        <p xml:id="p-7">– Pięćdziesiąt lat mieszkam w jednym miejscu, więc gdzie będę na stare lata szukać nowego mieszkania? – pyta. – Nie dojem, a czynsz zapłacę.</p>
+        <p xml:id="p-8">W takiej sytuacji jest wiele starszych osób, które samotnie zamieszkują duże, typowe dla starych kamienic mieszkania. Z tego powodu nie mogą starać się o dodatki mieszkaniowe. W wypadku samotnych osób takie dodatki przysługują tylko na mieszkanie o powierzchni do 35 m kw.</p>
+        <p xml:id="p-9">Czynsze rosną też w innych miastach regionu. Marek Kałuża, właściciel kamienicy przy ul. Słowackiego w Piotrkowie Trybunalskim, zapowiada 10-procentową podwyżkę. Czynsz w jego kamienicach wzrośnie z 5,70 do 6,30 zł za metr kwadratowy.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

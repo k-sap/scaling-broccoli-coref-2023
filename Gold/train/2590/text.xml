@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Człowiek czuje się dobrze, nic go nie boli, więc żyje z przeświadczeniem, że wszystko jest w porządku. Tymczasem wysokie ciśnienie i wysoki poziom cholesterolu nie dzwoni komórkowym alarmem, a cukier we krwi nie daje objawów bólowych. Jedyną więc metodą pozwalającą na wykrycie czającej się choroby jest badanie.</p>
+        <p xml:id="p-2">Przychodnia Szpitala Wojskowego w Poznaniu (przy ul. Szylinga 2) realizuje trzy programy badawcze w ramach funduszu zdrowia. Dla osób w wieku 35-55 lat wojskowa służba zdrowia proponuje serię badań, które odpowiedzą na pytanie, czy jesteśmy zagrożeni chorobami serca. Aby wyniki lipidogramu i m.in. poziomu cukru nie były zafałszowane, należy przez 12 godzin powstrzymać się od jedzenia i picia. Przeprowadzony dodatkowo wywiad pozwoli ocenić stan zdrowia Ø i ryzyko wystąpienia np. zawału serca, a w przypadku zagrożenia lekarze pokierują pacjenta na dalsze badania. Na taką wizytę trzeba się zarejestrować po nr tel: 857 42 34 od poniedziałku do piątku w godzinach 7.00-14.00. Informacji udzieli Ewa Bednarek.</p>
+        <p xml:id="p-3">Kobiety w wieku 30-59 lat dbające o swoje zdrowie nie przeoczą badań szyjki macicy. Gabinet ginekologa czynny jest w poniedziałek w godz. 8.00-17.00, we wtorek-środa-piątek w godz. 8.00-14.00, a w czwartki w godz. 10.00-18.00.</p>
+        <p xml:id="p-4">W badaniu przewlekłej obturacyjnej choroby płuc mogą wziąć udział zarówno kobiety jak i mężczyźni w wieku 40-65 lat. Czeka ich osłuchowe badanie płuc i spirometria (tel. 857 42 34).</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

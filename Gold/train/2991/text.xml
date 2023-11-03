@@ -1,0 +1,21 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">I poszli krzycząc; długo po dolinie Odgłos tryumfu i radości bije: "Konrad niech żyje, Wielki Mistrz niech żyje! Niech żyje Zakon! niech pogaństwo zginie!"</p>
+        <p xml:id="p-2">Halban pozostał mocno zamyślony, Na wołających okiem wzgardy rzucił, Spójrzał ku wieży i cichymi tony Taką piosenkę odchodząc zanucił:</p>
+        <p xml:id="p-3">[PIEŚŃ]</p>
+        <p xml:id="p-4">Wilija, naszych strumieni rodzica, Dno ma złociste i niebieskie lica; Piękna Litwinka, co jej czerpa wody, Czystsze ma serce, śliczniejsze jagody.</p>
+        <p xml:id="p-5">Wilija w miłej kowieńskiej dolinie Śród tulipanów i narcyzów płynie; U nóg Litwinki kwiat naszych młodzianów, Od róż kraśniejszy i od tulipanów. Wilija gardzi doliny kwiatami, Bo szuka Niemna, swego oblubieńca; Litwince nudno między Litwinami, Bo ukochała cudzego młodzieńca.</p>
+        <p xml:id="p-6">Niemen w gwałtowne pochwyci ramiona, Niesie na skały i dzikie przestworza, Tuli kochankę do zimnego łona, I giną razem w głębokościach morza.</p>
+        <p xml:id="p-7">I ciebie równie przychodzień oddali Z ojczystych dolin, o Litwinko biedna! I ty utoniesz w zapomnienia fali, Ale smutniejsza, ale sama jedna.</p>
+        <p xml:id="p-8">Serce i potok ostrzegać daremnie, Dziewica kocha i Wilija bieży; Wilija znikła w ukochanym Niemnie, Dziewica płacze w pustelniczej wieży.</p>
+        <p xml:id="p-9">Rozdział III</p>
+        <p xml:id="p-10">Gdy Mistrz praw świętych ucałował księgi, Skończył modlitwę i wziął od komtura Miecz i krzyż wielki, znamiona potęgi, Wzniósł dumnie czoło, chociaż troski chmura Ciążyła nad nim; wkoło okiem strzelił, W którym się radość na pół z gniewem żarzy, I niewidziany gość na jego twarzy, Uśmiech przeleciał, słaby i znikomy: Jak blask, co chmurę poranną rozdzielił, Zwiastując razem wschód słońca i gromy.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

@@ -1,0 +1,21 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Głaz na cokole</p>
+        <p xml:id="p-2">Podczas Dni Malborka esperantyści odsłonili głaz upamiętniający Ludwika Zamenhofa, twórcę międzynarodowego języka. Na uroczystości przyjechali goście z Hiszpanii, Japonii, Wielkiej Brytanii, Francji i Niemiec.</p>
+        <p xml:id="p-3">- Miło nam było, że nasze zaproszenie przyjęły władze miasta. Poza tym, gościliśmy Stanisława Mandraka, przewodniczącego Polskiego Związku Esperantystów i Barbarę Pietrzak, redaktora naczelnego redakcji esperanckiej Polskiego Radia - mówi Irena Wojciuk-Sieger.</p>
+        <p xml:id="p-4">Do wydarzenia członkowie malborskiego koła przygotowywali się kilka miesięcy. Postanowili, że głaz poświęcony Zamenhofowi stanie na cokole, otoczonym kamieniami symbolizującymi pięć kontynentów.</p>
+        <p xml:id="p-5">Gwiazda nadziei</p>
+        <p xml:id="p-6">- Od początku prac wokół nas kręciły się dzieci z okolicznych domów. Pomagały nam bardzo - mówi Krystyna Mikołajczyk.</p>
+        <p xml:id="p-7">Nieopodal głazu pani Krystyna z dziećmi ułożyła gwiazdę z murawy. Jej ramiona miały być zrobione z białego tłuczenia. Kiedy okazało się, że go nie będzie, maluchy tłukły cegły na malutkie kawałki i malowały na biało.</p>
+        <p xml:id="p-8">- W połowie pracy zabrakło nam farby. W pobliżu mieszka mój brat, poprosiłam o pomoc. Nie odmówił - opowiada K. Mikołajczyk. - Gwiazda ma kolor zielony, podobnie jak nadzieja. Esperanto w międzynarodowym języku znaczy: mający nadzieję. I my taką mamy. Wierzymy, że uda nam się pozyskać wielu sympatyków. W Królewie Malborskim, gdzie mieszkam, chcę założyć koło, uczyć młodzież języka - dodaje.</p>
+        <p xml:id="p-9">Pręty w dole</p>
+        <p xml:id="p-10">Michał Redlicki jest jednym z chłopców pomagających przy zagospodarowaniu placu.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

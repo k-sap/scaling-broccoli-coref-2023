@@ -1,0 +1,14 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Miesiąc szybko minął. Księżyc jaśniał w pełni, jak gdyby bóg księżyca - Ramaczandra - zapalił tysiąc świateł. Noc była tak jasna jak dzień. W ten magiczny czas, zawodowy myśliwy, łowca tygrysów ludojadów, z powrotem zawitał do wsi Szczęśliwie zatrzymał się ty razem u wójta i od niego dowiedział się, ze wieś terroryzuje olbrzymi tygrys. Co prawda dotąd nikogo nie zżarł, ale może to zdarzyć się w każdej chwili. Dowiedział się tez o nagrodzie. Nie czekając chwili, zgodnie ze swoja dharmą, uszedł spotkać się z tygrysem.</p>
+        <p xml:id="p-2">Zwierze nie kazało długo na siebie czekać. Stało w dojrzewającym prosie, i tylko pręgowany grzbiet było mu widać. Doświadczony myśliwy szybko napiął luk i wypuścił strzałę, która niechybnie trafiła tygrysa w serce, gdyż ten wydał tak przenikliwy ryk, jak raniony demon ciemności. Myśliwy nim podszedł do ofiary, cisnął w nią jeszcze włócznię, która przebiła grzbiet zwierzęcia. I tu kończy się ta historia, ale...</p>
+        <p xml:id="p-3">Wójt rano wezwał pracza .Kazał mu wypłacić myśliwemu 50 rupii nagrody, zapłacić za zniszczoną włócznią skórę tygrysa i zobowiązał go do darmowych prac na rzecz wsi za zjedzone i zniszczone zboże. Ale nie te kary były dla pracza najsroższe .Od tego czasu pracz sam na własnych plecach musiał roznosić wyprane szaty wieśniaków do klientów i ta mitręga była najgorsza karą. Ludzie we wsi zastanawiali się - kto z dwojga był głupi: pracz czy osioł.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

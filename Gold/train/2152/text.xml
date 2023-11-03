@@ -1,0 +1,20 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Postanowiłam nie chować mojej pracy i doświadczenia tylko dla siebie, ale udostępnić je innym i umożliwić stosowanie NPR w praktyce, przy zachowaniu pełnego spokoju i komfortu.</p>
+        <p xml:id="p-2">Nauka NPR, jak dotąd, nie jest przedmiotem profesjonalnego nauczania w szkołach ponadpodstawowych. Myślę, że trzeba jakoś zapełnić tę lukę.</p>
+        <p xml:id="p-3">Prostota reguł NPR aż się prosi, aby zacząć uczyć ich w szkołach na matematyce! Tak! Bo tak jak matematyka opierają się na założeniach! I na biologii, bo płodność rozpoznawana jest na postawie objawów biologicznych, aby każdy, i chłopak, i dziewczyna, znał je od szkoły średniej. Proste, matematyczne reguły, oparte na (biologicznych) założeniach, poparte przykładami, opisane w ściągawce, pod ręką, mogą bardzo wiele zmienić w Twoim życiu na lepsze.</p>
+        <p xml:id="p-4">Na szczęście mamy coraz więcej lekarzy, którzy znają się na NPR i są w stanie udzielić swoim pacjentkom konkretnych wskazówek.</p>
+        <p xml:id="p-5">Jeśli spotkasz w swojej poradni lekarza, który zna się na NPR, to korzystaj z jego wiedzy ile tylko się da!</p>
+        <p xml:id="p-6">Stosowanie NPR gwarantuje Ci kontrolę nad tym, co się dzieje w Twoim organizmie i, co jest najważniejsze: świadomie decydujesz o wielkości swojej rodziny.</p>
+        <p xml:id="p-7">Tak naprawdę życie jest takie jakim, je czynimy, uczyńmy je więc jak najłatwiejszym.</p>
+        <p xml:id="p-8">Złoty interes</p>
+        <p xml:id="p-9">Ktoś mówił mi, że metody naturalne nie są dobre, bo trzeba się powstrzymywać od seksu. Odpowiedziałam bez zastanowienia, prostym zdaniem: "Nie ma niczego za darmo. Za wszystko trzeba płacić". I NPR ma swoją cenę. Ale warto ją zapłacić. To jest jak wieczna promocja.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

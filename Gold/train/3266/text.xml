@@ -1,0 +1,14 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">W tej trzydziestoosobowej klasie tylko dwadzieścioro uczniów przyjęło już sakrament chrztu. To trzech katolików i luteranie. Reszta dzieci poczeka jeszcze osiem, dziesięć lat, kiedy decyzję o chrzcie będzie mogła podjąć świadomie. Chrzczenie niemowląt to główny zarzut mniejszych i młodszych wiślańskich społeczności: baptystów, adwentystów, zielonoświątkowców wobec najstarszego luterańskiego kościoła oraz drugiego co do wielkości - katolickiego. Więc dziesięcioro dzisiejszych ośmiolatków zanurzy się w Wiśle podczas uroczystej, roztańczonej ceremonii nad rzeką albo skromnie, w zwykłej wannie, w domu przy okazji regularnych religijnych spotkań swojej grupy.</p>
+        <p xml:id="p-2">Beskidzka Wisła całe wieki, do początków XX stulecia, była izolowana. Potem ta ostoja twardej luterskiej wiary, jak żadna inna miejscowość, otworzyła się na nowych, niosących Bożą nowinę misjonarzy. (Może łatwiej ewangelizować rozmodlonego niż zatwardziałego ateistę?). Ostatnio znalazła się pod wielkim wpływem duchowości przebudzeniowej, która odrywa wiernych od największych wiślańskich kościołów.</p>
+        <p xml:id="p-3">Na pierwszy rzut oka - modelowy przykład tolerancji. - Różnimy się pięknie - powie zawsze Maciej Oczkowski, były burmistrz, muzealnik, etnograf. Wspólne katolicko-ewangelickie nabożeństwa, wspólne celebrowanie 11 listopada, ekumeniczne małżeństwa, ekumeniczna sala pogrzebowa. W Wiśle ukuto powiedzenie: dwa domy, trzy religie. - Wszyscy idziemy ku Panu Bogu - przekonuje proboszcz luterańskiej parafii Wisła Centrum ksiądz Waldemar Szajthauer. - Wspinamy się różnymi ścieżkami po stromym stożku. Na szczycie - pan Bóg. Im bliżej Boga jesteśmy, tym bliżej siebie się znajdujemy.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

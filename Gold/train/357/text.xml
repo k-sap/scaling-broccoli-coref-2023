@@ -1,0 +1,14 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Ogólnie rzecz biorąc - utworzenie rodziny zrekonstruowanej jest znacznie droższe aniżeli początek pierwszej. Przede wszystkim najczęściej u podstaw rodziny zrekonstruowanej leży rozwód, który wiąże się z kosztami. Ponadto niejednokrotnie w pierwszym małżeństwie były już dzieci i pozostaje kwestia obowiązku alimentacyjnego. Poza tym rodziny zrekonstruowane najczęściej są liczebne, a to wiąże się z kwestią znalezienia odpowiedniego lokum oraz potrzebą jego utrzymania.</p>
+        <p xml:id="p-2">W rodzinie zrekonstruowanej istnieje także cała masa kontaktów międzyludzkich, z którymi trzeba się liczyć, a które bywają bardzo trudne dla osób wchodzących do danej rodziny. Nadto przybywa nowych członków rodziny - "nowy szwagier", "nowy teść". Tworzenie rodziny zrekonstruowanej napotyka na wiele problemów także z tego powodu, że niewiele osób zajmuje się tym zagadnieniem od strony czysto teoretycznej. Dostępnych jest wiele poradników na temat szczęśliwego małżeństwa, ale są one przeznaczone głównie dla nowożeńców. Natomiast brakuje publikacji poruszających kwestie przybranego rodzicielstwa, powtórnego wstępowania w rolę synowej, szwagra... Nawet nie wiadomo, jak się do siebie zwracać, bo przecież brakuje nazewnictwa dla członków wielorodziny... Istniejące słownictwo też nie brzmi zachęcająco - macocha, pasierb. Same w sobie są odrzucające i mają pejoratywny wydźwięk...</p>
+        <p xml:id="p-3">Coraz częściej u podstaw rodziny zrekonstruowanej będą osoby po rozwodzie. W Unii Europejskiej rozpada się 30 proc. związków. W USA 74 proc. rozwiedzionych kobiet i 60 proc. mężczyzn żałuje, że doszło do rozwodu. W Polsce najwięcej rozwodników jest wśród młodych ludzi, w wieku od 20 do 24 lat. W 75 proc. pozew o rozwód wnoszą kobiety. Nowym zjawiskiem jest to, że są to nierzadko kobiety w średnim wieku i z 20 latami małżeńskiego stażu.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

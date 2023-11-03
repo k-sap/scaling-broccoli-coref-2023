@@ -1,0 +1,14 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Regresja w hipnozie okazała się terapią tak dalece skuteczną, że zaniechanie jej należałoby osądzić jako karygodne wprost uchybienie elementarnym pryncypiom etyki lekarskiej. A jednak od kilku miesięcy właśnie do tego zmierza publiczna nagonka na postępowe koła psychiatrów i psychologów. Konserwatywne ugrupowania psychoterapeutów - w tym również kilku czołowych koryfeuszy polskiej psychiatrii - nawołują do natychmiastowego zaprzestania leczenia metodami wykoncypowanymi w ramach procedury regresji w hipnozie, a to z racji rzekomej "iluzoryczności" uzyskiwanych tym sposobem wyników. Oponenci regresji w hipnozie posiłkują się głównie zarzutem "fantastyczności", czyli nieprawdziwości informacji, jakie hipnotyzer otrzymuje od pacjenta w trakcie tego rodzaju terapii.</p>
+        <p xml:id="p-2">Zarzut ten to ma do siebie, że pozoruje rzeczowość i fachowość krytyki wytaczanej przeciwko regresji w hipnozie i tym samym odwraca uwagę od faktycznych przyczyn toczonej kampanii. Zanim przedstawię państwu moje przypuszczenie co do rzeczywistych źródeł tej opozycji oraz ujawnię inspirujące ją centra naszej chrześcijańskiej kultury życia, kilka słów na marginesie samego zarzutu "fantastyczności" informacji uzyskiwanych przez hipnotyzera.</p>
+        <p xml:id="p-3">W terminie regresja w hipnozie pojęcie regresja odnosi się - jak niektórym z państwa wiadomo - do techniki docierania do urazów psychicznych aktualnie skumulowanych w podświadomości pacjenta, lecz doświadczonych w jego przeszłości inkarnacyjnej. Nie muszę państwu chyba przypominać, że to właśnie pradawna filozoficzna koncepcja reinkarnacyjności duszy ludzkiej skłoniła zachodnich psychoterapeutów do tej niezwykłej eksploracji podświadomości pacjenta w stanie hipnotycznym. Równie zbędne wydaje mi się podkreślanie, że tyleż szokujące, co rewelacyjne wyniki tych eksperymentalnych poszukiwań dowodnie przemawiają na korzyść trafności idei reinkarnacji, ona sama zaś - o tym jestem głęboko przeświadczony - już wkrótce wejdzie w skład naukowego światopoglądu na takich samych prawach, jakimi od kilkuset lat cieszy się odkrycie Kopernika.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

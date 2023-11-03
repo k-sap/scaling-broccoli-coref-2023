@@ -1,0 +1,14 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">9. Zniknięcie i wycofanie poezji z życia przeciętnego człowieka byłoby nie zauważone.</p>
+        <p xml:id="p-2">Wybranych zostało dziewięć zarzutów, bo dziewięć jest planet w naszym układzie słonecznym. Trudno jest odeprzeć argumenty Gombrowicza, choć nasz największy gracz w literaturze polskiej nie był wolny od niesprawiedliwych ocen. Potraktowanie języka poetów jako najmniej ciekawego ze wszystkich możliwych języków to gruba przesada, a nawet głupstwo, no bo z całą siłą krytycznych sądów uderzył Gombrowicz w tych, co na to nie zasługują. O wiele bardziej odrażającym językiem od poetów posługują się politycy, którzy gadają – i nie do rzeczy i nie po ludzku. O wiele bardziej koszmarnym językiem od poetów posługują się lekarze, gdy przychodzi nam odczytać bazgroły na receptach. O wiele większą nudą zajeżdża z pism prawniczych, niż z najgorszego poematu, bo z tego przynamniej można się pośmiać. O wiele bardziej strasznym jest język chamowatych „inteligentów”, którzy nie czytają, nie piszą, a chcą pouczać. Dlaczego tak wyraźnych różnic nie dostrzegł W. Gombrowicz, pisząc swój esej?</p>
+        <p xml:id="p-3">Czy autor „Ferdydurke” zamierzał świadomie skazać poezję na literacki niebyt, bo sam jej nie tworzył? Nie jest to do końca prawdą. Okazuje się, że W. Gombrowicz był sezonowym poetą, a właściwie jego bohater, sztuki „Ślub”, Henryk, który w „przygnębiającym, beznadziejnym krajobrazie” wypowiada takie o to poetyckie frazy /Zasłona wzniosła się …Niejasny kościół…/I niedorzeczny strop…Dziwne sklepienie/A pieczęć tonie otchłań w otchłań czarnej/ Zastygłej sfery sfer i kamień kamień/ - to niektóre tylko fragmenty.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

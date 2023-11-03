@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Najstarszy dom w Vikdalen, jasny, z drewnianymi krużgankami, miał trzy poziomy, wysokie pokoje i żyrandole stylizowane na kandelabry. Przestrzeń zawadzała mieszkańcom; oswajali ją nieudolnie, czego dowodem była ustawiona w przedpokoju donica z palmą, która sięgała sufitu – kalifornijski akcent w szwedzkim domu, wyeksponowany za pomocą szklanej tafli otaczającej wejściowe drzwi, tak by przedpokój był widoczny z zewnątrz.</p>
+        <p xml:id="p-2">Podmurówka domu była biała, pocętkowana połyskującymi kreskami – to spacerujące po ścianie winniczki zostawiały po sobie smugi zaschniętego śluzu. Joaquinowi Carnelowi robiło się od tego niedobrze, ale Bob zaprzągł i jego do cowieczornego rytuału, który wprowadził po powrocie z Gotlandii: zbierania ślimaków do wiader. Krążyli po zmroku we czwórkę z latarkami i odrywali od ścian tłuste, czarne ciała. Chłopiec nie chciał ich dotykać nawet w gumowych rękawiczkach, więc Przystupa pokazała mu, jak poruszyć ślimaka patykiem, żeby zwinął się i sam wpadł do kubła.</p>
+        <p xml:id="p-3">Dom był magnesem dla winniczków, które czepiały się chropawej ściany podmurówki, właziły na siebie, produkowały jeszcze więcej śluzu i wzajemnie strącały się w trawę, dlatego przed północą zbierający zapełniali co najmniej dwa kubły wijącymi się ciałami. Bob zamierzał używać ich jako przynęty do łowienia ryb, ale rano kubły tak śmierdziały gnijącymi w słońcu ślimakami, że musiał wyrzucać zawartość do pobliskiego jeziora. Czasami znajdował je puste, bo nocny wiatr odchylał zamknięcie, pozwalając rozleźć się wyzbieranym.</p>
+        <p xml:id="p-4">Po wieczornym rytuale ślimakowym Joaquin Carnel szedł spać (budził się z krzykiem na chwilę przed połknięciem przez megawinniczka), Bob z Gun wypijali po lampce wina przed telewizorem, a Przystupa czekała w kuchni na kieliszki ( kiedyś poszła spać, nie umywszy ich, i dostała ostrą reprymendę).</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

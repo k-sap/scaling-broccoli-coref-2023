@@ -1,0 +1,12 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Podczas swojego performance „Nie ma muzyki dla psów” wodził rękoma po rozpiętych od ściany do ściany drutach, zaś ustawione na końcach membrany przy dotknięciu wydawały dźwięki. Pochodząca z Meksyku Hortensia Martinez tańczyła boso po palącym się sznurze, a kończąc swój pokaz „Czerwiec jest Bogiem ognia” wypiła wodę z pływającymi żabkami. Pełen muzyki techno był zaprezentowany przez kuratora imprezy, Władysława Kaźmierczaka i Ewę Śmigielską performance „Ecstasy”. Trwający blisko godzinę pokaz z wykorzystaniem efektów dźwiękowych i świetlnych poruszył niemal „do bólu” wszystkie zmysły. Bardzo widowiskowy był pokaz Young-Ja Bang-Cho z Korei „Sztuka życia”, podczas którego artystka wyrywała się z oplecionej wokół niej błękitnej sieci, kokonu, a po uwolnieniu na rozwijany przez jednego z widzów rulon papieru nanosiła znaki za pomocą języka i farby, którą miała w ustach. Swoim performance „Myślący człowiek”, pochodzący z Korei Lee Sang-Jin bardzo zaskoczył całą publiczność. Po rozwieszeniu całej garderoby na ścianie, nago zaprezentował pozy myślącego człowieka. Żywą rzeźbę zaprezentował Andrzej Dudek-Durer. Ubrany na czarno, z pończochą na twarzy powiesił na szyi gałąź drzewa, na której obok np. rękawiczek wisiały martwe węgorze. Podobnych performance było wiele. Niektóre jak „Konstytucja Autonomicznej Heteronomii Podmiotu - Podmiot II” Norberta Walczaka wzbudziły zainteresowanie już samym tytułem, inne jak „Dada-Dao reflection” Yictora Petrov-Chruckiego z Białorusi, „Transition” Tokio Maruyamy z Japonii trzeba było zobaczyć, aby choć w niewielkim stopniu zrozumieć zamierzenia autora. Pokazy artystów zgromadzonych na VI Międzynarodowym Spotkaniu odbywały się codziennie od godz. 17 do 20 lub 21, zaś publiczność, choć niewielka, wiernie towarzyszyła artystom.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

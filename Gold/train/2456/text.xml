@@ -1,0 +1,12 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Dzisiaj o godzinie 19.30 w kaplicy św. Barbary na cmentarzu w Miechowie będzie odprawiona msza święta odpustowa. Po niej zostaną poświęcone kolejne obiekty odrestaurowane dzięki staraniom Stowarzyszenia Miłośników Odnowy Zabytków. Od rozpoczęcia działalności przez stowarzyszenie mija już trzy lata. I efekty pracy są widoczne. Członkowie tej organizacji nie marnują czasu. Organizują wernisaże, wystawy oraz kwesty w okresie Wszystkich Świętych. Dzięki pieniądzom w ten sposób pozyskiwanym ratują zabytki na miechowskim cmentarzu. Dotychczas odnowiono już 11 obiektów. Dziś oddanych i poświęconych zostanie pięć kolejnych. - Są to trzy pomniki i dwie płyty nagrobkowe. Odnowiony został pomnik długoletniego kapelana szpitala ks. Szymona Skurczyńskiego, miejsce pochówku ss. Cecylii, Stanisławy, Marty i Anny, pomnik s. Jadwigi, która wiele lat pracowała w szpitalu oraz dwie płyty nagrobkowe: Wincentyny i Jana Rostafińskich i Szczepana Tymińskiego - informuje Elżbieta Żurkowska z SMOZ. Koszt tych prac to 13 tys. zł. W całości tę kwotę pokrywa stowarzyszenie.Wykonawcą prac jest krakowski konserwator Edward Ireno. Stowarzyszenie ma jeszcze do sprzedaży cegiełki i foldery z wystawy Ryszarda Leśniaka. Wiele osób wpłaca też pieniądze na konto bankowe, dlatego istotna jest informacja, że numer konta uległ zmianie. Członkowie stowarzyszenia podkreślają, że zawsze należy pamiętać o tych, którzy odeszli, a którzy dla Miechowa zrobili wiele. Po każdym człowieku powinien pozostać ślad - tak w miejscu, w którym jest pochowany jak i w naszej pamięci.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

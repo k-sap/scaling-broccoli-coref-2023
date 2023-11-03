@@ -1,0 +1,14 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">ale na tym ale na tym polega. na tym polega taka zmiana konstytucji żeby ująć w niej te sytuacje w odpowiedni sposób tak żeby w nagłych przypadkach ten. interreks swoisty mógł te. decyzje niezbędne podejmować natomiast ta decyzja w tej chwili nie jest niezbędna. i myślę że ta sytuacja powinna wskazać partiom politycznym które są w sejmie że być może warto jednak pomyśleć o zmianie konstytucji w tym aspekcie</p>
+        <p xml:id="p-2">a może jest to ruch wyborczy w tym sensie że Bronisław Komorowski chciał pokazać że wybija się na niezależność. nie konsultował tej decyzji z premierem. jest. mężem stanu</p>
+        <p xml:id="p-3">pan. Kalinowski się uśmiecha ale miałem przyjemność rozmawiania z. wicepremierem Pawlakiem jakieś dwie godziny temu i on mi mówił że on rozmawiał z Donaldem Tuskiem i ma jednak wrażenie że Tusk został poinformowany a. sprawa nie została ustalona między. dwoma panami do do końca więc. być może to trochę wzmocni przeciwną tezę ja nie wiem wydaje wydaje mi się że prezes mówił pa. prawdę. no ja myślę że że tu. bez żenady powinniśmy rozdzielić dwa aspekty sprawy jeden to niewątpliwie aspekt merytoryczny bo nikt merytorycznych kwalifikacji Marka Belki nie podważa dla tego. urzędu również jego olbrzymiego prestiżu na świecie co jest istotne na stanowisku prezesa banku centralnego. chciałbym też. nie zgodzić się z hasłem monetarysta ja nie znam wielu monetarystów którzy by wprowadzali podatek od kapitału wydaje się że w teorii monetarnej. monetarnej to je to to jest stawianie wszystkiego wszystkiego na głowie nazywanie Marka Belką</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

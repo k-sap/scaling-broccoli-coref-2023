@@ -1,0 +1,18 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Doktor Plebański, psychiatra nie pierwszej młodości, musiał w swoim czasie na różnych szczeblach urzędniczej hierarchii pokonywać rozliczne przeszkody, uprzedzenia, a nawet przesądy zanim z początkiem lat sześćdziesiątych zdołał przy Szpitalu Miejskim w T. uruchomić ów oddział psychosomatyczny i to od razu na prawach kliniki uniwersyteckiej.</p>
+        <p xml:id="p-2">Domagając się uporczywie, nieraz wbrew własnej karierze, utworzenia podobnej placówki wychodził z prostego założenia, że nie wszyscy nerwowo chorzy nadają się do leczenia w zakładach specjalistycznych, nastawionych przede wszystkim na schorzenia szczególnie ciężkie, w wielu wypadkach nieuleczalne i ponadto, przykładem Tworki, Drewnica czy Kobierzyn, obciążonych w opinii publicznej złowrogim mrokiem dożywotnich obłędów i szaleństw.</p>
+        <p xml:id="p-3">Nawet ludzie uznani za zdrowych w chwili opuszczania owych zakładów wracają do życia z uczuciem wstydu, jakby ciążyło na nich hańbiące piętno.</p>
+        <p xml:id="p-4">Klinika psychosomatyczna, nawet w swej oficjalnej nazwie odżegnując się od zwulgaryzowanego terminu: psychiatryczna, miała być zgodnie z założeniem docenta Plebańskiego czymś pośrednim pomiędzy zakładem psychiatrycznym a zwykłym szpitalem.</p>
+        <p xml:id="p-5">W praktyce stworzyło to w klinice warunki dość szczególne, w których skrupulatna rewizja rzeczy osobistych, ubezpieczone okna, brak noży przy posiłkach, sale z drzwiami obowiązkowo otwartymi i szereg innych ograniczeń regulaminowych harmonijnie koegzystowały z udzielaniem niektórym pacjentom przepustek wyjściowych na soboty, a nawet soboty i niedziele.</p>
+        <p xml:id="p-6">Podobnym luzem regulaminowym stał się ostatnio tzw. pokój psychologa.</p>
+        <p xml:id="p-7">Konieczność nieustannego współżycia z bliźnimi, wynikająca z warunków lokalnych, sprzyjała niekiedy społecznej reedukacji jednostek, których powiązania rodzinne lub zawodowe uległy niebezpiecznemu nadwątleniu chwiejną i kusą niteczką się stając, a nie jak być powinno, dobrowolnie, a nawet z gorliwą ochoczością przyjętym powrozem.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

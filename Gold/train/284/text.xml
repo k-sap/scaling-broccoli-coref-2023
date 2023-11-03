@@ -1,0 +1,25 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">- Nie frasuj się, dobry człowieku. Wszystkie cyranki będą nurkowały, wszystkie rybki będą szukały - kluczyk ci przyniesiemy.</p>
+        <p xml:id="p-2">Zaszurały trzciny, cyranki wypłynęły na staw. Zaburzyła się woda, rybki poszły na głębinę.</p>
+        <p xml:id="p-3">Minęło czasu mało-wiele, znalazła rybka kluczyk na dnie. Jak go znalazła, to go oddała kaczce, a kaczka oddała go kaczorowi, a kaczor wyniósł go na brzeg i powiada:</p>
+        <p xml:id="p-4">- Już się nie frasuj, dobry człowieku. Jużeśmy złoty kluczyk znaleźli.</p>
+        <p xml:id="p-5">Dratewka kluczyk chwycił, kaczorowi podziękował i do czarownicy pogonił.</p>
+        <p xml:id="p-6">Wielce się czarownica zdumiała, ale nie daje o tym poznaki po sobie, tylko powiada:</p>
+        <p xml:id="p-7">Złoty kluczyk, złote drzwi,</p>
+        <p xml:id="p-8">czy ja zginę, czyli ty?</p>
+        <p xml:id="p-9">I kazała Dratewce iść za sobą.</p>
+        <p xml:id="p-10">Przeszli siedemset siedemdziesiąt siedem schodów i stanęli na szczycie wieży.</p>
+        <p xml:id="p-11">Czarownica złotym kluczem złote drzwi otworzyła i weszli do komnaty. A w tej komnacie na ławie siedzi dziewięć panien. Wszystkie są jednakowo biało ubrane i wszystkie mają płócienne zasłony na głowach.</p>
+        <p xml:id="p-12">A czarownica powiada:</p>
+        <p xml:id="p-13">A teraz jest trzecia próba. Albo gody, albo zguba. Za chwileczkę już świtanie, za chwileczkę ranek wstanie. Musisz zgadnąć, jak należy, która z nich jest panną z wieży. Jak nie zgadniesz do poranku, to ci, panku, urwę głowę, i gotowe!</p>
+        <p xml:id="p-14">Przygląda się Dratewka pannom, przygląda, która z nich jest inna, która może być panną uwięzioną, ale one wszystkie jednakowiuteńkie, jako te białe gąski na łące.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

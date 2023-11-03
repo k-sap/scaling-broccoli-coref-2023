@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">- Czy gdyby zbliżające się wybory wygrał Lech Wałęsa, to czy mógłby ubiegać się o reelekcję za 5 lat?</p>
+        <p xml:id="p-2">- Nie. Podobnie zresztą jak Aleksander Kwaśniewski, który gdyby teraz wygrał, nie mógłby po 5- czy 10-letniej przerwie kolejny raz ubiegać się o prezydenturę. Chociaż przyznaję, że kwestię reelekcji w konstytucji można było precyzyjniej ująć.</p>
+        <p xml:id="p-3">- Z jakim systemem rządów mamy w Polsce do czynienia? Prof. Marian Kallas przyznaje, że treść konstytucji nie pozwala na jednoznaczną ocenę.</p>
+        <p xml:id="p-4">- Zasadniczo mamy system parlamentarny, co oznacza, że rząd musi mieć zakotwiczenie w parlamencie i odpowiada przede wszystkim przed parlamentem, który w pewnych granicach może narzucać linię postępowania rządu. Nie możemy jednak zamykać się tylko w kręgu przepisów konstytucyjnych, które - przypomnę - deklarują zasadę trójpodziału władzy. Wiele zależy od bieżącej sytuacji politycznej. Rząd mający mocne poparcie większości posłów może skutecznie narzucać swoją wolę parlamentowi, a gdy nie ma takiej większości, to role mogą się odwrócić. System parlamentarny jest jednak w obecnej konstytucji istotnie skorygowany przez powołanie do życia Urzędu Prezydenta - nie tylko jako reprezentanta państwa lecz również jako "gwaranta ciągłości władzy", choć założenie dla takiego powołania - jest moim zdaniem - nietrafne. Jako ów "gwarant" posiada on konstytucyjne możliwości samodzielnego aktywizowania dwu zasadniczych elementów systemu parlamentarnego: parlamentu i rządu, a także kontrolowania ich działalności oraz przeszkadzania w dojściu do skutków ich aktów. Mimo tych istotnych uprawnień nie podlega on w tym zakresie niczyjej kontroli i nie ponosi za ich wykorzystywanie odpowiedzialności politycznej. Narusza to wewnętrzną logikę systemu parlamentarnego.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

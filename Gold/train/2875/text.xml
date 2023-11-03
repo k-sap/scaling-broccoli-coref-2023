@@ -1,0 +1,18 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Wojtek:</p>
+        <p xml:id="p-2">– Nie traktowaliśmy tych innych wypraw jak konkurencji. Że jeśli komuś coś się stanie, to być może my dojdziemy, a inni nie. Było dla nas nieważne, czy ktoś idzie, czy nie. Czy będziemy pierwsi, czy siódmi. Liczyło się tylko jedno – żeby dojść.</p>
+        <p xml:id="p-3">Uświadamiali sobie to wszystko, czekając na możliwość transportu ku krawędzi biegunowego paku. Znajdowali się o tysiąc sześćset kilometrów od bieguna północnego, w niewielkim osiedlu zatopionym niemalże wśród śniegów kanadyjskiej Arktyki. Osada zwała się Resolute Bay. BIURKO PREZYDENTÓW</p>
+        <p xml:id="p-4">Wątpliwe, czy nazwa "Resolute" utkwiłaby w pamięci całej plejady prezydentów Stanów Zjednoczonych, gdyby nie wieloryby, które wyraźnie nie chciały znaleźć się na kursie "George’a Herza".</p>
+        <p xml:id="p-5">Był rok 1855. Ów statek wielorybniczy, prowadzony przez kapitana Buddingtona, błąkał się już od wielu dni po Morzu Baffina. Wypatrywali nie tylko wielorybów. Musieli unikać kolizji z górami lodowymi i nie mieli najmniejszej chęci dać się zamknąć przez jakieś większe pole lodowe.</p>
+        <p xml:id="p-6">To, co tamtego dnia dojrzał kapitan Buddington w zamglonym powietrzu unoszącym się nad dryfującym na południe polem zwartej kry, w niczym nie przypominało góry lodowej. Przede wszystkim było ciemne i podobne w dużej mierze do tego, na czym płynęli. Statek widmo?</p>
+        <p xml:id="p-7">"Dryfujące po morzach opuszczone statki należą do ich znalazców". Ta myśl nurtowała także kapitana, gdy po lodzie dostali się na pokład statku widma. Nie było na nim żywej duszy. Zesztywniały takielunek pękał przy byle dotknięciu, rozsadzone zbiorniki w ładowniach straszyły wyglądem, a wszelkie metalowe wyroby pokrywała gruba warstwa rdzy. Grotmaszt był roztrzaskany. Z farby niewiele zostało, złaziła olbrzymimi płatami.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

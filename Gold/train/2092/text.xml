@@ -1,0 +1,18 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">W bazach typu JDataStore wykorzystywane są typy danych przedstawione w tabeli 7.1.</p>
+        <p xml:id="p-2">Dołączone narzędzia, poza przeglądaniem danych, dodatkowo zapewniają nam proste mechanizmy administracyjne, tzn. zarządzanie użytkownikami, przydzielanie praw, tworzenie kopii bezpieczeństwa bazy, import danych z innych platform bazodanowych itp. Do wykorzystania mamy trzy aplikacje, z których każda jest używana do innych funkcji.</p>
+        <p xml:id="p-3">- DataBase Pilot zapewnia możliwość przeglądania baz, których aliasy są zdefiniowane w ODBC. Przy jego wykorzystaniu możemy podejrzeć zawartość każdej bazy, do której posiadamy sterownik ODBC, a nie tylko JDataStore.</p>
+        <p xml:id="p-4">- JDataStore Explorer - za pomocą tego narzędzia mamy możliwość tworzenia struktury bazy JDataStore, tworzenia nowych baz, testowania zapytań SQL itd.</p>
+        <p xml:id="p-5">- JDataStore Server - serwer baz danych JDataStore. Jeżeli chcemy stworzyć bazę zdalną, z którą aplikacje klientów będą łączyły się przez sieć, lub umożliwić podłączenie wielu użytkowników, musimy na komputerze uruchomić serwer JDataStore.</p>
+        <p xml:id="p-6">DataBase Pilot</p>
+        <p xml:id="p-7">Aplikację możemy wykorzystać na przykład w sytuacji, gdy jest potrzebna ręczna modyfikacja bazy, a nie posiadamy narzędzi administracyjnych, które powinny być dostarczone z określonym systemem bazodanowym. Na rysunku 7.1 widzimy interfejs aplikacji z listą dostępnych baz danych do przeglądania w lewym oknie. Prawe okno, w zależności od wybranej zakładki, udostępnia dwie funkcje.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

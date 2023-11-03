@@ -1,0 +1,14 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Za ponad 53 tys. zł z budżetu powiatu powstaje 25-minutowy film o ziemi głogowskiej. – Będzie promował też Głogów – zapewnia wicestarosta Marek Rychlik. Wyemitowany zostanie w TVP1.</p>
+        <p xml:id="p-2">„Głogowska odyseja”, tak brzmi tytuł obrazu, ma pokazać jak bardzo atrakcyjnym miejscem jest powiat głogowski, ściągnąć inwestorów i zmienić dotychczasowy obraz, nie zawsze pozytywny. – Film zaprezentuje również walory turystyczno-rekreacyjne naszego powiatu – dodaje Marek Rychlik.</p>
+        <p xml:id="p-3">Praca będzie gotowa prawdopodobnie w pierwszym kwartale tego roku. Obraz realizuje dziennikarka Alina Suworow, współpracująca z „Ekspresem reporterów”, autorka m.in. filmu o Janie Wyżykowskim, odkrywcy złóż miedzi. W cenie ujęta jest również emisja w programie 1 TVP oraz TV Polonia (termin nie jest jeszcze znany).</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

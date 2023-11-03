@@ -1,0 +1,14 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">- Od śmigła! - mechanik odskakuje na bezpieczną odległość, po chwili słychać warkot silnika i niebiesko-biały samolot rusza w stronę pasa startowego. - Sierra-Papa-Charlie prosi o zgodę na start! - Możesz startować - słychać w słuchawkach. Mała, dwuosobowa maszyna po krótkim rozbiegu odrywa się od betonowego pasa na warszawskim Bemowie. Po chwili lecimy nad Tarchominem. Za sterami samolotu AT-3 jego konstruktor Tomek Antoniewski. - Musisz najpierw się przelecieć, inaczej nie zrozumiesz, o czym rozmawiamy - przekonywał przed startem.</p>
+        <p xml:id="p-2">Marzył o lataniu od dziecka, nie mógł więc doczekać się skończenia szesnastu lat, żeby zapisać się do aeroklubu. Fascynacja lataniem przerodziła się w pasję tworzenia. Tomek podjął studia na Politechnice Warszawskiej, podczas których w ramach pracy dyplomowej pod koniec lat osiemdziesiątych zaprojektował samolocik AT-1. - Odbiór dyplomu odbywał się nietypowo, szanowna komisja musiała udać się do hangaru na Bemowo - wspomina Antoniewski. - A samolot lata do dzisiaj w Pile.</p>
+        <p xml:id="p-3">Zanim jednak dyplomowy AT-1 trafił do innego właściciela, stał się podstawą egzystencji spółki, jaką inż. Antoniewski założył z Marcinem Łukasiewiczem. AT-1 zarabiał m.in. holując reklamy i patrolując lasy. Cały dochód szedł na opracowanie kolejnej dwuosobowej konstrukcji. W połowie lat dziewięćdziesiątych powstała maszyna AT-2, która ewoluowała aż do dzisiejszej postaci AT-3, która uzyskała w 1999 r. - jako pierwsza z naszej części Europy - prestiżowy certyfikat JAR-VLA honorowany na całym świecie. Umożliwia on między innymi wykorzystywanie samolotu do regularnych szkoleń i koncesjonowanych usług lotniczych.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

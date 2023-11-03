@@ -1,0 +1,18 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">A gdyby to był czerniak złośliwy, najbardziej niebezpieczny nowotwór skóry? To pytanie spędza dzisiaj sen z powiek kobiecie, która chciała jedynie lepiej wyglądać na plaży. Większość gabinetów, gdzie celem zabiegów jest poprawienie urody i usuwanie niedoskonałości ludzkiego ciała, wie, czym grozi takie niedopatrzenie.</p>
+        <p xml:id="p-2">- Jeżeli pacjent przychodzi do mnie pierwszy raz ze skierowaniem od innego lekarza, lub bez takiego skierowania, to przy podejrzeniu, że mogę mieć do czynienia z czerniakiem, zawsze odsyłam go do onkologa - mówi dr Wiesława Ratajczak, chirurg z poznańskiego gabinetu chirurgii plastycznej.</p>
+        <p xml:id="p-3">Zmiany na skórze mogą powstawać w ciągu całego życia, ale również można się z nimi urodzić. Nadmierne opalanie w młodości, chociaż nie u wszystkich, ale może być głównym sprawcą plam. Te akurat są łatwe do rozpoznania i usuwania w gabinetach kosmetycznych. Bywają znamiona występujące rodzinnie od pokoleń i takie, które nagle zmieniają swój wygląd, albo pojawiają się ni stąd ni zowąd. W takich przypadkach należy już zachować ostrożność.</p>
+        <p xml:id="p-4">- Przy usuwaniu znamion zawsze posyłam wycinek do badań histopatologicznych, aby mieć całkowitą pewność - dodaje poznańska chirurg.</p>
+        <p xml:id="p-5">Także dr Tomasz Fedorowicz, chirurg onkolog z Centrum Diagnostyki Znamion Barwnikowych przestrzega przed diagnozami stawianymi na oko przez niedoświadczoną kosmetyczkę lub tylko przy wykorzystaniu możliwości badania komputerowego.</p>
+        <p xml:id="p-6">Plama barwnikowa powinna być usuwana przynajmniej po konsultacji, ale tylko badanie histopatologiczne daje sto procent pewności.</p>
+        <p xml:id="p-7">Medycyna estetyczna bardzo poszerzyła zabiegi upiększające i odmładzające. Ale, jak zauważa dr Tomasz Fedorowicz, nie wszędzie stosowane są zasady, jakich się tam wymaga.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Podejrzane pokolenie</p>
+        <p xml:id="p-2">Dla manichejczyków podejrzane jest zatem całe pokolenie. Od Leszka Millera, przez Adama Michnika po braci Kaczyńskich i księdza prymasa. Podejrzenia zaś niemal automatycznie stają się oskarżeniem, gdy tylko podejrzani zaczynają temperować ich radykalne postawy. Zwłaszcza gdy ktoś temperuje je niekonsekwentnie, w umysłach manichejczyków rodzi się przypuszczenie, że ma w tym osobisty interes. W tym sensie proponowana przez premiera deesbekizacja oparta na zasadzie zbiorowej odpowiedzialności i ryczałtowej kary, z jednej strony potwierdza i umacnia ich manichejską postawę (bo abstrahuje od bilansu wcześniejszych lub późniejszych osobistych zasług), a z drugiej nasuwa pytanie, jak ten radykalizm pogodzić z subtelnością prezydenckich wywodów w sprawie ustawy lustracyjnej.</p>
+        <p xml:id="p-3">Podobnie atak ojca Tadeusza Rydzyka na liberalne media w obronie abp. Wielgusa nasuwa manichejczykom pomysł, że jego lustracyjny zapał w sprawie Lecha Wałęsy nie był może całkowicie szczery i służył ukryciu problemów środowiska radiomaryjnego. Na tej samej zasadzie wolta Episkopatu w sprawie lustracji Kościoła jest dla manichejczyków oczywistym znakiem, że dotychczasowy opór miał na celu raczej ochronę wątpliwych życiorysów i przekraczających granicę dopuszczalnego ryzyka kompromisów niż obronę chrześcijańskich wartości wyznawanych przez Wojtyłę i Wyszyńskiego.</p>
+        <p xml:id="p-4">Dotychczasowi alianci i protektorzy coraz częściej stają się więc celem podejrzliwych spojrzeń manichejczyków. Natarczywe pytania o ich własne biografie i kompromisy już wiszą w powietrzu. Tu na dłuższą metę nikt nie może liczyć na wyrozumiałość ani nawet na zwykłe zrozumienie. Albo więc bracia Kaczyńscy, ojciec Rydzyk i biskupi in gremio podporządkują się manichejczykom, albo zostaną przez nich otwarcie uznani za część peerelowskiego zła i będą musieli publicznie stawić im czoła, broniąc skomplikowanej logiki ważenia kompromisów, których od każdego wymagało życie w PRL.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

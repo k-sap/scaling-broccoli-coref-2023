@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">W kodzie stosuje się mechanizm korekcji błędów Reed-Solomon na dwóch poziomach korekcji</p>
+        <p xml:id="p-2">SEC - poziom standardowy, w którym dla 42 modułów kodujących dane dodaje się 20 modułów korygujących, co zapewnia możliwość poprawnego odczytu danych dla symbolu uszkodzonego w 16 procentach. EEC - poziom rozszerzony, w którym na każdy moduł kodujący dane przypada jeden moduł zawierający dane o korekcji, co pozwala na poprawny odczyt symboli uszkodzonych w 25 procentach.</p>
+        <p xml:id="p-3">Struktura logiczna</p>
+        <p xml:id="p-4">W kodzie grupy modułów tworzą tzw. słowa kodowe . Jedno słowo kodowe odpowiada jednemu znakowi alfanumerycznemu. Dzięki możliwości kompresji cyfr jest możliwość kodowania dziewięciu cyfr w sześciu słowach kodowych. Kodowane dane dzielą się na dwa komunikaty: komunikat pierwotny - zawiera informacje o trybie kodu, dla niektórych trybów zawiera także pewne informacje o przesyłce, takie jak: trzycyfrowy kod kraju według ISO 3166 kod pocztowy danego kraju trzycyfrowy kod Class of service przydzielony przez przewoźnika określający priorytet w kolejce dwudziestocyfrowy kod do śledzenia ruchu przesyłki dwu- czterocyfrowy kod określający pochodzenie przewoźnika. Komunikat ma długość 60 bitów (modułów). W komunikacie tym wykorzystuje się mechanizm korekcji EEC, co wykorzystuje kolejne 60 bitów. komunikat wtórny - wykorzystuje poziom korekcji SEC i służy do kodowania innych danych dodatkowych, które nie muszą być niezbędne do odczytania (w przypadku szybkiego skanowania). Dane te mogą zawierać informacje o dozwolonych sposobach manipulacji ładunku, na którym są umieszczone lub jego punkcie nadania i odbioru jak również o numerze faktury, o kliencie, numerze zamówienia etc.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

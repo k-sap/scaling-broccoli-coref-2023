@@ -1,0 +1,18 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">– Takim osobom delikatnie zwracam uwagę, że warto na jakiś czas zrezygnować z opalania. Ale często to jak wołanie na puszczy. Jedynie gdy braknie im pieniędzy, to rezygnują z solarium. Gdy złapią trochę grosza, natychmiast znowu przychodzą albo idą do konkurencji – mówi właścicielka jednego z solariów w Katowicach.</p>
+        <p xml:id="p-2">Tanoreksja, czyli uzależnienie od sztucznego opalania, ma mechanizm podobny do anoreksji. Anorektykom też wydaje się, że są wciąż grubi, choć tak naprawdę zostały z nich skóra i kości. Poddajemy się takiemu wewnętrznemu przymusowi odchudzania, opalania. Tylko z pozoru niewinna tanoreksja jest nałogiem równie groźnym jak inne. Śmiertelnie groźnym. Liczba godzin spędzonych na opalaniu pod gołym niebem i w gabinecie nie może przekraczać rocznie 10 godzin. Tanorektycy nie znają takich ograniczeń.</p>
+        <p xml:id="p-3">Pierwszy raz zjawisko zostało zdiagnozowane na początku lat 90. przez dziennikarzy BBC, którzy poświęcili jeden z reportaży uzależnionej od opalenizny nastolatce i wymyślili nazwę.</p>
+        <p xml:id="p-4">Skóra cierpi</p>
+        <p xml:id="p-5">Moda na opalanie trwa oczywiście znacznie dłużej (rozpropagowała ją Coco Chanel) i ma licznych miłośników. Nie bez powodu od lat 80. notowany jest wzrost zachorowań na czerniaka, a także epidemia chorób krążenia.</p>
+        <p xml:id="p-6">W Stanach Zjednoczonych stwierdzono, że przyczyną powstania aż 90 proc. wykrywanych nowotworów skóry było nadmierne opalanie się pacjentów.</p>
+        <p xml:id="p-7">Dermatolodzy na solaria nie patrzą chętnym okiem. Opalanie nie tylko przyspiesza starzenie się skóry, powoduje oparzenia i wysypki, ale też może spowodować powstanie najgorszego z nowotworów – czerniaka złośliwego. Osoby o jasnej karnacji, ze skłonnościami do przebarwień w ogóle powinny unikać słońca i solariów.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

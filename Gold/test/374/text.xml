@@ -1,0 +1,17 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Grając z Austrią i Walią polscy piłkarze spoglądać będą na Anglików, którzy zmierzą się w sobotę w Cardiff z Walią i w środę w Belfaście z Irlandią Północną. Anglicy to przecież nasz rywal do pierwszego miejsca w grupie szóstej eliminacji mistrzostw świata.</p>
+        <p xml:id="p-2">Okazuje się, że Anglicy w tych spotkaniach wystąpią w osłabionym składzie. To na rękę polskiej drużynie, która liczy na potknięcia zespołu trenera Svena-Gorana Erikssona.</p>
+        <p xml:id="p-3">Osłabienia drużyny angielskiej są rzeczywiście kluczowe. W meczach z Walią i Irlandią z powodu kontuzji nie zagra obrońca Chelsea Londyn John Terry. W Monaco w plebiscycie UEFA wyróżniającym zawodników poprzedniego sezonu Ligi Mistrzów Terry został uznany za najlepszego obrońcę.W jego miejsce powołany został Zat Knight z Fulham.</p>
+        <p xml:id="p-4">Terry doznał kontuzji kolana podczas ostatniego ligowego meczu z Tottenhamem, wygranego przez Chelsea 2:0. Nie brał udziału w treningach angielskiej kadry i został odesłany ze zgrupowania przez selekcjonera Anglii Svena-Gorana Erikssona.</p>
+        <p xml:id="p-5">To niejedyny problem kadrowy szwedzkiego szkoleniowca. Na kontuzje narzekają także Sol Campbell i Ledley King, którzy także nie trenowali, a indywidualne zajęcia miał Steven Gerrard (we wspomnianym plebiscycie UEFA uznany za najlepszego piłkarza poprzedniego sezonu Ligi Mistrzów), który z powodu kłopotów zdrowotnych nie wystąpił w niedawnym meczu Liverpoolu z CSKA Moskwa o Superpuchar Europy. W zajęciach na stadionie Arsenalu nie uczestniczył także bramkarz Chris Kirkland.</p>
+        <p xml:id="p-6">Na lekkie bóle stopy narzeka David Beckham, ale zgodnie z zapewnieniami sztabu medycznego angielskiej reprezentacji, rozgrywający Realu Madryt będzie gotowy do gry w najbliższych meczach.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

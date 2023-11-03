@@ -1,0 +1,12 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Piątej w dziejach Teatru Narodowego inscenizacji "Ślubów panieńskich" bliżej klimatem do pełnych nostalgii sztuk Czechowa, a momentami nawet dramatów Ibsena, niż komedii z krwi i kości, jakie przecież pisał Aleksander Fredro. Pomysł reżysera i odtwórcy roli Radosta Jana Englerta polegał na tym, żeby miłosne perypetie dwóch par młodych ludzi opowiedzieć z perspektywy swojego bohatera, starszego już pana, mającego świadomość zarówno upływu czasu, jak i bezpowrotnie straconej szansy na życiową miłość. Na miłosną ciuciubabkę młodych patrzy więc ciepło, z wyrozumiałością, ale i z pewnym żalem. W Guciu (świetny, nakręcony jak sprężyna Marcin Hycnar) odnajduje siebie sprzed lat - zresztą sceny między nimi należą do najlepszych w przedstawieniu - a w jego związku z Anielą (Patrycja Soliman) szansę na odzyskanie tego, co przed laty utracili on sam i pani Dobrójska (Gabriela Kownacka). Para młodych jest tu lustrzanym odbiciem starszych bohaterów: on pełen energii, wie co to wielkomiejskie rozrywki, ona - wycofana, spokojna, na granicy autyzmu. Trzymająca się pod boki, zamaszysta Klara Kamilli Baar i wzdychający Albin Grzegorza Małeckiego są tu tylko dodatkiem. Akcja przedstawienia rozgrywanego na trawiastym placyku, na który aktorzy i publiczność dostają się przechodząc przez XIX-wieczny salon pani Dobrójskiej, toczy się powoli, niemal uroczyście, wiele scen jest wręcz celebrowanych. Tak jakby Radost chciał jeszcze raz, tym razem już wyposażony w dzisiejszą wiedzę i doświadczenie, przeżyć swoją młodość, a Englert jeszcze raz rozsmakować się w każdej frazie sztuki, w której przed laty grał rolę Gucia. Ceną za to jest spektakl nieco przyciężki i nudnawy.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

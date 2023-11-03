@@ -1,0 +1,31 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Szerucki przetarł wystrzępionym rękawem zroszone policzki, wszedł, zamknął za sobą drzwi i poczuł, że jest niedobrze.</p>
+        <p xml:id="p-2">Ostry niepokój zawiał głowę, oczy jego spotkały dwa karabiny oparte w rogu futryny, a ulicę zapełniła nagła bieganina.</p>
+        <p xml:id="p-3">Ktoś bez tchu krzyknął: - Ruuh!</p>
+        <p xml:id="p-4">Powinien się był położyć, upaść pod nogi nadbiegającemu.</p>
+        <p xml:id="p-5">Cofnąć się do drzwi nie było czasu.</p>
+        <p xml:id="p-6">Z przysiadu uderzył pierwszego głową w dołek i skoczył w korytarz.</p>
+        <p xml:id="p-7">Na podwórzu stał duży wychodek, na parkanie składana drabina i bosak.</p>
+        <p xml:id="p-8">Pośród wolnej przestrzeni zawirował śnieg i dym zarzucał płachcie cuchnące płonącymi szmatami.</p>
+        <p xml:id="p-9">- To jest twoja sprawka , ty skurwysynie - posłyszał za sobą i nogi mu od razu zlodowaciały.</p>
+        <p xml:id="p-10">Ale odwrócił się i zaczął torować sobie drogę strzałami.</p>
+        <p xml:id="p-11">Jakiś baudienst skrył się za deski.</p>
+        <p xml:id="p-12">W czarnej sieni Szerucki widział jeszcze błyski ze swego mauzera.</p>
+        <p xml:id="p-13">Czasem jest dziwnie latem.</p>
+        <p xml:id="p-14">Już o świcie na spotkanie słońca leci chmura z grzmotami, ciepły wiatr goni po polu słomę, wznosi nad ścieżkami niebieskawy pył.</p>
+        <p xml:id="p-15">Jeszcze nie zdążył zrobić się dzień, a już nad Szabasową biją pioruny.</p>
+        <p xml:id="p-16">Gabe Gudeł, Miś Kunda i Dudi spali w polu na pokosach koniczyny.</p>
+        <p xml:id="p-17">Kiedy wiatr począł szarpać z pleców zwiędłą nać, zbudził się Dudi, trącił nogą Misia. - Wstawaj, deszcz pada!</p>
+        <p xml:id="p-18">Zbliżał się szum.</p>
+        <p xml:id="p-19">Pierwsze wielkie krople upadły Dudi na czoło i na gołe kolana.</p>
+        <p xml:id="p-20">Nagarnął koniczynę i położył sobie na plecy.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

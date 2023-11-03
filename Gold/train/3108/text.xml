@@ -1,0 +1,16 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Moja Wdowa, ona zawsze coś trafnego zacytuje. I właśnie zacytowała niedawno coś śmiesznego, coś śmiesznie bolesnego. Coś, co sobie ledwie uzmysławiałem jako jedną z przyczyn mego obrzydzenia się ludzką skórą, tego odpowiednio sam nie potrafiłem skrótowo nazwać.</p>
+        <p xml:id="p-2">Moja Wdowa zacytowała mi pewnego pisarza (ona go czytała po niemiecku, ona zawsze wszystko czyta po niemiecku), żydowskiego pisarza, Jehoschuę. "Ci ludzie", sarknął. "Tuczą swoje dzieci, dokarmiają, pasą, pieszczą, a potem wysyłają na wojny"... Długo śmialiśmy się, rzeczywiście, cha, cha, tak jest.</p>
+        <p xml:id="p-3">Cha, cha - tak jest! Cha, cha! - powtarzaliśmy, kładliśmy pomiędzy słowa nasz bezlitosny śmiech... - Pasą odżywkami, ważą-mierzą, pieszczą, znowu pasą-tuczą, ważą-mierzą, a potem, cha, cha, wysyłają na wojny, ciach, trach, dziecka nie ma.</p>
+        <p xml:id="p-4">Dziecko było - dziecka nie ma. Cha, cha. Śmieszne, straszne.</p>
+        <p xml:id="p-5">Nasze zaprzyjaźnione ze sobą dzieci, opowiadałem wam o tym, może nawet zakochane w sobie dzieci nie chciały mieć dzieci. ... - O nie! - wołała moja córka. - Nie, nie, jeszcze by kto zabił... - Dzieci? przerażał sie syn Mojej Wdowy. - Dzieci na razie nie. Nie, nie, świat to nie miejsce dla dzieci...</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

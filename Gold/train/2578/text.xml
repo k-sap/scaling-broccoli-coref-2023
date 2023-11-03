@@ -1,0 +1,19 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Czy to nie jest wykopywanie topora wojennego?</p>
+        <p xml:id="p-2">Wie pani, dla nas nasze krzywdy są oczywiste, ale w świecie nie. Dopiero jak pokażemy dokumenty, okaże się, jaki to był ogrom krzywd. Dopóki się tych zadr nie wyjmie i nie pokaże, wszelki pokój będzie tylko pozorny.</p>
+        <p xml:id="p-3">O ile prawnicy wskazują, że domaganie się reparacji wojennych między państwem niemieckim a polskim jest niemożliwe, waszym zdaniem możliwe jest dochodzenie rekompensat na drodze cywilnej.</p>
+        <p xml:id="p-4">Jedna z tych dróg podkreśla, że od września 1939 roku, tu w Kraju Warty, byliśmy mieszkańcami Trzeciej Rzeszy. Czy byliśmy obywatelami niemieckimi czy też mniejszością - nieważne, lecz w tej sytuacji byliśmy grabieni przez ,, własne’’ państwo, Niemcy, do których możemy się zwracać o naprawienie krzywd.</p>
+        <p xml:id="p-5">Czy będzie to proces wygrany?</p>
+        <p xml:id="p-6">To inna sprawa. My wskazujemy na pewne możliwości. Zresztą bez względu na wynik, taki proces stałby się głośny - może dopiero wtedy do niektórych dotarłby wreszcie obraz krzywd wyrządzanych Polakom przez Niemców.</p>
+        <p xml:id="p-7">Sporo szumu jest wokół Fundacji genewskiej, która zwraca się do niektórych Polaków, obiecując im odszkodowanie za utracone przedsiębiorstwa prywatne.</p>
+        <p xml:id="p-8">Znam sprawę jednego z panów, który dowiódł, że jego ojcu zagrabiono i zniszczono dwa młyny. Ocenił straty na 100 tys. zł, Fundacja chciała mu przyznać...10 tys. zł, w zamian za zrzeczenie się wszelkich dalszych roszczeń. Ja patrzę na to tak: Niemcy czują, że ciągle mają jakiś dług do spłacenia i za wszelką cenę chcą to zakończyć.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

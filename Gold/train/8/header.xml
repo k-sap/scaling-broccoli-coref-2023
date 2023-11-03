@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<teiHeader xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xml:lang="en">
+  <fileDesc>
+    <titleStmt>
+      <title>Paragraphs: p-599,p-600,p-601,p-602,p-603,p-604,p-605,p-606,p-607,p-608,p-609,p-610,p-611,p-612,p-613,p-614,p-615,p-616,p-617,p-618,p-619,p-620,p-621 from NKJP text with id: IJPPAN_PolPr_GWroc00348</title>
+    </titleStmt>
+  </fileDesc>
+  <profileDesc>
+    <textClass>
+      <catRef scheme="#nkjp" target="Dzienniki"/>
+    </textClass>
+  </profileDesc>
+  <revisionDesc/>
+</teiHeader>

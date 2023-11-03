@@ -1,0 +1,22 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">xxxx20 Mi się krótki podobają</p>
+        <p xml:id="p-2">orbit Hah jaki bezsens. Przeciez zalezy jakie wlosy do kogo,kazdy jest inny.</p>
+        <p xml:id="p-3">boss_ka_ulicznica_mila:) krótkie, ładne strzyzenie i sprawa załatwiona</p>
+        <p xml:id="p-4">majaaa Mi się podoba jak chłopak ma krótkie włosy, a najlepiej podgolone na bokach a na górze troszke dłuższe i na żelu. Tak mnie to kręci, że zaprowadziłam mojego chłopaka do mojej fryzjerki i zrobiła mu taka fryzurkę</p>
+        <p xml:id="p-5">Wi(L)u$ Mi sie najbardziej podoba jak chlopak ma krotkie wlosy za to nie cierpie jak ma dlugie, feee! To jest oblesne!</p>
+        <p xml:id="p-6">mała*czarna Mi podobają sie chłopcy z krótkimi włosami kiedyś lubiłam długie ale to sie zmieniło.</p>
+        <p xml:id="p-7">simonka23 Krotkie fajnie sciete i na żel</p>
+        <p xml:id="p-8">undercover Ja nosze fajnie krotko sciete i na zelu Ale coraz czesciej mysle nad zapuszczeniem wlosow ... Cholera tylko nie wiem jak bym wtedy wygladal</p>
+        <p xml:id="p-9">Paulina91 Oj takie długie do ramion Na chłopaków z krótkimi włosami to ja praktycznie nie zwracam uwagi a jak ma takie długie, ale nie związane w pytke, bo to dziwnie wygląda , tylko takie do ramion... Najlepiej jeszcze blond. Ochh chyba jestem zakochana</p>
+        <p xml:id="p-10">Cisza U mężczyzn wolę długie włosy ale jeśli facet mi się podoba to beż różnicy czy jest długo czy krótkowłosy czy ma irokeza czy dredy.</p>
+        <p xml:id="p-11">*fenny* A ja lubie takie irokezika małego powiedzmy o takiego jak na zdjeciu:</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

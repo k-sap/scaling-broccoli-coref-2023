@@ -1,0 +1,17 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">W</p>
+        <p xml:id="p-2">Katowicach można się doliczyć 15 placów budowy zespołów mieszkaniowych.</p>
+        <p xml:id="p-3">Firma Holdimex, budująca na katowickim Osiedlu Ptasim zagospodarowuje 13-hektarowy teren, na którym powstają nowe ulice. Dotąd zrealizowała już 400 mieszkań: przy ul Zimorodków, Gawronów, Kormoranów, Drozdów, w przygotowaniu jest m.in. ulica Pliszek. Drugie tyle Holdimex będzie budował na Osiedlu Ptasim, w trzy- lub pięcio piętrowych budynkach o urozmaiconej architekturze. Kto chciałby tu zamieszkać, uzbroić się musi w cierpliwość, bowiem teraz sprzedaje się i to w szybkim tempie, mieszkania, które są jeszcze na papierze, a będą gotowe dopiero w 2008 r. Ich cena jest wyższa od dotychczasowej, bowiem metr kwadratowy w tak zwanym stanie deweloperskim (bez białego montażu, drzwi wewnętrznych i pokryć podłogowych), będzie kosztował 3.900 zł brutto.</p>
+        <p xml:id="p-4">Całkowite ceny, wyliczane wraz z podatkiem VAT, podaje też firma Exland. Jej pozostały do sprzedania tylko dwa mieszkania przy ul. Panewnickiej, gdzie zbudowała ich 40. W trakcie budowy jest budynek przy ul. Partyzantów, w którym będzie 30 mieszkań w cenie po 2.600 zł brutto za metr kwadratowy. Przekazane zostaną w kwietniu 2007 r.</p>
+        <p xml:id="p-5">Apartament za milion</p>
+        <p xml:id="p-6">Rozrasta się Osiedle Bażantów w Katowicach Kostuchnie, budowane od 2001 r. przez Millenium Inwestycje. Będzie ono wyposażone w kompleks sportowy (boisko, korty tenisowe, halę do squasha, place zabaw). Tutejsze mieszkania i domy sprzedaje się także w trakcie realizacji. W tym roku firma odda dwa zespoły domów w zabudowie szeregowej (po 9 w każdym ciągu), które zakupiono jeszcze na początku 2005 r. Metr mieszkania kosztuje tutaj 2.590 zł. Ceny domów wynoszą 2200 zł za metr, a działek 160 zł za metr. Tutaj wszystkie kwoty podawane są bez 7 proc. podatku VAT, który trzeba doliczyć.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<teiHeader xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xml:lang="en">
+  <fileDesc>
+    <titleStmt>
+      <title>Paragraphs: p-706,p-707,p-708,p-709,p-710,p-711,p-712,p-713,p-714,p-715,p-716,p-717 from NKJP text with id: PELCRA_3203000000286</title>
+    </titleStmt>
+  </fileDesc>
+  <profileDesc>
+    <textClass>
+      <catRef scheme="#nkjp" target="Typ naukowo-dydaktyczny"/>
+    </textClass>
+  </profileDesc>
+  <revisionDesc/>
+</teiHeader>

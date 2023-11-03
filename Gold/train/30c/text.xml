@@ -1,0 +1,14 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">W trzecim kwartale 2010 roku Ruch Chorzów zarobił na czysto aż 5,5 mln zł. Tak dobrych wyników finansowych notowany na warszawskiej giełdzie na rynku NewConnect klub jeszcze nie miał. To był najlepszy kwartał w historii chorzowskiej spółki.</p>
+        <p xml:id="p-2">Wiadomość o zysku Niebieskich na pewno ucieszy jego kibiców. Mniej optymistyczne jest to, że większość tych pieniędzy pochodziła ze sprzedaży do Polonii Warszawa dwóch reprezentantów Polski, grających w Ruchu w poprzednim sezonie. Za transfer Artura Sobiecha "Czarne Koszule" zapłaciły milion euro, z czego do kasy Ruchu trafiło 2,8 mln zł. Z kolei Maciej Sadlok został sprzedany do zespołu ze stolicy za 2,7 mln zł, a chorzowianie dostali z tego tytułu 2,4 mln zł, bo podobnie jak w przypadku Sobiecha, musieli podzielić się procentem od transferu z pierwszym klubem zawodnika. Pieniądze z tej transakcji już trafiły do Ruchu, ale Sadlok będzie grał na Cichej do końca tego roku i dopiero zimą przeniesie się do Polonii.</p>
+        <p xml:id="p-3">Dobre wyniki klubu pozwoliły zniwelować straty z pierwszego półrocza. Po dziewięciu miesiącach spółka ma 4,4 mln zł zysku netto i jak podkreśla prezes Ruchu Katarzyna Sobstyl nie ma zaległości ani wobec ZUS oraz urzędu skarbowego, ani wobec piłkarzy i pracowników klubu.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

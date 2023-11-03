@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Sobótkowa noc</p>
+        <p xml:id="p-2">Noc Świętojańska przypada w wigilię św. Jana (23 czerwca). Jest to stary pogański zwyczaj ludowy, który dzisiaj przeżywa swój renesans. Jak mówi etnograf dr Euzebiusz Gil - ta najkrótsza noc w roku jest przede wszystkim świętem ognia, mającego moc oczyszczającą, wody i miłości.</p>
+        <p xml:id="p-3">Jednym ze zwyczajów nocy sobótkowej było skakanie młodzieży przez ognisko. A kto wyżej skoczył mógł liczyć na to, iż będzie zdrowy i żadne złe moce nie będą się go imały. Wierzono bowiem, iż w tę noc atakują one najsilniej. Ponadto w ognisku palono zioła, uzyskujące w ten sposób właściwości oczyszczające. W tym czasie złe duch wyganiano też z wody w studniach. Robiono to poprzez wrzucenie do niej kawałka żelaza lub nasypywano soli. Od wieków poszukiwano również legendarnego kwiatu paproci, który tak naprawdę szczęścia nie przynosi. W Noc Świętojańską zawsze było dużo wrzasku i wesołości. Cały obrzęd wyrósł ze środowiska wiejskiego i głównie w nim był obchodzony. Nie znaczy to jednak, iż w miastach pozostawał nieznany. W nich przejawiał się raczej w formie zabawy bez demonologii ludowej.</p>
+        <p xml:id="p-4">OŁDRZYCHOWICE KŁODZKIE. Świętojańską imprezę po raz pierwszy zorganizowano w tej wiosce. Co prawda nie odbyła się ona w wigilię św. Jana, ale 24 czerwca, niemniej tak jak za dawnych czasów, nie zabrakło w niej ognia, wody - zdarzenie miało miejsce w pobliżu rzeki i stawów - młodzieży i dobrej zabawy. Organizatorem spotkania byli pracownicy Gminnego Ośrodka Kultury. W jego przygotowanie włączyły się także panie z Koła Gospodyń Wiejskich z tej miejscowości, które prowadziły kawiarenkę z własnymi wypiekami. Jak mówi dyrektor GOK-u Anna Borecka - impreza ta ma szansę stać się cykliczną. W tym roku, aby nieco ją urozmaicić i przybliżyć uczestnikom ten ludowy zwyczaj zaprosiła E. Gila, który o nim opowiedział.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

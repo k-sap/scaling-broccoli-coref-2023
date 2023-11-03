@@ -1,0 +1,16 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Jakoś nigdy nie fascynowali mnie wielcy zdobywcy. Jeśli co nieco znam losy Napoleona, to dlatego, że zahaczają one o naszą historię, zresztą w sposób, który nie bardzo jedna mu sympatię. Współczuję Wielkiej Armii, kiedy topniała na rosyjskich mrozach w drodze ku Berezynie, ale pytam duchów napoleońskich marszałków: po coście tam leźli? Mapy nie widzieliście?</p>
+        <p xml:id="p-2">Cóż, na mapie nie widać bezkresnych śniegów i bezdroży. Zresztą Hitler miał i mapy, i zdjęcia lotnicze, i jakże pouczający przykład Napoleona, a też pognał we własną zgubę.</p>
+        <p xml:id="p-3">W porównaniu z Napoleonem czy Aleksandrem Wielkim barbarzyńscy wodzowie wydają się mądrzejsi: wpadali na ziemię bogatych sąsiadów z impetem wystarczającym na pierwsze potyczki, a potem, wracali z brańcami, wioząc "łupy bogate, w zamkach i cerkwiach zdobyte".</p>
+        <p xml:id="p-4">Mistrzami podbojów byli Rzymianie z Lacjum - krok za krokiem podporządkowali sobie Półwysep Apeniński, a za cesarstwa raczej romanizowali niż eksterminowali podbite ludy. W każdym razie zawsze wiedzieli, dlaczego i po co prowadzili wojnę.</p>
+        <p xml:id="p-5">Aleksander Macedoński nie bardzo wiedział. Jego ojciec, Filip, niewiele go nauczył, bo sam nie pojmował, czym jest demokracja i wolność. Peter Green, autor monografii Aleksandra, tak oto diagnozuje przyczyny ciągłych akcji antymacedońskich w miastach greckich: "Ostatecznie wolność to prawo decydowania o własnej przyszłości, to prawo do tego, żeby być głupim, mściwym, nieuczciwym lub rządzonym przez partie polityczne, jeśli taka jest wola większości. Ludzie wolni zawsze chętniej popsują jakąś sprawę w drodze głosowania, niż pozwolą, by jakiś dyktator, choćby najbardziej dalekowzroczny i najłaskawszy, miał ich zmusić do skutecznego działania i osiągania sukcesów. Triumf Filipa był triumfem nad nieudolnym, przegniłym idealizmem, nad zdezorganizowanymi amatorami, którzy nigdy nie potrafili dojść między sobą do zgody".</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

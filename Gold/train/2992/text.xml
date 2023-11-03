@@ -1,0 +1,18 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">– Coś się stało? – pytał szczerze zaniepokojony.</p>
+        <p xml:id="p-2">– Nie wiadomo co. Żaden doktor nie wie – machnęła reką. – Madame bardzo słaba, nie może chodzić, nie może jeść, już trzeci tydzień, jak nie wstaje z łóżka.</p>
+        <p xml:id="p-3">Wprowadziła go do pokoju "bazaltowego", przekręciła kontakt. W "Villa Eucalipti", w przeciwieństwie do domu Ostrogskiego, założono już elektryczność i jaskrawa, ordynarna pożoga zalała nieprzytulne wnętrze. U siebie pozwolił zainstalować to modne urządzenie jedynie w kuchni i w wozowni.</p>
+        <p xml:id="p-4">Po kwadransie poproszono go na górę. Mała lampka rozpraszała mrok, rzucając nikłe światło na błękitną tapetę. Pod uniesionymi zasłonami rozległego łoża z trudem udało mu się dostrzec ginącą w powodzi koronek, pomarszczoną twarz pani Lamaire.</p>
+        <p xml:id="p-5">– Niech pan podejdzie bliżej, bliżej, mon Michel – usłyszał słaby głos. – Usiądź tu, chcę ci powiedzieć coś ważnego – ręka pod kołdrą zrobiła nieokreślony ruch, jakby wskazując stojący obok fotel.</p>
+        <p xml:id="p-6">Posłusznie zajął miejsce i z bliska patrzył na kosmyki brudnobiałych włosów, wymykające się spod nocnego czepca. W fałdach zmarszczek, w jamach zapadniętych oczu zaległy głębokie cienie, czyniąc z tej pięknej niegdyś twarzy przeraźliwą maskę, kontrastując z półprzejrzystą, pokrytą brunatnymi skazami skórą policzków. Jak można aż tak się zmienić w ciągu paru tygodni, Boże mój! – przemknęło mu przez myśl.</p>
+        <p xml:id="p-7">– Wszystko, co mówiłam ci ostatnio, to bzdura, naiwne wymysły starej kobiety – szeptał głos z głębi łoża. – Łudziłam się, że każda pora życia ma swoje prawa, że prawo starości to spokojna zgoda na świat i jego zasady. Nieprawda. Nie ma zgody na śmierć, nie ma żadnego na nią przygotowania... Ciągle mnie mdli, mdli, ciągle się kręci w głowie...</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

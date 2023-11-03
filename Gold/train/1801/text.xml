@@ -1,0 +1,20 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">A jeśli już daliśmy się oszukać? Czy istnieje szansa na odzyskanie pieniędzy?</p>
+        <p xml:id="p-2">To zależy. Jeśli to my źle zrozumieliśmy warunki sprytnie skonstruowanej umowy, w której w zawoalowany sposób firma zobowiązuje się nie do znalezienia lokalu, tylko podania adresów, to nic się nie da zrobić. Czasem firmy nawet z tej umowy się nie wywiązują – oferują nieaktualne lub zmyślone adresy. W takim przypadku możemy zażądać oddania pieniędzy.</p>
+        <p xml:id="p-3">Pod warunkiem że uda się tę agencję sprzedającą adresy ponownie znaleźć.</p>
+        <p xml:id="p-4">To rzeczywiście może być bardzo trudne. Dlatego tak ważny jest wybór firmy. Jeśli jest ona niewielka, zawsze starajmy się zebrać o niej jak najwięcej informacji. Trzeba się przynajmniej dowiedzieć, kto jest jej właścicielem.</p>
+        <p xml:id="p-5">Czy udało się jakiegoś nieuczciwego pośrednika zaciągnąć do sądu?</p>
+        <p xml:id="p-6">Z tego co wiem, to nie. Ale jest światełko w tunelu. W grudniu 2007 roku weszła w życie ustawa o zwalczaniu nieuczciwych praktyk rynkowych. Można się zastanowić, czy działalność takich firm nie narusza przepisów tej ustawy, gdyż wprowadza konsumentów w błąd poprzez sposób prezentowania swojej oferty.</p>
+        <p xml:id="p-7">Ilu takich pseudopośredników może działać na rynku?</p>
+        <p xml:id="p-8">Nie jesteśmy w stanie tego oszacować. Nasz wydział może jedynie opierać się na liczbie skarg, które do nas wpływają. A jest ich coraz więcej. I praktycznie każda dotyczy innej firmy, z tym że jedna firma może działać pod różnymi nazwami.</p>
+        <p xml:id="p-9">Są okresy, gdy takich firm pojawia się więcej?</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

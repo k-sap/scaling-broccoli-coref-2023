@@ -1,0 +1,21 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Przestępstwa przeciwko mieniu wojskowemu.</p>
+        <p xml:id="p-2">Art. 328. § 1. Żołnierz, który samowolnie dysponuje przedmiotem swego osobistego wyposażenia, w szczególności przedmiot taki zbywa, zastawia lub go użycza innej osobie, podlega karze pozbawienia wolności do lat 2.</p>
+        <p xml:id="p-3">§ 2. Ściganie następuje na wniosek dowódcy jednostki.</p>
+        <p xml:id="p-4">Art. 329. § 1. Żołnierz, który samowolnie dysponuje bronią lub innym środkiem walki, podlega karze pozbawienia wolności od 6 miesięcy do lat 5.</p>
+        <p xml:id="p-5">§ 2. Żołnierz, który samowolnie zabiera broń wojskową lub inny środek walki, podlega karze pozbawienia wolności od roku do lat 10.</p>
+        <p xml:id="p-6">Art. 330. § 1. Żołnierz, który samowolnie używa wojskowego statku powietrznego lub wodnego dla celu nie mającego związku ze służbą, podlega karze pozbawienia wolności do lat 3.</p>
+        <p xml:id="p-7">§ 2. (132) Tej samej karze podlega żołnierz, który samowolnie używa wojskowego pojazdu mechanicznego lub innego wojskowego pojazdu z uszczerbkiem dla interesów służby lub w celu osiągnięcia korzyści majątkowej.</p>
+        <p xml:id="p-8">Art. 331. Żołnierz, który nieumyślnie dopuszcza się do utraty posiadanej broni służbowej, podlega karze pozbawienia wolności do lat 3. Przypisy:</p>
+        <p xml:id="p-9">1) Art. 5 § 3:</p>
+        <p xml:id="p-10">- zmieniony przez art. 1 pkt 1 ustawy z dnia 26 maja 1982 r. o zmianie niektórych przepisów prawa karnego i prawa o wykroczeniach (Dz.U.82.16.125) z dniem 7 czerwca 1982 r. - zmieniony przez art. 1 pkt 1 ustawy z dnia 10 maja 1985 r. o zmianie niektórych przepisów prawa karnego i prawa o wykroczeniach (Dz.U.85.23.100) z dniem 1 lipca 1985 r.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

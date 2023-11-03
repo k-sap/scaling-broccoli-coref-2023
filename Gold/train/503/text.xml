@@ -1,0 +1,20 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">sp6: myślę że to jest taka. to jest taka prosta opowieść o człowieku z tradycjami który. taki filmik pod tytułem jestem stąd robiłem to i myślę że on jest sympatyczny. to to budzi sympatię. nie wiem czy on ma dostateczny pazur do tego żeby wygrać wybory i to w dodatku w pier. w pierwszej turze jak to co niektórzy optymiści w Platformie. wywnioskowali nie wiem. z na. z euforii sondażowej ale on jest sympatyczny. mnie się podoba</p>
+        <p xml:id="p-2">sp5: a ja nie obejrzałem więc nie ma zdania ale obiecuję że zaraz po powrocie do domu siądę przed komputerem i obejrzę</p>
+        <p xml:id="p-3">sp0: kiedy będzie klip Jarosława Kaczyńskiego ? zdjęcia się zaczęły już już dzisiaj z tego z tego co wiemy</p>
+        <p xml:id="p-4">sp4: będzie niedługo rzeczywiście będzie niedługo jeżeli chodzi o klip Bronisława Komorowskiego to z tego co widziałem to</p>
+        <p xml:id="p-5">sp0: młodzi ludzie tam mają się pojawiać w takich niezobowiązujących strojach</p>
+        <p xml:id="p-6">sp4: nie było wpadki. bo pan Bronisław Komorowski zalicza kolejne wpadki tym razem udało się. żeby żeby tych wpadek nie było</p>
+        <p xml:id="p-7">sp0: i zauważamy te wpadki</p>
+        <p xml:id="p-8">sp2: a ja mam. ja z kolei mam wrażenie że ten. że ten film jest mam nadzieję że jest pierwszym odcinkiem filmów o panu marszałku Komorowskim chociaż ja chciałbym usłyszeć co planuje w Polsce zrobić jaką Polskę. chce nam wszystkim przedstawić i zaoferować przez najbliższe pięć dziesięć piętnaście lat</p>
+        <p xml:id="p-9">sp0: to na razie żaden z kandydatów nam tego nie mówi jutro Jarosław Kaczyński w Zakopanem będzie ogłaszał swój program</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

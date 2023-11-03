@@ -1,0 +1,16 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Południowy Koncern Energetyczny, dysponując łączną mocą 4640 MW, zajmuje ok. 17 proc. krajowego rynku energii. W przyszłym roku jego akcje trafią na giełdę. Z prywatyzacji elektrowni do państwowej kasy powinno wpłynąć blisko 30 mld dolarów. - Jesteśmy na etapie, kiedy można jeszcze zastanawiać się i wybierać, czy chcemy mieć energetykę polską, czy tylko energetykę w Polsce? - mówi Jan Kurp, prezes PKE i elektrowni Jaworzno III, która była inicjatorem powstania koncernu.</p>
+        <p xml:id="p-2">Na dłuższą metę nie mamy jednak szans w konkurencji z zachodnimi firmami produkującymi więcej prądu niż cała polska energetyka: - Nam chodzi o to, żeby drogo sprzedać swoją skórę i być liczącym się podmiotem w koncernie, a nie peryferyjną elektrownią - dodaje Kurp. - Również o to, żeby sprzedawać elektrownie, a nie rynek energii.</p>
+        <p xml:id="p-3">Mur na 5 lat</p>
+        <p xml:id="p-4">Doświadczenia koncernów zachodnich pokazują, że im większa firma, tym taniej produkuje prąd. Herbert Gabryś, były wiceminister przemysłu i handlu (odpowiadał za energetykę), doradca PKE, przestrzega - na progu prywatyzacji - przed pokusą sprzedaży elektrowni dla ratowania budżetu: - Zachodnie koncerny chcą wybierać co smaczniejsze kąski, ale nie powinniśmy zostawiać na barkach państwa mniej atrakcyjnych zakładów. Powinno się je łączyć w duże organizmy - w koncernie znalazły się firmy, które nie miałyby szansy na samodzielną sprzedaż.</p>
+        <p xml:id="p-5">Naszej energetyce zaczyna się spieszyć. Mamy 5 lat na stopniową liberalizację rynku energii - w 2005 r. muszą obowiązywać na nim wolne reguły gry. Oznacza to poddanie się zasadzie TPA (wolny dostęp stron trzecich do sieci), która od początku lat dziewięćdziesiątych wprowadzana jest - choć nie bez oporów - w krajach Unii Europejskiej. Wtedy w pełni musi funkcjonować giełda energii, na której nasz prąd będzie konkurować np. z hiszpańskim.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

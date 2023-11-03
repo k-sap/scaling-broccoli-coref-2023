@@ -1,0 +1,20 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">a człowiek przez grzeczność wysłuchuje.</p>
+        <p xml:id="p-2">no jak się to uparcie.</p>
+        <p xml:id="p-3">udaje że pierwszy raz coś słyszy.</p>
+        <p xml:id="p-4">oj ty boże. boże. znaczy na osiemdziesiąte urodziny to co ty mi co raz to tam ktoś zadzwoni i nie przedstawiając się tylko pani Danusiu to ja. tylko tyle że jak mi mówi pan Danusiu to któraś z biura no to już potem jakoś tam. do tej pory udawało mi się trafiać z tymi imionami ale już.</p>
+        <p xml:id="p-5">ja już nie próbuję w ten sposób. zawsze się przedstawiam bo sobie pomyślałam że to.</p>
+        <p xml:id="p-6">przykro jak nie.</p>
+        <p xml:id="p-7">tak jak człowieka w ogóle na przykład nie będą pamiętać. i co wtedy.</p>
+        <p xml:id="p-8">tak. no dobra. powiem wam że że właśnie najbardziej się ucieszyłam z Wojtusiowego telefonu. zrobiłam pranie i w ogóle tak sobie pomyślałam że jak ja już ich zobaczyłam jak ta Anka przylgnęła do Eli jak. to pytam się o której Ania wyjeżdża. a kto wie ona ma dużo czasu do pociągu. bo ostatni pociąg to o dziesiątej.</p>
+        <p xml:id="p-9">Aniu sprawdźmy jak masz pociągi. no wiem kiedy mam ostatni. mówię aha. ale więc jak myśmy się zbierali tam już od Bogusia i Kasi no to już tak żeśmy. ja mówię no chodź chodź bo tak na ostatni to się boję jak tam coś wypadnie i to dopiero będzie. nie dojadę albo coś. lepiej już chodźmy na ten przedział.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

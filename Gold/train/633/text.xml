@@ -1,0 +1,18 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Łotewski rząd objąłby 51 proc. udziałów nowego towarzystwa lotniczego. Trwają podobno negocjacje nad możliwością wniesienia do spółki przez stronę łotewską 6 mln dolarów w postaci gruntów i budynków.</p>
+        <p xml:id="p-2">Thomas E. Glenister, prezes grupy przedsiębiorstw lotniczych Baltic International USA, posiadającej 49 proc. udziałów Baltic International Airlines, powiedział, że dzięki tańszej sile roboczej i niższym kosztom operacyjnym na Łotwie nowe, nie nazwane jeszcze linie lotnicze mogłyby oferować ceny o 20-30 proc. niższe od jej europejskich konkurentów. BIA zostałyby włączone do nowej firmy.</p>
+        <p xml:id="p-3">Fredheim stwierdził, że nowe linie mogłyby zatrudnić do 250 osób, a ich kierownictwo traktuje Rygę jako potencjalny, regionalny węzeł komunikacyjny, który obsługiwałby codziennie połączenia z około 12 dużymi miastami Europy Zachodniej i Wschodniej.</p>
+        <p xml:id="p-4">Przedstawiciel SAS zapewnił, że jeśli projekt zostałby szybko przyjęty, nowy przewoźnik mógłby rozpocząć działalność już 1 lipca. Chociaż zdaniem Fredheima SAS nie jest zainteresowany rozszerzeniem połączeń na Wschód, obserwatorzy twierdzą, że nowe linie zamierzają konkurować z niemiecką Lufthansą, która dominuje na tym rynku.</p>
+        <p xml:id="p-5">Bałtycki przełom</p>
+        <p xml:id="p-6">Jeśli rząd poprze tę ofertę, SAS stanie się pierwszym przewoźnikiem o światowym zasięgu inwestującym w nowe linie bałtyckie, które będą konkurować z liniami międzynarodowymi i pogrążonymi w kłopotach finansowych krajowymi liniami Estonii i Litwy.</p>
+        <p xml:id="p-7">Analitycy twierdzą, że jedynym realnym rozwiązaniem dla liczącego 8 mln mieszkańców regionu bałtyckiego są wspólne, regionalne linie lotnicze. Nie zanosi się jednak na to, by w najbliższym czasie sąsiedzi ochoczo przyłączyli się do łotewskiego projektu. Jedną z przeszkód jest narodowa duma.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

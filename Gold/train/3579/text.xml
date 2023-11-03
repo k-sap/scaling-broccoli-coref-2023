@@ -1,0 +1,22 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">- nie zrób z obecnej firmy platformy do poszukiwania nowej posady;</p>
+        <p xml:id="p-2">- nie wysyłaj e-maili z CV z firmowego adresu;</p>
+        <p xml:id="p-3">- nie wiś na telefonie służbowym, dzwoniąc do innych firm;</p>
+        <p xml:id="p-4">- nie afiszuj swojego niezadowolenia z posady, inni mogą to wykorzystać przeciw Tobie.</p>
+        <p xml:id="p-5">Kiedy już dostaniesz zaproszenie na rozmowę kwalifikacyjną, idź na nią po pracy lub weź urlop. Nie wzbudzisz podejrzeń, a sobie zapewnisz względny spokój. Nerwy to ostatnie, czego potrzebujesz. Odchodź z firmy mówiąc, że dostałeś propozycję pracy. Tak lepiej wygląda. Zyskasz lepsze samopoczucie, będąc tym, co sam odchodzi, a nie jest zwalniany.</p>
+        <p xml:id="p-6">Powodzenia w nowej firmie</p>
+        <p xml:id="p-7">Takie rozwiązanie jest idealne również ze względów finansowych.</p>
+        <p xml:id="p-8">Pamiętasz o swoim banku? Tak, tak - kredyt odnawialny i karta kredytowa wymagają Twojej opieki: regularnych wpłat na konto i spłat zadłużenia. Przy płynnym przejściu z firmy do firmy nic nie ulega zmianie poza podaniem numeru rachunku bankowego nowemu pracodawcy.</p>
+        <p xml:id="p-9">Jeśli przerwa w zatrudnieniu trwa 2-3 miesiące, wytłumacz się przed bankiem, co było powodem przerw w zasilaniu rachunku. Zmiana pracy jest czymś naturalnym i nie dziwi, pod warunkiem, że postępujemy fair. Teraz już wiesz, dlaczego przejście z firmy do firmy powinno następować jak najszybciej. To część Twojego planu. Dbanie o relacje z bankami i zapewnienie regularnych wpływów na konto.</p>
+        <p xml:id="p-10">Pamiętaj!</p>
+        <p xml:id="p-11">1. Zawsze zostaw na koncie kilkaset złotych, aby bank miał z czego pobierać opłaty i odsetki od przyznanego Ci kredytu odnawialnego.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

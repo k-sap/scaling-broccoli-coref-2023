@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Zabi Taaa faktycznie masz nieciekawie... tzn rozumiem ze chłopaka tez nie masz... hmm nie przejmuj sie nimi... "Prawdziwych przyjaciół poznaje się w biedzie" Będzie dobrze...</p>
+        <p xml:id="p-2">mysza87 wiesz co ktoś kiedyś napisał taką piosenke - " a po nocy wychodzi dzień, a po burzy słońce " wiec napewno kłopoty miną za jakiś czas i wszystko sie ułozy, nie wszystkim jest wesoło, swiat jest tak niestety poukładany ze wtedy gdy myslimy ze wszystko jest super coś się rozwala, a jak juz sie zaczyna walić to wszystko naraz, niestety nikt nie jest w stanie temu zapobiec. Takze głowa do góry i pokaz im ze ta cała sytuacja Cie wogole nie obchodzi. Pozdrawiam serdecznie</p>
+        <p xml:id="p-3">Edervenne Dziękję wszystkim z pomoc i dobre słowa !!!</p>
+        <p xml:id="p-4">Kasia_na Skoro znacie się już 5 lat to może warto spróbować jeszcze raz porozmawiac..Może Wasze nieporozumienie wynika z plotki.Może są ludzie którzy chcieli Ci zaszkodzić.A może ktoś ma do Ciebie jakąś urazę ale o tym nie mówi.To nie musi być świeża sprawa.Poza tym jeśli będą dalej Cię lekceważyć to zrób tak jak radziła Ci Vicky.Nie załamuj się zachoowaniem tych ludzi.Skoro nie potrafili się dogadać co więcej nie szukają z Tobą kontaktu to szkoda by było tracić czas.Możesz znależć nowe towarzystwo,poświęcić się nauce i pomyśleć optymistycznie.Masz tu ludzi którzy Ci pomogą wysłuchają.Może nas nie widzisz ale jesteśmy.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

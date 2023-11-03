@@ -1,0 +1,12 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Są ludzie, którzy żyją, by realizować swoje marzenia. Inni realizują pragnienia i potrzeby bliskich ludzi. Dla Joanny Suskiej-Brzozowskiej nagranie płyty z utworami wykonywanymi przez nią podczas uroczystości ślubnych było realizacją potrzeby nowożeńców, spełnieniem pragnień jej nauczycielki, śpiewaczki operowej, prof. Teresy Wessely, oraz realizacją marzenia jej życia. Joanna Suska-Brzozowska jest absolwentką wydziału wokalnego szkoły muzycznej pierwszego stopnia w Tarnowie, ukończyła również wokalistykę w szkole muzycznej drugiego stopnia w Krakowie. W 1997 roku rozpoczęła działalność gospodarczą w zakresie rytmiki, zajęć umuzykalniających, muzykoterapii i obsługi ślubów. Pomysł na nagranie płyty zrodził się dzięki tej ostatniej z wymienionych dziedzin działalności, jaką prowadzi Joanna. Młodzi, którzy chcieli, by zaśpiewała na ich ślubie, pytali o nagrania, by przed uroczystością móc zapoznać się z repertuarem i dobrać odpowiednie pieśni. – Dzięki wsparciu przyjaciół – muzyków, Jana i Józefa Wlazełków, którzy zasiedli przy organach, utwory te mają swój niepowtarzalny charakter. Dużą pomoc i wsparcie okazał Robert Gryzik, którego skrzypce brzmią podczas odtwarzania płyty. Swoje umiejętności zaprezentował też Michał Płatek. Godziny pracy wymienionych osób nie tylko podczas nagrań w kościele Matki Bożej Szkaplerznej w Moszczenicy, ale i w studio nagrań Macieja Trybusa, Mega-Tex w Gorlicach, zaowocowały wydaniem płyty „Panis Angelicus“ (Chleb aniołów), na której znajduje się dwadzieścia utworów z mojego repertuaru – powiedziała Joanna Suska-Brzozowska. Płyta dostępna jest w gorlickich sklepach z dewocjonaliami. Poza tym wokalistka obdarowuje nią każdą parę młodą, na której ślubie śpiewa. Joanna ma troje dzieci – żartuje – wydana płyta to jej czwarte dziecko i należy się spodziewać kolejnych – krążków z jej utworami. (ani)</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

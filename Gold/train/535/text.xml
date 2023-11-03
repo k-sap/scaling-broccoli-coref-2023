@@ -1,0 +1,19 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">#WicemarszalekJanuszWojciechowski: Informuję, że zgłosili się posłowie do wygłoszenia oświadczeń poselskich; na liście jest aż 12 posłów.</p>
+        <p xml:id="p-2">#WicemarszalekJanuszWojciechowski: Pan poseł Wojtkowiak, poseł Szukała, poseł Jankowski, posłanka Szumska, poseł Zdzisław Podkański, poseł Witold Hatka, poseł Ryszard Pojda, poseł Rzymełka, posłanka Krasicka-Domka, posłanka Krupa, poseł Laskowski, poseł Dulias.</p>
+        <p xml:id="p-3">#WicemarszalekJanuszWojciechowski: Czy ktoś jeszcze chciałby się znaleźć na liście do oświadczeń?</p>
+        <p xml:id="p-4">#WicemarszalekJanuszWojciechowski: Nie ma więcej zgłoszeń.</p>
+        <p xml:id="p-5">#WicemarszalekJanuszWojciechowski: W takim razie zamykam listę posłów, którzy chcą wygłosić oświadczenia.</p>
+        <p xml:id="p-6">#WicemarszalekJanuszWojciechowski: Jako pierwszy pan poseł Tadeusz Wojtkowiak.</p>
+        <p xml:id="p-7">#WicemarszalekJanuszWojciechowski: Proszę bardzo.</p>
+        <p xml:id="p-8">#PoselTadeuszWojtkowiak: Panie Marszałku! Wysoka Izbo! Dziś chciałbym nawiązać do sytuacji, jaka w ostatnich dniach spotkała mieszkańców Nowego Targu. Chodzi mianowicie o zatrucie wody bakterią Clostridium. Największe miasto Podhala - Nowy Targ, pozbawione jest wody pitnej. 35 tys. mieszkańców musi biegać z wiaderkami do studni i osiedlowych ujęć lub sklepów. Do żłobków, przedszkoli i szkół jest ona dowożona beczkowozami, również do szpitala i działającej w Nowym Targu stacji dializ dojeżdżają beczkowozy. Po ulicach miasta jeżdżą radiowozy i ostrzegają przed spożywaniem skażonej wody. Okazało się, że do Białego Dunajca trafiły ścieki z Zakopanego. Z tej samej rzeki Nowy Targ pobiera wodę do picia. Przyczyną całego zamieszania jest awaria zakopiańskiej oczyszczalni ścieków. Przez kilka dni zakład uzdatniania wody z Nowego Targu radził sobie z zanieczyszczeniem, jednak po tygodniu okazało się, że instalacja do uzdatniania wody pitnej nie jest w stanie zniszczyć bakterii.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

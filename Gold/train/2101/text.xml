@@ -1,0 +1,23 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">a) Zidentyfikuj zachowanie, które powstrzymuje Cię przed Twoimi celami. Zadaj sobie pytanie:</p>
+        <p xml:id="p-2">- Co takiego robię, że nie mogę zrealizować tego, co chcę?</p>
+        <p xml:id="p-3">- Co się dzieje wtedy, kiedy pojawia się chęć podjęcia tego działania?</p>
+        <p xml:id="p-4">- Jak się zachowuję, co myślę?</p>
+        <p xml:id="p-5">Gdzie pada mój wzrok (w dół, w prawo, w lewo, do góry, na wprost), kiedy myślę?</p>
+        <p xml:id="p-6">Mój wzrok kieruje się (określ kierunek; jeżeli nie możesz sam tego zrobić, poproś partnera o pomoc):</p>
+        <p xml:id="p-7">b) Teraz zastanów się, jaka jest pozytywna intencja tego działania.</p>
+        <p xml:id="p-8">Co mój umysł stara się mi dać? Co mój umysł robi? Po co to robi? Przed czym chce mnie ustrzec.</p>
+        <p xml:id="p-9">(Może to być: chce mnie ustrzec przed odrzuceniem, chce mnie powstrzymać przed bólem, przed porażką, wyśmianiem, wstydem, smutkiem, złością, które są lub mogą być konsekwencją mojego działania).</p>
+        <p xml:id="p-10">Napisz, jaka jest ta pozytywna intencja. (Pamiętaj: im więcej napiszesz, im więcej będzie w tym emocji, tym lepiej zrozumiesz i "przeżyjesz" ten proces).</p>
+        <p xml:id="p-11">c) Zastosuj dźwignię, żebyś mógł zrobić zmianę.</p>
+        <p xml:id="p-12">(Tak długo, jak długo nie będziesz miał silnej potrzeby zmiany czegoś, nie zmienisz tego. Napisz, ile będzie Cię kosztowało, jeżeli tego nie zmienisz, jaką cenę zapłacisz. Im więcej emocji, tym lepiej. Może to być: stracę zdrowie, będę czuł się podle, wstrętnie, będę słaby, będzie mi wstyd przed rodziną, dziećmi, przyjaciółmi, wykpią mnie. Im więcej włożysz w to emocji, tym lepiej dla Ciebie. Odważnie operuj silnymi słowami, to one wytwarzają w nas emocje!).</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

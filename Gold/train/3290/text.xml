@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Chociaż, jak później stwierdzano, efektywność agentów była z reguły duża, a przekazywane przez nich informacje dotyczyły "spraw istotnych dla całokształtu poznania prawdziwych zamierzeń działaczy i delegatów, jak również bieżących działań o charakterze antypaństwowym", zastosowana w możliwie szerokim zakresie technika operacyjna (głównie podsłuchy) pozwoliła na uzyskanie "informacji pełniejszych i nadających się w większym stopniu do wykorzystania w meldunkach operacyjnych niż informacje uzyskiwane od osobowych źródeł informacji". I nic dziwnego, skoro podsłuchy zainstalowano nie tylko w miejscu obrad delegatów, komisji problemowych i zespołów tematycznych, czy w miejscach zakwaterowania uczestników zjazdu, ale nawet w katedrze oliwskiej, gdzie 4 września prymas Glemp odprawiał mszę świętą w intencji owocnych obrad. Anegdotyczny jest przypadek funkcjonariusza, który miał nagrywać obrady. Ukryty pod sceną hali Olivia ponoć (ze strachu?) osiwiał.</p>
+        <p xml:id="p-2">Mimo zaangażowania ogromnych sił i środków efekty pracy SB były mizerne. W czasie I tury udało się "spowodować" jedynie 17 "pozytywnych wystąpień i replik". Jak później stwierdzano, w wytworzonej podczas zjazdu atmosferze agenci "nie mogli szeroko proponować pozytywnego programu" - wystąpienia takie były bowiem przerywane przez obecnych na sali, szczególnie podczas pierwszych trzech dni zjazdu (według funkcjonariuszy SB miało to być efektem działań KSS KOR i innych ugrupowań opozycyjnych oraz ekstremistów). W esbeckich meldunkach pojawia się nawet informacja, iż na wystąpienia krytyczne wobec "radykalnego nurtu" mogły sobie pozwolić jedynie "osoby nieubiegające się o wejście do władz związku i nieuważające swej pracy w Solidarności jako szansy [sic!] na realizację ambicji życiowych". Atmosfera panująca na sali obrad zmusiła Służbę Bezpieczeństwa do zmiany taktyki - agenturze nakazano realizować zadanie w rozmowach zakulisowych i miejscach zakwaterowania.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

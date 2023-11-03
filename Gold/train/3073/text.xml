@@ -1,0 +1,41 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Każde spotkanie... każde spojrzenie sprawiało mi ból... Bałam się, żeby Łukasz nie cierpiał w ten sposób.</p>
+        <p xml:id="p-2">PAUZA</p>
+        <p xml:id="p-3">Ja go naprawdę bardzo lubię, ale... Nie kocham...</p>
+        <p xml:id="p-4">DONA</p>
+        <p xml:id="p-5">Uważnie ja obserwując</p>
+        <p xml:id="p-6">Nie broń go... nie powinien sobie na to pozwolić... Przecież jego ojciec był twoim mężem.</p>
+        <p xml:id="p-7">Agnieszka nie odpowiada.</p>
+        <p xml:id="p-8">To prawie jak kazirodztwo...</p>
+        <p xml:id="p-9">AGNIESZKA</p>
+        <p xml:id="p-10">Daj spokój, Dona... Przecież nie jesteśmy spokrewnieni. Zakochał się i nie umiał sobie z tym poradzić. Wyprowadziłam się i... koniec...</p>
+        <p xml:id="p-11">DONA</p>
+        <p xml:id="p-12">Jesteś bardzo wyrozumiała.</p>
+        <p xml:id="p-13">AGNIESZKA</p>
+        <p xml:id="p-14">Ja tylko wiem, że jak się ktoś zakocha, to nie może tego tak po prostu... z siebie wyrzucić...</p>
+        <p xml:id="p-15">DONA</p>
+        <p xml:id="p-16">Z UŚMIECHEM</p>
+        <p xml:id="p-17">Może. Miłość jest jak roślinka... Czasami mała jak trawka... czasem wielka jak drzewo... Nie pielęgnowana... przestaje istnieć...</p>
+        <p xml:id="p-18">AGNIESZKA</p>
+        <p xml:id="p-19">Naprawdę uważasz, że można zapomnieć o miłości?</p>
+        <p xml:id="p-20">DONA</p>
+        <p xml:id="p-21">Zapomnieć? Chyba nie... Ale wszystko można zniszczyć.</p>
+        <p xml:id="p-22">AGNIESZKA</p>
+        <p xml:id="p-23">Znasz kogoś, komu się to udało? Komu udało poświęcić własną miłość?</p>
+        <p xml:id="p-24">DONA</p>
+        <p xml:id="p-25">Tak. Mnie...</p>
+        <p xml:id="p-26">Zbliżenie Dony</p>
+        <p xml:id="p-27">Zbliżenie Agnieszki</p>
+        <p xml:id="p-28">Scena</p>
+        <p xml:id="p-29">WNĘTRZE. NOC. MIESZKANIE DUNINÓW. SALON. ŁUKASZ</p>
+        <p xml:id="p-30">Salon. Zbliżenie świecznika, w którym stoją wypalone świece. Każda jest innego koloru, kształtu. Wygląda to żałośnie. Łukasz zapala je. Teraz widzimy Łukasza, który się "wystroił". Ma na sobie elegancką, czarną marynarkę, założoną na podarty, poplamiony podkoszulek. Na szyi muszkę. Na nogach nie ma spodni, tylko spodenki od piżamy. Na stole stoi waza, talerze i sztućce. Łukasz spogląda na to co przygotował.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

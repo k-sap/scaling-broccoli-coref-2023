@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Na podstawie sprawozdań nadsyłanych do GUS ocenia się, że średnio tylko połowa przedstawicieli sektora małych i średnich przedsiębiorstw (MSP) jest aktywna. Odliczając firmy jednoosobowe, które są często wymuszoną formą aktywności na rynku pracy, można przyjąć, że w Polsce jest około miliona firm zatrudniających od jednego do 249 pracowników. Najliczniejszą grupę stanowią firmy handlowe i usługowe (tych jest zarejestrowanych ok. 1,16 mln) z czego przytłaczająca większość (1,12 mln) to mikrobiznesy. Drugą grupę stanowią firmy przetwórcze i przemysłowe (375 tys.), tuż za nimi budowlane (367 tys.), transportowe (259 tys.) oraz hotele i restauracje (112 tys.). W ciągu ostatniego roku najwięcej małych i średnich firm przybyło w województwie lubuskim, a ubyło w łódzkim.</p>
+        <p xml:id="p-2">Przedsiębiorcy z łezką w oku wspominają lata 90. - burzliwy okres narodzin polskiego kapitalizmu. Wszystko wtedy wydawało się możliwe. Często przypadek albo impuls decydował, że ludzie brali sprawy w swoje ręce. Państwa Choczyńskich z Żywca do zostania przedsiębiorcami zmusiły okoliczności. Na początku lat 90. zastanawiali się, jak wykończyć budowany domek. On - górnik dołowy z kopalni Manifest Lipcowy (dziś Zofiówka), ona - nauczycielka. Wszystko mieli zaplanowane, łącznie z zasłonami i firanami, bo to ważny element śląskiego domu. Martwili się tylko, gdzie je znajdą, bo w polskich sklepach nie było niczego godnego ich okien. Na zakupy wybrali się więc aż do Budapesztu i nie licząc się z kosztami zafundowali sobie wymarzone firany. Kiedy wrócili, dowiedzieli się, że Leszek Balcerowicz urealnił oprocentowanie kredytu na budowę domu. Z 4 proc. skoczyło do 50 proc. w skali roku. Uświadomili sobie, że nie podołają.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

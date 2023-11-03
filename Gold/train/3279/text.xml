@@ -1,0 +1,14 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Weźmy jako przykład zagadnienie pejzażu. Tradycyjny pejzaż mieszczański był w założeniu swym kontemplacją natury. Dziś dla naszych artystów pejzaż coraz częściej staje się okazją do pokazania, jak w naturalnym otoczeniu działa człowiek, jak je wykorzystuje i ujarzmia, jak je pracą swoją przekształca. Ten humanistyczny punkt widzenia przeciwstawia pejzażowi naturalistycznemu i w konsekwencji bezczasowemu pejzaż o charakterze i powadze historycznego dokumentu, decydując o jego współczesnej treści i głębokim wydźwięku ideowym.</p>
+        <p xml:id="p-2">To, co powiedziałem o pejzażu, powiedzieć też można o równie tradycyjnej i typowej dla sztuki mieszczańskiej scenie rodzajowej. Malarstwo rodzajowe pełniło w sztuce burżuazyjnej funkcję wyraźnie określoną: kwestię klasy społecznej sprowadzało do naturalnego pojęcia rodzaju, dzieliło społeczeństwo na izolowane, "naturalne" odmiany egzystencji, z której nie ma wyjścia, gdzie wszystko trwa, powtarza się w nieskończoność w typowych obrazach życia i otoczenia, zajęć i rozrywek. Obrazy o charakterze rodzajowym, które spotkaliśmy na I Ogólnopolskiej Wystawie, świadczą o zasadniczym przezwyciężeniu tradycyjnej rodzajowości przez historyczne, dialektyczne widzenie ludzi i świata. Sytuacje tam ukazane są sytuacjami wyraźnie określonymi, sytuacjami, w których stare krzyżuje się z nowym, historia na naszych oczach wkracza w typowy los ludzki przeobraża go i kieruje na nowe, lepsze tory.</p>
+        <p xml:id="p-3">O ile sprawa pejzażu i sceny rodzajowej znalazła się w ten sposób na obiecującej drodze, o tyle sprawa portretu pozostawia jeszcze niejedno do życzenia. Portrety malarskie i rzeźbiarskie pokazane na Wystawie Ogólnopolskiej jak i portrety, które mogliśmy oglądać na wystawach przodowników pracy, świadczą, że plastykom nie udało się dotychczas wyłamać z mieszczańskiej konwencji izolowania i neutralizowania jednostki ludzkiej, że nie potrafią jeszcze pokazać jej w konkretnej sytuacji, w konkretnym powiązaniu z otoczeniem, że wciąż jeszcze ciąży nad nimi dziedzictwo portretu reprezentacyjnego, pełnego sztuczności i nudy.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

@@ -1,0 +1,17 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">- A ja zostanę pod gruzami - prorokuje Margot Kluczycka, matka pani Marii. - Jestem stara, od sześciu lat przykuta do łóżka, w razie nieszczęścia nie ucieknę. Leżę więc na tym poddaszu i czekam na śmierć. Bo jeśli nawet dom się nie zawali, zabije mnie grzyb. Tak, jak sąsiadów.</p>
+        <p xml:id="p-2">Pani Margot próbuje policzyć, ilu ich już zmarło. Wychodzi, że w ciągu dwóch ostatnich lat - czworo, a w budynku mieszka raptem pięć rodzin. Tych, którzy odeszli wcześniej, nawet wymieniać nie warto.</p>
+        <p xml:id="p-3">Maria Kluczycka wyciąga dokumenty. Oto ekspertyza mykologiczna z Wojewódzkiej Stacji Sanitarno-Epidemiologicznej w Gdańsku. Pochodzi z lipca 1998 roku i wykazuje, że zarodników pleśniowych w budynku jest cztery razy więcej niż dopuszczają normy, co „może wywoływać szereg chorób, szczególnie układu oddechowego”.</p>
+        <p xml:id="p-4">- I wywołuje - podkreśla Monika Blok, z parteru. - Od kilkunastu lat nie mogę pozbyć się kaszlu, podobnie jak Ø brat.</p>
+        <p xml:id="p-5">- Co z tego, że sanepid nakazał ustalić i usunąć przyczyny zagrzybienia? - pyta retorycznie Maria Kluczycka. - Co z tego, że rok później Miejski Inspektor Nadzoru Budowlanego domagał się orzeczenia technicznego w tej sprawie? Co z tego, że nakazał wymienić konstrukcję drewnianą muru pruskiego w przybudówkach i pomurować nowe ścianki?</p>
+        <p xml:id="p-6">Tymi pracami powinna się zająć wspólnota mieszkaniowa, czyli - oprócz gminy, mającej 69 proc. udziałów - jeden człowiek, który po śmierci Ø rodziców odziedziczył lokal na I piętrze. Wiadomo, że tego nie zrobi, bo go na to nie stać. A pieniądze, które lokatorzy wpłacają na fundusz remontowy czy tzw. eksploatację, niczego nie załatwią.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

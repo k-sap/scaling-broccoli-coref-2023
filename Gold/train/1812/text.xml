@@ -1,0 +1,14 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Gdyby tylko szło o gorzkawe natrząsanie się z nietrafionej (bo nieczytelnej w swym przesłaniu) przydrożnej reklamy, nie byłoby o czym pisać, ale pojawiła się we mnie zgoła inna refleksja - jak najbardziej na serio. Pytanie, które powinien (jak sądzę) postawić sobie każdy przed zmówieniem wieczornego pacierza, przy rachunku sumienia z mijającego dnia. Pytanie brzmi: czy mogę o sobie powiedzieć, że nadal jestem dobrym człowiekiem? Nikomu nie zaszkodziłem (nawet nieumyślnie), nie skrzywdziłem obmową, nie uraziłem czyichś uczuć? Czy - nawiązując do alegorycznego odczytania reklamy - nie stałem się „homo sapiens - sus”, czyli , rzecz nazywając po imieniu, nie zeświniłem się?</p>
+        <p xml:id="p-2">Myślę, że ten problem zdecydowanie umyka uwagi. Iluż uniknęlibyśmy przykrych dla nas sytuacji, a i nie przyprawialibyśmy o zły nastrój innych, gdyby chęć bycia zwyczajnie człowiekiem była powszechna, a nie tak rzadka, jak jest.</p>
+        <p xml:id="p-3">Pomysł, by zastanowić się nad sobą w porze odmawiania wieczornego pacierza jest - jak myślę - znakomity, bo po pierwsze, jako w zdecydowanej większości tłumnie nawiedzający w niedzielę kościoły, mający się za głęboko wierzących katolików, odmawiamy go co wieczór (sic!), a po drugie, dziękując Panu Bogu za mijający dzień, mamy okazję przeprosić Go za zaniedbywanie się w okazywaniu chrześcijańskiej miłości bliźniego, a im zaniechań jest więcej, tym gorliwiej prosić trzeba o siły, aby nie dopuścić się ich w dniu następnym.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

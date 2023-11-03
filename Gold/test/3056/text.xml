@@ -1,0 +1,26 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Nie musiała nic mówić: Kiernackiemu wystarczyła jej mina.</p>
+        <p xml:id="p-2">- Powiedział - oznajmiła - że tam na pewno nikt niczego nie rzucał z ciężarówki. A prywatnego pociągu Drzymalski nie ma.</p>
+        <p xml:id="p-3">Zastanawiał się kilka sekund, wodząc wzrokiem po sąsiednim moście. Potem popatrzył jej w oczy.</p>
+        <p xml:id="p-4">- Możesz skombinować mi karabin?</p>
+        <p xml:id="p-5">- Chyba pan żartuje...</p>
+        <p xml:id="p-6">- To chociaż pistolet. Ewentualnie sapera ze sprzętem. Wystarczy porcja trotylu, detonator i kawałek lontu.</p>
+        <p xml:id="p-7">- Chce pan poprawić niedoróbki wychowanka?</p>
+        <p xml:id="p-8">- Zawołaj Dopierałę. I przestań nazywać mnie panem.</p>
+        <p xml:id="p-9">- Chce pan - zaakcentowała twardo - wysadzić kolejny most?</p>
+        <p xml:id="p-10">Kiernacki ruszył w stronę samochodu. Dogoniła go, gdy przepuszczał czwórkę strażaków, dźwigających koc z poczerniałymi zwłokami.</p>
+        <p xml:id="p-11">- Dość tego! - rzuciła. - Nie jest pan jakąś cholerną primadonną!</p>
+        <p xml:id="p-12">Nie odezwał się. Stał nieruchomo ze wzrokiem przyklejonym do praskiego brzegu. Iza podążyła śladem jego spojrzenia i też zastygła.</p>
+        <p xml:id="p-13">Na most kolejowy wtaczała się lokomotywa, ciągnąca niekończący się sznur wagonów towarowych.</p>
+        <p xml:id="p-14">Pociąg przejechał pięćdziesiąt metrów, sto, sto pięćdziesiąt... Nic się nie działo. Ale w postawie Kiernackiego, w nerwowym napięciu mięśni było coś, co sprawiło, że nawet nadchodzący Dopierała nie zadał żadnego pytania, tylko stanął obok i tak jak oni patrzył w tamtą stronę.</p>
+        <p xml:id="p-15">Nie czekali długo. Lokomotywa była już tylko kilkadziesiąt metrów od zachodniego brzegu, kiedy pod jej kołami błysnęło krótko białą plamką światła.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

@@ -1,0 +1,14 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Z kolei we Wrocławiu płace kontrolerów zostały zupełnie uniezależnione od liczby wystawionych wezwań do zapłaty.</p>
+        <p xml:id="p-2">- Nie oznacza to jednak, że nie nagradzamy najskuteczniejszych pracowników. Kilka razy w roku przyznawane są premie. Bierzemy wtedy pod uwagę skuteczność i ewentualne skargi pasażerów - wyjaśnia Monika Poważna, kierownik Wydziału Transportu wrocławskiego Urzędu Miasta.</p>
+        <p xml:id="p-3">Tamtejsi kontrolerzy zarabiają (bez premii) około 1200 złotych miesięcznie (netto).</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

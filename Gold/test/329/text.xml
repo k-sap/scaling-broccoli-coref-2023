@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">W odpowiedzi na polemikę rzecznika prasowego UNFE red. Joanna Solska odnosi się m.in. do kontroli NIK w UNFE (POLITYKA 40). Wyraża ona zdziwienie, że kontroler NIK "przeszedł do porządku dziennego" nad ustaleniem, że na koncie specjalnym znajduje się kwota kilkanaście razy wyższa od przewidywanej, co - jej zdaniem - ze względu na wyższe koszty obsługi rachunku czyniło nieprawidłowym wybór bez przetargu banku, w którym lokowano środki oraz że nie zareagował on na fakt, że UNFE uznał, że "najkorzystniejsze jest oprocentowanie rachunku bieżącego, nie zaś lokat terminowych".</p>
+        <p xml:id="p-2">To stanowisko red. J. Solskiej jest błędne merytorycznie. Po pierwsze, o trybie, w jakim należy dokonać wyboru banku prowadzącego rachunek, nie decyduje bowiem wielkość środków, jakie zamierza się w nim lokować, lecz wysokość kosztów, jakie wynikną z faktu prowadzenia rachunku przez ten bank. Jak ustalono w trakcie kontroli, koszty te były niższe niż równowartość 3 tys. euro, co umożliwiało dokonanie wyboru banku w trybie z wolnej ręki. Po drugie, lokaty dokonywane przez UNFE w 1999 r. w banku były lokatami krótkoterminowymi (2-tygodniowymi, 1-miesięcznymi) i - jak wynika z danych przedstawionych w trakcie kontroli - dla takich lokat oferta Kredyt Banku nie była gorsza od stawek stosowanych przez 3 inne porównywane banki. Z tych powodów, czyli zgodnych z przepisami prawa działań UNFE, kontroler nie wniósł zastrzeżeń do formy wyboru banku.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

@@ -1,0 +1,32 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">- Bujda, wcale nie byłem chory.</p>
+        <p xml:id="p-2">- Udawałeś, co? Ja też chciałem, ale mnie Malinowski spędził. Kiedy idziesz do budy?</p>
+        <p xml:id="p-3">- Ja już nie pójdę do szkoły.</p>
+        <p xml:id="p-4">- Co, tak w ogóle nie?</p>
+        <p xml:id="p-5">- Tak. Wyjeżdżam. Chciałem ci to właśnie powiedzieć. Jak chcesz, możesz jechać ze mną.</p>
+        <p xml:id="p-6">- Wyjeżdżasz? Ale... ale dlaczego wyjeżdżasz?</p>
+        <p xml:id="p-7">- Nie mogę zostać po tym, co się stało.</p>
+        <p xml:id="p-8">- Żeśmy uciekli? Przecież to jeszcze nic takiego. Zajączek nas ochrzani, obniżą stopień i to wszystko.</p>
+        <p xml:id="p-9">- Samo to, żeśmy uciekli, to pewnie, że jeszcze nic. Ale stało się później coś gorszego... Paskudnie się zaplątałem.</p>
+        <p xml:id="p-10">- Nic nie rozumiem. Gadajże po ludzku.</p>
+        <p xml:id="p-11">- Ale nie będziesz mną gardził ani nikomu nie powiesz?</p>
+        <p xml:id="p-12">- No, nie.</p>
+        <p xml:id="p-13">- Nikomu?</p>
+        <p xml:id="p-14">- Nikomu.</p>
+        <p xml:id="p-15">- Daj słowo.</p>
+        <p xml:id="p-16">- No, daję, daję.</p>
+        <p xml:id="p-17">- Więc, jak wiesz, najpierw udawałem chorego na nerkę.</p>
+        <p xml:id="p-18">- Na nerkę? A to skąd ci wpadło do głowy? - roześmiał się Karlik.</p>
+        <p xml:id="p-19">- To Osuch wymyślił... Widzisz, on mi szedł na rękę.</p>
+        <p xml:id="p-20">- On? Ta kutwa?</p>
+        <p xml:id="p-21">- Właśnie. Ja sam się zdziwiłem z początku. Nie wiedziałem, co ma w tym za interes. Potem matka zaczęła się coś domyślać... Zresztą wiesz, matka zawsze ma nosa. Potem przyszedł stryj Mikołaj. Najpierw się strasznie kłócili. On krzyczał na matkę - matka na niego. A potem matka wpadła z sęczakiem w ręce do mnie na górkę i zaczęła krzyczeć, czy to prawda, że uciekłem z lekcji i rozbijałem się po kopalni. No, to... no, to ja skłamałem, że nie.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

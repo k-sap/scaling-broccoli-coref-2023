@@ -1,0 +1,22 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Znowu zamilkli i szli tak przy sobie, że biodro w biodro, ramię w ramię...</p>
+        <p xml:id="p-2">- A oczy to się wam świcą jak temu wilkowi... aże dziwno...</p>
+        <p xml:id="p-3">- Będziesz w niedzielę na muzyce u Kłębów?</p>
+        <p xml:id="p-4">- A bo to matka mi dadzą...</p>
+        <p xml:id="p-5">- Przyjdź, Jaguś, przyjdź... - prosił cichym, przyduszonym głosem.</p>
+        <p xml:id="p-6">- Chcecie to? - zapytała miękko, zaglądając mu w oczy.</p>
+        <p xml:id="p-7">- Laboga, a dyć ino la ciebie zgodziłem skrzypka z Woli i la ciebie namówiłem Kłęba, żeby dał chałupy, la ciebie, Jaguś szeptał i tak przysuwał twarz do jej twarzy, i dyszał, aż się cofnęła nieco i zadygotała ze wzruszenia.</p>
+        <p xml:id="p-8">- Idźcie już... czekają na was... jeszcze kto nas obaczy... idźcie...</p>
+        <p xml:id="p-9">- A przyjdziesz?</p>
+        <p xml:id="p-10">- Przyjdę... przyjdę... - powtórzyła obzierając się za nim, ale już zniknął w mgle, tylko odgłos jego kroków słychać było po błocie.</p>
+        <p xml:id="p-11">Dreszcz nią wstrząsnął gwałtowny i coś jak płomień wichrem przeleciał przez serce i głowę; aż się zatoczyła. Ani wiedziała, co się jej stało, oczy ją paliły, jakby zasypane zarzewiem, tchu złapać nie mogła ni przyciszyć serca namiętnie bijącego; rozkładała ręce bezwiednie, jak do obejmowania, rozprężała się w sobie, bo ją brały takie szalone ciągotki, że omal nie krzyczała... dopędziła wozu, chwyciła się luśni i choć nie potrza było, tak potężnie pchała, aż wóz skrzypiał, chwiał się i główki spadały w błoto... a przed oczami cięgiem widziała jego twarz i oczy roziskrzone, pożądliwe...</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

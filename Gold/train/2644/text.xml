@@ -1,0 +1,16 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">W dniach 11-16 września odbędzie się w Gdyni XXXI Festiwal Polskich Filmów Fabularnych. Już dziś program konkursu głównego zapowiada się bardzo atrakcyjnie, a kilka tytułów ma bardzo poważne szanse na rywalizację o główne laury.</p>
+        <p xml:id="p-2">Choć lista filmów zakwalifikowanych do konkursu głównego najbliższego FPFF nie jest jeszcze znana (organizatorzy przyjmują zgłoszenia do połowy lipca), już dziś można mieć nadzieję, że w trakcie imprezy zostanie zaprezentowanych wiele produkcji, które mają szanse wzbudzić spore zainteresowanie.</p>
+        <p xml:id="p-3">Z Łodzi do Gdyni pojadą dwa filmy prezentowane wcześniej na festiwalu w Cannes, a powstałe w studiu Opus Film: „Z odzysku” Sławomira Fabickiego i „Chłopiec na galopującym koniu” Adama Guzińskiego. Najpewniej w konkursie o Złote Lwy weźmie również udział „Hi way” Jacka Borusińskiego, także zrealizowany w łódzkim Opusie.</p>
+        <p xml:id="p-4">W gronie wymienianych jako pewni konkurenci są tytuły, które miały już swoje premiery: „Jasminum” Jana Jakuba Kolskiego, „Czeka na nas świat” w reżyserii Roberta Krzempka, „Francuski numer” Roberta Wichrowskiego, „Ja wam pokażę!” Denisa Delića, „Tylko mnie kochaj” Ryszarda Zatorskieo, „Wszyscy jesteśmy Chrystusami” Marka Koterskiego.</p>
+        <p xml:id="p-5">Niektóre filmy, choć jeszcze niegotowe, już zapowiadane są przez producentów jako festiwalowe, m. in.: „Bezmiar sprawiedliwości” Wiesława Saniewskiego, „Chaos” Xawerego Żuławskiego (niedawnego absolwenta łódzkiej filmówki), „Co słonko widziało” Michała Rosy, „Fundacja” Filipa Bajona, „Hiena” Grzegorza Lewandowskiego, „Kto nigdy nie żył...” Andrzeja Seweryna czy „S@motność w sieci” Witolda Adamka i „Wstyd” Piotra Matwiejczyka.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Dar to trudny niekiedy do przyjęcia, ale zawsze dar bezcenny. Trzeba najpierw zmienić stosunek do dziecka poczętego. Nawet jeśli pojawiło się ono nieoczekiwanie - mówi się tak: "nieoczekiwanie" - nigdy nie jest intruzem ani agresorem. Jest ludzką osobą, zatem ma prawo do tego, aby rodzice nie skąpili mu daru z samych siebie, choćby wymagało to od nich szczególnego poświęcenia.</p>
+        <p xml:id="p-2">Świat zmieniłby się w koszmar, gdyby małżonkowie znajdujący się w trudnościach materialnych widzieli w swoim poczętym dziecku tylko ciężar i zagrożenie dla swojej stabilizacji; gdyby z kolei małżonkowie dobrze sytuowani widzieli w dziecku niepotrzebny, a kosztowny dodatek życiowy.</p>
+        <p xml:id="p-3">Znaczyłoby to bowiem, że miłość już się nie liczy w ludzkim życiu.</p>
+        <p xml:id="p-4">Znaczyłoby to, że zupełnie zapomniana została wielka godność człowieka, jego prawdziwe powołanie i jego ostateczne przeznaczenie.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

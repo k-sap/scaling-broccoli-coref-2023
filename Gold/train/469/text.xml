@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Tyle, że teoria Habermasa budzi poważne wątpliwości w dwóch co najmniej punktach. Przede wszystkim powinniśmy zapytać o naturę języka, który zdaniem Niemca umożliwia projektowaną przez niego interakcję między podmiotami. Habermas pisze o tym języku, odwołując się do kategorii performatywnych, jednak poza ogólnymi stwierdzeniami o pewnym uprzywilejowaniu w nim zaimków osobowych nie proponuje żadnych bardziej precyzyjnych wskazówek. To teoretyczne niedopatrzenie, które sugeruje, że język nie staje się w istocie dla Habermasa przedmiotem namysłu. Tak jakby w finalnych fragmentach Filozoficznego dyskursu nowoczesności rządziło milczące - już nam znane - założenie, że język jest strukturą niewinną, przezroczystą i pozbawioną wpływu na przenoszoną przez siebie treść. Habermas przyznaje, że doświadczenie języka musi być doświadczeniem zapośredniczenia (stąd fragment o interakcji "zapośredniczonej językowo"). Zarazem jednak obiecuje paradoksalnie, że właśnie owo doświadczenie może na powrót związać nas ze światem, odbudować nasze relacje z rzeczywistością - czyli de facto sprawić, że porządek zapośredniczenia straci na znaczeniu, zostanie przełamany. Dostęp do świata oraz innych podmiotów mamy tylko przez język, lecz język nam ani świata, ani podmiotów nie przesłania, raczej je udostępnia - przekonuje Habermas. Szybko też dochodzi do wniosku, że językowa praktyka wyrywa nas z kłopotliwej sytuacji nowoczesnego podmiotu, gdyż pokonuje naszą alienację i przeprowadza nas z pozycji obserwatorów na pozycje zaangażowanych współuczestników. W takim razie - co to za język, który tak łatwo zrywa ze wzorami zapośredniczenia? Czy to może nowa wersja postulowanego przez Julię Kristevą języka poetyckiego; bardziej zuniwersalizowana, bo już nie tak wyraźnie związana z tradycją feministyczną?</p>
+        <p xml:id="p-2">Chyba nie potrzebujemy Derridy, by przypomnieć, że marzenie o języku całkowicie odciętym od reguły zapośredniczenia i powtórzenia to czysta utopia.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

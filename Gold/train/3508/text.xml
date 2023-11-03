@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Jeden z czytelników dziennika dostał ofertę niezwykle atrakcyjnego kredytu z banku, w którym wcześniej pożyczał już pieniądze. Zaproponowali mu obniżkę oprocentowania jako stałemu klientowi. Jednak gdy na jego żądanie bank policzył pełne oprocentowanie, okazało się, że za pożyczone 8 tys. będzie musiał oddać 14 tys. zł. Inna mieszkanka Szczecina, która wzięła pożyczkę na zakupy ratalne, po podliczeniu wszystkich kosztów stwierdziła, że rzeczywiste oprocentowanie kredytu wyniesie ponad 50 procent.</p>
+        <p xml:id="p-2">Najczęściej stosowanym chwytem przez banki jest podawanie tylko nominalnego oprocentowania, które na pierwszy rzut oka wygląda bardzo atrakcyjnie (z reguły kilkanaście procent). Niestety, do tego dochodzą zazwyczaj prowizje i inne opłaty, które znacznie podwyższają rzeczywisty koszt kredytu.</p>
+        <p xml:id="p-3">Niektóre banki postępują dokładnie odwrotnie: w materiałach reklamowych podają niskie koszty prowizji, ale narzucają wysokie odsetki. Skutek jest ten sam - rzeczywiste oprocentowanie świątecznych kredytów w kilku sprawdzonych przez dziennik bankach wyniosło od około 18 nawet do 27 procent w skali roku. Tylko w jednym przypadku było ono niższe od 15 procent i świąteczna zniżka wyniosła ponad 5 procent. Często prawdziwa preferencja polega przede wszystkim na korzystniejszych warunkach uzyskania czy spłaty pożyczki.</p>
+        <p xml:id="p-4">Ustawa o kredycie konsumenckim mówi wyraźnie, że banki mają obowiązek informować klientów o rzeczywistej stopie procentowej. Jednak w praktyce się tym nie przejmują, stawiając na pierwszym miejscu zysk. Z drugiej strony klienci często chcąc szybko dostać pieniądze nie interesują się kosztami spłaty, nie czytając umowy przed podpisaniem.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

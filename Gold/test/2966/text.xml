@@ -1,0 +1,26 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">- Kiedy zszedł? Wypuściłaś go samego?</p>
+        <p xml:id="p-2">Dzidzia kiwa głową.</p>
+        <p xml:id="p-3">- Z godzinę temu. Była u mnie Maja, żeby przepytać mnie z geografii, więc nie mogłam zejść (trudno - nie ma rady...), on ziewał, więc go wypuściłam....</p>
+        <p xml:id="p-4">Ale każde kłamstwo może zaszkodzić Drabowi. W takiej sytuacji nie trzeba kłamać. Nie wolno.</p>
+        <p xml:id="p-5">- Właściwie nie z geografii... Właściwie nie przepytywała mnie... - mówi (jak już pomagać mu, to do końca). - Gadałyśmy po prostu... Powinnam była z nim wyjść...</p>
+        <p xml:id="p-6">Alicja milczy. Żadnego: "A mówiłam ci", "A widzisz".</p>
+        <p xml:id="p-7">Drab znów dałby jej 1:0, chociaż nie, Dzidzia też spisała się z tym sprostowaniem, więc byłoby 1:1... Biedny Drab, gdzie on teraz, czy aby żyje...</p>
+        <p xml:id="p-8">- Gdzieś szukała? - pyta Alicja.</p>
+        <p xml:id="p-9">Widać, że zastanawia się, co robić dalej.</p>
+        <p xml:id="p-10">- Tu wszędzie i na Psim Polu, w Agrykoli i po tamtej stronie Trasy, i koło fińskich domków...</p>
+        <p xml:id="p-11">- Byłaś u pani Ślaskiej? Czasem umie się przecież tam zawałęsać...</p>
+        <p xml:id="p-12">Znów cień nadziei.</p>
+        <p xml:id="p-13">- Nie!</p>
+        <p xml:id="p-14">Alicja podchodzi do telefonu.</p>
+        <p xml:id="p-15">- Dzień dobry pani. Pahlowa. Nie ma tam czasem Draba? Tak. Już z godzinę temu. No to przepraszam. Do widzenia pani.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

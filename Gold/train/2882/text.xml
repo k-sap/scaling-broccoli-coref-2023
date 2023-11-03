@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">5. Nie rób niczego, czego konsekwencji nie jesteś w stanie przewidzieć. Jeżeli cokolwiek związanego z twoją randką wzbudzi twój niepokój, postaraj się jak najszybciej odwołać umówione spotkanie lub zmienić plan jego przebiegu. Poradź się zaufanych przyjaciół, porozmawiaj z innymi o swoich wątpliwościach, ale przede wszystkim kieruj się własnymi odczuciami.</p>
+        <p xml:id="p-2">6. Poinformuj innych (bliskich), że idziesz na randkę. Jeżeli zdecydujesz się spotkać z kimś w świecie realnym, powiadom przyjaciół lub rodzinę, dokąd idziesz na randkę oraz o której planujesz wrócić. Zostaw im imię i nazwisko twojego znajomego, a także jego numer telefonu. Nie aranżuj nigdy pierwszych randek w domu i nie korzystaj z takiej propozycji ze strony drugiej osoby. Udaj się na spotkanie i wróć własnym środkiem lokomocji, a także wybierz miejsce publiczne oraz godzinę, kiedy jest jeszcze widno.</p>
+        <p xml:id="p-3">Najlepiej w tym przypadku sprawdzą się restauracje i kawiarnie, w których już bywałeś. Jeżeli zdecydujecie się w trakcie randki zmienić lokal, pojedźcie twoim samochodem lub publicznymi środkami transportu. O zaplanowanej przez ciebie godzinie podziękuj towarzyszowi za miło spędzony czas i pożegnaj się.</p>
+        <p xml:id="p-4">7. Jak najszybciej wydostań się z tarapatów. Jeżeli uznasz, że grozi ci niebezpieczeństwo, poproś spotkane osoby o pomoc lub powiadom policję. Nawet jeśli okażą się to przesadne działania, nie czuj się zakłopotany lub winny wobec twojego towarzysza. Pamiętaj, iż twoje bezpieczeństwo jest o wiele ważniejsze niż opinia kogokolwiek na twój temat. Jeśli z jakichś względów nie życzysz sobie kontynuacji znajomości z jakąś osobą, umieść ją na czarnej liście i zablokuj.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

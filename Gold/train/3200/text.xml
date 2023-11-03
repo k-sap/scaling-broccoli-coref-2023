@@ -1,0 +1,20 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">sp0: yy dzieci mają jakąś też pomoc terapeutyczną ?</p>
+        <p xml:id="p-2">sp1: też mają możliwość uczestniczenia w różnych tak no nie ma problemu z tym</p>
+        <p xml:id="p-3">sp0: mówiliśmy o tym że dzieci często są przez chwilę jakoś w rodzinnym domu dziecka później sytuacja jest taka że albo wracają do swoich yyy rodzin albo kiedy wyjaśnia się ich sytuacja prawna yyy dostają możliwość bycia zaadoptowanymi czyli trafiają do nowych rodzin rodzin adopcyjnych czy mieliście państwo taką sytuację i co to tak naprawdę też dla państwa oznacza czy macie możliwość kontaktu wtedy z tymi dziećmi ?</p>
+        <p xml:id="p-4">sp1: znaczy rodzina adopcyjna zawsze ma prawo odmówić kontaktu i może nie chcieć tego kontaktu i to jest dla mnie zrozumiałe także my się możemy tylko dostosować do takiej sytuacji</p>
+        <p xml:id="p-5">sp0: ale yy yy była taka sytuacja że dzieci poszły do adopcji od państwa ?</p>
+        <p xml:id="p-6">sp1: tak tak rodzeństwo poszło do adopcji i no i my nie mamy kontaktu yy chociaż nam akurat utrudnia yy to jakby to tą rozłąkę i tą taką już nazwę to żałobę po po rozstaniu z dziećmi bo nie wiemy co się dzieje ale też rozumiem obawy tej rodziny bo jednak dzieci były z nami bardzo związane oni widząc ten kontakt emocjonalny myśleli że że pozostawanie w kontakcie z nami niestety nie pomoże im</p>
+        <p xml:id="p-7">sp0: na początku kiedy państwo zdecydowali się jednak że to będzie nie rodzina zastępcza a rodzinny dom dziecka to to dużo zmieniło ? ta kwalifikacja sama ?</p>
+        <p xml:id="p-8">sp1: nie nie bo szkolenie jest to samo dla rodzin zastępczych dla rodzinnych domów dziecka jest to samo</p>
+        <p xml:id="p-9">sp0: szkolenie jest to samo ale rozumiem że warunki jakby na których przyjmuję się dzieci są troszkę inne ?</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

@@ -1,0 +1,19 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Szef Sejmiku Zachodniopomorskiego i członek zarządu powiatu polickiego zostali złapani przez policję. Obaj samorządowcy PO mieli przy sobie narkotyki. Zostali już wykluczeni z partii.</p>
+        <p xml:id="p-2">Michał Łuczak i Cezary Atamańczuk zostali zatrzymani przez policję do rutynowej kontroli drogowej w piątek wieczorem. W samochodzie należącym do tego drugiego znaleziono susz roślinny oraz biały proszek. Według pierwszych ustaleń, to amfetamina i marihuana. Obaj działacze PO zostali zatrzymani na 48 godzin w policyjnej izbie zatrzymań. Już w sobotę policja postawiła obu zatrzymanym zarzuty posiadania narkotyków.</p>
+        <p xml:id="p-3">- Jednemu z nich [Cezaremu Atamańczukowi - przyp. red.] przedstawiono również zarzut prowadzenia pojazdu pod wpływem substancji odurzających i złożenia funkcjonariuszowi policji obietnicy wręczenia korzyści majątkowej - mówi Małgorzata Wojciechowicz, rzecznik Prokuratury Okręgowej w Szczecinie.</p>
+        <p xml:id="p-4">W niedzielę po przesłuchaniach obu mężczyzn prokuratura zwolniła Michała Łuczaka do domu. Wobec Cezarego Atamańczuka przesłano do sądu wniosek o zastosowanie 2-miesięcznego aresztu.</p>
+        <p xml:id="p-5">W czasie niedzielnego przesłuchania prokurator zmienił przedstawiony Michałowi Łuczakowi dzień wcześniej przez policję zarzut.</p>
+        <p xml:id="p-6">- Nadal jest on podejrzany o posiadanie środków odurzających, jednak czyn ten został zakwalifikowany jako przypadek mniejszej wagi - wyjaśnia prokurator Wojciechowicz.</p>
+        <p xml:id="p-7">Policja zarzucała przewodniczącemu Sejmiku posiadanie narkotyków z innego paragrafu ustawy o przeciwdziałaniu narkomanii. Przy tamtej kwalifikacji podejrzanemu groziło do 3 lat pozbawienia wolności, obecnie maksymalna kara wynosi do 1 roku pozbawienia wolności. Michał Łuczak jednak nie przyznaje się do zarzucanych mu czynów.</p>
+        <p xml:id="p-8">Wobec drugiego podejrzanego samorządowca Cezarego Atamańczuka zarzuty nie zmieniły się i są zagrożone łączną karą do 10 lat więzienia. Przyznał się on jednak w czasie przesłuchania jedynie do posiadania narkotyków. Decyzje personalne wobec niego zostaną ogłoszone przez starostę polickiego dzisiaj, czyli w poniedziałek.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

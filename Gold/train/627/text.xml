@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Biegacze górscy startują w różnych zawodach. Jedne odbywają się w stylu alpejskim, inne anglosaskim. Różnica między nimi jest zasadnicza. W biegach alpejskich start znajduje się w dolinach, meta w górach; w tych drugich zawodnicy startują i kończą z niżej położonych miejsc, pokonują po drodze wzniesienia i większe górki. Urząd Gminy w Brennej postanowił zrobić frajdę wszystkim biegaczom. W sobotę mogli się wykazać alpejczycy, anglosasi, a nawet miłośnicy organizowanych swego czasu w Beskidach biegów pod próg. Przypomnijmy, że śmiałkowie wbiegali pod próg skoczni w Szczyrku i Wiśle.</p>
+        <p xml:id="p-2">Sobotni maraton biegowy rozpoczął się o 11.00. Kilkudziesięciu zawodników miało najpierw do pokonania 600 metrów. Pestka? Nic bardziej błędnego. Na niecały kilometr złożył się bowiem piekielnie stromy podbieg wzdłuż wyciągu na Stary Groń. Po kilkunastu minutach zawodnicy byli z powrotem przy amfiteatrze. W samo południe wyruszyli na Błatnią (część alpejska). Prawie pięć kilometrów podbiegu do popularnego schroniska dało w kość wszystkim, nawet najbardziej wprawnym biegaczom. Na koniec odbyła się część anglosaska sobotniego biegania. Po 15.00 zawodnicy wyruszyli na 4,5-kilometrową pętlę po górach.</p>
+        <p xml:id="p-3">Zbierali punkty</p>
+        <p xml:id="p-4">Organizatorzy opracowali bardzo przejrzyste reguły gry. Nie liczył się czas uzyskany we wszystkich biegach, ale suma punktów. Zdobywca pierwszego miejsca w każdym z biegów otrzymywał 30 punktów, drugie miejsce było premiowane 29 punktami i tak dalej. Najwięcej punktów nazbierał Jarosław Gniewek z Bielska-Białej — dwa razy pierwsze i raz drugie miejsce — i to on wygrał dziewiątą, eksperymentalną edycję biegu. W nagrodę otrzymał nagrody rzeczowe i puchar. Breńskie kierpce zostały nagrodą symboliczną. •</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

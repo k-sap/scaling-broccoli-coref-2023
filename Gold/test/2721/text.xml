@@ -1,0 +1,18 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">— Jego żona rozumie, czym jest kalectwo, bo sama się z nim zetknęła w rodzinie — mówi Andrzej Pilas. — Jej siostra jest niewidoma.</p>
+        <p xml:id="p-2">Szacuje się, że w naszym kraju ok. 10 proc. populacji to osoby niepełnosprawne. Państwo i różne organizacje pozarządowe starają się im pomóc.</p>
+        <p xml:id="p-3">— Kontakt z ludźmi i praca to najlepsza rehabilitacja — mówi pan Andrzej. — Niepełnosprawni czują się pokrzywdzeni. Chcą żyć tak, jak reszta społeczeństwa.</p>
+        <p xml:id="p-4">Andrzej Pilas zwrócił się o pomoc w tej sprawie do Polsko–Amerykańskiej Fundacji Wolności. Powstała przed trzema laty. Deklaruje wspieranie inicjatyw obywatelskich i wyrównywanie szans edukacyjnych młodzieży z terenów wiejskich i małych miast. Okazuje się jednak, że Fundacja nie ma tyle pieniędzy, by mogła objąć swoją działalnością również środowiska osób niepełnosprawnych.</p>
+        <p xml:id="p-5">— Nasza Fundacja (zwłaszcza na obecnym, początkowym etapie swojego rozwoju) nie jest właściwym adresatem dla planowanych przez Pana przedsięwzięć — czytamy w nadesłanej odpowiedzi na pismo Andrzeja Pilasa.</p>
+        <p xml:id="p-6">Zwróceniu uwagi na potrzeby ludzi pokrzywdzonych przez los powinny służyć tegoroczne obchody Europejskiego Roku Niepełnosprawnych. Chodzi głównie o poprawę jakości życia tych osób. Włączyły się do tych działań samorządy, które przygotowują szczegółowy program działań. Pomagać im w tym będzie Państwowy Fundusz Rehabilitacji Osób Niepełnosprawnych.</p>
+        <p xml:id="p-7">Sporo imprez będzie promowała osoby niepełnosprawne, pokazywała ludzi, którzy nie pogodzili się z nieszczęściem i mogą pochwalić się sukcesami zawodowymi. Na część obchodów złożą się kursy, szkolenia i konferencje, wskazujące możliwości niepełnosprawnych w Unii Europejskiej.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

@@ -1,0 +1,14 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Z naszego ogólnokrajowego sondażu wynika, że sytuacja i nastroje w Dłutowie są typowe dla przeciętnych niezamożnych gmin. Połowa samorządów w woj. łódzkim po przeliczeniu kosztów podwyżek oszacowała swoje niedobory na łączną kwotę 94,5 mln zł. Niektóre łódzkie gminy uchwalają rezolucje: podwyżki dla nauczycieli - tak, ale po otrzymaniu odpowiedniej do potrzeb subwencji. Podobne stanowisko ogłosił konwent wójtów i burmistrzów województwa świętokrzyskiego. Teraz czekają na ruch ze strony Ministerstwa Edukacji.</p>
+        <p xml:id="p-2">W Głuchołazach (woj. opolskie), Hrubieszowie (woj. lubelskie) i Pruszkowie (woj. mazowieckie) do 21 sierpnia nie wypłacono z tytułu podwyżek ani złotówki. Niektóre samorządy dają nauczycielom zaliczki albo zaczynają wypłacać wyższe pobory od sierpnia-września (zgodnie z Kartą wyrównania należą się od stycznia). Nauczyciele w Krakowie otrzymali zaliczkowo po 950 zł, w Tarnowie po 1000 zł. Zdaniem kuratora małopolskiego Jerzego Lackowskiego główny problem stanowią wypłaty wstecz. W tym województwie większość gmin czeka na dotacje. Wyjątkiem w Małopolsce jest starostwo w Nowym Targu, które wypłaciło już pełną kwotę należną wszystkim nauczycielom z wyrównaniem od początku roku.</p>
+        <p xml:id="p-3">Na Mazowszu takimi wyjątkami są stołeczne gminy Bemowo, Włochy i Sochaczew oraz miasto Ciechanów i powiat wyszkowski. Także w Miliczu i Kobierzycach (woj. dolnośląskie) już zapłacono nauczycielom z wyrównaniem, rezygnując z planowanych w tym roku inwestycji. W starostwie słupskim (woj. pomorskie) skreślenie inwestycji wystarczyło tylko na zaliczki (po 1000 zł), ale w samym mieście Słupsku nie było czego skreślać i nie wypłacono nic. Nauczyciele w Sopocie otrzymali podwyżki w lipcu dzięki temu, że miasto ograniczyło wydatki na remont molo i sięgnęło do rezerwy budżetowej.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

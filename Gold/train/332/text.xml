@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Prasa lokalna jest niezwykle ważną instytucją społeczeństwa obywatelskiego na poziomie lokalnym. Nie tylko dlatego, że wokół niej gromadzą się zwykle ludzie najbardziej aktywni w danej społeczności - miejscowa elita, ale przede wszystkim dlatego, iż jest ona instytucją zaufania publicznego. Oczywiście, tym zaufaniem cieszyć może się tylko wówczas, gdy jest pismem niezależnym, rzetelnym i wiarygodnym.</p>
+        <p xml:id="p-2">Chociaż dystrybucja prasy lokalnej odbywa się głównie za pośrednictwem "Ruchu" lub prenumeraty pocztowej, kolportażem "Tygodnika Podhalańskiego" zajmują się również dzieci na ulicach Zakopanego i Nowego Targu</p>
+        <p xml:id="p-3">Fot. Archiwum "Tygodnika Podhalańskiego"</p>
+        <p xml:id="p-4">Pismo dotowane przez lokalne władze, miejscowego biznesmena czy partię polityczną zawsze będzie podejrzewane o to, iż jest tubą propagandową władzy, instrumentem w ręku swego mocodawcy czy narzędziem polityki partyjnej. Pierwszym warunkiem zaufania jest więc niezależność ekonomiczna, którą pismo może osiągnąć, utrzymując się tylko ze sprzedaży nakładu oraz reklam i ogłoszeń. W tym miejscu zwykle stawiany jest zarzut, iż zawsze istnieje niebezpieczeństwo ukrytego uzależnienia od reklamodawcy. Wielu wydawców twierdzi jednak, że można temu zapobiec, nie przywiązując się do jednego reklamodawcy, a dbając o to, by mieć ich wielu. Dodają ponadto, iż cechą małych społeczności jest brak anonimowości, co w praktyce oznacza, że czytelnicy łatwo mogą dostrzec wszelkie ukryte powiązania. Na przykład wszyscy w miasteczku wiedzą, że właściciel miejscowej farbiarni to truciciel - zanieczyszcza pobliskie jezioro. Ale lokalna gazeta nigdy nic na ten temat nie napisała. Dlaczego? Łatwo można się domyślić: przecież niemal w każdym numerze Ø farbiarnia reklamuje się na całą stronę, czyli wydawca nie chce utracić zamożnego klienta. Czy takiej gazecie czytelnicy będą ufać? Oczywiście, nie. Nie będzie też cieszyć się zaufaniem pismo, które utrzymuje się z dotacji pochodzącej z kasy miejskiej i w każdym jego numerze można znaleźć na pierwszej stronie duże zdjęcie burmistrza ze szczegółowym opisem jego kolejnego sukcesu. Natomiast fatalnym stanem jezdni w miasteczku pismo nie zajęło się nigdy.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

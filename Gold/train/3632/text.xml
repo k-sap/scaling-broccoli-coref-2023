@@ -1,0 +1,20 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Podobnie jeśli zmusimy rozmówcę do użycia wielkich kwantyfikatorów "zawsze", "nigdy", przygotujemy sobie płaszczyznę do zaatakowania PRZYKŁADEM OBALAJĄCYM TEZĘ.</p>
+        <p xml:id="p-2">Zmusić rozmówcę do wyrażenia przesadnych sądów można, jak już było powiedziane, bierną niezgodą bądź natarczywością. Można także wejść z rozmówcą w amplifikacyjną grę. Stosować zabiegi amplifikacji stylistycznej po to, aby zmusić partnera do użycia określeń hiperbolizujących typowych dla amplifikacji słownej. Rozważmy przykład:</p>
+        <p xml:id="p-3">A: Czyż nie jest to doświadczona, pracowita, skromna osoba?</p>
+        <p xml:id="p-4">B: Tak, zdecydowanie to najlepsza i najwartościowsza osoba na to stanowisko, ale...</p>
+        <p xml:id="p-5">A: No widzi pan, sam pan przyznał, że jest najlepsza. Trzeba ją więc zatrudnić.</p>
+        <p xml:id="p-6">W tym wypadku A poprzez nagromadzenie cech ujętych w formie pytania (amplifikacja stylistyczna) wymusił na B określenie hiperbolizujące (amplifikacja słowna). Amplifikacja stylistyczna pozostawia jedynie wrażenie powiększenia przedmiotu, o którym mowa, gdy tymczasem amplifikacja słowna zawiera już pewną deklarację, którą łatwo można poddać ocenie i ewentualnie zakwestionować. Rozważmy inny przykład:</p>
+        <p xml:id="p-7">A: Jak długo zna pani Józefa K.? B: Myślę, że jakieś pól roku.</p>
+        <p xml:id="p-8">A: Co to znaczy jakieś pól roku? Mówiła pani, że spotkała go po raz pierwszy w czerwcu? B: No tak, w czerwcu.</p>
+        <p xml:id="p-9">A: Od czerwca do dziś to jest osiem miesięcy. No to osiem miesięcy czy pół roku? A może wasze kontakty zaczęły się jeszcze wcześniej? B: Nie, jakieś pół roku temu.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

@@ -1,0 +1,14 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Były one wtedy jedną z najgroźniejszych broni - miały duży zasięg, wysoki pułap lotu i pokaźny udźwig. W pobliżu granic ZSRR bez przerwy krążyło 5-15 maszyn B-52 gotowych do ataku. Typowa trasa kilkunastogodzinnego lotu wiodła nad Biegunem Północnym i Grenlandią. Załoga wyznaczona do tego zadania nawet wolny czas po służbie musiała spędzać na terenie bazy, a jeśli wychodziła na przepustki, to tylko w komplecie. Wożono ją specjalnym samochodem z włączonym stale radiem, przez które można było w każdej chwili usłyszeć rozkaz powrotu do bazy. Samoloty B-52 wchodziły w skład wojsk Strategic Air Command i stacjonowały na terenie USA, na wyspach Guam i Diego Garcia, w Tajlandii, na Okinawie, w Turcji, Hiszpanii oraz w Wielkiej Brytanii.</p>
+        <p xml:id="p-2">Atomowe dyżury w powietrzu pełniono w latach 1958-1968. Zaprzestano ich po dwóch katastrofach: 17 stycznia 1966 r. B-52 zderzył się z samolotem-cysterną i obie maszyny runęły w płomieniach w pobliżu hiszpańskiej miejscowości Palomares. Dwie uszkodzone bomby jądrowe skaziły wtedy teren, a dwie spadły do morza. Kolejny wypadek zdarzył się 21 stycznia 1968 r. na Grenlandii podczas lądowania. Cztery bomby atomowe spłonęły wtedy wraz z samolotem skażając okolice.</p>
+        <p xml:id="p-3">B-52 używano nie tylko do przenoszenia bomb nuklearnych. Ze względu na ogromny udźwig przeszły one chrzest bojowy w Wietnamie, zrzucając tysiące ton bomb konwencjonalnych. Amerykanie utracili tam jednak 18 bombowców. W operacji przeciw talibom i terrorystom z Al-Kaidy w Afganistanie nie stracili żadnej maszyny.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>
