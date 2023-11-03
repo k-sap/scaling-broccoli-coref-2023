@@ -1,0 +1,14 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Stanowisko Prezydenta Miasta Rybnika wypracowane w formie uchwały i przyjęte przez Zarząd Związku Gmin i Powiatów Subregionu Zachodniego Województwa Śląskiego z siedzibą w Rybniku w dniu 27 kwietnia 2009 r. w sprawie założeń do planu kolejowych połączeń regionalnych w nowym rozkładzie jazdy pociągów 2009/2010: Zarząd Związku Gmin i Powiatów Subregionu Zachodniego Województwa Śląskiego z siedzibą w Rybniku z zaniepokojeniem przyjmuje zmiany wprowadzane w rozkładzie jazdy pociągów regionalnych.</p>
+        <p xml:id="p-2">Nasze obawy opierają się na analizie zmian zachodzących w ostatnich miesiącach w rozkładzie jazdy połączeń regionalnych, wielu uwag spływających do samorządów od ich mieszkańców, a ostatnio również ze względu na przyjętą przez Zarząd Województwa Śląskiego uchwałą nr 618/252/III/2009 z dnia 24 marca 2009 r. w sprawie przyjęcia założeń do prac nad planem kolejowych połączeń regionalnych w nowym rozkładzie jazdy pociągów 2009/2010.</p>
+        <p xml:id="p-3">Ograniczenia liczby połączeń kolejowych dotknęły zarówno osób pracujących, uczniów szkół średnich, studentów uczelni wyższych, jak i mieszkańców Subregionu Zachodniego. Zmiany w rozkładzie wpłynęły także na ograniczenie dostępności terenów rekreacyjnych poprzez brak skomunikowanych połączeń m.in. w kierunku Beskidów, szczególnie w weekendy.</p>
+        <p xml:id="p-4">Przedmiotowa uchwała Zarządu Województwa Śląskiego określa merytoryczne podstawy zwiększenia i zmniejszenia liczby połączeń pasażerskich. Jednakże wskazując na postulat wprowadzenia ruchu równoodstępowego na liniach o największych potokach pasażerskich, pomija całkowicie Subregion Zachodni. Linia Katowice – Rybnik – Racibórz/Chałupki stanowi główną linię kolejową łączącą stolicę województwa z Subregionem Zachodnim. Charakteryzuje się także jednym z największych potoków pasażerskich w województwie (na podstawie danych zaprezentowanych na stronie internetowej Urzędu Marszałkowskiego – Aktualności z dnia 5 grudnia 2008 r. „Nowy rozkład jazdy PKP - Porównanie oferty przewozowej w rozkładzie jazdy 2007/8 i 2008/9” - http://www.silesia-region.pl/doc/2008/12/05/1228480712.htm).</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

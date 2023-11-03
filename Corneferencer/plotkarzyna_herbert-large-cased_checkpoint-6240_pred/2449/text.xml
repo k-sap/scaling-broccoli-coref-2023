@@ -1,0 +1,15 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Grał w totka kilka lat. Co tydzień wysyłał dwa kupony po 9 zł 60 groszy. Zachęcony niewielkimi wygranymi coraz bardziej się angażował.</p>
+        <p xml:id="p-2">Zaczął więc grać systemem wydając duże pieniądze. Doszło do tego, że wysyłał tygodniowo dwa kupony za 2016 złotych! Szczęście mu nie dopisywało, ale nie mógł przestać. Aby grać dalej, zdobywał pieniądze gdzie się da. Wziął kredyty w banku, pożyczył na procent od rodziny i znajomych. Ostatnio wydawał na totka tygodniowo 9 tysięcy złotych. W końcu stracił pieniądze, samochód, mieszkanie, nie miał z czego żyć.</p>
+        <p xml:id="p-3">Nie jest to jedyny przypadek, że ktoś przegrał majątek w totolotka</p>
+        <p xml:id="p-4">- Zdesperowani hazardziści zgłaszają się do nas szukając pomocy, gdy zawodzą inne możliwości i znajdują się w sytuacji bez wyjścia - mówi dr Paweł Czerniak, kierownik Miejskiego Ośrodka Profilaktyki i Terapii Uzależnień. - Sami nie potrafią sobie pomóc. Uzależnionemu uświadamia się, że jest bezsilny wobec hazardu. Terapia, którą mu proponujemy trwa sześć tygodni lub trzy miesiące. Pacjenci są pod kontrolą 2 lata. W tej chwili uzależnionych od hazardu jest około 20 osób. To przede wszystkim mężczyźni w wieku 25-40 lat. Wśród nich są również ci, którzy grają w ruletkę, pokera i gry automatyczne np. jednorękiego bandytę.</p>
+        <p xml:id="p-5">Totolotka wysyła około 200 tysięcy łodzian. 5-10 proc. gra systemem przeznaczając na to znaczne kwoty pieniędzy. Liczą na łut szczęścia. Aby na pewniaka wygrać "szóstkę", trzeba wysłać około 14 milionów zakładów.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

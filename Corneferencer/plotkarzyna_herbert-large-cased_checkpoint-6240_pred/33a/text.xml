@@ -1,0 +1,11 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">- Elementy żargonowe w słownictwie policyjnym pojawiają się głównie ze względów emocjonalnych. Wiążą tę grupę zawodową i odróżniają ją od otoczenia. Nazwanie znanego wszystkim użytkownikom języka polskiego przedmiotu w osobliwy sposób, jest znakiem przynależności do tej grupy zawodowej. Powodem pojawiania się słownictwa żargonowego jest również chęć zneutralizowania emocji. W słownictwie policyjnym istnieją bowiem wyrazy, które żartobliwie określają sprawy poważne, np. trup to skóra, a bezdomny nazywany jest trolem. - Osoba postronna może się poczuć urażona tym słownictwem. Należy jednak pamiętać, że policjantowi, który na co dzień zajmuje się sprawami przykrymi, tragicznymi, daje szansę odreagowania i zapobiega kumulowaniu złych uczuć - uważa prof. Kazimierz Michalewski.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

@@ -1,0 +1,32 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">sp2: ty też usiądziesz..</p>
+        <p xml:id="p-2">sp0: o no..</p>
+        <p xml:id="p-3">sp2: ja to nie usiądę bo ja..</p>
+        <p xml:id="p-4">sp0: tak w ogóle nie będę spała. będę z pracy przychodzić będę siadać i będę siedziała przy internecie..</p>
+        <p xml:id="p-5">sp2: o teraz już dlatego że ty nie masz czasu..</p>
+        <p xml:id="p-6">sp0: jak pójdę na emeryturę..</p>
+        <p xml:id="p-7">sp2: nie masz czasu dlatego nie chcesz..</p>
+        <p xml:id="p-8">sp0: tu nie chodzi o mnie..</p>
+        <p xml:id="p-9">sp2: nie lubię tego. o tego nie lubię. taki ciu ciu ciu ciu..</p>
+        <p xml:id="p-10">sp0: tutaj to teraz chodzi o Martę. no żeby to jej się nie spodobało usiądzie mi przy tym i już będzie po nauce..</p>
+        <p xml:id="p-11">sp2: w każdej chwili można wyłączyć przecież to jest..</p>
+        <p xml:id="p-12">sp0: a to. a to trzeba rozgraniczyć to i naukę..</p>
+        <p xml:id="p-13">sp2: ona ma swój Ø. do mojego Ø nie wejdzie. najwyżej do ciebie też może hasło wprowadzić. wystarczy u niej wyłączyć połączenie sieciowe i już nie wejdzie..</p>
+        <p xml:id="p-14">sp0: to już znajdzie sposób. tam cię podejrzy..</p>
+        <p xml:id="p-15">sp2: chyba żartujesz. na to nie ma sposobu. wprowadzisz hasło..</p>
+        <p xml:id="p-16">sp0: zaraz się chłopaków zapyta kurna co można zrobić..</p>
+        <p xml:id="p-17">sp2: nie. tu nie tu nie wykombinuje..</p>
+        <p xml:id="p-18">sp0: cię rozszyfrowała jak można ten y. te skasować..</p>
+        <p xml:id="p-19">sp2: co ty. to było proste bo babka wiesz zapisy..</p>
+        <p xml:id="p-20">sp0: no to tam sobie z tymi. z..</p>
+        <p xml:id="p-21">sp2: czatach bo podejrzałem co tam pisze..</p>
+        <p xml:id="p-22">sp0: no z chłopakami wiesz w sieci rozmawia i takie pierdoły piszą że boże..</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

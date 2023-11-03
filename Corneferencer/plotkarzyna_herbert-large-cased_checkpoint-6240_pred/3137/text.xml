@@ -1,0 +1,27 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">sp0: teściowa podoje do stołu powiedz..</p>
+        <p xml:id="p-2">sp2: pani Urszulka tu nakryła do stołu i. bo Bogusia nie było pan Mariusz był. klucze miał ale nic nie wiedział o żadnej imprezie i. poje pojechał. Boguś z tobą poroz. porozmawia tu się rozpina koszulę zdejmuje no. wcale wcale. no pewnie że nie. absolutnie nie wolno ci tu przyjeżdżać tu jest pan Mariusz nie wolno..</p>
+        <p xml:id="p-3">sp1: o jej jak to..</p>
+        <p xml:id="p-4">sp2: nie. nie..</p>
+        <p xml:id="p-5">sp4: tak tak..</p>
+        <p xml:id="p-6">sp2: wo w ogóle w ogóle. mnie Ola odwiezie w ogóle masz tu nie przyjeżdżać..</p>
+        <p xml:id="p-7">sp3: no ale dlaczego. ale dlaczego dlaczego ona nie może tutaj se przyjść posiedzieć z nami ?</p>
+        <p xml:id="p-8">sp1: bo bo. bo ja jestem..</p>
+        <p xml:id="p-9">sp2: pan Mariusz jest nie przyjeżdżaj. dobra..</p>
+        <p xml:id="p-10">sp3: wiesz no no idiotkę robicie z kobity wiesz no..</p>
+        <p xml:id="p-11">sp2: jak idiotkę no po co tutaj. kobieta ma swoje miejsce w domu i..</p>
+        <p xml:id="p-12">sp3: dziękuję ci bardzo..</p>
+        <p xml:id="p-13">sp0: tak. no. oczywiście..</p>
+        <p xml:id="p-14">sp2: no gdzie tutaj do ludzi..</p>
+        <p xml:id="p-15">sp2: tak musi pan Mariusz jak będzie miał pan telefon to niech pan tak z Ø żoną rozmawia a nie tak tak kochanie nie wynoś psa ja wyniosę no..</p>
+        <p xml:id="p-16">sp1: nie no muszę wynieść..</p>
+        <p xml:id="p-17">sp2: ja mam takiego kolegę to dzwoniła Ø żona do niego o jedenastej co dziennie i sytała. on Zbyszek miał. Zbyszku co dzisiaj na obiad ci ugotować ? Urszulko nie męcz się ja przyjadę to coś ugotuję. i codziennie tak było no co to za chłop. ona w domu nie pracowała..</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

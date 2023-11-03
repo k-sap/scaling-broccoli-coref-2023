@@ -1,0 +1,25 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">WicemarszalekAndrzejChronowski: Przystępujemy do głosowania nad poprawką dwudziestą trzecią. Jest to poprawka komisji poparta przez połączone komisje. Ma na celu wyeliminowanie przyznanego lekarzowi orzecznikowi ZUS uprawnienia do żądania uzupełnienia badań będących podstawą orzeczenia o czasowej niezdolności do pracy przez lekarza, który wystawił zaświadczenie lekarskie. Poprawka zapewnia jedynie możliwość żądania przez lekarza orzecznika ZUS udostępnienia dokumentacji medycznej lub udzielenia wyjaśnień, informacji w sprawie ubezpieczonego.</p>
+        <p xml:id="p-2">WicemarszalekAndrzejChronowski: Proszę o naciśnięcie przycisku obecności.</p>
+        <p xml:id="p-3">WicemarszalekAndrzejChronowski: Kto z państwa senatorów jest za przyjęciem tej poprawki, proszę o naciśnięcie przycisku "za" i podniesienie ręki.</p>
+        <p xml:id="p-4">WicemarszalekAndrzejChronowski: Kto jest przeciw?</p>
+        <p xml:id="p-5">WicemarszalekAndrzejChronowski: Kto się wstrzymał od głosu?</p>
+        <p xml:id="p-6">WicemarszalekAndrzejChronowski: Proszę o podanie wyników głosowania.</p>
+        <p xml:id="p-7">WicemarszalekAndrzejChronowski: Na 87 obecnych senatorów 84 głosowało za, 2 - przeciw, 1 wstrzymał się od głosu. ( Głosowanie nr 15).</p>
+        <p xml:id="p-8">WicemarszalekAndrzejChronowski: Stwierdzam, że Wysoki Senat poprawkę przyjął.</p>
+        <p xml:id="p-9">WicemarszalekAndrzejChronowski: Przystępujemy do głosowania nad poprawką dwudziestą czwartą. Jest to poprawka senatora Kopaczewskiego i senatora Kulaka oraz senatora Struzika, poparta przez mniejszość połączonych komisji. Poprawka dwudziesta czwarta ma na celu wykreślenie z ustawy zawartego w art. 59 ust. 3 pktu 4 przyznającego lekarzowi orzecznikowi ZUS, w celu kontroli, prawo zlecenia wykonania badań pomocniczych w wyznaczonym terminie.</p>
+        <p xml:id="p-10">WicemarszalekAndrzejChronowski: Proszę o naciśnięcie przycisku obecności.</p>
+        <p xml:id="p-11">WicemarszalekAndrzejChronowski: Kto z państwa senatorów jest za przyjęciem tej poprawki, proszę o naciśnięcie przycisku "za" i podniesienie ręki.</p>
+        <p xml:id="p-12">WicemarszalekAndrzejChronowski: Kto jest przeciw?</p>
+        <p xml:id="p-13">WicemarszalekAndrzejChronowski: Kto się wstrzymał od głosu?</p>
+        <p xml:id="p-14">WicemarszalekAndrzejChronowski: Proszę o podanie wyników głosowania.</p>
+        <p xml:id="p-15">WicemarszalekAndrzejChronowski: Na 87 obecnych senatorów 35 głosowało za, 46 - przeciw, 6 wstrzymało się od głosu. ( Głosowanie nr 16).</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

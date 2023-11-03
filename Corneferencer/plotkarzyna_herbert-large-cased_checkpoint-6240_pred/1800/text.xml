@@ -1,0 +1,15 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">26 stycznia do drzwi starszej mińszczanki, mieszkającej przy ul. 1 Pułku Lotnictwa Myśliwskiego, weszły dwie nieznajome, młode damy, które oznajmiły, że są obywatelkami Czech i przywiozły paczkę dla sąsiada starszej pani.</p>
+        <p xml:id="p-2">Ponieważ adresata nie było w domu, „cudzoziemki” poprosiły o napisanie kilku słów po polsku na kartce, bo nie znają języka polskiego... „Czeszki” podziękowały za przysługę, wzięły paczkę z napisaną kartką i dość szybko opuściły gościnne mieszkanie.</p>
+        <p xml:id="p-3">Dopiero po pewnym czasie starsza pani, tknięta złymi przeczuciami, zajrzała do miejsca, w którym przechowywała szkatułkę ze złotą biżuterią. Szkatułka została skradziona. Swoje straty kobieta wyliczyła na ponad 3 tys. zł. Policjanci ustalili prawdopodobne rysopisy przestępczyń. Są nimi dwie kobiety w wieku około 25 lat o jasnej karnacji skóry. Jedna z nich miała na sobie jasną, puchową, pikowaną kurtkę, druga była odziana w kurtkę w kratę.</p>
+        <p xml:id="p-4">Policjanci z mińskiej komendy proszą o informacje mogące pomóc w odnalezieniu „cudzoziemek” (numery telefonów: 25 759 72 00, 997 i 112). Informatorom policja zapewnia całkowitą anonimowość. Jednocześnie oficer prasowy mińskiej policji, Daniel Niezdropa, ostrzega: - Pragnę przestrzec mieszkańców powiatu mińskiego przed tego rodzaju dziwnymi wizytami i przestrzegam przed wpuszczaniem do mieszkań osób, do których mamy choćby najmniejsze podejrzenia.</p>
+        <p xml:id="p-5">W sytuacjach, kiedy osoby te stają się obcesowe, należy powiadomić policję. (SAD)</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

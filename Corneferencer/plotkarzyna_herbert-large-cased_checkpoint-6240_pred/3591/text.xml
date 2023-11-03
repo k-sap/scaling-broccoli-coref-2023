@@ -1,0 +1,29 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Spróbuj nie być ciekawy, o czym jest następny przykład.</p>
+        <p xml:id="p-2">Ćwiczenie 4.</p>
+        <p xml:id="p-3">Próbowanie jest przeciwieństwem robienia</p>
+        <p xml:id="p-4">Przykład:</p>
+        <p xml:id="p-5">"Czy ktoś jeszcze oferuje podobne usługi?"</p>
+        <p xml:id="p-6">"Tak, wiele firm. Proszę spróbować przejrzeć oferty innych firm i dostrzec jakieś zalety."</p>
+        <p xml:id="p-7">Stwórz i napisz trzy przykłady takich zdań na różne tematy, wypełniając puste miejsca wg poniższego schematu.</p>
+        <p xml:id="p-8">"Proszę spróbować</p>
+        <p xml:id="p-9">Quiz</p>
+        <p xml:id="p-10">Gdy chcesz zamknąć sprzedaż, to mówisz do klienta:</p>
+        <p xml:id="p-11">a) "Spróbuj dostrzec korzyści w naszej ofercie i potraktować ją poważnie."</p>
+        <p xml:id="p-12">b) "Spróbuj nie spieszyć się z podejmowaniem decyzji i nie obawiaj się, że jutro może wzrosnąć cena."</p>
+        <p xml:id="p-13">c) "Kupujesz czy nie?!"</p>
+        <p xml:id="p-14">Jeżeli wybrałeś odpowiedź a) lub c), powiedz to swoim klientom i sprawdź, jaki będzie efekt. Jeżeli wybrałeś odpowiedź b), to nie dostajesz punktów w nagrodę, ponieważ zyskasz coś lepszego - pieniądze klienta.</p>
+        <p xml:id="p-15">Łączniki</p>
+        <p xml:id="p-16">Słowa często "nadają ramy" naszemu doświadczeniu, "oprawiają je w ramy", wysuwając pewne aspekty na plan pierwszy, a pozostawiając inne w tle.</p>
+        <p xml:id="p-17">Zajmijmy się słowami "łącznikami", na przykład takimi jak "ale", "i" oraz "pomimo że". Gdy łączymy idee lub doświadczenia razem za pomocą "łączników", to uwaga kieruje się na różne aspekty tych doświadczeń.</p>
+        <p xml:id="p-18">Gdy ktoś mówi:</p>
+        <p xml:id="p-19">"Dzisiaj świeci słońce, ale jutro będzie padać deszcz", to koncentrujemy się bardziej na tym, że jutro będzie padać deszcz, mało dbając o to, że dzisiaj świeci słońce.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

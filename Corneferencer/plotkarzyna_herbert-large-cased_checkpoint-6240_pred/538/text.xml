@@ -1,0 +1,19 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">WicemarszalekTadeuszRzemykowski: Senator Zbigniew Kulak, proszę bardzo.</p>
+        <p xml:id="p-2">SenatorZbigniewKulak: Panie Marszałku! Panie i Panowie Senatorowie!</p>
+        <p xml:id="p-3">SenatorZbigniewKulak: Na zakończenie posiedzenia Senatu w dniu 11 grudnia, pod moją nieobecność, pan senator Roman Skrzypczak był łaskaw, jako swój wkład w pracę tej Izby, złożyć oświadczenie, którego celem uczynił moją osobę.</p>
+        <p xml:id="p-4">SenatorZbigniewKulak: Dziwię się, że pan senator korzysta z takiej formy kontaktu, aby podzielić się ze mną swoimi przemyśleniami, skoro nasze biura senatorskie dzieli odległość raptem kilkuset metrów.</p>
+        <p xml:id="p-5">SenatorZbigniewKulak: Pragnę oświadczyć, że oczywiście nie zgadzam się z merytorycznym wywodem pana senatora, ale chcę też poinformować go, że w sprawie Ośrodka Doradztwa Rolniczego w Lesznie otrzymałem odpowiedź od ministra rolnictwa, który podziela mój pogląd na temat oceny pracy wspomnianego ODR. Aby pomóc panu senatorowi w stylistyce następnych oświadczeń, dotyczących mojej osoby, za chwilę włożę do pańskiej skrytki, Panie Senatorze, moją wizytówkę.</p>
+        <p xml:id="p-6">SenatorZbigniewKulak: Panie Marszałku!</p>
+        <p xml:id="p-7">SenatorZbigniewKulak: Zasadniczym powodem wygłaszania przeze mnie oświadczenia jest odniesienie się do niebywałej arogancji wojewody leszczyńskiego, Leszka Burzyńskiego, notabene politycznego, i nie tylko, kolegi pana senatora Romana Skrzypczaka.</p>
+        <p xml:id="p-8">SenatorZbigniewKulak: Sygnalizowałem już tę sprawę panu ministrowi spraw wewnętrznych i administracji. Wobec braku odpowiedzi oraz nowych faktów pozwalam sobie jednak skorzystać ponownie z tej formy nacisku na przełożonych pana Leszka Burzyńskiego, aby przerwali łańcuch kompromitacji tego przedstawiciela rządu w tak zwanym terenie.</p>
+        <p xml:id="p-9">SenatorZbigniewKulak: Panie Ministrze! W ostatnich dniach otrzymałem kolejny oficjalny list od wojewody leszczyńskiego, stanowiący dalszy ciąg korespondencji w sprawie niejasnych, sygnalizowanych już, okoliczności zakupu sztucznej nerki dla Wojewódzkiego Szpitala Zespolonego w Lesznie. List ten, o sygnaturze Z VII-0714/13/98 zawiera personalne inwektywy pod moim adresem, co już chyba przekracza wszelkie granice tak zwanej współpracy rządu z parlamentarzystą.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

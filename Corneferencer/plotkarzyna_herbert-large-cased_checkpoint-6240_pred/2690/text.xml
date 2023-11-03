@@ -1,0 +1,15 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">ALDONA MINORCZYK-CICHY</p>
+        <p xml:id="p-2">ADAM SANDAUER, szef Stowarzyszenia Pacjentów „Primum non nocere”:</p>
+        <p xml:id="p-3">— Medycyna niekonwencjonalna wymaga nadzoru ze strony państwa. W skład takiej komisji powinny jednak wejść osoby z otwartymi głowami. Nie można potępiać w czambuł wszystkiego, co wiąże się z tym zagadnieniem. Są rzeczy, których nauka jeszcze nie rozumie. Wyśmiewano przykładanie na rany pajęczyny, aż okazało się, że w jej składzie występuje antybiotyk. Zgłaszają się do nas osoby, którym szarlatani zrobili wielką krzywdę. Był pacjent, który po nastawianiu kręgów przestał chodzić, bo kręgarz przerwał mu rdzeń kręgowy. „Bioenergoterapeuta” z Łodzi chorym na raka kazał odstawić leki i pić naenergetyzowaną wodę. Wielka awantura rozpętała się wokół vilcacory. Dlatego potrzebna jest komisja nadzoru, która wyłowi metody cenne i nie dopuści do tego, aby oszuści doprowadzali do ruiny zdrowie setek tysięcy osób.</p>
+        <p xml:id="p-4">BOGUSŁAW MIKOŁAJCZAK, bioenergoterapeuta z Katowic:</p>
+        <p xml:id="p-5">— Wybierając uzdrawiacza należy się kierować jego renomą, tym, jak długo działa, ilu ma pacjentów, czy w tym samym miejscu jest od wielu lat. Może to być cenna wskazówka. Należy zrezygnować z usług kogoś, kto zapewnia, że wyleczy na 100 proc. Omijać należy również uzdrawiaczy odciągających od medycyny klasycznej. Żadne listy rekomendacyjne nie są gwarancją, że trafi się do specjalisty. Czy kontakt z terapeutą pomaga, można po prostu wyczuć. Są to swoiste dobre fluidy. Warto zdać się na przeczucie.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

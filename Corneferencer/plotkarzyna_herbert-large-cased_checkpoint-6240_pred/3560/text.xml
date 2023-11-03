@@ -1,0 +1,16 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Wstęp</p>
+        <p xml:id="p-2">Problematyka zarządzania czasem w rodzinie z małymi dziećmi dotyczy zarówno rodzin o modelu tradycyjnym, jak i rodzin nowoczesnych. W momencie pojawienia się dziecka w rodzinie właśnie czas staje się towarem najbardziej deficytowym.</p>
+        <p xml:id="p-3">Tradycyjny model rodziny to rodzina patriarchalna, w której władzę sprawował mężczyzna, tzw. głowa rodziny. Obecnie coraz częściej - zwłaszcza w dużych miastach - pojawia się model rodziny egalitarnej. Rodzina egalitarna jest na ogół rodziną małą. Tworzą ją rodzice i dzieci. Tradycyjna polska rodzina to model 2 plus 2 - dwoje rodziców i dwójka dzieci.</p>
+        <p xml:id="p-4">Narodowy Spis Powszechny z 2002 r. pokazał, że w Polsce najwięcej ludzi żyje w małżeństwie. Polska rodzina jest w większości przypadków rodziną tradycyjną, w której istotną rolę odgrywają dziadkowie - jako ci, którzy wspierają rodzinę zarówno swoim czasem, jak i niejednokrotnie finansami.</p>
+        <p xml:id="p-5">Dziecko we współczesnej polskiej rodzinie nadal stanowi wartość samą w sobie. Badania przeprowadzone wśród rodzin wielkomiejskich pokazały, że preferują one wartości rodzinne (67 proc.), a dziecko traktowane jest jako największa wartość w małżeństwie, choć wśród pokolenia młodszego przeważają postawy bardziej ambiwalentne. Statystyczna Polka rodzi dziecko, gdy ma 29 lat.</p>
+        <p xml:id="p-6">Dziecko planowane jest w momencie, gdy rodzina posiada już odpowiedni status materialny. GUS podaje, że w latach 1997-2006 ubyło w Polsce ok. 170 tys. obywateli, przy czym w 2007 r. nastąpił wzrost liczby urodzeń, co związane jest z tzw. echem demograficznym (wyż demograficzny z lat 80. rodzi dzieci). Tak naprawdę ze względu na prognozy demograficzne pożądaną liczbą dzieci w polskiej rodzinie jest ponad dwoje dzieci - takich jednak rodzin jest w Polsce niewiele, zaledwie 17 procent.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

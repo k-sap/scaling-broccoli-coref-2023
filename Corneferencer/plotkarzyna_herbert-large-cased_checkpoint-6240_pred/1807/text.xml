@@ -1,0 +1,12 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Jednostka liczy 24 czynnych strażaków. Gaszą oni pożary, usuwają szkody, zabezpieczają różne uroczystości i imprezy. Uczestniczą w sportowych zawodach pożarniczych, niejednokrotnie zajmując liczące się miejsca. W bieżącym roku jednak zawodów nie ukończyli - zawiódł zużyty sprzęt. Szczęście, że na zawodach, nie w akcji. Mieszkańcy mają świadomość, że ich jednostka, to odpowiednio wyszkolony zespół i niezawodny sprzęt. Drużyny młodzieżowej również jeszcze nie ma, ale miejmy nadzieję, że i ona powstanie. Teraz kiedy stoi już budynek remizy i być może uda się w niedługim czasie wykończyć salę o powierzchni 160 m2, kuchnię i inne niezbędne pomieszczenia, strażacy będą organizować różne imprezy, z których dochód przeznaczony zostanie na sprzęt i umundurowanie, konieczne do utworzenia młodzieżówki.</p>
+        <p xml:id="p-2">Wspiera niezmordowanie swoich strażaków jeden z mieszkańców - Jarosław Lasecki. Dzięki niemu, wyliczają strażacy, mamy otynkowany i pomalowany z zewnątrz budynek, nowy podjazd do garaży, nowy samochód i 14 mundurów. A 5 odświętnych chełmów służy do wystąpień z okazji państwowych i kościelnych uroczystości. Wspierają też ochotników swoimi umiejętnościami kulinarnymi i artystycznymi: Wanda Bielas, Barbara Zatoń, Zofia Haber, Teresa Domińczak, Alicja Solak, Izabela Dziurkowska i inne członkinie Koła Gospodyń Wiejskich. Ale podkreślają również strażacy swój wysiłek. Na pożółkłych kartkach widnieją pieczołowicie spisywane nazwiska wszystkich, którzy budowali strażnicę. Są więc: Tadeusz Solak, Leszek Haber, Tadeusz Grzegorczyk, Tadeusz Grabny, nieżyjący już Józef Stachurski, Mieczysław Śpiewak, Stefan Lampa, Andrzej Haber, Roman Jakubczak, Mieczysław Kępiński, Piotr Zatoń, Jerzy Lampa, Grzegorz Ciurkowski, Bartłomiej Ciurkowski, Arkadiusz Bielas, Łukasz Liberda, Marcin Podsiedlik, Sebastian Banasiak, Rafał Lampa, Rafał Solak, Rajmund Nowak i Łukasz Jakubczak. Niedawno zmarł Jan Lampa, najstarszy, liczący 75 lat ochotnik, który w straży służył 56 lat.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

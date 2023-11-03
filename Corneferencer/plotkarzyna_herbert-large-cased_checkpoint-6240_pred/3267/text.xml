@@ -1,0 +1,14 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Rolnicze dopłaty stały się także argumentem w sporze organizacji rolniczych z rządem w sprawie reformy składek KRUS. Dzisiaj rolnicy płacą jedną dziesiątą tego, co płaci ubezpieczony w ZUS (213 zł kwartalnie w KRUS i 700 zł miesięcznie w ZUS). Rząd zaproponował więc, że rolnicy, którzy mają gospodarstwa poniżej 3 ha, będą płacić 40 proc. najniższej emerytury (dzisiaj 562 zł), od 3 do 5 ha - 45 proc., ponad 5-hektarowcy 45 proc. plus 3 proc. za każdy dodatkowy hektar.</p>
+        <p xml:id="p-2">"To jest próba łatania dziury budżetowej kosztem rolników" - skrytykował projekt Władysław Serafin, prezes Krajowego Związku Rolników, Kółek i Organizacji Rolniczych. "Skutek Ø jest taki, że rolnicy, którzy dostaną pieniądze z dopłat na unowocześnienie gospodarki, będą je musieli oddać na ubezpieczenie".</p>
+        <p xml:id="p-3">Od dopłat nie płaci się żadnych podatków. Są to więc pieniądze święte, bo nietykalne.</p>
+        <p xml:id="p-4">Przywódcy chłopscy straszyli chłopa Unią; zaleje nas ona swoją dotowaną żywnością, dopłat nie będzie, bo widział kto, żeby cokolwiek dawali za darmo? Z torbami pójdziecie. Jednak ceny skupu wzrosły, dopłaty ruszyły, wieś złapała oddech. Czy te pieniądze podtrzymają skansen, czy też na rynku zostaną najlepsi producenci żywności? Idea jest taka, żeby w ciągu kilku lat zostało w Polsce 400-500 tys. gospodarstw. Kwitnących, produkujących zdrową żywność, ale - nowocześnie. Czy to może się udać?</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

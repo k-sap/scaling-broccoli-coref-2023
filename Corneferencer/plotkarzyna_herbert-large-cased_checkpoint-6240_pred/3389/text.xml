@@ -1,0 +1,18 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">– Jeżdżące przez całą dobę TIR-y powodują, że nie możemy spać – mówi jedna z mieszkanek ulicy (nazwisko znane redakcji).</p>
+        <p xml:id="p-2">Gaz pod ulicą</p>
+        <p xml:id="p-3">Mieszkańców niepokoi jeszcze jedna kwestia. Tuż przy krawędzi jezdni przebiega instalacja gazowa.</p>
+        <p xml:id="p-4">– Zdajemy sobie sprawę, że śpimy przez to na bombie – mówią. Zaalarmowali administratora sieci. Bydgoski oddział Pomorskiej Spółki Gazownictwa odpowiedział piórem Andrzeja Mareckiego, zastępcy dyrektora ds. eksploatacji: „(...) informuje, że gazociągi zlokalizowane w m. Cekcyn zostały wybudowane w oparciu o obowiązujące w czasie realizacji zadania państwowe jak i branżowe akty prawne. (...) W świetle posiadanej przez nasz zakład dokumentacji powykonawczej gazociągi w miarę możliwości lokalizowano w pasie chodnika lub, jeżeli nie było to możliwe, w pasie drogowym, lecz w takiej odległości, aby nie było bezpośredniego oddziaływania kół poruszających się pojazdów. Posadowienie gazociągów, które budzi Państwa zaniepokojenie, także jest zgodne z obowiązującymi w trakcie budowy sieci przepisami i nie stwarza zagrożenia. (...)”. Gołym okiem jednak widać, że poruszające się po wąskiej ulicy przeładowane ciężarówki jeżdżą nad rurami.</p>
+        <p xml:id="p-5">Fikcyjne ograniczenie</p>
+        <p xml:id="p-6">Problem nadmiernej prędkości został rozwiązany na papierze. Mieszkańcom Cekcyna udało się wywalczyć na terenie swojej wsi ograniczenie do 40 km/h.</p>
+        <p xml:id="p-7">– Ze względu na brak egzekwowania pozostało ono fikcją – stwierdza Czesław Chabowski.</p>
+        <p xml:id="p-8">– Nigdy nie widziałam u nas policjantów z radarem. Mogę im otworzyć własną bramę, by mieli się gdzie ustawić – wtóruje mu mieszkanka Głównej.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

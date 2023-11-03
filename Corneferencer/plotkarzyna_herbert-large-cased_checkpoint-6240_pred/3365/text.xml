@@ -1,0 +1,12 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Sukcesy sprawiają jednak, że stawki za licencję wydawniczą do tytułu (zwyczajowo wydawnictwo zdobywa ją na okres 3-5 lat) rosną. Agent ogłasza aukcję na głośny tytuł i tu walczy się na całego. Rekordem Polski, jak się mówi, była zaliczka 100 tys. dol. zapłacona przez Noir Sur Blanc za prawa do "Baudolino" Umberta Eco i przedłużenie praw do innych powieści włoskiego autora. Za Harry’ego Pottera wydawnictwo Media Rodzina płaciło na początku około 30 tys. dol. (teraz ta stawka jest oczywiście wyższa), zaś by wydać Artura Pereza-Reverte, trzeba zapłacić około 15-20 tys. dol. Bywają jednak szczęśliwe przypadki: Zysk kupił prawa do "Dziennika Bridget Jones" za grosze (ściślej: za 1000 dol.). Zachodni agent otrzymuje około 20 proc. i dzieli się z polskim subagentem, który dostaje na ogół 10 proc. od wynegocjowanej sumy.</p>
+        <p xml:id="p-2">Bywa jednak, że agenci muszą reagować ostro i bronić swoich klientów. Jedną z bolączek rynku książki jest wydawanie egzemplarzy pirackich, bez ważnej licencji. - Reagujemy w takich przypadkach zdecydowanie, ale wierzymy jednocześnie, że polski wydawca działał nie tyle z premedytacją, ile po prostu popełnił błąd - mówi Kański. - Wyrównywanie strat i ugoda na ogół wystarczają. Taką ugodę Graal zawarł z wydawnictwem Amber, gdy kilka lat temu opublikowało amerykańską biografię Jana Pawła II w ocenzurowanej wersji. I chociaż w branży książkowej mówi się, że nie ma bodaj jednego ważnego agenta, który nie starłby się kiedyś z Amberem, to jednak w Graalu podkreślają, że trzeba dobrze żyć ze wszystkimi ważnymi wydawcami.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

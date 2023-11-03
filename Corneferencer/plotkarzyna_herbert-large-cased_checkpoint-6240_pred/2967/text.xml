@@ -1,0 +1,17 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Sylwia wachlowała twarz błękitno-złotym wachlarzem w orientalne wzory i coraz bardziej rozpinała bluzkę, obnażając tłuszcz wylewający się z gorsetu. "Jak ta idiotka może w tym wytrzymać" - pomyślała Marta, łapiąc się na tym, że jednak mimo ohydnej sytuacji przytomnie myśli, funkcjonuje. "Chyba rzeczywiście mogę kopnąć tego śmierdziela tak, że on zmoczy majtki". Obserwowała Petera i jednocześnie przegięta do tyłu jak kotka miękko szła do Hernandeza, który wyraźnie zgłupiał.</p>
+        <p xml:id="p-2">- Lubię silnych mężczyzn, czuję się przy nich bezpieczna.</p>
+        <p xml:id="p-3">Zanim zdążył odpowiedzieć, Sylwia stanęła przed Martą, trzymając się pod boki i strzelała jak z karabinu maszynowego:</p>
+        <p xml:id="p-4">- Chcesz bezpieczeństwa, ty młoda kurewko?! Ja ci dam takie w najgorszym burdelu, że od siebie samej będziesz uciekać - poleciały wiązanki po hiszpańsku, a mężczyźni klaskali się w dłonie jak na dobrym meczu.</p>
+        <p xml:id="p-5">Chyba teraz. Odwrócona bokiem odwinęła nogę, celując niżej brzucha. Hernandez skulił się, zawył i padł na twarz. Peter związanymi rękoma uderzył pod brodę wyższego bandytę, który miękko sunął po karoserii wozu i zatrzymał na zderzaku. Zanim ten drugi chwycił za kieszeń, Peter dwa razy strzelił mu nogą w głowę, poprawił w klatkę piersiową i bandzior zacharczał krwią. Peter doskoczył do Sylwii. Za późno. Już miała w ręku mały pistolet.</p>
+        <p xml:id="p-6">- Siadaj na dupie, gówniarzu. Już!</p>
+        <p xml:id="p-7">Marta skoczyła w bok. Krzyknęła:</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

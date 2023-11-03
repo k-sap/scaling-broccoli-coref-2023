@@ -1,0 +1,17 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Największą sensacją było obserwowanie przez okno w nocy z 13 na 14 i z 14 na 15 zrzutów broni - rakiety - walka powietrzna.</p>
+        <p xml:id="p-2">15 VIII 1944. Wtorek</p>
+        <p xml:id="p-3">Dziś jest pierwszy dzień bez wody. To pogłębia grozę sytuacji. Tragedia zapada w obrzydliwość. Pod naszymi oknami w ogródku pani Kowalczewskiej kopią olbrzymi dół kloaczny. Dziś w nocy miałam dyżur od pierwszej w nocy do piątej rano, w czasie którego były desanty. Dziś o czwartej i pół pocisk z tanku zawadził o nasz dom, tak że wszędzie posypały się tynki i cegły. W moim mieszkaniu ofiarą wstrząsu padł talerz z osiołkiem z Sorrento, który spadł ze ściany i rozbił się na cztery kawałki. Mój posępny nastrój wieczorem wywołuje gniew Anny. Na kolacji bezdomna.</p>
+        <p xml:id="p-4">Ja rano z wizytą u p. Kowalczewskiej, a potem u p. Kiślańskiej. Pan Żerkowski wrócił z miasta, chodził do rogu Wilczej i Kruczej.</p>
+        <p xml:id="p-5">Po południu u pani Potockiej. Wszędzie dostaję jak żebrak po parę papierosów, które mi się skończyły, i których strasznie mi brak. A p. Kiślańska poczęstowała mnie też niezłą wódką, co mi dobrze zrobiło.</p>
+        <p xml:id="p-6">Dąbrowa Zduńska. 29 XII 1944. Piątek</p>
+        <p xml:id="p-7">Od czasu kiedy przerwałam te notatki, los Polski i mój osobisty zapadł w tragedię, przechodzącą najbardziej makabryczną wyobraźnię. Notuję krótko po kronikarsku wypadki, gdyż nie mam odpowiednich słów, aby wyrazić moją rozpacz i żałość.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

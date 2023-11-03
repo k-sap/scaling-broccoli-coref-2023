@@ -1,0 +1,12 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Kultura fanowska zawsze była bardzo twórcza. Amatorskie opowiadania czy filmy nie są wynalazkiem ostatnich lat. Jednak do niedawna dystrybucja wytworów fanów była ograniczona do kręgu znajomych i rodziny. Za sprawą Internetu pojawiły się możliwości niemal darmowego dotarcia do milionów odbiorców. A jeśli amatorski produkt zdobędzie popularność w Internecie, zapewne zainteresują się nim profesjonalne firmy. Choć liczba twórców-amatorów jest gigantyczna i szanse sukcesu nikłe, podobne historie pełnią dziś funkcję mitu "od pucybuta do milionera". Nie można więc dłużej utrzymać tezy, że dogłębna wiedza na temat popkultury nie ma takiej wartości ekonomicznej jak wiedza o kulturze wysokiej. O tym, że egzystencja bohaterów Smitha ma komercyjny potencjał, przekonał już jego wcześniejszy film "Jay i Cichy Bob kontratakują", w którym tytułowe postaci jadą do Hollywood upomnieć się o honorarium u producenta filmu kopiującego ich przygody.</p>
+        <p xml:id="p-2">Nie ma jednak sensu doszukiwać się w postaciach "Sprzedawców" mózgowców, którzy dzięki zmianie koniunktury wkrótce staną się milionerami. U Smitha nie chodzi o to, by dać prztyczka w nos bardziej życiowo rozgarniętym rówieśnikom - w "Sprzedawcach 2" wyśmiana zostaje postać kolegi z liceum, który dorobił się w Internecie. Celem jest raczej przedłużenie beztroskiej młodości. I choć klamrą spinającą film są poważne życiowe decyzje i dylematy (jak małżeństwo), nie one wysuwają się na pierwszy plan. Kobiety - trochę jak w grze komputerowej - grają role drugoplanowe. Liczą się za to męska przyjaźń i rozmowy na tematy, które do niedawna uznawano za absurdalne.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

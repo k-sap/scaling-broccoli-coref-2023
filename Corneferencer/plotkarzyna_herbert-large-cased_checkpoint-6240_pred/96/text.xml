@@ -1,0 +1,13 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">- Tamta była większa - odpowiedział.</p>
+        <p xml:id="p-2">Było zupełnie pusto i cicho. Gdzieś z oddali albo z zabudowań ciągnęło świńskim gnojem. Ta woń przypominała mi dzieciństwo. Jak samo jak zasrany przez bydlęta piasek i te wysokie topole, które podczas burzy ściągały pioruny. Niezależnie od tego, jak daleko się wybierzesz, zawsze znajdziesz coś dla siebie.</p>
+        <p xml:id="p-3">Teraz z jakichś drzwi, z jakiegoś zakamarka, cholera wie skąd, zjawił się zwalisty, tłusty facet. Szedł okrakiem, jakby przeszkadzało mu własne sadło. Może zresztą widział gdzieś taki chód. Miał na sobie jakiś idiotyczny strój, pomieszanie wojskowego munduru z ubiorem myśliwego i rozłaziło się to na nim, rozpinało, guziki z jeleniego rogu, wlokące się po ziemi sznurowadła wysokich butów. Wyglądał jak oberświniopas. Stanął pięć metrów przed maską i dyszał. Władek sięgnął pod siedzenie i wysiadł. Szedł w jego stronę, trzymając škorpiona za lufę w wyciągniętej ręce. Tamten natychmiast odebrał mu broń, zwolnił zatrzask, wysunął magazynek, zważył w dłoni i wetknął z powrotem. Rozmawiali o czymś, ale ja widziałem tylko plecy Władka, jego ramiona raz po raz ściągane w jakimś ekspresyjnym i cwanym geście, składanie i rozkładanie ramion, całe to "Jak rany Boga", "No żebym ja chuja znał wcześniej", "No i nie było szans inaczej, szefie, nie było", aż po "A to se sami tych pasztetusów woźcie i sami se konfiskujcie psycholom maszynowe klamki, a my wracamy na łono ojczyzny...". Tamten próbował coś wtrącać, unosił wielką tłustą dłoń i pokazywał jej wnętrze podobne do różowej poduszki, ale w końcu zaczął się po prostu śmiać. Potem zbliżyli się do siebie i nie słyszałem nawet urywka, nawet monosylaby, chociaż mówili dużo i szybko. Wreszcie Władek pokiwał głową, a tamten klepnął go parę razy w ramię.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

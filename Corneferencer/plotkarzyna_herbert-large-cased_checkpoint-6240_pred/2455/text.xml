@@ -1,0 +1,16 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">- Nasze miasto jest źle skomunikowane, odstrasza na przykład droga do Warszawy - nie kryje Maciej Grześkowiak.</p>
+        <p xml:id="p-2">Nadzieją stolicy regionu jest - według wiceprezydenta - m.in. zespół obsługi inwestora w urzędzie miasta. Ma ona polegać na tym, że jeden urzędnik załatwi za inwestora wszystkie formalności na szczeblu samorządowym, a przedsiębiorca zgłosi się już tylko po gotowe dokumenty. Przyszłością jest też Bydgoski Park Przemysłowy i stworzenie podstrefy Pomorskiej Specjalnej Strefy Ekonomicznej.</p>
+        <p xml:id="p-3">Roman Woźniak, prezes BPP wyjaśnia: - To prawda, mamy tutaj jeszcze las i nieuzbrojone tereny. Otrzymaliśmy jednak 15 mln euro na rozbudowę infrastruktury. To będzie teren atrakcyjny dla inwestorów. Zamierzamy zaproponować im np. osobny wjazd, a nie jak teraz przez bramę Zachemu. Mamy już u siebie belgijską firmę, która chce wiosną ruszyć z produkcją. W następnym rankingu na pewno będziemy wyżej.</p>
+        <p xml:id="p-4">Tylko jeden ranking</p>
+        <p xml:id="p-5">Grześkowiak uważa, że powoływanie się na jeden ranking w ocenie atrakcyjności Bydgoszczy - jest niesprawiedliwe. - Należy dodać, że prawdopodobnie już za rok będziemy mieli w Bydgoszczy szwedzką Ikeę. Duża amerykańska firma szuka terenu w Europie i jest zainteresowana naszym miastem.</p>
+        <p xml:id="p-6">Sprawdziliśmy przy okazji, czy nasze miasto jest atrakcyjne dla inwestorów, których już posiada. Zapytaliśmy o to wczoraj Jana Kolańskiego, prezesa Jutrzenki, jednej z największych i najbardziej znanych bydgoskich firm. - Nikt nie zachęca nas do inwestowania w Bydgoszczy, ale i tak chcemy przeznaczyć 70 mln zł na budowę nowego zakładu produkcyjnego na Osowej Górze - mówi Kolański. Dodajmy, że miasto straci na Jutrzence, która wkrótce zmieni adres siedziby na Osówiec w Wielkopolsce. Oznacza to, że podatek od nieruchomości płacić będzie nadal w Bydgoszczy, gdzie jest zlokalizowany zakład, a podatek dochodowy - w Wielkopolsce.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

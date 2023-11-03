@@ -1,0 +1,14 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">SLD miota się teraz w sidłach, które sam zastawił. Nie naprawi finansów państwa bez odcięcia się od populistycznych haseł, jakie chętnie umieszczał na swoich sztandarach. Nie zrobi tego także bez przekonania do reform części opozycji, której większość już dawno przelicytowała go w trosce o ubogich. Zaś wątpliwe jest, aby jej odpowiedzialna część poparła pakiet wicepremiera, który - wbrew jego zapowiedziom - nie ma szans przyczynić się do przyspieszonego rozwoju gospodarki. Dlatego pakiet nie uzyskał poparcia ministra gospodarki. Nic dziwnego, że Sojusz nie bardzo wie, co ma z tym fantem zrobić, mimo wyrazów ogólnego poparcia, wygłoszonych przez prezydenta po specjalnie zwołanej w tym celu Radzie Gabinetowej.</p>
+        <p xml:id="p-2">To się musiało zemścić</p>
+        <p xml:id="p-3">Wicepremier straszy nie tylko swoją dymisją, ale tym, że nasze państwo bez głębokiej reformy finansów publicznych nie będzie zdolne sprostać nadchodzącym wyzwaniom. I w tym punkcie ma rację. Już za czasów pierwszej koalicji SLD-PSL rząd uznał, że jego głównym zadaniem jest ulżenie doli najuboższych, skrzywdzonych na początku lat 90. przez Balcerowicza. Wtedy też nastąpił ponowny burzliwy rozkwit zlikwidowanych w 1990 r. agencji i funduszy celowych, do których coraz szerszym strumieniem, poza kontrolą parlamentu, zaczęły płynąć publiczne pieniądze. Dziś Grzegorz Kołodko słusznie chciałby przynajmniej część z nich kolejny raz zlikwidować. I w tych staraniach stanowczo należy go poprzeć, ale to dopiero kosmetyka, a nie operacja uzdrawiająca.</p>
+        <p xml:id="p-4">Po rządach SLD-PSL pałeczkę ochoczo przechwyciła AWS, która - zwłaszcza w końcówce swoich rządów - bez umiaru nadal rozdawała przywileje, na trwałe zapisując je w ustawach. Na dzisiejszą sytuację solidarnie pracowały parlamenty nie tyle obecnej, co dwóch poprzednich kadencji. Zaciskały pętlę na szyi własnych rządów, coraz skuteczniej ograniczając im możliwości racjonalnego wydawania pieniędzy.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

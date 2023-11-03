@@ -1,0 +1,12 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Nie zawsze jednak to wystarcza. Zmiany w środowisku, a także postęp w rolnictwie i nieustanne powtarzanie błędów Zachodu, gdzie obecnie na odtworzenie ekosystemów rolniczych wydaje się ogromne sumy, sprawiają, że chwasty giną coraz szybciej. Czasem jest to spowodowane tym, że niektóre gatunki roślin wycofuje się z uprawy – coraz rzadziej uprawia się len albo grykę, nie mówiąc o takich “dziwadłach” jak lnicznik, niegdyś podstawowe źródło oleju. Związane z nimi chwasty mogą przetrwać czasem tylko w hodowlach zachowawczych, zakładanych specjalnie dla ich ochrony. Takie hodowle, połączone z kolekcjonowaniem nasion rzadkich chwastów, prowadzone są w kilku ośrodkach w Polsce.</p>
+        <p xml:id="p-2">Jest jeszcze jeden sposób, by ocalić chwasty. Tak naprawdę może się do tego przyczynić każdy, kto ma ogród lub działkę, kawałek ziemi. I nie chodzi mi tu wcale o pozostawianie chwastów na grządkach, chociaż w każdym ogrodzie powinien być choć jeden mały zakątek, w którym nic nie robimy – wtedy w ogrodzie będzie na pewno więcej ptaków i motyli. Wiele chwastów polnych to piękne, barwne kwiaty, świetnie nadające się na rośliny ozdobne. Pomysł ten może wydawać się z początku absurdalny, ale... może warto wydzielić fragment swojego ogrodu i założyć ogródek chwastów? Nasiona można pozbierać latem na polu lub kupić w internecie specjalną mieszankę – są już dostępne. Najlepiej zmieszać je z nasionami zbóż albo innych roślin uprawnych, np. pięknie, błękitnie kwitnącego lnu. Czerwone maki, błękitne chabry, różowe kąkole, fioletowe ostróżeczki, pnące się po płotach i krzewach wyki, pełzający po ziemi kurzyślad o uroczych czerwonych kwiatkach, maleńkie, kremowe fiołki polne wśród złocistych kłosów jęczmienia mogą stać się oryginalną ozdobą naszego ogrodu. Na pewno zadziwią i zachwycą przyjaciół, rodzinę, sąsiadów.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

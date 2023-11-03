@@ -1,0 +1,12 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Łukasz Szczere powiedziawszy nie rozumiem co kolega rozumie przez pojęcie "polskie pany", które wstawia gdzie to tylko możliwe. Nie można mówić,że Polska ma CYTAT(Hanibalubram) "gdzies polaków na białorusi" to nieprawda. Polska z budzetu państwa finansuje działanie związku Polaków na Bialorusi, najzdolniejsi Polacy mogą liczyć na stypendia i naukę kontynuować w Polsce. Kiedy były wybory spora ilość rodaków była na manifestacjach żeby pokazać, że solidaryzują się z narodem Białoruskim. Tym bardziej dziwi twoje podejście z tymi "polskimi Panami" chyba pojęcie się troszkę zdezaktualizowało nie uważasz? Bo jeśli chodzi ci o ucisk bogatych kapitalistów nad ludem pracującym to jest to trochę śmieszne...</p>
+        <p xml:id="p-2">czeslaw Ktoś z Was wspomniał wyżej, że w/g niezależnych obserwatorów 80% Białorusinów popiera swojego Łukaszenke, mnie się o uszy obiło że ponad 70% Ø. Więc wygląda na to, że niema tam żadnego reżimu, a Łukaszenko jest prezydentem urzędującym jak najbardziej prawowicie. Za to skoro tak mało Białorusinów popiera opozycje to wygląda na to, że to raczej z opozycją jest coś nie tak. Wracając do sprawy Polaków na Białorusi to proponowałbym ich zaprosić do ojczyzny (Polski) do pracy zamiast spodziewanych Węgrów, Rumunów, Ukraińców, czy nawet Koreańców. Gdzieniegdzie w kraju zaczyna brakować pracowników (nawet u mnie z zakładu odeszło niedawno już 5 doświadczonych ludzi, a szef z wielkim trudem znajduje nowych), więc po co nam obce narodowości, jak mamy tu naszych rodaków na Białorusi pod nosem? Zaprośmy ich tu wszystkich do Polski, będą napewno poza zasięgiem Łukaszenki i z ekonomicznego punktu widzenia będzie to korzystne. Będą chyba same zalety co? Pozdr.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

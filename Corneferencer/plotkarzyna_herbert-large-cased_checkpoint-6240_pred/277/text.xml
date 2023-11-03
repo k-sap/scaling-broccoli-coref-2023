@@ -1,0 +1,21 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Mężczyzna 1: Przyzwyczai się pani. To co, zwalamy?</p>
+        <p xml:id="p-2">Mężczyzna 3: Jasne, możecie panowie zacząć wnosić pudełka do windy, ja pobiegnę na górę wszystko pootwierać, ty, kochanie, odstaw samochód tam dalej, żeby było miejsce. Mam prośbę, panowie. Na niektórych pudełkach jest napisane “ostrożnie”, weźcie sobie to do serca, jasne?</p>
+        <p xml:id="p-3">Mężczyzna 2: Jasne, szefie, nie robimy od wczoraj.</p>
+        <p xml:id="p-4">Mężczyzna 3: Mam nadzieję. No to do roboty, jak się uwiniecie, to...</p>
+        <p xml:id="p-5">[kobiecy krzyk]</p>
+        <p xml:id="p-6">Kobieta: Chryste, co to było?</p>
+        <p xml:id="p-7">Mężczyzna 3: Mówiłem ci, że mieszkanie w Warszawie nie może być tak tanie. Może tu jest ośrodek przystosowawczy dla gości z psychiatryka. Właśnie ćwiczą okazywanie strachu na terapii grupowej.</p>
+        <p xml:id="p-8">Mężczyzna 1: Nie chrzań pan, tylko dzwoń po karetkę, ja zobaczę, co jest grane.</p>
+        <p xml:id="p-9">[kroki, drzwi]</p>
+        <p xml:id="p-10">Kobieta: Boję się, jeszcze nie słyszałam takiego krzyku.</p>
+        <p xml:id="p-11">Mężczyzna 3: Zostań przy samochodzie... halo, moje nazwisko Łazarek, Kondratowicza czterdzieści jeden, naprzeciwko szpitala, proszę przysłać karetkę... Nie wiem dokładnie, słyszeliśmy przerażający krzyk, co? Nie, nie ma pani ratować krzyku, tylko przysłać karetkę, jeśli wszystko w porządku, to odwołam... Tak, wiem, że to nie taksówka... O jakich kosztach pani mówi? Czy ta rozmowa się nagrywa? To dobrze, mam nadzieję, głupia suko, że stracisz pracę przez to nagranie. Przyślesz tę karetkę czy nie? Dziękuję.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

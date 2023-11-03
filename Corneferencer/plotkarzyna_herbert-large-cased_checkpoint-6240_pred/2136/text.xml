@@ -1,0 +1,18 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Możemy wpływać na sposób zakładania blokad przez serwery bazodanowe, zmieniając poziom izolowania transakcji. Większość serwerów pozwala ustawić (na poziomie serwera, bazy danych lub poszczególnych sesji) jeden z czterech poziomów izolowania transakcji, przedstawionych przez nas od najmniej restrykcyjnego, w którym maksymalna współbieżność okupiona jest występowaniem największej liczby typów niespójności danych, do najbardziej restrykcyjnego, który kosztem ograniczenia współbieżności gwarantuje najwyższy poziom spójności danych.</p>
+        <p xml:id="p-2">Read Uncommitted</p>
+        <p xml:id="p-3">W trybie niezatwierdzonego odczytu (ang. Read Uncommitted) odczyt danych nie powoduje założenia blokady współdzielonej. Na tym poziomie występują brudne odczyty, niepowtarzalne odczyty i odczyty widma (jedynym niekorzystnym zjawiskiem niewystępującym na tym poziomie jest utrata aktualizacji).</p>
+        <p xml:id="p-4">Żeby się o tym przekonać:</p>
+        <p xml:id="p-5">1. W jednej sesji (oknie edytora SQL) rozpoczniemy transakcję i zaktualizujemy nazwę działu:</p>
+        <p xml:id="p-6">2. W drugiej sesji zmienimy poziom izolowania transakcji na Read Uncommitted i spróbujemy odczytać modyfikowane przez innego użytkownika dane:</p>
+        <p xml:id="p-7">Udało nam się odczytać dane, pomimo że osoba, która je zmieniała, nie zatwierdziła jeszcze transakcji, a więc w każdej chwili może ją wycofać. W tym trybie (często wymuszanym na poziomie poszczególnych instrukcji za pomocą specyficznych dla danego serwera bazodanowego dyrektyw optymalizatora) można odczytywać dane, o których wiemy, że nie będą w tym samym czasie modyfikowane.</p>
+        <p xml:id="p-8">Kończąc ćwiczenie, zamknij bez zatwierdzania otwartej transakcji i na nowo otwórz oba okna edytora SQL - w ten sposób kolejne ćwiczenie rozpoczniemy, pracując w domyślnym trybie izolowania transakcji.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

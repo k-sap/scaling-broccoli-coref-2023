@@ -1,0 +1,13 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">"Każdy ma swoje Kilimandżaro" - to nasze hasło. Te słowa chcemy wykrzyczeć głośno każdym krokiem i metrem prowadzącym Was na biały "dach Afryki".</p>
+        <p xml:id="p-2">Znam wielu ludzi, którzy nie widzą przed sobą niczego... Wydaje im się, że nie mają już nic do zdobycia, że nie ma przed nimi żadnych dróg i żadnych szczytów. Są wśród nich tacy jak Wy, ludzie po dramatycznych przejściach, wypadkach, chorobach... Są załamani, bezradni i bezwolni. Popadają w depresję, nienawiść do świata, rozpacz, żal!</p>
+        <p xml:id="p-3">Poznałam w tym roku pięknego dwudziestosiedmioletniego mężczyznę. Pięć lat temu miał wypadek samochodowy. Po ciężkich urazach głowy siedzi na wózku. Wprawdzie ma całkiem sprawną jedną rękę, nauczył się na nowo mówić, doskonale obsługuje komputer, zna świetnie angielski, a jednak poddał się całkowicie. Niczego nie pragnie, nic nie robi, o niczym nie marzy, torturuje i szantażuje swoim kalectwem własną matkę - jakby się chciał na niej zemścić za swój wypadek. Umie tylko żądać i domagać się wszystkiego. Jest okrutny i agresywny. Na moje pytanie, dlaczego nic nie robi, dlaczego nawet sam się nie goli, odpowiedział zdziwiony: "Przecież miałem wypadek i jestem niepełnosprawny". On nie widzi przed sobą żadnego szczytu, nawet nie chce go już widzieć... I Wy właśnie dla tego chłopaka idziecie na Kilimandżaro. Ale czy tylko dla takich jak on, którym ogromny głaz choroby, kalectwa zagrodził drogę do celu?</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

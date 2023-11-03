@@ -1,0 +1,18 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">22. Pobożne odmówienie jednej z litanii, jeśli tekst jest zatwierdzony przez kompetentną władzę Kościoła. W dokumencie Stolicy Apostolskiej wymienione są następujące litanie: do Najświętszego Imienia Jezus, do Najświętszego Serca Pana Jezusa, do Najdroższej Krwi Chrystusa Pana, do Najświętszej Maryi Panny (loretańska), do świętego Józefa i do Wszystkich Świętych.</p>
+        <p xml:id="p-2">23. Pobożne odmówienie małego officjum: o Męce Pańskiej, o Najświętszym Sercu Pana Jezusa, o Matce Bożej, O Niepokalanym Poczęciu Najświętszej Maryi Panny i o św. Józefie.</p>
+        <p xml:id="p-3">24. Pobożne odmówienie, z racji nadprzyrodzonych, krótkiej modlitwy zaczerpniętej z Liturgii godzin - za tych, którzy nam dobrze czynią: Racz, Panie, wynagrodzić życiem wiecznym wszystkim, którzy nam dobrze czynią ze względu na Twoje imię.</p>
+        <p xml:id="p-4">25. Odmówienie modlitwy za pasterzy.</p>
+        <p xml:id="p-5">Może to być następująca modlitwa za papieża:</p>
+        <p xml:id="p-6">K. Módlmy się za naszego papieża N.</p>
+        <p xml:id="p-7">W. Niech go Pan strzeże, zachowa przy życiu, darzy szczęściem na ziemi i broni przed nieprzyjaciółmi.</p>
+        <p xml:id="p-8">Może to być modlitwa za biskupa eparchialnego lub diecezjalnego na początku jego wizytacji bądź w rocznicę objęcia przez niego posługi, zaczerpnięta z Mszału rzymskiego: Boże, wiekuisty Pasterzu wiernych, Ty troskliwie kierujesz Kościołem i rządzisz nim z miłością, spraw, niech Twój sługa N., którego postawiłeś na czele swojego ludu, prowadzi go w imieniu Chrystusa, niech go uświęca sprawując sakramenty i rządzi nim zgodnie z Twoją wolą. Przez Chrystusa, Pana naszego. Amen.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

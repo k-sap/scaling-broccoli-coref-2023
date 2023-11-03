@@ -1,0 +1,15 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Pojawia się pytanie, co kształtuje ten wymiar osobowości. Zapewne jest on wyrazem oddziaływania wychowawczego w dzieciństwie i w wieku późniejszym. Nie zawsze jednak. Można przypuszczać, że młody człowiek, który myśli już samodzielnie, przyswaja sobie pewne sposoby myślenia o swoim otoczeniu i z naturalną życzliwością odnosi się, coraz częściej i wyraźniej, do potrzeb innych. Znam taką osobę. Budzi serdeczne uczucie, jest lubiana i kochana. Ludzie uśmiechają się na jej widok, nie czują się już tacy samotni ani tacy słabi.</p>
+        <p xml:id="p-2">Życzliwość jest szczególnie pożądanym przejawem dojrzałej osobowości.</p>
+        <p xml:id="p-3">6. "Nie wypada zestarzeć się, zanim nie nabierze się rozumu". Szekspir, "Król Lir". W tym jednym zdaniu jest tak dużo treści, mądrości życiowej i trochę humoru - że nie próbuję go rozwijać. Te słowa Szekspira trzeba po prostu dobrze zapamiętać. Tylko czy to pomoże?</p>
+        <p xml:id="p-4">7. Umiejętność przeżywania radości. Są to słowa zrozumiałe i nie budzą żadnych wątpliwości, chyba nawet banalne w swojej prostocie. Można je jednak ująć w sposób jakby naukowy: "Przeżywanie emocji o znaku dodatnim, nawet jeżeli ten sam podmiot doznaje również emocji o walencji ujemnej, może świadczyć o korzystnych determinantach osobowościowych odporności psychicznej".</p>
+        <p xml:id="p-5">Przeprowadzono liczne badania nad wpływem sytuacji stresowych na powstawanie zaburzeń psychosomatycznych. Między innymi stwierdzono, że chorzy przejawiali na ogół ograniczoną zdolność do przeżywania emocji dodatnich. Natomiast ludzie zdrowi, stanowiący grupę kontrolną, przeżywali emocje negatywne, ale potrafili także przeżywać radość, zadowolenie, poczucie spokoju i bezpieczeństwa.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

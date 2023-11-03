@@ -1,0 +1,18 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">- Ciii, to ja, Krzysiek. Nie mów nic, bo obudzisz Elkę, wpuść mnie do śpiwora, bo zamarznę. - Instruktor był tylko w mokrych kąpielówkach, chyba właśnie wyszedł z jeziora. Kompletnie zaskoczona Joanna rozpięła śpiwór i pozwoliła mu przytulić się do siebie. Czuła jego przepojony piwem oddech na twarzy, była przerażona, a jednocześnie podekscytowana i wzruszona, wspaniale było czuć go tak blisko, trząsł się z zimna i tulił do niej jak dziecko.</p>
+        <p xml:id="p-2">- Musiałem przyjść do ciebie, dłużej nie wytrzymam, strasznie mnie podniecasz, maleńka - szeptał jej w ucho, a jego ręce coraz śmielej błądziły po jej ciele.</p>
+        <p xml:id="p-3">- Nie - powiedziała Joanna i schwyciła jego rękę, nim wsadził ją do spodni jej piżamy. Nie potraktował poważnie jej oporu.</p>
+        <p xml:id="p-4">- Nie bój się, zrobię to delikatnie, nic nie będzie bolało.</p>
+        <p xml:id="p-5">- Nie chcę, proszę, nie chcę - prosiła gorączkowym szeptem.</p>
+        <p xml:id="p-6">- Chcesz, na pewno chcesz - uwolnił rękę i teraz delikatnie gładził jej włosy. - Ludzie zawsze to robią, gdy się kochają. Przecież widziałem w twoich oczach, że mnie kochasz, może nie?</p>
+        <p xml:id="p-7">- Ale nie chcę tego robić, proszę, nie zmuszaj mnie do tego.</p>
+        <p xml:id="p-8">- Nie bój się, nie zrobię ci nic złego, jestem tu, bo mi na tobie zależy, chcę, żebyś była szczęśliwa.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

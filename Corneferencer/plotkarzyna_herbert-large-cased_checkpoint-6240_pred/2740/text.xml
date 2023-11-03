@@ -1,0 +1,18 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Papież próbował przeczytać słowa Błogosławieństwa Apostolskiego, ale bez skutku. Unosząc prawą dłoń, w milczeniu udzielił błogosławieństwa Miastu i Światu.</p>
+        <p xml:id="p-2">30 marca podano komunikat, że zdecydowano się na odżywianie enteralne, poprzez permanentne umieszczenie zgłębnika nosowo-żołądkowego.</p>
+        <p xml:id="p-3">Tego samego dnia, czyli w środę, Ojciec Święty ukazał się w oknie swojego apartamentu i bez wypowiedzenia jednego słowa błogosławił tłum, który w bólu i zadumie oczekiwał go na Placu Świętego Piotra.</p>
+        <p xml:id="p-4">Była to ostatnia publiczna "stacja" jego bolesnej Drogi Krzyżowej.</p>
+        <p xml:id="p-5">W czwartek 31 marca niewiele po godzinie 11.00 Ojciec Święty udał się do kaplicy, aby celebrować Mszę Świętą. Poczuł wówczas napad dreszczy, któremu towarzyszył silny wzrost temperatury, aż do 39,6°C. Niedługo potem pojawił się bardzo poważny wstrząs septyczny, któremu towarzyszyła zapaść sercowo-naczyniowa, spowodowana - jak stwierdzono - infekcją dróg moczowych. Natychmiast została udzielona odpowiednia pomoc medyczna o charakterze kardiologicznym i oddechowym.</p>
+        <p xml:id="p-6">Zastosowano się do wyraźnej woli Ojca Świętego, który pragnął pozostać w swoim mieszkaniu, gdzie zresztą miał zapewnioną całkowitą opiekę medyczną.</p>
+        <p xml:id="p-7">Późnym popołudniem została odprawiona Msza Święta przy łóżku chorego. Papież koncelebrował z przymkniętymi oczami, ale na moment konsekracji dwukrotnie uniósł prawe ramię, tzn. nad chlebem i winem. Podobnie zaznaczył gest uderzenia się w piersi, jaki przypadał podczas odmawiania "Baranku Boży".</p>
+        <p xml:id="p-8">Łaciński Kardynał Lwowa [Marian Jaworski - przyp. red.] udzielił Ojcu Świętemu sakramentu namaszczenia chorych. O godzinie 19.17 Papież przyjął Komunię Świętą.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

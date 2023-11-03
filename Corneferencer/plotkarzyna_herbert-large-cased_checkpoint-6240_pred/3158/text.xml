@@ -1,0 +1,34 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">sp0: bo już jednego i tak nie mam jeżdżę bez bez jednego nie ?</p>
+        <p xml:id="p-2">sp1: no tak a przynajmniej jest szansa że mi ich w ten sposób ich nie ukradną bo albo wszystkie</p>
+        <p xml:id="p-3">sp0: yhm..</p>
+        <p xml:id="p-4">sp1: jak są cztery no nie ? a tak mam trzy tylko..</p>
+        <p xml:id="p-5">sp0: ale wiesz może komuś akurat brakować jednego..</p>
+        <p xml:id="p-6">sp1: bo ale na przykład mnie akurat brakuje i się tak rozglądam czy ktoś nie ma ? nie ?</p>
+        <p xml:id="p-7">sp0: żeby wyciągnąć nie ?</p>
+        <p xml:id="p-8">sp1: ewentualnie żeby wyciągnąć no..</p>
+        <p xml:id="p-9">sp0: no jasne..</p>
+        <p xml:id="p-10">sp1: no poza tym mój maluch jest tak paliwożerny..</p>
+        <p xml:id="p-11">sp0: a to jakaś nowina mój maluch to zawsze mało palił..</p>
+        <p xml:id="p-12">sp1: na ale jak. się dużo jeździ maluchem to on jest wiesz..</p>
+        <p xml:id="p-13">sp0: wiesz po mieście to wiem po mieście to tak..</p>
+        <p xml:id="p-14">sp1: no i. i jeszcze jest trochę zżarty przez termotiple..</p>
+        <p xml:id="p-15">sp0: a jak z tymi uszczelkami co tam ?</p>
+        <p xml:id="p-16">sp1: uszczelki ? a co ten ten sprej..</p>
+        <p xml:id="p-17">sp0: ten sprej..</p>
+        <p xml:id="p-18">sp1: no to popsikałam tym ale. tatka teraz to wziął i i popsikał swój samochód..</p>
+        <p xml:id="p-19">sp0: i co pomogło ?</p>
+        <p xml:id="p-20">sp1: no chyba tak..</p>
+        <p xml:id="p-21">sp0: przerdzewiało..</p>
+        <p xml:id="p-22">sp1: przy nie nie zgłaszał żadnych usterek i tam mu nie zeżarło już te..</p>
+        <p xml:id="p-23">sp0: u mnie to jak. u mnie to jak był wielki ten mróz nie ?</p>
+        <p xml:id="p-24">sp0: i chciałam otworzyć szybę na siłę i bym. wiesz tą gałeczkę urwała nie ? bo się szyba się prze. y tutaj do tej uszczelki..</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

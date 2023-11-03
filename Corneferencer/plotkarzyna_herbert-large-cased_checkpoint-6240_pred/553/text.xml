@@ -1,0 +1,13 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">"Z racji mego stanowiska jestem najlepiej poinformowanym człowiekiem we Francji, a w tej chwili nie mam pojęcia, gdzie są Niemcy. Jak nas dopadną za godzinę, nawet się nie zdziwię"</p>
+        <p xml:id="p-2">Oczywiście, Bureau du Chiffre nie pozostawało bezczynne. Zadanie złamania niemieckiego szyfru powierzono najlepszemu z francuskich kryptoanalityków - Georges'owi Painvinowi. Jednak nawet on nie był w stanie przeniknąć spowijającej ów szyfr tajemnicy. Zdołał jedynie ustalić, iż system oparty jest na szachownicy szyfrującej i że klucze zmienia się codziennie. Te informacje mogłyby się na coś przydać, gdyby przechwycono większą ilość zaszyfrowanych depesz. Ta jednak była zbyt skromna i szyfr nadal pozostawał zagadką.</p>
+        <p xml:id="p-3">Sytuacja zmieniła się dopiero na początku kwietnia, kiedy Niemcy zwiększyli ilość przekazów radiowych. W ręce Painvina wpadła większa ilość materiału do badań, co dało nadzieję na uczynienie pierwszych postępów w łamaniu szyfru. Po wstępnej analizie francuski kryptoanalityk zauważył, iż niektóre wiadomości pochodzące z tego samego dnia mają identyczne początki. Założył więc, że są to te same nagłówki meldunków zaszyfrowane kluczem dziennym. Pozwoliło mu to wydobyć pierwsze informacje na temat konstruowania tego klucza. Następnie posegregował wiadomości na segmenty o takich samych początkach i przesuwając je względem siebie próbował znaleźć kolejne prawidłowości. Ogromnie pomocne okazało się przechwycenie 18 wiadomości tego samego dnia. Wszystkie były zaszyfrowane tym samym kluczem, dzięki czemu Painvin był w stanie porównać je ze sobą i wyodrębnić stosowane do szyfrowania pary liter (AA, AD, AF itd.). Następnie policzył częstotliwość występowania poszczególnych par. Najczęściej pojawiała się kombinacja DG. Nasunęło mu to podejrzenie, iż odpowiadała ona literze e, najczęściej pojawiającej się w języku niemieckim. Udało mu się również ustalić wygląd stosowanej tablicy (rysunek 1.1).</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

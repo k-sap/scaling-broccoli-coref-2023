@@ -1,0 +1,15 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Głogowianie jednak będą mieli wielkie sklepy. Staną one pod miastem w gminie wiejskiej Głogów. Tesco czynne jest od dwóch tygodni. Przy sprzyjających okolicznościach za rok przy budowanej właśnie obwodnicy południowej w kierunku os. Piastów Śląskich stanie drugi hipermarket.</p>
+        <p xml:id="p-2">– Szukamy możliwości pozyskania dochodów – tłumaczy motywy postępowania władz gminy wójt Andrzej Krzemień. – Właśnie toczy się kolejna procedura związana z powstaniem nowego sklepu w obrębie wsi Ruszowice, tuż przy wjeździe do Głogowa od strony Polkowic. Obecnie rada gminy podjęła uchwałę związaną z przystąpieniem do opracowania planu zagospodarowania przestrzennego dla tego obszaru. Przeznaczymy go pod działalność gospodarczą. Myślę, że za rok będzie tam następny sklep, a gmina będzie miała nowe źródła dochodu. Otwarci jesteśmy także na następne inwestycje, na każda formę działalności, która będzie przynosiła dochody.</p>
+        <p xml:id="p-3">Wójt obliczył, że od 1995 r. dochody własne gminy wzrosły z nieco ponad 1 mln zł do ponad 5 mln zł w 2004 r. Skąd to się wzięło?</p>
+        <p xml:id="p-4">– Rozwój budownictwa jednorodzinnego – mówi wójt Krzemień. – Przez ten czas do gminy sprowadziło się około 1000 osób. Więcej wpływa w związku z tym podatków od nieruchomości i dochodowych od osób fizycznych. Tesco przyniesie nam rocznie ponad 200 tys. zł dodatkowych wpływów, mam nadzieję, że podobnie w przyszłości kolejny sklep.</p>
+        <p xml:id="p-5">Wójt mówi jednak, że w latach 2003 – 2004 gmina straciła ponad 1 mln zł na decyzjach Agencji Mienia Wojskowego, która znaczną część swoich gruntów leżących w obrębie gminy przekształciła na rolne. Teraz do gminnej kasy wpływa mniejszy podatek i na razie gmina więcej straciła niż prawdopodobnie uzyska z nowych sklepów.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

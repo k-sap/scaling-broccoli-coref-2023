@@ -1,0 +1,13 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">sp0: no. to jest prawda ogólna</p>
+        <p xml:id="p-2">sp1: dlaczego odnieśliśmy sukces jako kraj. podczas rewolucji pomarańczowej. w Kijowie. nie dlatego że działaliśmy w pojedynkę tylko właśnie dlatego że prezydent Kwaśniewski zmobilizował. byliśmy dopiero od sześciu miesięcy unii europejskiej. zmobilizował liderów Europy. do wsparcia procesu negocjacji zgoda ? sa w sa samotnie byśmy tego sukcesu nie odnieśli. a więc jeśli umiemy. potęgę całej unii europejskiej. przekonać do tego aby realizowała to co jest także w naszym interesie. to to jest plus dodatni. jak mawia klasyk języka polskiego</p>
+        <p xml:id="p-3">sp0: ja bym słownikowych definicji bo zawsze potem tworzą się rozmaite nieporozumienia kiedy używamy tego typu. klasyków. ale właśnie wracając do naszego. do. tego głównego wątku Polski jagiellońskiej. jeszcze raz mówię o czymś takim czy nie. można było odnieść wrażenie i to jest. wrażenie które wynika zarówno z pana artykułu. jak i z obchodów. otóż w pana artykule wymienia się de facto tylko Niemcy i Rosję. ze tak powiem z imienia jako państwa. można odnieść wrażenie również. na uroczystościach na Westerplatte. eksponowane były te dwa państwa głównie te dwa państwa można było odnieść wrażenie że jak gdyby Polska. zrezygnowała z tej. z próby porozumiewania się. w tym szerokim. szerokim spektrum tych państw które są już od od od od od setek lat zagrożone. przez Rosję no takich przede wszystkim jak Ukraina jak państwa bałtyckie ale również Białoruś. y i inne państwa regionu Węgry. czy pan mówi że one się nie chcą</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

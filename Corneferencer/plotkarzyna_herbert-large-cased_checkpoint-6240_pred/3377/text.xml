@@ -1,0 +1,13 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Marek Surmacz w rozmowie z "Polityką" także zaprzeczył pogłoskom o konflikcie. - To opozycja jest zainteresowana podsycaniem niepokoju - oświadczył. - Generał Bieńkowski samodzielnie kieruje policją, a ja z ramienia resortu sprawuję nad nim cywilną kontrolę. Chyba nie ma w tym nic podejrzanego?!</p>
+        <p xml:id="p-2">Surmacz sam przez lata był policjantem, a wcześniej milicjantem drogówki. W latach 80. zasłynął na całą Polskę, kiedy stanął do walki z całą ówczesną milicyjną machiną. Domagał się ukarania płk. Olgierda Sz., naczelnika wydziału kryminalnego Wojewódzkiego Urzędu Spraw Wewnętrznych w Gorzowie, który po pijanemu spowodował wypadek i chciał wyłudzić odszkodowanie. Surmacza, wtedy w stopniu sierżanta, szykanowano, degradowano, kierowano na przymusowe badania psychiatryczne, a wreszcie skierowano do nocnej opieki nad milicyjnymi psami, ale dopiął swego. Pułkownika Sz. prawomocnie skazano. Surmacza z milicji nie wyrzucono, za to już z policji został zwolniony dyscyplinarnie w 1995 r., bo zaangażował się politycznie w kampanię wyborczą Hanny Gronkiewicz-Waltz.</p>
+        <p xml:id="p-3">Do 2005 r. był w Gorzowie radnym i dyrektorem biura poselskiego Kazimierza Marcinkiewicza. W ostatnich wyborach parlamentarnych wystartował z listy PiS i został posłem. Mimo oficjalnych zaprzeczeń tli się jednak konflikt między ministerstwem a Komendą Główną. - Panuje strach. Trzeba bardzo uważać, co się mówi i przy kim, bo za wszystko można polecieć - mówi jeden z oficerów z KGP. - Tworzy się sztuczne podziały, już nie na esbeków i nieesbeków, ale ludzi od Marka Biernackiego i tych od Dorna. Być od Biernackiego to nawet gorzej niż od Janika. Za człowieka ministra Biernackiego (dzisiaj PO) Ludwik Dorn uważał między innymi gen. Adama Rapackiego. Swoją dymisję zapowiedział już dyrektor biura komunikacji społecznej Paweł Biedziak. Oficjalnym powodem jego odejścia jest nabyte prawo do emerytury, ale nie jest tajemnicą, że to swoisty protest przeciwko rosnącym wpływom urzędników resortu spraw wewnętrznych.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

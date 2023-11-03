@@ -1,0 +1,14 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Polacy są faworytami, ale nie można wykluczyć remisu 1:1 i pomeczowej serii karnych. Polacy nie wykorzystali jedenastek w dwóch kolejnych spotkaniach. - Na treningach Burkhardt i Kowalczyk strzelają karne bez pudła - powtórzył wczoraj Edward Klejndinst, selekcjoner kadry. - Po kolejnych treningach ustalę, kto będzie strzelał ewentualną jedenastkę w meczu z Białorusią.</p>
+        <p xml:id="p-2">O pomeczowej serii karnych szkoleniowiec wczoraj nie chciał myśleć.</p>
+        <p xml:id="p-3">Jak informowaliśmy wczoraj, Patryk Rachwał nie zagra w środę z powodu żółtych kartek. Zastąpi go Łukasz Garguła z GKS Bełchatów. Trener Klejndinst powołał także Wahana Geworgiana z Wisły Płock. Przypominamy kadrę:</p>
+        <p xml:id="p-4">Bramkarze: Tomasz Kuszczak (Hertha Berlin), Paweł Kapsa (Wisła Płock); obrońcy: Jacek Kowalczyk (Katowice), Michał Stasiak (Widzew), Krzysztof Kazimierczak (Zagłębie Lubin), Błażej Radler (Górnik Zabrze), Łukasz Nawotczyński (Wisła Kraków); pomocnicy: Marcin Burkhardt (Amica Wronki), Łukasz Madej (Lech Poznań), Michał Goliński (Widzew), Euzebiusz Smolarek (Feyenoord Rotterdam), Marcin Nowacki (Odra Wodzisław), Aleksander Kwiek (Odra Wodzisław), Maciej Iwański (Szczakowianka Jaworzno), Sebastian Mila (Dyskobolia Grodzisk), Paweł Strąk (Wisła Kraków), Wahan Geworgian (Wisła Płock), Łukasz Garguła (GKS Bełchatów); napastnicy: Sebastian Olszar (Admira Wacker), Ireneusz Jeleń (Wisła Płock), Paweł Abbott (Preston), Bartosz Ślusarski (Lech Poznań).</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

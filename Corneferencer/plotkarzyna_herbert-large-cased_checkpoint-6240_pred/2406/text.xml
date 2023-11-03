@@ -1,0 +1,12 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">- Mamy pełną świadomość, że czekają nas bolesne zmiany - przyznaje dr Monika Łukaszewicz, wiceszefowa Ogólnopolskiego Związku Zawodowego Lekarzy w ACK. Związkowcy uważają jednak, że szpital od władz Akademii Medycznej powinno przejąć Ministerstwo Zdrowia. W przeciwnym razie między uczelnią a szpitalem zawsze będzie konflikt interesów. Przeciw redukcji zatrudnienia szpitalnej administracji związek nic nie ma. Protestować nie zamierza, pod warunkiem, że redukcja nie dotknie białego personelu.</p>
+        <p xml:id="p-2">Gdańsk Podobnie jak sejmowa debata na temat zdrowia, tak i podejmowane przez władze gdańskiej Akademii Medycznej heroiczne próby uratowania Akademickiego Centrum Klinicznego przed likwidacją - nie zainteresowały zbytnio naszych parlamentarzystów. Zaproszenie obu rektorów - aktualnie panującego prof. Romana Kaliszana oraz rektora elekta prof. Janusza Morysia, (władzę w uczelni przejmie 1 września br.) - ma 33 posłów i senatorów z Pomorza, przyjęło zaledwie 10. Obok senatorów - Kazimierza Kleina (PO), Janusza Rachonia (PO), Edmunda Wittbrodta z PO (sam nie mógł przyjść, ale przysłał swego przedstawiciela), w pięknej sali Atheneum Gedanense Novum (dawna Stara Anatomia) zasiedli posłowie - Maciej Płażyński (niezależny), Krzysztof Lisek z PO (lekarz, absolwent AMG), Witold Namyślak (PO), Izabela Jaruga-Nowacka (SLD), Anna Zielińska-Głębocka (PO). Nieco spóźniony zjawił się poseł Tadeusz Cymański z PiS, o ponad godzinę - jego partyjny kolega - Jacek Kurski. Ten ostatni zresztą próbował debatę na temat ACK sprowadzić do poziomu rozgrywki politycznej. A tego właśnie - politycznej licytacji - bardzo chciały uniknąć władze Akademii Medycznej.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

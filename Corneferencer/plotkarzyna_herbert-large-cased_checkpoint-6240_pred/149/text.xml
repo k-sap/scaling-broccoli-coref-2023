@@ -1,0 +1,18 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">O Rafale Blechaczu: Nominacja za ogromny talent, artystyczną determinację, rozsądne sterowanie karierą, a przy tym skromność i pogodę ducha. Za przywrócenie wiary w Chopina, a przede wszystkim w to, że Polak może jednak - po Krystianie Zimermanie - wygrać (i to w jakim stylu!) Konkurs Chopinowski. W co chyba dawno zwątpiliśmy. Jacek Hawryluk</p>
+        <p xml:id="p-2">Kandydatura nie wymagająca rekomendacji. Pianista ogromnie utalentowany, skromny i chyba wiedzący, jak dalej pokierować swoim losem. Jacek Marczyński</p>
+        <p xml:id="p-3">Pianista, na którego czekaliśmy od lat. Jan Popis</p>
+        <p xml:id="p-4">O Klaudii Pasternak: Ta młoda artystka świadoma jest swojego wszechstronnego talentu, nie zaniedbuje jednak przy tym studiów w warszawskiej Akademii Muzycznej. A jej sukcesy na międzynarodowych konkursach są - jak na tak młody wiek - imponujące. Ewa Solińska</p>
+        <p xml:id="p-5">Bardzo wyrazista osobowość, o dużej i niekonwencjonalnej wyobraźni twórczej, odważnie poszukująca swojego miejsca - ze sporymi już osiągnięciami na tym polu. Adam Rozlach</p>
+        <p xml:id="p-6">O Marcinie Nałęczu-Niesiołowskim: Dyrygent i jeden z najmłodszych dyrektorów instytucji kulturalnych w Polsce. Z Filharmonii Białostockiej uczynił bardzo dobrą orkiestrę, a teraz wciela w życie budowę w Białymstoku Europejskiego Centrum Muzyki i Sztuki. Jacek Marczyński</p>
+        <p xml:id="p-7">Oni nominowali:</p>
+        <p xml:id="p-8">Tomasz Cyz ("Tygodnik Powszechny", Opera Narodowa), Jacek Hawryluk (Polskie Radio, "Gazeta Wyborcza"), Józef Kański ("Ruch Muzyczny"), Mieczysław Kominek (POLMIC), Jacek Marczyński ("Rzeczpospolita"), Jan Popis (Polskie Radio), Adam Rozlach (Polskie Radio), Ewa Solińska (publicystka niezależna), Andrzej Sułek (Polskie Radio), Elżbieta Szczepańska-Lange ("Ruch Muzyczny").</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

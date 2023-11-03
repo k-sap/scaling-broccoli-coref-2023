@@ -1,0 +1,14 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">W domu natomiast przy każdej okazji dziewczyna ćwiczyła się w biegłym posługiwaniu się igłą. Każda mała dziewczynka znała podstawowe ściegi i hafty. Pracowicie ozdabiały one prezenty dla członków rodziny: różne chusteczki, serwetki, wycieraczki do piór lub do okularów, pokrowce na bilety wizytowe, poduszeczki do igieł i tysiące innych przedmiotów, których przeznaczenia trudno dziś dociec. W powieści Nad Niemnem córka Korczyńskiego przez pół książki haftuje pantofle nocne dla Marty, czym zresztą sprawia jej niekłamaną radość. W literaturze poradnikowej poświęcano tym zajęciom sporo miejsca.</p>
+        <p xml:id="p-2">"Same ile mogły sobie i braciom szyły, robiły pończoszki. Nigdy matce, krewnym, ubogim, do kościoła innego daru ofiarować nie śmiały, prócz własnych rąk ich dzieła. Często w przeciągu tych kilku godzin, czytała jedna drugiej głośno Pielgrzyma z Dobromila, Przyjaciela Dzieci lub inną xiążkę".</p>
+        <p xml:id="p-3">K. Hoffmanowa, Amelia matką</p>
+        <p xml:id="p-4">Uważano, że tego typu zajęcie ćwiczy pracowitość i cierpliwość. Nadto robótka w ręku panny świadczyła o jej skromnym ułożeniu. Po prostu byłoby nieprzyzwoite, aby dobrze wychowana panna siedziała w salonie z pustymi rękami i jeszcze, nie daj Boże, głośno wypowiadała swoje zdanie. Robótka, dając oparcie dla skromnie spuszczonych oczu, umożliwiała pannie w miarę swobodną rozmowę z mężczyzną. A gdy już panna była zaręczoną, wtedy zdobyte przez lata umiejętności przydawały się przy przygotowywaniu wyprawy ślubnej, nad którą pracowały wszystkie kobiety w domu. Zwłaszcza nieocenione okazywały się wtedy mieszkające w bocznych pokojach rezydentki.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

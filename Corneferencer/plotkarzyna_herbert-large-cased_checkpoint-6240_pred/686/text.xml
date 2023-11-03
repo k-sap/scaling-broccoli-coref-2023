@@ -1,0 +1,16 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">14:03</p>
+        <p xml:id="p-2">Tak obfitującego w wypadki drogowe weekendu dawno nie mieli radomscy policjanci. Niestety - dwa okazały się śmiertelne w skutkach.</p>
+        <p xml:id="p-3">Do pierwszej tragedii doszło w sobotę o godzinie 5.50 w Karszówce na trasie z Radomia do Zwolenia. Mercedesem jechała niemiecka rodzina. Kierujący samochodem 43-letni mężczyzna z nieznanych dotąd przyczyn zjechał do przydrożnego rowu, z którego ponownie wjechał na jezdnię. Tam auto dachowało. W wyniku zdarzenia zginęła na miejscu 46-letnia pasażerka. Kierowca auta oraz dwaj pozostali pasażerowie w wieku 5 i 18 lat zostali przewiezieni do szpitala.</p>
+        <p xml:id="p-4">Kolejną tragedię policjanci odnotowali w niedzielę, na trasie numer 7 o godzinie 4.20 we Wsoli. Kierujący fiatem pandą potrącił w okolicach przejścia dla pieszych 45-latka. Mężczyzna zginął od razu, od jego ciała oderwana została noga. Fiat po zmasakrowaniu człowieka przejechał na przeciwny pas ruchu i uderzył w dostawczego mercedesa, który wjechał do rowu, otarł się także jeszcze o volkswagena golfa. Kierowcy oraz pasażerowie tych samochodów nie ucierpieli. O ogromnym szczęści mógł także mówić 20-latek, który kierując daewoo tico wjechał w okolicach Wielogóry do przydrożnego rowu i uderzył w słup oświetleniowy. Doznał jedynie złamania nogi. Z samochodu pozostał niezniszczony praktycznie tylko znaczek na tylnej klapie z nazwą marki auta.</p>
+        <p xml:id="p-5">Wiesz o czymś ważnym, interesującym? Daj nam o tym znać! Czekamy na Twoja informację.</p>
+        <p xml:id="p-6">tel.: 041 36 36 263, 041 36 36 257</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

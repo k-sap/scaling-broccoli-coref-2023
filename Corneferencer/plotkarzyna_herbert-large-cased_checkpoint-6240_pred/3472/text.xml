@@ -1,0 +1,16 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Snobowano się też na żuli z Pragi. Bywali w świetlicy, ale żul Janowy musiał być tęgim żulem, jak z apaszowskiego tanga.</p>
+        <p xml:id="p-2">Słynny Otello z Pragi, znany z potwornej zazdrości o swą damę pracującą w winiarni na szlaku Starówka-Spatif, dzwoni raz do Marka Piwowskiego: przyjedź, Piwek, napijemy się. Nie mogę, muszę odprowadzić do domu dziewczynę. Nie wiedziałem, Otello na to, że spotykasz się z niewidomą.</p>
+        <p xml:id="p-3">I tak z owego przemieszania klasowego, z żartów grubych i cienkich powstawał na szlaku specyficzny, jedyny w swoim rodzaju dowcip. Abstrakcyjny, błyskotliwy, z zaskakującymi pointami. Z tego humoru, który był stylem życia na szlaku, urodził się film "Rejs" - jego kwintesencja i ukoronowanie.</p>
+        <p xml:id="p-4">Dowcip STS był innej natury. Studenccy satyrycy wierzyli w socjalizm z ludzką twarzą. Ci ze szlaku pokazywali socjalizmowi język, wypinali się, przedrzeźniali. Obrócili sobie socjalizm w zabawę. W socbarakowozie starali się, nie narażając się władzy, wycisnąć z młodych lat dla siebie, co się tylko da.</p>
+        <p xml:id="p-5">Ksywy w górę</p>
+        <p xml:id="p-6">Mgr Jan S. Sosnowski zatrudnił się, aż do emerytury, w Centralnym Zarządzie Szkół Artystycznych w Ministerstwie Kultury. Musiał. Nie było wtedy takiego obyczaju, żeby nie pracować. Udawał się co rano do ministerstwa, w którym wspólnie z naczelnikiem (powstał kult naczelnika, mówi Jasser) otwierali szafę z dokumentami oraz butelkami trunków, które nie stały tam dla ozdoby. Jan i naczelnik wystawiali wnioski o przyznawanie tytułów profesorskich artystom, a artyści wyrażali potem poprzez darowane butelki swą radość z tytułu.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

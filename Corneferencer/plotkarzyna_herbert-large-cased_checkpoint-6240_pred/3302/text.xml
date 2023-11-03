@@ -1,0 +1,12 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Zanim jednak nasz język ulegnie obcym wpływom, Rada Języka Polskiego będzie go ratować, m.in. chroniąc przed wulgaryzmami (obscenami). Dyskusję na ten temat wywołał list nauczycieli z Katowic. Wychowawcy młodego pokolenia pisali m.in.: [...] pragniemy stanowczo zaprotestować przeciwko gwałtownie narastającej, niczym nie uzasadnionej, wulgaryzacji polskiego słownika ortograficznego. Porównaliśmy trzy wyrazy: "dupa", "kurwa" i "pieprzyć" w poprzednich słownikach ortograficznych PWN (1976 i 1983 r.) z tymi samymi wyrazami w najnowszym słowniku (1996 r.). Porównanie tylko tych wyrazów stanowi proporcję 4:53! [...]. [...] wyraz "pierdolić" ma w całym słowniku chyba najbogatszą rodzinę! Najpierw na s. 542 znajdujemy sześć wyrazów: pierdolec, pierdolenie, pierdolić, pierdolnąć, pierdoła, pierdołki, a na pozostałych stronach - aż 31! [...]. Układający hasła słownikowe zadali sobie wiele trudu - dopasowując aż 12(!) przedrostków (do-, na-, od-, o-, pod-, po-, przy-, roz-, s-, w-, wy-, za-), czyli wszystkie możliwe - aby ten "wspaniały" wyraz prezentował się w słowniku jak najokazalej. [...]</p>
+        <p xml:id="p-2">W "Gazecie Wyborczej", w której list ten się ukazał, redaktor naukowy słownika, prof. Edward Polański, napisał m.in.: [...] Oburzenie autorów listu na wulgaryzację języka i kultury współczesnej jest słuszne. Natomiast nie jest uzasadnione oburzenie na wulgaryzację "polskiego słownika ortograficznego". [...] Wysunięte pretensje pod adresem autorów słownika nie zmienią językowej rzeczywistości. Tylko naiwni wierzą w to, że rzecz, która nie jest nazwana, nie istnieje [...].</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

@@ -1,0 +1,13 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Nie wierzę piosence</p>
+        <p xml:id="p-2">- Irytuje mnie to, że zawsze kojarzono mnie tylko z muzyką rozrywkową. Wprawdzie napisałem około tysiąca piosenek, z których wiele było popularnych w Polsce, a niektóre za granicą, jednakże zawsze czułem się związany z muzyką klasyczną - mówił Szpilman.</p>
+        <p xml:id="p-3">Muzykę lekką pisał lekką ręką, w przerwach między ważnymi zajęciami. Uważał ją za coś mniej istotnego. Zapewne drastyczne wspomnienia z getta wyostrzyły ten jego pogląd. Wstrząsający opis ulicznych tańców, do których zmuszali wycieńczonych Żydów hitlerowcy (a muzyków Ø Ø do grania), znajdziemy nie tylko w "Pianiście", ale i w dzienniku Emanuela Ringelbluma, inicjatora bezcennego archiwum getta. Szpilman opisał też z całą mocą kontrast pomiędzy wnętrzem kawiarni, gdzie starano się zapomnieć o wojnie, a koszmarem tego, co działo się wokół. Jednak także koncerty muzyki poważnej - w tym Żydowskiej Orkiestry Symfonicznej, której powstanie i działanie było niewiarygodnym heroizmem (jak podaje Marian Fuks, Szpilman także wystąpił z nią kiedyś jako solista) - pozwalały inteligencji żydowskiej na oderwanie się od rzeczywistości. "Niemal nie sposób wyobrazić sobie, z jakim oddaniem wtedy próbowano, z jakim zapałem muzykowano" - pisał we wspomnieniach "Moje życie" Marcel Reich-Ranicki. Najbardziej kochano Beethovenowską "Pastoralną", zastępującą utracony kontakt z przyrodą. "Zabronić słuchać Beethovena - to przecież tak, jak zabronić cieszenia się słońcem" - pisał prof. Ludwik Hirszfeld, komentując nieprzestrzegany zresztą zakaz wykonywania w getcie muzyki aryjskiej. Szpilman próbował także w kawiarniane występy wplatać muzykę ambitniejszą, nawet całkowicie zakazanego Chopina.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

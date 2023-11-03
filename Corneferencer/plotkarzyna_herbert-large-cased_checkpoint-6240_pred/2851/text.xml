@@ -1,0 +1,16 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Kiedy minął stan wojenny i obywatelom przywrócono prawo do poruszania się po całej Polsce, a nie tylko w obrębie miejsca zamieszkania, już nie tylko "baby" jeździły z towarem do klientów, ale zaczął się ruch w drugą stronę - miastowi wyruszali po mięso na wieś.</p>
+        <p xml:id="p-2">Nielegalny ubój i nielegalny handel mięsem był wówczas - tak jak zaraz po wojnie - najsurowiej zakazany. Groziły za to najrozmaitsze i drakońskie kary. Zakazy te powszechnie jednak gwałcono.</p>
+        <p xml:id="p-3">Pamiętam jedną z takich wypraw przedsięwziętą przed bożonarodzeniowymi świętami przez mego ojca i męża. Pojechali wówczas "maluchem" do wioski, w której mieliśmy daczę, z ambitnym zamiarem zakupu schabu, kiełbas oraz gęsi. Wszystkie te produkty zakupili. Problem polegał na wwiezieniu ich przez rogatki miasta, pilnie strzeżone przez funkcjonariuszy MO wyczulonych na tego rodzaju - powszechny zwłaszcza w przedświątecznym okresie - przemyt.</p>
+        <p xml:id="p-4">W Żądle Genowefy Meissner opisuje, jak któryś z kolegów przemycał przez rumuńską granicę gęś między nogami. Moi panowie skorzystali z tego wzorca. Na kilka kilometrów przed spodziewanym patrolem, o którego istnieniu solidarnie informowali migaczami inni kierowcy, ojciec wysiadł i niósł mięsną kontrabandę ośnieżonymi polami, podczas gdy mąż przeprowadzał "czyste" auto przez kontrolę. Potem zjechał na pobocze, skąd zabrał zmordowanego teścia i ocaloną zdobycz.</p>
+        <p xml:id="p-5">Moja koleżanka, pierwsza czytelniczka tej opowieści, skrzywiła się: "To brzmi zbyt pogodnie".</p>
+        <p xml:id="p-6">Nie było pogodnie. I nie było moim zamiarem łagodzenie obrazu tamtych lat i przebiegu PRL-owskiej bitwy o handel.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

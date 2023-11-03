@@ -1,0 +1,16 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Statystyki mówią o prawie 20-proc. spadku dochodu narodowego przez ostatnie dwa lata. Nikt rozsądny w te statystyki jednak nie wierzy. Szybko rosnąca szara strefa polskiej gospodarki, uciekająca podatkom, ma to do siebie, że żadne oficjalne statystyki jej nie rejestrują.</p>
+        <p xml:id="p-2">Ekonomiści oceniają, że gospodarcze podziemie to być może nawet 30 proc. całej aktywności ekonomicznej w Polsce. Optymista powie, że w takim razie dochód narodowy nie obniżył się aż tak dramatycznie: jakąś część statystycznego spadku konsumuje gospodarka nielegalna. Pesymista zobaczy, że grozi nam powstanie bardzo trudnych do opanowania mafii; zwłaszcza przy braku pieniędzy na prewencję i zwalczanie korupcji. Obaj będą mieli rację.</p>
+        <p xml:id="p-3">Te 30 proc. aktywności gospodarczej poza podatkami to dużo, ale nie jest to skala nie znana w świecie. Podobny wskaźnik pojawia się, gdy jest mowa o gospodarce Włoch - słynnych z działań wielu organizacji mafijnych. Równie wysoki, a może nawet wyższy udział gospodarki nielegalnej występuje w Ameryce Łacińskiej, gdzie też działają mafie (handel narkotykami), a przepaść między warstwami najuboższymi i wąską grupą ludzi bogatych jest niesłychanie duża.</p>
+        <p xml:id="p-4">OD BAZARU DO FORTUNY</p>
+        <p xml:id="p-5">Nasza szara strefa ma bardzo różne pochodzenie, ale zwykle sięga korzeniami do czasów schyłku komunizmu. Rozkładające się struktury państwa oraz irracjonalna struktura cen zachęcały wręcz do robienia nielegalnych pieniędzy. Butiki, oblężone przez pseudoturystów bazary w Turcji czy Wiedniu - to był początek wielu obecnych fortun.</p>
+        <p xml:id="p-6">Nagły skok w wolny rynek stworzył szansę dla przedsiębiorczych, ale i nowe sposoby robienia pieniędzy poza oficjalnym obiegiem. Taki był uboczny efekt dopuszczenia do handlowania z zagranicą prywatnych przedsiębiorców. Żywiołowy prywatny [handel zagraniczny] nauczył państwowe firmy szacunku do klienta, ale równocześnie na granicy zamiast ceł często płacił łapówki i nie deklarował prawdziwej wysokości dochodów w izbach skarbowych.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

@@ -1,0 +1,18 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Włóż pustą płytkę CD do napędu CD-RW Kliknij na pasku zadań okna Windows Media Player przycisk Kopiuj na.</p>
+        <p xml:id="p-2">Ścieżki audio mogą być kopiowane na dysk CD-R tylko raz. Upewnij się więc, czy wskazałeś do skopiowania właściwe ścieżki oraz czy ich długość jest odpowiednia (dysk CD ma określoną pojemność, zazwyczaj 650 MB (co odpowiada 74 minutom) - kopiuj mniej więcej tyle, nie za dużo i nie za mało). Ścieżki powinny zostać skopiowane w tym samym czasie, nie można ich kopiować na raty. Ścieżki oznaczone komunikatem Nie pasuje nie są kopiowane na dysk. Podczas kopiowania ścieżek na dysk CD w kolumnie Stan panelu Utwory do skopiowania wyświetlane są informacje o każdej ścieżce.</p>
+        <p xml:id="p-3">Wszystkie funkcje i polecenia dostępne z poziomu przycisków okna Windows Media Player znajdziesz także w menu.</p>
+        <p xml:id="p-4">Rozmiar paneli Utwory do skopiowania i Utwory w urządzeniu można zmieniać przesuwając dzielący je pasek. Natomiast rozmiary kolumn w obu tabelach można zmieniać przesuwając separatory. Na dyski CD można kopiować następujące typy plików: pliki pakietu Windows Media z rozszerzeniem wma, pliki mp3 i pliki wav.</p>
+        <p xml:id="p-5">W prawym panelu wybierz z listy rozwijanej Utwory w urządzeniu pozycję Stacja dysków DVD/ CD-RW.</p>
+        <p xml:id="p-6">W lewym panelu wybierz listę odtwarzania z listy rozwijanej Utwory do skopiowania.</p>
+        <p xml:id="p-7">Zapisywanie plików na dysku CD-RW</p>
+        <p xml:id="p-8">Na dyskach CD-RW możesz umieszczać dane, kopie zapasowe, programy Jeśli coś przestanie być potrzebne, można to usunąć z dysku, zwalniając miejsce na inne zasoby.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

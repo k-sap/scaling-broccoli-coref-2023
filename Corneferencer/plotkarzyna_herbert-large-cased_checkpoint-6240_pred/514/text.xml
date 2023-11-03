@@ -1,0 +1,12 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">O. Robert Jasiak - Może na początek kilka słów o sobie panie profesorze.</p>
+        <p xml:id="p-2">Profesor: Niech będzie pochwalony Jezus Chrystus i Maryja zawsze Dziewica. Szanowni słuchacze Radia Maryja. Pochodzę z północno-wschodniego Mazowsza,z parafii Rzekuń w pobliżu Ostrołęki, z diecezji łomżyńskiej, która w swoich dziełach miała wspaniałych pasterzy, od początku i do dnia dzisiejszego. Urodziłem się w Nowej Wsi Wschodniej, pochodzę z rodziny wielodzietnej i wielopokoleniowej. Dziękuję Bogu, że właśnie urodziłem się na wsi. Tam wychowałem się i związków z rodzinną wsią nie zerwałem do dnia dzisiejszego. Miejscowość, w której się urodziłem leży na południowy wschód od Ostrołęki, obecnie powiększonej o około pięć kilometrów. Tu właśnie przed Wojciechowicami przebiegała granica, która podzieliła te dwa najgroźniejsze systemy totalitarne: Niemcy hitlerowskie i komunistyczny Związek Sowiecki. Nasza wieś znalazła się najbliżej granicy tzn. najbardziej wysunięta na zachód i stąd 20 czerwca 1941 roku zostaliśmy z całą rodziną deportowani na Syberię do Ałtańskiego Kraju, gdzie przebywaliśmy przez pięć lat. Ten okres deportacji, pobytu na Syberii, był okresem, który najbardziej nas ks tałtował, nasze przywiązanie do wiary, ukształtował umiłowanie Polski, do której wszyscy z całej duszy tęskniliśmy. Oczywiście może kiedyś będzie sposobność, to wtedy opowiem więcej z przeżyć z Syberii, bo tych przeżyć poza głodem i ciężką pracą każdy miał indywidualnie dużo. Później po powrocie w 1946 roku rozpoczęła się moja praca w szkole, w wojsku, później w szkole średniej i w Katolickim Uniwersytecie Lubelskim w latach 1953-58 w którym kończyłem studia. Od 1958 roku pracuję na Katolickim Uniwersytecie Lubelskim, rozpoczynałem od asystenta, dziś jestem profesorem zwyczajnym, kierownikiem Katedry Historii Najnowszej. To tyle co o sobie mogę tak ogólnie opowiedzieć.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

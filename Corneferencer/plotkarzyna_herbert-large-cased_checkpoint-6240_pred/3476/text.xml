@@ -1,0 +1,15 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Na Jarmarku Europa zagnieździło się centrum handlu pirackimi płytami muzycznymi, oprogramowaniem, kasetami z nielegalnie przegrywanymi filmami. Co pewien czas policja, służby celne i graniczne organizowały pokazowe akcje wyłapywania piratów, ale rzekome sukcesy okazywały się klęskami, bo nielegalny handel kwitł w najlepsze. Także teraz chodząc po koronie stadionu słyszy się szepty handlarzy: filmy, muzyka, gry.</p>
+        <p xml:id="p-2">- Momencik - mówi zakonspirowany sprzedawca, który nie ma przy sobie żadnego towaru. Badawczo przygląda się klientowi, rozgląda na wszystkie strony. Potem wspina się na tablicę reklamową i z kieszeni w naciętym plakacie wyjmuje płyty z rosyjskimi napisami. - Jest jazz. Coltrane za 20 zł, resztę sprzedam po dziesięć, bo już idę - zachęca.</p>
+        <p xml:id="p-3">Podobnie jak nie wysychały stadionowe źródełka, w których można się było zaopatrzyć w ostrą broń (łącznie z wyrzutniami granatów), materiały wybuchowe, fałszywe i prawdziwe (kradzione) paszporty oraz, co już chyba jasne dla każdego, narkotyki - od tych lekkich po najcięższe. A wszystko pod czujnym okiem policji. A kiedy policja przymykała oko na przypadki z Jarmarku, w rolę stróża praworządności wcielili się - co dla wielu brzmiało jak paradoks - kupcy ze starego warszawskiego Bazaru Różyckiego. To oni - zagrożeni konkurencją - alarmowali, że na Stadionie X-lecia dzieje się samo zło. Deklarowali nawet pomoc w demaskowaniu handlujących towarem z przemytu i bez akcyzy.</p>
+        <p xml:id="p-4">Pojedziemy do Rydzyka</p>
+        <p xml:id="p-5">Sąsiadka z blaszanej budki obok miejsca pracy Lucyny Kwiatek pokazuje umowy na dostawę towaru, które podpisała, zanim wybuchła sprawa Euro 2012. Prowadzi do magazynu na pięterku budki - pełno tam fabrycznie zapakowanych ubrań, a następne jeszcze w drodze. Być może zamawiała pochopnie, ale naprawdę liczyła, że stadion pozostanie miejscem handlu, nie sportu.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

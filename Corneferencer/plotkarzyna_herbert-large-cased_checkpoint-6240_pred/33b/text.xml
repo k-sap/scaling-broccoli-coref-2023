@@ -1,0 +1,15 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Zbrodnia na stadionie</p>
+        <p xml:id="p-2">Proces w sprawie o ponurą zbrodnię sprzed 13 lat, której ofiarą był właściciel farbiarni Jan M., ciągle nie może doczekać się prawomocnego wyroku.</p>
+        <p xml:id="p-3">Po raz trzeci znajdzie się na wokandzie łódzkiego Sądu Okręgowego. Na ławie zasiądzie 74-letni Jan S. i jego syn 40-letni Dariusz S. Obaj oskarżeni są o mord na tle rabunkowym.</p>
+        <p xml:id="p-4">Tajemnicze zaginięcie Ø</p>
+        <p xml:id="p-5">Właściciel farbiarni Jan M. zaginął latem 1991 roku. - Ostatni raz widziałam męża 4 sierpnia w Księżych Młynach, gdzie byłam z Ø córkami na wakacjach - mówiła żona. - Podczas odwiedzin powiedział mi, że szykuje mu się dobry interes i jak wszystko pójdzie dobrze, kupi dla mnie volkswagena. Miał przyjechać po nas za 10 dni. Nie pojawił się. Telefon w domu milczał. Pani Elżbieta zawiadomiła policję. Szukała też męża na własną rękę. Bez efektu.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

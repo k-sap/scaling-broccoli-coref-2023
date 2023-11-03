@@ -1,0 +1,18 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Herbata czerwona jest krócej fermentowana ale za to dłużej składowana w ziemnych grotach. Do najbardziej znanych odmian Ø zaliczamy: oolong i pu-erh, które działają odchudzająco a ostatnim czasy nazywane są „pożeraczami tłuszczu”. Czerwona herbata zawiera potas, mangan, wapń, fluor. Obniża ciśnienie, poziom cholesterolu, poprawia krążenie i wzmacnia organizm.</p>
+        <p xml:id="p-2">Z czym pijemy Ø?</p>
+        <p xml:id="p-3">Herbata + mleko – tak zwana „bawarka”; po dodaniu mleka właściwości smakowe herbaty nie ulegają zniszczeniu. Staje się napojem o wysokiej wartości odżywczej, jest łatwo przyswajalna przez organizm. Mleko łagodzi działanie kofeiny. Ma dobre działanie w profilaktyce chorób nerek.</p>
+        <p xml:id="p-4">Herbata + owoce – po dodaniu do herbaty owoców lub soków zmienia się specyficzny aromat herbaty, a w niektórych przypadkach powoduje jego całkowitą utratę. Połączenie jej z owocami cytrusowymi nasila właściwości lecznicze, przywraca utracone siły i gasi pragnienie (np. herbata z cytryną). Połączenie herbaty z jabłkiem dostarcza organizmowi pektyn.</p>
+        <p xml:id="p-5">Jak parzyć?</p>
+        <p xml:id="p-6">Jeżeli chodzi o herbatę zieloną lub czarną to do parzenia bardziej wskazana jest Ø liściasta niż Ø w torebkach. Parzymy je w ilości 1 łyżeczka Ø na 1 filiżankę. Zieloną zalewamy bardzo gorącą wodą ale nie wrzątkiem.</p>
+        <p xml:id="p-7">Wrzątkiem zalewamy czarną herbatę. Po upływie 2 – 3 minut nadaje się do wypicia. Nie zaleca się parzenia esencji, ponieważ tylko świeży napar zawiera w sobie wartościowe flawonoidy. Herbaty nie należy zaparzać w naczyniach metalowych ani naczyniach, które służą do gotowania innych potraw lub napojów. Herbata jest bardzo wrażliwa na inne zapachy, a nawet ich ślady.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

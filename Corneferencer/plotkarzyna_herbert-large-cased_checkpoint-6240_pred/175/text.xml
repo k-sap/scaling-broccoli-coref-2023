@@ -1,0 +1,23 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Zaświadczenie potwierdzające uiszczenie przez podatnika podatku z tytułu wewnątrzwspólnotowego nabycia nowego środka transportu wydawane przez naczelnika urzędu skarbowego na podstawie informacji VAT-23</p>
+        <p xml:id="p-2">II. Używany środek transportu (samochód)</p>
+        <p xml:id="p-3">1) Obowiązek podatkowy</p>
+        <p xml:id="p-4">Powstaje 15 dnia miesiąca następującego po miesiącu, w którym dokonano dostawy towaru będącego przedmiotem wewnątrzwspólnotowego nabycia. W przypadku, gdy przed tym terminem podatnik podatku od wartości dodanej wystawił fakturę, obowiązek podatkowy powstaje z chwilą wystawienia faktury.</p>
+        <p xml:id="p-5">Uwaga! Opodatkowanie wewnątrzwspólnotowe środków transportu nie ma miejsca jeżeli podatnik nabywa używany samochód, który został w państwie członkowskim dostawy opodatkowany na podstawie szczególnych przepisów w zakresie marży stosowanych do towarów używanych.</p>
+        <p xml:id="p-6">Wówczas od przywozu samochodu nabytego na szczególnych warunkach nie płaci się podatku od towarów i usług (jeżeli nabywca posiada dokumenty, z których jednoznacznie wynika nabycie samochodu na tych szczególnych zasadach)</p>
+        <p xml:id="p-7">2) Miejsce świadczenia</p>
+        <p xml:id="p-8">Nabycie towarów uznaje się za dokonane na terytorium państwa członkowskiego, na którym towary znajdują się w momencie zakończenia ich wysyłki lub transportu</p>
+        <p xml:id="p-9">3) Deklaracje podatkowe podatku VAT</p>
+        <p xml:id="p-10">Deklaracje podatkowe w zakresie dokonywanych nabyć za okresy miesięczne (lub kwartalne) w terminie do 25 dnia miesiąca następującego po każdym kolejnym miesiącu (kwartale)</p>
+        <p xml:id="p-11">4) Informacja o nabywanych środkach transportu (VAT-23)</p>
+        <p xml:id="p-12">Są obowiązani przedłożyć naczelnikowi urzędu skarbowego zgodnie z ustalonym wzorem informację o nabywanych środkach transportu (VAT-23). Do informacji dołącza się kopię faktury potwierdzającej nabycie środka transportu przez podatnika.</p>
+        <p xml:id="p-13">Nabycie przez polskiego konsumenta samochodu używanego (niebędącego nowym środkiem transportu) w innym państwie członkowskim, który jest przywożony na terytorium Polski, nie podlega w Polsce opodatkowaniu podatkiem od towarów i usług.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

@@ -1,0 +1,17 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">W tym roku po raz pierwszy latem zorganizowano w puckiej Bibliotece im. Zaślubin Polski z Morzem półkolonie dla dzieci.</p>
+        <p xml:id="p-2">- Zajęcia odbywały się od poniedziałku do piątku, młodzież spędzała 4 godziny pod opieką naszych pracownic - mówi Alicja Rohde, dyrektor placówki. - Wychodziliśmy w tym czasie na spacery, braliśmy udział w spektaklu teatralnym, była dyskoteka. Wszystkie dzieci zostały ubezpieczone.</p>
+        <p xml:id="p-3">Akcję wsparł finansowo Urząd Miasta. Dzieci korzystały z wszystkiego za darmo.</p>
+        <p xml:id="p-4">- Były to jedyne półkolonie w mieście - mówi Alicja Rohde. - Jak się okazało, jest ogromna potrzeba na organizowanie podobnych przedsięwzięć, a my mamy odpowiednie możliwości, planujemy zatem półkolonie i w przyszłym roku. Nie mówię już o feriach zimowych, bowiem te organizujemy już od wielu lat.</p>
+        <p xml:id="p-5">Po rozpoczęciu roku szkolnego bardzo chętnie odwiedzanym działem biblioteki stała się ponownie czytelnia. Jest tu kilkanaście tytułów prasowych, które placówka otrzymuje w regularnej prenumeracie oraz kilka tysięcy egzemplarzy książek.</p>
+        <p xml:id="p-6">- Coraz więcej mieszkańców Pucka podejmuje naukę. W pierwszej kolejności musimy więc zadbać o dostateczny wybór podręczników i najważniejszych pozycji naukowych - mówi szefowa biblioteki. - Środki, którymi dysponujemy, nie są zbyt imponujące, ale robimy co w naszej mocy, aby nasz księgozbiór był jak najlepszy.</p>
+        <p xml:id="p-7">Czytelnię wspierają też sami mieszkańcy Pucka. Jak się dowiedzieliśmy, niektóre osoby przynoszą do czytelni przeczytane już egzemplarze kupowanych przez siebie czasopism. Ofiarowują je, aby służyły innym czytelnikom. Dzięki temu można w puckiej bibliotece przejrzeć m.in. prasę kobiecą, na zakup której ta placówka oświatowa nie może sobie pozwolić.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

@@ -1,0 +1,16 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Legenda głosiła, że pracowała w nich niegdyś Serdyfa - trzecia Księżna Wróżek, zajmująca się bardziej czarami złymi niż dobrymi. Gwiazda Serdyfy zgasła w nie wyjaśnionych okolicznościach, a jej złe czary pozostały w komnatach. Czwarta Księżna Wróżek obłożyła komnaty zaklęciami ochronnymi, mającymi zapobiec wydostaniu się z nich złych czarów.</p>
+        <p xml:id="p-2">Tak jak po Porze Zadumy następowała Pora Biała, jak po Pierwszym Deszczu na nowo rodziły się rośliny, tak w Porze Mgieł odbywało się Mianowanie, czyli wybieranie Koloraczek do grona wróżek. Szczęśliwe Wybrane - a zawsze było ich siedemdziesiąt siedem - pozostawały w Zamczysku do kolejnej Pory Mgieł.</p>
+        <p xml:id="p-3">W tym czasie Księżna Wróżek uczyła je zaklęć i czarów. Dzięki swym umiejętnościom będą potrafiły zaczarować mąkę, by udał się z niej chleb, ale będą też umiały rzucić zaklęcie, by ktoś złamał nogę czy ciężko zachorował. "Skoro istnieją takie czary, nie widzę powodu, by o nich zapominać", mówiła Księżna Wróżek. "Są tak samo potrzebne w życiu, jak czary dobre".</p>
+        <p xml:id="p-4">Niektóre z tych Koloraczek, którym nie udało się przejść kolejnych Prób, pozostawały w Osadzie - niewielkiej wiosce, leżącej w zakolu rzeki J'athrud. Nazywały siebie Odmiennymi i żyły nadzieją, że podczas kolejnego Mianowania przejdą Próby pomyślnie i staną się Wybranymi.</p>
+        <p xml:id="p-5">Bycie Wybraną znaczyło cieszyć się poważaniem u innych Koloraków. Leczyć, zaklinać, czarować i otrzymywać za to szklane.</p>
+        <p xml:id="p-6">Kończył się Czas Rozgrzanych Dni, zbliżała się Pora Mgieł. Wczesnym rankiem, na gałęziach i wysokich trawach można było spotkać mgielniki - malutkie srebrzyste pająki, rozpinające swe szare sieci. Pora Mgieł była jedyną porą roku, która nigdy nie trwała tyle samo czasu. Starzy Koloracy pamiętali i dwuletnie Pory Mgieł, i kilkumiesięczne, i kilkutygodniowe. "Mgły powstają z sieci mgielników. Gdy mgielniki uprzędą dużo sieci, to Pora Mgieł będzie trwała długo", mówiono w Krainie Kolorów.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

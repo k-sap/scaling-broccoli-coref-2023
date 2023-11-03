@@ -1,0 +1,16 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">P</p>
+        <p xml:id="p-2">od dużym znakiem zapytania stanęło szybkie rozpoczęcie inwestycji przez powstałe niedawno strykowskie Towarzystwo Budownictwa Społecznego. W rekordowym czasie przygotowano teren i skompletowano przyszłych lokatorów. Tymczasem...</p>
+        <p xml:id="p-3">- Przesilenie parlamentarne i rządowe nie sprzyja zapewnieniom co do kredytowania inwestycji. Według ostrożnych prognoz Krajowego Funduszu Mieszkalnictwa, możemy liczyć na kredyt dopiero w 2003 roku - mówi Marek Jarocki, burmistrz Strykowa.</p>
+        <p xml:id="p-4">W mieście po cichu liczą jednak, że to tylko asekuracja funduszu. Wnioski o kredyt trzeba składać do końca października. W ciągu miesiąca KFM ma zadecydować o ewentualnej promesie kredytowej. Dzięki temu można finansować aż 70 procent inwestycji. Stryków liczy na preferencyjny kredyt (około 8 procent) rozłożony na 40 lat. Przy regularnej spłacie można ubiegać się o umorzenie 10 procent jego wartości.</p>
+        <p xml:id="p-5">- W najbliższym czasie musimy zadecydować co robić. Mamy chętnych na mieszkania, ale nie chcemy zamrażać budowy tuż po jej rozpoczęciu, by czekać rok na kredyt. Nasze udziały powinny wynieść 30 procent. Jedna trzecia z tego to wartość działki i dokumentacji. Pozostałe 20 procent wykonawca jest w stanie "przerobić" w ciągu dwóch miesięcy. A co zrobić później? - pyta Marek Jarocki.</p>
+        <p xml:id="p-6">Sytuacja jest dość nietypowa. W poprzednich latach zgierski TBS próbował inwestować w kilku miastach powiatu. Prac nie zaczęto, bo nie było chętnych na mieszkania. W niewielkim Strykowie nie ma z tym problemu. Mimo że rozpoczęcie budowy zapowiadano na ten rok, prawdopodobnie nastąpi to z opóźnieniem.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

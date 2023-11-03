@@ -1,0 +1,18 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">– To zamknij oczy.</p>
+        <p xml:id="p-2">– Podczas mycia?</p>
+        <p xml:id="p-3">Bob wzruszał ramionami i pochylał się nad jedzeniem, jak zrobiłby każdy mąż humorzastej, oczekującej dziecka żony. Zagadka poczęcia nie dawała mu jednak spokoju, bo czasem zamyślał się nad talerzem; ale po lunchu wychodził znów do pracy, zostawiając Gun ze ślimakami, nadwrażliwymi zębami i ubranym we flagę masztem sąsiada. Przystupa zostawała i sprzątała sypialnię, gdzie nie było ani śladu uprawiania seksu, podobnie jak w pokoju państwa na Gotlandii.</p>
+        <p xml:id="p-4">– Powiedziałaś już Bobowi? – dopytywała się Charlotta.</p>
+        <p xml:id="p-5">– Tak, chociaż to jeszcze nic pewnego.</p>
+        <p xml:id="p-6">I tak trwała ciąża Gun, przedmiot zazdrości innych „moms”, zwłaszcza Charlotty, której mąż był co prawda monstrualnie bogaty, ale Charlottę męczyło snucie się z drogimi, miodowymi pasemkami tylko między szkołą a domem.</p>
+        <p xml:id="p-7">Chociaż Gun przemieniała się w baryłeczkę poruszającą się na podobieństwo dzieci z pieluchą, pewnego wieczora Bob znów odważył się zapytać: „Czy jesteś pewna?” Tym razem Gun się obraziła i zadzwoniła z płaczem do Charlotty. Ta powiedziała parę słów nagany pod adresem Boba i poradziła, by Gun przypomniała mu skandynawską bajkę o niedobrym mężu żądającym, by żona dała mu wreszcie potomstwo.</p>
+        <p xml:id="p-8">– Każdego dnia po przyjściu do domu nękał ją pytaniem, czy już urodziła – szemrała do słuchawki Charlotta. – Aż starsza kobieta, której łono wyschło, zawinęła sowę w becik i podała ją mężowi, mówiąc: „Zobacz, jakie ci dziecko urodziłam”. Mąż się rozpromienił i długo cmokał nad becikiem: „Ach, jaka śliczna, jaka do mnie podobna!”</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

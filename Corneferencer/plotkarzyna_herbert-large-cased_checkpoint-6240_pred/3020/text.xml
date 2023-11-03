@@ -1,0 +1,13 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Odkąd tylko ją tego nauczyłem, moja siostra podpisywała się wszędzie jak najęta. A to świecówką na drzwiach od sracza, a to moim cyrklem na kuchennym stole, nawet węglem na ścianie koło pieca w stołowym. To jej bazgrolenie strasznie naszych starych wkurzało, zwłaszcza, że się uparła pisać "u" zamiast "y". Nie rozumieli, o co chodzi. A wystarczyło spytać mnie. Powiedziałbym im, że siostra dzięki zamianie literek ze zwykłej Marysi przemienia się w bohaterską Marusię i nie czuje się już gorsza od kolegów z podwórka.</p>
+        <p xml:id="p-2">A chłopakiem bardzo fajnie się wtedy było. O, rany! Nawet bardziej niż bardzo! Na czachę hełmofon z harcerskiej składnicy, co z tego, że flanelowy? Do ręki blaszana giwera, na smycz choćby jamnik i szpula na podwórko! Trzeba tylko było uważać, żeby się nie nadziać na starego Adamiaka, co po całych dniach na ławce sterczał. Marysi na Klossa wyglądał, a mnie bardziej na Brunnera. Z charakteru.</p>
+        <p xml:id="p-3">Ale on nas nienawidził! Czepiał się, śledził i donosił naszym starym. Kiedy na skwerze rwaliśmy amunicję – psem szczuł, a hełmofony zabierał nam przy każdej okazji. Czemu? Sam łaził w wyszmatławionej rogatej polówce, to i pewnie zazdrościł. A jaki tchórz! Niby w klapie taki malutki "Walecznych" nosił, a tylko się wygarnęło z korkowca, to skakał jak ping-pong i wrzeszczał. Kiedyś mnie, świnia, kapuśniakiem oblał i jeszcze z ozorem poleciał do mojej mamy, że mu strzelam pod oknami.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

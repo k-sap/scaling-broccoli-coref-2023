@@ -1,0 +1,13 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Firma Inter-Groclin z Grodziska Wlkp. produkująca poszycia foteli samochodowych m.in. dla Volvo, Audi i Renault zatrudnia 1700 osób i należy do największych pracodawców w tym rejonie. W tym roku z powodu wzrostu produkcji i nowych inwestycji zdecydowała się zwiększyć zatrudnienie o minimum 500 osób. Chętni szkoleni są w zakładzie przez kilka miesięcy. Dotyczy to również absolwentek szkół odzieżowych i krawieckich, zupełnie nieprzygotowanych do obsługi nowoczesnych maszyn szwalniczych. Po zakończeniu szkolenia jest egzamin. Ci, którzy go zdadzą i podołają obowiązującym w przedsiębiorstwie unijnym normom wydajności pracy, mogą liczyć nawet na 2,5 tys. zł miesięcznie.</p>
+        <p xml:id="p-2">Tymczasem trwający od początku stycznia nabór pracowników przebiega opornie. Mimo iż rekrutację rozszerzono na trzy sąsiadujące z grodziskim powiaty (wolsztyński, nowotomyski i kościański), od początku stycznia przyjęto na szkolenia zaledwie ok. 200 osób. W marcu firma zaczęła dowozić na własny koszt z odległego o 40 km Zbąszynia kilkadziesiąt osób zwolnionych grupowo z zakładów odzieżowych Romeo. Zdaniem rzecznika prasowego Inter-Groclin, "miejscowe zasoby pracy zostały wyczerpane" i z tego m.in. powodu firma rozważa możliwość rozkooperowania produkcji lub przeniesienia jej w inny region kraju. Chodzi z pewnością o wyczerpanie zasobu osób gotowych do podjęcia wysiłku, bowiem w czterech wspomnianych powiatach zarejestrowanych było w grudniu ub.r. 11,5 tys. bezrobotnych. Ogromną ich większość stanowią ludzie młodzi.</p>
+        <p xml:id="p-3">W poznańskim PUP zarejestrowanych jest 121 bezrobotnych pielęgniarek. Jednocześnie miejscowe szpitale zgłaszają liczne oferty pracy dla nich. O co więc chodzi? Większość bezrobotnych pielęgniarek została zwolniona z przychodni, gdzie pracowały od ósmej do piętnastej, szpitale zaś wymagają pracy na trzy zmiany, do czego pielęgniarki absolutnie się nie palą. Wolą bezrobocie. Przy ich pensjach nie musi to dziwić.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

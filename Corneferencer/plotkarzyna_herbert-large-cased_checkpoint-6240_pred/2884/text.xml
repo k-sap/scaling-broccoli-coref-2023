@@ -1,0 +1,17 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Małoszyce wiedzą, że panicz Witold się wybił.</p>
+        <p xml:id="p-2">- Nic dziwnego, że został tym wielkim poetą - mówi dziadek Żelazowski. - Gombrowicze mieli przecież łeb nie od parady. Sprzedali majątek w sam czas. Jeszcze trochę by się wstrzymali, a upaństwowiliby i mieliby figę, tak jak wszyscy okoliczni dziedzice. A oni widać mieli przeczucie. Przewidzieli, że wszystko pójdzie do góry nogami.</p>
+        <p xml:id="p-3">Wiadomo, że Witold się wybił, ponieważ ciągle tu przyjeżdżają wypytywać o niego.</p>
+        <p xml:id="p-4">- Początkowo - mówi Popek - myślał ja, że chodzi im o jaśnie pana, ale nie, wszyscy tylko: Witold i Witold! I już teraz wiadomo, że gdy jedzie do Małoszyc piękne auto, a w środku nieznani, miastowi ludzie - jasne, że będą rozpytywać o Witolda.</p>
+        <p xml:id="p-5">- Jezu, ile razy już o nim opowiadałam! - mówi Popkowa. - Ile ludzi kręciło się po moim obejściu! I państwo z Warszawy, i Krakowa, i redaktorzy z Kielc, i adwokaci. Kto by tam ich spamiętał!</p>
+        <p xml:id="p-6">Przyjeżdżają również cudzoziemcy.</p>
+        <p xml:id="p-7">- Akurat zbieraliśmy kombajnami jęczmień - wspomina Celina Kłonica, córka Szumlińskiego - nagle patrzę, na drodze staje taryfa z warszawską rejestracją. Taryfiarz wychodzi, pyta, gdzie tu kiedyś mieszkał jakiś Witold Gombrowicz, bo ten Włoch specjalnie dla niego jechał tu z Warszawy. Włoch również wysiadł z taryfy, pokazywał książkę, a w niej zdjęcia, jak kiedyś wyglądał park i staw w Małoszycach. Wysłałam ich do obejścia Popków, chałupy Morasa. Chciałam nawet sama zaprowadzić, bo gdzie? Z takiego dalekiego kraju! Lecz były żniwa, akurat największa robota, i kto miał głowę do Gombrowicza!</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

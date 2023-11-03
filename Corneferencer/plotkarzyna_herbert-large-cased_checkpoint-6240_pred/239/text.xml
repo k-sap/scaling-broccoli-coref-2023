@@ -1,0 +1,14 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">karollo666 powolania mysle ze w miare dobre choc brakuje mi bosackiego i zdebla. troche nie rozumiem powolania dla mili ale zobaczymy:) beenhakker no fachowiec z pierwszej polki wiec wie co robi</p>
+        <p xml:id="p-2">.:Wuyeq:. CYTAT "powolania mysle ze w miare dobre choc brakuje mi bosackiego i zdebla. troche nie rozumiem powolania dla mili ale zobaczymy:) beenhakker no fachowiec z pierwszej polki wiec wie co robi" Zdebel zrezygnował z gry w kadrze..a Bosacki ostatnio jest w marnej formie..Generalnie lepszych piłkarzy raczej nie mamy..ale jednak pare zmian by sie przydało: Powinni byc: - Kuszczak, Dudka, Łągiewka, Giza, Rasiak Niezrozumiałe powołania: - Dudek, Głowacki (wielkie zdziwienie..Głowacki to świetny zawodnik, ale dopiero po kontuzji), Frankowski Jednak kogo by nie powołał i tak będe kibicował i wierze, ze wygramy i z Finami i z Serbia..</p>
+        <p xml:id="p-3">mirekb Matusiak, Błaszczykowski i Garguła to na mistrzostwa Świata mieli jechać! Błaszczykowski i Matusiak to bezdyskusyjnie w pierwszej 11 powinni grać! Paweła Sasina sprawdzic trzeba jeszcze, ten chlopak ma olbtzymi potencjal! Mam nadzeje ze niedlugo w reprezentacji krolowac bedzie atak Brożek-Brożek</p>
+        <p xml:id="p-4">MiChaUek CYTAT(mirekb @ 22.08.2006, 11:26) [snapback]384177[/snapback] "Matusiak, Błaszczykowski i Garguła to na mistrzostwa Świata mieli jechać! Błaszczykowski i Matusiak to bezdyskusyjnie w pierwszej 11 powinni grać! Paweła Sasina sprawdzic trzeba jeszcze, ten chlopak ma olbtzymi potencjal! Mam nadzeje ze niedlugo w reprezentacji krolowac bedzie atak Brożek-Brożek" na blaszczykowskiego i matusiaka to czas na nich jeszcze przyjdzie... co do pawla sosina to mowie NIE, NIE, NIE !! bo to jest takie drewno prawie jak sam rasiak ale Brozek to tylko Pawel</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

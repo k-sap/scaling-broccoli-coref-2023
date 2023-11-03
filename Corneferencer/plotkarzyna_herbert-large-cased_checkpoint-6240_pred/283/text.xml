@@ -1,0 +1,14 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">- A ty wyglądasz bosko – odpowiedziałem, jako iż od dzieciństwa nie potrafiłem kłamać. - Przywitaj się ze Zbigiem, przyjechał trzy dni temu i trochę tu z nami pomieszka.</p>
+        <p xml:id="p-2">- Trochę? Co znaczy trochę? – nieznacznie zmarszczyła nos, przeciągnęła się kocim ruchem i podrapała po wypiętym pośladku.</p>
+        <p xml:id="p-3">- Trochę. Jakieś... pół roku? Musi skończyć dwadzieścia osiem lat w spokojnym miejscu, bo ściga go żandarmeria wojskowa. Zresztą sama z nim porozmawiaj. Myślę, że ma poranne drgawki i leży na kanapie w kuchni – odparłem, starając się nie stracić ani jednego ujęcia z momentu, kiedy odwraca się leniwie i kręcąc tyłkiem wychodzi z łazienki. - Tylko nie daj się naciągnąć! Jak zwykle nie ma ani grosza i pewno będzie chciał pożyczyć od ciebie na fajki – powiedziałem jeszcze do jej stopy obutej w zgrabny sandałek. Stopa kiwnięciem palców potwierdziła otrzymanie wiadomości i ciało Renatki zniknęło za drzwiami łazienki. Zresztą Ø dusza też.</p>
+        <p xml:id="p-4">Całkowicie Renatka zniknęła z mojego życia trzy miesiące później - zaraz po tym, jak pewnego pięknego, sierpniowego poranka drzwi mojego mieszkania wyleciały w kosmos wysadzone niewielkim ładunkiem, a Zbig wyciągnięty za włosy przez wojskowych żandarmów trafił do wojskowego więzienia za uchylanie się od powszechnego obowiązku służby wojskowej. Nie przyszła nawet na proces, na którym za kilkakrotne ukrywanie poszukiwanego listem gończym zboczeńca i oszusta wymierzono mi dwuletni wyrok. Majowe weekendy bez niej nigdy już nie odzyskały dawnego smaku morza. Zresztą, w celi wcale nie czuło się, że jest maj.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

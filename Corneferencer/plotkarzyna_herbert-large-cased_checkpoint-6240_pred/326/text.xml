@@ -1,0 +1,13 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Dla TP odpływ klientów abonamentowych to śmiertelne zagrożenie. Jej mniejsi konkurenci praktycznie wstrzymali inwestycje w rozbudowę własnych sieci. Każda kolejna decyzja otwiera im bowiem coraz większy dostęp do tej największej, już zbudowanej, która od lat oplata ponad 10 mln klientów. Nic dziwnego, że w narzuconej mu współpracy z innymi operatorami monopolista stosuje różne obstrukcje. Np. klienci, którzy mieli zacząć płacić abonament Tele2 we wrześniu 2006 r., usługę tę będą mieli uruchomioną dopiero w najbliższych dniach. Ale w bezpardonowej walce o wpływy na rynku telekomunikacyjnym nie tylko TP stosuje ciosy poniżej pasa. W listopadzie na Tele2 nałożono 1 mln zł kary, bo ich przedstawiciele handlowi podstępem skłaniali klientów do podpisywania umów (m.in. nie informowano rozmówcy, w czyim imieniu i na czyją rzecz prowadzona jest rozmowa akwizycyjna).</p>
+        <p xml:id="p-2">Porównanie podstawowego abonamentu u trzech operatorów, którzy go teraz oferują, przedstawiamy poniżej. Konkurenci TP wprowadzają również inne plany taryfowe, analogiczne do propozycji giganta. Zarówno Dialog jak i Tele2 mają w ofercie pakiety Darmowe Minuty, Darmowe Wieczory czy Darmowe Weekendy. Niektórzy mają tańsze rozmowy od godziny 20.00, inni od 18.00, ale tylko w weekendy. Tele2 ma z kolei bardzo niską stawkę na rozmowy międzymiastowe po godzinie 22.00. W sumie trudno się w tym wszystkim połapać.</p>
+        <p xml:id="p-3">Trudno też oprzeć się wrażeniu, że - podobnie jak w przypadku telefonii komórkowej - oferty celowo konstruuje się tak, by były trudno porównywalne. Pozostaje wierzyć na słowo, że u konkurentów TP, w zależności od wybranych opcji, zazwyczaj jest od 10 do 20 proc. taniej. To trochę mało. Choć TP coraz trudniej nazywać monopolistą, rewolucyjnych obniżek cen na razie nie będzie. Żeby do nich doszło, trzeba zmiany umów między operatorami, zarówno stacjonarnymi jak i komórkowymi, o wzajemnym rozliczaniu ruchu w sieci.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

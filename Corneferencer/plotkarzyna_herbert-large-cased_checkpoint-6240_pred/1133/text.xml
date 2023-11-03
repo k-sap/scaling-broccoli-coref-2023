@@ -1,0 +1,14 @@
+<?xml version="1.0" ?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">W Afryce sytuacje były względnie klarowne: tam rola partii - awangardy klasy robotniczej była żadna, gdyż klasa robotnicza na ogół nie istniała. Ogromna większość państw po prostu dostała "flagową" niepodległość od byłych kolonialistów, a następnie ogłaszała rozmaite socjalizmy z przymiotnikami, maskujące etatystyczną oligarchię. Tam, gdzie były powstania wyzwoleńcze, doszło do radykalizacji imitującej realsocjalizm (Algieria, kolonie portugalskie) i podobne zjawiska zaszły tam, gdzie szczególnie zmurszały był stary reżim (Libia, Etiopia). Jest natomiast wątpliwe, czy gdziekolwiek (poza Algierią) powstania te odniosłyby triumf, gdyby nie pomoc internacjonalistyczna, zwłaszcza Kuby.</p>
+        <p xml:id="p-2">Tejże Kuby, której rewolucjoniści krajów latynoskich zarzucali oburzającą bierność, albowiem nie wspomogła powstania FALN w Wenezueli ani FAR w Gwatemali, ani MIR i ELN w Peru, ani rewolty Carlosa Marighelli i żadnych innych zrywów rewolucyjnych w Brazylii, ani nawet wyprawy Che Guevary do Boliwii. Przywódca FALN, Douglas Bravo, szczególnie namiętnie atakował Fidela Castro, podpowiadając mu nawet, ażeby przyjął strategię Simona Bolivara i nie wahał się w razie czego opuścić już wyzwolonego terytorium Kuby - by walczyć na innych terenach. W traktacie Poprawki taktyczne czy strategiczne pisał:</p>
+        <p xml:id="p-3">"Jesteśmy pewni, że strata terytorium kubańskiego w szczególnych okolicznościach walki miałaby za skutek rozprzestrzenienie się w całej Ameryce najlepszych sił Kuby, jej najlepszych wojsk, jej przywódców, jej najskuteczniejszych wysiłków, ażeby wzmocnić walkę - i że nie chodziłoby wtedy o odrębne cele rewolucji kubańskiej, lecz o rewolucję kontynentalną".</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

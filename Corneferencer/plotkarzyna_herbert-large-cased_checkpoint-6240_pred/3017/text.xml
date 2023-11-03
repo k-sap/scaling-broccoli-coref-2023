@@ -1,0 +1,37 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Też mnie zatkało...</p>
+        <p xml:id="p-2">TERESA</p>
+        <p xml:id="p-3">Dlaczego nikt nam tego nie powiedział?! Dlaczego ukrywały to przed nami?!</p>
+        <p xml:id="p-4">MAREK</p>
+        <p xml:id="p-5">Pytałaś Majewską, co łączy ją z Ignis?</p>
+        <p xml:id="p-6">TERESA</p>
+        <p xml:id="p-7">Nie. Oczywiście, że nie... Wiadomo było, że są jakoś powiązane, przecież to Ignis wprowadziła ją do redakcji... Nie przyszło mi na myśl, że to tego rodzaju więź... Są tak różne... Dlaczego nic nie powiedziała?...</p>
+        <p xml:id="p-8">MAREK</p>
+        <p xml:id="p-9">Jeśli chodzi o Majewską, to doskonale ją rozumiem. Nie ma się czym chwalić... A Ignis... No cóż myślę, że nie brzmiałoby dobrze zdanie; To jest moja siostra, od dziś będzie waszą naczelną...</p>
+        <p xml:id="p-10">TERESA</p>
+        <p xml:id="p-11">Wierzysz w tę rezygnację?</p>
+        <p xml:id="p-12">MAREK</p>
+        <p xml:id="p-13">Dlaczego mam nie wierzyć? Słyszałem na własne uszy.</p>
+        <p xml:id="p-14">TERESA</p>
+        <p xml:id="p-15">Ale dlaczego? Nie rozumiem... Wydawało mi się, że ta praca ją wciągnęła... Rozmawiałyśmy niedawno...</p>
+        <p xml:id="p-16">MAREK</p>
+        <p xml:id="p-17">Nie mieszaj się do tego... One to pewnie jakoś załatwiły między sobą, w rodzinie...</p>
+        <p xml:id="p-18">TERESA</p>
+        <p xml:id="p-19">Mamy chyba prawo wiedzieć...</p>
+        <p xml:id="p-20">MAREK</p>
+        <p xml:id="p-21">Poczekamy, zobaczymy...</p>
+        <p xml:id="p-22">TERESA</p>
+        <p xml:id="p-23">Na co mamy czekać?</p>
+        <p xml:id="p-24">MAREK</p>
+        <p xml:id="p-25">Na decyzję właścicielki... Nie udało mi się jeszcze z nią skontaktować...</p>
+        <p xml:id="p-26">TERESA</p>
+        <p xml:id="p-27">Mówisz poważnie?! Masz zamiar udawać, że nic się nie stało? Nie mamy naczelnego! Trzeba powiedzieć ludziom...</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

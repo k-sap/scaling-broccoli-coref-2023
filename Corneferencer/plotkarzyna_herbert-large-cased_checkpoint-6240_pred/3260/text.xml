@@ -1,0 +1,17 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">W czwartek doszło również do kilku kolizji. Między godziną 8.00 a 9.00, w okolicach Bladowa, z drogi wypadł samochód ciężarowy.</p>
+        <p xml:id="p-2">Wcześniej w lesie na wysokości Żółwińca, w poślizg wpadł ford transit. Samochód zatrzymał się dopiero na przydrożnych drzewach.</p>
+        <p xml:id="p-3">– Na szczęście w obu przypadkach nikomu nic się nie stało – podkreślają policjanci.</p>
+        <p xml:id="p-4">Drogowcy: – Mamy dwie godziny na reakcję</p>
+        <p xml:id="p-5">Tego dnia, wcześnie rano, przymroziło. W wielu miejscach drogi zostały ścięte lodem, co znacznie pogorszyło warunki jazdy. Tymczasem policjanci w nieoficjalnych rozmowach narzekali na opieszałość drogowców. – Dzwonimy do nich z sygnałami na temat warunków na drodze. Wskazujemy konkretne miejsca, w których jest ślisko. Oni podejmują działania dopiero po kilku godzinach – opowiada jeden z funkcjonariuszy.</p>
+        <p xml:id="p-6">Żadnych niedociągnięć nie zauważa jednak Bogdan Ryl, zastępca dyrektora Zarządu Dróg Powiatowych. – Sytuacja dzisiaj (rozmawialiśmy w dniu tragicznych wypadków – wyj. red.) była specyficzna. Zdarzał się na drogach zamróz lokalny. Działaliśmy zgodnie z przepisami. Według nich mamy 2 godziny na reakcję przy zmianie warunków atmosferycznych. Nasz dyżurny wprowadził procedury w porę. Nie czekamy nigdy na telefony policjantów – tłumaczy.</p>
+        <p xml:id="p-7">Sprawdziliśmy też, co na ten temat ma do powiedzenia Janusz Dąbka, szef Rejonu Dróg Wojewódzkich. – Nikt się nie spodziewał zaistnienia takich warunków. Trzeba było w związku z tym uzbroić się w cierpliwość. Musi być ściągnięty kierowca. Potem należy załadować samochód. To musi potrwać – tłumaczy.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

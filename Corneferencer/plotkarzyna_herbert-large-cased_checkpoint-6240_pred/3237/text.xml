@@ -1,0 +1,14 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Przedstawiciele Głównej Komisji Sportu Żużlowego dokonali jeszcze kilku innych zmian. W meczu ligowym menedżerowie będą mogli skorzystać nie z jednego Ø, ale dwóch zawodników rezerwowych. W każdej drużynie drugi rezerwowy zostanie zapisany odpowiednio pod numerami - 8 (goście) i 16 (gospodarze). Jeźdźcem zapasowym może być także senior, przy czym zawodnicy oznaczeni 8 i 16 w całym spotkaniu co najwyżej czterokrotnie mogą wyjeżdżać na tor.</p>
+        <p xml:id="p-2">Władze polskiego czarnego sportu wyszły także naprzeciw postulatom zawodników (przynajmniej dały znać do zrozumienia, że nie są głuche na opinię tego środowiska). Jeśli klub zalegać będzie zawodnikom z tytułu zapłaty uzgodnionych wcześniej zobowiązań finansowych, żużlowiec może opuścić swojego pracodawcę za 80 procent kwoty wpisanej przy jego sumie transferowej. Inaczej rzecz biorąc, jego wartość rynkowa będzie o 20 procent niższa niż przy parafowaniu umowy. Jest jeden warunek. Zawodnik w razie zaistnienia tego typu wypadku, musi przedstawić stosowne dokumenty obciążające klub.</p>
+        <p xml:id="p-3">W nowym sezonie na słabości nie będą mogli sobie pozwolić obcokrajowcy (można ich zakontraktować maksymalnie trzech). Ten z nich, który nie uzyska średniej 6 punktów na mecz, nie będzie mógł wystąpić na polskich torach w roku 2004. Ma to za zadanie wykluczyć "słabeuszy", którzy w minionych latach zabierali miejsca w drużynie dla krajowych żużlowców.</p>
+        <p xml:id="p-4">Prezes Marian Maślanka był zadowolony z kierunku zmian. W praktyce są one korzystne dla Włókniarza i potwierdzają obiegową opinię, że jeśli nie zajdą nieprzewidywalne okoliczności będzie on jednym z faworytów przyszłorocznej batalii o Drużynowe Mistrzostwo Polski.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

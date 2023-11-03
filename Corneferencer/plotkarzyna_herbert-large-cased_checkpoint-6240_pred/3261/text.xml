@@ -1,0 +1,13 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Jeśli, załóżmy, jako punkt wyjścia przyjmiemy określoną definicję potrzeb zdrowotnych i powiemy, że fundusz ubezpieczeń zdrowotnych pokrywa te i tylko te potrzeby, które są społecznie usankcjonowane, powstaje natychmiast problem, jakiego rodzaju potrzeby znajdą się na tej liście i kto powinien ową listę ustalać. Pacjenci, lekarze, politycy, Ministerstwo Zdrowia, zaproszeni eksperci z WHO? Każdy ma inny punkt widzenia, inne interesy. I co gorsza, interesy te z reguły ze sobą kolidują. Paradoksalnie, im bardziej chore społeczeństwo, tym większe zyski firm farmaceutycznych i praktykujących prywatnie lekarzy, pod warunkiem oczywiście, że pacjenci są wystarczająco zamożni, aby płacić za wszelkie leki i świadczenia. A nikt nie będzie zarzynał kury, która znosi złote jajko.</p>
+        <p xml:id="p-2">Z drugiej jednak strony, jeżeli wszyscy jako pacjenci płacimy obowiązkowo na fundusz ubezpieczeń zdrowotnych, to chcielibyśmy, aby jak największa liczba naszych potrzeb zdrowotnych była zaspokajana bezpłatnie ze wspólnej kasy. Stąd uzasadnione protesty diabetyków, którzy czują się pokrzywdzeni przez ostatnie propozycje ministra zdrowia, czy też protesty kobiet, domagających się prawa do zdrowia reprodukcyjnego. A jakie zasady postępowania należy przyjąć wobec ludzi starych i umierających, którzy z oczywistych względów nie mogą sobie pozwolić na protesty uliczne? Jak wyliczono niedawno w Stanach Zjednoczonych połowa wszystkich wydatków na leczenie i opiekę zdrowotną przypada na ostatnie 6 miesięcy naszego życia.</p>
+        <p xml:id="p-3">Rzecz w tym, że każda grupa pacjentów - poczynając od cierpiących na bezpłodność par, a kończąc na rodzinach opiekujących się pacjentami z otępieniem starczym - ocenia swoje potrzeby jako najważniejsze. Im lepiej jest zorganizowana, im lepiej słyszalna, tym większe ma szanse przeforsowania swego stanowiska w przetargu o swoje prawa. Najsłabsi nie są jednak w tym przetargu reprezentowani. A pula środków do podziału jest zawsze ograniczona. Czy jest jakieś wyjście z tej sytuacji?</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

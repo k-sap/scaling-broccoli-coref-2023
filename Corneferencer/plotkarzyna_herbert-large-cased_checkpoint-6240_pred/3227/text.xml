@@ -1,0 +1,11 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Pisząc o 41. Crossie Ostrzeszowskim, nie sposób pominąć tego co najważniejsze - sportowej rywalizacji. Odbywała się ona w ponad 20 biegach na dystansach od 1200 m do 21 km. Ten najdłuższy tzw. cross-maraton wygrał zawodnik "Oleśniczanki" - Tomasz Wilczyński. W ramach crossu rozegrano mistrzostwa województwa szkół podstawowych oraz szkół gimnazjalnych i ponadgimnazjalnych. Odbyły się także X Mistrzostwa Polski PTSS "Sprawni Razem", a także Mistrzostwa Polski Nauczycieli (szkoda, że z symbolicznym udziałem osób z naszego powiatu). Jako powiat dość średnio wypadliśmy w ogólnych klasyfikacjach drużynowych, o których decydowały punkty zdobyte w poszczególnych biegach. W klasyfikacji szkół podstawowych na wysokim 3. miejscu uplasowała się SP Grabów, a na 5. - SP nr 1 Ostrzeszów. Najlepszymi okazali się uczniowie SP Żerków, zwyciężając też w klasyfikacji gimnazjów. Tutaj z naszego powiatu miejsca w pierwszej dziesiątce zdobyły Kraszewice (4), Doruchów (6) i Siedlików (7). Wśród szkół ponadgimnazjalnych 3. miejsce zajął ZS nr 1 Ostrzeszów, a tuż za nim I LO Ostrzeszów. Sukces odniosły szkoły kępińskie. Dość krótka jest lista naszych biegaczy plasujących się w 10, a na niektórych dystansach próżno by ich szukać nawet znacznie niżej. Powinno to dać trochę do myślenia pracującym z biegaczami trenerom i nauczycielom z naszego powiatu. Na szczęście w kilku biegach i do naszych Ø uśmiechnęło się słońce. Do grona zwycięzców należeli: młodziutki Tomek Łukasiewicz, jego starszy kolega Daniel Pawlak i weteran ostrzeszowskich biegów Marian Świtoń, który podobnie jak pozostali uczestnicy biegu open, swój start dedykował zmarłemu Jerzemu Maklesowi. Można przypuszczać, że twórca ostrzeszowskich crossów z życzliwością spoglądał na swych wychowanków i na tegoroczną rywalizację, która choć rozgrywana trochę na uboczu, również dostarczyła wielu sportowych wrażeń.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

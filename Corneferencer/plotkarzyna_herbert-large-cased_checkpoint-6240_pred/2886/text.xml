@@ -1,0 +1,17 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">- Tak, bo widzą, że okazujemy szacunek.</p>
+        <p xml:id="p-2">"Use deadly force" z jednej strony, a z drugiej ochraniacze na buty, szacunek. Czy będzie przesadą twierdzenie, że onz powinien brać lekcje u tych żołnierzy z Gotlandii? Sporo można powiedzieć o bałkańskich narodach, ale mają jedną sympatyczną cechę - gardzą opiekunami, którzy nie biorą siebie samych serio. Jak na przykład onz. Szanują natomiast przeciwników, którzy być może naiwnie tak jak oni sami wierzą w to, co robią. lak na przykład Micke.</p>
+        <p xml:id="p-3">ps Panowie Bajrami, Bangura, Bhattacharya, Mr Smith i Fatmir w rzeczywistości nazywają się inaczej.</p>
+        <p xml:id="p-4">Ioan Woollett został w Kosowie oskarżony, lecz zdążył na czas opuścić prowincję.</p>
+        <p xml:id="p-5">Albin Kurti w lutym 2007 roku wzywał do demonstracji przeciw onz, co doprowadziło do zamieszek, w trakcie których około osiemdziesięciu demonstrantów zostało rannych, a dwóch zginęło od gumowych kul oenzetowskich policjantów. Kurti został oskarżony o podżeganie do rozruchów i od tego czasu przebywa w areszcie.</p>
+        <p xml:id="p-6">Po pogromie z marca 2004 roku większość przysługujących poszczególnym państwom caveats w ramach kfor została zlikwidowana.</p>
+        <p xml:id="p-7">30 kwietnia 2004 roku Hans Hakansson i dwunastu jego żołnierzy zostało odznaczonych Medalami Ministerstwa Obrony Szwecji za obronę Čaglavicy.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

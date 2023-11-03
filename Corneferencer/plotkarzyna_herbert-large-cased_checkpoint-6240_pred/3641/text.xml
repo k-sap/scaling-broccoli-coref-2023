@@ -1,0 +1,17 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Jest to kość długa. Można w niej wyróżnić trzon i dwa końce - mostkowy i barkowy. Obojczyk jest wygięty esowato i dobrze wyczuwalny pod skórą. Przyśrodkowa część obojczyka jest wygięta do przodu, część boczna - ku tyłowi.</p>
+        <p xml:id="p-2">Na dolnej powierzchni trzonu, przy końcu mostkowym znajduje się wycisk więzadła żebrowo-obojczykowego (ímpresío líg. costoclavícularís), a przy końcu barkowym leżą guzek stożkowaty (tuberculum conoídeum) oraz kresa czworoboczna (línea trapezoídea) - miejsca przyczepu więzadeł.</p>
+        <p xml:id="p-3">Koniec mostkowy (extermítas sternalís) ma kształt owalny i tworzy powierzchnię stawową stanowiącą połączenie z wcięciem obojczykowym mostka. Koniec barkowy (extermítas acromíalís) jest spłaszczony i zakończony powierzchnią stawową służącą do połączenia z wyrostkiem barkowym łopatki.</p>
+        <p xml:id="p-4">5.2. Łopatka (scapula)</p>
+        <p xml:id="p-5">Jest to typowa kość płaska w kształcie trójkąta. Ma dwie powierzchnie, trzy brzegi i trzy kąty.</p>
+        <p xml:id="p-6">Powierzchnia przednia łopatki, czyli powierzchnia żebrowa (facíes costalís) jest wklęsła i zagłębienie to nosi nazwę dołu podłopatkowego (fossa subscapularís). Występują na nim kresy mięśniowe (líneae musculares).</p>
+        <p xml:id="p-7">Na powierzchni grzbietowej (facies dorsalis) przebiega skośnie od strony przyśrodkowej w bok i ku górze grzebień łopatki (spina scapulae), który dzieli ją na dół podgrzebieniowy (fossa infraspinata) i dół nadgrzebieniowy (fossa supraspinata). Doły te wypełniają mięśnie o tej samej nazwie. W dalszym przebiegu grzebień łopatki spłaszcza się i przechodzi w wyrostek barkowy (acromion). Na tym wyrostku znajduje się powierzchnia stawowa służąca do połączenia z obojczykiem (facies articularis acromii).</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

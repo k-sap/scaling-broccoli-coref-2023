@@ -1,0 +1,12 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Sytuacja w 1921 roku w naszych stosunkach z zachodnim sąsiadem była, delikatnie mówiąc, nie najlepsza. Przypomnijmy sprawę "płonącej granicy", której de iure jeszcze nie było. Kształtowała się ona w ogniu walk na wszystkich frontach. Powstanie wielkopolskie (1918) i trzy kolejne powstania śląskie ( 1919-1921) ugruntowały ją w części byłego zaboru pruskiego. W tamtych czasach często karykaturowano przedplebiscytowe poczynania rządu niemieckiego, polegające na sprowadzaniu przybyszów z głębi Niemiec w celu wzięcia udziału w plebiscycie na Górnym Śląsku pod pretekstem urodzenia się na tym terenie. Karykatura przerażonego Niemca odkopującego zwłoki na cmentarzu w Opolu w poszukiwaniu uprawnionych do wzięcia udziału w głosowaniu, a przypadkowo trafiającego na polską mogiłę - to świetny przykład kpiny z owej praktyki. Prócz tego, iż rysunek wydrwił działania rządu berlińskiego, próbował także dostarczyć argumentu za polskością Śląska, na którym znajdują się też wszak polskie (!) groby.</p>
+        <p xml:id="p-2">W okresie weimarskim satyra polska jest nadal równie ostra i dosadna, jak w czasie normowania stosunków po wojnie światowej, choć liczba tematów niemieckich okresowo spada na rzecz spraw krajowych. Zawsze jednak wśród zagranicznych obiektów kpiny Niemcy i problemy z nimi związane biją wszelkie rekordy. Szczególnie widoczne było to w latach 1925-1930. Do najczęściej wykorzystywanych tematów należały tradycyjnie stereotyp Niemca - militarysty, sprawa Gdańska, wojna celna, indoktrynacja młodych pokoleń i in. Ekonomiczny aspekt stereotypu antyniemieckiego, którym próbowano tłumaczyć gospodarcze trudności Polski w dobie wojny celnej i wielkiego kryzysu, odbiła oczywiście również i karykatura. Postać - symbol niemieckiego Michela - Michałka, zawsze w nieodłącznej szlafmycy i z fajką, pojawiała się w całym omawianym okresie. Początkowo przedstawiany jako obłudnik utożsamiający najgorsze cechy drobnomieszczaństwa, podżegający do wojny i odwetu, stał się "wizytówką" Niemca w karykaturze, stopniowo wypierając typ Prusaka. Również w czasach hitlerowskich Michel znajdzie dla siebie miejsce. Doda mu się jedynie swastykę w formie opaski na ramię lub jakąś część munduru szturmowca jako swoisty znak czasu i przemian.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

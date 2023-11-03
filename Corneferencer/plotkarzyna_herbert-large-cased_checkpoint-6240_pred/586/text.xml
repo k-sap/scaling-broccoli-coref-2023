@@ -1,0 +1,20 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">- Ale jest jeszcze ktoś, kto ma wiele do powiedzenia w tej sprawie - Waldemar Kita.</p>
+        <p xml:id="p-2">- Ma prawa do Marcina Kuźby. Ale zanim przystąpimy do jakichkolwiek negocjacji, musi się zdecydować na tego piłkarza trener Kasperczak.</p>
+        <p xml:id="p-3">- Zrezygnowaliście z Sundaya Ibrahima. Nie ma już dla niego perspektyw w Wiśle?</p>
+        <p xml:id="p-4">- Został na razie wypożyczony do KSZO na pół roku, do końca tego sezonu. Nie mieścił się w składzie, nie miał szans na grę, trener zgodził się, żeby oddać Sundaya i dogadaliśmy się z klubem z Ostrowca Świętokrzyskiego.</p>
+        <p xml:id="p-5">- Kto najbardziej da się wiosną Wiśle we znaki?</p>
+        <p xml:id="p-6">- Legia zawsze jest groźna, bo obojętnie, czy ktoś odchodzi, czy nie, ma wystarczająco dużo dobrych zawodników. Przykład GKS-u Katowice, gdy problemy finansowe mogą stanowić dodatkową motywację, też jest znamienny.</p>
+        <p xml:id="p-7">- A co z Groclinem Dyskobilią?</p>
+        <p xml:id="p-8">- To prężny, nowocześnie zorganizowany klub. Tak samo groźny, jak kilka innych: Legia, GKS, Amica.</p>
+        <p xml:id="p-9">- Sen z powiek spędza modernizacja, czy wręcz budowa stadionu. Bez nowoczesnego obiektu z podgrzewaną murawą trudno podbijać Europę. Czy dojdzie w końcu do zawiązania spółki z miastem, aby mogły być wykorzystane gminne pieniądze, kiedy odpowiednią decyzję o dzierżawie terenu wyda Ministerstwo Spraw Wewnętrznych i Administracji?</p>
+        <p xml:id="p-10">- Z naszego ramienia prowadzi rozmowy wiceprezes Rady Nadzorczej, mecenas Hubert Praski. Powołano zespół roboczy. Wiem, że cyklicznie się spotyka.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

@@ -1,0 +1,13 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Miasto Mikstat jest powszechnie znane jako miejsce kultu św. Rocha. Jednak kilka wieków wcześniej mieszczanie mikstaccy obrali sobie św. Agatę za patronkę chroniącą miasto od pożarów. Ten starodawny kult przetrwał do czasów współczesnych, a jego widzialnym znakiem jest tradycyjny odpust obchodzony 5 lutego.</p>
+        <p xml:id="p-2">Św. Agata przyszła na świat w Katanii na Sycylii ok. 235 r. Jej imię wywodzi się z greckiego słowa Agathos - czyli dobry, dobrze urodzony, szlachetny. Po przyjęciu chrześcijaństwa złożyła ślub czystości, postanawiając żyć w dziewictwie. Ponieważ odznaczała się niezwykłą urodą, zwróciła uwagę rzymskiego Namiestnika Sycylii Kwincjana. Gdy odrzuciła jego "ofertę matrymonialną", kazał ją uwięzić. Z jego rozkazu oddano Agatę do domu rozpusty, gdzie z pomocą Bożą ustrzegła swojej niewinności. Następnie poddano ją torturom, rozszarpując i obcinając piersi. Po tym rzucono Agatę na rozpalone węgle i tam poniosła 5 lutego 251 r. męczeńską śmierć. Chrześcijanie otoczyli jej grób wielką czcią. Gdy po upływie roku doszło do erupcji wulkanu Etna i miastu zagrażała rozżarzona lawa, wówczas na ulice wyszła procesja niosąca wydobyty z jej grobu welon. Miało to sprawić zatrzymanie lawy pod murami miasta. Od tego czasu w dniu swojej patronki mieszkańcy Katanii obwożą na rydwanie relikwiarz w uroczystej procesji po mieście.</p>
+        <p xml:id="p-3">Św. Agata jest patronką Sycylii, miasta Katanii, a w Polsce miasta Sejny. Już od średniowiecza uważana była za patronkę chroniącą od wybuchów wulkanicznych, burzy, pożaru, zwłaszcza wywołanego uderzeniem pioruna. Uznana została też za orędowniczkę w chorobach piersi i opiekunkę karmiących matek.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

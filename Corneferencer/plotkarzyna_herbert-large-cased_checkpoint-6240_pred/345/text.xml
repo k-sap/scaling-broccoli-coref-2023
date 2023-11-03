@@ -1,0 +1,12 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Być może czasy dzisiejsze nie są epoką nieśmiałych, ale - prawdę powiedziawszy - jakie czasy były ich epoką? Inny frazes prędzej tu pasuje: śmiały staje się teraz jeszcze śmielszy, a nieśmiały w tych czasach popada w nieśmiałość graniczącą z nieistnieniem. Tak czy tak, jesteśmy w domenie finezji. Znikanie człowieka nieśmiałego dokonuje się niezmiernie powoli, trwa od dziesięcioleci (nie mam innej skali) i jest jak wygaszanie jednego światła, jak znikanie jednego motywu, jak płowienie jednej barwy, jak wymazywanie jednego ornamentu. "Tu nie ma much!" - z najwyższym osłupieniem dokonuje nagłego odkrycia bohater Mrożka. Moje pytanie: Kiedy ostatnio jakiegoś nieśmiałego człowieka na oczy widziałem? - też jest nagłe i epifaniczne. Kiedy ja - do stu piorunów, ostatnio z kimś nieśmiałym, ale nieśmiałym z prawdziwego zdarzenia, z kimś na wskroś nieśmiałym - miałem styczność? Myślę, myślę i uświadamiam sobie, że dawno.</p>
+        <p xml:id="p-2">Dawno, chyba ze trzydzieści lat temu, na praktykach robotniczych w mieście Chrzanowie mieszkał z nami na kwaterze kolega Zenek Michalski i on, przynajmniej na oko, sprawiał wrażenie człowieka bardzo nieśmiałego: mało mówił, uśmiechał się dyskretnie, starał się zajmować swoją osobą jak najmniej miejsca, ukradkiem czytał pismo "Mówią wieki". Tak. O Zenku Michalskim z całą pewnością da się powiedzieć, że był nieśmiały. Ale z drugiej strony przypominam sobie, że przecież razem z nami na tej samej kwaterze mieszkał też Bronek Wildstein, a Bronek Wildstein już wtedy budził pewne onieśmielenie, we wszystkich budził onieśmielenie, a w Zenku pewnie budził onieśmielenie specjalne. Czyli co? Nie ma nieśmiałości samej w sobie, jest jedynie nieśmiałość wynikająca z jakiegoś onieśmielenia? A teraz nie ma nieśmiałości i nie widuje się ludzi nieśmiałych, bo nic prawdziwie onieśmielającego nie ma? Jak nie ma nic onieśmielającego, to jaki ze mnie kapitan?</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

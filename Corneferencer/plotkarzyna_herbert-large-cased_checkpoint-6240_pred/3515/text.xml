@@ -1,0 +1,13 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Twórczość malarska J. Łydżby (oleje, akwarela) jest szczególnie frapująca z uwagi na kolorystykę i dominujące motywy. Artysta używa czystych kolorów, nie łamie ich, nie miesza barw. Kolorystyczne zestawienia, mimo że intensywne, są jednak estetycznie wyszukane. Na jego obrazach znajdujemy sceny alegoryczne, zabarwione mistyką, pojawiają się również zwierzęta, postacie ludzkie, anioły, samoloty, okręty, samochody, często z nutą zabawnej przewrotności. To interesujące malarstwo ma żywy odbiór, głownie w stolicy. Prace artysty wystawiane są w galerii "Art" na Krakowskim Przedmieściu i mają licznych nabywców. Okazuje się, że ze sztuki można żyć. - Tak, ja żyję głównie z malarstwa, mam bardzo dobrego marszanda w Warszawie. Stolica jest zresztą miejscem specyficznym, tam dużo ludzi interesuje się sztuką, kolekcjonuje dzieła sztuki, kupuje obrazy na prezenty - mówi J. Łydżba.</p>
+        <p xml:id="p-2">Pytany o inspiracje uśmiecha się. - O, to mnogość, Trudno o tym mówić, bo, począwszy od sztuki pompejańskiej, przez gotyk, barok, po współczesność, wszystko stanowi inspirację. Artysta cały czas inspiruje się obrazami innych artystów, to jest taki pokarm - dodaje malarz. Jego ulubionymi twórcami są: Giotto, Fra Angelico, Schiele.</p>
+        <p xml:id="p-3">Wyczulony na estetykę otoczenia, dostrzega mankamenty Częstochowy: zaniedbane Aleje, dziury w chodnikach, chaos reklam, nowopowstałe architektoniczne potworki. Brak kina w tak dużym, akademickim ośrodku uważa za skandal. Mimo to ma do swego miasta sentyment. Tu spędził większą część życia, tutaj mieszka, ma rodzinę, pracuje, tworzy. Interesują go problemy mieszkańców, a szczególnie losy Huty "Częstochowa", bo dzięki niej miasto rozwijało się przez wiele, wiele lat. Z pracy w przemyśle hutniczym żyli ludzie, to kształtowało ich swoistą mentalność, wpływało na charakter miasta.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

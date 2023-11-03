@@ -1,0 +1,15 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Śnić o pulsujących życiem ulicach, gęstych lasach, rozległym niebie, a przecież właśnie na to liczył. Czyżby te kolejne odsiadki z wolna podcięły skrzydła jego wyobraźni?</p>
+        <p xml:id="p-2">Kiedy za okratowanymi drzwiami znów ujrzał twarz strażnika, spojrzał na niego niechętnie; ta jego nadęta mina jakby skuwała go niezliczonymi łańcuchami. Z bólem przyjrzał się twardej rzeczywistości – więżącym go granitowym murom. Leżał tak, wyciągając ręce i nogi. Co jeszcze mógł robić poza spaniem? Sen zapewni mu wystarczająco dużo nieograniczonych możliwości. No to spać!</p>
+        <p xml:id="p-3">Tuż przed zaśnięciem usłyszał ćwierkanie – był to zapewne uległy świergot ptaka zamkniętego w klatce. Brzmiał jednak bardzo słodko i Harry wolał wyobrażać sobie ptaszynę odpoczywającą na gałęzi gęsto pokrytej listowiem i wsłuchiwać się w szum trzepoczących na wietrze piór.</p>
+        <p xml:id="p-4">Następnego dnia znalazł się już wśród drzew – był to teren niedaleko za miastem. Cieszył się, że jego wyobraźnia jeszcze się nie wyczerpała. Pomyślał jednak o umowie. Strażnik obiecał ucztę. W rzeczy samej, w brzuchu zaburczało Harry’emu z głodu. Potarł brodę i postanowiwszy skorzystać z okazji do napełnienia żołądka, ruszył w kierunku miasta.</p>
+        <p xml:id="p-5">Po jednej stronie bramy wisiał kolejny list gończy z jego opisem; wysokość nagrody wzrosła już dwukrotnie, ale żołnierz przy wejściu sprawdzał tylko opuszczających miasto, bo kto by pomyślał, że zbiegły więzień mógłby sam pchać się w sidła. Harry ruszył prosto do domu strażnika. Poczuł napływającą z niego woń mięsa – strażnik demonstrował właśnie swoje umiejętności kulinarne.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

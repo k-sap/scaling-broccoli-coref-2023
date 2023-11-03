@@ -1,0 +1,14 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Shawn Fanning, który wymyślił Napstera, nie traci optymizmu. "Wierzymy, że technologia wykorzystywana przez Napstera może pomóc wszystkim: artystom, konsumentom i przemysłowi muzycznemu - oświadczył niedawno. - Uda się wygrać dzięki nowym technologiom, jeżeli będziemy pracować nad modelami wspólnego działania - a do tego dążymy". Pozostali wspólnicy podkreślają, iż przekazywanie piosenek za pomocą serwera dla wielu mało znanych artystów jest znaczącą formą promocji.</p>
+        <p xml:id="p-2">Noah Stone, dyrektor amerykańskiego stowarzyszenia Artists Against Piracy (artyści przeciw piractwu), próbuje szukać złotego środka: "Musimy znaleźć sposób, by dać fanom to, czego potrzebują, czyli szybki i prosty dostęp do muzyki za pomocą Internetu. O ile Napster jako technologia wzbudzał szacunek, o tyle Napster jako firma wykazał całkowity brak respektu dla artystów, którzy tworzą te utwory".</p>
+        <p xml:id="p-3">Przed zarzutem piractwa Napster broni się twierdząc, że witryna ma na celu jedynie wymianę utworów pomiędzy użytkownikami Internetu, jest więc czymś w rodzaju "biura pośrednictwa". "To tak jakby zamknąć Pocztę Polską za to, że umożliwia przesyłanie sobie kompaktów" - ironizuje jeden z internautów.</p>
+        <p xml:id="p-4">Po ogłoszeniu wyroku część użytkowników Napstera rozpoczęła kontrofensywę. Dzwonili do sędzi Patel, by tłumaczyć jej, jak ważny dla wszystkich jest ten program. Wzywają do bojkotu RIAA i grupy Metallica, włamują się na stronę zespołu i dorysowują wykonawcom wąsy. Pojawiło się hasło buycottu, czyli kupowania w sklepach wyłącznie płyt artystów popierających działalność firmy. Nawet jeśli uda się powstrzymać Napstera, to i tak istnieje wiele innych programów, których z braku jednego centralnego serwera nie można zwyczajnie wyłączyć. Młodszy krewniak Napstera, GNUtell, bezpośrednio łączy dwóch chcących wymienić pliki muzyczne użytkowników. Zatrzymanie jego działań oznaczałoby wykasowanie go z każdego osobistego komputera na świecie, co jest niewykonalne.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

@@ -1,0 +1,14 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">- Rózeg! - ryknął wreszcie nieludzkim głosem. - Panie! Aaaa!... Ulituj się! - jęczeli niewolnicy. Lecz Petroniusz podniósł się z wyrazem niesmaku w twarzy.</p>
+        <p xml:id="p-2">- Chodź, Chryzotemis! - rzekł. - Jeśli chcesz patrzeć na mięso, każę odbić sklep rzeźnika na Karynach.</p>
+        <p xml:id="p-3">I wyszedł z atrium, w całym zaś domu, ubranym w zieleń bluszczów i gotowym do uczty, rozległy się po chwili jęki i świst rózeg, który trwał niemal do rana.</p>
+        <p xml:id="p-4">Tej nocy Winicjusz nie kładł się wcale. W czas jakiś po odejściu Petroniusza, gdy jęki smaganych niewolników nie mogły ukoić ani jego bólu, ani wściekłości, zebrał gromadę innych sług i na ich czele późną już nocą wypadł na poszukiwanie Ligii. Zwiedził dzielnicę eskwilińską, potem Suburę, Vicus Sceleratus i wszystkie przyległe zaułki. Po czym obszedłszy Kapitol, przez most Fabrycjusza przedostał się na wyspę, za czym, przebiegł część miasta zatybrzańską. Lecz była to gonitwa bez celu, gdyż sam nie miał nadziei odnalezienia Ligii i jeśli jej szukał, to głównie dlatego, by zapełnić czymkolwiek noc straszną. Jakoż wrócił do domu dopiero o świtaniu, gdy już w mieście poczęły się zjawiać wozy i muły przekupniów jarzyn i gdy piekarze otwierali już sklepy. Wróciwszy kazał uprzątnąć ciało Gula, którego nikt nie śmiał tknąć dotąd, następnie tych niewolników, którym odbito Ligię, kazał wysłać do wiejskich ergastulów, co było karą straszniejszą niemal od śmierci, wreszcie, rzuciwszy się na wysłaną ławę w atrium, począł bezładnie rozmyślać, jakim sposobem odnajdzie i zabierze Ligię.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

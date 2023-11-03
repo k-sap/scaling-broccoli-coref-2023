@@ -1,0 +1,23 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Jeżeli twoje dochody są nieznacznie wyższe (to przekroczenie nie może być jednak wyższe niż wysokość dodatku), również możesz liczyć na dodatek. Zostanie on tylko pomniejszony o przekraczającą kwotę.</p>
+        <p xml:id="p-2">Metry na osobę</p>
+        <p xml:id="p-3">Przyznanie dodatku zależy także od powierzchni użytkowej mieszkania w przeliczeniu na liczbę osób wspólnie zamieszkujących. Na przykład:</p>
+        <p xml:id="p-4">· dla 1 osoby wynosi ona 35 mkw.</p>
+        <p xml:id="p-5">· dla 2 osób – 40 mkw.</p>
+        <p xml:id="p-6">· dla 4 osób – 65 mkw.</p>
+        <p xml:id="p-7">Jeżeli rodzina liczy więcej osób, to dla każdej kolejnej zwiększa się powierzchnię użytkową o 5 metrów kwadratowych. Gdy mieszkasz z osobą niepełnosprawną – poruszającą się na wózku inwalidzkim lub wymagającą osobnego pokoju – powierzchnia zwiększa się o 15 mkw.</p>
+        <p xml:id="p-8">Powyższe normy mogą być przekroczone o 30 lub 50 procent – jeśli pokoje i kuchnia zajmują nie więcej niż 60 procent powierzchni użytkowej. Jeśli nie spełnisz tego warunku, w świetle prawa nie otrzymasz dodatku, nawet gdy będziesz osiągał niskie dochody.</p>
+        <p xml:id="p-9">Płać na bieżąco</p>
+        <p xml:id="p-10">Nie możemy jednak liczyć na to, że gmina pokryje za nas całość ponoszonych kosztów utrzymania mieszkania.</p>
+        <p xml:id="p-11">– Przy zerowych i niskich dochodach jest to 70 proc. wydatków przypadających na powierzchnię lokalu – mówi Zofia Modzelewska z działu dodatków mieszkaniowych Miejskiego Ośrodka Pomocy Społecznej we Wrocławiu.</p>
+        <p xml:id="p-12">Jeśli już otrzymasz dodatek, to musisz pilnować, aby na bieżąco opłacać różnicę, jaka została ci do zapłacenia. Musisz to robić regularnie.</p>
+        <p xml:id="p-13">– Jeśli od zarządcy otrzymamy informację, że osoba przez dwa miesiące zalega z opłatami, zawieszamy dopłatę. Dopiero po uregulowaniu zaległości wznawiamy wypłatę – mówi Zofia Modzelewska.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

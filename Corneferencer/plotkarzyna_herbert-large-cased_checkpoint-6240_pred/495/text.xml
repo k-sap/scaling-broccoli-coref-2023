@@ -1,0 +1,32 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">sp0: hm hm.</p>
+        <p xml:id="p-2">sp2: no wiesz co !</p>
+        <p xml:id="p-3">sp0: to jest na przykład moje ukochane dziecko.</p>
+        <p xml:id="p-4">sp2: to śliczne jest. bardzo ładne.</p>
+        <p xml:id="p-5">sp0: i ktoś mi. w ogóle w telewizji naszej pabianickiej była ta reklama. i jakiś cham ! jakiś wziął dużą tablicę zrobił mój pomysł skopiował i jeszcze sobie literkę er wstawił. taka byłam wściekła.</p>
+        <p xml:id="p-6">sp1: tak ?</p>
+        <p xml:id="p-7">sp0: no..</p>
+        <p xml:id="p-8">sp2: ty robisz tą rozkł rozkład taki graficzny. co jak ?</p>
+        <p xml:id="p-9">sp0: no. na początku to Jacek robił. a teraz to.</p>
+        <p xml:id="p-10">sp2: no ty jesteś zdolna ! no bardzo to ładne !</p>
+        <p xml:id="p-11">sp1: no pewnie.</p>
+        <p xml:id="p-12">sp2: Jezu ! tak się widzi w ogóle i człowiek tak się nie myśli. wszędzie są te ogłoszenia.</p>
+        <p xml:id="p-13">sp0: ja to teraz jak wjeżdżam do jakiegoś miasta</p>
+        <p xml:id="p-14">sp2: co ty !</p>
+        <p xml:id="p-15">sp0: to patrzę na słupy.</p>
+        <p xml:id="p-16">sp1: no właśnie jak wyjedziemy tutaj to też patrzałam. i ty masz na głównej ulicy ?</p>
+        <p xml:id="p-17">sp2: szok !..</p>
+        <p xml:id="p-18">sp1: tak że Kasia widzisz. a nie bo w masz tego nie ? w masz ?</p>
+        <p xml:id="p-19">sp0: wiesz co</p>
+        <p xml:id="p-20">sp1: a myślałaś. myślałaś o tym ?</p>
+        <p xml:id="p-21">sp0: kiedyś myśleliśmy o są bardzo duże opłaty. bo to jeszcze oprócz tego że do zakładu energetycznego to oprócz tego się płaci za dzierżawę pasa drogowego. i płacisz tak. generalnej dyrekcji dróg. właśnie z nią mam problemy. do powiatu do urzędu miasta. bo każda droga do kogo innego należy.</p>
+        <p xml:id="p-22">sp1: no jakie problemy ? co oni teraz stwarzają ? że co podlega ? że.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

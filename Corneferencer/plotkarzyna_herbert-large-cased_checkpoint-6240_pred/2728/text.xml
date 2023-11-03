@@ -1,0 +1,14 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">W wielu firmach kierowcy wykorzystują samochody firmowe do celów prywatnych. W przypadku mniejszych firm kontrola wydatków i sposobu wykorzystywania pojazdów należy do niezbędnych czynności. Nawet gdy w miejscu pracy budowana jest atmosfera zaufania, to nie jest tajemnicą, że pracowników należy obejmować stałą kontrolą. Rozwiązaniem może okazać się zamontowanie pluskwy GPS (Data Logger). Urządzenia te zapisują przebytą trasę. Następnie trasę można odczytać i tym samym skontrolować kierowcę.</p>
+        <p xml:id="p-2">Zastosowanie Data Loggerów jest oczywiście ograniczone, gdyż często samochody służbowe są traktowane jako dodatek motywacyjny. W takich przypadkach nie ma sensu kontrolować pracowników. Data Loggery mogą jednak służyć do nadzoru dostawców i wykorzystania pojazdu służbowego w czasie pracy.</p>
+        <p xml:id="p-3">Zamontowanie pluskwy GPS przyczynia się do zmniejszenia miesięcznych przebiegów nawet do 20 proc. Kryzys to dobry okres na wprowadzanie innowacji. Szczególnie takich Ø, które w dłuższym okresie doprowadzają do dużych oszczędności. Jak to możliwe? GPS pozwala z dużym prawdopodobieństwem przewidzieć koszty transportowe, uwzględniając zmienne ceny paliwa, opłaty drogowe oraz prognozować dodatkowe koszty, wynikające z niedostosowanej i niedoinwestowanej infrastruktury transportowej. Na przykład dla branży LTS, podobnie dla firm działających na rynku pocztowym, dostarczenie przesyłki na czas i jej stały monitoring wpisuje się w działalność operacyjną. Dlatego też rozwiązania GPS są obecnie składnikiem równowagi konkurencyjnej. Ø Standardem, a nie wartością dodaną.</p>
+        <p xml:id="p-4">Duża część małych i średnich przedsiębiorstw wychodzi z założenia, że może się obejść bez monitoringu, ponieważ to często bardzo złożone narzędzie jest dedykowane przede wszystkim administratorom naprawdę dużych flot. Nic bardziej mylnego. Obecnie firmy dysponujące nawet niewielkim taborem bez żadnego problemu znajdą na rynku oprogramowanie, które będzie można dostosować do ich profilu. Producenci systemów dopasowują ofertę do potrzeb klientów. Dostępne aplikacje są na tyle elastyczne, że po odpowiednim przygotowaniu równie dobrze mogą być stosowane we flotach liczących kilka tysięcy pojazdów, jak i w firmach z kilkunastoma samochodami.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

@@ -1,0 +1,14 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Nie przywiązywałem wagi do jej słów, choć je zanotowałem gdzieś tam w zwojach mózgowych. Od tej chwili zacząłem jednak baczniej przyglądać się otoczeniu, gdyż i mnie wydawało się czasem przez mgnienie, że niektóre sceny już przeżyłem, niektóre miejsca widziałem. Ale róże rosną wszędzie, co miałoby być dziwnego w tym, że Annie zakwitnięcie naszych róż przypomniało jakiś miniony fakt? Jej spostrzeżenie jednak mnie zasmuciło: pragnąłem mieć coś wyjątkowego, niepowtarzalnego. Tym razem najstarszy syn, uczony filolog, pocieszył mnie:</p>
+        <p xml:id="p-2">- Tato, nie martw się. Przeczytaj Małego Księcia, przekonasz się, że wasze róże, choć może kapryśne, i tak są wyjątkowe, bo coś dla nich zrobiliście. Wasze róże są oswojone, jak róża Księcia.</p>
+        <p xml:id="p-3">Przeczytałem i naprawdę uspokoiłem się na długi czas.</p>
+        <p xml:id="p-4">Pokoje umeblowaliśmy dość skromnie, lecz wygodnie. Wszystko musiało mieć sens i praktyczne zastosowanie. O to zresztą zadbała już Anna. Pozwoliłem sobie tylko na jeden wyjątek: postanowiłem nie zagracać mojego wielkiego pokoju na pięterku. Pośrodku umieściłem wąski tapczan, na parapecie okna zaś białą doniczkę z geranium. Rodzina kręciła nosem na taką rozrzutność miejsca, byłem jednak stanowczy: nie chcę niczego więcej. Przepraszam, naprzeciw okna zawiesiłem jeszcze pod odpowiednim kątem duże lustro. W ten sposób ogród "wszedł" do domu.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

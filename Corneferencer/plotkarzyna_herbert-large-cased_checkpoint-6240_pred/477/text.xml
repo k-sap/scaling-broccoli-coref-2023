@@ -1,0 +1,25 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">PLENER. DZIEŃ. CMENTARZ. TERESA, KACPER, STARUSZKA.</p>
+        <p xml:id="p-2">Teresa odeszła już kilkadziesiat metrów. Odwraca się.</p>
+        <p xml:id="p-3">Subiektyw Teresy: Kacper wyjmuje z torebki znicz. Z kieszeni płaszcza Ø zapalniczkę. Stawia znicz na grobie, ale wiatr nieustannie gasi mu płomień zapalniczki. Kacper przekłada zapalniczkę do chorej ręki ( prawej) i próbuje zapalić znicz, przystawiając go do zaplniczki. Bez rezultatu. Po chwili zmienia rękę. Stara się, całym ciałem osłonić od wiatru płomień zapalniczki.</p>
+        <p xml:id="p-4">Zbliżenie Teresy, która bardzo chciałaby podejść do Kacpra i mu pomóc, ale wie, że jest to najgorsza rzecz jaką mogłaby zrobić.</p>
+        <p xml:id="p-5">Subiektyw Teresy:</p>
+        <p xml:id="p-6">Kacper zauważa staruszkę, która kilka grobów dalej sprząta grób. Kacper podchodzi do niej z nie zapalonym zniczem. Rozmawia z nią przez chwilę. Staruszka pomaga Kacprowi zapalić znicz. Kacper wraca do grobu z płonącym zniczem, osłaniając go od wiatru całym sobą.</p>
+        <p xml:id="p-7">Teresa, uśmiecha się do siebie. Patrzy jeszcze przez chwilę na Kacpra i odchodzi w kierunku cmentarnej bramy ( zależne od możliwości inscenizacyjnych).</p>
+        <p xml:id="p-8">Cięcie</p>
+        <p xml:id="p-9">Scena bezp. kont.</p>
+        <p xml:id="p-10">PLENER. DZIEŃ. PRZY GROBIE PAWŁA. KACPER.</p>
+        <p xml:id="p-11">Kacper stoi nad grobem Pawła. Patrzy na tańczący na wietrze płomień znicza.</p>
+        <p xml:id="p-12">KACPER</p>
+        <p xml:id="p-13">Jak tam jest stary? Pewno cisza i spokój.</p>
+        <p xml:id="p-14">Kacper wyjmuje z kieszeni płaszcza srebrną piersiówkę. Bierze mały łyk.</p>
+        <p xml:id="p-15">Chcesz? Wy tam pewno macie zakaz, co?</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

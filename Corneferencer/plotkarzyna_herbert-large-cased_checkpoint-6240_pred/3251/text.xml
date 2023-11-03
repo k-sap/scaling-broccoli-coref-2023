@@ -1,0 +1,14 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Najłatwiejszym sposobem sprawdzenia tych przewidywań było powtórzenie eksperymentu Tajfela i sprawdzenie, czy ludzie, którzy w nim uczestniczyli, mają w efekcie wyższy poziom samooceny niż ci, którzy w tym czasie siedzieli w oddzielnej sali i czytali gazetę. Okazało się, że ludzie, których skłoniono do przystąpienia do grupy i zaangażowania się w faworyzowanie jej, byli w efekcie znacznie bardziej zadowoleni z siebie niż pozostali. Grupa daje nam więc wysoką samoocenę.</p>
+        <p xml:id="p-2">Czy znaczy to, że ludzie o niskiej samoocenie będą szczególnie przywiązani do swoich grup? Niekoniecznie. Jeniffer Crocker, która badała to zagadnienie, dowiodła, że ludzie o niskiej samoocenie są bardziej skłonni do uprzedzeń i negatywnego oceniania innych grup, lecz trudno udowodnić ich większe przywiązanie do własnej grupy. Niska samoocena zdaje się prowadzić do niechęci wobec wszystkich grup - zarówno obcych, jak i do tej, którą samemu się wybrało. Gdy wątpimy w swoje walory, wówczas cały świat wydaje się nam niesatysfakcjonujący. Możliwe jednak, że gdy w tej sytuacji ktoś zaproponuje nam wejście do grupy - wówczas nasze przekonania na własny temat ulegną znaczącej poprawie.</p>
+        <p xml:id="p-3">GRUPA daje pewność</p>
+        <p xml:id="p-4">Kolejną niezwykle istotną potrzebą, która kieruje naszymi zachowaniami i ocenami, jest potrzeba pewności. Każdy człowiek chciałby żyć w świecie przewidywalnym, mieć poczucie kontroli nad własnym życiem i otaczającą go rzeczywistością. Nie zawsze jest to jednak możliwe. Zmieniamy często środowisko, kryzysy gospodarcze czynią nasze życie zawodowe zupełnie nieprzewidywalnym, a wojny i kryzysy polityczne podważają poczucie pewności we własnym kraju. Skąd zatem przynależność grupowa? Z poczucia niepewności - odpowiada australijski psycholog Michael Hogg. Jego zdaniem ludzie marzą o świecie, któremu można ufać - w którym wszystko jest pod kontrolą i ma jasne znaczenie. Z tych marzeń rodzą się grupy.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

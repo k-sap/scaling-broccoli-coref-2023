@@ -1,0 +1,15 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:nkjp="http://www.nkjp.pl/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <xi:include href="PCC_header.xml"/>
+  <TEI>
+    <xi:include href="header.xml"/>
+    <text>
+      <body>
+        <p xml:id="p-1">Tylko siąść i płakać...</p>
+        <p xml:id="p-2">- Pamiętam z lat, kiedy mieliśmy w domu telewizor i radio, piękną piosenkę Edyty Geppert "Zamiast". Kiedy tak myślę nad tym, co spotkało mnie i Grzegorza, to wciąż mam wrażenie, że słowa tego utworu są właśnie o nas - mówi bezdomna od dwóch lat, 42-letnia dziś Alina Sowała ze Zduńskiej Woli.</p>
+        <p xml:id="p-3">Od 22 lat jest żoną Grzegorza. Związali się na dobre i na złe. Dobre było przez 21 lat. Teraz przyszło złe. Od 6 lat jest bez pracy. Jest matką 19-letniej Adrianny i 11-letniego Marcina. Dzieci mieszkają z jej siostrą. Sąd ustanowił ją rodziną zastępczą.</p>
+        <p xml:id="p-4">Dwa lata temu, dokładnie 17 października, do drzwi ich mieszkania w bloku przy Paderewskiego zapukał komornik. Mieli kilka godzin na opuszczenie dom. Odtąd są bezdomni. Tylko dzięki uprzejmości kolegi Grzegorza nie muszą mieszkać w lesie. Użyczył im pomieszczenia gospodarczego. Nie ma tam ani wody, ani prądu. Zimą dogrzewali się kozą na węgiel. Na niej też gotowali jedzenie.</p>
+        <p xml:id="p-5">Alina na 25 lipca ma wyznaczony termin porodu. Jeszcze nie wie, czy tym razem urodzi się chłopiec, czy dziewczynka. - Jest mi wszystko jedno. W poniedziałek byłam u doktor Grambo-Jakubowskiej. Powiedziała, że ciąża przebiega prawidłowo. Nie umiała określić płci dziecka, bo trochę się kręciło podczas USG. Dla mnie najważniejsze jest, aby urodziło się zdrowe i abyśmy, gdy przyjdzie na świat, mieli już mieszkanie socjalne od miasta - mówi przyszła mama.</p>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>
